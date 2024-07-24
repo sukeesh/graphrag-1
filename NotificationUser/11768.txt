@@ -1,0 +1,41 @@
+(317 kb)
+Reporting of Large Exposures to Central Repository of Information on Large Credits (CRILC) - UCBs
+RBI/2019-20/125
+DOR (PCB).BPD.Cir.No.7/13.05.000/2019-20
+December 27, 2019
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks
+Madam / Dear Sir,
+Reporting of Large Exposures to Central Repository of Information on Large Credits (CRILC) - UCBs
+Please refer to paragraph 2 of the Statement on Developmental and Regulatory Policies dated December 5, 2019 on ‘Primary (Urban) Co-operative Banks - Reporting to Central Repository of Information on Large Credits (CRILC)’ (
+extract enclosed
+).
+2. It has been decided that Primary (Urban) Co-operative Banks (UCBs) having total assets of ₹500 crore and above as on 31st March of the previous financial year shall report credit information, including classification of an account as Special Mention Account (SMA), on all borrowers having aggregate exposures of ₹5 crore and above with them to Central Repository of Information on Large Credits (CRILC) maintained by the Reserve Bank. Aggregate exposure shall include all fund-based and non-fund based exposure, including investment exposure on the borrower.
+3. Special Mention Account (SMA)
+Special Mention Account (SMA) is an account which is exhibiting signs of incipient stress resulting in the borrower defaulting in timely servicing of her debt obligations, though the account has not yet been classified as NPA as per the extant RBI guidelines. As early recognition of such accounts will enable banks to initiate timely remedial actions to prevent their potential slippages into NPAs, it is advised that UCBs having total assets of ₹500 crore and above as on 31st March of the previous financial year shall take necessary steps to classify loans/advances accounts as SMA, as under:
+SMA Sub-categories
+Basis for classification
+Principal or interest payment or any other amount wholly or partially overdue for
+SMA-0
+1-30 days
+SMA-1
+31-60 days
+SMA-2
+61-90 days
+In case of revolving credit facilities like cash credit, the SMA sub-categories will be as follows:
+SMA Sub-categories
+Basis for classification
+Outstanding balance remains continuously in excess of the sanctioned limit or drawing power, whichever is lower, for a period of
+SMA-1
+31-60 days
+SMA-2
+61-90 days
+4. To start with, UCBs will be required to submit CRILC Report on quarterly basis with effect from December 31, 2019. Detailed operating instructions will be issued shortly by Department of Supervision, Reserve Bank of India.
+5. UCBs should take utmost care about data accuracy and integrity while submitting the information /data on large credit to RBI, failing which penal action as per the provisions of the Banking Regulation Act, 1949 may be taken.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager
+Enclosure: As above
+Extract from the fifth Bi-monthly Monetary Policy Statement, 2019-20 announced on December 05, 2019
+2. Primary (Urban) Co-operative Banks - Reporting to Central Repository of Information on Large Credits (CRILC)
+The Reserve Bank has created a Central Repository of Information on Large Credits (CRILC) of scheduled commercial banks, all India financial institutions and certain non-banking financial companies with multiple objectives, which, among others, include strengthening offsite supervision and early recognition of financial distress. With a view to building a similar database of large credits extended by primary (urban) co-operative banks (UCBs), it has been decided to bring UCBs with assets of ₹500 crores and above under the CRILC reporting framework. Detailed instructions in this regard will be issued by December 31, 2019.

@@ -1,0 +1,25 @@
+(46 kb)
+Compilation of  R-return: Reporting under FETERS-Discontinuation of  ENC and Sch 3 to 6 file
+RBI/2014-15/151
+A.P. (DIR Series)  Circular No. 15
+July 28,  2014
+To
+All Category - I  Authorised Dealer Banks
+Madam / Sir,
+Compilation of  R-return: Reporting under FETERS-
+Discontinuation of  ENC and Sch 3 to 6 file
+Attention  of Authorised Dealers is invited to
+A. P.  (DIR Series) Circular No. 101 dated February 04, 2014
+read with
+A.P.  (DIR Series) Circular No.109 dated February 28, 2014
+in terms of which a  comprehensive IT- based system called Export Data Processing and Monitoring  System (EDPMS) has been operationalised with effect from March 01, 2014 and  facilitating AD banks to report various returns through a single platform.
+2.  It is advised that ENC and Sch. 3 to 6 file submitted under FETERS will be  discontinued with effect from first fortnight of September 2014 as the  information contained in these returns are available through EDPMS. AD banks  should ensure to report all the ENC and Sch.3 to 6 transaction data for which  export shipping bills/invoices are generated prior to march 01, 2014 by August  31, 2014. In exceptional cases after August 31, 2014, the same data may be  submitted after seeking technical support from RBI at
+email
+.
+3.  With effect from first fortnight of September 2014, only two files (Viz. BOP6  file and QE file) need to be submitted under FETERS and other guidelines  relating to FETERS data submission laid in
+A.P. (DIR Series) Circular No. 84  dated February 29, 2012
+will remain unchanged.
+4.  The directions contained in this circular have been issued under Section 10(4) and  Section 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to  permissions/ approvals, if any, required under any other law.
+Yours  faithfully,
+(B.P.Kanungo)
+Principal  Chief General Manager

@@ -1,0 +1,27 @@
+(685 kb)
+Data Format for Furnishing of Credit Information to Credit Information Companies (CICs) and other Regulatory Measures
+RBI/2014-15/184
+DNBS (PD).CC. No 407/03.10.01/2014-15
+August 20, 2014
+All Non Banking Financial Companies
+Dear Sirs,
+Data Format for Furnishing of Credit Information to Credit Information Companies (CICs) and other Regulatory Measures
+A committee to Recommend Data Format for Furnishing of Credit Information to Credit Information Companies (Chairman: Shri Aditya Puri) was constituted by the Reserve Bank of India (RBI). The Report of the Committee was placed on RBI’s website on
+March 22, 2014
+inviting comments on the recommendations of the Committee.
+2. Subsequently, the Bank issued the
+Circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June 27, 2014
+laying down instructions regarding the following:
+i) Creating Awareness about Credit Information Report (CIR);
+ii) Usage of CIR in all Lending Decisions and Account Opening;
+iii) Populating Commercial Data Records in Databases of all CICs;
+iv) Standardisation of Data Format;
+v) Constitution of a Technical Working Group;
+vi) Process of Rectification of Rejected Data;
+vii) Determining Data Quality Index,
+viii) Calibration of Credit Score and Standardising Format of CIR.
+ix) Best practices for Banks/FIs.
+3. The contents of the above Circular may be noted by NBFCs for meticulous compliance.
+Yours faithfully,
+(A. Mangalagiri)
+General Manager

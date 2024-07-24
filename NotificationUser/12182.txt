@@ -1,0 +1,750 @@
+(1777 kb)
+Master Direction – Prudential Norms on Capital Adequacy for Local Area Banks (Directions), 2021 (Updated as on April 08, 2024)
+RBI/DOR/2021-22/87
+DOR.CAP.REC.No.61/21.01.002/2021-22
+October 26, 2021
+(
+Updated as on April 08, 2024
+)
+(
+Updated as on August 11, 2022
+)
+(
+Updated as on March 31, 2022
+)
+All Local Area Banks
+Dear Sir / Madam,
+Master Direction – Prudential Norms on Capital Adequacy for Local Area Banks (Directions), 2021
+The Reserve Bank of India has, from time to time, issued several guidelines / instructions / directives to Local Area Banks on Prudential Norms on Capital Adequacy.
+2. To enable Local Area Banks to have current instructions at one place, a
+Master Direction
+, incorporating all the existing guidelines / instructions / directives on the subject, has been prepared for reference of the banks.
+3. This Direction has been issued by RBI in exercise of its powers conferred under Section 35A of the Banking Regulation Act 1949 and in exercise of all the powers enabling it in this behalf.
+Yours faithfully,
+(Usha Janakiraman)
+Chief General Manager
+RBI/DOR/2021-22/
+DOR.CAP.REC.No.61 /21.01.002/2021-22
+October 26, 2021
+Reserve Bank of India - Prudential Norms on Capital Adequacy for Local Area Banks, Directions, 2021
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949, the Reserve Bank of India, being satisfied that it is necessary and expedient in the public interest so to do, hereby, issues the Directions hereinafter specified.
+CHAPTER – I
+PRELIMINARY
+1. Short Title and Commencement.
+(a) These Directions shall be called the Reserve Bank of India (Prudential Norms on Capital Adequacy for Local Area Banks) Directions, 2021.
+(b) These directions shall come into effect from October 26, 2021.
+2. Applicability
+The provisions of these Directions shall apply to all Local Area Banks, licensed to operate in India by the Reserve Bank of India.
+3. Purpose
+This Master Direction covers instructions regarding the components of capital and the capital required to be provided for by banks for credit and market risks. These Directions serve to specify the prudential norms from the point of view of capital adequacy. Permission for LABs to undertake transactions in specific instruments/products shall be guided by the regulations, instructions and guidelines on the same issued by Reserve Bank from time to time.
+4. Definitions
+(a) In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below —
+i. “Basis Risk” is the risk that the interest rate of different assets, liabilities and off-balance sheet items may change in different magnitude.
+ii. “Credit risk” is defined as the potential that a bank's borrower or counterparty may fail to meet its obligations in accordance with agreed terms. It is also the possibility of losses associated with diminution in the credit quality of borrowers or counterparties.
+iii. “Deferred Tax Assets” shall have the same meaning as assigned under the extant Accounting Standards.
+iv. “Derivative” shall have the same meaning as assigned to it in section 45U(a) of the RBI Act, 1934.
+v. “Duration” (Macaulay duration) measures the price volatility of fixed income securities. It is often used in the comparison of the interest rate risk between securities with different coupons and different maturities. It is the weighted average of the present value of all the cash flows associated with a fixed income security. It is expressed in years. The duration of a fixed income security is always shorter than its term to maturity, except in the case of zero coupon securities where they are the same.
+vi. “Hedging” is taking action to eliminate or reduce exposure to risk
+vii. “Horizontal Disallowance” is a disallowance of offsets to required capital used in the BIS (Bank of International Settlements) Method
+1
+for assessing market risk for regulatory capital in order to calculate the capital required for interest rate risk of a trading portfolio. The BIS Method allows offsets of long and short positions. However, interest rate risks of instruments at different horizontal points of the yield curve are not perfectly correlated. Hence, the BIS Method requires that a portion of these offsets be disallowed.
+viii. “Interest rate risk” is the risk that the financial value of assets or liabilities (or inflows/outflows) will be altered because of fluctuations in interest rates.
+ix. “Long Position” refers to a position where gains arise from a rise in the value of the underlying.
+x. “Market risk” is the risk of losses in on-and off-balfance sheet positions arising from movements in market prices.
+xi. “Modified Duration” or volatility of an interest-bearing security is its Macaulay Duration divided by one plus the coupon rate of the security. It represents the percentage change in the securities' price for a 100 basis points change in yield. It is generally accurate for only small changes in the yield.
+MD = - dP /dY x 1/P
+Where, MD= Modified Duration
+P= Gross price (i.e. clean price plus accrued interest)
+dP= Corresponding small change in price
+dY = Small change in yield compounded with the frequency of the coupon payment.
+xii. “Mortgage-backed security” is a bond-type security in which the collateral is provided by a pool of mortgages. Income from the underlying mortgages is used to meet interest and principal repayments.
+xiii. “Open position” is the net difference between the amounts payable and amounts receivable in a particular instrument or commodity. It results from the existence of a net long or net short position in the particular instrument or commodity.
+xiv. “Short position” refers to a position where gains arise from a decline in the value of the underlying. It also refers to the sale of a security in which the seller does not have a long position.
+xv. “Vertical Disallowance” in the method for determining regulatory capital necessary to cushion market risk is a reversal of the offsets of a general risk charge of a long position by a short position in two or more securities in the same time band in the yield curve where the securities have differing credit risks.
+CHAPTER – II
+COMPOSITION OF REGULATORY CAPITAL
+5.
+Banks are required to maintain a minimum Capital to Risk Weighted Assets Ratio (CRAR) of 9 per cent on an ongoing basis.
+6. Components of Capital
+The capital funds shall consist of the sum of Tier I Capital and Tier II Capital.
+7. Elements of Tier I Capital:
+Tier I capital shall consist:
+Paid-up capital (ordinary shares), statutory reserves,
+AFS reserve
+2
+, and other disclosed free reserves, if any;
+Perpetual Non-cumulative Preference Shares (PNCPS) eligible for inclusion as Tier I capital;
+Perpetual Debt Instruments (PDI) eligible for inclusion as Tier I capital; and
+Capital reserves representing surplus arising out of sale proceeds of assets.
+8.
+Perpetual Non-Cumulative Preference Shares (PNCPS) shall be eligible for inclusion as Tier I capital subject to compliance with the minimum regulatory requirements specified in
+Annex 1
+. Perpetual Debt Instruments (PDI) shall be eligible for inclusion as Tier I capital subject to compliance with the minimum regulatory requirements specified in
+Annex 2
+.
+9.
+Banks may include quarterly / half yearly profits for computation of Tier I capital only if the quarterly / half yearly results are audited by statutory auditors and not when the results are subjected to limited review.
+10. Elements of Tier II Capital
+Tier II capital shall consist of undisclosed reserves, revaluation reserves, general provisions and loss reserves, hybrid debt capital instruments, subordinated debt and investment reserve account as explained hereunder:
+(a) Undisclosed Reserves
+Undisclosed Reserves shall be included in Tier II capital, if they represent accumulations of post-tax profits and are not encumbered by any known liability and shall not be routinely used for absorbing normal loss or operating losses.
+(b) Revaluation Reserves
+Revaluation Reserves shall be subject to a discount of 55 per cent while determining their value for inclusion in Tier II capital. Such reserves shall be reflected on the face of the Balance Sheet as Revaluation Reserves.
+(c) General Provisions and Loss Reserves
+General Provisions and Loss Reserves shall be included in Tier II capital provided they are not attributable to the actual diminution in value or identifiable potential loss in any specific asset and are available to meet unexpected losses. Adequate care shall be taken to ensure that sufficient provisions have been made to meet all known losses and foreseeable potential losses before considering general provisions and loss reserves to be part of Tier II capital.
+General provisions and loss reserves shall be admitted up to a maximum of 1.25 percent of total risk weighted assets.
+General provisions/loss reserves shall include:-
+(a) 'Floating Provisions' held by the banks, which is general in nature and not made against any identified assets.
+(b) Excess provisions which arise on sale of NPAs
+(c) General provisions on standard assets
+(d) Investment Reserve Account as disclosed in Schedule 2- Reserves & Surplus under the head “Revenue and Other Reserves” in the Balance Sheet
+(e) Incremental provisions in respect of unhedged foreign currency exposures
+3
+(d) Hybrid Debt Capital Instruments
+The following instruments shall be eligible for inclusion in Upper Tier II capital:
+(i) Debt capital instruments subject to compliance with minimum regulatory requirements specified in
+Annex 3
+.
+(ii) Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS) subject to compliance with minimum regulatory requirements specified in
+Annex 4
+.
+(e) Subordinated Debt
+Rupee-subordinated debt shall be eligible for inclusion in Tier II capital, subject to the terms and conditions specified in the
+Annex 5
+.
+11. Swap Transactions
+Banks shall not enter into swap transactions involving conversion of fixed rate rupee liabilities in respect of Tier I/Tier II bonds into floating rate foreign currency liabilities.
+12. Deductions from computation of Capital funds
+(i) Deductions from Tier I Capital
+The following deductions shall be made from Tier I capital:
+(a) Intangible assets and losses in the current period and those brought forward from previous periods
+(b) Deferred tax assets (DTA)
+(c) The net unrealised gains arising on fair valuation of Level 3 financial instruments recognised in the Profit and Loss Account or in the AFS-Reserve
+4
+(ii) Deductions from Tier I and Tier II Capital
+Equity/non-equity investments in subsidiaries: The investments of a bank in the equity as well as non-equity capital instruments issued by a subsidiary, which are reckoned towards its regulatory capital as per norms prescribed by the respective regulator, shall be deducted at 50 per cent each, from Tier I and Tier II capital of the parent bank, while assessing the capital adequacy of the bank on standalone basis.
+13. Limit for Tier II elements
+Tier II elements shall be limited to a maximum of 100 per cent of total Tier I elements for the purpose of compliance with the norms.
+14. Norms on cross holdings
+(i) A bank’s / Financial Institution’s (FI’s) investments in all types of instruments listed at paragraph 14(ii) below, which are issued by other banks / FIs and are eligible for capital status for the investee bank / FI, shall be limited to 10 per cent of the investing bank's capital funds (Tier I plus Tier II capital).
+(ii) Banks' / FIs' investment in the following instruments shall be included in the prudential limit of 10 per cent referred to at paragraph 14(i) above.
+Equity shares;
+Preference shares eligible for capital status;
+Perpetual Debt Instruments eligible as Tier I capital;
+Subordinated debt instruments;
+Debt capital Instruments qualifying for Upper Tier II status ; and
+Any other instrument approved as in the nature of capital.
+(iii) Banks / FIs shall not acquire any fresh stake in a bank's equity shares, if by such acquisition, the investing bank's / FI's holding exceeds 10 per cent of the investee bank's equity capital.
+(iv) Investments in the instruments issued by banks / FIs which are listed at paragraph 14(ii) above, which are not deducted from capital of the investing bank/ FI, shall attract 100 per cent risk weight for credit risk for capital adequacy purposes.
+(v) An indicative list of institutions which may be deemed to be financial institutions for capital adequacy purposes is as under:
+Banks,
+Mutual funds,
+Insurance companies,
+Non-banking financial companies,
+Housing finance companies,
+Merchant banking companies,
+Primary dealers
+(vi) The following investments shall be excluded from the purview of the ceiling of 10 per cent prudential norm prescribed in paragraph 14(i) above:
+a) Investments in equity shares of other banks /FIs in India held under the provisions of a statute.
+b) Strategic investments in equity shares of other banks/FIs incorporated outside India as promoters/significant shareholders (i.e., Foreign Subsidiaries / Joint Ventures / Associates).
+c) Equity holdings outside India in other banks / FIs incorporated outside India.
+15. Capital Charge for Subsidiaries
+A consolidated bank defined as a group of entities which include a licensed bank shall maintain a minimum Capital to Risk-weighted Assets Ratio (CRAR) as applicable to the parent bank on an ongoing basis. The parent bank shall consider the following points while computing capital funds:
+i. Banks shall maintain a minimum capital to risk weighted assets ratio of 9%. Non-bank subsidiaries shall maintain the capital adequacy ratio prescribed by their respective regulators. In case of any shortfall in the capital adequacy ratio of any of the subsidiaries, the parent shall maintain capital in addition to its own regulatory requirements to cover the shortfall.
+ii. Risks inherent in deconsolidated entities in the group shall be assessed and any shortfall in the regulatory capital in the deconsolidated entities shall be deducted (in equal proportion from Tier I and Tier II capital) from the consolidated bank's capital in the proportion of its equity stake in the entity.
+CHAPTER – III
+Capital Charge for Credit Risk
+16.
+Banks shall manage the credit risks in their books on an ongoing basis and ensure that the capital requirements for credit risks are maintained on a continuous basis, at the close of each business day. The applicable risk weights for calculation of CRAR for credit risk are specified in
+Annex 6
+.
+CHAPTER – IV
+Capital Charge for Market Risk
+17. Scope and Coverage of Capital Charge for Market Risks
+The capital charge for market risk shall cover the capital charges for interest rate related instruments in the trading book, equities in the trading book and foreign exchange risk (including gold and other precious metals) in both trading and banking books. Trading book for the purpose of capital adequacy shall include
+all instruments
+5
+that are classified as "Held for Trading" as per
+Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023 dated September 12, 2023
+. All other instruments
+6
+shall be included in the banking book and attract corresponding capital charge for credit risk (or counterparty credit risk, where applicable).
+18.
+Banks shall manage the market risks in their books on an ongoing basis and ensure that the capital requirements for market risks are maintained on a continuous basis, at the close of each business day. Banks shall also maintain strict risk management systems to monitor and control intra-day exposures to market risks.
+19. Measurement of Capital Charge for Interest Rate Risk in Trading Book other than Derivatives
+The capital charge for interest rate related instruments shall apply to the
+fair
+value of these items in bank’s trading book. The
+fair
+value shall be determined as per the extant RBI guidelines on valuation of investments. The minimum capital requirement is expressed in terms of two separate capital charges:-
+(i) Specific risk charge for each security both for short and long positions
+(ii) General market risk charge towards interest rate risk in the portfolio where long and short positions in different securities or instruments can be offset.
+In India short position is not allowed except in case of derivatives and Central Government Securities. Banks shall follow the framework specified hereunder for capital charge for both specific risk and general market risk for interest rate risk in the trading book other than derivatives.
+20.
+Specific Risk
+The capital charge for specific risk is designed to protect against an adverse movement in the price of an individual security owing to factors related to the individual issuer. The specific risk charge is graduated for various exposures under three heads: (a) claims on Government, (b) claims on banks, (c) claims on others as specified in
+Annex 7
+.
+21.
+General Market Risk
+(a) The capital charge for general market risk is designed to capture the risk of loss arising from changes in market interest rates. The capital charge shall be the sum of three components:
+the net short ( short position is not allowed in India except in derivatives and Central Government Securities) or long position in the whole trading book;
+a small proportion of the matched positions in each time-band (the “vertical disallowance”); and
+a larger proportion of the matched positions across different time-bands (the “horizontal disallowance”).
+(b) Banks shall adopt the standardized duration method for computation of capital charge for market risk. Banks shall be required to measure the general market risk charge by calculating the price sensitivity (modified duration) of each position separately. The mechanics shall be as follows:
+first calculate the price sensitivity (modified duration) of each instrument;
+next apply the assumed change in yield to the modified duration of each instrument between 0.6 and 1.0 percentage points depending on the maturity of the instrument as specified in
+Annex 8
+;
+slot the resulting capital charge measures into a maturity ladder with the fifteen time bands as specified in
+Annex 8
+;
+subject long and short positions in each time band to a 5 per cent vertical disallowance designed to capture basis risk; and
+carry forward the net positions in each time-band for horizontal offsetting subject to the disallowances specified in
+Annex 9
+.
+22. Capital Charge for Interest Rate Derivatives
+The measurement of capital charge for market risk shall include all interest rate derivatives and off-balance sheet instruments in the trading book, which react to changes in interest rates (eg. Forward rate agreements, other forward contracts, etc.) and derivatives entered into for hedging trading book exposures. The details of measurement of capital charge for interest rate derivatives are specified in
+Annex 10
+.
+23. Measurement of Capital Charge for equities in the trading book
+(a) Capital charge for equities in the trading book shall be applied to all instruments that exhibit market behavior similar to equities but not to non-convertible preference shares (which are covered by the interest rate risk requirements). The instruments covered include equity shares, whether voting or non-voting, convertible securities that behave like equities, such as units of mutual funds, and commitments to buy or sell equity. The capital charge for equities shall apply to the
+fair
+value of these items in the bank’s trading book.
+Capital charge for specific risk (akin to credit risk) shall be 11.25%. Specific risk shall be computed on the banks’ gross equity positions (the sum of all long equity positions and of all short equity positions-short equity position is, however, not allowed for banks in India). The general market risk charge shall be 9% on the gross equity positions.
+(b) Investments in shares and units of Venture Capital Funds (VCFs) shall be assigned 150% risk weight for measuring the credit risk when these are held under banking book. When these are held under or transferred to trading book, the capital charge for specific risk component of the market risk shall be fixed at 13.5% to reflect the risk weight of 150%.
+The charge for general market risk component shall be at 9% as in the case of other equities.
+24. Measurement of Capital Charge for Foreign Exchange and Gold Open Positions
+Foreign exchange open positions and gold open positions shall be risk weighted at 100%. Capital charge for foreign exchange and gold open positions (limits or actual whichever is higher) shall attract capital charge at 9%.
+25. Aggregation of Capital Charge for Market Risks
+The capital charges for specific risk and general market risk shall be computed separately before aggregation. For computing the total capital charge for market risks, the calculations shall be plotted in the proforma as per
+Table 1
+below.
+Table-1: Total Capital Charge for Market Risk
+(₹ crore)
+Risk Category
+Capital charge
+I. Interest Rate (a+b)
+a. General market risk
+• Net position (parallel shift)
+• Horizontal disallowance (curvature)
+• Vertical disallowance (basis)
+b. Specific risk
+II. Equity (a+b)
+a. General Market Risk
+b. Specific Risk
+III. Foreign Exchange & Gold
+IV. Total capital charge for market risks (I+II+III)
+26. Computation of Capital available for Market Risk:
+Capital required for supporting credit risk shall be deducted from total capital funds to arrive at capital available for supporting market risk. (Refer
+Annex 11
+for illustration).
+27. Unhedged Foreign Currency Exposures
+7
+:
+Exposures to entities with unhedged foreign currency exposures shall attract incremental capital requirements (i.e., over and above the present capital requirements) as under:
+Potential Loss/EBID (%)
+Incremental Capital Requirement
+Up to 75 per cent
+0
+More than 75 per cent
+25 percentage point
+8
+increase in the risk weight
+CHAPTER – V
+Calculation of Total Risk-Weighted Assets and Capital Ratio
+28.
+The following steps shall be followed for calculation of total risk weighted assets and capital ratio:
+i)
+Compute the risk weighted assets for credit risk in the banking book and for counterparty credit risk on all OTC derivatives.
+ii)
+Convert the capital charge for market risk to notional risk weighted assets by multiplying the capital charge arrived at in
+Table 1
+above, by 100 ÷ 9 [the present requirement of CRAR is 9% and hence notional risk weighted assets are arrived at by multiplying the capital charge by (100 ÷ 9)]
+iii)
+Add the risk-weighted assets for credit risk as at (i) above and notional risk-weighted assets of trading book as at (ii) above to arrive at total risk weighted assets for the bank.
+iv)
+Compute capital ratio on the basis of regulatory capital maintained and risk-weighted assets.
+29. Worked out Examples:
+Two examples for computing capital charge for market risk and credit risk are given in
+Annex 12
+.
+CHAPTER – VI
+REPEAL AND OTHER PROVISIONS
+30.
+With the issue of these directions, the instructions / guidelines contained in the following circulars issued by the Reserve Bank stand repealed, insofar as their applicability to Local Area Banks is concerned:
+(i) DBOD.No.BP.BC.9/21.01.002/94 dated February 8, 1994 on Capital Adequacy measures
+(ii) DBOD.No.BP.BC.99/21.01.002/94 dated August 24, 1994 on Capital Adequacy Measures
+(iii) DBOD.No.BP.BC.13/21.01.002/96 dated February 8, 1996 on Capital Adequacy Measures
+(iv) DBOD.No.BP.BC.119/21.01.002/98 dated December 28, 1998 on Monetary & Credit Policy Measures - Capital Adequacy Ratio - Risk Weight on Banks' Investments in Bonds / Securities Issued by Financial Institutions
+(v) DBOD.No.BP.BC.5/21.01.002/98-99 dated February 8, 1999 on Issue of Subordinated Debt for Raising Tier II Capital
+(vi) DBOD.No.BP.BC.87/21.01.002/99 dated September 8, 1999 on Capital Adequacy Ratio - Risk Weight on Banks' Investments in Bonds / Securities Issued by Financial Institutions
+(vii)
+DBOD.BP.BC.61/21.01.002/2004-05 dated December 23, 2004
+on Mid-Term Review of the Annual Policy Statement for the year 2004-05. Risk weight on housing loans and consumer credit
+(viii)
+DBOD.No.BP.BC.21/21.01.002/2005-06 dated July 26, 2005
+on Risk weight on Capital market Exposure
+(ix)
+DBOD.No.BP.BC.57/21.01.002/2005-2006 dated January 25, 2006
+on Enhancement of banks' capital raising options for capital adequacy purposes
+(x)
+DBOD.No.BP.BC.84/21.01.002/2005-06 dated May 25, 2006
+on APS for 2006-07-Risk Weight on Exposures to Commercial Real estate and Venture Capital Funds
+(xi)
+DBOD.BP.BC. 87 /21.01.002/2005-06 dated June 8, 2006
+on Innovative Tier I/Tier II Bonds - Hedging by banks through Derivative Structures
+(xii)
+DBOD.No.BP.BC.23/21.01.002/2006-2007 dated July 21, 2006
+on Enhancement of banks' capital raising options for capital adequacy purposes
+(xiii)
+DBOD.NO.BP.BC.92/21.01.002/2006-07 dated May 3, 2007
+on Annual Policy Statement for the year 2006-07: Risk Weight on residential housing loans
+(xiv)
+DBOD No.BP.BC 88/21.06.001./2007-08 dated May 30, 2008
+on Capital Adequacy Norms – Treatment of banks’ investments in subsidiaries/ associates and of the subsidiaries’ /associates’ investments in parent banks
+(xv)
+DBOD.No.BP.BC.38/21.01.002/2009-10 dated September 7, 2009
+on Issue of Subordinated Debt for Raising Tier II Capital
+(xvi)
+DBR.No.BP.BC.17/21.06.001/2019-20 dated September 12, 2019
+on Risk Weight for Consumer Credit except credit card receivables
+31.
+All approvals / acknowledgements given under the above circulars shall be deemed as given under these directions.
+Annex 1
+Criteria for Inclusion of Perpetual Non-Cumulative Preference Shares (PNCPS) in Tier I capital
+1. Terms of Issue
+(i) Limits
+The outstanding amount of Tier I Preference Shares along with Tier 1 perpetual debt instruments shall not exceed 40 per cent of total Tier I capital at any point of time. The above limit shall be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of investments. Tier I Preference Shares issued in excess of the overall ceiling of 40 per cent shall be eligible for inclusion under Upper Tier II capital, subject to limits prescribed for Tier II capital. However, investors' rights and obligations shall remain unchanged.
+(ii) Amount
+The amount of PNCPS to be raised shall be decided by the Board of Directors of banks.
+(iii) Maturity
+The PNCPS shall be perpetual.
+(iv) Options
+(i) PNCPS shall not be issued with a 'put option' or ‘step up option'.
+(ii) Banks may, however, issue the instruments with a call option at a particular date subject to following conditions:
+The call option on the instrument is permissible after the instrument has run for at least ten years; and
+Call option shall be exercised only with the prior approval of RBI (Department of Regulation). While considering the proposals received from banks for exercising the call option the RBI shall, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+(v) Dividend
+The rate of dividend payable to the investors may be either a fixed rate or a floating rate referenced to a market determined rupee interest benchmark rate.
+(vi) Payment of Dividend
+(a) The issuing bank shall pay dividend subject to availability of distributable surplus out of current year's earnings, and if
+The bank's CRAR is above the minimum regulatory requirement prescribed by RBI;
+The impact of such payment does not result in bank's capital to risk weighted assets ratio (CRAR) falling below or remaining below the minimum regulatory requirement prescribed by RBI;
+In the case of half yearly payment of dividends, the balance sheet as at the end of the previous year does not show any accumulated losses; and
+In the case of annual payment of dividends, the current year's balance sheet does not show any accumulated losses
+(b) The dividend shall not be cumulative. Dividend missed in a year shall not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. When dividend is paid at a rate lesser than the prescribed rate, the unpaid amount shall not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+(c) All instances of non-payment of dividend/payment of dividend at a lesser rate than prescribed in consequence of conditions as at (a) above shall be reported by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision, Central Office of the Reserve Bank of India, Mumbai.
+(vii) Seniority of Claim
+The claims of the investors in PNCPS shall be senior to the claims of investors in equity shares and subordinated to the claims of all other creditors and the depositors.
+(viii) Other Conditions
+(a) PNCPS shall be fully paid-up, unsecured, and free of any restrictive clauses.
+(b) Investment by FIIs and NRIs shall be within an overall limit of 49 per cent and 24 per cent of the issue respectively, subject to the investment by each FII not exceeding 10 per cent of the issue and investment by each NRI not exceeding 5 per cent of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee denominated corporate debt as fixed by Government of India from time to time. The overall non-resident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit.
+(c) Banks shall comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+2. Compliance with Reserve Requirements
+(a) The funds collected by various branches of the bank or other banks for the issue and held pending finalisation of allotment of the Tier I Preference Shares shall be taken into account for the purpose of calculating reserve requirements.
+(b) The total amount raised by the bank by issue of PNCPS shall however, not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, shall not attract CRR / SLR requirements.
+3. Reporting Requirements
+(i) Banks issuing PNCPS shall submit a report to the Chief General Manager-in-­charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the capital raised, including the terms of issue specified at item 1 above together with a copy of the offer document soon after the issue is completed.
+(ii) The issue-wise details of amount raised as PNCPS qualifying for Tier I capital by the bank from FIIs / NRIs are required to be reported within 30 days of the issue to the Chief General Manager, Reserve Bank of India, Foreign Exchange Department, Foreign Investment Division, Central Office, Mumbai 400 001 in the
+proforma
+given at the end of this Annex. The details of the secondary market sales / purchases by FIIs and the NRIs in these instruments on the floor of the stock exchange shall be reported by the custodians and designated banks, respectively to RBI through the soft copy of the LEC Returns, on a daily basis, as prescribed in Schedule 2 and 3 of the FEMA Notification No.20 dated 3rd May 2000, as amended from time to time.
+4. Investment in Perpetual Non-Cumulative Preference Shares issued by other banks/FIs
+(a) A bank's investment in PNCPS issued by other banks and financial institutions shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 per cent of the investing bank’s capital funds prescribed in paragraph 14 of these Directions.
+(b) Bank's investments in PNCPS issued by other banks / financial institutions shall attract risk weight for capital adequacy purposes as prescribed in paragraph 14(iv) of these Directions.
+(c) A bank's investments in the PNCPS of other banks shall be treated as exposure to capital market and be reckoned for the purpose of compliance with the prudential ceiling for capital market exposure as fixed by RBI.
+5. Grant of Advances against Tier I Preference Shares
+Banks shall not grant advances against the security of the PNCPS issued by them.
+6. Classification in the Balance sheet
+These instruments shall be classified as capital and shown under 'Schedule I-Capital' of the Balance sheet.
+Annex 2
+Criteria for Inclusion of Perpetual Debt Instruments (PDI) in Tier I Capital
+The Perpetual Debt Instruments (PDI) that may be issued as bonds or debentures by banks shall meet the following terms and conditions to qualify for inclusion as Tier I Capital for capital adequacy purposes:
+1. Terms of Issue of Perpetual Debt Instruments denominated in Indian Rupees
+(i) Amount
+The amount of PDI to be raised shall be decided by the Board of Directors of banks.
+(ii) Limits
+The total amount raised by a bank through PDI (including the existing Innovative Perpetual Debt Instruments or IPDI) shall not exceed 15 per cent of total Tier I Capital. The eligible amount shall be computed with reference to the amount of Tier I Capital as on March 31 of the previous financial year, after deduction of goodwill, DTA and other intangible assets but before the deduction of investments. PDI in excess of the above limits shall be eligible for inclusion under Tier II, subject to limits prescribed for Tier II capital. However, investors’ rights and obligations shall remain unchanged.
+(iii) Maturity period
+The PDI shall be perpetual.
+(iv) Rate of interest
+The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+(v) Options
+PDI shall not be issued with a ‘put option’ or a ‘step-up option’. However, banks may issue the instruments with a call option subject to strict compliance with each of the following conditions:
+Call option on the instrument is permissible after the instrument has run for at least ten years; and
+Call option shall be exercised only with the prior approval of RBI (Department of Regulation). While considering the proposals received from banks for exercising the call option the RBI shall, among other things, take into consideration the bank’s CRAR position both at the time of exercise of the call option and after exercise of the call option.
+(vi) Lock-In Clause
+(a) PDI shall be subjected to a lock-in clause in terms of which the issuing bank shall not be liable to pay interest, if
+the bank’s CRAR is below the minimum regulatory requirement prescribed by RBI; OR
+the impact of such payment results in bank’s capital to risk assets ratio (CRAR) falling below or remaining below the minimum regulatory requirement prescribed by RBI;
+(b) However, banks can pay interest with the prior approval of RBI when the impact of such payment may result in net loss or increase the net loss, provided the CRAR remains above the regulatory norm.
+(c) The interest shall not be cumulative.
+(d) All instances of invocation of the lock-in clause shall be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+(vii) Seniority of claim
+The claims of the investors in IPDI
+9
+and PDI shall be:
+Superior to the claims of investors in equity shares and Tier 1 preference shares; and
+Subordinated to the claims of all other creditors.
+(viii) Discount
+The PDI shall not be subjected to a progressive discount for capital adequacy purposes since these are perpetual.
+(ix) Other conditions
+a) PDI shall be fully paid-up, unsecured, and free of any restrictive clauses.
+b) Investment by FIIs in PDI raised in Indian Rupees shall be outside the ECB limit for rupee denominated corporate debt, as fixed by the Govt. of India from time to time, for investment by FIIs in corporate debt instruments. Investment in these instruments by FIIs and NRIs shall be within an overall limit of 49 per cent and 24 per cent of the issue, respectively, subject to the investment by each FII not exceeding 10 per cent of the issue and investment by each NRI not exceeding five per cent of the issue.
+c) Banks shall comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+2. Terms of issue of PDI denominated in foreign currency
+Banks may augment their capital funds through the issue of PDI in foreign currency without seeking the prior approval of the Reserve Bank of India, subject to compliance with the under-mentioned requirements:
+i) PDI issued in foreign currency shall comply with all terms and conditions as applicable to the instruments issued in Indian Rupees.
+ii) Not more than 49 per cent of the eligible amount can be issued in foreign currency.
+iii) PDI issued in foreign currency shall be outside the limits for foreign currency borrowings indicated below:
+a) The total amount of Upper Tier II Instruments issued in foreign currency shall not exceed 25 per cent of the unimpaired Tier I capital. This eligible amount shall be computed with reference to the amount of Tier I capital as on March 31 of the previous financial year, after deduction of goodwill and other intangible assets but before the deduction of investments, as per para 13(ii)(a) of this Master Direction.
+b) This shall be in addition to the existing limit for foreign currency borrowings by Authorised Dealers, stipulated by RBI under Foreign Exchange Management Act, 1999.
+3. Compliance with Reserve requirements
+The total amount raised by a bank through PDI shall not be reckoned as liability for calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, shall not attract CRR / SLR requirements.
+4. Reporting requirements
+Banks issuing PDI shall submit a report to the Chief General Manager, Department of Regulation, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified at paragraph 1 above, together with a copy of the offer document soon after the issue is completed.
+5. Investment in PDI issued by other banks/ FIs
+i) A bank's investment in PDI issued by other banks and financial institutions shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 percent prescribed in paragraph 14 of these Directions.
+ii) Bank's investments in PDI issued by other banks shall attract risk weight for capital adequacy purposes, as prescribed in paragraph 14(iv) of these Directions.
+6. Grant of advances against PDI
+Banks shall not grant advances against the security of the PDI issued by them.
+7. Classification in the Balance Sheet
+Banks shall indicate the amount raised by issue of PDI in the Balance Sheet under Schedule 4 - “Borrowings”.
+Annex 3
+Criteria for Inclusion of Debt Capital Instruments in Upper Tier II Capital
+The debt capital instruments that are issued as bonds / debentures by banks shall meet the following terms and conditions to qualify for inclusion as Upper Tier II Capital for capital adequacy purposes.
+1. Terms of issue of Upper Tier II Capital Instruments
+i) Currency of issue
+Banks shall issue Upper Tier II Instruments in Indian Rupees. Banks may also issue these instruments in foreign currency without seeking the prior approval of the Reserve Bank of India, subject to compliance with the under mentioned requirements:
+a. The total amount of Upper Tier II Instruments issued in foreign currency shall not exceed 25 per cent of the unimpaired Tier I Capital. This eligible amount shall be computed with reference to the amount of Tier I Capital as on March 31 of the previous financial year, after deduction of goodwill and other intangible assets but before the deduction of investments.
+b. The amount raised shall be in addition to the existing limit for foreign currency borrowings by Authorised Dealers stipulated by RBI under Foreign Exchange Management Act, 1999.
+c. Investment by FIIs in Upper Tier II Instruments raised in Indian Rupees shall be outside the limit for investment in corporate debt instruments. Investments by FIIs in these instruments shall be subject to a separate ceiling of USD 500 million.
+ii) Amount
+The amount of Upper Tier II Instruments to be raised shall be decided by the Board of Directors of banks.
+iii) Limit
+Upper Tier II Instruments along with other components of Tier II capital shall not exceed 100% of Tier I capital. The above limit shall be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of investments.
+iv) Maturity Period
+The Upper Tier II instruments shall have a minimum maturity of 15 years.
+v) Rate of interest
+The interest payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+vi) Options
+Upper Tier II instruments shall not be issued with a ‘put option’ or a ‘step-up option’. However, banks may issue the instruments with a ‘call option’ subject to strict compliance with each of the following conditions:
+Call options on the instrument is permissible after the instrument has run for at least ten years;
+Call options shall be exercised only with the prior approval of RBI (Department of Regulation). While considering the proposals received from banks for exercising the call option the RBI shall, among other things, take into consideration the bank’s CRAR position both at the time of exercise of the call option and after exercise of the call option.
+vii) Lock-In Clause
+a. Upper Tier II instruments shall be subjected to a lock-in clause in terms of which the issuing bank shall not be liable to pay either interest or principal, even at maturity, if
+o the bank’s CRAR is below the minimum regulatory requirement prescribed by RBI, or
+o the impact of such payment results in bank’s CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI.
+b. However, banks can pay interest with the prior approval of RBI when the impact of such payment may result in net loss or increase the net loss provided CRAR remains above the regulatory norm. For this purpose 'Net Loss' would mean either (a) the accumulated loss at the end of the previous financial year; or (b) the loss incurred during the current financial year.
+c. The interest amount due and remaining unpaid can be allowed to be paid in the later years subject to the bank complying with the above regulatory requirement. While paying such unpaid interest and principal, banks are allowed to pay compound interest at a rate not exceeding the coupon rate of the relative Upper Tier II bonds, on the outstanding principal and interest.
+d. All instances of invocation of the lock-in clause shall be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision of the Reserve Bank of India, Mumbai.
+viii) Seniority of claim
+The claims of the investors in Upper Tier II instruments shall be
+Superior to the claims of investors in instruments eligible for inclusion in Tier I capital; and
+Subordinate to the claims of all other creditors including those in Lower Tier II and the depositors. Amongst the investors of various instruments included in Upper Tier II, the claims shall rank pari-passu with each other.
+ix) Discount
+The Upper Tier II instruments shall be subjected to a progressive discount for capital adequacy purposes as in the case of long-term subordinated debt over the last five years of their tenor. As they approach maturity these instruments shall be subjected to progressive discount as indicated in the table below for being eligible for inclusion in Tier II capital.
+Remaining Maturity of Instruments
+Rate of Discount (%)
+Less than one year
+100
+One year and more but less than two years
+80
+Two years and more but less than three years
+60
+Three years and more but less than four years
+40
+Four years and more but less than five years
+20
+x) Redemption
+Upper Tier II instruments shall not be redeemable at the initiative of the holder. All redemptions shall be made only with the prior approval of the Reserve Bank of India (Department of Regulation).
+xi) Other conditions
+(a) Upper Tier II instruments shall be fully paid-up, unsecured, and free of any restrictive clauses.
+(b) Investment in Upper Tier II instruments by FIIs shall be within the limits as laid down in the ECB Policy for investment in debt instruments. In addition, NRIs shall also be eligible to invest in these instruments as per existing policy.
+(c) Banks shall comply with the terms and conditions, if any, stipulated by SEBI/other regulatory authorities in regard to issue of the instruments.
+2. Compliance with Reserve requirements
+(i) The funds collected by various branches of the bank or other banks for the issue and held
+pending
+finalisation of allotment of the Upper Tier II Capital instruments shall be taken into account for the purpose of calculating reserve requirements.
+(ii) The total amount raised by a bank through Upper Tier II instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, shall attract CRR/SLR requirements.
+3. Reporting requirements
+Banks issuing Upper Tier II instruments shall submit a report to the Chief General Manager, Department of Regulation, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified at paragraph 1 above together with a copy of the offer document soon after the issue is completed.
+4. Investment in Upper Tier II Instruments issued by other banks/ FIs
+A bank's investment in Upper Tier II instruments issued by other banks and financial institutions shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 percent for cross holding of capital among banks/FIs prescribed in paragraph 14 of these Directions.
+Bank's investments in Upper Tier II instruments issued by other banks/ financial institutions shall attract risk weight for capital adequacy purposes as prescribed in paragraph 14(iv) of these Directions.
+5. Grant of advances against Upper Tier II Instruments
+Banks shall not grant advances against the security of the Upper Tier II instruments issued by them.
+6. Classification in the Balance Sheet
+Banks shall indicate the amount raised by issue of Upper Tier II instruments by way of explanatory notes / remarks in the Balance Sheet as well as under the head “Hybrid debt capital instruments issued as bonds/debentures” under Schedule 4 - 'Borrowings’.
+Annex 4
+Criteria for Inclusion of Perpetual Cumulative Preference Shares
+(PCPS) / Redeemable Non-Cumulative Preference Shares (RNCPS) /
+Redeemable Cumulative Preference Shares (RCPS) in Upper Tier II Capital
+1. Terms of Issue
+(i) Characteristics of the instruments
+These instruments can be either perpetual (PCPS) or dated (RNCPS and RCPS) instruments with a fixed maturity of minimum 15 years.
+The perpetual instruments shall be cumulative. The dated instruments can be cumulative or non-cumulative
+(ii) Limits
+The outstanding amount of these instruments along with other components of Tier II capital shall not exceed 100 per cent of Tier I capital at any point of time. The above limit shall be based on the amount of Tier I capital after deduction of goodwill and other intangible assets but before the deduction of investments.
+(iii) Amount
+The amount to be raised shall be decided by the Board of Directors of banks.
+(iv) Options
+(i) These instruments shall not be issued with a 'put option' or ‘step-up option’.
+(ii) However, banks may issue the instruments with a call option at a particular date subject to strict compliance with each of the following conditions:
+The call option on the instrument is permissible after the instrument has run for at least ten years; and
+Call option shall be exercised only with the prior approval of RBI (Department of Regulation). While considering the proposals received from banks for exercising the call option the RBI shall, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+(v) Coupon
+The coupon payable to the investors may be either at a fixed rate or at a floating rate referenced to a market determined rupee interest benchmark rate.
+(vi) Payment of coupon
+(i) The coupon payable on these instruments shall be treated as interest and accordingly debited to Profit & Loss Account. However, it shall be payable only if
+(a) The bank's CRAR is above the minimum regulatory requirement prescribed by RBI.
+(b) The impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI.
+(c) The bank does not have a net loss. For this purpose, “Net Loss” is defined as either (i) the accumulated loss at the end of the previous financial year / half year as the case may be; or (ii) the loss incurred during the current financial year.
+(d) In the case of PCPS and RCPS the unpaid/partly unpaid coupon shall be treated as a liability. The interest amount due and remaining unpaid can be allowed to be paid in later years subject to the bank complying with the above requirements.
+(e) In the case of RNCPS, deferred coupon shall not be paid in future years, even if adequate profit is available and the level of CRAR conforms to the regulatory minimum. The bank can however pay a coupon at a rate lesser than the prescribed rate, if adequate profit is available and the level of CRAR conforms to the regulatory minimum.
+(ii) All instances of non-payment of interest/payment of interest at a lesser rate than prescribed rate shall be notified by the issuing banks to the Chief General Managers-in-Charge of Department of Regulation and Department of Supervision, Central Office of the Reserve Bank of India, Mumbai.
+(vii) Redemption / repayment of redeemable Preference Shares included in Upper Tier II
+(i) These instruments shall not be redeemable at the initiative of the holder.
+(ii) Redemption of these instruments at maturity shall be made only with the prior approval of the Reserve Bank of India (Department of Regulation), subject inter alia to the following conditions:
+(a) the bank's CRAR is above the minimum regulatory requirement prescribed by RBI
+(b) the impact of such payment does not result in bank's CRAR falling below or remaining below the minimum regulatory requirement prescribed by RBI
+(viii) Seniority of claim
+The claims of the investors in these instruments shall be senior to the claims of investors in instruments eligible for inclusion in Tier I capital and subordinate to the claims of all other creditors including those in Lower Tier II and the depositors. Amongst the investors of various instruments included in Upper Tier II, the claims shall rank pari-passu with each other.
+(ix) Amortization for the purpose of computing CRAR
+The Redeemable Preference Shares (both cumulative and non-cumulative) shall be subjected to a progressive discount for capital adequacy purposes over the last five years of their tenor, as they approach maturity, as indicated in the table below for being eligible for inclusion in Tier II capital.
+Remaining Maturity of Instruments
+Rate of Discount (%)
+Less than one year
+100
+One year and more but less than two years
+80
+Two years and more but less than three years
+60
+Three years and more but less than four years
+40
+Four years and more but less than five years
+20
+(x) Other conditions
+(a) These instruments shall be fully paid-up, unsecured, and free of any restrictive clauses.
+(b) Investment by FIIs and NRIs shall be within an overall limit of 49 per cent and 24 per cent of the issue respectively, subject to the investment by each FII not exceeding 10 per cent of the issue and investment by each NRI not exceeding 5 per cent of the issue. Investment by FIIs in these instruments shall be outside the ECB limit for rupee denominated corporate debt as fixed by Government of India from time to time. However, investment by FIIs in these instruments will be subject to separate ceiling. The overall nonresident holding of Preference Shares and equity shares in public sector banks will be subject to the statutory / regulatory limit.
+(c) Banks shall comply with the terms and conditions, if any, stipulated by SEBI / other regulatory authorities in regard to issue of the instruments.
+2. Compliance with Reserve requirements
+(a) The funds collected by various branches of the bank or other banks for the issue and held pending finalization of allotment of these instruments shall have to be taken into account for the purpose of calculating reserve requirements.
+(b) The total amount raised by a bank through the issue of these instruments shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, shall attract CRR / SLR requirements.
+3. Reporting requirements
+Banks issuing these instruments shall submit a report to the Chief General Manager-in-charge, Department of Regulation, Reserve Bank of India, Mumbai giving details of the debt raised, including the terms of issue specified in paragraph 1 above together with a copy of the offer document soon after the issue is completed.
+4. Investment in these instruments issued by other banks / FIs
+(a) A bank's investment in Upper Tier II instruments issued by other banks and financial institutions shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 percent for cross holding of capital among banks/FIs prescribed in paragraph 14 of these Directions.
+(b) Bank's investments in these instruments issued by other banks / financial institutions shall attract risk weight for capital adequacy purposes as prescribed in paragraph 14(iv) of these Directions.
+5. Grant of advances against these instruments
+Banks shall not grant advances against the security of these instruments issued by them.
+6. Classification in the balance sheet
+These instruments shall be classified as borrowings under ‘Schedule 4- Borrowings’ of the Balance sheet.
+Annex 5
+Criteria for Inclusion of subordinated debt in Lower Tier-II capital
+1. Terms of issue of bond
+To be eligible for inclusion in Lower Tier – II Capital, terms of issue of the bonds as subordinated debt instruments shall be in conformity with the following:
+(a) Amount
+The amount of subordinated debt to be raised shall be decided by the Board of Directors of the bank.
+(b) Maturity period
+(i) Subordinated debt instruments with an initial maturity period of less than 5 years, or with a remaining maturity of one year should not be included as part of Tier-II Capital. These instruments shall be subjected to progressive discount as they approach maturity at the rates shown below:
+Remaining maturity of the instruments
+Rate of discount
+a) Less than One year
+100%
+b) More than One year and less than Two years
+80%
+c) More than Two years and less than Three years
+60%
+d) More than three years and less than Four Years
+40%
+e) More than Four years and less than Five years
+20%
+(ii) The bonds shall have a minimum maturity of 5 years. However, if the bonds are issued in the last quarter of the year (between 1st January to 31st March), they shall have a minimum tenure of sixty three months.
+(c) Rate of interest
+The coupon rate shall be decided by the Board of Directors of banks.
+(d) Options
+Subordinated debt instruments shall not be issued with a 'put option' or ‘step-up option’. However, banks can issue the instruments with a call option subject to strict compliance with each of the following conditions:
+Call option may be exercised after the instrument has run for at least
+five years
+; and
+Call option shall be exercised only with the prior approval of RBI (Department of Regulation). While considering the proposals received from banks for exercising the call option the RBI shall, among other things, take into consideration the bank's CRAR position both at the time of exercise of the call option and after exercise of the call option.
+(e) Other conditions
+The instruments shall be fully paid-up, unsecured, subordinated to the claims of other creditors, free of restrictive clauses and shall not be redeemable at the initiative of the holder or without the consent of the Reserve Bank of India.
+Necessary permission from Foreign Exchange Department shall be obtained for issuing the instruments to NRIs/ FIIs.
+Banks shall comply with the terms and conditions, if any, set by SEBI/other regulatory authorities in regard to issue of the instruments.
+2. Inclusion in Tier II capital
+Subordinated debt instruments shall be limited to 50 per cent of Tier-I Capital of the bank. These instruments, together with other components of Tier II capital, shall not exceed 100% of Tier I capital.
+3. Grant of advances against bonds
+Banks shall not grant advances against the security of their own bonds.
+4. Compliance with Reserve requirements
+The total amount of Subordinated Debt raised by the bank shall be reckoned as liability for the calculation of net demand and time liabilities for the purpose of reserve requirements and, as such, shall attract CRR/SLR requirements.
+5. Treatment of Investment in subordinated debt
+Investments by banks in subordinated debt of other banks and FIs shall be reckoned along with the investment in other instruments eligible for capital status while computing compliance with the overall ceiling of 10 per cent prescribed in paragraph 14 of these Directions. Bank’s investments in subordinated debt issued by other banks shall attract risk weight for capital adequacy purposes, as prescribed in paragraph 14(iv) of these Directions.
+6. Subordinated Debt in foreign currency raised by Indian banks
+Banks shall approach RBI on a case-to-case basis for issue of subordinated debt in foreign currency.
+7. Subordinated debt to retail investors
+Banks issuing subordinated debt to retail investors shall adhere to the following conditions:
+(a) The requirement for specific sign-off as quoted below, from the investors for having understood the features and risks of the instrument shall be incorporated in the common application form of the proposed debt issue.
+"By making this application, I/We acknowledge that I/We have understood the terms and conditions of the Issue of [insert the name of the instruments being issued] of [Name of The Bank] as disclosed in the Draft Shelf Prospectus, Shelf Prospectus and Tranche Document ".
+(b) For floating rate instruments, banks shall not use its Fixed Deposit rate as benchmark.
+(c) All the publicity material, application form and other communication with the investor shall clearly state in bold letters (with font size 14) how a subordinated bond is different from fixed deposit particularly that it is not covered by deposit insurance.
+8. Reporting requirements
+The banks shall submit a report to RBI giving details of the capital raised, such as, amount raised, maturity of the instrument, rate of interest together with a copy of the offer document soon after the issue is completed.
+9. Classification in the Balance Sheet
+These instruments shall be classified under 'Schedule 4 – Borrowings’ of the Balance sheet.
+Annex 8
+Duration Method
+(Time bands and assumed changes in yield)
+Time Bands
+Assumed Change in Yield
+Zone 1
+1 month or less
+1.00
+1 to 3 months
+1.00
+3 to 6 months
+1.00
+6 to 12 months
+1.00
+Zone 2
+1.0 to 1.9 years
+0.90
+1.9 to 2.8 years
+0.80
+2.8 to 3.6 years
+0.75
+Zone 3
+3.6 to 4.3 years
+0.75
+4.3 to 5.7 years
+0.70
+5.7 to 7.3 years
+0.65
+7.3 to 9.3 years
+0.60
+9.3 to 10.6 years
+0.60
+10.6 to 12 years
+0.60
+12 to 20 years
+0.60
+over 20 years
+0.60
+Annex 9
+Horizontal Disallowances
+Zones
+Time band
+Within the zones
+Between adjacent zones
+Between zones 1 and 3
+Zone 1
+1 month or less
+40%
+40%
+40%
+100%
+1 to 3 months
+3 to 6 months
+6 to 12 months
+Zone 2
+1.0 to 1.9 years
+30%
+1.9 to 2.8 years
+2.8 to 3.6 years
+Zone 3
+3.6 to 4.3 years
+30%
+4.3 to 5.7 years
+5.7 to 7.3 years
+7.3 to 9.3 years
+9.3 to 10.6 years
+10.6 to 12 years
+12 to 20 years
+over 20 years
+Note: Capital charges shall be calculated for each currency separately and then summed with no offsetting between positions of opposite sign. In the case of those currencies in which business is insignificant (where the turnover in the respective currency is less than 5 per cent of overall foreign exchange turnover), separate calculations for each currency are not required. The bank can, instead, slot within each appropriate time-band, the net long or short position for each currency. However, these individual net positions shall be summed within each time-band, irrespective of whether they are long or short positions, to produce a gross position figure. In the case of residual currencies, the gross positions in each time-band shall be subject to the assumed change in yield set out in table with no further offsets.
+Annex 10
+Measurement system in respect of Interest Rate Derivatives
+1. Interest Rate Derivatives
+The measurement system shall include all interest rate derivatives and off-balance­ sheet instruments in the trading book, which react to changes in interest rates, (e.g. forward rate agreements (FRAs), other forward contracts, bond futures, interest rate and cross-currency swaps and forward foreign exchange positions).
+2. Calculation of positions
+The derivatives shall be converted into positions in the relevant underlying and be subjected to specific and general market risk charges. In computation of the capital charge, the amounts reported shall be the market value of the principal amount of the underlying or of the notional underlying. For instruments where the apparent notional amount differs from the effective notional amount, banks shall use the effective notional amount.
+i. Futures and forward contracts, including Forward Rate Agreements (FRA): These instruments shall be treated as a combination of a long and a short position in a notional government security. The maturity of a future or a FRA shall be the period until delivery or exercise of the contract, plus - where applicable - the life of the underlying instrument. For example, a long position in a June three-month interest rate future (taken in April) shall be reported as a long position in a government security with a maturity of five months and a short position in a government security with a maturity of two months. Where a range of deliverable instruments may be delivered to fulfill the contract, the bank has flexibility to elect which deliverable security goes into the duration ladder but shall take account of any conversion factor defined by the exchange.
+ii. Swaps: Swaps shall be treated as two notional positions in government securities with relevant maturities. For example, an interest rate swap under which a bank is receiving floating rate interest and paying fixed will be treated as a long position in a floating rate instrument of maturity equivalent to the period until the next interest fixing and a short position in a fixed-rate instrument of maturity equivalent to the residual life of the swap. For swaps that pay or receive a fixed or floating interest rate against some other reference price, e.g. a stock index, the interest rate component shall be slotted into the appropriate re-pricing maturity category, with the equity component being included in the equity framework. Separate legs of cross-currency swaps shall be reported in the relevant maturity ladders for the currencies concerned.
+3. Calculation of Capital Charges for Derivatives under the Standardised Methodology:
+i. Allowable offsetting of matched positions
+Banks shall exclude the following from the interest rate maturity framework altogether (for both specific and general market risk);
+Long and short positions (both actual and notional) in identical instruments with exactly the same issuer, coupon, currency and maturity.
+A matched position in a future or forward and its corresponding underlying shall also be fully offset (the leg representing the time to expiry of the future shall however be reported) and thus excluded from the calculation.
+When the future or the forward comprises a range of deliverable instruments, offsetting of positions in the future or forward contract and its underlying is only permissible in cases where there is a readily identifiable underlying security which is most profitable for the trader with a short position to deliver. The price of this security, sometimes called the "cheapest-to-deliver", and the price of the future or forward contract shall in such cases move in close alignment.
+No offsetting shall be allowed between positions in different currencies; the separate legs of cross-currency swaps or forward foreign exchange deals shall be treated as notional positions in the relevant instruments and included in the appropriate calculation for each currency.
+In addition, opposite positions in the same category of instruments can in certain circumstances be regarded as matched and allowed to offset fully. To qualify for this treatment the positions shall relate to the same underlying instruments, be of the same nominal value and be denominated in the same currency. In addition:
+for futures: offsetting positions in the notional or underlying instruments to which the futures contract relates shall be for identical products and mature within seven days of each other;
+for swaps and FRAs: the reference rate (for floating rate positions) shall be identical and the coupon closely matched (i.e. within 15 basis points); and
+for swaps, FRAs and forwards: the next interest fixing date or, for fixed coupon positions or forwards, the residual maturity shall correspond within the following limits:
+o less than one month hence: same day;
+o between one month and one year hence: within seven days;
+o over one year hence: within thirty days.
+Banks with large swap books can use alternative formulae for these swaps to calculate the positions to be included in the duration ladder. The method shall be to calculate the sensitivity of the net present value implied by the change in yield used in the duration method and allocate these sensitivities into the time-bands specified in
+Annex 8
+.
+ii. Specific Risk
+Interest rate and currency swaps, FRAs, forward foreign exchange contracts and interest rate futures shall not be subject to a specific risk charge. This exemption also applies to futures on an interest rate index. However, in the case of futures contracts where the underlying is a debt security, or an index representing a basket of debt securities, a specific risk charge shall apply according to the credit risk of the issuer.
+iii. General Market Risk
+General market risk applies to positions in all derivative products in the same manner as for cash positions, subject only to an exemption for fully or very closely matched positions in identical instruments as defined in paragraphs above. The various categories of instruments shall be slotted into the maturity ladder and treated according to the rules identified earlier.
+Table - Summary of treatment of interest rate derivatives
+Instrument
+Specific risk charge
+General Market risk charge
+Exchange-traded future
+- Government debt security
+- Corporate debt security
+- Index on interest rates (e.g. MIBOR)
+No
+Yes
+No
+Yes, as two positions
+Yes, as two positions
+Yes, as two positions
+OTC forward
+- Government debt security
+- Corporate debt security
+- Index on interest rates (e.g. MIBOR)
+No
+Yes
+No
+Yes, as two positions
+Yes, as two positions
+Yes, as two positions
+FRAs, Swaps
+No
+Yes, as two positions
+Forward Foreign Exchange
+No
+Yes, as one position in each currency
+1
+Amendment to the Capital Accord to incorporate market risks: BCBS January 1996
+2
+Please refer to
+Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023 dated September 12, 2023
+. It is also clarified that any negative balance in the AFS reserve shall be deducted from Tier I capital.
+3
+Please refer to Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022 issued vide
+DOR.MRG.REC.76/00-00-007/2022-23 dated October 11, 2022
+.
+4
+Please refer to clause 28 and 41 of
+Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023 dated September 12, 2023
+.
+5
+At present, LABs are not permitted to carry out activities involving foreign exchange or derivative positions. However, as and when these activities are allowed, the relevant instructions would become applicable to them.
+6
+Accordingly, instruments classified under HTM, AFS, FVTPL (non-HFT) and investments in own subsidiaries, joint ventures and associates shall also be part of banking book and will not attract market risk capital charge.
+7
+Please refer to Reserve Bank of India (Unhedged Foreign Currency Exposure) Directions, 2022 issued vide
+DOR.MRG.REC.76/00-00-007/2022-23 dated October 11, 2022
+.
+8
+For example: for an entity which otherwise attracts a risk weight of 50 per cent, the applicable risk weight would become 75 per cent.
+9
+Refers to any outstanding Innovative Perpetual Debt Instruments (IPDI)

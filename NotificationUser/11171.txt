@@ -1,0 +1,26 @@
+(72 kb)
+Secondary market transactions in Government Securities – Notional Short Sale
+This circular has been superseded by
+Short Sale (Reserve Bank) Directions, 2018 dated July 25, 2018
+.
+RBI/2017-18/96
+FMRD.DIRD.04/14.03.007/2017-18
+November 16, 2017
+All market participants
+Dear Sir/Madam,
+Secondary market transactions in Government Securities – Notional Short Sale
+In terms of RBI
+circulars IDMD.PCD.21/14.03.07/2011-12 dated June 21, 2012
+, and
+IDMD.PCD.14/14.03.07/2011-12 dated December 28, 2011
+market participants undertaking ‘notional’ short sale are not permitted to use securities from their HTM/AFS/HFT portfolio for delivery against the short sale.
+2. As announced in paragraph 13 of the
+Statement on Developmental and Regulatory Policies
+, of the
+fourth Bi-monthly Monetary Policy Statement for 2017-18 dated October 04, 2017
+, it has now been decided that market participants undertaking ‘notional’ short sale need not compulsorily borrow securities in the repo market. While the short selling entity may ordinarily borrow securities from the repo market, in exceptional situations of market stress (e.g. short squeeze), it may deliver securities from its own HTM/AFS/HFT portfolios. If securities are delivered out of its own portfolio, it must be accounted for appropriately and reflect the transactions as internal borrowing. All ‘notional’ short sales must be closed by an outright purchase in the market. It may be ensured that the securities so borrowed are brought back to the same portfolio, without any change in book value. The short selling entity must adhere to the extant regulations and accounting norms governing sale or valuation of securities in its portfolios. The bank may frame a Board approved policy for this purpose.
+3. All other existing terms and conditions pertaining to the captioned subject remain unchanged.
+4. These directions are issued under Section 45(W) of the RBI Act, 1934.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager

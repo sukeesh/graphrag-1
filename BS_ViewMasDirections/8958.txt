@@ -1,0 +1,36 @@
+(368 kb)
+The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Clarifications on Operational Guidelines
+RBI/2013-14/656
+DBOD.No.DEAF Cell.BC.123/30.01.002/2013-14
+June 25, 2014
+The Chairman and  Managing Director /
+Chief Executive Officers
+All Scheduled Commercial Banks including RRBs and LABs /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks.
+Dear Sir/Madam,
+The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking  Regulation Act, 1949- Clarifications on Operational Guidelines
+Please  refer to the
+circular DBOD.No.DEAF Cell.BC.114/30.01.002/2013-14 dated May 27,  2014
+on the captioned subject.
+2. As  mentioned in paragraph 2 of the above circular, banks are required to remit  the  amounts due (as explained in the  Depositor Education and Awareness Fund (DEAF) Scheme, 2014 (Scheme)),
+in  electronic form
+through  portal  facility of the E-Kuber (Core Banking Solution) of Reserve Bank of India (RBI),  to a designated account created for the Scheme,
+viz.
+, “
+DEAF Account  161001006009”
+. The facility is available under the menu “DEAF Service” of  the E-Kuber portal.  For better  understanding of the “DEAF Service”, the indicative screen shots of the portal  are enclosed in the
+Annex.
+Accordingly, the amount required to be  transferred to the Depositor Education and Awareness Fund (Fund) in terms of  paragraphs 3(vi) and 3(vii) of the Scheme, can be credited to the DEAF Account,  specified above, maintained with RBI, within banking hours on the last working  day of the month. Banks are advised that in the ‘Interest bearing’ field  available in E-Kuber, the amount and number of accounts of only interest  bearing  deposits  may   be  indicated.  In   the  ‘Non- interest  bearing’   field  available  in E-Kuber, the amount and  number of accounts of non-interest bearing deposits alone may be indicated. In  the ‘Others’ field available in E-Kuber, the amount and number of accounts of  other credits (other than interest bearing and non-interest bearing deposits)  may be indicated. Other credits would be non-interest bearing.
+3. As specified in  paragraph 4(ii) of the Scheme, the interest payable, if any, from the Fund on a  claim shall accrue only from the date on which the balance in an account was transferred  to the Fund till the date of payment to the customer/depositor. Interest would  be payable by the Fund, on a claim, if any, only on interest bearing deposits,  from the date of transfer to the Fund. No interest shall be payable in respect  of amounts refunded from the Fund, in respect of which no interest was payable  by the bank to its customer/depositor.
+4. As per paragraph  3(vi) of the Scheme, banks shall  calculate the cumulative balances in all accounts along with interest accrued,  as on the day prior to the effective date,
+i.e
+, May 23, 2014 and  such amounts due should be transferred to the Depositor Education and Awareness  Fund (Fund) on June 30, 2014 before the close of banking hours. However, as  regards the calculation of interest accrued on such accounts, it has been  clearly indicated in paragraph 3(v) of the Scheme that “A bank shall transfer  to the Fund the entire amount as specified in sub-paragraph (iii), including  the accrued interest that the bank would have been required to pay to the  customer/ depositor as on the date of transfer to the Fund”. It is once again  clarified that in all such unclaimed interest bearing deposits that would be  transferred to the Fund by the banks on June 30, 2014, interest accrued should  be credited in the account till the date of transfer to the Fund.  Illustratively, if a bank transfers to the Fund any unclaimed Saving Bank  account balance on June 30, 2014 the interest up to and for June 29, 2014 would  be paid into the account by the bank. The Fund would pay interest with effect  from June 30, 2014  till the date of  payment to the customer, at the interest rate notified by the Reserve Bank from  time to time.
+5. Subsequently, as mentioned in paragraph 3(vii) of  the Scheme, banks shall transfer to  the Fund the amounts becoming due in each calendar month, (
+i.e
+., proceeds of the inoperative accounts and balances remaining  unclaimed for ten years or more) as specified in the Scheme, and the interest  accrued on interest bearing accounts till the date of transfer, on the last working day of the subsequent  month.
+6.   Before transferring the balances to the Fund  as above, banks have to ensure that all legal obligations relating to the same,  till that date, including those pertaining to taxes deductible and payable, are  met or adequate arrangements are made therefor.
+Yours faithfully,
+(Sudarshan  Sen)
+Chief  General Manager
+Encl: As above

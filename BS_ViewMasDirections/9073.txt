@@ -1,0 +1,457 @@
+(427 kb)
+Master Circular- Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers
+RBI/2014-15/97
+IDMD.PDRD. 02/03.64.00/2014-15
+July 1, 2014
+All Standalone Primary Dealers
+Dear Sir / Madam,
+Master Circular- Capital Adequacy Standards and  Risk Management Guidelines for Standalone Primary Dealers
+The Reserve Bank of India (RBI) has, from time  to time, issued guidelines/instructions to the standalone Primary Dealers (PDs)  with regard to their Capital Adequacy  Standards and Risk Management. The enclosed
+Master Circular
+incorporates  all the guidelines/instructions/circulars on the subject issued up to June 30, 2014. A list of circulars  consolidated is enclosed as Annex G. The banks undertaking PD activities  departmentally should follow the guidelines on capital adequacy requirement and  risk management, applicable to the banks, issued by Department of Banking  Operations and Development, RBI. This Master Circular has also been placed on  RBI website at
+http://www.mastercirculars.rbi.org.in
+.
+Yours faithfully
+(Rekha Warriar)
+Chief General Manager
+Encl: As above
+CAPITAL FUNDS & CAPITAL REQUIREMENTS
+Table of Contents
+Sl.No.
+Details
+1
+Capital Funds
+2
+Annex A -    Capital Adequacy for Credit Risk
+3
+Annex B -    Measurement of Market Risk
+4
+Annex C – PDR III Return Format
+5
+Annex D - Criteria for use of internal model to measure    market risk capital charge
+6
+Annex E – Back Testing
+7
+Annex F – Monthly Return on Interest Rate Risk of    Rupee Derivatives
+8
+Annex G – List of Circulars Consolidated
+General  Guidelines
+1 General
+Capital adequacy standards for standalone  Primary Dealers (PDs) in Government Securities (G-Sec) market have been in  vogue since December 2000. The guidelines were revised on January  07, 2004, keeping in view the market developments, experience gained over time  and introduction of new products like exchange traded derivatives. The present  circular has been updated with the guidelines on  capital funds and capital requirements issued since then.
+2 Capital Funds
+2.1 Capital funds include Tier-I and II  capital.
+2.2 Tier-I Capital
+Tier-I  capital means paid-up capital, statutory reserves and other disclosed free  reserves. Investment in subsidiaries (where applicable), intangible assets,  losses in current accounting period, deferred tax asset and losses brought  forward from previous accounting periods will be deducted from the Tier-I  capital.
+In  case any PD is having substantial interest/exposure (as defined for NBFCs) by  way of loans and advances not related to business relationship in other Group  companies, such amounts will be deducted from its Tier-I capital.
+2.3 Tier-II Capital
+Tier-II capital includes the following:
+(i) Undisclosed reserves and cumulative  preference shares
+1
+(other  than those which are compulsorily convertible into equity). Cumulative preferential  shares should be fully paid-up and should not contain clauses which permit  redemption by the holder.
+(ii) Revaluation  reserves, discounted at a rate of fifty five percent.
+(iii) General provisions  and loss reserves (to the extent these are not  attributable to actual diminution in  value or identifiable potential loss in any specific asset and are available to meet unexpected  losses), up to a maximum of 1.25 percent of total risk weighted assets.
+(iv) Hybrid  debt capital instruments, which combine certain characteristics of equity and debt.
+Subordinated  Debt (SD):
+The instrument should be fully paid-up,  unsecured, subordinate to the claims of other creditors, free of restrictive  clauses, and should not be redeemable at the initiative of the holder or  without the consent of the Reserve Bank of India (RBI).
+SD instruments with an initial maturity of  less than 5 years or with a remaining maturity of one year or less should not  be included as part of Tier-II capital.
+SD instruments eligible to be reckoned as  Tier-II capital will be limited to 50 percent of Tier-I capital.
+The SD instruments may be subjected to progressive  discount at the rates shown below:
+Residual Maturity    of Instruments
+Rate of Discount    (%)
+Less than one year
+100
+One year and more    but less than two years
+80
+Two years and more    but less than three years
+60
+Three years and    more but less than four years
+40
+Four years and more    but less than five years
+20
+2.4 Guidelines  on SD Bonds (Tier-II Capital)
+The amount to be raised may be decided by the  Board of Directors of the PD.
+The PDs may fix coupon rates as decided by  their Board.
+The instruments should be 'plain vanilla'  with no special features like options, etc.
+The debt securities should carry a credit  rating from a Credit Rating Agency registered with the Securities and Exchange  Board of India (SEBI).
+The issue of SD instruments should comply  with the guidelines issued by SEBI vide their circular  SEBI/MRD/SE/AT/36/2003/30/09 dated September 30, 2003 (ref:  www.sebi.gov.in/circulars), as amended from time to time, wherever applicable.
+In case of unlisted issues of SD, the  disclosure requirements as prescribed by the SEBI for listed companies in terms  of the above guidelines should be complied with.
+Necessary permission from the Foreign  Exchange Department of the RBI should be obtained for issuing the instruments  to Non-Resident Indians/Foreign Institutional Investors (FIIs). PDs should  comply with the terms and conditions, if any, prescribed by SEBI / other  regulatory authorities with regard to issue of the instruments.
+Investments by PDs in SD of other PDs/banks  will be assigned 100% risk weight for capital adequacy purpose. Further, the  PD’s aggregate investments in Tier-II bonds issued by other PDs, banks and  financial institutions should be restricted to 10 percent of the investing PD's  total capital funds. The capital funds for this purpose will be the same as those  reckoned for the purpose of capital adequacy.
+The PDs should submit a report to the Chief  General Manager, Internal Debt Management Department (IDMD), RBI,  Mumbai-400001, giving details of the capital raised, such as, amount raised,  maturity of the instrument, rate of interest together with a copy of the offer  document, soon after the issue is completed.
+2.5 Minimum CRAR ratio
+PDs are required to maintain a minimum Capital to Risk-Weighted  Assets Ratio (CRAR) of 15 percent on an ongoing basis.
+3 Measurement of Risk Weighted Assets
+The details of credit risk weights for  various on-balance sheet and off-balance sheet items and methodology of computing the risk  weighted assets for the credit risk are listed in
+Annex A
+. The procedure for calculating capital charge for market  risk is detailed in
+Annex B
+.
+4. Capital  Adequacy requirements
+4.1 The capital charge for credit  risk and market risk as indicated in Annex A and Annex B, need to be maintained at  all times.
+4.2 In  calculating eligible capital, it will be necessary first to calculate the PD’s  minimum capital requirement for credit risk, and thereafter its market risk  requirement, to establish how much Tier-I and Tier-II capital is available to  support market risk. Of the 15% capital charge for credit risk, at least 50% should be met  by Tier-I capital, that is, the total of Tier-II capital, if any, should not  exceed one hundred per cent of Tier-I capital, at any point of time, for  meeting the capital charge for credit risk.
+4.3 Subordinated debt as Tier-II capital should not exceed 50 per cent of  Tier-I capital.
+4.4 The total of Tier-II capital should  not exceed 100% of Tier-I capital.
+4.5 Eligible  capital will be the sum of the whole of the PD’s Tier-I capital, plus all of  its Tier-II capital under the limits imposed, as summarized above.
+4.6 The overall  capital adequacy ratio will be calculated by establishing an explicit numerical  link between the credit risk and the market risk factors, by multiplying the  market risk capital charge with 6.67 i.e. the reciprocal of the minimum credit  risk capital charge of 15 per cent.
+4.7 The resultant figure is added to  the sum of risk weighted assets worked out for credit risk purpose. The  numerator for calculating the overall ratio will be the PD’s total capital  funds (Tier-I and Tier-II capital, after applicable deductions, if any). The  calculation of capital charge is illustrated in PDR III format, enclosed as Annex C.
+5 Regulatory reporting of Capital  adequacy
+All  PDs should report the position of their capital adequacy in PDR III return (
+Annex  C
+) on a quarterly basis. Apart from the Appendices I to V which are to be  submitted along with PDR III return, PDs should also take into consideration  the criteria for use of internal model  to measure market risk capital charge (
+Annex D
+) along with the  "Back Testing" mechanism (
+Annex  E
+).
+6 Diversification  of PD Activities
+6.1 The guidelines on diversification of activities by stand-alone PDs  have been issued vide circular IDMD.PDRS.26/03.64.00/2006-07 dated July 4, 2006  and detailed in the Master Circular on Operational Guidelines to Primary  Dealers dated July 1, 2014.
+6.2 The capital charge for market risk {Value-at-Risk (VaR) calculated  at 99 per cent confidence level, 15-day holding period, with multiplier of 3.3}  for the activities defined below should not be more than 20 per cent of the Net  Owned Fund
+2
+(NOF)  as per the last audited balance sheet:
+Investment / trading in equity and equity  derivatives
+Investment in units of equity oriented mutual  funds
+Underwriting public issues of equity
+6.3 PDs may calculate the capital charge for  market risk on the stock positions/ underlying stock positions /units of equity  oriented mutual funds using Internal Models (VaR based) as per the guidelines  prescribed in
+Appendix III
+of
+Annex C
+. As regards credit risk arising  out of exposure in equity, equity derivatives and equity oriented mutual funds,  PDs may calculate the capital charge as per the guidelines prescribed in
+Annex A
+.
+7 Risk  reporting of derivative business
+In order to capture interest rate risk arising out of Rupee  interest rate derivative business, all PDs are advised to report the Rupee interest  rate derivative transactions, as per the format enclosed in
+Annex F
+, to the Chief General Manager, IDMD,  RBI, Central Office, Mumbai-400001, as on last working day of every month.
+Annex B
+(See paras 3  and 4.1 of the main guidelines)
+MEASUREMENT  OF MARKET RISK
+Market risk may be  defined as the risk of loss arising from movements in market prices or rates  away from the rates or prices set out in a transaction or agreement. The  objective in introducing the capital adequacy for market risk is to provide an  explicit capital cushion for the price risk to which the PDs are exposed to in  their portfolio.
+2. The capital charge for market risks should  be worked out by the standardised approach and the internal risk management  framework based Value at Risk (VaR) model. The capital charge for market risk  to be provided by PDs would be higher of the two requirements. However, where price data is not available for  specific category of assets, PDs may follow the standardised approach for  computation of market risk. In such a situation, PDs should disclose to RBI,  details of such assets and ensure that consistency of approach is followed. PDs should obtain RBI’s permission before  excluding any category of asset for calculations of market risk. PDs would  normally consider the instruments of the nature of fixed deposits, commercial  bills etc., for this purpose. Such items will be held in the books till  maturity and any diminution in the value will have to be provided for in the  books.
+Note:
+In  case of underwriting commitments, following points should be adhered to:
+In case of devolvement of underwriting commitment for G-Sec,  100% of the devolved amount would qualify for the measurement of market risk.
+In case of underwriting under merchant banking issues (other than G-Sec),  where price has been committed/frozen at the time of underwriting, the  commitment is to be treated as a contingent liability and 50% of the commitment  should be included in the position for market risk. However, 100% of devolved  position should be subjected to market risk measurement.
+3. The methodology for working out the  capital charges for market risk on the portfolio is as below:
+A. Standardized  Approach
+Capital  charge will be the measure of risk arrived at in terms of paras A1 – A3 below,  summed arithmetically.
+A1. For Fixed Income Instruments
+Duration method would continue to apply as hitherto. Under this, the  price sensitivity of all interest rate positions viz., Dated securities,  Treasury bills, Commercial papers, PSU/FI/Corporate Bonds, Special Bonds,  Mutual Fund units and derivative instruments like IRS, FRA, IRF etc., including  underwriting commitments/devolvement and other contingent liabilities having  interest rate/equity risk will be captured.
+In  duration method, the capital charge is the sum of four components namely:
+a) the net short or long position in the whole  trading book;
+b) a  small proportion of the matched positions in each time-band (the “
+vertical disallowance
+’’);
+c) a  larger proportion of the matched positions across different time-bands (the “
+horizontal  disallowance
+’’) ;and
+d) a net charge for positions in options, where  appropriate.
+Note 1
+: Since short position in India is allowed only  in derivatives and G-Sec, netting as indicated at (a) and the system of  `disallowances’ as at (b) and (c) above are applicable currently only to the  PDs entering into FRAs / IRSs / exchange traded derivatives and G-Sec.
+However,  under the duration method, PDs with the necessary capability may, with RBI’s  permission use a more accurate method of measuring all of their general market  risks by calculating the price sensitivity of each position separately. PDs must select and use the method on a  consistent basis and the system adopted will be subjected to monitoring by the RBI. The mechanics of this method are as follow:
+first calculate the price sensitivity of all  instruments in terms of a change in interest rates between 0.6 and 1.0  percentage points depending on the duration of the instrument (as per
+Table 1
+given below );
+slot the resulting sensitivity measures into  a duration-based ladder with the thirteen time-bands set out in Table 1
+;
+subject the lower of the long and short  positions in each time-band to a 5% capital charge towards vertical  disallowance designed to capture basis risk;
+carry forward the net positions in each  time-band for horizontal offsetting across the zones subject to the  disallowances set out in
+Table 2
+.
+Note 2:
+Points (iii) and (iv) above are applicable  only where opposite positions exist as explained at Note 1 above.
+Table 1
+Duration time-bands and assumed changes in yield (%)
+Zone 1
+0 to 1 month
+1.00
+1 to 3 months
+1.00
+3 to 6 months
+1.00
+6 to 12 months
+1.00
+Zone 2
+1 to 2 years
+0.95
+2 to 3 years
+0.90
+3 to 4 years
+0.85
+Zone 3
+4 to 5 years
+0.85
+5 to 7 years
+0.80
+7 to 10 years
+0.75
+10 to 15 years
+0.70
+15 to 20 years
+0.65
+Over 20 years
+0.60
+Table 2
+Horizontal disallowances
+Zones
+Time-band
+Within the zone
+Between adjacent zones
+Between zones 1 and 3
+Zone 1
+0 – month
+40%
+40%
+100%
+1 – 3 months
+3 – 6 months
+6 – 12 months
+Zone 2
+1 – 2 years
+30%
+2 – 3 years
+3 – 4 years
+Zone 3
+4 – 5 years
+30%
+5 – 7 years
+7 – 10 years
+10 – 15 years
+15 – 20 years
+Over 20 years
+The gross positions in each time-band will be subject to  risk weighting as per the assumed change in yield set out in Table 1, with no  further offsets.
+A1.1 Capital charge for interest rate derivatives
+The measurement system should include all interest  rate derivatives and off balance-sheet instruments in the trading book which  react to changes in interest rates, (e.g. FRAs, other forward contracts, bond  futures, interest rate positions).
+A1.2 Calculation of positions
+Derivatives should be converted into positions in  the relevant underlying and subjected to market risk charges as described  above. In order to calculate the market risk as per the standardized approach described  above, the amounts reported should be the market value of the principal amount  of the underlying or of the notional underlying.
+A1.3 Futures and Forward Contracts (including  FRAs)
+These instruments are treated as a combination of a  long and a short position in a notional government security. The maturity of a  future contract or an FRA will be the period until delivery or exercise of the  contract, plus - where applicable - the life of the underlying instrument. For  example, a long position in a June three-month IRF taken in April is to be  reported as a long position in a government security with a maturity of five  months and a short position in a government security with a maturity of two months.  Where a range of deliverable instruments may be delivered to fulfill the  contract, the PD has flexibility to elect which deliverable security goes into  the maturity or duration ladder but should take account of any conversion  factor defined by the exchange. In the case of a future on a corporate bond  index, positions will be included at the market value of the notional  underlying portfolio of securities.
+A1.4 Swaps
+Swaps will be treated as two notional positions in G-Sec  with relevant maturities. For example, an IRS under which a PD is receiving  floating rate interest and paying fixed will be treated as a long position in a  floating rate instrument of maturity equivalent to the period until the next  interest fixing and a short position in a fixed-rate instrument of maturity  equivalent to the residual life of the swap. For swaps that pay or receive a  fixed or floating interest rate against some other reference price, e.g. a  stock index, the interest rate component should be slotted into the appropriate  re-pricing maturity category, with the equity component being included in the  equity framework.
+A1.5 Calculation of capital charges
+Allowable  offsetting of matched positions - PDs  may exclude from the interest rate maturity framework altogether (long and  short positions, both actual and notional) in identical instruments with  exactly the same issuer, coupon and maturity. A matched position in a future or  forward and its corresponding underlying may also be fully offset, and thus  excluded from the calculation. When the future or the forward comprises a range  of deliverable instruments, offsetting of positions in the future or forward  contract and its underlying is only permissible in cases where there is a  readily identifiable underlying security which is most profitable for the  trader with a short position to deliver. The leg representing the time to  expiry of the future should, however, be taken into account. The price of this  security, sometimes called the "cheapest-to-deliver", and the price  of the future or forward contract should in such cases move in close alignment.
+In addition, opposite  positions in the same category of instruments can in certain circumstances be  regarded as matched and allowed to offset fully. To qualify for this treatment  the positions must relate to the same underlying instruments and be of the same  nominal value. In addition:
+(i)
+For futures
+: offsetting  positions in the notional or underlying instruments to which the futures  contract relates must be for identical products and mature within seven days of  each other;
+(ii)
+For swaps and FRAs
+: the reference rate  (for floating rate positions) must be identical and the coupon closely matched  (i.e. within 15 basis points); and
+(iii)
+For swaps, FRAs and  forwards
+:  the next interest fixing date or, for fixed coupon positions or forwards, the  residual maturity must correspond within the following limits:
+less  than one month hence: same day;
+between  one month and one year hence: within seven days;
+over  one year hence: within thirty days.
+PDs with large swap books may use alternative  formulae for these swaps to calculate the positions to be included in the  duration ladder. One method would be to first convert the payments required by  the swap into their present values. For that purpose, each payment should be  discounted using zero coupon yields, and a single net figure for the present value of the cash flows entered into  the appropriate time-band using procedures that apply to zero (or low) coupon  bonds; these figures should be slotted into the general market risk framework  as set out earlier. An alternative method would be to calculate the sensitivity  of the net present value implied by the change in yield used in the duration  method and allocate these sensitivities into the time-bands set out in Table 1.  Other methods which produce similar results could also be used. Such  alternative treatments will, however, only be allowed if:
+the supervisory authority is fully satisfied with the accuracy of the  systems being used;
+the  positions calculated fully reflect the sensitivity of the cash flows to  interest rate changes and are entered into the appropriate time-bands;
+General market risk applies to positions in all  derivative products in the same manner as for cash positions, subject only to  an exemption for fully or very closely-matched positions in identical  instruments as defined in above paragraphs. The various categories of  instruments should be slotted into the maturity ladder and treated according to  the rules identified earlier.
+A2 Capital charge for equity positions
+8
+A2.1 Equity positions
+This section sets out a  minimum capital standard to cover the risk of holding or taking positions in  equities by the PDs. It applies to long  and short positions in all instruments that exhibit market behavior similar to  equities, but not to non-convertible preference shares (which will be covered  by the interest rate risk requirements).  Long and short positions in the same issue may be reported on a net  basis. The instruments covered include  equity shares, convertible securities that behave like equities, i.e., units of  Mutual Funds and commitments to buy or sell equities. The equity or equity like positions including those arrived at in  relation to equity /index derivatives as described in following sections may be  included in the duration ladder below one month.
+A2.2 Equity derivatives
+Equity derivatives and off  balance-sheet positions which are affected by changes in equity prices should  be included in the measurement system. This includes futures and swaps on both  individual equities and on stock indices. The derivatives are to be converted  into positions in the relevant underlying.
+A2.3 Calculation of positions
+In order to calculate the market risk as per the  standardized approach for credit and market risk, positions in derivatives  should be converted into notional equity positions:
+futures  and forward contracts relating to individual equities should in principle be  reported at current market prices;
+futures  relating to stock indices should be reported as the marked-to-market value of  the notional underlying equity portfolio;
+equity  swaps are to be treated as two notional positions
+A3 Capital Charge for Foreign Exchange (FE)  Position (
+if permitted
+):
+PDs normally would not be dealing in FE  transactions. However, as they have been permitted to raise resources under  FCNR (B) loan route, subject to prescribed guidelines, they may end up holding  open FE positions. Such open positions in equivalent rupees arrived at by  marking to market at FEDAI rates will be subject to a flat market risk charge  of 15 per cent.
+B. Internal risk management framework based  method
+The PDs should  calculate the capital requirement based on their internal risk management  framework based VaR model for market risk, as per the following minimum  parameters:
+VaR
+must be computed on a daily basis at a 99th percentile, one-tailed  confidence interval.
+An  instantaneous price shock equivalent to a 15-day movement in prices is to be  used, i.e. the minimum "holding period" will be fifteen trading days.
+Interest  rate sensitivity of the entire portfolio should be captured on an integrated  basis by including all fixed income securities like G-Sec, Corporate/PSU bonds,  CPs and derivatives like IRS, FRAs, IRFs, etc., based on the mapping of the  cash flows to work out the portfolio VaR. Wherever data for calculating  volatilities is not available, PDs may calculate the volatilities of such  instruments using the G-Sec yield curve with appropriate spread. However, the  details of such instruments and the spreads applied have to be reported and  consistency of methodology should be ensured.
+Instruments  which are part of trading book, but found difficult to be subjected to  measurement of market risk may be applied a flat market risk measure of 15 per  cent. These include units of Mutual Funds, unquoted equity, etc., and should be  added arithmetically to the measure obtained under VaR in respect of other  instruments.
+Underwriting  commitments as explained at the beginning of the Annex should also be mapped  into the VaR framework for risk measurement purposes.
+The  unhedged FE position arising out of the foreign currency borrowings under FCNR (B)  loans scheme would carry a market risk of 15 per cent as hitherto and the  measure obtained will be added arithmetically to the VaR measure obtained for  other instruments.
+The  choice of
+historical observation period
+(sample period) for calculating VaR will be constrained to a minimum length of  one year and not less than
+250
+trading days. For PDs who use a  weighting scheme or other methods for the historical observation period, the  "effective" observation period must be at least one year (that is,  the weighted average time lag of the individual observations cannot be less  than 6 months).
+The  capital requirement will be the higher of:
+a) the  previous day's VaR number measured according to the above parameters specified  in this section; and
+b) the  average of the daily VaR measures on each of the preceding
+sixty
+business days, multiplied by a multiplication factor  prescribed by the RBI (3.3 presently).
+No  particular type of model is prescribed.  So long as the model used captures all the material risks run by the  PDs, they will be free to use models, based for example, on variance-covariance  matrices, historical simulations, Monte Carlo simulations or Extreme Value Theory  (EVT), etc.
+The criteria for use of internal model to measure  market risk capital charge are given in
+Annex  D
+.
+Annex D
+(See para 5)
+Criteria  for use of internal model to measure market risk capital charge
+A General criteria
+1. In  order that the internal model is effective, it should be ensured that :
+the  PD's risk management system is  conceptually sound and its implementation is certified by external auditors;
+the PD has sufficient number of staff  skilled in the use of sophisticated models not only in the trading area but  also in the risk control, audit, and back office areas;
+the PD has a proven track record of  reasonable accuracy in measuring risk (back testing);
+the  PD regularly conducts stress tests along  the lines discussed in Para B.4 below
+2. In addition to these general criteria, PDs  using internal models for capital purposes will be subject to the requirements  detailed in Sections B.1 to B.5 below.
+B.1 Qualitative  standards
+The extent to which  PDs meet the qualitative criteria contained herein will influence the level at  which the RBI will ultimately set the multiplication factor referred to in  Section B3 (b) below, for the PDs. Only those PDs, whose models are in full  compliance with the qualitative criteria, will be eligible for use of the  minimum multiplication factor. The qualitative criteria include:
+A PD  should have an independent risk control unit that is responsible for the design  and implementation of the system. The unit should produce and analyze daily  reports on the output of the PD's risk measurement model, including an  evaluation of the relationship between measures of risk exposure and trading  limits. This unit must be independent from trading desks and should report  directly to senior management.
+The  unit should conduct a regular back testing programme, i.e. an ex-post  comparison of the risk measure generated by the model against actual daily  changes in portfolio value over longer periods of time, as well as hypothetical  changes based on static positions.
+Board  and senior management should be actively involved in the risk control process  and must regard risk control as an essential aspect of the business to which  significant resources need to be devoted.  The daily reports prepared by the independent risk control unit must be  reviewed by a level of management with sufficient seniority and authority to  enforce both reductions in positions taken by individual traders and reductions  in the PD’s overall risk exposure.
+The  PD’s internal risk measurement model must be closely integrated into the  day-to-day risk management process of the institution. Its output should accordingly be an integral  part of the process of planning, monitoring and controlling the PD’s market  risk profile.
+The  risk measurement system should be used in conjunction with internal trading and  exposure limits. Trading limits should  be related to the PD’s risk measurement model in a manner that is consistent  over time and that it is well-understood by both traders and senior management.
+A  routine and rigorous programme of stress testing should be in place as a  supplement to the risk analysis based on the day-to-day output of the PD’s risk  measurement model. The results of stress  testing should be reviewed periodically by senior management and reflected in  the policies and limits set by management and the Board. Where stress tests reveal particular  vulnerability to a given set of circumstances, prompt steps should be taken to  manage those risks appropriately.
+PDs  should have a routine in place for ensuring compliance with a documented set of  internal policies, controls and procedures concerning the operation of the risk  measurement system. The risk measurement system must be well documented, for  example, through a manual that describes the basic principles of the risk  management system and that provides an explanation of the empirical techniques  used to measure market risk.
+An  independent review of the risk measurement system should be carried out  regularly in the PD’s own internal auditing process. This review should include the activities of  the trading desks as well as the risk control unit. A review of the overall risk management  process should take place at regular intervals (ideally not less than once a  year) and should specifically address, at a minimum:
+the adequacy of the  documentation of the risk management system and process;
+the organization of  the risk control unit ;
+the integration of  market risk measures into daily risk management;
+the approval process  for risk pricing models and valuation systems used by front and back-office  personnel;
+the validation of any  significant change in the risk measurement process;
+the scope of market  risks captured by the risk measurement model;
+the integrity of the  management information system;
+the accuracy and  completeness of position data;
+the verification of  the consistency, timeliness and reliability of data sources used to run  internal models, including the independence of such data sources;
+the accuracy and  appropriateness of volatility and other  assumptions;
+the accuracy of  valuation and risk transformation calculations;
+the verification of  the model's accuracy through frequent back testing as described in (b) above  and in the
+Annex E
+.
+The  integrity and implementation of the risk management system in accordance with  the system policies/procedures laid down by the Board should be certified by  the external auditors as outlined at Para B.5.
+A  copy of the back testing result should be furnished to RBI.
+B.2 Specification  of market risk factors
+An important part of a PD’s  internal market risk measurement system is the specification of an appropriate  set of market risk factors, i.e. the market rates and prices that affect the  value of the PD’s trading positions. The  risk factors contained in a market risk measurement system should be sufficient  to capture the risks inherent in the entire portfolio of the PD. The following guidelines should be kept in  view:
+(a) For
+interest  rates,
+there must be a set of risk factors corresponding to interest rates  in each portfolio in which the PD has interest-rate-sensitive on-or-off-balance  sheet positions. Th
+e risk measureme
+nt  system should model the yield curve using one of a number of generally accepted  approaches, for example, by estimating forward rates of zero coupon  yields. The yield curve should be  divided into various maturity segments in order to capture variation in the  volatility of rates along the yield curve. For material exposures to interest  rate movements in the major instruments, PDs must model the yield curve using  all material risk factors, driven by the nature of the PD’s trading  strategies. For instance, a PD with a  portfolio of various types of securities across many points of the yield curve  and engaged in complex trading strategies would require a greater number of  risk factors to capture interest rate risk accurately. The
+risk measurement
+system must incorporate separate risk factors to  capture spread risk (e.g. between bonds and swaps), i.e. risk arising from less  than perfectly correlated movements b
+etween  Governmen
+t and other fixed-income instruments.
+(b) For
+equity prices,
+at a minimum, there  should be a risk factor that is designed to capture market-wide movements in  equity prices (e.g. a market index).  Position in individual securities or in sector indices could be  expressed in "beta-equivalents" relative to this market-wide index.  More detailed approach would be to have risk factors corresponding to various  sectors of the equity market (for instance, industry sectors or cyclical,  etc.), or the most extensive approach, wherein, risk factors corresponding to the  volatility of individual equity issues are assessed. The method could be  decided by the PDs corresponding to their exposure to the equity market and  concentrations.
+B.3 Quantitative  standards
+(a) PDs should update their
+data sets
+at least once every three months and should also reassess  them whenever market prices are subject to material changes. RBI may also require PDs to calculate their VaR  using a shorter observation period if, in its judgement, this is justified by a  significant upsurge in price volatility.
+(b) The multiplication factor will be set by RBI  on the basis of the assessment of the quality of the PD’s risk management  system, as also the back testing framework and results, subject to an absolute  minimum of 3. The document
+`Back testing’  mechanism to be used
+in conjunction  with the internal risk based model for market risk capital charge’,
+enclosed  as
+Annex E
+, presents in detail the  back testing mechanism.
+PDs  will have flexibility in devising the precise nature of their models, but the  parameters indicated at B.1, B.2 and B.3 above are the minimum which the PDs  need to fulfill for acceptance of the model for the purpose of calculating  their capital charge. RBI will have the discretion to apply stricter standards.
+B.4 Stress testing
+1. PDs  that use the internal models approach for meeting market risk capital  requirements must have in place a rigorous and comprehensive stress testing  program to identify events or influences that could greatly impact them.
+2. Stress scenarios of PDs need to cover a  range of factors than can create extraordinary losses or gains in trading  portfolios, or make the control of risk in those portfolios very  difficult. These factors include  low-probability events in all major types of risks, including the various components  of market, credit and operational risks.
+3. Stress test of PDs should be both of a  quantitative and qualitative nature, incorporating both market risk and  liquidity aspects of market disturbances.   Quantitative criteria should identify plausible stress scenarios to  which PDs could be exposed.  Qualitative  criteria should emphasize that two major goals of stress testing are to  evaluate the capacity of the PD’s capital to absorb potential large losses and  to identify steps the PD can take to reduce its risk and conserve capital.  This assessment is integral to setting and  evaluating the PD’s management strategy and the results of stress testing  should be regularly communicated to senior management and, periodically, to the  Board of the PD.
+4. PDs should combine the standard stress  scenarios with stress tests developed by PDs themselves to reflect their  specific risk characteristics. Specifically, RBI may ask PDs to provide  information on stress testing in three broad areas as discussed below.
+(a)  Scenarios requiring no simulations by a PD
+PDs should have information on the largest  losses experienced during the reporting period available for RBI’s review.  This loss information could be compared to  the level of capital that results from a PD’s internal measurement system.  For example, it could provide RBI with a  picture of how many days of peak day losses would have been covered by a given VaR  estimate.
+(b)  Scenarios requiring a simulation by a PD
+PDs  should subject their portfolios to a series of simulated stress scenarios and  provide RBI with the results.  These  scenarios could include testing the current portfolio against past periods of  significant disturbance, incorporating both the large price movements and the  sharp reduction in liquidity associated with these events. A second type of  scenario would evaluate the sensitivity of the PD’s market risk exposure to  changes in the assumptions about volatilities and correlations.  Applying this test would require an  evaluation of the historical range of variation for volatilities and  correlations and evaluation of the PD’s current positions against the extreme  values of the historical range.  Due  consideration should be given to the sharp variation that at times has occurred  in a matter of days in periods of significant market disturbance.
+(c) Scenarios  developed by a PD to capture the specific characteristics of its portfolio
+In addition to the scenarios prescribed by RBI under (a) and  (b) above, a PD should also develop its own stress tests which it identified as  most adverse based on the characteristics of its portfolio. PDs should provide  RBI with a description of the methodology used to identify and carry out stress  testing under the scenarios, as well as with a description of the results  derived from these scenarios.
+The results  should be reviewed periodically by senior management and should be reflected in  the policies and limits set by management and the Board.  Moreover, if the testing reveals particular  vulnerability to a given set of circumstances, the RBI would expect the PD to  take prompt steps to manage those risks appropriately (e.g. by reducing the  size of its exposures).
+B.5 External Validation
+PDs  should get the internal model validated by external auditors, including at a  minimum, the following:
+Verifying  that the
+internal validation processes
+described  in B.1(h) are operating in a satisfactory manner.
+Ensuring  that the
+formulae
+used in the  calculation process as well as for the pricing of complex instruments are  validated by a qualified unit, which in all cases should be independent from  the trading desks.
+Checking  that the
+structure
+of internal model  is adequate with respect to the PD’s activities and geographical coverage.
+Checking  the results of the PD’s back testing of its internal measurement system (i.e.  comparing VaR estimates with actual profits and losses) to ensure that the  model provides a reliable measure of potential losses over time. PDs should  make the results as well as the underlying inputs to their VaR calculations  available to the external auditors.
+Making  sure that data flows and processes associated with the risk measurement system  are
+transparent and accessible.
+In particular, it is necessary that auditors  are in a position to have easy access, wherever they judge it necessary and  under appropriate procedures, to the model’s specifications and parameters.
+Annex E
+(See para 5)
+BACK  TESTING
+“Back  Testing” mechanism to be used in conjunction with the internal risk based
+model  for market risk capital charge
+The  following are the parameters of the back testing framework for incorporating  into the internal models approach to market risk capital requirements.
+2. PDs that have adopted an internal  model-based approach to market risk measurement are required routinely to  compare daily profits and losses with model-generated risk measures to gauge  the quality and accuracy of their risk measurement systems.  This process is known as "back  testing". The objective is the comparison of actual trading results with  model-generated risk measures. If the comparison uncovers sufficient  differences, there may be problems, either with the model or with the  assumptions of the back test.
+3. Description of the back testing  framework
+3.1 The back testing program consists of a  periodic comparison of the PD’s daily VaR measures with the subsequent daily  profit or loss (“trading outcome”).   Comparing the risk measures with the trading outcomes simply means that  the PD counts the number of times that the risk measures were larger than the  trading outcome. The fraction actually  covered can then be compared with the intended level of coverage to gauge the  performance of the PD’s risk model.
+3.2 Under the VaR framework, the risk measure  is an estimate of the amount that could be lost on a set of positions due to  general market movements over a given holding period, measured using a  specified confidence level. The back tests are applied to compare whether the  observed percentage of outcomes covered by the risk measure is consistent with  a 99% level of confidence. That is, back tests attempt to determine if a PD’s  99th percentile risk measures truly cover 99% of the firm’s trading  outcomes.
+3.3 Significant changes in portfolio  composition relative to the initial positions are common at end of trading  day.  For this reason, the back testing  framework suggested involves the use of risk measures calibrated to a one-day  holding period.  A more sophisticated  approach would involve a detailed attribution of income by source, including  fees, spreads, market movements, and intra-day trading results.
+3.4 PDs should perform back tests based on  the hypothetical changes in portfolio value that would occur; presuming end-of-day  positions remain unchanged.
+3.5 Back testing using actual daily profits  and losses is also a useful exercise since it can uncover cases where the risk  measures are not accurately capturing trading volatility in spite of being  calculated with integrity.
+3.6 PDs should perform back tests using both  hypothetical and actual trading outcomes.   The steps involve calculation of the number of times the trading  outcomes are not covered by the risk measures (“exceptions”).  For example, over 200 trading days, a 99%  daily risk measure should cover, on average, 198 of the 200 trading outcomes,  leaving two exceptions.
+3.7 The back testing framework to be applied  entails a formal testing and accounting of exceptions on a quarterly basis  using the most recent twelve months as on date. PDs may however base the back  test on as many observations as possible. Nevertheless, the most recent 250  trading days' observations should be used for the purposes of back testing. The  usage of the number of exceptions as the primary reference point in the back  testing process is the simplicity and straightforwardness of this  approach.
+3.8 Normally, in view of the 99% confidence  level adopted, 2.5 exceptions may be acceptable in the observation period of  250 days. However, in Indian context, a level of 4 exceptions would be  acceptable to consider the model as accurate.   Exceptions above this, would invite supervisory actions. Depending on  the number of exceptions generated by the PD’s back testing model, both actual  as well as hypothetical, RBI may initiate a dialogue regarding the PD’s model,  enhance the multiplication factor, may impose an increase in the capital  requirement or disallow use of the model as indicated above depending on the  number of exceptions.
+3.9 In case large number of exceptions is  being noticed, it may be useful for the PDs to dis-aggregate their activities  into sub sectors in order to identify the large exceptions on their own. The  reasons could be of the following categories:
+a) Basic integrity of  the model
+The PD’s systems simply are not capturing the  risk of the positions themselves (e.g. the positions of an office are being  reported incorrectly).
+Model volatilities and/or correlations were  calculated incorrectly (e.g. the computer is dividing by 250 when it should be  dividing by 225).
+b) Model’s accuracy could be improved
+The risk measurement model  is not assessing the risk of some instruments with sufficient precision (e.g.  too few maturity buckets or an omitted spread).
+c) Bad luck or markets moved in fashion unanticipated by the model
+Random chance (a very low probability event).
+Markets moved by more than the likely prediction of  the model (i.e. volatility was significantly higher than expected).
+Markets did not move together as expected (i.e.  correlations were significantly different than what was assumed by the model).
+d) Intra-day trading
+There was a large (and  money-losing) change in the PD’s position or some other income event between  the end of the first day (when the risk estimate was calculated) and the end of  the second day (when trading results were tabulated).
+Annex G
+List of Circulars Consolidated
+No
+Circular no
+Date
+Subject
+1
+IDMD.1 / (PDRS) 03.64.00/2003-04
+January 07, 2004
+Capital Adequacy    Standards and Risk Management Guidelines for Primary Dealers
+2
+IDMD.PDRS.No.06    /03.64.00 /2004-05
+October 15, 2004
+Capital Adequacy    Standards  – Guidelines on Issue of Subordinated Debt    Instruments – Tier- II and Tier-III Capital
+3
+IDMD.    PDRS.26/03.64.00 /2006-07
+July 4, 2006
+Diversification    of activities by stand-alone Primary Dealers - Operational Guidelines
+4
+IDMD.PDRS.No.148 / 03.64.00 / 2006-07
+July 10, 2006
+Risk reporting of    derivatives business
+5
+IDMD.    PDRD. No. 4878/03.64.00 /2008-09
+April 1, 2009
+Issue of Tier-II    and Tier-III Capital
+6
+IDMD.PDRD.No.   / 03.64.00 / 2009-10
+April 9, 2010
+Mail box clarifications    - on conversion factor for off-balance sheet items
+7
+IDMD.PCD.No. / 03.64.00 / 2009-10
+April 5, 2011
+Mail box    clarifications- Tier-III bonds issued by standalone PDs
+8
+IDMD.  PCD. No. 2301/14.03.04 /2011‐12
+November 30, 2011
+Guidelines on Capital Adequacy and Exposure    Norms for Credit Default Swaps (CDS)
+9
+IDMD.PCD.No.4896/14.03.05  /2011-12
+June 27, 2012
+Phasing out    Tier-III capital for standalone PDs
+10
+IDMD.  PCD. No. 2223/14.03.05 /2012-13
+January 30, 2013
+Measures to    enhance the role of standalone Primary Dealers in Corporate Bond Market
+11
+IDMD.PCD.11/14.03.05/  2013-14
+March 27, 2014
+Capital    requirements for standalone Primary Dealers’ exposure to interest rate    derivative contracts, repo/reverse repo transactions and central    counterparties
+1
+Cumulative preference shares (prefs) will accumulate  any dividend that is not paid when due and no dividends can be paid on ordinary  shares until the entire backlog of unpaid dividends on cumulative prefs is  cleared.
+2
+In terms of the explanatory  note to Section 45-IA of Chapter III-B of the RBI Act, 1934, NOF is calculated  as (a) the aggregate of the paid-up equity capital  and free reserves as disclosed in the latest balance-sheet of the company after  deducting there from– (i) accumulated balance of loss; (ii) deferred revenue  expenditure; and (iii) other intangible assets; and (b) further reduced by the  amounts representing– (1) investments of such company in shares of– (i) its  subsidiaries; (ii) companies in the same group; (iii) all other non-banking  financial companies; and (2) the book value of debentures, bonds, outstanding  loans and advances (including hire-purchase and lease finance) made to, and  deposits with,– (i) subsidiaries of such company; and (ii) companies in the  same group, to the extent such amount exceeds ten per cent of (a) above.
+8
+As per the circular IDMD.PDRS.26/03.64.00/2006-07  dated July 4, 2006 on "Diversification of PD Activities", PDs have  been allowed to calculate the capital charge for market risk on equity and  equity derivatives using the Internal Models approach only.

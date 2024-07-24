@@ -1,0 +1,22 @@
+(99 kb)
+Format of Statutory Auditors’ Certificate (SAC) to be submitted by NBFCs
+RBI/2015-16/433
+DNBS (PPD) CC.No./04/66.14.001/2015-16
+June 23, 2016
+To CEOs of All NBFCs (excluding RNBCs) and
+The President of ICAI
+Dear Sir/Madam,
+Format of Statutory Auditors’ Certificate (SAC) to be submitted by NBFCs
+Please refer to the
+Notification No. DNBS 192/DG (VL) dated Feb 22, 2007
+prescribing Prudential Norms Directions. In terms of the extant instructions, all NBFCs are required to submit a certificate from their Statutory Auditors every year to the effect that they continue to engage in the business of NBFI requiring it to hold a CoR under Section 45-IA of the RBI Act.
+2.
+With a view to ensure consistency in the manner in which the information is received from the Auditors, it has been decided to introduce a uniform format of the SAC. The NBFC would need to fill in the information, as applicable, in COSMOS. Thereafter, the SAC needs to be scanned and uploaded in COSMOS
+https://cosmos.rbi.org.in
+under the menu Upload Returns > Statutory Auditors Certificate. The
+format of the SAC
+is attached herewith.
+Yours faithfully
+(Dr. Sathyan David)
+Chief General Manager
+Encl: Format of Return

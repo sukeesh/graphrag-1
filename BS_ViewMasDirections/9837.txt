@@ -1,0 +1,648 @@
+(485 kb)
+Master Circular – Para-banking Activities
+RBI/2015-16/30
+DBR.No.FSD.BC.19/24.01.001/2015-16
+July 1, 2015
+Asadha 10,1937 (Saka)
+All Scheduled Commercial Banks
+(Excluding RRBs)
+Dear Sir/Madam
+Master Circular – Para-banking Activities
+Please refer to the
+Master Circular No.DBOD.FSD.BC.01/24.01.001/2014-15 dated July 1, 2014
+consolidating the instructions/guidelines issued to banks till June 30, 2014 on para-banking activities. This
+Master Circular
+consolidates instructions on the above matters issued up to June 30, 2015.
+Yours faithfully
+(Lily Vadera)
+Chief General Manager
+Encl: As above
+Table of Contents
+Paragraph No.
+Particulars
+A
+Purpose
+B
+Classification
+C
+Previous Guidelines Consolidated
+D
+Scope of Application
+1
+Introduction
+2
+Subsidiary Companies
+3
+Investment Ceiling in Subsidiaries and other Companies
+4
+Relationship with Subsidiaries
+5
+Relationship with Systemically Important NBFCs
+6
+Banks’ Investment in Venture Capital Funds
+7
+Banks as Sponsors to Infrastructure Debt Funds
+8
+Equipment Leasing, Hire Purchase and Factoring Businesses Buis business
+9
+Primary Dealership Business
+10
+Underwriting activities
+11
+Retailing of Government Securities
+12
+Mutual Fund Business
+13
+Money Market Mutual Funds
+14
+Cheque Writing Facility for Investors of Money Market Mutual Funds
+15
+Entry of Banks into Insurance business
+16
+Pension Fund Management by banks
+17
+Referral Services
+18
+Trading on/Membership of SEBI approved Stock Exchanges
+19
+Portfolio Management Services
+20
+Safety Net Schemes
+21
+Disclosure of Commissions/Remunerations
+Annex-1 Financial Services Companies
+Annex-2 Definition of Subsidiary, Associates, Joint ventures, Control and Significant Influence in terms of Indian Accounting Standards
+Annex-3 Guidelines for banks undertaking Insurance broking and agency business. broking and Agency Buisness Business
+Annex-4 Guidelines for Banks acting as Pension Fund Managers
+Appendix List of Circulars Consolidated in the Master Circular
+Master Circular – Para-banking Activities
+A. Purpose:
+To provide a framework of rules/regulations/instructions to the Scheduled Commercial Banks for undertaking certain financial services or para-banking activities as permitted by RBI, excluding issue of credit, debit and pre-paid cards for which a separate Master Circular has been issued. Banks should adopt adequate safeguards and implement the following guidelines in order to ensure that the financial services or para-banking activities undertaken by them are run on sound and prudent lines.
+B. Classification:
+A statutory guideline issued by the RBI
+C . Previous Guidelines Consolidated:
+This Master Circular consolidates the instructions contained in the circulars listed in the
+Appendix
+.
+D. Scope of Application:
+To all scheduled commercial banks (excluding RRBs) that undertake financial services or para-banking activities departmentally or through their subsidiaries or affiliated companies controlled by them.
+1. Introduction
+Banks can undertake certain eligible financial services or para-banking activities either departmentally or by setting up subsidiaries. Banks may form a subsidiary company for undertaking the types of businesses which a banking company is otherwise permitted to undertake, with prior approval of Reserve Bank of India. The instructions issued by Reserve Bank of India to banks for undertaking various financial services or para-­banking activities as permitted by RBI have been compiled in this Master Circular.
+2. Subsidiary Companies
+Under the provisions of Section 19(1) of the Banking Regulation Act, 1949, banks may form subsidiary companies for (i) undertaking of any business which is permissible under clauses (a) to (o) of sub-section (1) of Section 6 of the Banking Regulation Act, 1949; (ii) carrying on the business of banking exclusively outside India; and (iii) for such other business purposes which Reserve Bank of India may, with prior approval of the Central Government, consider to be conducive to the spread of banking in India or to be otherwise useful or necessary in public interest. Prior approval of Reserve Bank of India should be taken by a bank to set up a subsidiary company.
+3. Investment Ceiling in Subsidiaries and other Companies
+Under the provisions of Section 19(2) of the Banking Regulation Act, 1949, a banking company cannot hold shares in any company whether as pledgee, mortgagee or absolute owner of an amount exceeding 30 per cent of the paid-up share capital of that company or 30 per cent of its own paid-up share capital and reserves, whichever is less. However, unlike in the case of subsidiaries, there are no statutory restrictions on the activities of companies in which banks can hold equity within the ceiling laid down under section 19(2) of the B.R. Act. In other words, these companies could be both financial services companies as well as companies not engaged in financial services.
+3.1 Prudential regulations for banks’ investments in subsidiaries and financial services companies
+(a) Equity investments by a bank in a subsidiary company, or a financial services company, including financial institutions, stock and other exchanges, depositories, etc., which is not a subsidiary should not exceed 10 per cent of the bank’s paid-up share capital and reserves and the total investments made in all subsidiaries and other entities that are engaged in financial services activities together with equity investments in entities engaged in non financial services activities should not exceed 20 per cent of the bank’s paid-up share capital and reserves.
+(b) Banks cannot, however, participate in the equity of financial services ventures including stock exchanges, depositories, etc., without obtaining the prior specific approval of Reserve Bank of India notwithstanding the fact that such investments may be within the ceiling prescribed under Section 19(2) of the Banking Regulation Act.
+(c) The cap of 20 per cent does not apply, nor is prior approval of RBI required, if investments in financial services companies are held under ‘Held for Trading’ category, and are not held beyond 90 days as envisaged in the Master Circular on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks.
+3.2 Prudential regulation for banks’ investments in non-financial services companies
+Since investments in non-financial services companies do not require prior approval from RBI, banks could potentially acquire substantial equity holding in these companies within the provisions of Section 19 (2) of the BR Act. It is, therefore, possible that banks could, directly or indirectly through their holdings in other entities, exercise control on, or have significant influence over, such companies and thus engage in activities directly or indirectly not permitted to banks. This would be against the spirit of the provisions of the Act and is not considered appropriate from prudential perspective. With the objective to limit investments in non-financial services companies, the following guidelines are laid down:
+(a) Equity investment by a bank in companies engaged in non-financial services activities would be subject to a limit of 10 per cent of the investee company’s paid up share capital or 10 per cent of the bank’s paid up share capital and reserves, whichever is less. Equity investments held under ‘Held for Trading’ category would also be reckoned. Investments within the above mentioned limits, irrespective of whether they are in the ‘Held for Trading’ category or otherwise, would not require prior approval of Reserve Bank of India.
+(b) Equity investments in any non-financial services company held by (a) a bank; (b) entities which are bank’s subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and (c) mutual funds managed by Asset Management Companies (AMCs) controlled by the bank should in the aggregate not exceed 20 per cent of the investee company’s paid up share capital.
+(c) A bank’s request for making investments in excess of 10 per cent of such investee company’s paid up share capital, but not exceeding 30 per cent, would be considered by RBI if the investee company is engaged in non financial activities which are permitted to banks in terms of Section 6(1) of the B. R. Act.
+(d) A bank’s equity investments in subsidiaries and other entities that are engaged in financial services activities together with equity investments in entities engaged in non financial services activities should not exceed 20 per cent of the bank’s paid-up share capital and reserves. The cap of 20 per cent would not apply for investments classified under ‘Held for Trading’ category and which are not held beyond 90 days.
+(e) Equity holding by a bank in excess of 10 per cent of the non financial services investee company’s paid up capital would be permissible without RBI’s prior approval (subject to the statutory limit of 30 per cent in terms of Section 19 (2) of the B.R. Act) if the additional acquisition is through restructuring/Corporate Debt Restructuring (CDR), or acquired by the bank to protect its interest on loans/investments made in a company. The equity investment in excess of 10 per cent of the investee company’s paid up share capital in such cases would be exempted from the 20 per cent limit referred to above. However, banks will have to submit to RBI a time bound action plan for disposal of such shares within a specified period.
+3.3 For the purposes of the above guidelines, financial services companies shall have the meanings as detailed in
+Annex- 1
+. Also, the terms subsidiary, associate or joint venture shall have the meanings assigned to them in Accounting Standards notified by the Central Government under Section 211(3c) of the Companies Act, 1956 (extract enclosed as
+Annex- 2
+).
+4. Relationship with Subsidiaries
+A sponsor bank is required to maintain an "arms length" relationship with the subsidiary/mutual fund sponsored by it in regard to business parameters such as, taking undue advantage in borrowing/lending funds, transferring/selling/buying of securities at rates other than market rates, giving special consideration for securities transactions, overindulgence in supporting/financing the subsidiary, financing the bank's clients through them when the bank itself is not able or is not permitted to do so, etc. Supervision by the parent bank should not, however, result in interference in the day-to-day management of the affairs of the subsidiary/mutual fund. Banks should evolve appropriate strategies such as:
+(a) The Board of Directors of the parent/sponsor bank may review the working of subsidiaries/mutual fund at periodical intervals (say once in six months) covering the major aspects relating to their functioning and give proper guidelines/suggestions for improvement, wherever considered necessary.
+(b) The parent bank may cause inspection/audit of the books and accounts of the subsidiaries/mutual fund at periodical intervals, as appropriate, and ensure that the deficiencies noticed are rectified without lapse of time. If a bank's own inspection staff is not adequately equipped to undertake the inspection/audit, the task may be entrusted to outside agencies like firms of chartered accountants. In case there is a technical difficulty for conducting inspection/audit (e.g. on account of non-existence of an enabling clause in the Memorandum and Articles of Association of the subsidiary or asset management company), steps should be taken to amend the same suitably.
+(c) Where banks have equity participation by way of portfolio investment in companies offering financial services, they may review the working of the latter at least on an annual basis.
+5. Relationship with Systemically Important Non-Banking Financial Companies
+The regulatory gaps in the area of bank and NBFC operations contribute to creating the possibility of regulatory arbitrage and hence may give rise to an uneven playing field and systemic risk. As such banks are advised to follow the regulatory framework mentioned below as regards their relationship with systemically important NBFCs:
+(a) NBFCs promoted by the parent/group of a foreign bank having presence in India, which is a subsidiary of the foreign bank's parent/group or where the parent/group is having management control would be treated as part of that foreign bank's operations in India and brought under the ambit of consolidated supervision as applicable to Indian banks. Consequently, the concerned foreign banks should submit the Consolidated Prudential Returns (CPR) to the Department of Banking Supervision and also comply with the prudential regulations/norms prescribed for the consolidated operations of that bank in India, as modified from time to time. These foreign banks in India need not prepare 'consolidated financial statements' under Accounting Standard 21 - Consolidated Financial Statements (AS 21). They may consolidate the NBFCs with the bank's Indian operations on a line by line basis for the purposes of consolidated prudential regulations by adopting the principles of AS 21 as applicable to consolidation of subsidiaries. Where a foreign bank is holding between 10% and 50% (both included) of the issued and paid up equity of an NBFC, it will be required to demonstrate that it does not have management control in case the NBFC is to be kept outside the ambit of consolidated prudential regulations.
+(b) Banks in India, including foreign banks operating in India, shall not hold more than 10 % of the paid up equity capital of a deposit taking NBFC. This restriction would, however, not apply to investment in housing finance companies.
+6. Banks’ Investment in Venture Capital Funds
+In view of the significance of venture capital activities and the need for banks’ involvement in financing of Venture Capital Funds (VCFs), it is important to address the relatively higher risks inherent in such exposures.
+Accordingly, apart from compliance with the provisions of Section 19(2) of the Banking Regulation Act, 1949, as well as the prudential requirements stated at paragraph 3.1 above, further guidelines relating to financing of VCFs were issued in terms of
+circular DBOD.No.BP.BC.27/21.01.002/2006-07 dated August 23, 2006
+. This states, inter alia that banks should obtain prior approval of RBI for making strategic investment in VCFs, i.e., investments equivalent to more than 10 per cent of the equity/unit.
+7. Banks as Sponsors to Infrastructure Debt Funds
+In order to accelerate and enhance the flow of long term funds to infrastructure projects for undertaking the Government’s ambitious programme of infrastructure development, scheduled commercial banks have been allowed to act as sponsors to Infrastructure Debt Funds (IDFs). IDFs can be set up either as Mutual Funds (MFs) or as Non-Banking Finance Companies (NBFCs). While IDF-MFs will be regulated by Securities & Exchange Board of India (SEBI), IDF-NBFCs will be regulated by Reserve Bank of India (RBI). Banks can sponsor IDF-MFs and IDF-NBFCs with prior approval from RBI, subject to the following conditions:
+(i) Sponsor to IDF-MF
+Banks may act as sponsors to IDF–MFs subject to adherence to SEBI regulations in this regard.
+(ii) Sponsor to IDF-NBFC
+A bank acting as sponsor of IDF–NBFC shall contribute a minimum equity of 30 per cent and maximum equity of 49 per cent of the IDF-NBFC. Since in terms of Section 19 (2) of the Banking Regulation Act, 1949, a bank cannot hold shares in excess of 30 per cent of the paid up share capital of a company, unless it is a subsidiary, the Reserve Bank would, based on merits, recommend to the Government to grant exemption from the provisions of Section 19(2) of the Act, ( i.e., under Section 53 of the Act ibid) for investment in excess of 30 per cent and up to 49 per cent in the equity of the IDF-NBFC.
+(iii) General conditions for banks to act as sponsors to IDFs – both under MF and NBFC structures
+(a) Investment by a bank in the equity of a single IDF-MF or IDF-NBFC would be subject to the prudential limits stated in paragraph 3.1(a) and (b) above.
+(b) Banks’ exposures to IDFs, (both IDF-MFs and IDF-NBFCs) by way of contribution to paid up capital as sponsors will form part of their capital market exposure and should be within the regulatory limits specified in this regard.
+(c) Banks should have clear Board approved policies and limits for their overall infrastructure exposure which should include their exposures as sponsors to IDFs - (MFs and NBFCs).
+(d) The IDFs - (MFs and NBFCs) should make a disclosure in the prospectus/offer document at the time of inviting investments that the sponsoring bank's liability is limited to the extent of its contribution to the paid up capital.
+8. Equipment Leasing, Hire Purchase Business and Factoring Services
+8.1 Banks can form subsidiary companies for undertaking equipment leasing, hire purchase and factoring businesses, with prior approval of Reserve Bank of India. The following guidelines should govern the conduct of such business by the banking companies:
+(a) The subsidiaries/joint ventures formed should primarily be engaged in any of the above mentioned activities and such other activities as are incidental to equipment leasing, hire purchase business and factoring services. Equipment leasing/hire purchase subsidiaries of banks should not take up issue management functions for other companies engaged in hire purchase and leasing business. They should not engage themselves in financing of other companies or concerns engaged in equipment leasing, hire purchase business, and factoring services, underwriting of public issues of shares and debentures of those companies. These subsidiaries should also not take up the shares or debentures of those companies on private placement basis.
+(b) While banks may invest in other equipment leasing/ hire purchase/factoring companies within the limits specified in Section 19(2) of BR Act, 1949, with the Reserve Bank's prior approval, they shall not act as promoters of such companies.
+(c) Investment of a bank in the shares of factoring companies inclusive of its subsidiary carrying on factoring business shall not, in the aggregate, exceed 10% of the paid up capital and reserves of the bank.
+(d) Any application made in connection with setting up of a subsidiary, or for a subsequent issue of capital, shall need prior approval from Reserve Bank of India.
+8.2 Banks can also undertake equipment leasing, hire purchase and factoring services departmentally for which prior approval of RBI is not necessary. Banks should, however, report to RBI the nature of these activities together with the names of the branches from where these activities are taken up. Banks should comply with the following prudential guidelines when they undertake these activities departmentally:
+(a) As activities like equipment leasing, hire purchase and factoring services require skilled personnel and adequate infrastructural facilities, they should be undertaken only by certain select branches of banks.
+(b) These activities should be treated on par with loans and advances and should accordingly be assigned risk weight of 100 per cent for calculation of capital to risk asset ratio. Further, the extant guidelines on income recognition, asset classification and provisioning would also be applicable to them.
+(c) The facilities extended by way of equipment leasing, hire purchase finance and factoring services would be covered within the extant exposure ceilings. Banks should maintain a balanced portfolio of equipment leasing, hire purchase and factoring services vis-à-vis the aggregate credit. Their exposure to any of these activities should not exceed 10 per cent of total advances.
+(d) Banks are required to frame an appropriate policy on leasing business with the approval of their Boards and evolve safeguards to avoid possible asset liability mismatch. While banks are free to fix the period of lease finance in accordance with such policy, they should ensure compliance with the Accounting Standard 19 (AS 19) prescribed by the Institute of Chartered Accountants of India (ICAI).
+(e) The finance charge component of finance income [as defined in 'AS 19 on Leases' issued by the Council of the Institute of Chartered Accountants of India (ICAI)] on the leased asset, credited to income account on accrual basis before the asset became non-performing, should be reversed or provided for in the current accounting period, if remained unpaid.
+(f) Any changes brought about in respect of guidelines in asset classification, income recognition and provisioning for loans/advances and other credit facilities would also be applicable to leased assets of banks undertaking leasing activity departmentally.
+(g) Banks should not enter into leasing agreement with equipment leasing companies and other non-banking finance companies engaged in equipment leasing.
+(h) Lease rental receivables arising out of sub-lease of an asset by a non-banking financial company undertaking leasing should not be included for the purpose of computation of bank finance for such company.
+(i) Banks undertaking factoring services departmentally should carefully assess the client's working capital needs taking into account the invoices purchased. Factoring services should be extended only in respect of those invoices which represent genuine trade transactions. Banks should take particular care to ensure that by extending factoring services, the client is not over financed.
+(j) Banks should place Review Reports on equipment leasing, hire purchase, factoring, etc., undertaken by them on annual basis before their Board of Directors/Management Committee of the Board.
+8.3 The following needs to be observed by banks in relation to the factoring of receivables by factors vis-a-vis borrowings from banks:
+(a) Banks and factors should share information about common borrowers. The format in which such information is to be provided may be decided for the banks by the Indian Banks’ Association.
+(b) Banks are required to issue letters of disclaimer to the factor/s on book debts factored to facilitate assignment of debt and factors in turn should route the proceeds of repayment and final adjustment through the borrowers’ bank. In the case of consortium, the proceeds may be routed through the leader of the consortium, while in the case of multiple banking, it is left to each bank to protect its interest.
+(c) Borrowers should declare separately the extent of book debts proposed to be factored and those against which bank finance is to be obtained in their projection for assessment of bank credit. Banks may also take into account the finance availed under factoring while sanctioning loans to the borrower. The borrower’s bank may also obtain from the borrower periodical certificates regarding factored receivables to avoid double financing.
+(d) Factor may intimate the limits sanctioned to the borrower to the concerned bank/s and details of debts factored to avoid double financing. This could be cross checked with the certificate obtained by banks from borrowers.
+9. Primary Dealership Business
+The permitted structure of Primary Dealership (PD) business has been expanded to include banks and banks fulfilling the following minimum eligibility criteria may apply to Reserve Bank of India for approval for undertaking primary dealership business.
+9.1 Eligibility Criteria
+The following categories of banks may apply for PD licence:
+(i) Banks, which do not at present, have a partly or wholly owned subsidiary and fulfill the following criteria:
+(a) Minimum Net Owned Fund of ₹1,000 crore
+(b) Minimum CRAR of 9 per cent
+(c) Net NPAs of less than 3 per cent and a profit making record for the last three years
+(ii) Indian banks, undertaking PD business through a partly or wholly owned subsidiary, and proposing to undertake PD business departmentally by merging/ taking over PD business from their partly/wholly owned subsidiary, should fulfill the criteria mentioned at 9.1.(i) (a) to (c) above.
+(iii) Foreign banks operating in India, proposing to undertake PD business departmentally by merging the PD business being undertaken by group companies should also fulfill the criteria at 9.1.(i) (a) to (c) above.
+9.2 Application for Primary Dealership
+Banks eligible to apply for primary dealership should approach the Department of Banking Regulation (DBR), Reserve Bank of India for in-principle approval. On obtaining an in-principle approval from DBR, banks may then apply to the Internal Debt Management Department (IDMD), Reserve Bank of India for an authorisation for undertaking PD business departmentally. The authorisation granted will be subject to the guidelines issued by IDMD from time to time.
+9.3 Prudential Norms
+(i) The capital adequacy and risk management guidelines will be as per the extant guidelines applicable to banks. For the purpose of assessing the bank’s capital adequacy requirement and coverage of risk management framework, the PD activity should also be taken into account.
+(ii) The Government Dated Securities and Treasury Bills under PD business will count for Statutory Liquidity Ratio (SLR), if they are notified by RBI as SLR securities.
+(iii) The classification, valuation and operation of investment portfolio guidelines as applicable to banks in regard to “Held for Trading“ portfolio will also apply to the portfolio of Government Dated Securities and Treasury Bills earmarked for PD business.
+9.4 Regulation and Supervision
+(i) RBI’s instructions to primary dealers will apply to Bank-PDs to the extent applicable.
+(ii) As banks have access to the call money market, refinance facility and the liquidity adjustment facility (LAF) of RBI, Bank-PDs will not have separate access to these facilities and liquidity support as available to standalone PDs.
+(iii) RBI will conduct on-site inspection of Bank-PD business.
+(iv) Bank-PDs will be required to submit prescribed returns, as advised by RBI from time to time.
+(v) A Bank-PD should bring to RBI’s attention any major complaint against it or action initiated/taken against it by the authorities, such as, the stock exchanges, SEBI, CBI, Enforcement Directorate, Income Tax, etc.
+(vi) Reserve Bank of India reserves the right to cancel the Bank-PD authorisation if, in its view, the concerned bank has not fulfilled any of the prescribed eligibility and performance criteria.
+9.5 Applicability of the Guidelines issued for Primary Dealers to Bank-PDs
+(i) The Bank-PDs will be subject to underwriting and all other obligations as applicable to standalone PDs as may be prescribed form time to time.
+(ii) The Bank-PDs are expected to join the Primary Dealers Association of India (PDAI) and the Fixed Income Money Market and Derivatives Association (FIMMDA) and abide by the code of conduct framed by them and such other actions initiated by them in the interests of the securities markets.
+(iii) The requirement of ensuring minimum investment in Government Securities and Treasury Bills on a daily basis based on net call/RBI borrowing and net owned funds will not be applicable to Bank-PDs.
+(iv) It is clarified that for the purpose of "when-issued trades" permitted vide
+circular IDMD.No/3426/11.01.01 (D)/2005-06 dated May 3, 2006
+, as amended from time to time, Bank-PDs will be treated as primary dealers.
+(v) Bank-PDs shall be guided by the extant guidelines applicable to banks as regards borrowing in call/notice/term money market, inter-corporate deposits, FCNR(B) loans/external commercial borrowings and other sources of funds.
+(vi) The investment policy of the bank may be suitably amended to include PD activities also. Within the overall framework of the investment policy, the PD business undertaken by the bank will be limited to dealing, underwriting and market-making in Government Securities. Investments in corporate/PSU/FI bonds, commercial papers, certificate of deposits, debt mutual funds and other fixed income securities will not be deemed to be a part of PD business.
+9.6 Maintenance of Books of Accounts
+(i) Transactions related to primary dealership business, undertaken by a bank departmentally, would be executed through the existing subsidiary general ledger (SGL) account of the bank. However, such banks will have to maintain separate books of accounts for transactions relating to PD business (distinct from normal banking business) with necessary audit trails. It should be ensured that, at any point of time, there is a minimum balance of ₹ 100 crore of Government Securities earmarked for PD business.
+(ii) Bank-PDs should subject the transactions by PD department to concurrent audit. An auditor’s certificate for having maintained the minimum stipulated balance of ₹100 crore of Government Securities in the PD-book on an ongoing basis and having adhered to the guidelines / instructions issued by RBI, should be forwarded to IDMD, RBI on a quarterly basis.
+10. Underwriting Activities
+While underwriting of issues as a part of merchant banking activities, banks should ensure the prudential exposure norms prescribed by RBI from time to time, as well as the statutory limits contained in Section 19(2) & (3) of the Banking Regulation Act, 1949 are strictly adhered to. Further, while undertaking such activities, banks as well as their merchant banking subsidiaries would also be required to comply with relevant SEBI regulations.
+11. Retailing of Government Securities
+Banks are permitted to undertake the business of retailing of Government Securities with non-bank clients in terms of the guidelines issued by RBI from time to time, as applicable, as well as subject to the following conditions:
+(i) Banks are free to buy and sell Government Securities on an outright basis at prevailing market prices without any restriction on the period between sale and purchase.
+(ii) Banks shall not undertake ready forward transactions in Government Securities with non-bank clients.
+(iii) The retailing of Government Securities should be on the basis of ongoing market rates/yields emerging out of secondary market transactions.
+(iv) No sale of Government Securities should be effected by banks unless they hold the securities in their portfolio either in the form of physical scrips or in the SGL Account maintained with Reserve Bank of India.
+(v) Immediately on sale, the corresponding amount should be deducted by the bank from its investment account and also from its SLR assets.
+(vi) Banks should put in place adequate internal control checks/mechanism in this regard.
+(vii) These transactions should be subjected to concurrent audit as per RBI’s extant instructions and should also be looked into by the auditors at the time of bank’s statutory audit.
+12. Mutual Fund Business
+12.1 Banks desirous of undertaking mutual fund business should obtain prior approval of Reserve Bank of India for setting up such funds subject to the following:
+(i) Bank-sponsored mutual funds should comply with the guidelines issued by SEBI from time to time.
+(ii) The bank-sponsored mutual funds should not use the name of the sponsoring bank as part of their name, except where a suitable disclaimer clause is inserted while publicising new schemes that the bank is not liable or responsible for any loss or shortfall resulting from the operations of the scheme.
+12.2 Banks may enter into agreements with mutual funds for marketing the mutual fund units subject to the following terms and conditions:
+(i) Banks should only act as an agent of the customers, forwarding the investors’ applications for purchase/sale of MF units to the mutual funds/Registrars/transfer agents. The purchase of units should be at the customers’ risk and without the bank guaranteeing any assured return.
+(ii) Banks should not acquire units of mutual funds from the secondary market.
+(iii) Banks should not buy back units of mutual funds from their customers.
+(iv) If a bank proposes to extend any credit facility to individuals against the security of units of Mutual Funds, sanction of such facility should be in accordance with the extant instructions of RBI on advances against shares/debentures and units of mutual funds.
+(v) Banks holding custody of MF units on behalf of their customers should ensure that their own investments and investments made by/belonging to their customers are kept distinct from each other.
+(vi) Banks should put in place adequate and effective control mechanisms in this regard. Besides, with a view to ensuring better control, retailing of units of mutual funds may be confined to certain select branches of a bank.
+13. Money Market Mutual Funds
+Money Market Mutual Funds (MMMFs) come under the purview of SEBI regulations. However, banks desirous of setting up MMMFs would have to seek necessary clearance from RBI for undertaking this additional activity before approaching SEBI for registration.
+14. Cheque Writing Facility for Investors of Mutual Funds/Money Market Mutual Funds
+Banks are permitted to tie-up with MMMFs as also with MFs in respect of Gilt Funds and Liquid Income Schemes which predominantly invest in money market instruments (not less than 80 per cent of the corpus) to offer cheque writing facilities to investors subject to the following safeguards:
+(i) In the case of a MMMF set up by a bank, the tie-up arrangement should be with the sponsor bank. In other cases, the tie-up should be with a designated bank. The name of the bank should be clearly indicated in the Offer Document of the Scheme.
+(ii) The Offer Document should clearly indicate that the tie-up to offer cheque writing facility is purely a commercial arrangement between the MMMF/MF and the designated bank, and as such, the servicing of the units of MMMF/MF will not in any way be the direct obligation of the bank concerned. This should be clearly stated in all public announcements and communications to individual investors.
+(iii) The facility to any single investor in the MMMF/MF can be permitted at the investor’s option, in only one of the branches of the designated bank.
+(iv) This should be in the nature of a drawing account, distinct from any other account, with clear limits for drawals, the number of cheques that can be drawn, etc, as prescribed by the MMMF/MF. It should not, however, be used as a regular bank account and cheques drawn on this account should only be in favour of the investor himself (as part of redemption) and not in favour of third parties. No deposits can be made in the account. Each drawal made by the investor under the facility should be consistent with the terms prescribed by the MMMF/MF and treated as redemption of the holdings in the MMMF/MF to that extent.
+(v) The facility can be availed of by investors only after the minimum lock-in period of 15 days for investments in MMMFs (not applicable in the case of eligible Gilt Funds and Liquid Income Schemes of mutual funds and any prescription of lock-in-period in such cases will be governed by SEBI Regulations).
+(vi) The bank should ensure pre-funding of the drawing account by the MMMF/MF at all times and review the funds position on a daily basis.
+(vii) Such other measures as may be considered necessary by the bank.
+15. Entry of Banks into Insurance Business
+15.1 Banks may undertake insurance business by setting up a subsidiary/joint venture, as well as undertake insurance broking/ insurance agency, either departmentally or through a subsidiary, subject to fulfilling the eligibility criteria stated hereunder. However, it may be noted that the group as a whole can undertake insurance distribution through either broking or corporate agency mode i.e. within the group, the model of insurance distribution decided upon can be adopted by any number of group entities.
+(i) Banks setting up a Subsidiary/JV for undertaking Insurance Business with Risk Participation
+Banks are not allowed to undertake insurance business with risk participation departmentally and may do so only through a subsidiary/JV set up for the purpose. Banks which satisfy the eligibility criteria (as on March 31 of the previous year) given below may approach Reserve Bank of India to set up a subsidiary/joint venture company for undertaking insurance business with risk participation:
+(a) The net worth of the bank should not be less than ₹1000 crore;
+(b) The CRAR of the bank should not be less than 10 per cent;
+(c) The level of net non-performing assets should be not more than 3 per cent;
+(d) The bank should have made a net profit for the last three continuous years; and
+(e) The track record of the performance of the subsidiaries, if any, of the concerned bank should be satisfactory.
+While giving approval, RBI would factor in regulatory and supervisory comfort on various aspects of the bank’s functioning such as corporate governance, risk management, etc.
+It may be noted that a subsidiary of a bank and another bank will not normally be allowed to contribute to the equity of the insurance company on risk participation basis.
+It should be also be ensured that risks involved in insurance business do not get transferred to the bank and that the banking business does not get contaminated by any risks which may arise from insurance business. There should be an ‘arms length’ relationship between the bank and the insurance entity.
+(ii) Banks undertaking Insurance Broking/Corporate Agency through a Subsidiary/JV
+Banks require prior approval of RBI for setting up a subsidiary/JV. Accordingly, banks desirous of setting up a subsidiary for undertaking insurance broking/corporate agency and which satisfy the eligibility criteria (as on March 31 of the previous year) given below may approach Reserve Bank of India for approval to set up such subsidiary/JV:
+(a) The net worth of the bank should not be less than ₹500 crore
+after
+investing in the equity of such company;
+(b) The CRAR of the bank should not be less than 10 per cent;
+(c) The level of net non-performing assets should be not more than 3 per cent.
+(d) The bank should have made a net profit for the last three continuous years;
+(e) The track record of the performance of the subsidiaries, if any, of the concerned bank should be satisfactory.
+As hitherto, RBI approval would also factor in regulatory and supervisory comfort on various aspects of the bank’s functioning such as corporate governance, risk management, etc.
+Banks intending to undertake distribution of insurance as a corporate agent/a broker through a subsidiary can do so subject to the conditions given in the
+Annex 3
+.
+(iii) Banks undertaking Corporate Agency Functions/Broking Functions Departmentally
+Banks need not obtain prior approval of the RBI to act as corporate agents on fee basis, without risk participation/undertake insurance broking activities departmentally, subject to IRDA Regulations, and compliance with the conditions given in
+Annex 3
+.
+(iv) Banks undertaking Insurance Referral Services
+In terms of IRDA (Sharing of Database for Distribution of Insurance Products) Regulations 2010, no bank is presently eligible to conduct insurance referral business.
+16. Pension Fund Management by Banks
+Consequent upon the issue of Government of India Notification F.No.13/6/2005-BOA dated May 24, 2007 specifying “acting as Pension Fund Manager” as a form of business in which it would be lawful for a banking company to engage in, in exercise of the powers conferred by clause (o) of sub-section (1) of Section 6 of the Banking Regulation Act, 1949, banks have been advised that they may undertake Pension Fund Management (PFM) through subsidiaries set up for the purpose with the prior approval of RBI, and subject to satisfying the eligibility criteria prescribed by Pension Fund Regulatory and Development Authority (PFRDA) for Pension Fund Managers. Pension Fund Management should not be undertaken departmentally. Banks intending to undertake pension fund management as per the guidelines set out in
+Annex 4
+should furnish full details in respect of the various eligibility criteria as specified in Annex 4 along with the details of the equity contribution proposed to be made in the subsidiary. The relative Board Note and Resolution approving the bank’s proposal together with a detailed viability report prepared in this regard may also be forwarded to the Reserve Bank.
+17. Referral Services
+There is no objection to banks offering referral services to their customers for financial products subject to the following conditions:
+(a) The bank/third party issuers of the financial products should strictly adhere to the Know Your Customer (KYC)/Anti-Money Laundering (AML) guidelines in respect of the customers who are being referred to the third party issuers of the products.
+(b) The bank should ensure that the selection of third party issuers of the financial products is done in such a manner so as to take care of the reputational risks to which the bank may be exposed to in dealing with the third party issuers of the products.
+(c) The bank should make it explicitly clear upfront to the customer that it is providing purely a referral service strictly on a non-risk participation basis.
+(d) The third party issuers should adhere to the relevant regulatory guidelines applicable to them.
+(e) While offering referral services, the bank should strictly adhere to the relevant RBI guidelines.
+18. Trading on/Membership of SEBI approved Stock Exchanges
+18.1 Banks in India as well as the overseas branches of Indian banks are permitted to transact in Interest Rate Futures (IRFs) for the purpose of hedging the risk in their underlying investment portfolio as well as trading positions in IRFs. It is, however, clarified that banks are not allowed to undertake transactions in IRFs on behalf of clients. In this context, banks are advised to ensure adherence to instructions as regards setting of limits for non-option derivatives contracts as amended form time to time.
+18.2 Scheduled commercial banks (AD Category I) have been permitted to become trading/clearing members of the currency derivatives segment to be set up by the stock exchanges recognized by SEBI, subject to their fulfilling the following prudential requirements:
+(a) Minimum net worth of ₹500 crore;
+(b) Minimum CRAR of 10 per cent;
+(c) Net NPA not exceeding 3 per cent, and
+(d) Net profit for last 3 years.
+Banks which fulfill the conditions mentioned above should lay down detailed guidelines with their Board's approval for conduct of this activity and management of risks. It should be ensured that the bank’s position is kept distinct from the clients' position. In case of supervisory discomfort with the functioning of a bank, the Reserve Bank may impose restrictions on the bank regarding the conduct of this business as it deems fit.
+Banks which do not meet the above minimum prudential requirements are permitted to participate in the currency futures market only as clients.
+18.3 In order to further enhance transparency in the corporate bond market in India, Scheduled Commercial Banks (SCBs) are permitted to become members of SEBI approved stock exchanges for the purpose of undertaking proprietary transactions in the corporate bond market. While doing so, SCBs should satisfy the membership criteria of the stock exchanges and also comply with the regulatory norms laid down by SEBI and the respective stock exchanges.
+19. Portfolio Management Services
+19.1 The general powers vested in banks to operate Portfolio Management Services and similar schemes have been withdrawn vide our circular DBOD.No.BC.73/27.07.001/94-95 dated June 7, 1994 on Acceptance of Deposits/Funds under Portfolio Management Scheme. No bank should, therefore, restart or introduce any new PMS or similar scheme in future without obtaining specific prior approval of RBI. Bank-sponsored NBFCs may offer discretionary PMS to their clients, on a case-to-case basis, wirth prior approval of RBI.
+19.2 The following conditions are to be strictly observed by banks operating PMS or similar scheme with the specific prior approval of RBI:
+(a) Only those banks which can provide such services on their own should undertake the activity. Funds accepted for portfolio management from their clients, should not be entrusted to another bank for management.
+(b) 'PMS' should be in the nature of investment consultancy/management, for a fee, entirely at the customer's risk without guaranteeing, either directly or indirectly, a pre-determined return. The bank should charge a definite fee for the services rendered independent of the return to the client.
+(c) 'PMS' should be provided by banks/their subsidiaries to their clients in respect of the latter's long term investable funds for enabIing them to build up a portfolio of securities; in any case, the funds should not be accepted for portfolio management for a period less than one year. In the case of placement of funds for portfolio management by the same client on more than one occasion, on a continuous basis, each such placement should be treated as a separate account and each such placement should be for a minimum period of one year.
+(d) The funds accepted for portfolio management, are essentially expected to be deployed in capital market instruments, such as, shares, debentures, bonds, securities, etc. In any case, portfolio funds should not be deployed for lending in call money/bills market, and lending to/placement with corporate bodies.
+(e) The bank providing PMS to its clients should maintain client wise account/record of funds accepted and investments made there against, and all credits (including realised interest, dividend, etc.) and debits relating to the portfolio account should be put through such account. The tax deducted at source in respect of interest/dividend on securities held in the portfolio account should be reflected in the portfolio account. The account holder should be entitled to get a statement of his portfolio account.
+(f) The bank’s own investments and investments belonging to the PMS clients should be kept distinct from each other. If there were any transactions between the bank’s investment account and portfolio account, they should be strictly at market rates. Though the bank could hold the securities belonging to the portfolio account in its own name on behalf of its PMS clients, there should be a clear indication that the securities were held by it on behalf of ‘portfolio account’. Similarly, while putting through any transaction on behalf of a portfolio account, a clear indication should be given to the effect that the transaction pertained to the ‘portfolio account’.
+(g) In the bank’s general ledger a ‘Clients’ Portfolio Account’ should be maintained and all the funds received by it for portfolio management should be reflected in it on a day-to-day basis. The balance lying in this account (i.e., the funds undeployed, if any, from this account) should be treated as outside borrowings of the bank and it should maintain Cash Reserve Ratio (CRR)/Statutory Liquidity Ratio (SLR) on such funds. The bank’s liability to its clients in respect of funds accepted by it for portfolio management should be properly reflected in the published books of accounts of the bank/subsidiary.
+(h) There should be a clear functional separation of trading and back office functions relating to banks' own investment accounts and PMS clients' accounts.
+(i) PMS clients' accounts should be subjected by banks to a separate audit by external auditors as covered (vide paragraph 3.II (I) of circular DBOD.No.BC.143A/24.048.001/91-92 dated June 20, 1992)
+(j) Banks should note that violation of RBI instructions will be viewed seriously and will invite deterrent action against the banks, which will include raising of reserve requirements, withdrawal of facility of refinance from RBI and denial of access to money markets, apart from prohibition from undertaking PMS activity.
+(k) Further, the aforesaid instructions will apply, mutatis mutandis, to the subsidiaries of banks except where they are contrary to specific regulations of RBI or SEBI, governing their operations.
+(l) Banks/merchant banking subsidiaries of banks operating PMS or similar scheme with the specific prior approval of RBI are also required to comply with the guidelines contained in the SEBI (Portfolio Managers) Rules and Regulations, 1993 as issued from time to time.
+20. Safety Net Schemes
+20.1 Reserve Bank of India had observed that some banks/their subsidiaries were providing buy back facilities under the name of ‘Safety Net’ Schemes in respect of certain public issues as part of their merchant banking activities. Under such schemes, large exposures are assumed by way of commitments to buy the relative securities from the original investors at any time during a stipulated period at a price determined at the time of issue, irrespective of the prevailing market price. In some cases, such schemes were offered suo moto without any request from the company whose issues are supported under the schemes. Apparently, there was no undertaking in such cases from the issuers to buy the securities. There is also no income commensurate with the risk of loss built into these schemes, as the investor will take recourse to the facilities offered under the schemes only when the market value of the securities falls below the pre-determined price. Banks/their subsidiaries have therefore been advised that they should refrain from offering such ‘Safety Net’ facilities by whatever name called.
+20.2 In some cases, the issuers provide buy-back facilities to original investors up to ₹ 40,000/- in respect of non-convertible debentures after a lock-in-period of one year, to provide liquidity to debentures issued by them. If, at the request of the issuers, the banks or their subsidiaries find it necessary to provide additional facilities to small investors subscribing to new issues, such buy-back arrangements should not entail commitments to buy the securities at pre-determined prices. Prices should be determined from time to time, keeping in view the prevailing stock market prices for the securities. Commitments should also be limited to a moderate proportion of the total issue in terms of the amount and should not exceed 20 percent of the owned funds of the banks/their subsidiaries. These commitments will also be subject to the overall exposure limits which have been or may be prescribed from time to time.
+21. Disclosure of Commissions/Remunerations
+21.1 In terms of paragraph 12 of this circular, banks have been advised that they can enter into agreements with mutual funds for marketing the mutual fund units subject to certain terms and conditions. Similarly, in terms of paragraph 15 of this circular, banks have been advised that they need not obtain prior approval of RBI for engaging in insurance agency business or broking arrangement, subject to the conditions stipulated in
+Annex 3
+of this circular. Banks have also been permitted, vide paragraph 17 of this circular, to offer purely referral services on a non-risk participation basis to their customers, for financial products subject to certain conditions. In addition to the above, banks also provide non-discretionary Investment Advisory Services to their clients for which approvals are granted by Reserve Bank of India on a case-to-case basis.
+21.2 Further, in some cases, banks have also been permitted to offer discretionary portfolio management services, through their subsidiaries, subject to certain conditions. In all the activities referred to above, it is likely that banks may be marketing/referring, several competing products of various mutual fund/insurance/financial services companies to their customers. Keeping in view the need for transparency in the interest of the customers to whom the products are being marketed/referred, banks are advised to disclose to their customers, details of all the commissions/other fees (in any form) received, if any, from the various mutual fund/insurance/other financial services companies for marketing/referring their products. This disclosure would be required even in cases where the bank is marketing/distributing/referring products of only one mutual fund/insurance company.
+21.3 In order to increase transparency in the financial statements of banks, Reserve Bank of India has from time to time issued circulars to banks requiring disclosures in the 'Notes to Accounts' to their Balance Sheet. As a further step in enhancing transparency, it has been decided that banks should disclose in the 'Notes to Accounts', from the year ending March 31, 2010, the details of fees/remuneration received in respect of the bancassurance business undertaken by them.
+Annex 1
+[Paragraph 3]
+Financial Services Companies
+For the purpose of prudential guidelines on investments in subsidiaries and other companies, ‘financial services companies’ are companies engaged in the ‘business of financial services’. The ‘business of financial services’ means –
+the forms of business enumerated in clauses (a), (c), (d), (e) of sub-section (1) of section 6 of the Banking Regulation Act, 1949 and notified under clause (o) of sub-section (1) of section 6 of the Banking Regulation Act, 1949;
+the forms of business enumerated in clause (c) and clause (f) of Section 45 I of Reserve Bank of India Act, 1934;
+business of credit information as provided under the Credit Information Companies (Regulation) Act, 2005;
+operation of a payment system as defined under the Payment and Settlement Systems Act, 2007;
+operation of a stock exchange, commodity exchange, derivatives exchange or other exchange of similar nature;
+operation of a depository as provided under the Depositories Act, 1996;
+business of a securitisation or reconstruction company as provided under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002;
+business of a merchant banker, portfolio manager, stock broker, sub-broker, share transfer agent, trustee of trust deeds, registrar to an issue, merchant banker, underwriter, debenture trustee, investment adviser and such other intermediary as provided in the Securities and Exchange Board of India Act, 1992 and the regulations made thereunder;
+business of a credit rating agency as defined in the Securities and Exchange Board of India (Credit Rating Agencies) Regulations, 1999;
+business of a collective investment scheme as defined under the Securities and Exchange Board of India Act, 1992;
+business of managing a pension fund;
+business of an authorised person as defined under the Foreign Exchange Management Act, 1999; and
+such other business as may be specified by Reserve Bank from time to time.
+Annex 2
+[Paragraph-3]
+Definition of Subsidiary, Associates, Joint Ventures, ‘Control and
+Significant Influence’ in terms of Indian Accounting Standards
+Accounting Standards 18, 21, 23 and 27 define the above mentioned terms.
+Subsidiary is an enterprise that is controlled by another enterprise (known as the parent).
+An
+Associate
+is an enterprise in which the investor has significant influence and which is neither a subsidiary nor a joint venture of the investor, and
+Joint Venture
+is a contractual arrangement whereby two or more parties undertake an economic activity, which is subject to joint control.
+Significant Influence
+is the power to participate in the financial and/or operating policy decisions of the investee but not control over its policies.
+Control –
+(a) The ownership, directly or indirectly, through subsidiary(ies), of more than one-half of the voting power of an enterprise; or
+(b) Control of the composition of the board of directors in the case of a company or of the composition of the corresponding governing body in case of any other enterprise so as to obtain economic benefits from its activities.
+Control exists when the parent owns, directly or indirectly through subsidiary(ies), more than one-half of the voting power of an enterprise. Control also exists when an enterprise controls the composition of the board of directors (in the case of a company) or of the corresponding governing body (in case of an enterprise not being a company) so as to obtain economic benefits from its activities.
+An enterprise is considered to control the composition of the board of directors of a company, if it has the power, without the consent or concurrence of any other person, to appoint or remove all or a majority of directors of that company. An enterprise is deemed to have the power to appoint a director, if any, if the following conditions are satisfied:
+(a) a person cannot be appointed as director without the exercise in his favour by that enterprise of such a power as aforesaid; or
+(b) a person’s appointment as director follows necessarily from his appointment to a position held by him in that enterprise; or
+(c) the director is nominated by that enterprise; in case that enterprise is a company, the director is nominated by that company/subsidiaries thereof.
+For the purpose of AS 23, significant influence does not extend to power to govern the financial and/or operating policies of an enterprise. Significant influence may be gained by share ownership, statute or agreement. As regards share ownership, if an investor holds, directly or indirectly through subsidiary(ies), 20% or more of the voting power of the investee, it is presumed that the investor has significant influence, unless it can be clearly demonstrated that this is not the case. Conversely, if the investor holds, directly or indirectly through subsidiary(ies), less than 20% of the voting power of the investee, it is presumed that the investor does not have significant influence, unless such influence can be clearly demonstrated. A substantial or major ownership by another investor does not necessarily preclude an investor from having significant influence. The existence of significant influence by an investor is usually evidenced in one or more of the following ways:
+(a) representation on the board of directors or corresponding governing body of the investee;
+(b) participation in policy making processes;
+(c) material transactions between the investor and the investee;
+(d) interchange of managerial personnel; and
+(e) provision of essential technical information.
+Annex 3
+[Paragraph-15]
+Guidelines for Banks undertaking Insurance Broking and Agency Business
+Banks may undertake insurance agency or broking business departmentally and/or through subsidiary, subject to the following stipulations:
+1. Board Approved Policy
+A comprehensive Board approved policy regarding undertaking insurance distribution, whether under the agency or the broking model should be formulated and services should be offered to customers in accordance with this policy. The policy will also encompass issues of customer appropriateness and suitability as well as grievance redressal. It may be noted that as IRDA Guidelines do not permit group entities to take up both corporate agency and broking in the same group even through separate entities, banks or their group entities may undertake either insurance broking or corporate agency business.
+2. Compliance with IRDA guidelines
+(a) The IRDA (Licensing of Corporate Agents) Regulations, 2002/ IRDA (Licensing of Banks as Insurance Brokers) Regulations, 2013 and the code of conduct prescribed by IRDA, as amended from time to time, as applicable, should be complied with by banks undertaking these activities.
+(b) The deposit to be maintained by an insurance broker as per the IRDA (Licensing of Banks as Insurance Brokers) Regulations, 2013, as amended from time to time, should be maintained with a scheduled commercial bank other than itself.
+3. Ensuring Customer Appropriateness and Suitability
+While undertaking insurance distribution business, either under the corporate agency or broking model under the relevant IRDA Regulations, banks must keep the following in view:
+(a) All employees dealing with insurance agency/ broking business should possess the requisite qualification prescribed by IRDA.
+(b) There should be a system of assessment of the suitability of products for customers. Pure risk term products with no investment or growth components that are simple and easy for the customer to understand will be deemed universally suitable products. More complex products with investment components will require the bank to necessarily undertake a customer need assessment prior to sale. It should be ensured that there is a standardized system of assessing the needs of the customer and that initiation/transactional and approval processes are segregated.
+(c) Banks should treat their customers fairly, honestly and transparently, with regard to suitability and appropriateness of the insurance product sold.
+4. Prohibition on Payment of Commission/Incentive directly to Bank Staff
+There should be no violation either of Section 10(1)(ii) of the BR Act, 1949 or the guidelines issued by IRDA in payment of commissions/brokerage/incentives. This may be factored in while formulating a suitable performance assessment and incentive structure for staff. Further, it must be ensured that no incentive (cash or non-cash) should be paid to the staff engaged in insurance broking/ corporate agency services by the insurance company.
+5. Adherence to KYC Guidelines
+The instructions/ guidelines on KYC/AML/CFT applicable to banks, issued by RBI from time to time, may be adhered to, in respect of customers (both existing and walk-in) to whom the services of insurance broking/agency are being provided.
+6. Transparency and Disclosures
+(a) The bank should not follow any restrictive practices of forcing a customer to either opt for products of a specific insurance company or link sale of such products to any banking product. It should be prominently stated in all publicity material distributed by the bank that the purchase by a bank’s customer of any insurance products is purely voluntary, and is not linked to availment of any other facility from the bank.
+(b) Further, the details of fee/ brokerage received in respect of insurance broking/agency business undertaken by them should be disclosed in the ‘Notes to Accounts’ to their Balance Sheet.
+7. Customer Grievance Redressal Mechanism
+A robust internal grievance redressal mechanism should be put in place along with a Board approved customer compensation policy for resolving issues related to services offered. It must also ensure that the insurance companies whose products are being sold have robust customer grievance redressal arrangements in place. Further, the bank must facilitate the redressal of grievances.
+8. Penal Action for Violation of Guidelines
+Violation of the above instructions will be viewed seriously and will invite deterrent penal action against the banks.
+Annex 4
+[Paragraph-16]
+Guidelines for Banks' Acting as Pension Fund Managers
+1. Eligibility Criteria
+Banks will be allowed to undertake Pension Fund Management (PFM) through their subsidiaries only. Pension fund management should not be undertaken departmentally. Banks may lend their names/abbreviations to their subsidiaries formed for pension fund management, for leveraging their brand names and associated benefits thereto, only subject to the banks maintaining ‘arms length' relationship with the subsidiary. In order to provide adequate safeguards against associated risks and ensure that only strong and credible banks enter into the business of pension fund management, banks complying with the following eligibility criteria (as also the solvency margin prescribed by PFRDA) may approach Reserve Bank of India for necessary permission to enter into the business of pension funds management:
+Net worth of the bank should be not less than ₹500 crore.
+CRAR should be not less than 11 per cent during the last three years.
+The bank should have made net profit for the last three consecutive years.
+Return on Assets (ROA) should be at least 0.6 per cent or more.
+Level of net non-performing assets (NPAs) should be less than 3 per cent
+Performance of the bank's subsidiary(ies), if any, should be satisfactory.
+Management of the bank's investment portfolio should be good as per the AFI Report of the Reserve Bank and there should not be any adverse remark(s) in the Report involving supervisory concerns.
+2. Pension Fund Subsidiary – Safeguards
+Banks fulfilling the above eligibility criteria as also the criteria prescribed by PFRDA for pension fund managers will be permitted to set up subsidiaries for pension fund management subject to the following conditions:
+The bank should obtain the prior permission of the Reserve Bank for investing in the equity for the purpose of setting up the subsidiary. Transferring or otherwise dealing with its shareholding in the subsidiary in any manner would also require prior approval of the Reserve Bank.
+Composition of the Board of Directors of the subsidiary should be broad based and should be as per the guidelines, if any, prescribed by PFRDA.
+The parent bank should maintain "arms length" with the subsidiary. Any transaction between the bank and the subsidiary should be at market related rates.
+Any further equity contribution by the bank to the subsidiary should be with prior approval of the Reserve Bank and total equity contribution by the bank to the subsidiary at any point of time should be within 10 per cent of the bank’s paid-up capital and reserves.
+The bank’s total investment by way of equity contributions in its existing subsidiaries, the proposed pension funds subsidiary and those formed in future together with portfolio investments in other financial and non-financial services companies as well as mutual funds should not exceed 20% of its paid-up capital and reserves.
+The parent bank’s Board should lay down a comprehensive risk management policy for the group as a whole including the subsidiary; incorporating appropriate risk management tools. It should also ensure effective implementation thereof.
+The bank should evolve a suitable system to monitor operations of the subsidiary.
+The subsidiary should confine itself to the business of pension fund management and any other business, which is purely incidental and directly related thereto.
+The pension fund subsidiary should not set up another subsidiary without prior approval of the Reserve Bank.
+The subsidiary should not promote a new company, which is not a subsidiary thereof, without prior approval of the Reserve Bank.
+The subsidiary should not make any portfolio investment in another existing company with an intention of acquiring controlling interest, without prior approval of the Reserve Bank.
+The bank should submit a Business Plan to the Reserve Bank highlighting the business projections of the subsidiary for the first five years so as to determine whether the subsidiary would be able to comply with the solvency margin as may be prescribed by PFRDA and not fall back on the bank for augmenting its capital for the purpose.
+The permission granted by the Reserve Bank to a bank to set up the subsidiary shall be without prejudice to the decision of PFRDA to grant a license to the subsidiary to do the pension fund management business.
+The subsidiary should abide by all the instructions, guidelines etc., on pension fund management issued by PFRDA from time to time.
+The bank should ensure that the subsidiary does not have on-line access to the customers' accounts maintained with the bank.
+In order to maintain systems integrity of the bank, adequate safeguards between the systems of the bank and that of the subsidiary should be put in place by the bank.
+The bank should strictly comply with the reporting requirements prescribed under the "financial conglomerates" framework, wherever applicable.
+The bank should not grant any unsecured advances to the JV or subsidiary without prior approval of the Reserve Bank.
+Appendix
+List of Circulars consolidated in the Master Circular
+No
+Circular No.
+Date
+Subject
+1
+Mailbox clarification
+February 11, 2015
+Entry of Banks into Insurance Business
+2
+RBI/2014-15/409 DBR.No.FSD.BC.62/24.01.018/2014-15
+January 15, 2015
+Entry of Banks into Insurance Business
+3
+RBI/2012-13/494 IDMD.PDRD.No.3089/03.64.027/2012-13
+May 08, 2013
+Submission of undertaking : Renewal of Authorisation
+4
+RBI/2012-13/277 DBOD.No.FSD.BC.53/24.01.001/2012-13
+November 5, 2012
+Corporate Bond Market- Permission to banks for membership of SEBI approved Stock Exchanges
+5
+RBI/2011-12/297 DBOD.FSD.BC.62/24.01.001/2011-12
+December 12, 2011
+Section 19 of the Banking Regulation Act, 1949 - Investment in Subsidiaries and other Companies - Guidelines
+6
+RBI/2011-12/269 DBOD.FSD.BC.No.57/24.01.006/2011-12
+November 21, 2011
+Banks as Sponsors to Infrastructure Debt Funds (IDFs)
+7
+RBI/2011-12/162 IDMD.PCD.9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+8
+RBI/2009-10/283 DBOD.No.FSD.BC.67/24.01.001/2009-10
+January 07, 2010
+Disclosure in Balance Sheet - Bancassurance Business
+9
+RBI/2009-10/225 DBOD.No.FSD.BC.60/24.01.001/2009-10
+November 16, 2009
+Marketing/Distribution of Mutual Fund/Insurance etc., Products by Banks
+10
+RBI/2009-10/35 DBOD.BP.BC.No.34/21.04.157/2009-10
+August 28, 2009
+Guidelines for Exchange Traded Interest Rate Derivatives
+11
+RBI/2008-9/217 DBOD.BP.BC.No.56/21.04.157/2009-10
+October 13, 2008
+Guidelines for Exchange Traded Interest Rate Derivatives
+12
+DBOD.No.FSD.BC.29/24.01.001/2008-09
+August 6, 2008
+Introduction of Currency Futures– Permitting Banks to become Trading/ Clearing Members of SEBI-Approved Exchanges
+13
+RBI/2009-10/65 DBOD.No.FSD.BC.18/24.01.001/2009-10
+July 1, 2009
+Master Circular on Para-banking Activities
+14
+Mailbox clarification
+April 17, 2008
+Public issue of Shares and Debentures-Underwriting by Banks/Subsidiaries
+15
+RBI/2006 -2007/446 DBOD.No.FSD.BC.102/24.01.022/2006-07
+June 28, 2007
+Pension Fund Management (PFM) by Banks
+16
+RBI/2006-07/205 DBOD.No.FSD.BC.46/24.01.028/2006-07
+December 12, 2006
+Financial Regulation of Systemically Important NBFCs and Banks’ Relationship with them – Final Guidelines
+17
+RBI/2006-07/140 IDMD.PDRS.1431/03.64.00/2006-2007
+October 5, 2006
+Operational Guidelines for Banks undertaking/proposing to undertake Primary Dealer Business
+18
+RBI/2006-2007/113 DBOD.No.BP.BC.27/21.01.002/2006-07
+August 23, 2006
+Prudential Guidelines - Banks’ Investment in Venture Capital Funds (VCFs)
+19
+RBI/2006-07/104 DBOD.FSD.BC.No.25/24.92.001/2006-07
+August 9, 2006
+Guidelines for Banks undertaking PD Business
+20
+RBI 2005-06/308 DBOD.FSD.BC.No.64/24.92.001/2005-06
+February 27, 2006
+Guidelines for Banks undertaking PD Business
+21
+RBI/2003-04/260 DBOD.BP.BC.No.100/21.03.054/2003-04
+June 21, 2004
+Annual Policy Statement for the year 2004-05 - Prudential Credit Exposure Limits by Banks
+22
+DBOD.No.FSC.BC.66/24.01.002/2002-03
+January 31, 2003
+Public issue of Shares and Debentures- Underwriting by Merchant Banking Subsidiaries of Commercial Banks
+23
+DBOD.FSC.BC.145/24.01.013/1999-2000
+March 7, 2000
+Guidelines relating to Money Market Mutual Funds (MMMFs)
+24
+DBOD.No.FSC.BC.120/24.01.013/1999-2000
+November 2, 1999
+‘Cheque Writing’ Facility for Investors of Gilt Funds and Liquid Income Schemes
+25
+DBOD.No.FSC.BC.99/24.01.013/1999-2000
+October 9, 1999
+‘Cheque Writing’ Facility for Investors of Money Market Mutual Funds (MMMFs)
+26
+DBOD.No.FSC.BC.70/24.01.001/1999-2000
+July 17, 1999
+Equipment Leasing Activity –Accounting/ Provisioning Norms
+27
+DBOD.No.FSC.BC.65/24.01.001/1999-2000
+July 1, 1999
+Participation in the Share Capital of Financial Services Companies
+28
+DBOD.No.FSC.BC.42/24.01.013/1998-1999
+April 29, 1999
+‘Cheque Writing’ Facility for Investors of Money Market Mutual Funds (MMMFs)
+29
+DBOD.No.FSC.BC.118/24.76.002/1998-99
+December 26, 1998
+Information System for Portfolio Management Services (PMS)
+30
+DBOD.No.FSC.BC.129/24.76.002/1997-98
+October 22, 1997
+Retailing of Government Securities
+31
+DBOD.No.FSC.BC.90/24.01.001/1997-98
+August 13, 1997
+Equipment Leasing, Hire Purchase, Factoring, etc. Activities
+32
+DBOD.No.FSC.BC.74/24.76.002/1995-96
+June 13, 1996
+Marketing of Mutual Fund Units by Banks
+33
+DBOD.No.FSC.BC.129/24.76.002/95-96
+June 8, 1996
+Retailing of Government Securities
+34
+DBOD.No.FSC.BC.101/24.01.001/95-96
+September 20, 1995
+Equipment Leasing, Hire Purchase, Factoring, etc. Activities
+35
+DBOD.No.FSC.BC.86/24.01.001/1995-96
+August 17, 1995
+Commitments in respect of underwriting, etc -Obligations
+36
+DBOD.No.BC.73/27.07.001/1994-95
+June 7, 1994
+Acceptance of Deposits under Portfolio Management Scheme (PMS)
+37
+IECD.No.44/08.12.01/1994-95
+April 27, 1995
+Factoring Services-Role of Banks-Clarifications
+38
+DBOD.No.BC.69/24.01.003/1993-94
+May 21, 1994
+Guidelines for undertaking Mutual Fund Business by Banks
+39
+DBOD.No.BC.18/24.01.001/1993-94
+February 19, 1994
+Equipment Leasing, Hire Purchase, Factoring, etc. Activities
+40
+DBOD.No.Dir.BC.4/13.07.05/1993-94
+January 25, 1994
+Investments in and underwriting of Bonds issued by Public Sector Undertakings (PSUs)
+41
+DBOD.No.BC.183/27.07.003/1993-94
+October 18, 1993
+Information System for Portfolio Management Services (PMS)
+42
+DBOD.No.BC.176/13.07.05/1993-94
+October 11, 1993
+Investments in and underwriting of Bonds issued by Public Sector Undertakings (PSUs)
+43
+DBOD.No.BC.145/13.07.05/1993-94
+July 30, 1993
+Underwriting Activity –Devolvement on Underwriters
+44
+DBOD.No.BC.94/24.01.001/1992-93
+March 19, 1993
+Monitoring the activities of Subsidiaries/ Mutual Funds
+45
+DBOD.No.BC.11/24.01.009/1992-93
+July 30, 1992
+Portfolio Management on behalf of Banks
+46
+DBOD.No.FSC.BC.45/C.469-1991/92
+October 15, 1991
+Participation in the Share Capital of Finance Services Companies/taking membership of OC Exchange of India
+47
+DBOD.No.FSC.BC.130/C.469-1990/91
+May 30, 1991
+Conduct of Leasing Business by Commercial Banks - Clarification
+48
+DBOD.No.FSC.BC.69/469-1990/91
+January 18, 1991
+Portfolio Management on behalf of Clients
+49
+DBOD.No.FSC.BC.14/C.469-1990/91
+September 7, 1990
+Hire-Purchase Business by Banks
+50
+IECD.No.PMD.1/50/1990-91
+July 2, 1990
+Guidelines for provision of Factoring Services
+51
+DBOD.No.Dir.BC.103/C.347(PSB)-1998-89
+April 3, 1989
+Investments in and underwriting of Bonds issued by Public Sector Undertakings (PSUs)
+52
+DBOD.No.FSC.BC.27/C.469-1989
+September 29, 1989
+‘Safety Net’ Schemes for Public Issues of Shares, Debentures, etc.
+53
+DBOD.No.FSC.BC.26/C.469-1989
+September 29, 1989
+Commitments in respect of Public Issue of Shares, Debentures, etc.
+54
+DBOD.BP(FSC)1854/C-469-1989
+May 27, 1989
+Approval for setting up of Subsidiaries, etc.
+55
+DBOD.No.BP.(FSC)BC.120/C.469-1989
+May 2, 1989
+Portfolio Management on behalf of Clients
+56
+DBOD.No.GC.BC-55/C.408C(P)-1987
+May 28, 1987
+Investments in and underwriting of Bonds issued by Public Sector Undertakings
+57
+DBOD.No.Dir.BC.43/C.347-1987
+April 15, 1987
+Portfolio Management on behalf of Clients
+58
+DBOD.No.BP.BC.138/C.469(W)-1986
+December 17, 1986
+Setting up of Subsidiaries by Banks
+59
+DBOD.No.GC.BC.131/C.408C(P)/1986
+November 25, 1986
+Investments in Shares and Debentures
+60
+IECD.No.CAD.92/C.446(LF)-1984
+August 18, 1984
+Equipment Leasing-Guidelines to Banks

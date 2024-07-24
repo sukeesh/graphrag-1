@@ -1,0 +1,34 @@
+(643 kb)
+Investment through Alternative Investment Funds – Clarification on Calculation of NOF of an NBFC
+RBI/2013-14/554
+DNBS (PD) CC.No.373/03.10.001/2013-14
+April  7, 2014
+All NBFCs
+Dear Sirs,
+Investment through Alternative Investment Funds – Clarification on Calculation of NOF of an NBFC
+In terms of section 45 IA of the RBI Act, 1934, net owned funds (NOF) of an NBFC means-
+(a) the aggregate of the paid-up equity capital and free reserves as disclosed in the latest balance-sheet of the company after deducting there from–
+(i) accumulated balance of loss;
+(ii) deferred revenue expenditure; and
+(iii) other intangible assets; and
+(b) further reduced by the amounts representing
+(1) investments of such company in shares of–
+(i) its subsidiaries;
+(ii) companies in the same group;
+(iii) all other non-banking financial companies; and
+(2) the book value of debentures, bonds, outstanding loans and advances (including hire-purchase and lease finance) made to, and deposits with,–
+(i) subsidiaries of such company; and
+(ii) companies in the same group,
+to the extent such amount exceeds ten per cent of (a) above.
+2. It has been observed in certain cases that an NBFC while arriving at the NOF figure did not reckon its investment in group companies on the ground that investments in the group companies were made by the Venture Capital Fund (VCF) sponsored by the NBFC, although, in term, the contribution to the funds held by the VCF had come primarily from the NBFC itself.
+3. As you are aware, a VCF or any such Alternative Investment Fund (AIF)
+1
+means a pool of capital by investors and the investment made by such an AIF is done on behalf of the investors. Accordingly, it is clarified that while arriving at the  NOF figure, investment made by an NBFC in entities of the same group concerns shall be treated alike, whether the investment is made directly or through an AIF / VCF, and when the funds in the VCF  have come from the NBFC to the extent of 50% or more; or where the beneficial owner, in the case of Trusts is the NBFC, if 50% of the funds in the Trusts are from the concerned NBFC. For this purpose, “beneficial ownership” would mean holding the power to make or influence decisions in the Trust and being the recipient of benefits arising out of the activities of the Trust.
+4. In other words, in arriving at the NOF, the substance would take precedence over form. NBFCs are advised to keep this principle in mind, always, while calculating their NOF.
+Yours faithfully,
+(
+N. S. Vishwanathan
+)
+Principal Chief General Manager
+1
+As defined in ‘SECURITIES AND EXCHANGE BOARD OF INDIA (ALTERNATIVE INVESTMENT FUNDS) REGULATIONS, 2012’

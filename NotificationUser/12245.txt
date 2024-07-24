@@ -1,0 +1,62 @@
+(236 kb)
+Regulations Review Authority (RRA 2.0) – Interim Recommendations – Online Submission of Returns
+RBI/2021-22/173
+FMRD.DIRD.13/14.03.59/2021-22
+February 18, 2022
+To
+All Eligible Market Participants
+Madam / Dear Sir
+Regulations Review Authority (RRA 2.0) – Interim Recommendations –
+Online Submission of Returns
+Please refer to the
+press release dated February 18, 2022
+issued on the captioned subject.
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to convert the paper based/ e-mail-based returns listed in the
+Annex
+to online filing. The exact date of online filing of the returns listed in the Annex would be notified in due course. Till such time, the returns may continue to be submitted as hitherto.
+Yours faithfully,
+(Dimple Bhandia)
+Chief General Manager
+Encl: As above
+Annex
+List of Returns to be converted into Online submission
+S.No.
+Return Name
+Return Description
+Reference regulatory provision
+1.
+FCY-Rupee Option Transactions
+Return contains the details related to i) Option Transaction Report related to trade and client, ii) Option Position Report of FCY/INR includes USD/ EUR/ JPY to INR, iii) Change in Portfolio Delta Report and iv) Strike Concentration Report at different maturity buckets for AD-I banks.
+Part E, Para (v) of the
+Master Direction – Risk Management and Inter-Bank Dealings dated July 05, 2016
+.
+2.
+List of Offices/Branches of AD Bank Maintaining Rupee Accounts of Non-Resident Banks
+Return contains the granular level information on list of all offices/branches, of an AD bank, which are maintaining Rupee accounts of non-resident banks.
+Part E, Para (x) of the
+Master Direction – Risk Management and Inter-Bank Dealings dated July 05, 2016
+.
+3.
+Suspicious Transactions undertaken by Non-Resident Importer/Exporter
+Returns covers the information pertaining to Doubtful transactions involving frequent cancellation of hedge transactions and / or the underlying trade transactions.
+Part E, Para (xiii) of the
+Master Direction – Risk Management and Inter-Bank Dealings dated July 05, 2016
+.
+4.
+Interest Rate Risk Positions for clients
+Return captures the details related to Interest Rate Risk (IRR) Positions for clients having outstanding derivative of Rs.10 billion.
+Para 13(3) of the
+Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 dated June 26, 2019
+.
+5.
+Cross-border remittances arising out of Rupee interest rate derivatives transactions undertaken by non-residents
+Return contains the details related to Cross-border remittances arising out of Rupee interest rate derivatives transactions undertaken by non-residents.
+Para 13(4) of the
+Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 dated June 26, 2019
+.
+6.
+FX transactions with clients across various channels
+Return captures the information on distribution of customer transactions (across FX-Retail, other electronic trading platforms and other channels) and the fees charged for them.
+Para 5 of
+notification no. FMRD.FMD.16/02.03.225/2018-19 dated June 20, 2019
+.

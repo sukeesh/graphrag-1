@@ -1,0 +1,51 @@
+(18 kb)
+Auction for Sale (Re-issue) of 1.44% Inflation Indexed Government Stock 2023
+Government of India
+Ministry of Finance
+Department of Economic Affairs
+Budget Division
+New Delhi, dated October 23, 2013
+NOTIFICATION
+Auction for Sale (Re-issue) of 1.44% Inflation Indexed Government Stock 2023
+F. No.4 (16) W&M/2012: Government of India hereby notifies sale (re-issue) of
+1.44% Inflation Indexed Government Stock-2023
+(securities) for an aggregate amount of
+`
+1,000 crore (nominal). The sale will be subject to the terms and conditions spelt out in this notification (called ‘Specific Notification’) as also the terms and conditions specified in the General Notification F. No. 4 (13)–W&M/2008, dated October 8, 2008 issued by Government of India.
+Method of Issue
+2. The Stock will be sold through Reserve Bank of India, Mumbai Office, Fort, Mumbai- 400 001 in the manner as prescribed in paragraph 5.1 of the General Notification F. No. 4 (13)–W&M/2008, dated October 8, 2008 by a
+price based auction using uniform price auction method
+.
+Allotment to Non-competitive Bidders
+3. The Government Stock up to 20% of the notified amount of the sale will be allotted to eligible individuals and institutions as per the enclosed Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities (
+Annex
+).
+Place and date of auction
+4. The auction will be conducted by Reserve Bank of India, Mumbai Office, Fort, Mumbai-400 001 on
+October 30, 2013
+. Bids for the auction should be submitted in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system on
+October 30, 2013
+. The non-competitive bids should be submitted between 10.30 a.m. and 11.30 a.m. and the competitive bids should be submitted between 10.30 a.m. and 12.00 noon.
+Tenure
+5. The Stock will be of ten-year tenure commencing from June 5, 2013. The Stock will be repaid at par on June 5, 2023.
+Date of issue and payment for the stock
+6. The result of the auction shall be displayed by the Reserve Bank of India at its Fort, Mumbai Office on
+October 30, 2013
+. The payment by successful bidders will be on
+October 31, 2013
+i.e., the date of re-issue.
+Interest
+7. Interest at the rate of 1.44 per cent per annum will accrue on the indexed principal value of the Stock from the date of original issue and will be paid half yearly on December 5 & June 5.The indexed principal will be calculated by multiplying the original principal value i.e., Rs 100 with the index ratio (IR).
+Price Index
+8. Final Wholesale Price Index (WPI) will be used for calculating index ratio and thereby providing inflation protection. The monthly final WPI will be used as reference WPI for 1st day of a calendar month and the reference WPI for the days between 1st day of two contiguous calendar months will be computed through linear interpolation. Further, monthly final WPI will be used with a lag of four months, viz. final WPI for May 2013 and June 2013 will be used as reference WPI for 1st October 2013 and 1st November 2013, respectively. The reference WPI for
+30th October 2013 will be 173.14194
+(through linear interpolation of reference WPI for 1st October and 1st November at 171.4 and 173.2 respectively). In case of revision in the base year for WPI series after issuance of
+Inflation Indexed Government Stock
+, new WPI index will be used for indexation purposes and the past values of new WPI index would be computed through splicing the base. The monthly data on final WPI published by the Office of the Economic Adviser to the Government of India, Ministry of Commerce and Industry will be used.
+Index ratio
+9. Index ratio is computed by dividing reference WPI of the settlement/coupon date with the reference WPI of the issue date (Base index value). Index ratio for a specific date is truncated to six decimal places and rounded off to five decimal places. Accordingly, the index ratio applicable for this auction is
+1
+.01621 (173.14194 / 170.38000).
+By Order of the President of India
+(Peeyush Kumar)
+Director to the Government of India

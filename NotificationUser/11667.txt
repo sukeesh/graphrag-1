@@ -1,0 +1,38 @@
+(838 kb)
+Real Time Gross Settlement (RTGS) System – Increase in operating hours
+RBI/2019-20/46
+DPSS (CO) RTGS No.364/04.04.016/2019-20
+August 21, 2019
+The Chairman / Managing Director / Chief Executive Officer
+of member banks participating in RTGS
+Madam / Dear Sir,
+Real Time Gross Settlement (RTGS) System – Increase in operating hours
+A reference is invited to the circular
+DPSS (CO) RTGS No. 2488/04.04.016/2018-19 dated May 28, 2019
+on ‘Real Time Gross Settlement (RTGS) System – Extension of Timings for Customer Transactions’.
+2. At present, the RTGS system is available for customer transactions from 8:00 am to 6:00 pm and for inter-bank transactions from 8:00 am to 7:45 pm. In order to increase the availability of the RTGS system, it has been decided to extend the operating hours of RTGS and commence operations for customers and banks from 7:00 am.
+3. The RTGS time window with effect from
+August 26, 2019
+will, therefore, be as under:
+Sr. No.
+Event
+Time
+1.
+Open for Business
+07:00 hours
+2.
+Customer transactions (Initial Cut-off)
+18:00 hours
+3.
+Inter-bank transactions (Final Cut-off)
+19:45 hours
+4.
+IDL Reversal
+19:45 hours - 20:00 hours
+5.
+End of Day
+20:00 hours
+4. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully,
+(P Vasudevan)
+Chief General Manager

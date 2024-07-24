@@ -1,0 +1,26 @@
+(332 kb)
+Interoperable Card-less Cash Withdrawal (ICCW) at ATMs
+RBI/2022-23/54
+CO.DPSS.POLC.No.S-227/02-10-002/2022-23
+May 19, 2022
+The Chairman and Managing Director / Chief Executive Officer
+Scheduled Commercial Banks including RRBs /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Payment Banks / Small Finance Banks /
+National Payments Corporation of India (NPCI) /
+ATM Networks / White Label ATM Operators (WLAOs)
+Madam / Dear Sir,
+Interoperable Card-less Cash Withdrawal (ICCW) at ATMs
+Please refer to paragraph 7 of
+Statement on Development and Regulatory Policies dated April 08, 2022
+, wherein the Reserve Bank of India (RBI) had announced introduction of ICCW.
+2. All banks, ATM networks and WLAOs may provide the option of ICCW at their ATMs. NPCI has been advised to facilitate Unified Payments Interface (UPI) integration with all banks and ATM networks. While UPI would be used for customer authorisation in such transactions, settlement would be through the National Financial Switch (NFS) / ATM networks. The on-us / off-us ICCW transactions shall be processed without levy of any charges other than those prescribed under the circular on
+Interchange Fee and Customer Charges
+.
+3. Withdrawal limits for ICCW transactions shall be in-line with the limits for regular on-us / off-us ATM withdrawals. All other instructions related to
+Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions
+shall continue to be applicable.
+4. This directive is issued under Section 10(2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager

@@ -1,0 +1,29 @@
+(138 kb)
+Rupee Drawing Arrangement - Submission of statement/returns under XBRL
+RBI/2015-16/402
+A.P. (DIR Series) Circular No.71
+May 19, 2016
+To
+All Authorised Dealer Category - I Banks
+Rupee Drawing Arrangement - Submission of statement/returns under XBRL
+Madam / Sir,
+Attention of Authorised Dealer Category – I (AD Cat – I) banks is invited to the
+A.P. (DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No. 02] dated February 6, 2008
+and the
+A. P. (DIR Series) Circular No. 7 dated July 18, 2014
+in terms of which AD Cat- I banks were required to submit statement E on total remittances received every quarter.
+2. Authorised Dealer Category – I (AD Cat – I) banks are now advised to report the above mentioned statement in eXtensible Business Reporting Language (XBRL) system from the quarter ending June 2016.
+3. The reporting platform may be accessed at
+https://secweb.rbi.org.in/orfsxbrl/.
+For User name and password, Authorised Dealer Category – I (AD Cat – I) banks are advised to submit the duly filled form (
+Annex I
+) through
+email
+on or before May 30, 2016.
+4. FED
+Master Direction No. 18/2015-16 dated January 1, 2016
+is being updated to reflect the changes.
+5.The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Shekhar Bhatnagar)
+Chief General Manager-in- Charge

@@ -1,0 +1,126 @@
+(118 kb)
+Secondary Market Transactions in Government Securities – Short Selling
+RBI/2018-19/26
+FMRD.DIRD.05/14.03.007/2018-19
+July 25, 2018
+All participants in Central Government securities market
+Madam/Sir,
+Secondary Market Transactions in Government Securities – Short Selling
+The
+Statement on Developmental and Regulatory Policies released by RBI on June 06, 2018
+proposed to liberalise the eligible short sale participant base and increase the entity-wise and security category-wise (liquid/other securities) limits for short selling in Government Securities.
+2. Accordingly, a comprehensive review of the existing directions/circulars on ‘Short Sale’ transactions has been carried out and the revised directions, as attached, are issued. These directions supersede all existing regulations on short sales in terms of the list of circulars in
+Annex I
+. The circulars listed in
+Annex I
+are consequently withdrawn.
+3. These directions are issued under Section 45 W of Chapter III D of the Reserve Bank of India Act, 1934.
+4. The directions will come into effect from July 26, 2018.
+Yours faithfully,
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE, FORT
+MUMBAI 400 001
+FMRD.DIRD.06/CGM (TRS)-2018 dated July 25, 2018
+Short Sale (Reserve Bank) Directions, 2018
+In exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 (RBI Act) and of all the powers enabling it in this behalf, the Reserve Bank of India (the Reserve Bank) having considered it necessary in public interest and with a view to enhance liquidity in the Government securities market of the country, and to provide participants with a tool to express two way views on the interest rate, hereby issues the following directions.
+1. Short title, commencement and applicability of the directions
+(a) These Directions shall be called the Short Sale (Reserve Bank) Directions, 2018 and shall supersede all directions/guidelines issued on the subject, as listed under
+Annex I
+. These Directions shall come into force with effect from July 26, 2018.
+(b) These Directions shall be applicable to ‘Short Sale’ transactions in Central Government dated securities.
+2. Definitions
+In these Directions, unless the context otherwise requires-
+(a)
+“Scheduled commercial bank”
+means a bank included in the second schedule of Reserve Bank of India Act, 1934.
+(b)
+“Government securities”
+shall have the meaning assigned in Section 2(f) of the Government Securities Act, 2006.
+(c)
+"Short sale"
+means sale of a security one does not own. Banks may treat sale of a security held in the investment portfolio as a short sale and follow the process laid down in these directions. These transactions shall be referred to as ‘notional’ short sales. For the purpose of these guidelines, short sale would include 'notional' short sale.
+(d)
+“Liquid security”
+means a security identified and published by Fixed Income Money Market and Derivatives Association of India (FIMMDA)/ Financial Benchmarks India Limited (FBIL) as a ‘liquid security’ for the purpose of short sale transactions.
+(e)
+“Other security”
+means a security other than liquid security and eligible for short sale transactions.
+3. Eligible entities
+The following entities are eligible to undertake short sales:
+(a) Scheduled commercial banks,
+(b) Primary Dealers,
+(c) Urban Cooperative Banks as permitted under circular UBD.BPD (PCB).
+Circular No.9/09.29.000/2013-14 dated September 4, 2013
+.
+(d) Any other regulated entity which has the approval of the concerned regulator.
+For the purpose of this paragraph, regulator shall mean Securities and Exchange Board of India (SEBI), Insurance Regulatory and Development Authority (IRDA), Pension Fund Regulatory and Development Authority (PFRDA), National Bank for Agriculture and Rural Development (NABARD) and National Housing Bank (NHB).
+4. Security level limits on short sales
+The maximum amount of a security (face value) that can be short sold shall be as mentioned below:
+Category
+Security level limit
+Liquid securities
+2% of the total outstanding stock of each security, or, Rs.500 crore, whichever is higher.
+Other securities
+1% of the total outstanding stock of each security, or, Rs.250 crore, whichever is higher.
+5. Operational requirements
+Entities undertaking short sales shall adhere to the following stipulations:
+(a) Entities undertaking short sale transactions and the related cover transactions, shall tag those transactions in NDS-OM appropriately. The ‘short sale’ tag in NDS-OM shall not be used for sale transactions of securities that are not in immediate possession of the entity but will be received by the time of settlement (e.g., securities used to avail of intra-day liquidity, securities placed as margin with clearing houses, etc.).
+(b) Short sales shall be covered within a period of three months from the date of transaction (inclusive of the date).
+(c) Short sales, including notional short sales by banks, shall be covered by outright purchase of an equivalent amount (face value) of the same security, either in the secondary market or in primary auction, including in the When Issued market.
+(d) Securities that are short sold are to be invariably delivered on the settlement date. Entities shall meet their delivery obligations by borrowing securities in the repo market or through outright purchase. However, securities acquired under Reserve Bank’s Liquidity Adjustment Facility or any other liquidity facility shall not be used for delivery into short sales.
+(e) Banks undertaking ‘notional’ short sales shall ordinarily borrow securities from the repo market to meet delivery obligations, but in exceptional situations of market stress (e.g., short squeeze), it may deliver securities from its own investment portfolio. If securities are delivered out of its own portfolio, it must be accounted for appropriately and reflect the transactions as internal borrowing. It shall be ensured that the securities so borrowed are brought back to the same portfolio, without any change in book value.
+(f) Members of the Securities Settlement Segment of Clearing Corporation of India Ltd. (hereafter referred to as ‘members’) shall be responsible for settlements and reporting of trades of their constituent entities viz., entities maintaining gilt accounts or demat accounts. Accordingly, eligible constituent entities shall undertake short sale transactions to the extent permitted by the members through whom they settle their securities transactions, within the limits prescribed in Para 4 of these directions.
+(g) An entity is not required to reduce its short position in a security if the security is removed from the list of liquid securities published by FIMMDA during the period of short sale. It can continue to maintain the short position till it is covered.
+(h) Short sales shall be reflected in Securities Short Sold (SSS) A/c, specifically created for this purpose (
+Annex II
+for illustration).
+(i) Short sales, as well as purchase transactions to cover short sales, shall be accounted in the Held For Trading (HFT) category. Entities undertaking short sales shall mark to market their entire HFT portfolio, including short sales, on a daily basis. Note that ‘Held For Trading’ shall have the meaning assigned in Master Circular – Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks (
+DBR No BP.BC.6/21.04.141/2015-16
+) dated July 1, 2015, as updated from time to time.
+6. Information on outstanding stock and liquid securities
+Information regarding the outstanding stock of each Government of India dated security is available on the RBI website.
+(URL -
+https://www.rbi.org.in/scripts/financialmarketswatch.aspx
+).
+The list of liquid securities shall be disseminated by FIMMDA/FBIL from time to time.
+7. Reporting
+The short sale position executed in the OTC market should be reported on the NDS-OM platform within 15 minutes of the execution of the trade.
+8. Internal control
+(a) Before undertaking short sale transactions, entities shall put in place a written policy on all aspects of short sales, including, in the case of banks, notional short sales, which should be approved by their respective Boards of Directors or equivalent body. The policy should lay down the internal guidelines which should include,
+inter alia
+, risk limits on short position, an aggregate nominal short sale limit (in terms of face value) across all eligible securities, stop loss limits, the internal control systems to ensure adherence to regulatory and internal guidelines, procedure to deal with violations, etc. Entities shall also put in place a system to detect violations early.
+(b) All short sale transactions shall be audited on a daily basis to ensure compliance with all regulatory and internal requirements. Any violation of regulatory guidelines noticed in this regard should immediately be reported to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Mumbai.
+(c) Entities undertaking short sales should ensure that these transactions are in conformity with fair market practices and that their activity does not lead to market distortions. Entities shall also report to RBI any suspected cases of market abuse regardless of whether it was by their own employee, client or other market participant.
+9.
+Any default on a short sale transaction shall be subject to penal measures as prescribed in RBI circular
+IDMD.DOD.17/11.01.01(B)/2010-11 dated July 14, 2010
+as amended from time to time. Reserve Bank may also take additional action including temporary or permanent debarment of the SGL account holder from the short sale market as it may deem fit, for violation/circumvention of the regulatory guidelines or if Reserve Bank is of the view that the participant has attempted to manipulate the market, involved in market abuse, or provided information that was incorrect, inaccurate, or incomplete.
+10.
+The list of previous circulars issued by the Reserve Bank on ‘Short Sale’ transactions in Central Government dated securities that are repealed and withdrawn are given in
+Annex I
+. Any reference to the circulars withdrawn, in any other circular/direction of the Reserve Bank, shall be read as reference to the relevant clause in these directions.
+(T. Rabi Sankar)
+Chief General Manager
+Annex I
+List of circulars being withdrawn
+(i)
+IDMD.No.03/11.01.01 (B)/2005-06 dated February 28, 2006
+(ii)
+IDMD. No/11.01.01(B)/2006-07 dated January 31, 2007
+(iii)
+IDMD.DOD.No.3165/11.01.01(B)/2007-08 dated January 1, 2008
+(iv)
+IDMD.PCD.14/14.03.07/2011-12 dated December 28, 2011
+(v)
+IDMD.PCD.21/14.03.07/2011-12 dated June 21, 2012
+(vi)
+IDMD.PCD.06/14.03.07/2014-15 dated September 30, 2014
+(vii)
+FMRD.DIRD.02/14.03.007/2014-15 dated December 24, 2014
+(viii)
+FMRD.DIRD.5/14.03.007/2015-16 dated October 29, 2015
+(ix)
+FMRD.DIRD.04/14.03.007/2017-18 dated November 16, 2017

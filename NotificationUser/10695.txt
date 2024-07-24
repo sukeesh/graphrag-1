@@ -1,0 +1,149 @@
+(143 kb)
+Schemes for Stressed Assets - Revisions
+RBI/2016-17/122
+DBR.No.BP.BC.34/21.04.132/2016-17
+November 10, 2016
+All Scheduled Commercial Banks
+(Excluding RRBs),
+All-India Term-lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Non-Banking Financial Companies, including
+Securitisation Companies/ Reconstruction Companies
+Madam / Dear Sir,
+Schemes for Stressed Assets - Revisions
+In the recent past, the Reserve Bank of India has taken various regulatory measures to strengthen the lenders’ ability to deal with stressed assets viz., Framework for Revitalising Distressed Assets, Flexible Structuring of Project Loans, Strategic Debt Restructuring Scheme,
+Scheme for Sustainable Structuring of Stressed Assets
+, etc.
+2. The changes in the above guidelines have been carried out with the objectives of:
+harmonisation of stand-still clause as applicable in case of Strategic Debt Restructuring Scheme with other guidelines;
+clarifying on the deemed date of commencement of commercial operations; and
+partial modification of certain guidelines based on the experience gained in using these tools in resolving the stressed assets as well as feedback received from stakeholders, and taking into consideration the requirements of the construction sector.
+3. All other provisions of the respective schemes remain unchanged.
+Yours faithfully,
+(Ajay Kumar Choudhary)
+Chief General Manager
+Annex
+A. Scheme for Sustainable Structuring of Stressed Assets
+The asset classification norms for loans under the Scheme for Sustainable Structuring of Stressed Assets, in cases where there is no change of promoters, are prescribed in paragraph 9(B) of
+circular DBR.No.BP.BC.103/21.04.132/2015-16 dated June 13, 2016
+. Based on the feedback received from stakeholders and on a review, it has been decided to revise paragraphs 9(B) (i) and (ii) of the scheme as under:
+In view of the need to provide reasonable time to the overseeing committee to review the processes involved in the resolution plan, the Asset classification as on the date of lenders’ decision to resolve the account under these guidelines (reference date) will continue for a period of 180 days
+1
+from this date. This standstill clause is permitted to enable JLF/consortium/bank to formulate the resolution plan, submit the same to the overseeing committee formed under the guidelines and implement it. Banks should normally submit the resolution plan to the overseeing committee within 90 days from the reference date. It is expected that the overseeing committee would review the processes involved in preparation of resolution plan, etc. for reasonableness and adherence to the provisions of these guidelines, and convey its final opinion on it within a period of 45 days. Subsequently, banks shall implement the resolution plan within the next 45 days. However, banks will have flexibility on the above time lines, within the overall period of 180 days. If the resolution plan is not implemented within this period, the asset classification will be as per the extant asset classification norms, assuming there was no such ‘stand-still’. It is clarified that ‘stand-still’ clause only applies to asset classification and banks shall not recognize income on accrual basis if the interest is not serviced within 90 days from the due date;
+In respect of an account that is ‘Standard’ as on the reference date, the entire outstanding (both Part A and part B) may be treated as 'Standard' subject to provisions made upfront by the lenders being at least the higher of 40 percent of the amount held in part B or 20 percent of the aggregate outstanding (sum of Part A and part B). For this purpose, the provisions already held in the account can be reckoned. These provisions may be reversed one year after the date of implementing the resolution plan or one year after completion of the longest pre-existing moratorium, whichever is later, subject to satisfactory performance of Part A and Part B during this period.
+2. All other guidelines of the scheme, which are specifically not modified here, remain unchanged.
+B. Flexible Structuring of Existing Long Term Project Loans to Infrastructure and Core Industries
+3. In terms of
+circular DBOD.No.BP.BC.24/21.04.132/2014-15 dated July 15, 2014
+, Reserve Bank prescribed guidelines on Flexible Structuring of Long Term Project Loans to Infrastructure and Core Industries. Subsequently, in terms of
+circular DBR.No.BP.BC.53/21.04.132/2014-15 dated December 15, 2014
+banks were allowed to flexibly structure existing long term project loans to infrastructure and core industries.
+4. Based on the experience gained by banks on flexibly structuring long term project loans to specified sectors and based on the principle that repayment schedules of loans should normally correspond to the cash flows from the underlying assets created out of such loans, it has now been decided that banks may apply flexible structuring to:
+New project loans in all sectors; and
+Existing project loans, in which the aggregate exposure of all institutional lenders exceeds ₹ 250 crore, in all sectors;
+subject to all other terms and conditions stipulated in the respective guidelines.
+5. In addition, banks shall put in place a detailed policy on flexible structuring of loans to various sectors containing the norms on determining useful economic life, the tenor of loans based on economic life of the assets, management of refinance and asset liability management risk, etc.
+6. Banks may also apply flexible structuring of funded exposures to construction companies, identifiable against the specific projects being executed by such companies, which may include funded exposure due to invocation/devolvement of guarantees by project developers. The revised amortisation schedule of such funded exposure shall be restricted upto the date of commencement of commercial operation of the underlying projects. Where flexible structuring is applied to such existing exposures, the aggregate exposure of all institutional lenders shall exceed ₹ 250 crore as at paragraph 4 (b) above.
+7. Further, banks shall make the annual disclosures in their financial statements on application of flexible structuring to existing loans as per the format given at
+Appendix
+. All other guidelines of the scheme, which are specifically not modified here, remain unchanged.
+C. Strategic Debt Restructuring Scheme
+8. It has been decided to modify paragraph xiv) (b) of
+circular DBR.BP.BC.No.101/21.04.132/2014-15 dated June 8, 2015
+, and paragraph 7 of
+circular DBR.BP.BC.No.82/21.04.132/2015-16 dated February 25, 2016
+as under:
+“The new promoter should have acquired at least 26 per cent of the paid up equity capital of the borrower company and shall be the single largest shareholder of the borrower company. Further, the new promoter shall be in ‘control’ of the borrower company as per the definition of ‘control’ provided in the Companies Act 2013/regulations issued by the Securities and Exchange Board of India/any other applicable regulations/accounting standards as the case may be.”
+9. It is clarified that ‘stand-still’ clause only applies to asset classification and banks shall not recognise income on accrual basis if the interest is not serviced within 90 days from the due date.
+10. Banks shall make disclosures on invocation of SDR in annual financial statements as per the format given at
+Appendix
+.
+11. All other guidelines of the SDR scheme shall remain unchanged.
+D. Prudential Norms on Change in Ownership of Borrowing Entities (Outside Strategic Debt Restructuring Scheme)
+12. Prudential norms on change in ownership of borrowing entities (outside Strategic Debt Restructuring Scheme) have been issued vide
+circular DBR.BP.BC.No.41/21.04.048/2015-16 dated September 24, 2015
+. Based on the feedback received from the stakeholders, it has now been decided to review the prudential norms on change in ownership of borrowing entities (Outside Strategic Debt Restructuring Scheme) and introduce stand-still clause on asset classification and provisioning requirements in this scheme on the lines of the Strategic Debt Restructuring Scheme. The revision is as under:
+i) The decision on invoking the change in ownership by any of the methods indicated above should be well documented and approved by the majority of the JLF members (minimum of 75% of creditors by value and 50% of creditors by number). The date on which banks resolve to effect a change in ownership will be called as ‘reference date’;
+ii) Where banks decide to change ownership through conversion of debt into equity/invocation of pledge of shares, the existing asset classification of the account as on the ‘reference date’ will continue for a period of 18 months from the ‘reference date’ to enable banks to complete the process of change in ownership. However, where applicable, banks shall approve the debt to equity conversion package within 90 days from the ‘reference date’. The conversion of debt into equity as approved by the banks shall be completed within a period of 90 days from the date of approval of the conversion package by the consortium/JLF. In case of invocation of pledge of equity shares, the same shall be completed within 180 days from the ‘reference date’. If the targeted conversion of debt into equity shares/transfer of pledged equity shares does not take place within 180 days from the ‘reference date’, the stand-still benefit will cease to exist. The loans will then be classified as per the extant Income Recognition, Asset Classification and Provisioning norms, as if no stand still on asset classification was provided.
+iii) Where change in ownership is effected by issue of new shares by the borrower company or sale of shares by the existing promoter of the company to an acquirer, the asset classification as on the date of binding agreement
+2
+between the borrower company/existing promoter and the new promoter shall continue for a period of 12 months to enable issue of new shares/transfer of shares from existing promoter to new promoter.
+iv) Upon expiry of stand-still (18 or 12 months, as the case may be) if the ownership has not been transferred in favour of new promoters, the asset classification will be as per the extant asset classification norms, assuming the aforesaid ‘stand-still’ in asset classification had not been given. It is clarified that ‘stand-still’ clause only applies to asset classification and banks shall not recognise income on accrual basis if the interest is not serviced within 90 days from the due date.
+a) All other instructions as applicable to SDR will also apply to cases where banks decide to change ownership of borrowing entities (outside Strategic Debt Restructuring Scheme).
+b) Banks shall be circumspect and shall consider change in ownership (including under SDR) only in cases where change in ownership is likely to improve the economic value of the asset and the prospects of recovery of their dues.
+13. Banks shall make disclosures on accounts where change in ownership is being effected outside SDR scheme as per the format given at
+Appendix
+.
+14. All other guidelines of the outside SDR scheme shall remain unchanged.
+E. Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Projects Under Implementation – Change in Ownership
+15. With respect to project under implementation where a change in ownership is effected, in partial modification of paragraph No. 5(vi) of
+DBR.No.BP.BC.84/21.04.048/2014-15 dated April 6, 2015
+, it has been decided that asset classification of the account as on the ‘reference date’ would continue during the extended period as prescribed in the said circular. For this purpose, the ‘reference date’ would be the date of execution of binding agreement between the parties to the transaction, provided that the acquisition/takeover of ownership as per the provisions of law/regulations governing such acquisition/takeover is completed within a period of 12 months days from the date of execution of such binding agreement. Further in line with other guidelines on change in ownership, there will be ‘stand-still’ in asset classification status during the above 12 month period. If the change in ownership is not completed within 12 months from the date of the binding agreement, the asset classification will be as per the extant asset classification norms, assuming the aforesaid ‘stand-still’ in asset classification had not been given.
+F. Loans to Projects under Implementation – Date of Commencement of Commercial Operations (DCCO)
+16. In terms of extant guidelines contained in paragraph 4.2.15 of
+“Master Circular - Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances” dated July 1, 2015
+, for all projects financed by the FIs/ banks, the ‘Date of Completion’ and the ‘Date of Commencement of Commercial Operations’ (DCCO), of the project should be clearly spelt out at the time of financial closure of the project and the same should be formally documented. These guidelines also permit deferment of DCCO and consequential shift in repayment schedule for equal or shorter duration (including the start date and end date of revised repayment schedule) without downgrading the asset classification subject to certain conditions.
+17. For the purpose of guidelines on project under implementation contained in paragraph 4.2.15 of
+“Master Circular - Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances” dated July 1, 2015
+, in line with the ‘Guidance Note on Treatment of Expenditure during Construction Period’ issued by the Institute of Chartered Accountants of India, read with Accounting Standard 16, a project with multiple independent units may be deemed to have commenced commercial operations from the date when the independent units representing 50 per cent (or higher) of the originally envisaged capacity have commenced commercial operations the final output as originally envisaged, subject to the following conditions:
+The units representing remaining 50 per cent (or lower) of the originally envisaged capacity shall commence commercial operations within a maximum period of one year deemed date of commencement of commercial operations;
+Commercial viability of the project is reassessed beyond doubt; and
+Capitalisation of interest obligation in respect of project debt component attributable to the units of the plant which have commenced commercial operations has to cease and the revenue expenditure is booked under revenue account.
+18. In such cases, banks may, at their discretion, also effect a consequential shift in repayment schedule of the debt attributable to units which have not commenced commercial operations for equal or shorter duration (including the start date and end date of revised repayment schedule) i.e., one year, subject to adhering to other applicable guidelines.
+19. However, if the remaining units do not commence commercial operations within the stipulated time, the account will attract asset classification norms applicable to projects under implementation and accordingly treated as non-performing asset upon expiry of the one year period indicated at 11(a) above.
+20. Further, guidelines relating to project loans which are applicable after DCCO of a project, including flexible structuring of project loans (as per
+circulars DBOD.No.BP.BC.24/21.04.132/2014-15 dated July 15, 2014
+and
+DBR.No.BP.BC.53/21.04.132/2014-15 dated December 15, 2014
+), shall not be applicable to project loans attributable to units which have not commenced commercial operations.
+Appendix
+1. Disclosures on Flexible Structuring of Existing Loans
+(Amount in INR Crore)
+Period
+No. of borrowers taken up for flexibly structuring
+Amount of loans taken up for flexible structuring
+Exposure weighted average duration of loans taken up for flexible structuring
+Classified as Standard
+Classified as NPA
+Before applying flexible structuring
+After applying flexible structuring
+Previous Financial Year
+Current Financial Year (From April to ….)
+2. Disclosures on Strategic Debt Restructuring Scheme (accounts which are currently under the stand-still period)
+(Amount in INR Crore)
+No. of accounts where SDR has been invoked
+Amount outstanding as on the reporting date
+Amount outstanding as on the reporting date with respect to accounts where conversion of debt to equity is pending
+Amount outstanding as on the reporting date with respect to accounts where conversion of debt to equity has taken place
+Classified as standard
+Classified as NPA
+Classified as standard
+Classified as NPA
+Classified as standard
+Classified as NPA
+3. Disclosures on Change in Ownership outside SDR Scheme (accounts which are currently under the stand-still period)
+(Amount in INR Crore)
+No. of accounts where banks have decided to effect change in ownership
+Amount outstanding as on the reporting date
+Amount outstanding as on the reporting date with respect to accounts where conversion of debt to equity/invocation of pledge of equity shares is pending
+Amount outstanding as on the reporting date with respect to accounts where conversion of debt to equity/invocation of pledge of equity shares has taken place
+Amount outstanding as on the reporting date with respect to accounts where change in ownership is envisaged by issuance of fresh shares or sale of promoters equity
+Classified as standard
+Classified as NPA
+Classified as standard
+Classified as NPA
+Classified as standard
+Classified as NPA
+Classified as standard
+Classified as NPA
+4. Disclosures on Change in Ownership of Projects Under Implementation (accounts which are currently under the stand-still period)
+(Amount in INR Crore)
+No. of project loan accounts where banks have decided to effect change in ownership
+Amount outstanding as on the reporting date
+Classified as standard
+Classified as standard restructured
+Classified as NPA
+1
+At present, the stand still period is at 90 days.
+2
+The new promoter should acquire at least 26 per cent of the paid up equity capital of the borrower company and shall be the single largest shareholder of the borrower company. Further, the new promoter shall be in ‘control’ of the borrower company as per the definition of ‘control’ provided in the Companies Act 2013/regulations issued by the Securities and Exchange Board of India/any other applicable regulations/accounting standards as the case may be.

@@ -1,0 +1,106 @@
+(162 kb)
+Procedural Guidelines for Servicing the Sovereign Gold Bonds
+RBI/2016-17/193
+IDMD No.1569/14.04.050/2016-17
+December 23, 2016
+All Scheduled Commercial Banks (Excluding RRBs)
+Designated Post Offices
+Stock Holding Corporation of India Ltd. (SHCIL)
+BSE & NSE
+Depositories/Depository Participants
+Madam/Sir,
+Procedural Guidelines for Servicing the Sovereign Gold Bonds
+The
+Sovereign Gold Bond Scheme was launched by Government of India (GOI) on October 30, 2015
+. The Sovereign Gold Bonds (henceforth referred to as bonds) are issued by GOI in the form of Government of India Stock in accordance with Section 3 of the Government Securities Act, 2006 (GS Act 2006) and administered by the Reserve Bank of India. So far, six tranches of the Sovereign Gold Bond Scheme have been issued. Following notification of each tranche by GOI, operational instructions are issued by the Reserve Bank of India to the “Receiving Offices”, for processing the applications.
+2. From the experience of issuance of the bonds so far, and in the interest of operational flexibility and ease in servicing the customers, it has been decided to issue Procedural Guidelines to the “Receiving Offices” (in case of bonds held in the form of stock certificates in RBI’s books) and Depositories/Depository Participants (in case of dematerialized bonds), in addition to entrusting them with the responsibility of performing certain functions relating to servicing of the bonds.
+3. The Procedural Guidelines are given in
+Annex I
+. The Guidelines are issued in exercise of the powers conferred under Section 29(2) of the GS Act 2006, to the Receiving Offices, Depositories/Depository Participants, as directions to persons dealing in government securities, to facilitate servicing of the bonds issued under the various Sovereign Gold Bond schemes.  Any non-compliance shall invite penal provisions under Section 30 of the Act.
+4. These guidelines shall come into force with immediate effect.
+Yours faithfully,
+(A. Mangalagiri)
+Chief General Manager.
+Annex I
+I. Introduction:
+The Sovereign Gold Bonds (henceforth referred to as bonds) are issued by Government of India (GOI) in the form of Government of India Stock in accordance with Section 3 of the Government Securities Act, 2006 (GS Act 2006) under various Sovereign Gold Bond Schemes. Persons resident in India as defined under section 2(v) read with section 2(u) of the Foreign Exchange Management Act 1999 including trusts, charitable institutions, banks and Universities are permitted to invest in the bonds. The bonds are issued in units of one gram gold. The “Receiving Offices” as notified by GOI from time to time are authorized to receive the subscriptions. Each time the schemes are notified, operational instructions are issued by the Reserve Bank for processing the applications.
+II. Applicability:
+2. In the interest of operational flexibility and ease in servicing the customers, it has been decided to entrust “Receiving Offices” (in case of bonds held in the form of stock certificates in RBI’s books) and Depositories along with Depository Participants (in case of dematerialized bonds), with the responsibility of performing certain functions relating to servicing the bonds.
+3. These guidelines are issued in exercise of the powers conferred under Section 29(2) of the GS Act 2006, to the Receiving Offices, Depository Participants, and Depositories, as directions to persons dealing in government securities, to facilitate servicing of the bonds issued under the various Sovereign Gold Bond schemes.
+III. Definitions:
+In these guidelines, unless the context otherwise requires,
+“Depository Participant” means an entity which has been granted a certificate of registration by Securities and Exchange Board of India under Chapter IV of SEBI (Depositories and Participants) Regulations 1996.
+“Receiving Offices” means Scheduled Commercial Banks (excluding RRBs), SCHIL, designated Post Offices (as notified by GOI) and recognized stock exchanges viz., National Stock Exchange of India Limited and Bombay Stock Exchange Limited.
+“Depository” means a company formed and registered under the Companies Act, 1956 (1 of 1956) and which has been granted a certificate of registration under sub-section (1A) of section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992)
+IV. Procedural Guidelines for servicing the bonds:
+(For guidance regarding receipt of applications and other salient features of the bonds,
+please refer to the notifications and operational guidelines
+issued by Government of India/ RBI for various Sovereign Gold Bond Schemes)
+1. Nodal Branches/Offices
+The Receiving Offices and the other entities entrusted with the responsibility of servicing the bonds may identify a nodal office/branch for servicing the bonds. The applications received at the various branches or offices may be forwarded to the nodal branch/office for further processing after preliminary scrutiny. Processing of the requests may be made part of the Citizen’s Charter of the Receiving Offices and other entities and the time line applicable may be strictly adhered to. Details of the contact persons in these offices/branches may be given due publicity and effective customer grievance redressal mechanisms may be put in place.
+2. Allotment of Bonds and Generation of “Certificates of Holding”:
+On the date of allotment, the “Certificates of Holding” will be generated for all the successful subscriptions by RBI. These will be sent to the customers who have provided their e-mail IDs, through auto generated e-mails. The Receiving Offices can also download the certificates from RBI’s E-Kuber portal and provide the same to their customers. The Certificate of Holding may be printed in colour on A4 size 100 GSM paper in the prescribed Form C. The Certificate of Holding merely evidences the investments made by the holder in Sovereign Gold Bonds but does not by itself purport to convey any title.
+3. Conversion of stock certificates to dematerialized form and vice versa
+3.1 De-materialisation:
+The applicant can make a specific request either at the time of subscribing to the bond or at a subsequent occasion for conversion of the bond to dematerialized form. The process of conversion will be subject to the correctness of details supplied by the applicant, such as name, DP ID, Client ID and acceptance of the record by the Depositories. Care may be taken by Receiving Offices to ensure that the name of the investor entered by them in RBI’s portal corresponds to that in the Depositories’ records. Confirmation may be taken from the customer in this regard before uploading the details. Till the process of dematerialization is completed, the bonds will be held in RBI’s books as Stock Certificates.
+If the holder desires to convert the Stock Certificate into de-materialised form subsequent to allotment, the Receiving Office may accept the request along with details viz., name of the Depository, DP ID, Client ID, PAN number of the first holder etc. The Receiving Office shall enter the details in the E-Kuber portal. (
+For guidance please refer to the User Manual available on the RBI website
+). Such requests will be processed by PDO, RBI, Mumbai on a consolidated basis every Friday and the details will be sent to the Depository as the case may be, for validation. Once the details are validated by the Depository, the bonds will be transferred by PDO Mumbai to Depository for credit to the demat accounts of the beneficiaries. Cases of rejection or acceptance as communicated by the Depository will be communicated to the Receiving Offices by Mumbai PDO, RBI. In cases of rejection, the Receiving Offices are free to resubmit the request after making the necessary corrections.
+3.2 Re-materialisation:
+The customer may approach the Depositary Participant, with a request for re-materialisation of the bonds with details of his holding. They may also specify the Receiving Office and bank account details (name of bank, branch, account number, IFSC and type of account) through which the bonds will be serviced pursuant to re-materialisation. The de-materialisation request may be prepared by the Depository Participant based on the application and may be forwarded to the Depository. The request may be submitted by depository through E-Kuber Portal (
+for guidance please refer to the User Manual available at our website
+). No trading will be permitted for the securities sent for re-materialisation. After conversion, the bonds will be held in RBI’s books. Further servicing of the rematerialized bonds shall be done by the Receiving Office specified by the investor.
+4. Transfer of Bonds
+The Bonds issued in the form of Stock Certificate shall be transferable before maturity either wholly or in part by execution of an instrument of transfer in Form ‘III’, in accordance with the provisions of the Government Securities Act, 2006 and the Government Securities Regulations, 2007. Beneficial ownership of dematerialised bonds can be transferred through trading in exchanges and off market transactions as per the extant practise.
+4.1 Transfer of bonds by gift, sale etc:
+Investors holding bonds in stock certificate form may approach Receiving Offices for effecting transfer of bonds from one eligible holder to another, through sale or by way of gifts. The Receiving Offices may obtain the Transfer Form (Form III) (See
+Annex II
+) duly filled in and witnessed. The Transfer Form may be accompanied by a copy of the Certificate of Holding. The Receiving Office shall cross check the correctness of details given, with the data available on the E-Kuber portal/ their records. The KYC details of both the transferor and transferee may be verified by the Receiving Offices. The transfer request may then be processed through the E-Kuber Portal (for guidance please refer to the User Manual). It may be noted that in terms of sub-section (4) of section 9 of the GS Act, the existing nomination, if any, shall stand cancelled on transfer. If the transferee wants to add a nominee, the Receiving Offices may do the needful as per procedure prescribed at paragraph 5 of these guidelines. A revised Certificate of Holding may be generated from the E-Kuber Portal and issued to the transferee. The transfer of accounts will not disrupt interest payment schedule and the transferee/ holder will continue to earn interest on the relevant due dates.
+4.2 Partial transfer of bonds held in stock certificate form:
+In case of part transfer, the original Certificate of Holding shall stand cancelled and new Certificates of Holding may be created and issued to the transferor and transferee reflecting the changed holding.
+4.3 Recognition of title to SGB of deceased sole holder or joint holders and right of survivors of joint holders or several payees:
+Recognition of title to a bond of deceased sole holder or joint holders and right of survivors of joint holders or several payees, shall be subject to the provisions of Sections 7 and 8 of the Government Securities Act 2006 read with Regulation 6 of the Government Securities Regulations 2007. It may be noted that
+Once a claim is received by the Receiving Office/Depository, as the case may be, it may recognize the claim in terms of Section 7 of the GS Act 2006 and Regulation 6 of the Government Securities Regulation 2007, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, subject to its satisfaction that there is no rival claim in respect of such bond and on production of all documents required to substantiate the claim. For that purpose it may call for any other document or declaration, as it may consider necessary. It may also require the claimant to furnish a bond of indemnity for such amount as it may think fit, if found necessary.
+In the event of doubt, the case may be referred to PDO, Mumbai by the Receiving Offices/Depository
+Transfer of the bonds held in stock certificate form to the claimant may be effected through the e-Kuber portal. (
+for guidance please refer to the user manual available at our website
+)
+5. Nomination
+1
+Nomination and its cancellation shall be governed by Section 9 of the Government Securities Act, 2006 (38 of 2006) read with Chapter III of the Government Securities Regulations, 2007. The nominations can be indicated by the customer at the time of subscribing to the bonds (in the prescribed Form VI) or at a later date. It is permissible to designate more than one person as nominees (maximum two) to a bond. Nomination facility is not available in case the investment is on behalf of minor.
+5.1 Cancellation of Nomination:
+If the holder of a Sovereign Gold Bond applies for cancellation of an existing nomination in the prescribed Form ‘VII’ it may be examined to see that-
+correct particulars of the Sovereign Gold Bond have been stated in the form; and
+the name/s of the nominee/s has/have been correctly mentioned in the form
+5.2 Additions to existing nomination:
+The holder can nominate another person, in addition to the existing one. On submission of a fresh nomination in Form III, it may be examined and dealt with in the same way as the original nomination.
+In case of bonds held as stock certificates, the Receiving office shall input such requests (cancellation/addition) into the E-Kuber system subject to its satisfaction that the details provided are correct and in order, using the facility provided in the E Kuber portal. (For guidance the User Manual may be referred to). Acknowledgement may also be issued.in the prescribed form.
+5.3 Claims of nominee/s:
+On the death of the holder, nominee's/nominees' claim may be recognized in terms of the provisions of Section 9 of the Government Securities Act 2006 read with Chapter III of the Government Securities Regulations 2007
+Once a claim is received by the Receiving Office/Depository, as the case may be, it may recognize the claim in terms of Section 9 of the GS Act 2006 and Chapter III of the Government Securities Regulation 2007, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, subject to its satisfaction that there is no rival claim in respect of such bond and on production of all documents required to substantiate the claim.
+For that purpose it may call for any other document or declaration, as it may consider necessary. It may also require the claimant to furnish a bond of indemnity for such amount as it may think fit, if found necessary. If the claim is found to be in order, the name/s of the nominee/s will be substituted as the bond holder/s in place of the deceased holder - and a fresh Certificate of Holding will be issued under proper authentication.
+In the event of doubt the case may be referred to PDO, Mumbai by the Receiving Offices/Depository.
+6. Loan against the bonds and creation of pledge, hypothecation or lien.
+The creation of pledge, hypothecation or lien on the bonds shall be governed by Section 28 of the Government Securities Act, 2006 and Chapter VII of the Government Securities Regulations, 2007. The bonds may be used as collateral security for any loan.
+(i) The Loan to Value ratio as applicable to any ordinary gold loan mandated by the Reserve Bank of India shall also apply to the bonds.
+(ii) The pledge/hypothecation/lien on the bond held in stock certificate form shall be recorded and revoked by the banks providing the loan, in accordance with the provisions of section 28 of GS Act and Chapter VII of GS Regulations, using the facility provided in the E-kuber portal (
+for guidance please see the User Manual available at our website
+).
+(iii) In the eventuality of the bank invoking the pledge/hypothecation/lien, the request for transfer of the bonds to the banks may be submitted to PDO, Mumbai through
+e-mail
+in accordance with the provisions of Chapter VII, Regulation 21 of the Government Securities Regulation 2007, with additional supporting documents including court order, if any.
+In case of dematerialized bonds, the lien may be marked in the depositories in line with the practice followed for other stocks and shares which are accepted as collateral by the banks. The data of lien marked bonds may be uploaded to RBI, by the depositories using the facility in E-Kuber.
+7. Payment of Interest
+The interest on the bonds, as applicable, shall be paid on a half yearly basis. The amount will be credited by RBI to the bank account of the holder of bonds in stock form (as available in RBI’s records), through electronic means, on the date on which the interest is payable. Where the bonds are held in dematerialized form, the interest amount will be disbursed through depositories, who will arrange to credit the amount to the bank accounts of the holders (as available in their records) through electronic means.
+8. Repayment of Bonds
+The Bond shall be repayable on the expiration of eight years from the date of issue of the bond. No claim needs to be submitted to RBI for the purpose by the investors. Premature redemption of the bonds may be permitted after fifth year from the date of issue of such bond, on the date on which interest is payable. The request for pre-mature redemption (no specific form required) shall be submitted to the Receiving Office or Depository through DP (in case of dematerialized securities) at least 10 days before the next interest payment date. If the Receiving Office/Depository Participant/Depository so desires it can call for additional documents, KYC proof, declaration etc. The request shall be scrutinized to verify the correctness of the particulars and may be submitted to RBI through the E-Kuber Portal at least four days before the due date of interest. Shut period of four days shall be applicable to bonds which are submitted for pre-mature redemption. On maturity and in case of premature redemption, the Bonds shall be redeemed in Indian Rupees and the redemption price shall be based on simple average of closing price of gold of 999 purity of previous week (Monday to Friday) published by the India Bullion and Jewellers Association Limited. The redemption proceeds shall be credited to the bank account of the customer.
+9. Payment of brokerage
+Receiving offices may by their own, appoint agents for increasing subscription of Sovereign Gold Bonds. Commission for distribution to such agents shall be paid at the rate of rupee one per hundred of the total subscription received by the receiving offices on the applications received and receiving offices shall share at least 50% of the commission so received with the agents or sub-agents for the business procured through them.
+10. Change of address, correction of name, change of account number and other miscellaneous requests in case of bonds held in the form of stock certificates.
+The requests of the customer (in plain paper) in case of bonds held in the form of stock certificates, supported by the Certificate of Holding, may be processed by the Receiving Offices through the E-Kuber portal after verification of the particulars and subject to their satisfaction. The Receiving Offices may call for additional documents if deemed necessary. The requests may be entered by Receiving Offices in the RBI portal for giving effect to the changes.
+11. Preservation of Records
+The application forms and other requests may be preserved by the Receiving Offices/ Depository Participants till the maturity of the bond. Premature redemption request may be preserved for three years from the date of payment of proceeds.
+12.
+These procedural guidelines are issued by RBI in exercise of the powers conferred by sub-section (2) of Section 29 of the Government Securities Act, 2006 and of all the powers enabling it in this behalf, and any non-compliance shall invite penal provisions under Section 30 of the Act.
+1
+The provisions are applicable to holders of both dematerialized bonds and bonds held in stock certificate form

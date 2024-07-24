@@ -1,0 +1,289 @@
+(327 kb)
+7.75% Savings (Taxable) Bonds, 2018 - Operational Guidelines
+RBI/2018-19/95
+IDMD.CDD.No.1637/13.01.299/2018-19
+December 24, 2018
+The Chairman & Managing Director
+State Bank of India & 18 Nationalised Banks
+Axis Bank Ltd., ICICI Bank Ltd., HDFC Bank Ltd.,
+Stock Holding Corporation of India Ltd. (SHCIL)
+Dear Sir/Madam,
+7.75% Savings (Taxable) Bonds, 2018 - Operational Guidelines
+This has reference to the
+GoI Notifications F.No.4(28) - W&M/2017 dated January 03, 2018
+and
+RBI circular IDMD.CDD.No.1671/13.01.299/2017-18 dated January 03, 2018
+read with
+Notification F.No.4(28) - W&M/2017 dated January 08, 2018
+and
+RBI circular IDMD.CDD.No.1728/13.01.299/2017-18 dated January 08, 2018
+, on 7.75% Savings (Taxable) Bonds, 2018 (Appendix 1). The Operational Guidelines with regard to this scheme are given in the
+Annexure
+.
+2. These Guidelines are issued by RBI in exercise of the powers conferred by sub-section (2) of the Section 29 of the Government Securities Act, 2006 and of all the powers enabling it in this behalf.
+Yours faithfully,
+(A. Mangalagiri)
+Chief General Manager
+Encls: Annexure & Appendix forms
+Annexure
+7.75% Savings (Taxable) Bonds, 2018 - Operational Guidelines
+Procedure to be followed by Receiving Offices (RO) for handling 7.75% Savings (Taxable) Bonds, 2018:
+It may be noted that as per Para 10 (a) of the
+GoI Notification dated January 03, 2018
+, the Scheme shall be operated through any number of branches of State Bank of India, Nationalized Banks, three Private Sector Banks and SHCIL (hereinafter referred to as “Receiving Offices.”) Receiving Offices, are required to make arrangements to implement the Scheme through their branches, sensitize their staff about the Scheme and make application forms (Revised Form A for both “Cumulative” and “Non cumulative” options separately) available at their branches. Receiving Offices shall use
+Security code “20081”
+for reporting transactions under 7.75% Savings (Taxable) Bonds, 2018 to the CAS, RBI, Nagpur. The procedure to be followed by these offices for operation of the Scheme is outlined below:
+A. Procedure to be followed at Receiving Offices in respect of Bond Ledger Accounts
+Receipt of Applications for Bond Ledger Account
+1. The role of the Receiving Offices extends to:
+Issue of bonds by opening an account styled "Bond Ledger Account" in their books against applications received;
+Servicing the account during its tenure; and
+Effecting repayment on maturity.
+The application formats for cumulative and non-cumulative bonds may be printed in
+different colours for easy identification
+. The application forms shall be in bilingual form viz. Hindi and English.
+1.1 The application forms shall be received in Revised Form 'A' (Annexure 2 to the
+Government of India Notification dated January 08, 2018
+) or as near thereto with requisite particulars. The application money may be received as cash/ draft/ cheque or any electronic mode acceptable to the Receiving Office.
+1.2 The application shall be subjected to careful scrutiny to ensure that it is complete in all respects. A counter receipt in the form given in
+Appendix II
+may be issued to the applicants, specifying therein the date of issue of 'Certificate of Holding'.
+1.3 The Receiving Offices shall open an account styled 'Bond Ledger Account' in the name of each subscriber with the amount of subscription. Each account may be allotted a six digit code with an alpha prefix denoting the bank and its branch code (e.g. SBIPNBLA 000001 - State Bank of India, Pune Bond Ledger Account 000001).
+Note: (i) The Bond Ledger Account shall be opened in the name of the investor/s on the date of tender of cash or the date of realisation of draft /cheque or date of receipt of payment in electronic mode. This date of realisation of payment shall be called as ‘Date of Subscription’.
+ii. Only one 'Bond Ledger Account' shall be opened in the name of each investor. No new account or multiple accounts shall be opened or maintained in the name of the same holder at the branch and investments subsequently made by him, shall be accounted for in the same Bond Ledger Account.
+(iii) The tenure of 7 years shall be reckoned from the date of subscription in the case of each investment.
+(iv) An advice in the form given in
+Appendix IIA
+may be issued to the investor as and when additional investments are made by him in the bonds for credit to the Bond Ledger Account.
+1.4 The branches may also maintain a "Register of Bond Ledger Accounts - All holders" as per proforma given in
+Appendix III
+(Form A or B as applicable).
+1.5 Immediately after opening the Bond Ledger Account, the branches shall issue a "Certificate of Holding" to the subscriber/s evidencing the Bond Ledger Account in his/their name, in the form given in Annexure 1 to the
+Government of India Notification dated 3 January 2018
+, Form 'TBX' is to be used for non-cumulative option and Form 'TBY' for cumulative option.
+Remittance to Central Accounts Section (CAS), RBI, Nagpur
+1.6 Branches of the Receiving Offices shall remit the amount of subscription received to their Link Cell at Nagpur on daily basis for credit to the Government Account at Central Account Section (CAS), Nagpur. The advice shall indicate the distinctive number of relative Bond Ledger Accounts and due date to which the remittance to CAS, Nagpur relates.
+Note
+: (i) As per the existing procedure, remittance of subscription for credit to Government Account beyond 3 days from the date of receipt of cash / electronic means or the date of realisation of relative draft/ cheque/ electronic means, shall attract penal interest at the coupon rate from the date of receipt of subscription till the date of actual reporting to CAS. The penal interest shall be recovered by CAS from ROs.
+Reporting to Public Debt Office (PDO) of Jurisdiction
+1.7 The Link Cells of Receiving Offices at Nagpur/the Main branch of SBI at Nagpur shall sort the branch wise data of the
+Appendix IV
+statement in respect of all branches on a monthly basis and submit data in soft and hard copy to the Public Debt Office (PDO) of jurisdiction with a declaration to the effect that
+Appendix IV
+data tallies with the CAS data on a monthly basis besides submission of the above statement to CAS, Nagpur for the purpose of claiming brokerage/handling commission.
+In case of non-submission of requisite data within the 15th day of the following month by the Link Cells/ SBI Main branch at Nagpur to PDOs, a penalty of ₹ 500/- per day shall be levied and recovered from ROs by PDOs for each day of delay beyond the above date.
+Nomination
+1.8 The Receiving Offices shall register the nominations made by the subscribers in the prescribed form (Annexure 4 to the
+Government of India Notification dated January 03, 2018
+). For this purpose, a "Register of Nominations" (as per proforma given in
+Appendix V
+) shall be maintained. The nomination forms shall be examined by the branches to ensure that:
+the nomination has been made by a sole holder or all joint holders other than a minor;
+the particulars of the Bond Ledger Account have been correctly mentioned therein (The branch may enter BLA particulars when the application is made for the first time);
+the name/s with expanded initials and full address/es of the nominee/s (with bank account particulars) have been incorporated in the form;
+the date of birth of the nominee, if he is a minor, and the name and address of the person appointed to receive the amount on his behalf during the minority in the event of the death of the holder, have been furnished;
+If the signature has been made by means of a thumb impression, it should be attested by a Magistrate/ Notary public/ Treasury Officer / bank official.
+1.9 Each nomination shall be allotted a distinct number. A rubber stamp bearing the undernoted legend shall be affixed on the form of nomination, under proper authentication:
+Bank Branch ………………………………………………….
+Registered at No. …………………………………………….
+@ on ………………………………………………………………….
+@ (The date will be the date as indicated on the nomination form by the holder)
+An acknowledgement in form given in
+Appendix VI
+shall be issued to the holder.
+The nomination forms may be kept under proper custody.
+Cancellation of Nomination
+1.10 If the holder of a Bond Ledger Account applies for cancellation of an existing nomination in the prescribed form (Annexure 5 to the
+Government Notification dated January 03, 2018
+), it shall be examined to see that:
+correct particulars of the Bond Ledger Account have been stated in the form; and
+the name/s of the nominee/s has/have been correctly mentioned in the form.
+If the form is in order, the cancellation shall be entered in the appropriate column in the Register of Nomination (
+Appendix V
+) and a rubber stamp as under is affixed on (a) the original form of nomination and (b) the form of cancellation of nomination:
+Name of the bank branch ……………………………………….
+Nomination cancelled as per form of cancellation of Nomination dated ….…………
+An acknowledgement as per the form given in
+Appendix VII
+shall be thereafter issued to the holder.
+Note
+: All forms of cancellation of nomination shall be filed together with the original Nomination form.
+Changes to existing nomination
+1.11 The holder can change the existing nomination, on submission of a fresh nomination in form given in Annexure 4 to
+Government Notification dated 3 January 2018
+. It may be examined and dealt with in the same way as the original nomination. Appropriate entry shall be made in the Register of Nomination (
+Appendix V
+) and rubber stamp as provided for in
+paragraph 1.9
+above shall be affixed on the fresh nomination form under proper authentication. A fresh acknowledgement in the prescribed form (
+Appendix VI
+) shall be issued.
+Claims of nominee/s
+1.12 On the death of the holder, nominee’s/nominees’ claim may be recognized in terms of the provisions of Section 9 of the Government Securities Act 2006 read with Chapter III of the Government Securities Regulations 2007.
+Once a claim is received by the Receiving Office it may recognize the claim in terms of Section 9 of the Government Securities Act 2006 and Chapter III of the Government Securities Regulation 2007, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, subject to its satisfaction that there is no rival claim in respect of such Bond Ledger Account and on production of all documents required to substantiate the claim.
+For that purpose it may call for any other document or declaration, as it may consider necessary. It may also require the claimant to furnish a bond of indemnity for such amount as it may think fit, if found necessary.
+(a) If the bond held in Bond Ledger Account has already matured, repayment would be made to the nominee/s after obtaining proper discharge from him/them. The discharge of the nominee/s should be attested by the Magistrate/ their bankers.
+(b) In case the bond held in the form of Bond Ledger Account has not matured for repayment, the name/s of the nominee/s shall be substituted as the Account holder/s and a fresh Certificate of Holding shall be issued under proper authentication.
+Note : Fresh Bond Ledger Account
+should not be opened
+in such cases.
+Payment of interest
+1.13 The Bond Ledger Accounts shall be serviced by the branches of the ROs maintaining them. The interest on the bonds shall accrue from the date of subscription. Accordingly, in respect of non-cumulative Bond Ledger Accounts, interest at the rate of 7.75% shall be paid uniformly at half-yearly intervals on 1st August and 1st February every year. Broken period interest from date of issues of bond up to 31th July or 31st January, as the case may be, shall be paid. The payment of interest may be made by credit to the bank account of the holder.
+Claim for reimbursement from CAS, RBI, Nagpur:
+1.14 The branches of Receiving Offices making interest payment shall claim reimbursement from the CAS, RBI, Nagpur through their Link Cell, giving account-wise details of payments made. (Bond Ledger Account Number, amount of investment on which interest has been paid and the interest amount). A scroll shall be prepared in this regard by the branches of Receiving Offices handling the Scheme (as per
+Appendix XI
+&
+XII
+) and furnished to link offices. The scrolls shall be prepared by each bank branch in quadruplicate. The
+fourth copy
+of these scrolls shall be retained by each branch with itself and first three copies shall be forwarded to its concerned link office.
+Note
+:
+The link office shall consolidate the scrolls received from the different branches and prepare a consolidated scroll branch-wise in triplicate. Soft copy of the consolidated claim for reimbursement of interest shall be forwarded by the Link office to the CAS, RBI, Nagpur in ASCII file format along with physical mandate for adjustment in the Government accounts. The claims should be duly supported by a certificate from the Internal / Concurrent Auditors to the effect that the interest payment figures have been checked 100% and that the amount has already been paid to the investors. The first physical copy of the consolidated scroll, together with a copy each of the scrolls received from the branches, shall be forwarded by the link office to the Controller of Accounts, Department of Economic Affairs, Ministry of Finance, Government of India, New Delhi. The second physical copy of the consolidated scroll, together with a copy each of the scrolls received from the branches, shall be forwarded by the link office to the Public Debt Office of jurisdiction. The third copy with the triplicate copies of the branch scrolls shall be retained by the link office for its record.
+Recognition of title to the bonds of a deceased holder.
+1.15 In terms of the Government Securities Act, 2006, and the Regulations framed thereunder (Government Securities Regulations, 2007), it is prescribed as follows:
+The ROs may recognise a claim to the title of the bond held by a deceased holder on the basis of any of such documents, subject to its satisfaction with respect to the legality, genuineness, and finality thereof, and of the fact that there is no rival claim in respect of such Government security. For this purpose they may depend on the documents prescribed under Regulations 6(1) & (2) of Government Securities Regulations, 2007 where the value of the outstanding claim exceeds ₹ 10 Lakhs and where the value is less than ₹ 10 Lakhs, the documents prescribed under Regulation 2A
+ibid
+may be called for.
+Note : The above provision is applicable where
+no valid nomination exists
+. Claims involving legal representation may be disposed of by the Receiving Offices in accordance with the above provisions. In the event of doubt, the case may be referred to PDO of RBI of jurisdiction with full details.
+Repayment of Bonds
+1.16 Issue of Advices to Investors: The attention of the holders shall be drawn to the ensuing maturity of their bonds one month before the date on which investment in the BLA is due for repayment. It should be ensured that the advices are sent only in respect of BLAs which are free from stoppage. The investors may also be advised to confirm the bank account details to which the redemption proceeds will be credited.
+Post Maturity Interest
+1.17. The bonds shall be repayable on expiry of seven years from the date of subscription. No interest would accrue after the maturity of the bond. The banks therefore shall intimate the investors that the
+investment does not carry post maturity interest
+prominently in the advice mentioned in
+Paragraph 1.16
+.
+The banks may not insist upon duly discharged Certificate of Holding at the time of redemption. The payment of maturity proceeds to the holder of BLA shall be made by credit to the account of the holder.
+Payment to investors:
+1.18 It should be ensured that actual payment of discharge value is made only on the
+due date
+, by electronic mode by crediting the investors account.
+In the event of holiday being declared by the State Government under Negotiable Instrument Act, 1881, on the maturity date or maturity date being Sunday, the maturity proceeds may be paid on the previous working day.
+The repayment shall be made only by the branch of the Receiving Offices concerned, maintaining the BLA. Details of closure of the investment(s) i.e. date(s) and amount(s) etc. shall be maintained by the Receiving Office.
+If multiple investments are made against the same BLA, the redemption of individual investment shall be reflected therein and a fresh Certificate of Holding duly indicating the BLA number, date of maturity and amounts in respect of individual investments shall be generated and given to the investor. It should be ensured that the outstanding balance appearing in the BLA and the statement of holding are the same.
+Interest payment:
+In respect of investments held under non-cumulative scheme, the interest for the broken period/last half year shall be paid along with the principal. In respect of investments held under cumulative scheme, interest on bond shall be paid along with the principal. The advices to the investors shall invariably contain the legend “interest will not accrue on the investment after ---/---/---- (date of maturity).
+Note: The maturity proceeds of joint holders of BLA shall be released in favour of one of the joint holders in whose favour, all other remaining holders have executed a Power of Attorney as per the prescribed format of the joint holders Power of Attorney (
+Appendix XIII
+).
+Premature encashment:
+1.19 Premature encashment of bonds to individual investors in the age group of sixty years and above after a minimum lock in period from the date of issue is permitted. An investor, desiring to avail of the facility of premature encashment, will have to submit documentary evidence in support of his/her date of birth to satisfaction of the Receiving Offices. In case of non-cumulative bonds, the premature encashment payment shall be made on the following interest payment due date i.e 1st August and 1st February (the payment can be made on any date, and not necessarily 1st August and 1st February).
+Penalty for premature encashment:
+50% of interest due and payable for the last six months period of the holding period shall be recovered as penalty from the investor for premature encashment both in respect of cumulative and non- cumulative bonds.
+Investors can be allowed to withdraw entire amount of investment made on any single application. However, if a holder is having multiple investments in the same BLA, he/she can make one or more request(s) for premature encashment of entire amount(s) of one or more investment(s), which has/have completed minimum lock-in period as per the Government of India Notification dated 03 January, 2018 from the date of issue.
+Partial encashment of amount invested on a single application
+is not
+permitted.
+The investor needs to submit a request letter for the full amount to be prematurely encashed.
+Accounting:
+1.20 The principal and the interest shall be separately accounted for and the scrolls drawn separately and kept on records for audit/verification.
+Reporting to Government of India:
+1.21 The Receiving Offices shall submit a statement showing the payments and outstanding in respect of the BLAs under the scheme on monthly basis to the Controller of Accounts, Department of Economic Affairs, Ministry of Finance, Government of India, New Delhi through their Link Office. The repayment scrolls pertaining to the Principal and the interest shall be drawn separately as per
+Appendix XI
+&
+XII
+for this purpose.
+Reporting to PDO of Jurisdiction:
+1.22. The monthly report sent to PDO of Jurisdiction shall invariably contain the details of repayments in part D of
+Appendix IV
+. The repayment scrolls pertaining to the principal and the interest drawn separately as per
+Appendix XII
+&
+XI
+for the month shall also be submitted alongside. A copy of outstanding list of BLAs shall also be sent to PDO.
+Payment of Brokerage
+1.23 Brokerage at the rate of 0.5% of the amount mobilized may be paid to the brokers, registered with the Receiving Offices, on the applications tendered by them and bearing their stamps, on behalf of their clients. The Receiving Offices may effect the payment of brokerage to the brokers after examining the bills submitted to them and prefer their claims through link office for reimbursement thereof from CAS, Nagpur on a monthly basis.
+Claim for reimbursement of repayment from Central Accounts Section, RBI, Nagpur
+1.24 The Receiving Offices shall prefer claims for reimbursement only in respect of the repayments effected by them. Such claims shall be sent to the Central Accounts Section, Reserve Bank of India, Nagpur, electronically (ASCII format) through the respective Link Cells/main branch of SBI, Nagpur together with physical mandate separately for principal and interest. The claims shall be duly supported by a certificate from the Internal/Concurrent Auditors to the effect that the repayment figures have been checked 100% and that the amount has already been paid to the investors.
+Loss of Certificate of Holding
+1.25 If a Certificate of Holding issued to the Bond Ledger Account holder/s is reported lost/ destroyed, a duplicate thereof shall be issued to the holder/s on receipt of a request in this regard. However, no fees shall be charged to the holder/s for the same.
+Settlement of claims of Remuneration (Brokerage/commission/ Turnover commission) of Receiving Offices
+1.26 Receiving Offices shall be reimbursed charges for handling the BLAs as follows:
+A. Remuneration/ reimbursement to be claimed on
+monthly basis
+from
+CAS, Nagpur
+(
+Appendix VIII
+)
+Brokerage at 0.50 paise per ₹ 100 of subscription amount mobilised on behalf of clients/paid to the brokers registered with the ROs, as mentioned at
+para 1.23
+above.
+Commission for handling the subscription payable at 1/16th of one per cent of the subscription amount mobilised.
+The Receiving Office shall collate and forward the consolidated bill of charges on a monthly basis as per the proforma in
+Appendix VIII
+to the CAS, Nagpur. The CAS, Nagpur may verify the particulars from the
+Appendix VIII
+received from the Receiving Offices before paying brokerage and commission every month.
+B. Remuneration to be claimed on a
+quarterly basis
+from
+CAS, Nagpur
+(
+Appendix IX
+)
+Turnover commission at 5.50 paise per ₹ 100 on interest paid, principal amount repaid in respect of the accounts held under BLA Scheme.
+The Link Offices shall submit the statement of charges as at the end of each quarter ending 31st March/30th June/30th September/31st December in the Proforma in
+Appendix IX
+to CAS, Nagpur.
+C. Remuneration/ reimbursement to be claimed
+annually
+from the
+PDO
+of jurisdiction (
+Appendix X
+)
+(i) Service Charge at ₹ 25 per every new BLA opened and ₹ 20 for every account existing.
+The Receiving Office shall collate and submit the consolidated bill of charges in this regard as per proforma in
+Appendix X
+to the PDO of Jurisdiction. PDO shall verify the particulars from the
+Appendix X
+received from the Receiving Offices before paying the service charges.
+Transfer of Accounts
+1.27 Transfer of BLAs for the purpose of sale or part transfer is not allowed. However, the facility of intra-bank and inter-bank branch transfer of the BLAs will be available for customers under exceptional circumstances which makes servicing by existing Receiving Office impossible. The procedure to be followed by the branches of the Receiving Offices in this regard will be as follows:
+(a) Action at transferor branch of the Receiving Office:
+A simple letter from the holder requesting the transfer of BLA along with the Certificate of Holding shall be obtained. The branch of the Receiving Office shall examine the request and if it is in order, the branch shall close the account and issue a letter to the transferee branch of the Receiving Office
+directly
+(with a copy to the transferor) indicating the particulars of the account transferred and enclosing a copy of the Certificate of Holding. The letter should indicate, among others, the tenure that has been completed and due date and period upto which the interest has been paid to the holder as also interest payable, if any, in case of non-cumulative option.
+Note: The Certificate of Holding shall be cancelled with the remarks “Account transferred to ………………..Receiving Office/branch on ……………vide transfer order dated ……………. The cancelled Certificate of Holdings shall be filed separately.
+(b) Action at the transferee branch of the Receiving Office:
+The transferee branch of the Receiving Office shall ensure that the request is in the bank’s letterhead and bears the stamp and has been received directly from the transferor Receiving Office. On receipt of the letter from branch of the transferor Receiving Office, branch of the transferee Receiving Office shall open a Bond Ledger Account in the name of the transferee. It shall also issue a Certificate of Holding to the transferee (buyer) evidencing the Bond Ledger Account opened by it in his name in the form given in Annexure 1 (Form ‘TBX’ or Form ‘TBY’ as applicable) to the Government Notification dated January 03, 2018
+for the residual period of maturity
+.
+Both transferor and transferee branch shall report the transfers under
+Appendix IV
+to the respective PDOs.
+Compensation Structure for delay in payment of interest and/or Principal
+1.28 The Receiving Office shall compensate an investor, for the financial loss due to late receipt/ delayed credit of interest/ maturity value, at a fixed rate of 8% per annum.
+Preservation of Records
+1.29 The period for which the records in respect of the Bond Ledger Accounts shall be preserved is detailed below:
+Sr.No.
+Description of Records
+Period of preservation
+1.
+Applications for Bond Ledger Accounts
+10 years
+2.
+Surrendered Counter Receipts
+3 months after the the delivery of Certificate of Holding
+3.
+Registers of Bond Ledger Accounts
+Permanent
+4.
+Register of Nominations, Advices regarding acknowledgement of registration of nomination/ cancellation of nomination etc.
+3 years from the date of repayment of the Bonds covered by the form
+5.
+Forms of nomination/ cancellation
+-do-
+6.
+Documents submitted in case of recognition of title etc.
+10 years
+7.
+Scrolls submitted to PDO of jurisdiction/ Controller of Accounts, Ministry of Finance, New Delhi
+3 years
+8.
+Statements submitted to PDO of jurisdiction
+5 years or repayment whichever is earlier

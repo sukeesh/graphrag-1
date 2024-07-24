@@ -1,0 +1,40 @@
+(196 kb)
+Control measures for ATMs – Timeline for compliance
+RBI/2017-18/206
+DBS(CO).CSITE/BC.5/31.01.015/2017-18
+June 21, 2018
+To
+The Chairman / Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks (excluding Regional Rural Banks)
+All Small Finance Banks and Payment Banks
+White-Label ATM Operators
+Madam/Dear Sir,
+Control measures for ATMs – Timeline for compliance
+Please refer to our confidential Circular DBS.CO/CSITE/BC.8074/31.01.015/2016-17 dated April 17, 2017 (issued to banks) highlighting concerns about the ATMs running on Windows XP and/or other unsupported operating systems. A reference is also invited to our confidential Advisory No. 3/2017 dated March 06, 2017 and No. 13/2017 dated November 1, 2017 wherein the banks were advised to put in place, with immediate effect, suitable controls enumerated in the illustrative list of controls.
+2. The slow progress on the part of the banks in addressing these issues has been viewed seriously by the RBI. As you may appreciate, the vulnerability arising from the banks’ ATMs operating on unsupported version of operating system and non-implementation of other security measures, could potentially affect the interests of the banks’ customers adversely, apart from such occurrences, if any, impinging on the image of the bank.
+3. In order to address these issues in a time-bound manner, banks and White-Label ATM Operators are advised to initiate immediate action in this regard and implement the following control measures as per the prescribed timelines indicated there against:
+Sr. No.
+Control Measures for the ATMs
+To be completed by
+a.
+Implement security measures such as BIOS password, disabling USB ports, disabling auto-run facility, applying the latest patches of operating system and other softwares, terminal security solution, time-based admin access, etc.
+August 2018
+b.
+Implement anti-skimming and whitelisting solution.
+March 2019
+c.
+Upgrade all the ATMs with supported versions of operating system. Such upgrades shall be carried out in a phased manner to ensure that in respect of the existing ATMs running on unsupported versions of operating system,
+i. Not less than 25% of them shall be upgraded by
+September 2018
+ii. Not less than 50% of them shall be upgraded by
+December 2018
+iii. Not less than 75% of them shall be upgraded by
+March 2019
+iv. All of them shall be upgraded by
+June 2019
+4. A copy of this circular may be placed before the Board of Directors at its ensuing meeting, along with the proposed action plan for implementation of these measures. A copy of the Board-approved compliance/action plan in respect of aforesaid control measures may be sent to us latest by July 31, 2018. The progress made in implementation of these measure should be closely monitored to ensure meeting the prescribed timelines. As the implementation of the foregoing control measures would also require field visit(s) to the ATMs, banks should plan and implement these measures in an optimal manner.
+5. It may be noted that any deficiency in timely and effective compliance with the instructions contained in this Circular may invite appropriate supervisory enforcement action under applicable provisions of the Banking Regulation Act, 1949 and/or Payment and Settlement Systems Act, 2007.
+6. Please acknowledge receipt.
+Yours sincerely,
+(R. Ravikumar)
+Chief General Manager

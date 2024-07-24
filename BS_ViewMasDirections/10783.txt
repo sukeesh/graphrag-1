@@ -1,0 +1,63 @@
+(82 kb)
+Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS), 2016 - Operational Guidelines
+RBI/2016-17/188
+IDMD.CDD.No.1454/14.04.050/2016-17
+December 16, 2016
+(Updated as on April 20, 2017)
+The Chairman & Managing Director
+Authorised Banks
+Dear Sir/Madam,
+Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS), 2016 - Operational Guidelines
+This has reference to the
+Central Government notification S.O. 4061 (E)
+and
+RBI circular IDMD.CDD.No. 1453/14.04.050/2016-17 dated December 16, 2016
+on the Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS), 2016 (hereinafter referred to as scheme).
+FAQs
+in this regard have been placed on our website (
+www.rbi.org.in
+). Operational guidelines with regard to this scheme are given below:
+1. Application
+Application forms from declarants (any person who declared undisclosed income under sub-section (1) of section 199C of the Taxation and Investment Regime for Pradhan Mantri Garib Kalyan Yojana, 2016) for deposits under Pradhan Mantri Garib Kalyan Deposit Scheme (PMGKDS), 2016, will be received at the branches of Authorised Banks (any banking company, other than Co-operative Banks, to which the Banking Regulation Act, 1949 (10 of 1949) applies) during normal banking hours from 17 December 2016 to 31 March 2017.
+2. Know your customer requirements
+(a) An application for the deposit under this Scheme shall be made in
+Form II
+, clearly indicating the amount, full name, Permanent Account Number (hereinafter referred to as “PAN”), Bank Account details (for receiving redemption proceeds), and address of the declarant.
+(b) Provided that if the declarant does not hold a PAN, he shall apply for a PAN and provide the details of such PAN application along with acknowledgement number. Relevant additional details (e-mail ID etc) may be obtained from the applicants, where ever necessary. Authorized Banks need to ensure that the application is complete in all respects.
+(c) The application shall be accompanied by an amount which shall not be less than twenty-five per cent of the undisclosed income declared under Taxation and Investment Regime for Pradhan Mantri Garib Kalyan Yojana, 2016 tendered in the form of cash or draft or cheque or through electronic transfer.
+(d) An acknowledgement receipt (part of Form II) shall be provided to the declarant after due authorization by the bank.
+3. Furnishing Deposit details to Government of India
+(a) The Authorised Bank shall electronically furnish the details of deposit made in
+Form V
+, to the Department of Revenue, Ministry of Finance, Government of India not later than next working day to enable the Department to verify the information of the deposit before accepting the declaration. (
+Kindly refer to the instructions provided vide CBDT notification No.14 of 2016 dated 30.12.2016
+)
+(b) The Authorised Bank shall maintain the confidentiality of the data received in this regard.
+4. Mode of holding and nomination
+(a) On receipt of the details at RBI, Bonds Ledger Accounts shall be created and the deposits made under the scheme shall be held at the credit of the declarant by Reserve Bank of India.
+(b) A certificate of holding shall be issued to declarant in
+Form I
+.
+(c)
+Effective date of deposit
+1
+. – The effective date of opening of the Bonds Ledger Account shall be the date of receipt of deposits by the Reserve Bank of India from the authorized banks; wherein the due tax, surcharge and penalty has been received till 31st March, 2017. Also, the date of deposit shall in no case be extended beyond 30th April, 2017.
+(d) The holder can nominate one or more persons.
+5. Interest payment
+No interest shall be payable on the deposits.
+6. Processing through RBI’s e-kuber system
+The Authorised Bank shall upload the details of deposit into Reserve Bank of India’s Core Banking Solution ‘e-Kuber’ on the date of tendering cash or electronic payment or on the date of realisation of draft/ cheque itself. The amount of deposit shall be transferred to Reserve Bank of India on the same day.
+The e-Kuber system can be accessed either through Infinet or Internet. The authorized banks need to enter the data for the deposits received by them. They may ensure accuracy of data to prevent occurrence of any inadvertent errors. An immediate confirmation will be provided to the declarants for receipt of application. The Holding Certificates will be sent to the authorized banks through the e-Kuber which may be issued to the customers.
+7. Servicing and follow up
+Authorised banks will provide necessary services with regards to deposit made by the declarant e.g. updating bank account details, cancellation of nomination, etc. Authorized Banks will be required to preserve applications until repayment is made.
+8. Commission/agency bank charges for authorised banks
+No commission/agency bank charges will be paid to the banks for accepting deposits under the scheme or for servicing the declarants.
+9. Contact details
+Any queries/clarifications may be
+e-mailed
+.
+Yours faithfully,
+(Rajendra Kumar)
+General Manager
+1
+Amended on the basis of Government of India notification dated April 19, 2017

@@ -1,0 +1,293 @@
+(671 kb)
+Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 (
+Updated as on August 08, 2022
+)
+RBI/2018-19/222
+FMRD.DIRD.19/14.03.046/2018-19
+June 26, 2019
+(
+Updated as on August 08, 2022
+)
+(
+Updated as on February 10, 2022
+)
+To
+All participants in Rupee interest rate derivatives markets
+Dear Sir/Madam
+Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019
+Please refer to Paragraph 8 of the
+Statement on Developmental and Regulatory Policies, Reserve Bank of India, issued as part of the sixth Bi-monthly Monetary Policy Statement for 2018-19 dated February 07, 2019
+regarding rationalization of interest rate derivative directions.
+2. The
+draft directions
+was released for public comments on April 03, 2019. Based on the feedback received from the market participants, the Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 has been reviewed and has since been finalized. The directions is
+enclosed
+herewith.
+Yours faithfully,
+(
+Dimple Bhandia
+)
+Chief General Manager
+FINANCIAL MARKETS REGULATION DEPARTMENT
+Notification No.FMRD.DIRD.20/2019 dated June 26, 2019
+Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019
+(
+Updated as on August 08, 2022
+)
+(
+Updated as on February 10, 2022
+)
+The Reserve Bank of India (hereinafter called the Reserve Bank) having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934 (hereinafter called the Act) read with section 45U of the Act and of all the powers enabling it in this behalf, hereby issues the following directions to all entities including the non-residents, eligible to participate or transact in Rupee Interest Rate Derivatives in India.
+A reference is also invited to the Foreign Exchange Management (Permissible Capital Account Transactions) Regulations, 2000 (
+Notification No. FEMA 1 /2000-RB dated May 03, 2000
+) and Foreign Exchange Management (Debt Instruments) Regulations, 2019 (
+Notification No. FEMA 396/2019-RB dated October 17, 2019
+), as amended from time to time.
+1. Short title, scope and commencement of the directions -
+(1) These Directions may be called the Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 and shall supersede all other Directions indicated in
+Annex-I
+.
+(2) These Directions shall be applicable to Rupee interest rate derivatives transactions undertaken on recognized stock exchanges and Over-the-Counter (OTC) markets, including on electronic trading platforms (ETPs).
+(3) These Directions shall come into force with immediate effect.
+2. Definitions -
+Benchmark Interest Rates
+refer to interest rates administered by a Financial Benchmark Administrator.
+Electronic Trading Platform (ETP)
+shall have the meaning assigned in para 2(1) (iii) of the Electronic Trading Platforms (Reserve Bank) Directions, 2018 dated October 05, 2018 or as modified from time to time.
+European Interest Rate Options
+are interest rate option contracts that can be exercised only on the expiration date.
+Financial Benchmark Administrator
+(FBA) means a person who controls the creation, operation and administration of financial benchmark(s).
+Foreign Currency Settled OIS (FCS-OIS)
+means an OIS contract whose settlement currency is other than the Indian Rupee (INR).
+Forward Rate Agreement
+(FRA) is an interest rate derivative contract that involves exchange of interest payments on a notional principal amount, on a future date, at agreed rates, for a defined forward period.
+Hedging
+is the activity of undertaking a derivative transaction to reduce an identifiable and measurable risk. For the purpose of these directions, the relevant risk is exposure to Rupee interest rate risk in India. Hedging can be either at balance sheet level or at portfolio level or at individual asset or liability level.
+Interest Rate Derivative
+(IRD) is a financial derivative contract whose value is derived from one or more interest rates, prices of interest rate instruments, or interest rate indices.
+Interest Rate Futures
+(IRF) are standardized interest rate derivative contracts traded on a recognized stock exchange to buy or sell a notional security or any other interest-bearing instrument or an index of such instruments or interest rates at a specified future date, at a price determined at the time of the contract. Interest Rate Futures include Money Market Futures.
+Interest Rate Option
+(IRO) is an option contract whose value is based on Rupee interest rates or interest rate instruments.
+An
+Interest Rate Cap
+is a series of interest rate call options (called caplets) in which the buyer of the option receives a payment at the end of each period when the underlying interest rate is above a rate agreed in advance (strike rate).
+An
+Interest Rate Floor
+is a series of interest rate put options in which the buyer of the option receives a payment at the end of each period when the underlying interest rate is below the strike rate.
+An
+Interest Rate Collar
+is a derivative contract where a market participant simultaneously purchases an interest rate cap and sells an interest rate floor on the same interest rate for the same maturity and notional principal amount.
+A
+Reverse Interest Rate Collar
+is a derivative contract which involves simultaneous purchase of an interest rate floor and sale of an interest rate cap on the same interest rate for the same maturity and notional principal amount.
+An
+Interest Rate Swap
+(IRS) is a derivative contract that involves exchange of a stream of agreed interest payments on a 'notional principal’ amount during a specified period.
+An
+Interest Rate Swaption
+is an option on interest rate swaps. A swaption gives the buyer the right, but not the obligation, to enter into an interest rate swap.
+A
+Leveraged Derivative
+is a financial derivative contract whose value, in absolute terms, changes more than proportionately to the change in the underlying risk (i.e., ∆ (delta) lies beyond the range of ±1).
+Market-makers
+provide bid and offer prices to users and other market-makers. Market-makers need not have an underlying risk.
+Money Market Futures
+are interest rate futures based on any Rupee denominated money market interest rate or money market instrument.
+Non-resident
+is a person resident outside India as defined in section 2 (w) of Foreign Exchange Management Act, 1999 (42 of 1999).
+Non-retail users
+shall include (a) entities regulated by the Reserve Bank; (b) insurance companies; (c) mutual funds, pensions funds and other collective investment vehicles; (d) All India Financial Institutions (AIFIs), viz., Exim Bank, NABARD, NHB and Small Industries Development Bank of India (SIDBI); (e) companies/entities with net-worth of
+₹500 crore
+or above
+; and (f) non-residents other than individuals.
+Option
+is a financial derivative contract that gives the buyer the right, but not the obligation, to either buy (call option) or sell (put option) an asset at a pre-determined price (known as the strike price) by a specified date (known as the expiration date).
+Overnight Indexed Swap
+(OIS) is an interest rate swap based on the Overnight Mumbai Interbank Outright Rate (MIBOR) benchmark published by Financial Benchmarks India Pvt. Ltd (FBIL).
+Person resident in India
+is as defined in Section (v) of the Foreign Exchange Management Act, 1999.
+Recognized stock exchanges
+shall have the meaning assigned under Section 2 (f) of the Securities Contract Regulation Act, 1956.
+Regulated entity
+means any person, other than an individual or HUF, whose activities are regulated by any one of the financial regulators in India viz., Reserve Bank of India (RBI), Securities and Exchange Board of India (SEBI), Insurance Regulatory and Development Authority of India (IRDAI), Pension Fund Regulatory and Development Authority (PFRDA), National Housing Bank (NHB) and National Bank for Agriculture and Rural Development (NABARD).
+Related entities
+are entities as defined under Para-9 of International Accounting Standards - 24 (IAS-24).
+Retail users
+refer to all eligible participants in IRD markets, other than non-retail users.
+A
+structured derivative
+is a financial derivative contract which is a combination of cash and/or generic derivative instrument.
+Users
+refer to all entities that undertake derivative transactions but not as a market-maker.
+The words and expressions used but not defined in these Directions shall have the meaning assigned to them in the Reserve Bank of India Act, 1934.
+3. Eligible Participants -
+(1) Any person resident in India and any non-resident, to the extent specified in these Directions, is eligible to participate in IRDs. All regulated entities shall participate in IRDs with the permission of and subject to the terms and conditions, if any, fixed by their respective regulators.
+(2) Indian or non-resident parent company or any group company or centralised treasury can transact in IRDs on behalf of their wholly owned subsidiaries or group companies provided they meet the criteria for non-retail users.
+4. Trading Venues -
+IRD contracts can be transacted either (i) on Recognized Stock Exchanges (referred hereafter as exchanges), or, (ii) Over-the-Counter (OTC). OTC transactions shall refer to all transactions done outside of recognized stock exchanges and shall include transactions on Electronic Trading Platforms (ETPs). The directions governing activities in IRDs in each of these trading venues, viz., exchanges or OTC markets, are laid down separately.
+5. Interest Rate Derivatives on Recognized Stock Exchanges -
+IRD transactions carried out on exchanges shall be subject to the following directions:
+Exchanges are permitted to offer any standardized Interest Rate Derivatives product.
+The product design, eligible participants and other details of the IRD product may be finalized by the exchanges.
+Exchanges shall obtain prior approval of the Reserve Bank before introducing any new IRD product or before carrying out modifications to an existing product.
+6. Interest Rate Derivatives in the OTC Market -
+IRD transactions in the OTC market shall be subject to the following directions:
+(a) Scheduled Banks,
+Standalone
+Primary Dealers (
+S
+PDs) and All-India Financial Institutions (AIFIs) are eligible to act as market-makers for IRD products in OTC markets.
+(b) Market-makers may offer the following products to retail users:
+Forward Rate Agreement (FRA),
+Interest Rate Swap (IRS), and
+European Interest Rate Options (IRO) including caps, floors, collars and reverse collars.
+(c) In addition to the products listed in (b) above, market-makers may offer swaptions and structured derivative products, excluding leveraged derivatives, only to non-retail users.
+(d)
+Banks
+having Authorised Dealer Category-I (AD Cat-I) license under FEMA, 1999,
+and SPDs authorized under section 10(1) of FEMA, 1999
+may offer FCS-OIS contracts to non-residents, other than individuals. Such
+entities
+may also undertake transactions in FCS-OIS contracts among themselves.
+Banks
+can undertake these transactions through their branches in India, through their International Financial Services Centre (IFSC) Banking Units (IBUs) or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).
+(e) For the purpose of offering IRD contracts to a user, market-makers shall classify a user either as a ‘retail’ user or as a ‘non-retail’ user:
+Any user who is otherwise eligible to be classified as a ‘non-retail’ user shall have the choice to be classified as a ‘retail’ user by market-makers.
+(f) Market-makers shall ensure that transactions undertaken by retail users (including ‘non-retail’ users who choose to be classified as ‘retail’ users) are for the purpose of hedging an underlying interest rate risk. Resident ‘non-retail’ users can undertake transactions in permitted products for both hedging and otherwise.
+(g) A non-resident can undertake transactions in the Rupee interest rate derivatives markets for the following purposes:
+To hedge an exposure to Rupee interest rate risk as stipulated in paragraph 7 below; and,
+For purposes other than hedging, to the extent stipulated in paragraph 8 below.
+(h) Any floating interest rate or price or index used in IRDs in the OTC market shall be a benchmark published by an FBA or approved by The Fixed Income Money Market and Derivatives Association of India (FIMMDA) for this purpose. FIMMDA shall ensure that the floating rate approved by them is determined transparently, objectively and in arm’s length transactions.
+(i) IRD transactions shall be settled bilaterally or through any clearing arrangement approved by the Reserve Bank for the purpose.
+FCS-OIS transactions may also be settled as decided bilaterally by the counterparties.
+(j) Settlement basis and other market conventions for IRD transactions
+may
+be specified by FIMMDA
+, where possible,
+in consultation with market participants.
+(k) The market hours for IRD transactions in OTC market shall be from 9:00 AM to 5:00 PM on each business day or as specified by the Reserve Bank from time to time. A market-maker may undertake transactions in FCS-OIS beyond onshore market hours.
+7. Transactions by non-residents for the purpose of hedging interest rate risk -
+A non-resident may undertake Rupee interest rate derivatives transactions in India to hedge its interest rate risk using any product transacted on recognized stock exchanges or listed in paragraph 6(b)
+,
+6(c)
+and 6 (d)
+above.
+Market-makers shall ensure that transactions by a non-resident are being carried out for the purpose of hedging. For this purpose, market-makers may call for any relevant information from the non-resident, who, in turn, is obliged to provide such information.
+8. Transactions by non-residents for purposes other than hedging interest rate risk -
+(a) Non-residents, other than individuals, may undertake Overnight Indexed Swaps (OIS) transactions
+, excluding transactions in FCS-OIS,
+for purposes other than hedging interest rate risk in terms of the following arrangements:
+These transactions may be undertaken directly with a market-maker in India, or by way of a ‘back-to-back’ arrangement through a foreign branch/parent/group entity (foreign counterpart) of the market-maker.
+Explanation – For the purpose of these directions, a ‘back-to-back’ arrangement means that a non-resident undertakes the transaction with a foreign counterpart of a market-maker and the foreign counterpart, in turn, immediately enters into an off-setting transaction with that market-maker in India.
+A market-maker shall enter into a ‘back-to-back’ arrangement referred to in (i) above provided that:
+I. All rupee interest rate derivatives transactions, globally, of related entities of the market-maker are accounted for in the books of the market-maker. In other words, no related entity of the market-maker shall undertake transactions in Rupee interest rate derivatives other than under the ‘back-to-back’ arrangement.
+II. Rupee interest rate derivatives transactions of FPIs related to the market-maker covered under para 7 above shall be exempted from the requirement in para 8(a)(ii)(I) above.
+(b) Non-residents may also undertake FCS-OIS transactions with
+banks
+having AD Cat-I license
+and SPDs authorized under section 10(1) of FEMA, 1999
+for purposes other than hedging interest rate risk.
+Transactions by non-residents in FCS-OIS may be undertaken directly with these entities. Transactions with banks having AD Cat-I license may also be undertaken by way of a ‘back-to-back’ arrangement through their foreign branches or through their IBUs.
+Explanation – For the purpose of these directions, a ‘back-to-back’ arrangement means that a non-resident undertakes the transaction with a foreign branch of a market-maker and the foreign branch, in turn, immediately enters into an off-setting transaction with that market-maker in India.
+(c) OIS transactions
+, including transactions in FCS-OIS,
+by non-residents
+with market-makers
+for purposes other than hedging interest rate risk shall be subject to an overall limit, as specified below:
+I. The Price Value of a Basis Point (PVBP) of all outstanding OIS positions
+, including FCS-OIS positions
+shall not exceed the amount of
+INR 350 crore
+(PVBP cap).
+Explanation – PVBP cap shall be calculated by making a gross addition, ignoring mathematical signs, of the PVBP of each non-resident.
+II. Non-residents shall not undertake any further OIS
+/ FCS-OIS
+transactions for purposes other than hedging after the PVBP cap is reached.
+III. Clearing Corporation of India Ltd. (CCIL) shall publish the methodology for calculation of the PVBP and monitor as well as publish utilization of the PVBP limit on a daily basis.
+(d) Foreign Portfolio Investors (FPIs), collectively, may also transact in interest rate futures (IRF) up to a limit of net long position of
+INR 5,000 crore
+in terms of
+RBI circular No. FMRD.DIRD.6/14.03.001/2017-18 dated March 01, 2018
+.
+9.
+A non-resident shall ensure that its interest rate derivative transactions conform to the provisions of Section 45(V) of the RBI Act, 1934, as well as applicable provisions of Foreign Exchange Management Act, 1999 and the rules, regulations and directions issued thereunder.
+10. Remittance/Payments by non-residents -
+All payments related to interest rate derivative transactions of a non-resident
+, excluding FCS-OIS transactions,
+may be routed through
+an INR
+account of the non-resident or, where the non-resident doesn’t have
+an INR
+account in India, through a vostro account maintained with an Authorised Dealer bank in India.
+All payments related to FCS-OIS transactions may be routed through normal banking channels.
+The market-maker shall maintain complete details of such transactions.
+11. KYC for the non-resident -
+Market-maker shall ensure that non-resident clients are from an FATF compliant country. Market-makers shall also ensure that non-resident clients comply with the KYC requirements as prescribed under
+Master Direction – Know your Customer Direction, 2016 (DBR.AML.BC.No.81/14.01.001/2015-16) dated February 25, 2016
+as amended from time to time.
+12. Conditions applicable to IRDs on both exchanges and in the OTC market -
+The following conditions shall apply to all IRDs, whether traded on an exchange or in the OTC market:
+Market-makers of IRDs in OTC markets shall comply with the ‘suitability and appropriateness’ requirements contained in the
+Master Direction – Reserve Bank of India (Market-makers in OTC Derivatives) Directions, 2021
+issued by the Reserve Bank, as amended from time to time. Exchanges shall ensure that clients participating on exchanges are adequately made aware of the risks associated with the derivative instrument.
+Accounting, valuation and capital requirement for IRDs shall be as per the applicable accounting standards and valuation methods prescribed by ICAI or other standard setting organisation or as specified by the respective regulators of participants.
+13. Regulatory reporting -
+(1) Market-makers in OTC transactions shall report all transactions, including client trades, within 30 minutes of the transactions, to the Trade Repository of Clearing Corporation of India Ltd. (CCIL), clearly indicating whether the trade is for hedging or other purposes.
+All FCS-OIS transactions undertaken by market-makers in India through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank), shall be reported to CCIL’s Trade Repository before 12:00 noon of the following business day.
+(2) Market-makers shall report trade details, including particulars of the non–resident client for OIS transactions under the ‘back-to-back’ arrangement, to the trade repository of CCIL.
+(3) All resident users whose gross notional outstanding amount across different benchmarks/curves for all outstanding IRD contracts taken together reaches
+₹1,000 crore
+at any point of time during a quarter shall report details of their risk positions at the end of that quarter in the prescribed format as furnished in
+Annex II
+. The report shall be routed through any bank or
+SPD
+with whom they undertake derivatives transactions.
+(4) Cross-border remittances arising out of transactions in Rupee interest rate derivatives shall be reported by banks to the Reserve Bank at monthly interval in the prescribed format as furnished in
+Annex III
+.
+14.
+The list of previous circulars issued by the Reserve Bank that are repealed and withdrawn with immediate effect are given at
+Annex I
+hereunder. However, the directions contained in those circulars shall continue to apply to contracts undertaken in accordance with the said directions till the expiry of those contracts.
+Annex I
+List of circulars repealed and withdrawn
+Circular No. MPD.BC.187/07.01.279/1999-2000 dated July 7, 1999
+Circular No. IDMD.PDRS.4802(A)/03.64.00/2002-03 dated June 11, 2003
+Circular No. DBOD.BP.BC.No.56/21.04.157/2008-09 dated October 13, 2008
+Circular No. FMD.MSRG No.39/02.04.003/2009-10 dated August 28, 2009
+Circular No. IDMD.PDRD.No.1056/03.64.00/2009-10 dated September 1, 2009
+Circular No. IDMD.PCD. 28/14.03.01/2010-11 dated March 7, 2011
+Circular No. IDMD.PCD.17/14.03.01/2011-12 dated December 30, 2011
+Circular No. IDMD.PCD.16/14.03.01/2011-12 dated December 30, 2011
+Circular No. IDMD.PCD.2191/14.03.01/2012-13 dated January 28, 2013
+Circular No. IDMD.PCD.08/14.03.01/2013-14 dated December 5, 2013
+Circular No. IDMD.PCD.09/14.03.01/2013-14 dated December 19, 2013
+Circular No. FMRD.DIRD.10/14.03.01/2014-15 dated June 12, 2015
+Circular No. FMRD.DIRD.10/14.03.01/2016-17 dated October 28, 2016
+Circular No. FMRD.DIRD.12/14.01.011/2016-17 dated December 29, 2016
+Circular No. FMRD.DIRD.9/14.01.020/2017-18 dated June 14, 2018
+Circular No. FMRD.DIRD.13/14.03.041/2018-19 dated March 27, 2019
+Annex II
+Interest Rate Risk Positions for the quarter ended____ As on ____ (Date)
+Market Segment
+Price Value of a Basis Point (PVBP)
+Beginning of quarter
+During the quarter
+End of quarter
+High
+Low
+Average
+(i) Interest Rate Derivatives
+(ii) Investment in Rupee interest rate sensitive securities
+Total
+Annex III
+Cross-border remittances arising out of Rupee interest rate derivatives
+transactions undertaken by non-residents during MM/YY (month of year):
+Inward remittance
+(In INR)
+Outward remittance
+(In INR)
+For hedging
+For purposes other than hedging

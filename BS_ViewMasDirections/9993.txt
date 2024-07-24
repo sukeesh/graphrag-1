@@ -1,0 +1,29 @@
+(29 kb)
+Foreign Direct Investment – Reporting under FDI Scheme on the e-Biz platform
+RBI/2015-16/157
+A.P. (DIR Series) Circular No. 9
+August 21, 2015
+To
+All Category - I Authorised Dealer Banks
+Madam / Sir,
+Foreign Direct Investment – Reporting under FDI Scheme on the e-Biz platform
+Attention of Authorised Dealers Category-I (AD Category - I) banks is invited to the provisions of the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations 2000, notified by the Reserve Bank vide
+Notification No. FEMA 20/2000-RB, dated 3rd May 2000
+, as amended from time to time. Attention of AD Category – I banks is also invited to
+A.P. (DIR Series) Circular No.6 dated July 18, 2014
+.
+2. With a view to promoting the ease of reporting of transactions under foreign direct investment, the Reserve Bank of India (RBI), under the aegis of the e-Biz project of the Government of India has enabled online filing of the Foreign Currency Transfer of Shares (FCTRS) returns for reporting transfer of shares, convertible debentures, partly paid shares and warrants from a person resident in India to a person resident outside India or vice versa.
+3. The design of the reporting platform enables the customer to login into the eBiz portal, download the reporting form (FCTRS), complete and then upload the same onto the portal using their digitally signed certificates. The Authorised Dealer Banks (ADs) will be required to download the completed forms, verify the contents from the available documents and if necessary, call for additional information from the customer and then upload the same for RBI to process and allot the Unique Identification Number (UIN). The FCTRS services of RBI will be made operational on the e-Biz platform from August 24, 2015. The user manual for this service is
+Annexed
+to this Circular.
+4. It may be noted that for the present, the online reporting on the e-Biz platform is an additional facility to the Indian residents to undertake their FCTRS reporting and the manual system of reporting as prescribed in terms of
+A.P. (DIR Series) Circular No.6 dated July 18, 2014
+would continue till further notice.
+5. The ADs will be required to access the e-Biz portal [which is hosted on the National Informatics Centre (NIC) servers] using a Virtual Private Network (VPN) Account obtained from NIC. ADs may refer to
+A.P. (DIR Series) Circular No.95 dated April 17, 2015
+for financial aspects of obtaining/using the VPN accounts.
+6. AD Category-I banks may bring the contents of this circular to the notice of their customers / constituents concerned. They are advised to extend due cooperation/assistance to their constituents for uploading the abovementioned forms on the e-Biz platform.
+7. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(B P Kanungo)
+Principal Chief General Manager

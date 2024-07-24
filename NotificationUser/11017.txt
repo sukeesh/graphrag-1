@@ -1,0 +1,20 @@
+(63 kb)
+Limits on balances in customer accounts with payments banks – sweep out arrangements with other banks
+RBI/2016-17/329
+DBR.NBD.No.77/16.13.218/2016-17
+June 29, 2017
+Chief Executive Officers of Payments Banks
+Madam / Dear Sir,
+Limits on balances in customer accounts with payments banks – sweep out arrangements with other banks
+Please refer to
+paragraph 7(i)
+of the Operating Guidelines for Payments Banks (‘Operating Guidelines’) dated October 6, 2016, under which payments banks (PBs) were permitted to make arrangements with a scheduled commercial bank / small finance bank (SFB), for amounts in excess of the prescribed limits, to be swept into an account opened for the customer at that bank.
+2. Based on the comments / proposals received from the payments banks, and keeping in view the financial inclusion objective of the payments bank model, the following instructions are to be followed:
+PBs are permitted to act as Business Correspondents (BCs) of other banks. Under the BC arrangement and with prior specific or general consent of the customer, PB may effect the transfer of funds deposited by her into her account with another eligible bank, so that the balance in her account with the PB does not exceed ₹100,000 or any such lower amount as specified by her.
+At any time, PB shall not have rights to operate or have real-time access to the funds available in the account of the customer at any other bank, including the transferee bank. However, as a BC of a bank, PBs may facilitate withdrawals and transfers by the customer from her account with the bank of which it is the BC. It is reiterated for clarity that PBs shall not initiate any debit transactions in the customer’s account, held with another bank, under a power of attorney or general consent of the customer.
+A PB shall neither arrange nor avail of intraday funding facilities for its customers, based on the balances available in the customer’s account with any other bank, or otherwise.
+PBs are required to closely monitor the accounts of their customers, to identify and report suspicious transactions, when the deposit / transaction volumes are not commensurate with the customer’s profile.
+3. These instructions are in addition to the Operating Guidelines ibid and take immediate effect.
+Yours faithfully,
+(Saurav Sinha)
+Chief General Manager

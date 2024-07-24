@@ -1,0 +1,43 @@
+(118 kb)
+Frauds in UCBs: Changes in Monitoring and Reporting mechanism
+RBI/2015-16/399
+DCBS.CO.Cir.No.001/12.17.001/2015-16
+May 19, 2016
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks
+Dear Sir / Madam,
+Frauds in UCBs: Changes in Monitoring and Reporting mechanism
+Please refer to our
+Master circular no. DCBR.CO.BPD.MC.No.1/12.05.001/2015-16 on Frauds- Classification and Reporting dated July 01, 2015
+.
+2. On a review, it has been decided to change the fraud monitoring and reporting mechanism at the Regional Offices and Central Fraud Monitoring Cell (CFMC) of the RBI. Accordingly, henceforth:
+Frauds below ₹ 1.00 crore will be monitored by the respective Regional Office of the Department of Co-operative Bank Supervision (DCBS), RBI under whose jurisdiction the Head Office of the bank falls and
+Frauds of ₹ 1.00 crore and above will be monitored by CFMC, RBI, Bengaluru.
+3. Reporting of frauds by UCBs:
+Consequently, the reporting mechanism for fraud cases will be as under:
+3.1 Frauds below ₹ 1.00 lakh are not to be reported individually to the RBI. However, as done earlier, statistical data in respect of such frauds should be submitted to RBI in the prescribed quarterly statement.
+3.2 Individual frauds of ₹ 1.00 lakh and above but below ₹ 1.00 crore should be reported to the Regional Office of Department of Cooperative Bank Supervision (DCBS) of RBI, under whose jurisdiction the Head Office of the bank falls, in FMR-1 format, within three weeks from the date of detection.
+3.3 Individual frauds of ₹ 1.00 crore and above should be reported to Central Frauds Monitoring Cell (CFMC), Department of Banking Supervision (DBS), RBI, Bengaluru, in FMR-1 format, within three weeks from the date of detection with a copy to Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls.
+3.4 Additionally, in case of frauds of ₹ 1.00 crore and above, a flash report in the form of DO letter addressed to Principal Chief General Manager, DBS, CO, RBI has to be submitted within a week of such fraud coming to the notice of the bank's Head Office with a copy to Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls.
+4. Further, you may be aware about the discontinuance of submission of hard copy of non-statutory returns. It is reiterated that FMR-1 should be submitted in soft copies through e-mail as per reporting mechanism advised in para 3.2 and 3.3 above. However, UCBs have to submit a monthly certificate to the effect that soft copy of all the frauds of ₹ 1.00 lakh and above, to be reported to the RBI in a month, has been sent through email. The certificate may be sent to CFMC, Bengaluru with a copy to the respective Regional Office of DCBS, RBI under whose jurisdiction the Head Office of the bank falls within seven days from the end of the month. A format of the same is given in
+Annex-1
+.
+5. The above changes will be effective from the date of this circular. All other instructions contained in the
+Master Circular on Frauds–Classification and Reporting dated July 01, 2015
+remain unchanged.
+Yours faithfully
+(Malvika Sinha)
+Principal Chief General Manager
+Annex-1
+Monthly certificate in respect of submission of fraud cases through FMR-1
+Name of the bank:
+Date:
+Certificate for the month:
+It is certified that soft copy of the following fraud cases, which were to be reported to RBI during the month ------------------------, have been sent to RBI by mail.
+Sr. No.
+Fraud Number
+Name of the Party
+Amount Involved (₹ lakh)
+Date sent
+Signature
+Name & Designation of the authorized official

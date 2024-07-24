@@ -1,0 +1,55 @@
+(107 kb)
+Scheme for Sustainable Structuring of Stressed Assets - Revisions
+RBI/2016-17/121
+DBR.No.BP.BC.33/21.04.132/2016-17
+November 10, 2016
+All Scheduled Commercial Banks
+(Excluding RRBs),
+All-India Term-lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Non-Banking Financial Companies, including
+Securitisation Companies/ Reconstruction Companies
+Madam / Dear Sir,
+Scheme for Sustainable Structuring of Stressed Assets - Revisions
+We invite a reference to the paragraph 6 of the Statement on Developmental and Regulatory Policies issued by RBI on October 4, 2016 (
+extract enclosed
+). It was proposed therein to allow the portion of debt determined to be sustainable (under the Scheme for Sustainable Structuring of Stressed Assets) to be treated as a 'Standard' asset in all cases, subject to certain conditions.
+2. Accordingly, the Scheme for Sustainable Structuring of Stressed Assets has been partially modified as indicated in the
+Annex
+. All other provisions of the Scheme remain unchanged.
+Yours faithfully,
+(Ajay Kumar Choudhary)
+Chief General Manager
+Annex
+Scheme for Sustainable Structuring of Stressed Assets - Revisions
+The asset classification norms for loans under the Scheme for Sustainable Structuring of Stressed Assets, in cases where there is no change of promoters, are prescribed in paragraph 9(B) of
+circular DBR.No.BP.BC.103/21.04.132/2015-16 dated June 13, 2016
+. Based on the feedback received from stakeholders as also analysing the rationale behind asset classification norms, it has now been decided to revise paragraphs 9(B) (iii) and (iv) of the scheme as under:
+(iii) In respect of an account that is classified as a non-performing asset as on the reference date, the Part B instruments shall continue to be classified as non-performing investment and provided for as a non-performing asset as per extant prudential norms, as long as such instruments remain in Part B. The sustainable portion (Part A) may optionally be treated as ‘Standard’ upon implementation of the resolution plan by all banks, subject to provisions made upfront by the lenders being at least the higher of 50 percent of the amount held in part B or 25 percent of the aggregate outstanding (sum of Part A and part B). For this purpose, the provisions already held in the account can be reckoned.
+(iv) In all cases, lenders may upgrade Part B to standard category and reverse the associated enhanced provisions after one year of satisfactory performance of Part A loans. In case of any pre-existing moratorium in the account, this upgrade will be permitted one year after completion of the longest such moratorium, subject to satisfactory performance of Part A debt during this period. However, in all cases, the required MTM provisions on Part B instruments must be maintained at all times. The transition benefit available in terms of paragraph 9(B)(vi) can however be availed.
+2. Banks shall make disclosures in their annual financial statements on application of the Scheme for Sustainable Structuring of Financial Assets, as per the format in the
+Appendix
+. These disclosures shall be made with respect to the accounts under the observation period specified at (iv) above.
+3. All other guidelines of the scheme, which are specifically not modified here, remain unchanged.
+Appendix
+1. Disclosures on the Scheme for Sustainable Structuring of Stressed Assets (S4A), as on ______________
+(INR Crore)
+No. of accounts where S4A has been applied
+Aggregate amount outstanding
+Amount outstanding
+Provision Held
+In Part A
+In Part B
+Classified as Standard
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+Classified as NPA
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+Extract of the Statement on Developmental and Regulatory Policies issued by RBI on October 4, 2016
+“6. Scheme for Sustainable Structuring of Stressed Assets -
+The Reserve Bank has put in place a ‘Scheme for Sustainable Structuring of Stressed Assets’ (S4A) in order to provide an avenue for reworking the financial structure of entities facing genuine difficulties and requiring co-ordinated deep financial restructuring. The scheme provides flexibility in restructuring, which may involve material write-down of debt and/or making large provisions, under a credible framework. Banks that have taken up cases for resolution under the S4A have represented that the asset classification norms under the S4A may be reviewed to make the scheme more effective. Accordingly, it is proposed to allow that portion of debt determined to be sustainable to be treated as a standard asset in all cases, subject to certain conditions. Detailed guidelines in this regard will be issued by end-October 2016.”

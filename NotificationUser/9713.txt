@@ -1,0 +1,157 @@
+(251 kb)
+Framework for dealing with loan frauds
+RBI/2014-15/590
+DBS.CO.CFMC.BC.No.007/23.04.001/2014-15
+May 7, 2015
+The Chairmen & Chief Executive Officers of
+all Scheduled Commercial Banks (excluding RRBs)
+and All India Select Financial Institutions
+Dear Sir/Madam,
+Framework for dealing with loan frauds
+The rising trend in loan related frauds in the financial sector is a matter of serious concern. Equally disquieting is the delay in detection and reporting of such frauds by banks. The issues relating to prevention, early detection and reporting of frauds has been looked into by an Internal Working Group (IWG) of the RBI which also held wide ranging consultations with various banks and other stakeholders. Based on the recommendations of this IWG, a framework for fraud risk management in banks is detailed in the
+Annex
+to this circular. These recommendations may be read along with our instructions contained in the
+Master Circular DBS.CO.CFMC.BC.No.1 /23.04.001 /2014-15 dated July 01, 2014
+on Frauds - Classification and Reporting. The guidelines contained in the Annex come into force with immediate effect.
+Yours faithfully,
+(Manoj Sharma)
+Chief General Manager
+Annex
+Framework for dealing with loan frauds
+1.0 Objective of the framework
+In the context of increasing incidence of frauds in general and in loan portfolios in particular, objective of this framework is to direct the focus of banks on the aspects relating to prevention, early detection, prompt reporting to the RBI (for system level aggregation, monitoring & dissemination) and the investigative agencies (for instituting criminal proceedings against the fraudulent borrowers) and timely initiation of the staff accountability proceedings (for determining negligence or connivance, if any) while ensuring that the normal conduct of business of the banks and their risk taking ability is not adversely impacted and no new and onerous responsibilities are placed on the banks. In order to achieve this objective, the framework also seeks to stipulate time lines with the action incumbent on a bank. The time lines / stage wise actions in the loan life-cycle are expected to compress the total time taken by a bank to identify a fraud and aid more effective action by the law enforcement agencies. The early detection of Fraud and the necessary corrective action are important to reduce the quantum of loss which the continuance of the Fraud may entail. The government is separately looking into the issue of more timely and coordinated action by the law enforcement agencies.
+2.0 Early Warning Signals (EWS) and Red Flagged Accounts (RFA)
+2.1 The concept of a Red Flagged Account (RFA) is being introduced in the current framework as an important step in fraud risk control. A RFA is one where a suspicion of fraudulent activity is thrown up by the presence of one or more Early Warning Signals (EWS). These signals in a loan account should immediately put the bank on alert regarding a weakness or wrong doing which may ultimately turn out to be fraudulent. A bank cannot afford to ignore such EWS but must instead use them as a trigger to launch a detailed investigation into a RFA.
+2.2 An
+illustrative
+list of some EWS is given for the guidance of banks in
+Appendix I
+to this circular. Banks may choose to adopt or adapt the relevant signals from this list and also include other alerts/signals based on their experience, client profile and business models. The EWS so compiled by a bank would form the basis for classifying an account as a RFA.
+2.3 The threshold for EWS and RFA is an exposure of Rs.500 million or more at the level of a bank irrespective of the lending arrangement (whether solo banking, multiple banking or consortium). All accounts beyond Rs.500 million classified as RFA or ‘Frauds’ must also be reported on the CRILC data platform together with the dates on which the accounts were classified as such. The CRILC data platform is being enhanced to provide this capability by June 1, 2015. As of now, this requirement is in addition to the extant requirements of reporting to RBI.
+2.4 The modalities for monitoring of loan frauds below Rs.500 million threshold is left to the discretion of banks. However, banks may continue to report all identified accounts to CFMC, RBI as per the existing cut-offs.
+2.5 The tracking of EWS in loan accounts should not be seen as an additional task but must be integrated with the credit monitoring process in the bank so that it becomes a continuous activity and also acts as a trigger for any possible credit impairment in the loan accounts, given the interplay between credit risks and fraud risks. In respect of large accounts it is necessary that banks undertake a detailed study of the Annual Report as a whole and not merely of the financial statements, noting particularly the Board Report and the Managements’ Discussion and Analysis Statement as also the details of related party transactions in the notes to accounts. The officer responsible for the operations in the account, by whatever designation called, should be sensitised to observe and report any manifestation of the EWS promptly to the Fraud Monitoring Group (FMG) or any other group constituted by the bank for the purpose immediately. To ensure that the exercise remains meaningful, such officers may be held responsible for non-reporting or delays in reporting.
+2.6 The FMG should report the details of loan accounts of Rs.500 million and above in which EWS are observed, together with the decision to classify them as RFAs or otherwise to the CMD/CEO every month.
+2.7 A report on the RFA accounts may be put up to the Special Committee of the Board for monitoring and follow-up of Frauds (SCBF) providing, inter alia, a synopsis of the remedial action taken together with their current status.
+3.0 Early Detection and Reporting
+3.1 At present the detection of frauds takes an unusually long time. Banks tend to report an account as fraud only when they exhaust the chances of further recovery. Among other things, delays in reporting of frauds also delays the alerting of other banks about the modus operandi through caution advices by RBI that may result in similar frauds being perpetrated elsewhere. More importantly, it delays action against the unscrupulous borrowers by the law enforcement agencies which impact the recoverability aspects to a great degree and also increases the loss arising out of the fraud.
+3.2 The most effective way of preventing frauds in loan accounts is for banks to have a robust appraisal and an effective credit monitoring mechanism during the entire life-cycle of the loan account. Any weakness that may have escaped attention at the appraisal stage can often be mitigated in case the post disbursement monitoring remains effective. In order to strengthen the monitoring processes, based on an analysis of the collective experience of the banks, inclusion of the following checks / investigations during the different stages of the loan life-cycle may be carried out:
+3.2.1 Pre-sanction:
+As part of the credit process, the checks being applied during the stage of pre-sanction may consist of the Risk Management Group (RMG) or any other appropriate group of the bank collecting independent information and market intelligence on the potential borrowers from the public domain on their track record, involvement in legal disputes, raids conducted on their businesses, if any, strictures passed against them by Government agencies, validation of submitted information/data from other sources like the ROC, gleaning from the defaulters list of RBI/other Government agencies, etc., which could be used as an input by the sanctioning authority. Banks may keep the record of such pre-sanction checks as part of the sanction documentation.
+3.2.2 Disbursement:
+Checks by RMG during the disbursement stage may focus on the adherence to the terms and conditions of sanction, rationale for allowing dilution of these terms and conditions, level at which such dilutions were allowed, etc. The dilutions should strictly conform to the broad framework laid down by the Board in this regard. As a matter of good practice, the sanctioning authority may specify certain terms and conditions as ‘core’ which should not be diluted. The RMG may immediately flag the non-adherence of core stipulations to the sanctioning authority.
+3.2.3 Annual review:
+While the continuous monitoring of an account through the tracking of EWS is important, banks also need to be vigilant from the fraud perspective at the time of annual review of accounts. Among other things, the aspects of diversion of funds in an account, adequacy of stock vis-a-vis stock statements, stress in group accounts, etc., must also be commented upon at the time of review. Besides, the RMG should have capability to track market developments relating to the major clients of the bank and provide inputs to the credit officers. This would involve collecting information from the grapevine, following up stock market movements, subscribing to a press clipping service, monitoring databases on a continuous basis and not confining the exercise only to the borrowing entity but to the group as a whole.
+3.3 Staff empowerment:
+Employees should be encouraged to report fraudulent activity in an account, along with the reasons in support of their views, to the appropriately constituted authority, under the Whistle Blower Policy of the bank, who may institute a scrutiny through the FMG. The FMG may ‘hear’ the concerned employee in order to obtain necessary clarifications. Protection should be available to such employees under the whistle blower policy of the bank so that the fear of victimisation does not act as a deterrent.
+3.4 Role of Auditors:
+During the course of the audit, auditors may come across instances where the transactions in the account or the documents point to the possibility of fraudulent transactions in the account. In such a situation, the auditor may immediately bring it to the notice of the top management and if necessary to the Audit Committee of the Board (ACB) for appropriate action.
+3.5 Incentive for Prompt Reporting:
+In case of accounts classified as ‘fraud’, banks are required to make provisions to the full extent immediately, irrespective of the value of security. However, in case a bank is unable to make the entire provision in one go, it may now do so over four quarters provided there is no delay in reporting (cf.
+Circular DBR.No.BP.BC.83/21.04.048/ 2014-15 dated April 01, 2015
+). In case of delays, the banks under Multiple Banking Arrangements (MBA) or member banks in the consortium are required to make the provision in one go in terms of the said circular. Delay, for the purpose of this circular, would mean that the fraud was not flashed to CFMC, RBI or reported on the CRILC platform, RBI within a period of one week from its (i) classification as a fraud through the RFA route which has a maximum time line of six months or (ii) detection/declaration as a fraud ab initio by the bank as hitherto (cf.
+Master Circular DBS.CO.CFMC.BC.No.1/23.04.001/2014-15 dated July 01, 2014
+on Frauds - Classification and Reporting). As mentioned earlier, the CRILC platform is being enabled to accept the RFA and Fraud categories shortly.
+4.0 Bank as a sole lender
+4.1 In cases where the bank is the sole lender, the FMG will take a call on whether an account in which EWS are observed should be classified as a RFA or not. This exercise should be completed as soon as possible and in any case within a month of the EWS being noticed. In case the account is classified as a RFA, the FMG will stipulate the nature and level of further investigations or remedial measures necessary to protect the bank’s interest within a stipulated time which cannot exceed six months.
+4.2 The bank may use external auditors, including forensic experts or an internal team for investigations before taking a final view on the RFA. At the end of this time line, which cannot be more than six months, banks would either lift the RFA status or classify the account as a fraud.
+4.3 A report on the RFA accounts may be put up to the SCBF with the observations/decision of the FMG. The report may list the EWS/irregularities observed in the account and provide a synopsis of the investigations ordered / remedial action proposed by the FMG together with their current status.
+5.0 Lending under Consortium or Multiple Banking Arrangements
+5.1 RBI
+Master Circular DBS.CO.CFMC.BC.No.1/23.04.001/2014-15 dated July 01, 2014
+on Frauds - Classification and Reporting (Para 3.2.4) provides that all the banks which have financed a borrower under MBA should take co-ordinated action, based on a commonly agreed strategy, for legal / criminal actions and the bank which classifies or declares a fraud should report the same to CFMC, RBI within the deadlines specified in the Master Circular on Frauds - Classification and Reporting cited above.
+5.2 In case of consortium arrangements, individual banks must conduct their own due diligence before taking any credit exposure and also independently monitor the end use of funds rather than depend fully on the consortium leader. However, as regards monitoring of Escrow Accounts, the details may be worked out by the consortium and duly documented so that accountability can be fixed easily at a later stage. Besides, any major concerns from the fraud perspective noticed at the time of annual reviews or through the tracking of early warning signals should be shared with other consortium / multiple banking lenders immediately as hitherto.
+5.3 The initial decision to classify any standard or NPA account as RFA or Fraud will be at the individual bank level and it would be the responsibility of this bank to report the RFA or Fraud status of the account on the CRILC platform so that other banks are alerted. Thereafter, within 15 days, the bank which has red flagged the account or detected the fraud would ask the consortium leader or the largest lender under MBA to convene a meeting of the JLF to discuss the issue. The meeting of the JLF so requisitioned must be convened within 15 days of such a request being received. In case there is a broad agreement, the account would be classified as a fraud; else based on the majority rule of agreement amongst banks with atleast 60% share in the total lending, the account would be red flagged by all the banks and subjected to a forensic audit commissioned or initiated by the consortium leader or the largest lender under MBA. All banks, as part of the consortium or multiple banking arrangement, would share the costs and provide the necessary support for such an investigation.
+5.4 The forensic audit must be completed within a maximum period of three months from the date of the JLF meeting authorizing the audit. Within 15 days of the completion of the forensic audit, the JLF will reconvene and decide on the status of the account, either by consensus or the majority rule as specified above. In case the decision is to classify the account as a fraud, the RFA status would change to Fraud in all banks and reported to RBI and on the CRILC platform within a week of the said decision. Besides, within 15 days of the RBI reporting, the bank commissioning/ initiating the forensic audit would lodge a complaint with the CBI on behalf of all banks in the consortium/MBA.
+5.5 It may be noted that the overall time allowed for the entire exercise to be completed is six months from the date when the first member bank reported the account as RFA or Fraud on the CRILC platform.
+6.0 Staff Accountability
+6.1 As in the case of accounts categorised as NPAs, banks must initiate and complete a staff accountability exercise within six months from the date of classification as a Fraud. Wherever felt necessary or warranted, the role of sanctioning official(s) may also be covered under this exercise. The completion of the staff accountability exercise for frauds and the action taken may be placed before the SCBF and intimated to the RBI at quarterly intervals as hitherto.
+6.2 Banks may bifurcate all fraud cases into vigilance and non-vigilance. Only vigilance cases should be referred to the investigative authorities. Non-vigilance cases may be investigated and dealt with at the bank level within a period of six months.
+6.3 In cases involving very senior executives of the bank, the Board / ACB/ SCBF may initiate the process of fixing staff accountability.
+6.4 Staff accountability should not be held up on account of the case being filed with law enforcement agencies. Both the criminal and domestic enquiry should be conducted simultaneously.
+7.0 Filing Complaints with Law Enforcement Agencies
+7.1 Banks are required to lodge the complaint with the law enforcement agencies immediately on detection of fraud. There should ideally not be any delay in filing of the complaints with the law enforcement agencies since delays may result in the loss of relevant ‘relied upon’ documents, non-availability of witnesses, absconding of borrowers and also the money trail getting cold in addition to asset stripping by the fraudulent borrower.
+7.2 It is observed that banks do not have a focal point for filing CBI / Police complaints. This results in a non-uniform approach to complaint filing by banks and the investigative agency has to deal with dispersed levels of authorities in banks. This is among the most important reasons for delay in conversion of complaints to FIRs. It is, therefore, enjoined on banks to establish a nodal point / officer for filing all complaints with the CBI on behalf of the bank and serve as the single point for coordination and redressal of infirmities in the complaints. The Government is also considering a central point for receiving complaints/FIRs from banks in the CBI.
+7.3 The complaint lodged by the bank with the law enforcement agencies should be drafted properly and invariably be vetted by a legal officer. It is also observed that banks sometimes file complaints with CBI / Police on the grounds of cheating, misappropriation of funds, diversion of funds etc., by borrowers without classifying the accounts as fraud and/or reporting the accounts as fraud to RBI. Since such grounds automatically constitute the basis for classifying an account as a fraudulent one, banks may invariably classify such accounts as frauds and report the same to RBI.
+7.4 The current structure for filing of complaints with the police and CBI is detailed in
+Appendix II
+.
+8.0 Penal measures for fraudulent borrowers
+8.1 In general, the penal provisions as applicable to wilful defaulters would apply to the fraudulent borrower including the promoter director(s) and other whole time directors of the company insofar as raising of funds from the banking system or from the capital markets by companies with which they are associated is concerned, etc. In particular, borrowers who have defaulted and have also committed a fraud in the account would be debarred from availing bank finance from Scheduled Commercial Banks, Development Financial Institutions, Government owned NBFCs, Investment Institutions, etc., for a period of five years from the date of full payment of the defrauded amount. After this period, it is for individual institutions to take a call on whether to lend to such a borrower. The penal provisions would apply to non-whole time directors (like nominee directors and independent directors) only in rarest of cases based on conclusive proof of their complicity.
+8.2 No restructuring or grant of additional facilities may be made in the case of RFA or fraud accounts.
+8.3 No compromise settlement involving a fraudulent borrower is allowed unless the conditions stipulate that the criminal complaint will be continued.
+9.0 Central Fraud Registry
+9.1 Presently there is no single database which the lenders can access to get all the important details of previous frauds reported by banks. The creation of such database at RBI will make available more information to banks at the time of start of a banking relationship, extension of credit facilities or at any time during the operation of an account. The Reserve Bank is in the process of designing a Central Fraud Registry, a centralised searchable database, which can be accessed by banks. The CBI and the Central Economic Intelligence Bureau (CEIB) have also expressed interest in sharing their own databases with the banks. More information in this regard would follow once the structure is finalised.
+Appendix I
+Some Early Warning signals which should alert the bank officials about some wrongdoings in the loan accounts which may turn out to be fraudulent
+Default in payment to the banks/ sundry debtors and other statutory bodies, etc., bouncing of the high value cheques
+Raid by Income tax /sales tax/ central excise duty officials
+Frequent change in the scope of the project to be undertaken by the borrower
+Under insured or over insured inventory
+Invoices devoid of TAN and other details
+Dispute on title of the collateral securities
+Costing of the project which is in wide variance with standard cost of installation of the project
+Funds coming from other banks to liquidate the outstanding loan amount
+Foreign bills remaining outstanding for a long time and tendency for bills to remain overdue
+Onerous clause in issue of BG/LC/standby letters of credit
+In merchanting trade, import leg not revealed to the bank
+Request received from the borrower to postpone the inspection of the godown for flimsy reasons
+Delay observed in payment of outstanding dues
+Financing the unit far away from the branch
+Claims not acknowledged as debt high
+Frequent invocation of BGs and devolvement of LCs
+Funding of the interest by sanctioning additional facilities
+Same collateral charged to a number of lenders
+Concealment of certain vital documents like master agreement, insurance coverage
+Floating front / associate companies by investing borrowed money
+Reduction in the stake of promoter / director
+Resignation of the key personnel and frequent changes in the management
+Substantial increase in unbilled revenue year after year.
+Large number of transactions with inter-connected companies and large outstanding from such companies.
+Significant movements in inventory, disproportionately higher than the growth in turnover.
+Significant movements in receivables, disproportionately higher than the growth in turnover and/or increase in ageing of the receivables.
+Disproportionate increase in other current assets.
+Significant increase in working capital borrowing as percentage of turnover.
+Critical issues highlighted in the stock audit report.
+Increase in Fixed Assets, without corresponding increase in turnover (when project is implemented).
+Increase in borrowings, despite huge cash and cash equivalents in the borrower’s balance sheet.
+Liabilities appearing in ROC search report, not reported by the borrower in its annual report.
+Substantial related party transactions.
+Material discrepancies in the annual report.
+Significant inconsistencies within the annual report (between various sections).
+Poor disclosure of materially adverse information and no qualification by the statutory auditors.
+Frequent change in accounting period and/or accounting policies.
+Frequent request for general purpose loans.
+Movement of an account from one bank to another.
+Frequent ad hoc sanctions.
+Not routing of sales proceeds through bank
+LCs issued for local trade / related party transactions
+High value RTGS payment to unrelated parties.
+Heavy cash withdrawal in loan accounts.
+Non submission of original bills.
+Appendix II
+Current Structure for filing Police/CBI complaints
+Category of bank
+Amount involved in the fraud
+Agency to whom complaint should be lodged
+Remarks
+Private Sector/ Foreign Banks
+Rs.1 lakh and above
+State Police
+Rs.10000 and above if committed by staff
+State Police
+Rs.1 crore and above
+SFIO
+In addition to State Police
+Public Sector Banks
+Below Rs.3 crore
+State Police
+Rs.3 crore and above and up to Rs.25 crore
+CBI
+Anti Corruption Branch of CBI
+(where staff involvement is prima facie evident)
+Economic Offences Wing of CBI
+(Where staff involvement is prima facie not evident)
+More than Rs.25 crore
+CBI
+Banking Security and Fraud Cell (BSFC) of CBI
+(irrespective of the involvement of a public servant)

@@ -1,0 +1,409 @@
+(678 kb)
+Master Circular - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+RBI/2015-16/98
+DBR.No.Ret.BC.24/12.01.001/2015-16
+July 01, 2015
+Ashadha 10, 1937 (Saka)
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Dear Sir/Madam,
+Master Circular - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+Please refer to the
+Master Circular RBI/2014-15/91 DBOD.No.Ret.BC.11/12.01.001/2014-15 dated July 01, 2014
+updating instructions/guidelines issued to the Scheduled Commercial Banks (SCBs) on CRR/SLR till June 30, 2014. This
+Master Circular
+consolidates instructions on the above matters issued up to June 30, 2015.
+Yours faithfully,
+(Sudha Damodar)
+Chief General Manager
+Encls: as above
+Master Circular - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)
+Table of Contents
+1
+Introduction
+1.1
+Cash Reserve Ratio (CRR)
+1.2
+Maintenance of CRR
+1.3
+Incremental CRR
+1.4
+Computation of Demand and Time Liabilities (DTL)
+1.5
+Demand Liabilities
+1.6
+Time Liabilities
+1.7
+Other Demand and Time Liabilities (ODTL)
+1.8
+Assets with the Banking System
+1.9
+Borrowings from abroad by banks in India
+1.10
+Arrangements with Correspondent Banks for Remittance Facilities
+1.11
+Liabilities not to be included for DTL/NDTL Computation
+1.12
+Exempted Categories
+1.13
+Loans out of Foreign Currency Non-Resident (FCNR)[B] Deposits and Inter-Bank Foreign Currency (IBFC) Deposits
+1.14
+Procedure for computation of CRR
+1.15
+Maintenance of CRR on daily basis
+1.16
+No Interest Payment on Eligible Cash Balances Maintained by Scheduled Commercial Banks (SCBs) with Reserve Bank of India under CRR
+1.17
+Fortnightly Return in Form A (CRR)
+1.18
+Penalties
+2
+Maintenance of Statutory Liquidity Ratio (SLR)
+2.1
+Procedure for Computation of SLR
+2.2
+Classification and Valuation of Approved Securities for SLR
+2.3
+Penalties
+2.4
+Return in Form VIII (SLR)
+2.5
+Correctness of Computation of DTL to be certified by Statutory Auditors
+Annex-I
+Annex-II
+Appendix
+A. Purpose
+– This Master Circular prescribes the broad details of the Reserve Requirements.
+B. Classification
+- A statutory guideline issued by the RBI under Section 35A of the Banking Regulation Act, 1949.
+C. Previous Instructions
+- This Master Circular is a compilation of the instructions contained in the circulars issued by the Reserve Bank of India listed in the Appendix, which are operational as on the date of this circular.
+D. Scope of Application
+- This Master Circular is applicable to all Scheduled Commercial Banks (SCBs) excluding Regional Rural Banks.
+1.
+Introduction
+With a view to monitoring compliance of maintenance of statutory reserve requirements viz. CRR and SLR by the SCBs, the Reserve Bank of India has prescribed statutory returns i.e. Form A Return (for CRR) under Section 42(2) of the Reserve Bank of India (RBI) Act, 1934 and Form VIII Return (for SLR) under Section 24 of the Banking Regulation Act, 1949.
+1.1
+CRR
+In terms of Section 42(1) of the RBI Act, 1934 the Reserve Bank, having regard to the needs of securing the monetary stability in the country, prescribes the CRR for SCBs without any floor or ceiling rate.
+1.2
+Maintenance of CRR
+At present, effective from the fortnight beginning February 09, 2013, the CRR is prescribed at 4.00 per cent of a bank's total of DTL adjusted for the exemptions discussed in paragraphs 1.11 and 1.12.
+1.3
+Incremental CRR
+In terms of Section 42(1A) of RBI Act, 1934, the SCBs are required to maintain, in addition to the balances prescribed under Section 42(1) of the Act, an additional average daily balance, the amount of which shall not be less than the rate specified by the Reserve Bank in the notification published in the Gazette of India from time to time. Such additional balance will be calculated with reference to the excess of the total of DTL of the bank as shown in the Returns referred to in Section 42(2) of the RBI Act, 1934 over the total of its DTL at the close of the business on the date specified in the notification.
+At present no incremental CRR is required to be maintained by the banks.
+1.4
+Computation of DTL
+Liabilities of a bank may be in the form of demand or time deposits or borrowings or other miscellaneous items of liabilities. As defined under Section 42 of the RBI Act, 1934, liabilities of a bank may be towards the banking system or towards others in the form of demand and time deposits or borrowings or other miscellaneous items of liabilities. As the Reserve Bank of India has been authorized in terms of Section 42(1C) of the RBI Act, 1934, to specify whether any transaction or class of transactions would be regarded as a liability of banks in India, banks are advised to approach the RBI in case of any question as to whether any transaction would be regarded as reservable liability.
+1.5
+Demand Liabilities
+Demand Liabilities of a bank are liabilities which are payable on demand. These include current deposits, demand liabilities portion of savings bank deposits, margins held against letters of credit/guarantees, balances in overdue fixed deposits, cash certificates and cumulative/recurring deposits, outstanding Telegraphic Transfers (TTs), Mail Transfers (MTs), Demand Drafts (DDs), unclaimed deposits, credit balances in the Cash Credit account and deposits held as security for advances which are payable on demand. Money at Call and Short Notice from outside the banking system should be shown against liability to others.
+1.6
+Time Liabilities
+Time Liabilities of a bank are those which are payable otherwise than on demand. These include fixed deposits, cash certificates, cumulative and recurring deposits, time liabilities portion of savings bank deposits, staff security deposits, margin held against letters of credit, if not payable on demand, deposits held as securities for advances which are not payable on demand and Gold deposits.
+1.7
+Other Demand and Time Liabilities (ODTL)
+ODTL include interest accrued on deposits, bills payable, unpaid dividends, suspense account balances representing amounts due to other banks or public, net credit balances in branch adjustment account, any amounts due to the banking system which are not in the nature of deposits or borrowing. Such liabilities may arise due to items like collection of bills on behalf of other banks, interest due to other banks and so on. If a bank cannot segregate the liabilities to the banking system, from the total of ODTL, the entire ODTL may be shown against item II (c) 'Other Demand and Time Liabilities' of the Return in Form 'A' and average CRR maintained on it.
+The balance outstanding in the blocked account pertaining to segregated outstanding credit entries for more than 5 years in inter-branch adjustment account, the margin money on bills purchased / discounted and gold borrowed by banks from abroad, should also be included in ODTL.
+Cash collaterals received under collateralized derivative transactions should be included in the bank’s DTL/NDTL for the purpose of reserve requirements as these are in the nature of ‘outside liabilities’. Interest accrued on deposits should be calculated on each reporting fortnight (as per the interest calculation methods applicable to various types of accounts) so that the bank’s liability in this regard is fairly reflected in the total NDTL of the same fortnightly return.
+1.8
+Assets with the Banking System
+Assets with the banking system include balances with banks in current account, balances with banks and notified financial institutions in other accounts, funds made available to banking system by way of loans or deposits repayable at call or short notice of a fortnight or less and loans other than money at call and short notice made available to the banking system. Any other amounts due from the banking system which cannot be classified under any of the above items are also to be taken as assets with the banking system.
+1.9
+Borrowings from abroad by banks in India
+Loans/borrowings from abroad by banks in India will be considered as 'liabilities to others' and will be subject to reserve requirements. Upper Tier II instruments raised and maintained abroad shall be reckoned as liability for the computation of DTL for the purpose of reserve requirements.
+1.10
+Arrangements with Correspondent Banks for Remittance Facilities
+When a bank accepts funds from a client under its remittance facilities scheme, it becomes a liability (liability to others) in its books. The liability of the bank accepting funds will extinguish only when the correspondent bank honours the drafts issued by the accepting bank to its customers. As such, the balance amount in respect of the drafts issued by the accepting bank on its correspondent bank under the remittance facilities scheme and remaining unpaid should be reflected in the accepting bank's books as liability under the head 'Liability to others in India' and the same should also be taken into account for computation of DTL for CRR/SLR purpose.
+The amount received by correspondent banks has to be shown as 'Liability to the Banking System' by them and not as 'Liability to others' and this liability could be netted off by the correspondent banks against the inter-bank assets. Likewise sums placed by banks issuing drafts/interest/dividend warrants are to be treated as 'Assets with banking system' in their books and can be netted off from their inter-bank liabilities.
+1.11
+Liabilities not to be included for DTL/NDTL computation
+The under-noted liabilities will not form part of liabilities for the purpose of CRR and SLR:
+a) Paid up capital, reserves, any credit balance in the Profit & Loss Account of the bank, amount of any loan taken from the RBI and the amount of refinance taken from Exim Bank, NHB, NABARD, SIDBI;
+b) Net income tax provision;
+c) Amount received from DICGC towards claims and held by banks pending adjustments thereof;
+d) Amount received from ECGC by invoking the guarantee;
+e) Amount received from insurance company on ad-hoc settlement of claims pending judgement of the Court;
+f) Amount received from the Court Receiver;
+g) The liabilities arising on account of utilization of limits under Bankers’ Acceptance Facility (BAF);
+h) District Rural Development Agency (DRDA) subsidy of ₹10,000/- kept in Subsidy Reserve Fund account in the name of Self Help Groups;
+i) Subsidy released by NABARD under Investment Subsidy Scheme for Construction/Renovation/Expansion of Rural Godowns;
+j) Net unrealized gain/loss arising from derivatives transaction under trading portfolio;
+k) Income flows received in advance such as annual fees and other charges which are not refundable;
+l) Bill rediscounted by a bank with eligible financial institutions as approved by RBI;
+1.12
+Exempted Categories
+SCBs are exempted from maintaining CRR on the following liabilities:
+i. Liabilities to the banking system in India as computed under clause (d) of the explanation to Section 42(1) of the RBI Act, 1934;
+ii. Credit balances in ACU (US$) Accounts; and
+iii. Demand and Time Liabilities in respect of their Offshore Banking Units (OBU).
+iv. The eligible amount of incremental FCNR (B) and NRE deposits of maturities of three years and above from the base date of July 26, 2013, and outstanding as on March 7, 2014, till their maturities/pre-mature withdrawals, and
+v. Minimum of Eligible Credit (EC) and outstanding Long term Bonds (LB) to finance Infrastructure Loans and affordable housing loans, as per the circular
+DBOD.BP.BC.No.25/08.12.014/2014-15 dated July 15, 2014
+extant instructions.
+1.13
+Loans out of FCNR (B) Deposits and Inter-Bank Foreign Currency (IBFC) Deposits
+Loans out of Foreign Currency Non–Resident Accounts (Banks), (FCNR [B] Deposits Scheme) and Inter-Bank Foreign Currency (IBFC) deposits should be included as part of bank credit while reporting in Form ’A’ Return. For the purpose of reporting, banks should convert their foreign currency assets/liabilities (including foreign currency borrowings) in USD, GBP, JPY and Euro into INR at RBI Reference Rates announced on the Reserve Bank of India website. As regards conversion of assets/liabilities in other currencies, banks may use New York Closing Rate pertaining to the day end of the Reporting Friday, for converting such currencies into USD and then use the RBI Reference Rate for USD / INR for the same day for conversion into INR.
+1.14
+Procedure for Computation of CRR
+In order to improve cash management by banks, as a measure of simplification, a lag of one fortnight in the maintenance of stipulated CRR by banks was introduced with effect from the fortnight beginning November 06, 1999.
+1.15
+Maintenance of CRR on Daily Basis
+With a view to providing flexibility to banks in choosing an optimum strategy of holding reserves depending upon their intra fortnight cash flows, all SCBs are required to maintain minimum CRR balances up to 95 per cent of the average daily required reserves for a reporting fortnight on all days of the fortnight with effect from the fortnight beginning September 21, 2013.
+1.16
+No Interest Payment on Eligible Cash Balances maintained by SCBs with RBI under CRR
+In view of the amendment carried out to RBI Act 1934, omitting sub-section (1B) of Section 42, the Reserve Bank does not pay any interest on the CRR balances maintained by SCBs with effect from the fortnight beginning March 31, 2007.
+1.17
+Fortnightly Return in Form A (CRR)
+Under Section 42(2) of the RBI Act, 1934, all SCBs are required to submit to Reserve Bank a provisional Return in Form 'A' within 7 days from the expiry of the relevant fortnight which is used for preparing press communiqué. The final Form 'A' Return is required to be submitted to RBI within 20 days from expiry of the relevant fortnight. Based on the recommendation of the Working Group on Money Supply: Analytics and Methodology of Compilation, all SCBs in India are required to submit from the fortnight beginning October 9, 1998, Memorandum to Form 'A' Return giving details about paid-up capital, reserves, time deposits comprising short-term (of contractual maturity of one year or less) and long-term (of contractual maturity of more than one year), certificates of deposits, NDTL, total CRR requirement etc., Annexure A to Form ‘A’ Return showing all foreign currency liabilities and assets and Annexure B to Form ‘A’ Return giving details about investment in approved securities, investment in non-approved securities, memo items such as subscription to shares /debentures / bonds in primary market and subscriptions through private placement.
+The present practice of calculation of the proportion of demand liabilities and time liabilities by SCBs in respect of their savings bank deposits on the basis of the position as at the close of business on 30th September and 31st March every year (cf. RBI circular DBOD.No.BC.142/09.16.001/97-98 dated November 19, 1997) shall continue in the new system of interest application on savings bank deposits on a daily product basis. The average of the minimum balances maintained in each of the month during the half year period shall be treated by the bank as the amount representing the "time liability” portion of the savings bank deposits. When such an amount is deducted from the average of the actual balances maintained during the half year period, the difference would represent the "demand liability” portion. The proportions of demand and time liabilities so obtained for each half year shall be applied for arriving at demand and time liabilities components of savings bank deposits for all reporting fortnights during the next half year.
+1.18
+Penalties
+From the fortnight beginning June 24, 2006, penal interest is charged as under in cases of default in maintenance of CRR by SCBs:
+(i) In case of default in maintenance of CRR requirement on a daily basis which is currently 95 per cent of the total CRR requirement, penal interest will be recovered for that day at the rate of three per cent per annum above the Bank Rate on the amount by which the amount actually maintained falls short of the prescribed minimum on that day and if the shortfall continues on the next succeeding day/s, penal interest will be recovered at the rate of five per cent per annum above the Bank Rate.
+(ii) In cases of default in maintenance of CRR on average basis during a fortnight, penal interest will be recovered as envisaged in sub-section (3) of Section 42 of Reserve Bank of India Act, 1934.
+SCBs are required to furnish the particulars such as date, amount, percentage, reason for default in maintenance of requisite CRR and also action taken to avoid recurrence of such default.
+2.
+Statutory Liquidity Ratio (SLR)
+Consequent upon amendment to the Section 24 of the Banking Regulation Act, 1949 through the Banking Regulation (Amendment) Act, 2007 replacing the Regulation (Amendment) Ordinance, 2007, effective January 23, 2007, the Reserve Bank can prescribe the SLR for SCBs in specified assets. The value of such assets of a SCB shall not be less than such percentage not exceeding 40 per cent of its total DTL in India as on the last Friday of the second preceding fortnight as the Reserve Bank may, by notification in the Official Gazette, specify from time to time.
+SCBs can participate in the Marginal Standing Facility (MSF) Scheme introduced by Reserve Bank with effect from May 09, 2011. Under this facility, the eligible entities may borrow up to two per cent of their respective NDTL outstanding at the end of the second preceding fortnight from April 17, 2012. Additionally, the eligible entities may also continue to access overnight funds under this facility against their excess SLR holdings. In the event, the banks’ SLR holding falls below the statutory requirement up to two per cent of their NDTL, banks will not have the obligation to seek a specific waiver for default in SLR compliance arising out of use of this facility in terms of notification issued under sub section (2A) of section 24 of the Banking Regulation Act, 1949.
+Within the mandatory SLR requirement, Government securities to the extent allowed by the RBI under Marginal Standing Facility (MSF) are permitted to be reckoned as the Level 1 High Quality Liquid Assets (HQLAs) for the purpose of computing Liquidity Coverage Ratio (LCR) of banks. In addition to this, banks are permitted to reckon up to another 5 per cent of their NDTL within the mandatory SLR requirement as level 1 HQLA. This is the Facility to Avail Liquidity for Liquidity Coverage Ratio that was notified vide DBR.BP.BC.No.52/21.04.098/2014-15.
+Reserve Bank has specified vide
+notification DBR.No.Ret.BC.69/12.02.001/2014-15 dated February 03, 2015
+that w.e.f. the fortnight beginning February 07, 2015, every SCB shall continue to maintain in India assets as detailed below, the value of which shall not, at the close of business on any day, be less than 21.5 per cent of the total NDTL as on the last Friday of the second preceding fortnight valued in accordance with the method of valuation specified by the Reserve Bank of India from time to time:
+(a) Cash or (b) in Gold valued at a price not exceeding the current market price, or (c) Investment in the following instruments which will be referred to as "Statutory Liquidity Ratio (SLR) securities":
+(i) Dated securities issued up to May 06, 2011 as listed in the Annex to Notification
+DBOD.No.Ret.91/12.02.001/2010-11 dated May 09, 2011
+;
+(ii) Treasury Bills of the Government of India;
+(iii) Dated securities of the Government of India issued from time to time under the market borrowing programme and the Market Stabilization Scheme;
+(iv) State Development Loans (SDLs) of the State Governments issued from time to time under the market borrowing programme; and
+(v) Any other instrument as may be notified by the Reserve Bank of India.
+Provided that the securities (including margin) referred to above, if acquired under the Reserve Bank- Liquidity Adjustment Facility (LAF), shall not be treated as an eligible asset for this purpose.
+Explanation:
+1. For the above purpose, "market borrowing programme" shall mean the domestic rupee loans raised by the Government of India and the State Governments from the public and managed by the Reserve Bank of India through issue of marketable securities, governed by the Government Securities Act, 2006 and the Regulations framed there under, through an auction or any other method, as specified in the Notification issued in this regard.
+2. Encumbered SLR securities shall not be included for the purpose of computing the percentage specified above.
+Provided that for the purpose of computing the percentage of assets referred to hereinabove, the following shall be included, viz:
+(i) securities lodged with another institution for an advance or any other credit arrangement to the extent to which such securities have not been drawn against or availed of; and,
+(ii) securities offered as collateral to the Reserve Bank of India for availing liquidity assistance from Marginal Standing Facility (MSF) up to two per cent of the total NDTL in India carved out of the required SLR portfolio of the bank concerned.
+3. In computing the amount for the above purpose, the following shall be deemed to be cash maintained in India:
+(i) The deposit required under sub-section (2) of Section 11 of the Banking Regulation Act, 1949 to be made with the Reserve Bank by a banking company incorporated outside India;
+(ii) Any balance maintained by a scheduled bank with the Reserve Bank in excess of the balance required to be maintained by it under Section 42 of the Reserve Bank of India Act,1934 (2 of 1934);
+(iii) Net balance in current accounts with other SCBs in India.
+Note:
+1. With a view to disseminating information on the SLR status of a Government security, it has been decided that:
+(i) the SLR status of securities issued by the Government of India and the State Governments will be indicated in the Press Release issued by the Reserve Bank of India at the time of issuance of the securities; and,
+(ii) an updated and current list of the SLR securities will be posted on the Reserve Bank's website (
+www.rbi.org.in
+) under the link "Database on Indian Economy”
+2. The cash management bill will be treated as Government of India Treasury Bill and accordingly shall be treated as SLR security.
+2.1
+Procedure for Computation of SLR
+The procedure to compute total NDTL for the purpose of SLR under Section 24 (2A) of Banking Regulation Act, 1949 is broadly similar to the procedure followed for CRR. The liabilities mentioned under Section 1.11 will not form part of liabilities for the purpose of SLR also. SCBs are required to include inter-bank term deposits / term borrowing liabilities of all maturities in 'Liabilities to the Banking System'. Similarly, banks should include their inter-bank assets of term deposits and term lending of all maturities in 'Assets with the Banking System' for computation of NDTL for SLR purpose. Additionally, liabilities mentioned at Para 1.12(iv) and 1.12(v) are exempted from SLR requirement.
+2.2
+Classification and Valuation of Approved Securities for SLR
+As regards classification and valuation of approved securities, banks may be guided by the instructions contained in our Master Circular (as updated from time to time) on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by banks.
+2.3
+Penalties
+If a banking company fails to maintain the required amount of SLR, it shall be liable to pay to RBI in respect of that default, the penal interest for that day at the rate of three per cent per annum above the Bank Rate on the shortfall and if the default continues on the next succeeding working day, the penal interest may be increased to a rate of five per cent per annum above the Bank Rate for the concerned days of default on the shortfall.
+2.4
+Return in Form VIII (SLR)
+i) Banks should submit to the Reserve Bank before 20th day of every month, a Return in Form VIII showing the amounts of SLR held on alternate Fridays during immediate preceding month with particulars of their DTL in India held on such Fridays or if any such Friday is a public holiday under the Negotiable Instruments Act, 1881, at the close of business on preceding working day.
+ii) Banks should also submit a statement as Annexure to Form VIII Return giving daily position of (a) assets held for the purpose of compliance with SLR, (b) excess cash balances maintained by them with RBI in the prescribed format, and (c) mode of valuation of securities.
+2.5
+Correctness of computation of DTL to be certified by Statutory Auditors
+The Statutory Auditors should verify and certify that all items of outside liabilities, as per the bank’s books had been duly compiled by the bank and correctly reflected under DTL/NDTL in the fortnightly/monthly statutory returns submitted to Reserve Bank for the financial year.
+Appendix
+List of circulars consolidated by the Master Circular
+Sl No.
+Corresponding
+paragraph
+number in this
+Master Circular
+Circular No.
+Date
+Subject
+1
+1.2
+RBI/2012-2013/401
+DBOD.No.Ret.BC.76/12.01.001/2012-13
+29/01/2013
+Section 42(1) of Reserve Bank of India Act,1934-Maintenance of Cash Reserve Ratio
+2
+1.5, 1.6, 1.7
+DBOD.No.Leg. BC.34/C.233A-85
+23/03/1985
+Demand Liabilities, Time Liabilities, ODTL
+3
+1.7
+DBOD.No.Ret.BC 149/C 236(G)71
+27/12/1971
+ODTL
+4
+1.7
+DBOD.No.BC.58/ 12.02.001/94-95
+13/05/1995
+Margin money on bills discounted/purchased
+5
+1.7
+Mail Box Clarification
+25/04/2013
+Inclusion of Accrued Interest in the NDTL for maintenance of CRR/SLR
+6
+1.9
+DBOD.No.BC. 111/12.02.001/97
+13/10/1997
+Borrowings from banks
+abroad-Maintenance of reserve requirement
+7
+1.9
+DBOD.BP.BC.57/21.01.002/2005-2006
+January 25, 2006
+Enhancement of Banks’ Capital Raising Options for Capital Adequacy Purposes
+8
+1.10
+DBOD.No.Ret.BC. 14/12.01.001/2003-04
+21/08/2003
+Arrangements with correspondent banks for remittance facilities
+9
+1.11(c)
+DBOD.No.Ret.BC. 40/C.236(G)Spl-86
+27/03/1986
+Amount received from DICGC
+10
+1.11(d,e,f)
+DBOD.No.Ret.BC. 98/C.96(Ret)-86
+12/09/1986
+Exclusion from NDTL- Receipt from ECGC, Insurance Company and Court Receiver
+11
+1.11(g)
+DBOD.No.BC.191 /12.01.001/93
+02/11/1993
+Liabilities under
+Bankers Acceptance Facility (BAF)
+12
+1.11(h)
+RPCD.SP.BC.No.06/09.01.01/2006-07
+07/07/2006
+Swarnajayanti Swarozgar Yojana
+13
+1.11(i)
+RPCD.PLFS.BC. No.2/05.02.02(RG)/
+2003-04
+03/07/2003
+Capital Investment Subsidy
+Scheme for Construction/Renovation/ Expansion of Rural Godowns
+14
+1.11(m)
+DBOD.No.Ret.BC.93/ 12.01.001/2013-14
+31/01/2014
+Section 42(1) of RBI Act, 1934 and Section 24 of the BR Act, 1949 – FCNR(B)/NRE Deposits – Exemption from maintenance of CRR/SLR and exclusion from ANBC for Priority Sector Lending
+15
+1.11(n)
+DBOD.BP.BC.No.25/08.12.014/2014-15
+15/07/2014
+Issue of Long Term Bonds by Banks – Financing of Infrastructure and Affordable Housing
+16
+1.12
+RBI/2009-10/208
+DBOD.No.Ret.BC.57/12.01.001/2009-10
+05/11/2009
+Maintenance of CRR on exempted categories
+17
+1.12(ii)
+DBOD.No.BC.82 /12.01.001/2001-2002
+26/03/2002
+Maintenance of CRR-ACU Dollar Funds-Exemption of
+18
+1.12(iii)
+DBOD.IBS.BC.88/ 23.13.004/2002-03
+27/03/2003
+Offshore Banking Units (OBUs) in Special Economic Zones (SEZs)
+19
+1.13
+DBOD.No.BC.50/ 12.01.001/2000-01
+07/11/2000
+Collection of Data from Scheduled Commercial Banks in Annexure A and B
+20
+1.13
+DBOD.NO.Ret.BC.113/12.01.001/2011-12
+29/06/2012
+Section 42 of the RBI Act, 1934-Maintenance of CRR on Foreign Currency (Non-Resident) [FCNR(B)] Scheme
+21
+1.13
+Mail Box Clarification
+17/08/2012
+Maintenance of CRR on FCNR(B) Scheme
+22
+1.15
+DBOD.No.Ret.BC.55/12.01.001/2013-14
+20/09/2013
+Section 42(1) of the RBI Act, 1934 -Change in Daily Minimum Cash Reserve Maintenance Requirement
+23
+1.16
+RBI/2006-2007/331
+DBOD.No.Ret.BC.82/12.01.001/2006-07
+20/04/2007
+Maintenance of Cash
+Reserve Ratio (CRR)
+24
+1.17
+RBI/2006-2007/106
+10/08/2006
+Section 42 (1) of the RBI Act, 1934
+25
+1.17
+Mail Box Clarification
+30/11/2010
+Apportionment of Savings Bank Deposits into Demand and Time Portions
+26
+1.18
+DBOD.BC.89/12.01.001/98-99
+24/08/1998
+Return in Form 'A'
+27
+1.18
+DBOD.No.BC.50/12.01.001/2000-01
+07/11/2000
+Collection of Data from Scheduled Commercial Banks in Annexure A and B
+28
+2
+DBR.Ret.BC.70/12.02.001/2014-15
+03/02/2015
+Section 24 of the Banking Regulation Act, 1949 - Maintenance of SLR
+29
+2
+DBOD.No.Ret.BC.33/12.02.001/2013-14
+17/07/2013
+Section 24 of the Banking Regulation Act, 1949 - Maintenance of SLR-Marginal Standing Facility (MSF)
+30
+2
+DBR.BP.BC.No.52/21.04.098/2014-15
+28/11/2014
+Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards
+31
+2 (c)(i)
+DBOD. No.Ret.BC. 91/12.02.001/2010-11
+09/05/2011
+Maintenance of SLR
+32
+2 Note (i) (ii)
+DBOD.No. Ret. BC. 91/12.02.001/2010-11
+09/05/2011
+Maintenance of SLR
+33
+2 Note (2)
+DBOD.No.Ret.BC.36/12.02.001/2009-10
+01/09/2009
+Maintenance of SLR
+34
+2.2
+DBOD.No.BC.87/12.02.001/2001-2002
+10/04/2002
+Valuation of Securities for the purpose of SLR
+35
+2.4(ii)
+CPC.BC.69/279 (A)-84
+30/10/1984
+Data on maintenance of SLR -Supplemental information to the Special Return

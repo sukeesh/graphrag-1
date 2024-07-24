@@ -1,0 +1,28 @@
+(299 kb)
+Processing of e-mandates for recurring transactions
+RBI/2022-23/73
+CO.DPSS.POLC.No.S-518/02.14.003/2022-23
+June 16, 2022
+The Chairman / Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks, including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Payments Banks /
+Small Finance Banks / Local Area Banks /
+Non-bank Prepaid Payment Instrument Issuers / Authorised Card Payment Networks /
+National Payments Corporation of India
+Madam / Dear Sir,
+Processing of e-mandates for recurring transactions
+A reference is invited to our circulars
+DPSS.CO.PD.No.447/02.14.003/2019-20 dated August 21, 2019
+,
+DPSS.CO.PD No.1324/02.23.001/2019-20 dated January 10, 2020
+,
+DPSS.CO.PD No.754/02.14.003/2020-21 dated December 04, 2020
+and
+CO.DPSS.POLC.No.S34/02-14-003/2020-2021 dated March 31, 2021
+(collectively referred to as “e-mandate framework”). The e-mandate framework prescribed an Additional Factor of Authentication (AFA), inter alia, while processing the first transaction in case of e-mandates / standing instructions on cards, prepaid payment instruments and Unified Payments Interface. For subsequent transactions with transaction values up to ₹5,000/- (AFA limit), prescription of AFA was waived.
+2. On a review of implementation of the e-mandate framework and the protection available to customers, it has been decided to increase the aforesaid AFA limit from ₹5,000/- to ₹15,000/- per transaction.
+3. This circular is issued under Section 10 (2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect immediately.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager

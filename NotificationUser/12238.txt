@@ -1,0 +1,51 @@
+(201 kb)
+Regulations Review Authority (RRA 2.0) – Interim Recommendations-Discontinuation/Merger/Online Submission of Returns
+RBI/2021-2022/167
+DCM (Admin) No. S858/19.01.010/2021-22
+February 18, 2022
+The Chairman / Managing Director
+The Chief Executive Officer
+All Banks
+Madam/ Dear Sir,
+Regulations Review Authority (RRA 2.0) – Interim Recommendations-Discontinuation/Merger/Online Submission of Returns
+Please refer to the
+press release dated February 18, 2022
+issued on the captioned subject.
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to discontinue/merge the returns listed in the
+Annex 1
+. Further, it is also proposed to convert, the paper based/ e-mail-based returns listed in the
+Annex 2
+, into online filing.
+3. The exact date of discontinuation/merger and online filing of the returns, would be notified in due course.
+Yours faithfully,
+(Suman Ray)
+Chief General Manager-in-Charge
+Encl: As above
+Annex - 1
+List of Returns to be Discontinued/ Merged
+S. No.
+Return Name
+Return Description
+1
+Statement of chest slips
+Slips received from currency chests indicate deposits and withdrawals of cash from currency chests on day-to-day basis. This helps to arrive at the daily closing balance of currency chests.
+2
+Statement of link offices
+These are received by Issue Department from link offices of banks concerned and show currency transfer position of banks. The current account of the banks concerned are deleted and credited based on these statements. (Submitted online through ICCOMS daily)
+Annex - 2
+List of Returns to be converted into Online submission
+S. No
+Return Name
+Return Description
+1
+RBI note refund rules - statement of defective notes adjudicated at all bank branches
+Statement of defective notes adjudicated at currency chests branches.
+2
+Format for furnishing addresses etc., particulars of Forged Note Vigilance Cell (FNVC) to RBI
+The return conveys the following particulars -Address of FNVC, Name and designation of officer-in-charge, Telephone number, Fax number, E-mail address.
+3
+Statement showing details of counterfeit bank notes detected by the branch during the month
+The return comprises of two parts -(i) Denomination-wise and State/Union Territory-wise details of forged notes detected by the branch (ii) Details of cases of FIR filed with police.
+4
+FNVC to submit status report covering certain important aspects of the functions required to be undertaken by it.
+The status report should cover dissemination and implementation of RBI instructions on counterfeit notes, compilation of data on counterfeit notes and its submission to RBI and FIU-IND, sharing information thus compiled with bank's CVO, conducting surprise checks at currency chests where shortage/counterfeit notes detected, ensuring operation of NSMs at all currency chests/back offices, ensuring only machine checked notes fed into ATMs, put in place adequate safeguards during processing and in transit of notes etc.

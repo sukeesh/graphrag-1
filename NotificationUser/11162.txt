@@ -1,0 +1,68 @@
+(97 kb)
+Risk Management and Inter-Bank Dealings – Simplified Hedging Facility
+RBI/2017-18/88
+A.P. (DIR Series) Circular No. 11
+November 09, 2017
+To,
+All Authorised Dealer Category - I Banks
+Madam/Sir,
+Risk Management and Inter-Bank Dealings – Simplified Hedging Facility
+Attention of Authorised Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (
+Notification No.FEMA. 25/RB-2000 dated May 3, 2000
+) issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (Act 42 of 1999), as amended from time to time, the
+Master Direction - Risk Management and Inter-Bank Dealings dated July 5, 2016
+, as amended from time to time, and the announcement made in the Statement on Developmental and Regulatory Policies Reserve Bank of India dated August 02, 2017 (para 7) on the simplified hedging facility
+2. The scheme of simplified hedging facility was first announced by the RBI in August 2016 and the draft scheme was released on April 12, 2017. The facility is being introduced with a view to simplify the process for hedging exchange rate risk by reducing documentation requirements, avoiding prescriptive stipulations regarding products, purpose and hedging flexibility, and to encourage a more dynamic and efficient hedging culture.
+3. Necessary amendments (Notification No. FEMA 388/2017-RB dated October 24, 2017) to Foreign Exchange Management (Foreign Exchange Derivatives Contracts) Regulations, 2000 (
+Notification No. FEMA.25/RB-2000 dated May 3, 2000
+) (Regulations) have been notified in the Official Gazette vide G.S.R.No.1324 (E) dated October 24, 2017 a copy of which is given in the
+Annex II
+to this circular. These regulations have been issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (42 of 1999). The
+Master Direction on Risk Management & Interbank dealings dated July 5, 2016
+, as amended from time to time, has been updated accordingly.
+4. The guidelines of this facility are given in
+Annex I
+to this circular and this facility will be effective from January 01, 2018.
+5. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers.
+6. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully
+(T Rabi Sankar)
+Chief General Manager
+[Annex I to A.P. (DIR Series) Circular No. 11 dated November 09, 2017]
+Simplified Hedging Facility Guidelines
+Users:
+Resident and non-resident entities, other than individuals.
+Purpose:
+To hedge exchange rate risk on transactions, contracted or anticipated, permissible under Foreign Exchange Management Act (FEMA), 1999
+1
+.
+Products:
+Any Over the Counter (OTC) derivative or Exchange Traded Currency Derivative (ETCD) permitted under FEMA, 1999.
+Cap on Outstanding Contracts:
+USD 30 million, or its equivalent, on a gross basis.
+Designated Bank:
+Any Authorised Dealer Category-I (AD Cat-I) bank designated as such by the user.
+Operational Guidelines, Terms and Conditions
+i. The user shall appoint an AD Cat-I bank as its “Designated Bank”. The designated bank will assess the hedging requirement of the user and set a limit up to the stipulated cap on the outstanding contracts.
+ii. If hedging requirement of the user exceeds the limit in course of time, the designated bank may re-assess and, at its discretion, extend the limit up to 150% of the stipulated cap.
+iii. Hedge contracts in OTC market can be booked with any AD Cat-I bank, provided the underlying cash flow takes place with the same bank.
+iv. Cost reduction structures can be booked by users provided that resident unlisted companies can use such structures only if they have a minimum net worth of Rs.200 crores
+v. Users are not required to furnish any documentary evidence for establishing underlying exposure under this facility. Users may, however, provide basic details of the underlying transaction in a standardised format
+2
+, only in the case of OTC hedge contracts.
+vi. Cancelled contracts may be freely rebooked with the same bank.
+vii. In case of hedge contracts booked in OTC market, while losses will be recovered from the user, net gains i.e. gains in excess of cumulative losses, if any, will be transferred at the time of delivery of the underlying cash flow. In case of part delivery, net gains will be transferred on a pro-rata basis.
+viii. For hedge contracts on underlying capital account transactions, gains/losses may be transferred to the user as and when they accrue if the underlying asset/liability is already in existence.
+ix. On full utilisation of the limit or in case of breach of limit, user shall not book new contracts under this facility. In such a case, contracts booked earlier under this facility will be allowed to continue till they expire or are closed. Any further hedging requirements thereafter may be booked under other available hedging facilities.
+x. Users booking contracts under this facility shall not book contracts under any other facility in OTC or ETCD market except as provided in para (ix).
+xi. At the end of each financial year, the user will provide the designated bank with a statement signed by the head of finance or the head of the entity, to the effect that,
+Hedge contracts booked in both OTC and ETCD market, under this facility, are backed by underlying exchange rate exposures, either contracted or anticipated.
+The exposures underlying the hedge contracts booked under this facility are not hedged under any other facility.
+xii. On being appointed, the designated bank shall report the details of the users and limits granted to the Trade Repository (TR). On a request by the TR, the exchanges shall report all contracts booked by such users to the TR on a daily basis.
+xiii. The TR will compute user wise outstanding position (across OTC and ETCD market) and provide this information to the designated bank for monitoring. If the outstanding contracts of a user exceeds the limit (or the extended limit, if applicable) the designated bank shall advise the user to stop booking new contracts under this facility.
+xiv. When user migrates to other available facilities, the designated bank shall report this information to the TR. The TR shall update this information in its records and notify the recognized stock exchanges to stop reporting data for the user concerned.
+xv. Banks shall have an internal policy regarding the time limit up to which a hedge contract for a given underlying can be rolled-over or rebooked by the user.
+1
+Rupee denominated bonds issued overseas may be hedged provided it is permitted under contracted exposure hedging.
+2
+Standardized format will be devised by Foreign Exchange Dealers Association of India (FEDAI) and will include details like transaction type, i.e. current account (import, export) or capital account (ECB, FPI, FDI etc.), amount, currency and tenor.

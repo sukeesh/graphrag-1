@@ -1,0 +1,61 @@
+(43 kb)
+Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards /Combating of Financing of Terrorism (CFT) / Obligation of NBFCs under Prevention of Money Laundering Act (PMLA), 2002 Recognising E-Aadhaar as an 'Officially Valid Document' under PML Rules
+RBI/2014-15/122
+DNBS(PD).CC.No 400/03.10.42/2014-15
+July 14, 2014
+All Non-Banking Financial Companies
+Dear Sirs,
+Know Your Customer (KYC) Norms / Anti-Money  Laundering (AML) Standards /Combating of Financing of Terrorism (CFT) /  Obligation of NBFCs under Prevention of  Money Laundering Act (PMLA), 2002 Recognising E-Aadhaar as an 'Officially Valid  Document' under PML Rules
+Please refer to
+paragraph I (11)
+of Master Circular DNBS (PD) CC No.  387/03.10.42/ 2014-15 dated July 1, 2014 on Know Your Customer (KYC)  Norms / Anti-Money Laundering (AML) Standards/Combating of Financing of  Terrorism (CFT) / Obligation of banks under Prevention of Money Laundering Act  (PMLA), 2002 which states that letter issued by Unique Identification Authority  of India (UIDAI) containing details of name, address and Aadhaar number, may be  accepted as an ‘Officially Valid  Document’. Further, while opening accounts based on Aadhaar, NBFCs must satisfy  themselves about the current address of the customer by obtaining required  proof of the same as per extant instructions.
+2. In order to reduce the risk of  identity fraud, document forgery and have paperless KYC verification, UIDAI has  launched its e-KYC service. Accordingly, it has been decided to accept e-KYC  service as a valid process for KYC verification under Prevention of Money  Laundering (Maintenance of Records) Rules, 2005. Further, the information  containing demographic details and photographs made available from UIDAI as a  result of e-KYC process ("which is in an electronic form and accessible so  as to be usable for a subsequent reference") may be treated as an  'Officially Valid Document' under PML Rules. In this connection, it is advised  that while using e-KYC service of UIDAI, the individual user has to authorize  the UIDAI, by explicit consent, to release her or his identity / address  through biometric authentication to the NBFC branches. The UIDAI then transfers  the data of the individual comprising name, age, gender, and photograph of the  individual, electronically to the NBFCs, which may be accepted as valid process  for KYC verification. The broad operational instructions to NBFCs willing to  use the UIDAI e-KYC service on Aadhaar e-KYC service are enclosed as Annex.  Such NBFCs are advised to have proper infrastructure (as specified in
+Annex
+) in  place to enable biometric authentication for e-KYC. Physical Aadhaar card /  letter issued by UIDAI containing details of name, address and Aadhaar number  received through post would continue to be accepted as an 'Officially Valid  Document'.
+3. Further NBFCs may accept e-Aadhaar  downloaded from UIDAI website as an officially valid document subject to the  following:
+a) If  the prospective customer knows only his / her Aadhaar number, the NBFC may  print the prospective customer's e-Aadhaar letter in the NBFC directly from the  UIDAI portal; or adopt e-KYC procedure as mentioned in paragraph 2 above.
+b) If  the prospective customer carries a copy of the e-Aadhaar downloaded elsewhere,  the NBFC may print the prospective customer's e-Aadhaar letter in the NBFC  directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in paragraph  2 above; or confirm identity and address of the resident through simple  authentication service of UIDAI.
+4.  Physical Aadhaar card / letter issued by UIDAI containing details of name,  address and Aadhaar number received through post and e-KYC process mentioned in  the circular referred in paragraph 2 above would continue to be accepted as an  'Officially Valid Document'.
+5.NBFCs  may revise their KYC policy in the light of the above instructions and ensure  strict adherence to the same.
+Yours faithfully,
+(Sindhu Pancholy)
+Deputy General  Manager
+Encl: as above
+Annex
+Operational    Procedure to be followed by NBFCs for e-KYC exercise
+The e-KYC service    of the UIDAI is be leveraged by NBFCs through a secured network. Any NBFC    willing to use the UIDAI e-KYC service is required to sign an agreement with    the UIDAI. The process flow to be followed is as follows :
+1.
+Sign KYC User    Agency (KUA) agreement with UIDAI to enable the NBFC to specifically access    e-KYC service.
+2.
+NBFCs to deploy    hardware and software for deployment of e-KYC service across various delivery    channels. These should be Standardisation Testing and Quality Certification    (STQC) Institute, Department of Electronics & Information Technology,    Government of India certified biometric scanners at NBFC branches as per    UIDAI standards. The current list of certified biometric scanners is given in    the link below :
+http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613.pdf
+3.
+Develop a software    application to enable use of e-KYC across various NBFC branches, as per UIDAI    defined Application Programming Interface (API) protocols. For this purpose    NBFCs will have to develop their own software under the broad guidelines of    UIDAI. Therefore, the software may differ from NBFC to NBFC.
+4.
+Define a procedure    for obtaining customer authorization to UIDAI for sharing e-KYC data with the    NBFC. This authorization can be in
+physical
+(by way of a written    explicit consent authorising UIDAI to share his / her Aadhaar data with the    NBFC for the purpose of opening deposit account) /
+electronic
+form as    defined by UIDAI from time to time.
+5.
+Sample process    flow would be as follows :
+a.
+Customer walks    into branch of NBFC with
+his / her 12-digit Aadhaar number and explicit    consent
+and requests to open a deposit account with Aadhaar based e-KYC.
+b.
+NBFC    representative manning the branch enters the number into NBFC's e-KYC application    software.
+c.
+The customer    inputs his / her biometrics via a UIDAI compliant biometric reader (e.g.    fingerprints on a biometric reader).
+d.
+The software    application captures the Aadhaar number along with biometric data, encrypts    this data and sends it to UIDAI's Central Identities Data Repository (CIDR).
+e.
+The Aadhaar KYC    service authenticates customer data. If the Aadhaar number does not match    with the biometrics, UIDAI server responds with an error with various reason    codes depending on type of error (as defined by UIDAI).
+f.
+If the Aadhaar    number matches with the biometrics, UIDAI responds with digitally signed and    encrypted demographic information [Name, year / date of birth, Gender,    Address, Phone and email (if available)] and photograph. This information is    captured by NBFCs e-KYC application and processed as needed.
+g.
+NBFCs servers auto    populate the demographic data and photograph in relevant fields. It also    records the full audit trail of e-KYC viz. source of information, digital    signatures, reference number, original request generation number, machine ID    for device used to generate the request, date and time stamp with full trail    of message routing, UIDAI encryption date and time stamp, NBFCs decryption    date and time stamp, etc.
+h.
+The photograph and    demographics of the customer can be seen on the screen of computer at NBFC    branches for reference.
+i.
+The customer can    open deposit account subject to satisfying other account opening    requirements.

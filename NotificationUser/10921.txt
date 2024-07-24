@@ -1,0 +1,177 @@
+(72 kb)
+Revised Prompt Corrective Action (PCA) Framework for Banks
+RBI/2016-17/276
+DBS.CO.PPD. BC.No.8/11.01.005/2016-17
+April 13, 2017
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Madam/ Dear Sir
+Revised Prompt Corrective Action (PCA) Framework for Banks
+Please refer to
+RBI circulars No. DBS.CO.PP.BC.9/11.01.005/2002-03 dated December 21, 2002
+and
+DBS.CO.PP.BC.13/11.01.005/2003-04 dated June 15, 2004
+on the scheme of Prompt Corrective Action.
+2. The existing PCA framework for banks has since been reviewed and revised. The salient features are provided in the
+Annex
+.
+3. The provisions of the revised PCA framework will be effective from April 1, 2017 based on the financials of the banks for the year ended March 31, 2017. The framework would be reviewed after three years.
+4. The PCA framework does not preclude the Reserve Bank of India from taking any other action as it deems fit in addition to the corrective actions prescribed in the framework.
+5. The contents of the circular may be brought to the attention of the bank’s Board of Directors.
+Yours faithfully
+(Parvathy V. Sundaram)
+Chief General Manager-in-Charge
+Annex
+The salient features of revised PCA Framework for Banks
+A. Capital, asset quality and profitability continue to be the key areas for monitoring in the revised framework.
+B. Indicators to be tracked for Capital, asset quality and profitability would be CRAR/ Common Equity Tier I ratio
+1
+, Net NPA ratio
+2
+and Return on Assets
+3
+respectively.
+C. Leverage would be monitored additionally as part of the PCA framework.
+D. Breach of any risk threshold (as detailed under) would result in invocation of PCA.
+PCA matrix - Areas, indicators and risk thresholds
+Indicator
+Risk Threshold 1
+Risk Threshold 2
+Risk Threshold 3
+Area
+Capital
+(Breach of either CRAR or CET 1 ratio to trigger PCA)
+CRAR- Minimum regulatory prescription for capital to risk assets ratio + applicable capital conservation buffer(CCB)
+current minimum RBI prescription of 10.25% (9% minimum total capital plus 1.25%* of CCB as on March 31, 2017)
+And/ Or
+Regulatory pre-specified trigger of Common Equity Tier 1 (CET 1min) + applicable capital conservation buffer(CCB)
+current minimum RBI prescription of 6.75% (5.5% plus 1.25%* of CCB as on March 31, 2017)
+Breach of
+either CRAR or CET 1
+ratio to trigger PCA
+upto 250 bps below Indicator
+<10.25% but >=7.75%
+upto 162.50 bps below Indicator
+<6.75% but >= 5.125%
+more than 250 bps but not exceeding 400 bps below Indicator
+<7.75% but >=6.25%
+more than 162.50 bps below but not exceeding 312.50 bps below Indicator
+<5.125% but >=3.625%
+-
+-
+In excess of 312.50 bps below Indicator
+<3.625%
+Asset Quality
+Net Non-performing advances (NNPA) ratio
+>=6.0% but <9.0%
+>=9.0% but < 12.0%
+>=12.0%
+Profitability
+Return on assets (ROA)
+Negative ROA for two consecutive years
+Negative ROA for three consecutive years
+Negative ROA for four consecutive years
+Leverage
+Tier 1 Leverage ratio
+4
+<=4.0% but > = 3.5%
+(leverage is over 25 times the Tier 1 capital)
+< 3.5% (leverage is over 28.6 times the Tier 1 capital)
+*CCB would be 1.875% and 2.5% as on March 31, 2018 and March 31, 2019 respectively.
+Breach of ‘Risk Threshold 3’ of CET1 by a bank would identify a bank as a likely candidate for resolution through tools like amalgamation, reconstruction, winding up, etc.
+In the case of a default on the part of a bank in meeting the obligations to its depositors, possible resolution processes may be resorted to without reference to the PCA matrix.
+E. The PCA framework would apply without exception to all banks operating in India including small banks and foreign banks operating through branches or subsidiaries based on breach of risk thresholds of identified indicators.
+F. A bank will be placed under PCA framework based on the audited Annual Financial Results and the Supervisory Assessment made by RBI. However, RBI may impose PCA on any bank during the course of a year (including migration from one threshold to another) in case the circumstances so warrant.
+Mandatory and discretionary actions
+Specifications
+Mandatory actions
+Discretionary actions
+Risk Threshold 1
+Restriction on dividend distribution/remittance of profits.
+Promoters/owners/parent in the case of foreign banks to bring in capital
+Common menu
+Special Supervisory Interactions
+Strategy related
+Governance related
+Capital related
+Credit risk related
+Market risk related
+HR related
+Profitability related
+Operations related
+Any other
+Risk Threshold 2
+In addition to mandatory actions of Threshold 1,
+Restriction on branch expansion; domestic and/or overseas
+Higher provisions as part of the coverage regime
+Risk Threshold 3
+In addition to mandatory actions of Threshold 1,
+Restriction on branch expansion; domestic and/or overseas
+Restriction on management compensation and directors’ fees, as applicable
+Common menu for selection of discretionary corrective actions
+1. Special Supervisory interactions
+Special Supervisory Monitoring Meetings (SSMMs) at quarterly or other identified frequency
+Special inspections/targeted scrutiny of the bank
+Special audit of the bank
+2. Strategy related actions
+RBI to advise the bank’s Board to:
+Activate the Recovery Plan that has been duly approved by the supervisor
+Undertake a detailed review of business model in terms of sustainability of the business model, profitability of business lines and activities, medium and long term viability, balance sheet projections, etc.
+Review short term strategy focusing on addressing immediate concerns
+Review medium term business plans, identify achievable targets and set concrete milestones for progress and achievement
+Review all business lines to identify scope for enhancement/ contraction
+Undertake business process reengineering as appropriate
+Undertake restructuring of operations as appropriate
+3. Governance related actions
+RBI to actively engage with the bank’s Board on various aspects as considered appropriate
+RBI to recommend to owners (Government/ promoters/ parent of foreign bank branch) to bring in new management/ Board
+RBI to remove managerial persons under Section 36AA of the BR Act 1949 as applicable
+RBI to supersede the Board under Section 36ACA of the BR Act 1949/ recommend supersession of the Board as applicable
+RBI to require bank to invoke claw back and malus clauses and other actions as available in regulatory guidelines, and impose other restrictions or conditions permissible under the BR Act, 1949
+Impose restrictions on directors’ or management compensation, as applicable.
+4. Capital related actions
+Detailed Board level review of capital planning
+Submission of plans and proposals for raising additional capital
+Requiring the bank to bolster reserves through retained profits
+Restriction on investment in subsidiaries/associates
+Restriction in expansion of high risk-weighted assets to conserve capital
+Reduction in exposure to high risk sectors to conserve capital
+Restrictions on increasing stake in subsidiaries and other group companies
+5. Credit risk related actions
+Preparation of time bound plan and commitment for reduction of stock of NPAs
+Preparation of and commitment to plan for containing generation of fresh NPAs
+Strengthening of loan review mechanism
+Restrictions on/ reduction in credit expansion for borrowers below certain rating grades
+Reduction in risk assets
+Restrictions on/ reduction in credit expansion to unrated borrowers
+Reduction in unsecured exposures
+Reduction in loan concentrations; in identified sectors, industries or borrowers
+Sale of assets
+Action plan for recovery of assets through identification of areas (geography wise, industry segment wise, borrower wise, etc.) and setting up of dedicated Recovery Task Forces, Adalats, etc.
+6. Market risk related actions
+Restrictions on/reduction in borrowings from the inter-bank market
+Restrictions on accessing/ renewing wholesale deposits/ costly deposits/ certificates of deposits
+Restrictions on derivative activities, derivatives that permit collateral substitution
+Restriction on excess maintenance of collateral held that could contractually be called any time by the counterparty
+7. HR related actions
+Restriction on staff expansion
+Review of specialized training needs of existing staff
+8. Profitability related actions
+Restrictions on capital expenditure, other than for technological upgradation within Board approved limits
+9. Operations related actions
+Restrictions on branch expansion plans; domestic or overseas
+Reduction in business at overseas branches/ subsidiaries/ in other entities
+Restrictions on entering into new lines of business
+Reduction in leverage through reduction in non-fund based business
+Reduction in risky assets
+Restrictions on non-credit asset creation
+Restrictions in undertaking businesses as specified.
+Any other specific action that RBI may deem fit considering specific circumstances of a bank.
+1
+CET 1 ratio – the percentage of core equity capital, net of regulatory adjustments, to total risk weighted assets as defined in RBI Basel III guidelines
+2
+NNPA ratio – the percentage of net NPAs to net advances
+3
+ROA – the percentage of profit after tax to average total assets
+4
+Tier 1 Leverage ratio – the percentage of the capital measure to the exposure measure as defined in RBI guidelines on leverage ratio.

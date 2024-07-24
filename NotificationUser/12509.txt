@@ -1,0 +1,61 @@
+(251 kb)
+Risk Management and Inter-Bank Dealings - Non-deliverable derivative contracts (NDDCs)
+RBI/2023-24/36
+A. P. (DIR Series) Circular No. 05
+June 06, 2023
+All Authorised Dealer Category – I Banks
+Madam / Sir,
+Risk Management and Inter-Bank Dealings - Non-deliverable derivative contracts (NDDCs)
+Please refer to Paragraph 1 of the
+Statement on Developmental and Regulatory Policies
+announced as a part of the
+first Bi-monthly Monetary Policy Statement for 2023-24 dated April 06, 2023
+regarding development of the onshore non-deliverable derivative market. Attention of Authorised Dealers Category – I (AD Cat-I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (
+Notification No. FEMA.25/RB-2000 dated May 3, 2000
+), as amended from time to time, and
+Master Direction – Risk Management and Inter-Bank Dealings dated July 5, 2016
+, as amended from time to time.
+2. As per the extant regulatory framework, AD Cat-I banks operating International Financial Services Centre (IFSC) Banking Units (IBUs) are permitted to offer non-deliverable derivative contracts (NDDCs) to persons resident outside India. Such derivatives are cash-settled in foreign currency. With a view to developing the onshore INR NDDC market and providing residents the flexibility to efficiently design their hedging programmes, it has been decided to permit:
+(a) AD Cat-I banks operating IBUs to offer NDDCs involving INR to resident non-retail users for the purpose of hedging. Such transactions shall be cash settled in INR; and
+(b) The flexibility of cash settlement of NDDCs transactions between two AD Cat-I banks, and between an AD Cat-I bank and a person resident outside India in INR or any foreign currency.
+3. Accordingly, the amendments being made to the
+Master Direction – Risk Management and Inter-Bank Dealings dated July 5, 2016
+, as amended from time to time, are placed at
+Annex
+herewith.
+4. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+(Dimple Bhandia)
+Chief General Manager
+Annex
+S. no.
+Existing directions
+Revised/Additional directions
+The existing para 1(xii) of Part-A (Section-I), shall be substituted
+i.
+Non-deliverable derivative contract (NDDC) means a foreign exchange derivative contract involving the Rupee, entered into with a person resident outside India and which is settled without involving delivery of the Rupee.
+Non-deliverable derivative contract (NDDC)’ means an OTC foreign exchange derivative contract in which there is no delivery of the notional amount of the underlying currencies of the contract and which is cash settled.
+The opening sentences of the existing para 2(A)(ii) of Part-A (Section-I), shall be substituted
+ii.
+Authorised Dealers shall offer derivative contracts to a user as per the user’s classification in para (i) above. While offering a derivative contract involving INR, other than NDDCs, to a user, and during the life of such contracts, Authorised Dealers shall ensure that:
+Authorised Dealers shall offer derivative contracts to a user as per the users’ classification in para (i) above. While offering a derivative contract involving INR to a user, other than NDDCs offered to persons resident outside India, and during the life of such contracts, Authorised Dealers shall ensure that:
+The existing para 2(A)(x) of Part-A (Section-I), shall be substituted
+iii.
+Banks in India having an Authorised Dealer Category-1 license under FEMA, 1999, and operating International Financial Services Centre (IFSC) Banking Units (IBUs) (as specified in
+circular no. RBI/2014-15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1, 2015
+(as amended from time to time)), shall be eligible to offer non-deliverable derivative contracts involving the Rupee, or otherwise, to persons not resident in India. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).
+Banks in India having an Authorised Dealer Category-I license under FEMA, 1999, and operating International Financial Services Centre (IFSC) Banking Units (IBUs) (as specified in
+circular no. RBI/2014-15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1, 2015
+, as amended from time to time, shall be eligible to offer NDDCs involving the Rupee or otherwise to persons resident outside India. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank). Such transactions can be cash-settled in INR or any foreign currency.
+A new para shall be inserted after the existing para 2(A)(x) of Part-A (Section-I)
+iv.
+-
+xi. Banks in India having an Authorised Dealer Category-I license under FEMA, 1999, and operating IBUs shall also be eligible to offer NDDCs involving INR to resident non-retail users from their branches in India subject to compliance with the directions set out in para 2A(ii) above. Such transactions shall be cash-settled in INR.
+The existing para 3A of Part C, shall be substituted.
+v.
+Authorised dealers having an IFSC Banking Unit (IBU) (as specified in
+circular no. RBI/2014-15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1, 2015
+(as amended from time to time)) may transact in Non-deliverable derivative contracts (NDDCs) with other AD Category 1 banks having IBUs and banks overseas. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank).
+Authorised Dealers having an IFSC Banking Unit (IBU) (as specified in
+circular no. RBI/2014-15/533.DBR.IBD.BC.14570/23.13.004/2014-15 dated April 1, 2015
+(as amended from time to time)) may transact in NDDCs with other AD Category-I banks having IBUs and banks overseas. Banks can undertake such transactions through their IBUs or through their branches in India or through their foreign branches (in case of foreign banks operating in India, through any branch of the parent bank). Such transactions can be cash-settled in INR or any foreign currency.

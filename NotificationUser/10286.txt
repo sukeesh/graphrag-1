@@ -1,0 +1,56 @@
+(896 kb)
+NBFC – Factors (Reserve Bank) Directions, 2012 – Review
+RBI/2015-16/326
+DNBR.CC.PD.No.074/03.10.01/2015-16
+February 18, 2016
+To
+All Non-Banking Financial Companies (NBFCs) – Factors.
+NBFC – Factors (Reserve Bank) Directions, 2012 – Review
+The Reserve Bank of India had reviewed the guidelines on provision of factoring services by banks and specified certain conditions under which banks can departmentally undertake factoring activities. To ensure against regulatory gaps/ arbitrage if any, arising from differential regulations as between NBFC-Factors and banks, the following clarifications/ instructions are being issued to NBFC – Factors for meticulous compliance.
+2. Prudential Norms – Identification as NPA
+It is clarified that receivable acquired by an NBFC- Factor which is not paid within such period of its due date, as applicable in terms of Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 or Non-Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 or Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007, should be treated as Non-Performing Asset (NPA) irrespective of when the receivable was acquired by the NBFC - Factor or whether the factoring was carried out on “with recourse” basis or “non-recourse” basis.
+3. Exposure Norms-Single and Group Borrower Limits
+It is clarified that for the purpose of compliance with concentration of credit norms, exposure shall be reckoned as under:
+In case of factoring on “with-recourse” basis, the exposure would be reckoned on the assignor.
+In case of factoring on “without-recourse” basis, the exposure would be reckoned on the debtor, irrespective of credit risk cover/ protection provided, except in cases of international factoring where the entire credit risk has been assumed by the import factor.
+4. Risk Management
+Proper and adequate control and reporting mechanisms should be put in place before such business is undertaken.
+NBFC-Factors should carry out a thorough credit appraisal of the debtors before entering into any factoring arrangement or prior to establishing lines of credit with the export factor.
+Factoring services should be extended in respect of invoices which represent genuine trade transactions.
+Since under without recourse factoring transactions, the factor is underwriting the credit risk on the debtor, there should be a clearly laid down board-approved limit for all such underwriting commitments.
+5. Exchange of Information
+For the purpose of exchange of information, the assignor will be deemed to be the borrower. Factors and banks should share information about common borrowers. Factors must ensure to intimate the limits sanctioned to the borrower to the concerned banks/ NBFCs and details of debts factored to avoid double financing.
+6.
+Notification No.DNBR.036/CGM(CDS)-2016 dated February 18, 2016
+in this regard is enclosed.
+Yours faithfully
+(C.D.Srinivasan)
+Chief General Manager
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING REGULATION
+CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+CUFFE PARADE, COLABA, MUMBAI 400 005
+Notification No.DNBR.036/CGM (CDS)-2016, dated February 18, 2016
+The Reserve Bank of India ( the Bank) , having considered it necessary in the public interest, and being satisfied that, for the purpose of enabling the Bank to regulate the financial system to the advantage of the country and to prevent the affairs of any Non-Banking Financial Company – Factor (NBFC-Factor) from being conducted in a manner detrimental to the interest of investors or in any manner prejudicial to the interest of such NBFC – Factors, it is necessary to amend the Non-Banking Financial Company – Factor (Reserve Bank) Directions, 2012 (
+Notification No. DNBS. PD.No.247/ CGM(US)-2012 dated July 23, 2012
+) (hereinafter referred to as ‘the said Directions’) in exercise of the powers conferred under section 3 of the Factoring Regulation Act, 2011, hereby directs that the said Directions shall be amended with immediate effect as follows –
+1. For Paragraph 8 of the said Directions, the following paras shall be substituted;
+8. Prudential Norms
+8.1 The provisions of Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 or Non-Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 or Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007, as the case may be and as applicable to a loan company shall apply to an NBFC-Factor.
+8.2 The receivable acquired under factoring which is not paid within such period of due date as applicable, should be treated as non-performing asset (NPA) irrespective of when the receivable was acquired by the factor or whether the factoring was carried out on “with recourse” basis or “non-recourse” basis. The entity on which the exposure was booked should be shown as NPA and provisioning made accordingly.
+2. After Paragraph 8, of the said Directions the following para shall be inserted;
+8A. Exposure Norms-Single and Group Borrower Limits
+The facilities extended by way of factoring services would be covered within the overall exposure ceiling specified in the Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 or Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007, as applicable. The exposure shall be reckoned as under :
+In case of factoring on “with-recourse” basis, the exposure would be reckoned on the assignor.
+In case of factoring on “without-recourse” basis, the exposure would be reckoned on the debtor, irrespective of credit risk cover / protection provided, except in cases of international factoring where the entire credit risk has been assumed by the import factor.
+3. After Paragraph 9, of the said Directions the following para shall be inserted;
+9A. Risk Management
+Proper and adequate control and reporting mechanisms should be put in place before such business in undertaken.
+NBFC-Factors should carry out a thorough credit appraisal of the debtors before entering into any factoring arrangement or prior to establishing lines of credit with the export factor.
+Factoring services should be extended in respect of invoices which represent genuine trade transactions.
+Since under without recourse factoring transactions, the factor is underwriting the credit risk on the debtor, there should be a clearly laid down board-approved limit for all such underwriting commitments.
+4. After Paragraph 10 of the said Directions, the following para shall be inserted;
+10A.
+For the purpose of exchange of information, the assignor will be deemed to be the borrower. Factors and banks should share information about common borrowers. Factors must ensure to intimate the limits sanctioned to the borrower to the concerned banks/ NBFCs and details of debts factored to avoid double financing.
+(C D Srinivasan)
+Chief General Manager

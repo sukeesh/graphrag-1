@@ -1,0 +1,487 @@
+(292 kb)
+Master Circular - Interest Rates on Advances
+RBI/2014-15/65
+DBOD.No.Dir.BC.13/13.03.00/2014-15
+July 1, 2014
+Ashadha 10, 1936 (Saka)
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear  Sir / Madam
+Master  Circular - Interest Rates on Advances
+Please refer to the
+Master Circular DBOD.No.Dir.BC.15/13.03.00/2013-14 dated July 1, 2013
+consolidating instructions / guidelines issued to banks till June 30, 2013 on  matters relating to Interest Rates on Advances. The
+Master Circular
+has been  suitably updated by incorporating instructions issued up to June 30, 2014 and  has also been placed on the RBI website (
+http://www.rbi.org.in
+).  A copy of the Master Circular is enclosed.
+Yours  faithfully
+(Lily Vadera)
+Chief General Manager
+Encl: as above
+CONTENTS
+Para No.
+Particulars
+A
+Purpose
+B
+Classification
+C
+Previous instructions
+D
+Application
+1
+Introduction
+2
+Guidelines
+2.1
+General
+2.2
+Base Rate
+2.3
+Applicability of Base Rate
+2.4
+Floating Rate of Interest on Loans
+2.5
+Levying of penal rates of interest
+2.6
+Enabling clause in loan agreement
+2.7
+Withdrawals against uncleared effects
+2.8
+Loans under consortium arrangement
+2.9
+Charging of interest at monthly rests
+2.10
+Zero percent Interest Finance Schemes for Consumer Durables
+2.11
+Excessive interest charged by banks
+Annex 1
+Illustrative    Methodology for the Computation of the Base Rate
+Annex 2
+Guidelines on Benchmark Prime Lending Rate (BPLR) applicable to loans    sanctioned up to June 30, 2010
+Annex 3
+Interest Rate Structure for all Rupee Advances
+including Term Loans of Commercial Banks sanctioned up to June 30, 2010
+Appendix
+List of circulars consolidated
+MASTER CIRCULAR ON INTEREST RATES ON ADVANCES
+A.
+Purpose
+To consolidate the
+directives  on interest rates on advances issued by Reserve Bank of India from time to  time.
+B.
+Classification
+A statutory directive  issued by the Reserve Bank in exercise of the powers conferred by the Banking  Regulation Act, 1949.
+C.
+Previous  instructions
+This Master Circular consolidates and updates  the instructions on the above subject contained in the circulars listed in
+Appendix
+.
+D.
+Application
+To all scheduled commercial  banks, excluding Regional Rural Banks.
+Structure
+1. Introduction
+2. Guidelines
+2.1 General
+2.2 Base Rate
+2.3 Applicability  of Base Rate
+2.4 Floating  rate of interest on loans
+2.5 Levying  of penal rates of interest
+2.6 Enabling  clause in loan agreement
+2.7 Withdrawals  against uncleared effects
+2.8 Loans  under consortium arrangement
+2.9 Charging  of interest at monthly rests
+2.10 Zero percent interest finance schemes for  consumer durables
+2.11 Excessive interest charged by banks
+Annex 1 Illustrative  Methodology for the Computation of the Base Rate
+Annex 2 Guidelines on Benchmark Prime Lending Rate  (BPLR) applicable to loans sanctioned up to June 30, 2010
+Annex 3 Interest Rate Structure for all Rupee Advances including Term Loans of Commercial Banks sanctioned up to June 30, 2010
+Appendix List of circulars consolidated
+1. Introduction
+1.1 Reserve  Bank of India began prescribing the minimum rate of interest on advances granted  by Scheduled Commercial Banks with effect from October 1, 1960. Effective March  2, 1968, in place of minimum lending rate, the maximum lending rate to be  charged by banks was introduced, which was rescinded with effect from January  21, 1970, when the prescription of minimum lending rate was reintroduced. The  ceiling rate on advances to be charged by banks was again introduced effective  March 15, 1976, and banks were also advised, for the first time, to charge  interest on advances at periodic intervals, that is, at quarterly rests. In the  following period, various sector-specific, programme-specific and  purpose-specific interest rates were introduced.
+1.2 Given  the prevailing structure of lending rates of Scheduled Commercial Banks, as it  had evolved over time, characterised by an excessive proliferation of rates, in  September, 1990, a new structure of lending rates linking interest rates to the  size of loan was prescribed which significantly reduced the multiplicity and  complexity of interest rates. In the case of the Differential Rate of Interest  Scheme under which credit was provided at a rate of 4.0 per cent per annum, and  Export Credit, which was subject to an entirely different regime of lending  rates supplemented by interest rate subsidies, the existing lending rate  structure was continued.
+1.3 An  objective of financial sector reform has been to ensure that the financial  repression inherent in administered interest rates is removed. Accordingly, in  the context of granting greater functional autonomy to banks, effective October  18, 1994, it was decided to free the lending rates of scheduled commercial  banks for credit Iimits of over Rupees two lakh; for loans up to Rupees two  lakh, it was decided that it was necessary to continue to protect these  borrowers by prescribing the lending rates and accordingly it was prescribed  that for loans up to and inclusive of Rupees two lakh, the lending rates of  banks should not exceed the Benchmark Prime Lending Rate (BPLR) of the  respective banks. For credit limits of over Rupees two lakh, the prescription  of minimum lending rate was abolished and banks were given the freedom to fix  the lending rates for such credit limits subject to BPLR and spread guidelines.  Banks were required to obtain the approval of their respective Boards for the BPLR,  which would be the reference rate for credit Iimits of over
+`
+2 lakh. Each  bank's BPLR had to be declared and be made uniformly applicable at all  branches.
+1.4 The BPLR system,  introduced in 2003, fell short of its original objective of bringing  transparency to lending rates. This was mainly because under the BPLR system,  banks could lend below BPLR. For the same reason, it was also difficult to  assess the transmission of policy rates of the Reserve Bank to lending rates of  banks. Accordingly, based on the recommendations of the Working Group on  Benchmark Prime Lending Rate which submitted its report in October 2009, banks were  advised to switch over to the system of Base Rate with effect from July 1,  2010. The Base Rate system is aimed at enhancing transparency in lending rates  of banks and enabling better assessment of transmission of monetary policy.
+2. Guidelines
+2.1
+General
+2.1.1 Banks should charge interest on loans / advances  / cash credits / overdrafts or any other financial accommodation granted /  provided / renewed by them or discount usance bills in accordance with the  directives on interest rates on advances issued by Reserve Bank of India from  time to time.
+2.1.2 The interest at the specified rates should be  charged at monthly rests (subject to the conditions laid down in paragraph 2.9)  and rounded off to the nearest rupee.
+2.2 Base Rate
+2.2.1 The Base Rate system has replaced the BPLR  system with effect from July 1,  2010. Base Rate shall include all those elements of the lending rates that are  common across all categories of borrowers. Banks may choose any benchmark to  arrive at the Base Rate for a specific tenor that may be disclosed  transparently. An illustration for  computing the Base Rate is set out in Annex 1. Banks are free to use any other methodology,  as considered appropriate, provided it is consistent and is madeavailable  for supervisory review/scrutiny, as and when required.
+2.2.2 Banks may determine their actual lending rates  on loans and advances with reference to the Base Rate and by including such  other customer specific charges as considered appropriate. The actual lending  rates charged should be transparent and consistent and be madeavailable  for supervisory review/scrutiny, as and when required.
+2.2.3 In terms of our
+circular DBOD.No.Dir.BC.88/13.03.00/2009-10  dated April 9, 2010
+banks were permitted to change the benchmark and methodology any time during  the initial six month period i.e. end-December 2010 which was subsequently  extended upto June 30, 2011 vide our
+circular DBOD.No.Dir.BC.73/13.03.00/2010-11 dated January 6, 2011
+.  In order to enable banks to overcome the difficulties faced by them in  computation of their Base Rate, it was decided to allow banks some flexibility  in computation / revision of Base Rate methodology. Accordingly, with effect  from September 2, 2013 banks were advised to follow the revised guidelines for  computation of Base Rate methodology as under:
+Banks that have commenced their banking operations in India  after the coming into effect of the Base Rate regime in July 2010 but have not  completed one year of their banking operations as on the date of this circular  (September 2, 2013), will be allowed to revise their Base Rate methodology  within a year from the date of commencement of their business operations in  India.
+Banks that will commence their banking business in India  after issue of this circular (September 2, 2013) will be allowed to revise  their Base Rate methodology within a year from the date of commencement of  their banking business in India.
+In case a bank, including banks listed at para 2.2.3  (i) and (ii) above, desires to review its Base Rate methodology after five  years from the date of its finalization, the bank may approach Reserve Bank for  permission in this regard.
+2.2.4 There can be only one Base Rate for each bank.  Banks have the freedom to choose any benchmark to arrive at a single Base Rate  which should be disclosed transparently.
+2.2.5 Changes in the Base Rate shall be applicable in  respect of all existing loans linked to the Base Rate, in a transparent and  non-discriminatory manner.
+2.2.6 Since the Base Rate will be the minimum rate for  all loans, banks are not permitted to resort to any lending below the Base  Rate. Accordingly, the stipulation of BPLR as the ceiling rate for loans up to
+`
+2 lakh stands withdrawn. It is expected that the  above deregulation of lending rate will increase the credit flow to small  borrowers at reasonable rate so that direct bank finance will provide effective  competition to other forms of high cost credit.
+2.2.7 Banks are required to  review the Base Rate at least once in a quarter with the approval of the Board  or the Asset Liability  Management Committees (ALCOs) as per the  bank’s practice
+.
+Since transparency in the pricing of lending  products has been a key objective, banks are required to exhibit the  information on their Base Rate at all branches and also on their websites.  Changes in the Base Rate should also be conveyed to the general public from  time to time through appropriate channels. Banks are required to provide  information on the actual minimum and maximum lending rates to the Reserve Bank  on a quarterly basis, as hitherto
+.
+2.2.8 Even after introduction of the Base Rate system,  banks would have the freedom to offer all categories of loans on fixed or  floating rates. Where loans are offered  on fixed rate basis, notwithstanding the quarterly review of the Base Rate, the  rate of interest on fixed rate loans will continue to remain the same subject  to the condition that such fixed rate should not be below the Base Rate at the  time of sanction. If the base rate is revised upward thereafter and in the  process the fixed rate falls below the new Base Rate, it would not be construed  a violation of the guidelines on Base Rate.
+2.3 Applicability of Base Rate
+2.3.1 With effect from July 1, 2010, all categories of  domestic rupee loans should be priced only with reference to the Base Rate. Accordingly,  the Base Rate system would be applicable for all new loans and for those old  loans that come up for renewal. Existing loans based on the BPLR system may run  till their maturity. In case existing borrowers want to switch to the new  system, before expiry of the existing contracts, an option may be given to  them, on mutually agreed terms. Banks, however, should not charge any fee for  such switch-over.
+2.3.2 However, the following  categories of loans could be priced
+without
+reference to the Base Rate:
+(a) DRI advances
+(b) loans to banks’ own employees including retired  employees
+(c) loans to banks’ depositors  against their own deposits
+2.3.3 In those cases where  subvention is available to borrowers, it is clarified as under:
+(i) Interest  Rate Subvention on Crop Loans
+In case of crop loans up to Rupees three lakh, for  which subvention is available, banks should charge farmers the interest rates  as stipulated by the Government of India. If the yield to the bank (after including  subvention) is lower than the Base Rate, such lending will not be construed a violation  of the Base Rate guidelines.
+As regards the rebate  provided for prompt repayment, since it does not change the yield to the banks  [mentioned at (a) above] on such loans, it would not be a factor in reckoning  compliance with the Base Rate guidelines.
+(ii) Interest Rate Subvention on Export Credit
+Interest rates  applicable for all tenors of rupee export credit advances will be at or above  the Base Rate. In respect of cases where  subvention of Government of India is available, banks will have to reduce the  interest rate chargeable to exporters as per Base Rate system by the amount of  subvention available. If, as a  consequence, the interest rate charged to exporters goes below the Base Rate,  such lending will not be construed a violation of the Base Rate guidelines.  (The last Rupee Export Credit Interest Subvention Scheme of Government of India  was valid upto March 31, 2014).
+2.3.4 Restructured Loans
+In case of restructured  loans if some of the Working Capital Term Loan (WCTL), Funded Interest Term  Loan (FITL), etc. need to be granted below the Base Rate for the purposes of  viability and there are recompense etc. clauses, such lending will not be  construed a violation of the Base Rate guidelines.
+2.3.5 In those cases where refinance  is available to borrowers, it is clarified as under:
+(a) Financing of Off-Grid and Decentralised Solar  applications
+Government of India,  Ministry of New and Renewable Energy (MNRE) has formulated a scheme on  financing of Off-Grid and Decentralised Solar (Photovoltaic and Thermal)  applications as part of the Jawaharlal Nehru National Solar Mission (JNNSM).  Under the scheme, banks may extend subsidized loans to entrepreneurs at  interest rates not exceeding five percent, where refinance of two percent from  Government of India is available. Such lending at interest rates not exceeding  five percent per annum where refinance of Government of India is available,  would not be considered a violation of our Base Rate Guidelines.
+(b) Extending financial assistance under Micro  Credit scheme of National Scheduled Tribes Finance and Development Corporation  (NSTFDC) and various schemes of National Handicapped Finance and Development  Corporation (NHFDC)
+Banks may charge interest at the rates  prescribed under the schemes of NSTFDC /NHFDC to the extent refinance is  available. Such lending, even if it is below the Base Rate, would not be  considered a violation of our Base Rate Guidelines. Interest rate charged on  the part not covered under refinance should not however be below Base Rate.
+(c) Extending financial assistance under schemes of  National Safai Karmacharis Finance & Development Corporation (NSKFDC)
+Banks may charge interest at the rates  prescribed under the schemes of National Safai Karmacharis Finance &  Development Corporation (NSKFDC) to the extent refinance is available. Such  lending, even if it is below the Base Rate, would not be considered as a  violation of our Base Rate Guidelines. Interest rate charged on the part not  covered under refinance should not be below Base Rate.
+(d) Lending to Primary Agricultural Credit Societies  (PACS)
+Banks financing Primary Agricultural Credit  Societies (PACS) for short term seasonal agricultural operations may lend below  their Base Rate to the extent refinance is available from NABARD. However, when banks use their own funds, they  are not allowed to lend below Base Rate.
+(e) Bank Finance extended  to the beneficiaries of the schemes of National Scheduled Caste Finance &  Development Corporation (NSFDC)
+Banks may charge interest at the rates  prescribed under the schemes of National Scheduled Caste Finance &  Development Corporation (NSFDC) to the extent refinance is available. Such  lending, even if it is below the Base Rate, would not be considered as a  violation of our Base Rate Guidelines. Interest rate charged on the part not  covered under refinance should not however be below Base Rate.
+2.3.6 Interest rates under the BPLR system were  applicable to all loans sanctioned up to June 30, 2010. The guidelines on BPLR and Spreads and its  determination for existing loans sanctioned up to June 30, 2010 are given in Annex 2 and Annex 3.
+2.3.7 Differential Rate of Interest for Micro and  Small Enterprises (MSEs)
+While pricing their loans to MSE borrowers,  banks should take into account the incentives available to them in the form of  the credit guarantee cover of the Credit Guarantee Fund Trust for Micro and  Small Enterprises (CGTMSE) and the zero risk weight for capital adequacy  purpose for the portion of the loan guaranteed by the CGTMSE and provide  differential interest rate for such MSE borrowers, than the other borrowers.  However, banks should note that such differential rate of interest is not below  the Base Rate of the bank.
+2.4
+Floating  Rate of Interest on Loans
+Banks have the freedom to offer all categories  of loans on fixed or floating rates, subject to conformity to their  Asset-Liability Management (ALM) guidelines. The methodology of computing the  floating rates should be objective, transparent and mutually acceptable to  counter parties. The Base Rate could also serve as the reference benchmark rate  for floating rate loan products, apart from external market benchmark rates.  The floating interest rate based on external benchmarks should, however, be  equal to or above the Base Rate at the time of sanction or renewal. This  methodology should be adopted for all new loans. In the case of existing loans  of longer / fixed tenure, banks should reset the floating rates according to  the above method at the time of review or renewal of loan accounts, after  obtaining the consent of the concerned borrower/s.
+2.5
+Levying  of Penal Rates of Interest
+Banks are permitted to formulate a transparent  policy for charging penal interest with the approval of their Board of  Directors. However, in the case of loans to borrowers under priority sector, no  penal interest should be charged for loans up to
+`
+25,000. Penal  interest can be levied for reasons such as default in repayment, non-submission  of financial statements, etc. However, the policy on penal interest should be  governed by well-accepted principles of transparency, fairness, incentive to  service the debt and due regard to genuine difficulties of customers.
+2.6
+Enabling  Clause in Loan Agreement
+2.6.1 Banks  should invariably incorporate the following proviso in the loan agreements in  the case of all advances, including term loans, thereby enabling banks to  charge the applicable interest rate in conformity with the directives issued by  RBI from time to time:
+"Provided that the interest payable by the  borrower shall be subject to the changes in interest rates made by the Reserve  Bank from time to time."
+2.6.2 Since  banks are bound by the Reserve Bank's directives on interest rates on loans and  advances, which are issued under Sections 21 and 35A of the Banking Regulation  Act, 1949, banks are obliged to give effect to any revision of interest rates  whether upwards or downwards, on all the existing advances from the date the  directives / revised interest rate come into force, unless the directives  specifically provide otherwise.
+2.7
+Withdrawals  Against Uncleared Effects
+2.7.1 Where  withdrawals are allowed against cheques sent for clearing, i.e. uncleared  effects (e.g. uncleared local or outstation cheques) which are in the nature of  unsecured advances, banks should charge interest on such drawals as per the  directive on interest rates on advances.
+2.7.2 As a  measure of customer service, the above instruction will not apply to the  facility afforded to depositors for immediate credits in respect of cheques  sent for collection.
+2.8
+Loans  under Consortium Arrangement
+Banks need not charge a uniform rate of interest  even under a consortium arrangement. Each member bank may charge a rate of  interest on the portion of the credit limits extended by it to the borrower,  subject to the condition that such rate of interest is determined with  reference to its Base Rate.
+2.9
+Charging  of Interest at Monthly Rests
+2.9.1 Banks were advised to charge interest on  loans/advances at monthly rests  with effect from April 01, 2002. Interest at monthly rests shall be applied in  case of all new and existing term loans and other loans of longer / fixed  tenor. In the case of existing loans of longer / fixed tenor, banks shall move  over to application of interest at monthly rests at the time of review of terms  and conditions or renewal of such loan accounts, or after obtaining consent  from the borrower.
+2.9.2 Instructions on charging interest at monthly  rests shall not be applicable to agricultural advances and banks shall continue  to follow the existing practice of charging / compounding of interest on  agricultural advances linked to crop seasons. As indicated in circular RPCD.No.PLFS.BC.129/05.02.27/97-98  dated June 29, 1998, banks should charge interest on agricultural advances for  long duration crops at annual rests. As regards other agricultural advances in  respect of short duration crop and allied agricultural activities such as  dairy, fishery, piggery, poultry, bee-keeping, etc., banks should take into  consideration due dates fixed on the basis of fluidity with borrowers and  harvesting / marketing season while charging interest and compounding the same  if the loan / installment becomes overdue. Further, banks should ensure that  the total interest debited to an account should not exceed the principal amount  in respect of short term advances granted to small and marginal farmers.
+2.10
+Zero  Percent Interest Finance Schemes for Consumer Durables
+Banks should refrain from offering low / zero  percent interest rates on consumer durable advances to borrowers through  adjustment of discount available from manufacturers / dealers of consumer  goods, since such loan schemes lack transparency in operations and distort  pricing mechanism of loan products. These products do not also give a clear  picture to the customers regarding the applicable interest rates. Banks should,  also, not promote such schemes by releasing advertisements in different  newspapers and media indicating that they are promoting / financing consumers  under such schemes. They should also refrain from linking their names in any  form / manner with any incentive-based advertisement where clarity regarding  interest rate is absent.
+2.11
+Excessive  Interest Charged by Banks
+Though interest rates have been deregulated,  charging of interest beyond a certain level is seen to be usurious and can  neither be sustainable nor be conforming to normal banking practice. Boards of  banks have, therefore, been advised to lay out appropriate internal principles  and procedures so that usurious interest, including processing and other  charges, are not levied by them on loans and advances. In laying down such principles and procedures  in respect of small value loans, particularly, personal loans and such other  loans of similar nature, banks should take into account, inter-alia, the  following broad guidelines:
+An appropriate prior-approval process should  be prescribed for sanctioning such loans, which should take into account, among  others, the cash flows of the prospective borrower.
+Interest rates charged by banks, inter-alia,  should incorporate risk premium as considered reasonable and justified having  regard to the internal rating of the borrower. Further, in considering the  question of risk, the presence or absence of security and the value thereof  should be taken into account.
+The total cost to the borrower, including  interest and all other charges levied on a loan, should be justifiable having  regard to the total cost incurred by the bank in extending the loan, which is  sought to be defrayed and the extent of return that could be reasonably  expected from the transaction.
+An appropriate ceiling should be fixed on the  interest, including processing and other charges that are levied on such loans,  which should be suitably publicised.
+APPENDIX
+List of  circulars consolidated in the
+Master Circular on 'Interest Rates on  Advances'
+SL
+Circular     No.
+Date
+Subject
+1
+RPCD No. BC. 29/PS.22-84
+16.03.1984
+Margin and Security Norms, etc. in respect of Borrowers under Priority Sector Advances
+2
+DBOD.No.Dir.BC.90/C.347/85
+02.08.1985
+Rounding off Transactions to the Nearest    Multiple of 5 Paise
+3
+DBOD.No.Dir.BC.38/C.96-86
+24.03 1986
+Interest Rates on Advances -
+            Effect of Revision thereto on Existing Advances
+4
+DBOD.No.Dir.BC.88/C.96-89
+08.03.1989
+Interest Rates on Advances - Penal Rate of    Interest - Clarification
+5
+DBOD.No.Dir.BC.18 & 19/C.96-90
+21.09.1990
+Interest Rates on Advances
+6
+DBOD.No.Dir.BC.36/C.347-90
+22.10.1990
+Rounding off Transactions to the Nearest Rupee
+7
+DBOD.No.Dir.BC.92/C.96-91
+06.03.1991
+Interest    Rates on Advances
+8
+IECD.No.19/08.13.09/93-94
+28.10.1993
+Report of    the In-House Group Set up to Review the Role of Reserve Bank of India in    laying down Norms for Bank Lending
+            for Working Capital Purposes - Revised Guidelines
+9
+DBOD.No.Dir.BC.115/13.07.01/ 94
+17.10.1994
+Interest Rates on Advances
+10
+IECD.No.28/08.12.01/94-95
+22.11.1994
+Compliance with Lending Discipline - (a) Charging    of Uniform Rates of Interest for Lending under Consortium Arrangement
+and (b) Penal Interest for Non-compliance with the Discipline
+11
+DBOD.No.Dir.BC.141/13.07.01-94
+07.12.1994
+Interest Rates on Advances
+12
+RPCD.No.PLNFS.BC.165/06.03.01/94-95
+06.06.1995
+Scheme for Financing Primary Weavers' Co-operative    Societies by Commercial Banks
+13
+DBOD.No.Dir.BC.89/13:07:01/95
+21.08.1995
+Deregulation    of Lending Rates - Levy of Interest Tax
+14
+DBOD.No.BC.99/13.07.01/95
+12.09.1995
+Interest Rates on Advances
+15
+RPCD.No.PL.BC.120/04.09.22/95-96
+02.04.1996
+Linking of Self Help Groups with Banks -
+            Working Group on NGOs and SHGs - Recommendations - Follow-up
+16
+DBOD.No.Dir.BC.139/13.07.01/96
+19.10.1996
+Interest Rates on Advances - Prime Lending Rate
+17
+DBOD.No.Dir.BC.10/13.07.01/97
+12.02.1997
+Interest Rates on Advances - Prime Lending Rate
+18
+DBOD.No.Dir.BC.124/13.07.01/97-98
+21.10.1997
+Interest Rates on Advances
+19
+DBOD.No. Dir.BC.33/13.03.00/98
+29.04.1998
+Interest Rates on Advances
+20
+DBOD.No.Dir.BC.36/13.03.00/98
+29.04.1998
+Monetary and Credit Policy Measures
+21
+DBOD.No.BP.BC.35/21.01.002/ 99
+24.04.1999
+Monetary and Credit Policy Measures
+22
+DBOD.No.Dir.BC.100/13.07.01/ 99
+11.10.1999
+Interest Rates on Advances - Fixed Rate Loans
+23
+DBOD.No.Dir.BC.106/13.03.00/ 99
+29.10.1999
+Interest Rates on Advances
+24
+DBOD.No.Dir.BC.114/13.03.00/ 99
+29.10.1999
+Mid-Term    Review of Monetary and Credit Policy 1999-2000
+25
+DBOD.No.Dir.BC.168/13:03:00-2000
+27.04.2000
+Monetary and Credit Policy for the Year 2000-2001    - Interest Rate Policy
+26
+DBOD.No.BC.178/13:07:01/2000
+25.05.2000
+Interest Rates on Advances
+27
+DBOD No. BP.BC 31/21.04.048/00-01
+10.10.2000
+Monetary and Credit Policy Measures -
+Mid-Term Review for the Year 2000-2001
+28
+IECD    No. 9/04.02.01/2000-01
+05.01.2001
+Interest Rate on Export Credit
+29
+DBOD    No.Dir.BC 106/13.03.00/2000-01
+19.04.2001
+Interest Rates on Advances
+30
+DBOD No.Dir.BC 107/13.03.00/2000-01
+19.04.2001
+Monetary    and Credit Policy for the year 2001-2002 -
+            Interest Rate Policy
+31
+IECD    No.13/04.02.01/2000-01
+19.04.2001
+Rupee Export Credit Interest Rates
+32
+RPCD.PLNFS.BC.No.83/06.12.05/2000-01
+28.04.2001
+Educational Loan Scheme
+33
+DBOD No.Dir.BC.117/13.07.01/2000-01
+04.05.2001
+Charging of Penal Interest
+34
+RPCD.Plan.BC.15/04.09.01/2001-02
+17.08.2001
+Charging of Penal Interest by Banks on Priority    Sector Loans
+35
+DBOD    No.Dir.BC.75/13.07.01/2002
+15.03.2002
+Interest Rates on Advances
+36
+DBOD    No.Dir.BC.8/13.07.00/2002-03
+26.07.2002
+Charging of Interest at Monthly Rests -    Consolidated Instructions
+37
+DBOD.No.Dir.BC.19/13.07.01/2002-03
+19.08.2002
+Zero percent Interest Finance Schemes for Consumer    Durables
+38
+DBOD.No.Dir.BC.25/13.03.00/2002-03
+19.09.2002
+Charging of Interest at Monthly Rests -    Agricultural Advances
+39
+IECD.No.18/04.02.01/2002-03
+30.04.2003
+Rupee Export    Credit Interest Rates
+40
+DBOD.No.BC.103/13.07.01/2003
+30.04.2003
+Interest Rates on Advances
+41
+DBOD.No.Dir.BC.103A/13.03.00/2002-03
+30.04.2003
+Interest Rates on Advances - Prime Lending Rate    and Spreads
+42
+DBOD.No.Dir.BC.10/13.03.00/2003-04
+14.08.2003
+Interest Rates on Advances
+43
+DBOD.No.Dir.BC.38/13.03.00/2003-04
+21.10.2003
+Interest Rates on Advances - Prime Lending Rate    and Spreads
+44
+DBOD.No.Dir.BC.39/13.03.00/2003-04
+21.10.2003
+Interest Rates on Advances - Prime Lending Rate    and Spreads
+45
+DBOD.No.81/13.07.01/2003-04
+24.04.2004
+Interest Rates on Advances
+46
+IECD.No.10/04.02.01/2003-04
+24.04.2004
+Rupee Export Credit Interest Rates
+47
+IECD.No.13/04.02.01/2003-04
+18.05.2004
+Export Credit Interest Rates for Gold Card Holder    Exporters
+48
+DBOD.No.BC.85/13.07.01/2003-04
+18.05.2004
+Interest Rates on Advances
+49
+DBOD.No.BC.84/13.07.01/2004-05
+29.04.2005
+Interest Rates on Advances
+50
+DBOD.Dir    (Exp.).BC.No.83/ 04.02.01/2005-06
+28.04.2006
+Rupee Export Credit Interest Rates
+51
+DBOD.Dir    (Exp.).BC.No.79/ 04.02.01/2006-07
+17.04.2007
+Interest Rates on Advances
+52
+RPCD.No.Plan.BC.84/04.09.01/2006-07
+30.04.2007
+Guidelines on Lending to Priority Sector - Revised
+53
+DBOD.Dir.BC.93/13.03.00/2006-07
+07.05.2007
+Complaints about Excessive Interest Charged by    Banks
+54
+RPCD.No.Plan.BC.10856/04.09.01/2006-07
+18.05.2007
+Revised Guidelines On Lending To Priority Sector -    Weaker Sections
+55
+DBOD. Dir.    (Exp). BC.No.77/ 04.02.01/ 2007- 08
+28.04.2008
+Rupee Export Credit Interest Rates
+56
+DBOD.Dir.(Exp).BC.No.131/04.02.01/2008-09
+29.04.2009
+Rupee Export Credit Interest Rates
+57
+DBOD.Dir.BC.88/13.03.00/2009-10
+09.04.2010
+Guidelines on Base Rate
+58
+DBOD.Dir.(Exp).BC.No.102/04.02.01/2009-10
+06.05.2010
+Rupee Export Credit Interest Rates
+59
+Mail Box clarification
+14.05.2010
+Guidelines on Base Rate
+60
+Mail Box    clarification
+24.09.2010
+Guidelines on Base Rate
+61
+DBOD.No.Dir.BC.73/13.03.00/2010-11
+06.01.2011
+Guidelines on Base Rate
+62
+DBOD.No.Dir.BC.81/13.03.00/2010-11
+21.02.2011
+Guidelines on Base Rate
+63
+DBOD.Dir.BC.34/13.03.00/2011-12
+09.09.2011
+Guidelines on Base Rate
+64
+DBOD.Dir.No.12740/13.07.01/2011-12
+24.2.2012
+Guidelines on Base Rate
+65
+Mail Box clarification
+10.04.2012
+Guidelines on Base Rate
+66
+Mail Box clarification
+27.04.2012
+Guidelines on Base Rate
+67
+Mail Box Clarification
+31.12.2012
+Guidelines on Base Rate
+68
+DBOD.Dir.BC.No.47/13.03.00/2013-14
+02.09.2013
+Base Rate- Revised    Guidelines
+69
+DBOD.Dir.BC.No.106/13.03.00/2013-14
+15.04.2014
+Differential Rate of    Interest for Micro and Small Enterprises (MSEs)

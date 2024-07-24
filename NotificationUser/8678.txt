@@ -1,0 +1,126 @@
+(217 kb)
+RRBs - Guidelines for Classification and Valuation of Investments
+RBI/2013-14/434
+RPCD.CO.RRB.BC.No. 74/03.05.33/2013-14
+January 07, 2014
+The Chairmen
+All Regional Rural Banks
+Dear  Sir/Madam,
+Guidelines  for Classification and Valuation of Investments
+Please  refer to our
+circular  RPCD.RRB.BC.No.59/03.05.34/2010-11 dated April 11, 2011
+, in terms of which  RRBs were exempted from ‘Mark to Market’ (MTM) norms in respect of their entire  investment in SLR securities, upto the financial year 2012-13. It has now been  decided to withdraw the exemption from MTM norms given to RRBs in respect of the  entire portfolio of SLR securities. Accordingly, RRBs are advised to introduce  MTM norms in respect of SLR securities w.e.f. April 01, 2014.
+2. The  revised guidelines on classification and valuation of investments are furnished  in the
+Annex
+. The salient features of the revised guidelines are as under :
+RRBs are required to classify their entire       investment portfolio, as on April 01, 2014 under three categories viz. ‘Held       to Maturity’, ‘Available for Sale’ and ‘Held for Trading’.
+In the balance sheet, the investments       will continue to be disclosed as per the existing five classifications       viz. i) Government securities ii) Other approved securities iii) Shares       iv) Debentures & Bonds v) Others (Mutual Fund Units, etc.).
+The investments included  under ‘Held to Maturity’ should not exceed 25 per cent of the bank’s total  investments. The limit can be exceeded if the excess comprises SLR securities and  the total SLR securities held in the HTM category is not more than 24.5 per cent of their DTL as on the last Friday  of the second preceding fortnight.
+The investments under the Available for       Sale and Held for Trading categories should be marked to market       periodically as indicated in the Annex.
+The investments under the Held to Maturity category       need not be marked to market as in the case of ‘Permanent’ securities at       present.
+Classification of investments, shifting of       investments among the three categories, valuation of the investments,       methodology for booking profit/loss on sale of investments and providing       for depreciation should be in accordance with the guidelines in the Annex.
+The risk-weights assigned to the various securities       at present would remain unchanged.
+2.1  The classification of the existing investments among the three categories may  be done at the book value of the respective securities as on April 01, 2014. Subsequent  valuation of the securities included under the Held for Trading and the  Available for Sale categories may be carried out as specified in the revised  guidelines. The first such revaluation may be done, as on April 01, 2014, for  the securities under the Held for Trading and Available for Sale categories.
+2.2 RRBs  should formulate an Investment Policy with the approval of their Board of  Directors to take care of the requirements on classification, shifting and  valuation of investments under the revised guidelines. Besides, the Policy  should adequately address risk-management aspects, ensure that the procedures  to be adopted by the banks under the revised guidelines are consistent,  transparent and well documented to facilitate easy verification by inspectors  and statutory auditors.
+3. Please  acknowledge receipt to the respective Regional Office.
+Yours  faithfully
+(A. Udgata)
+Principal  Chief General Manager
+Annex  : as above
+Annex
+Guidelines for Classification and Valuation of  Investment by RRBs
+1. Categorisation
+The  entire investment portfolio of the RRBs comprising SLR securities and non-SLR  securities will be classified under three categories viz. ‘Held to Maturity’,  ‘Available for Sale’ and ‘Held for Trading’. However, in the Balance Sheet, the  investments will continue to be disclosed as per the existing five  classifications viz. (1) Government Securities (2) Other approved securities  (iii) Shares (iv) Debentures & Bonds (v) Others like Mutual Fund units,  etc. RRBs should decide the category of the investment at the time of  acquisition and the decision should be recorded on the investment proposals.
+1.1
+Definitions
+The  securities acquired by the RRBs with the intention to hold them up to maturity  will be classified under Held to Maturity (HTM). The securities acquired by the  RRBs with the intention to trade by taking advantage of the short-term  price/interest rate movements will be classified under Held for Trading (HFT).  The securities which do not fall within the above two categories will be  classified under Available for Sale (AFS).
+1.2
+Held  to Maturity
+The  investments included under ‘Held to Maturity’ should not exceed 25 per cent of  the bank’s total investments. However, RRBs are permitted to exceed the limit  of 25 per cent of their total investments under HTM category provided:
+the  excess comprises only of SLR securities and
+the  total SLR securities held in the HTM category is not more than 24.5 per cent of their DTL as on the last of the  second preceding fortnight.
+Profit  on sale of investments in this category should be first taken to the Profit  & Loss Account and thereafter be appropriated to the ‘Capital Reserve  Account’. Loss on sale will be recognised in the Profit & Loss Account.
+No  Non-SLR securities are permitted to be included in HTM.
+1.3 Available  for Sale & Held for Trading
+RRBs  will have the freedom to decide on the extent of holdings under Available for  Sale and Held for Trading. This will be decided by them after considering  various aspects such as basis of intent, trading strategies, risk management  capabilities, tax planning, manpower skills, capital position.
+The  investments classified under Held for Trading category would be those from  which the RRB expects to make a gain by the movement in the interest rates /  market rates. These securities are to be sold within 90 days.
+Profit  or loss on sale of investments in HFT & AFS categories will be taken to the  Profit & Loss account.
+2. Shifting  among categories
+RRBs  may shift investments to/from HTM category with the approval of the Board of  Directors once a year. Such shifting will normally be allowed at the beginning  of the accounting year. No further shifting to/from this category will be  allowed during the remaining part of that accounting year.
+The  RRBs may shift investments from AFS to HFT category with the approval of their  Board of Directors/ALCO/Investment Committee. In case of exigencies, such  shifting may be done with the approval of the Chairman of the bank, but should  be ratified by the Board of Directors/ALCO.
+Shifting  of investments from HFT to AFS category is generally not allowed. However, it  will be permitted only under exceptional circumstances like not being able to sell the security  within 90 days due to tight liquidity conditions, or extreme volatility, or  market becoming unidirectional, with the approval of the Board of  Directors/ALCO/Investment Committee.
+Transfer of scrips from one  category to another, under all circumstances, should be done at the acquisition  cost/book value/market value on the date of transfer, whichever is the least,  and the depreciation, if any, on such transfer should be fully provided for.
+Transfer  of scrips from AFS / HFT category to HTM category should be made at the lower  of book value or market value. In other words, in cases where the market value  is higher than the book value at the time of transfer, the appreciation should  be ignored and the security should be transferred at the book value. In cases  where the market value is less than the book value, the provision against  depreciation held against this security (including the additional provision, if  any, required based on valuation done on the date of transfer) should be  adjusted to reduce the book value to the market value and the security should  be transferred at the market value.
+In  the case of transfer of securities from HTM to AFS / HFT category:
+If the security was originally placed under the  HTM category at a discount, it may be transferred to AFS / HFT category at the  acquisition price / book value. (It may be noted that as per existing  instructions banks are not allowed to accrue the discount on the securities  held under HTM category and, therefore, such securities would continue to be  held at the acquisition cost till maturity). After transfer, these securities  should be immediately re-valued and resultant depreciation, if any, may be  provided.
+If the security was originally placed in the HTM  category at a premium, it may be transferred to the AFS / HFT category at the  amortised cost. After transfer, these securities should be immediately  re-valued and resultant depreciation, if any, may be provided.
+In the case of transfer of  securities from AFS to HFT category or vice-versa, the securities need not be  re-valued on the date of transfer and the provisions for the accumulated  depreciation, if any, held may be transferred to the provisions for  depreciation against the HFT securities and vice-versa.
+3. Valuation  of Investments
+3.1 Valuation Standards
+Investments  classified under
+Held to Maturity
+category need not be marked to market  and will be carried at acquisition cost unless it is more than the face value,  in which case the premium should be amortised over the period remaining to  maturity. The banks should reflect the amortised amount in schedule 13-Interest  earned: item II – Income on investments as a deduction. However, the deduction  need not be disclosed separately. The book value of the security should continue  to be reduced to the extent of the amount amortised during the relevant accounting  period.
+The  individual scrips in the
+Available for Sale
+category will be marked to  market at quarterly or at more frequent intervals. The book value of the  individual securities would not undergo any change after the revaluation.
+The  individual scrips in the
+Held for Trading
+category will be marked to  market at monthly or at more frequent intervals. The book value of individual  securities in this category would not undergo any change after marking to  market.
+Note:  Securities under AFS & HFT shall be separately valued scrip-wise and  depreciation/appreciation shall be aggregated for each balance sheet classification  referred to in para 1 above. The investment in a particular classification may  be aggregated for the purpose of arriving at net depreciation/appreciation of  investments under that category. Net depreciation, if any, shall be provided  for. Net appreciation, if any, should be ignored. Net depreciation required to  be provided for, in any one classification should not be reduced on account of  net appreciation in any other classification.
+The  provisions required to be created on account of depreciation in the AFS and HFT  category in any year should be debited to the Profit and Loss Account and an  equivalent amount (net of tax benefit, if any, and net of consequent reduction  in the transfer to Statutory Reserve) or the balance available in the Investment  Fluctuation Reserve (IFR) Account, whichever is less, shall be transferred from  the IFR Account to the Profit and Loss Account. In the event provisions created  on account of depreciation in the AFS and HFT category are found to be in  excess of the required amount in any year, the excess should be credited to the  Profit and Loss Account and an equivalent amount (net of taxes, if any, and net  of transfer to Statutory Reserves as applicable to such excess provision),  should be appropriated to the IFR Account to be utilised to meet future  depreciation requirement for investments in this category. The amounts debited  to the Profit and Loss Account for provision and the amount credited to the  Profit and Loss Account for reversal of excess provision should be debited and  credited respectively under the head ‘Expenditure - Provisions & Contingencies’.  The amounts appropriated from the Profit and Loss Account and the amount  transferred from the IFR Account to the Profit and Loss Account should be shown  as “below the line” items after determining the profit for the year. The IFR  Account should be shown as a separate item in Schedule 2 “Reserves and Surplus”  under the Head “Revenue and other Reserves”.
+3.2
+Market Value
+(A) Quoted  Securities
+The  'market value' for the purpose of periodical valuation of investments included  in the Available for Sale and the Held for Trading categories would be the  market price of the scrip as available from the trades/quotes on the stock  exchanges, SGL account transactions, price list of RBI, prices declared by  Primary Dealers Association of India (PDAI) jointly with the Fixed Income Money  Market and Derivatives Association of India (FIMMDA) periodically.
+(B) Unquoted  SLR securities
+In  respect of unquoted securities, the procedure as detailed below should be  adopted.
+a) Central Government  Securities
+:
+The  banks should value the unquoted Central Government securities on the basis of  the prices/YTM rates put out by the PDAI/ FIMMDA at periodical intervals.
+The  6.00 per cent Capital Indexed Bonds may be valued at "cost" as  defined in circular DBOD.No.BC.8/12.02.001/97-98 dated January 22, 1998 and  BC.18/12.02.001/2000-01 dated August 16, 2000.
+Treasury  Bills should be valued at carrying cost.
+b) State Government Securities:
+State Government securities  will be valued applying the YTM method by marking it up by 25 basis points  above the yields of the Central Government Securities of equivalent maturity  put out by PDAI/FIMMDA periodically.
+c) Other Approved Securities
+:
+Other  approved securities will be valued applying the YTM method by marking it up by  25 basis points above the yields of the Central Government Securities of  equivalent maturity put out by PDAI/FIMMDA periodically.
+(C) Unquoted  non-SLR securities
+a) Debentures/Bonds
+:
+All debentures/bonds should be valued on the  YTM basis. Such debentures/bonds may be of different companies having different  ratings. These will be valued with appropriate mark-up over the YTM rates for  Central Government securities as put out by PDAI/FIMMDA periodically. The  mark-up will be graded according to the ratings assigned to the  debentures/bonds by the rating agencies subject to the following :
+The rate used for the YTM  for rated debentures/bonds should be at least 50 basis points above the rate  applicable to a Government of India loan of equivalent maturity.
+Where  the debenture/bonds is quoted and there have been transactions within 15 days  prior to the valuation date, the value adopted should not be higher than the  rate at which the transaction is recorded on the stock exchange.
+b) Special Securities
+:
+Special securities directly  issued by the Government of India to the beneficiary entities, which do not  carry SLR status, may be valued at a spread of 25 basis points above the  corresponding yield on GOI securities. At present, such special securities  comprise Oil Bonds, Fertiliser Bonds, bonds issued to the State Bank of India  (during recent rights issue), Unit Trust of India, Industrial Finance  Corporation of India Ltd., Food Corporation of India, Industrial Development  Bank of India Ltd., the erstwhile Industrial Development Bank of India and the  erstwhile Shipping Development Finance Corporation.
+c) Preference Shares
+:
+The valuation of preference  shares should be on YTM basis. The preference shares will be issued by companies with different  ratings. These will be valued with appropriate mark-up over the YTM rates for  Central Government securities put out by the PDAI/FIMMDA periodically. The  mark-up will be graded according to the ratings assigned to the preference  shares by the rating agencies subject to the following:
+The  YTM rate should not be lower than the coupon rate/YTM for a GOI loan of  equivalent maturity.
+Where preference dividends are in arrears, no  credit should be taken for accrued dividends and the value determined on YTM  should be discounted by at least 15% if arrears are for one year, and more if  arrears are for more than one year. The depreciation/provision requirement  arrived at in the above manner in respect of nonperforming shares where  dividends are in arrears shall not be allowed to be set-off against  appreciation on other performing preference shares.
+The  preference shares should not be valued above its redemption value.
+When  a preference share has been traded on stock exchange within 15 days prior to  the valuation date, the value should not be higher than the price at which the  share was traded.
+d) Equity Shares
+:
+Equity shares in the RRB’s portfolio should  be marked to market preferably on a daily basis but atleast on a weekly basis. Equity  shares for which current quotations are not available or where the shares are  not quoted on the stock exchanges, should be valued at break-up value (without  considering 'revaluation reserves', if any) which is to be ascertained from the  company's latest balance sheet (which should not be more than one year prior to  the date of valuation). In case the latest balance sheet is not available the  shares are to be valued at Re. 1 per company.
+e) Mutual Fund Units
+:
+Investment in quoted Mutual Fund Units should  be valued as per Stock Exchange quotations. Investment in un-quoted Mutual Fund  Units is to be valued on the basis of the latest re-purchase price declared by  the Mutual Fund in respect of each particular Scheme. In case of funds with a  lock-in period, where repurchase price/market quote is not available, units  could be valued at NAV. If NAV is not available, then these could be valued at  cost, till the end of the lock-in period. Wherever the repurchase price is not  available the units could be valued at the NAV of the respective scheme.
+3.3
+Non-Performing  Investments (NPI)
+3.3.1 In respect of securities  included in any of the three categories where interest/ principal is in  arrears, the banks should not reckon income on the securities and should also make  appropriate provisions for the depreciation in the value of the investment. The  banks should not set-off the depreciation requirement in respect of these  non-performing securities against the appreciation in respect of other  performing securities.
+3.2.2 An NPI, similar to a non  performing advance (NPA), is one where:
+Interest/ installment  (including maturity proceeds) is due and remains unpaid for more than 90 days.
+The above would apply  mutatis-mutandis to preference shares where the fixed dividend is not paid. If  the dividend on preference shares (cumulative or noncumulative) is not  declared/paid in any year it would be treated as due/unpaid in arrears and the  date of balance sheet of the issuer for that particular year would be reckoned  as due date for the purpose of asset classification.
+In the case of equity  shares, in the event the investment in the shares of any company is valued at  Re.1 per company on account of the non availability of the latest balance  sheet, those equity shares would also be reckoned as NPI.
+If any credit facility  availed by the issuer is NPA in the books of the bank, investment in any of the  securities, including preference shares issued by the same issuer would also be  treated as NPI and vice versa. However, if only the preference shares are  classified as NPI, the investment in any of the other performing securities  issued by the same issuer may not be classified as NPI and any performing  credit facilities granted to that borrower need not be treated as NPA.
+4. General
+4.1 Income  recognition
+Banks  may book income on accrual basis on securities of corporate bodies/public  sector undertakings in respect of which the payment of interest and repayment  of principal have been guaranteed by the Central Government or a State  Government, provided interest is serviced regularly and as such is not in  arrears.
+Banks  may book income from dividend on shares of corporate bodies on accrual basis  provided dividend on the shares has been declared by the corporate body in its  Annual General Meeting and the owner’s right to reveive payment is established.
+Banks  may book income from Government Securities and bonds and debentures of  corporate bodies on accrual basis, where interest rates on these instruments  are predetermined and provided interest is serviced regularly and is not in  arrears.
+Banks  should book income from units of mutual funds on cash basis.
+4.2 Broken Period Interest
+Banks  should not capitalise the Broken Period Interest paid to seller as part of  cost, but treat it as an item of expenditure under P&L Account in respect  of investments in Government and other approved securities. It is to be noted  that the above accounting treatment does not take into account the tax  implications and, hence, the banks should comply with the requirements of Income  Tax Authorities in the manner prescribed by them.
+4.3 Dematerialised Holding
+Banks should settle the transactions in  securities as notified by SEBI only through depositories. After the  commencement of mandatory trading in dematerialised form, banks would not be  able to sell the shares of listed companies if they were held in physical form.  In order to extend the dematerialised form of holding to other instruments like  bonds, debentures and equities, RRBs are permitted to make fresh investments  and hold bonds and debentures only in dematerialised form. Outstanding  investment in scrip forms are also required to be converted in dematerialised  form.

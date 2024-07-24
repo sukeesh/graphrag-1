@@ -1,0 +1,49 @@
+(106 kb)
+Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020
+RESERVE BANK OF INDIA
+(Financial Markets Regulation Department)
+(CENTRAL OFFICE)
+NOTIFICATION
+Mumbai, the 23rd October, 2020
+Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020
+No. FEMA.399/RB-2020.–
+In exercise of the powers conferred by clause (h) of sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank makes the following regulations, to promote orderly development and maintenance of foreign exchange market in India, namely:
+1. Short title and commencement
+i) These regulations may be called the Foreign Exchange Management (Margin for Derivative Contracts) Regulations, 2020.
+ii) They shall come into force from the date of their publication in the
+Gazette of India
+.
+2. Definitions
+In these Regulations, unless the context requires otherwise:
+i) “Act” means the Foreign Exchange Management Act, 1999 (42 of 1999);
+ii) “Authorised dealer” means a person authorised as authorised dealer under subsection (1) of section 10 of the Act;
+iii) “Derivative” shall have the same meaning as assigned to it in sub-regulation (da) of regulation 2 of the
+Foreign Exchange Management (Permissible Capital Account Transactions) Regulations, 2000
+, as amended from time to time;
+iv) “Margin” means the collateral that the parties to a derivative contract post with or collect from each other (whether directly or through a third party) to cover some or all of the credit risk that the provider of the collateral poses for the receiver of the collateral;
+v) “Permitted derivative contract” means:
+a) Foreign Exchange Derivative Contract undertaken in terms of the
+Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000
+and
+Master Direction – Risk Management and Inter-bank Dealings
+, as amended from time to time,
+b) Interest Rate Derivative Contract undertaken in terms of the Rupee Interest Rate Derivatives (Reserve Bank) Directions, 2019 (
+Notification no.FMRD.DIRD.20/2019 dated June 26, 2019
+), as amended from time to time,
+c) Credit Derivative Contract undertaken in terms of
+notification no.IDMD.PCD.No.10/14.03.04/2012-13 dated January 7, 2013
+, as amended from time to time, and
+d) Any other derivative contract as may be specified by the Reserve Bank;
+vi) “Reserve Bank” means the Reserve Bank of India constituted under sub-section (1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934), as amended from time to time;
+vii) The words and expressions used but not defined in these Regulations shall have the same meanings respectively as assigned to them in the Act.
+3. Prohibition
+Save as otherwise provided in these regulations and any other regulations issued under the Act and in force on the date of commencement of these regulations, no person shall post or collect margin for derivative contracts and pay or receive interest on such margin without the prior permission of the Reserve Bank.
+4. Permission
+Notwithstanding anything contained in any other regulation issued by the Reserve Bank under the Act and for the time being in force, and subject to directions issued by the Reserve Bank in this regard, authorised dealers may:
+i) Post and collect margin, in India and outside India, on their own account or on behalf of their customers for a permitted derivative contract entered into with a person resident outside India, in the form and manner as specified by the Reserve Bank; and
+ii) Receive and pay interest on margin posted and collected on their own account or on behalf of their customers for a permitted derivative contract entered into with a person resident outside India.
+DIMPLE BHANDIA, General Manager (Officer-in-Charge)
+Footnotes:
+i) The principal Regulations [Notification no. FEMA 399/2020-RB dated October 23, 2020] were published in the Gazette of India [Extraordinary, Part III–Section 4] vide
+Gazette Id no. CG-MH-E-28102020-222786 dated 28.10.2020
+.

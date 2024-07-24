@@ -1,0 +1,41 @@
+(47 kb)
+Central Repository of Information on Large Credits (CRILC) – Revision in Reporting
+RBI/2013-14/492
+DBS.No.OSMOS.  9862/33.01.018/2013-14
+February 13, 2014
+The Chairman / Chairman &  Managing Director/
+Managing Director / Chief Executive  Officer
+of Public Sector Banks, Private  Sector Banks/
+Foreign  Banks (Excluding RRBs and LABs)
+Dear Sir,
+Central  Repository of Information on Large Credits (CRILC) – Revision in Reporting
+1. Please refer to
+DBS.Dir.OSMOS.No.3327/33.01.001/2013-14  dated September 11, 2013
+along with a Directive of even date issued  under Section 27(2) of BR Act 1949 introducing the “Central Repository of Large  Common Exposures-Across Banks” by subsuming the erstwhile Form A return on  Large Borrowers (Rs 100 million and above) in the quarterly off-site return on  Large Credit. Banks have since submitted the revised Return for the quarter  ended September 2013. Subsequently, RBI has issued the final Guidelines on “
+Early  Recognition of Financial Distress, Prompt Steps for Resolution and Fair  Recovery for Lenders: Framework for Revitalising Distressed Assets in the  Economy”
+on January 30, 2014 which would be fully effective from April 1,  2014. The Guidelines, inter-alia, envisaged creation of a CRILC by RBI to  collect, store, and disseminate credit data to banks.
+2. According to para 1.4 of the Guidelines, the  Framework will be fully effective from April 1, 2014. Hence banks must put in  place necessary system and infrastructure, as also carry out necessary tests  for correct outputs, well before the due date to effectively implement the  Framework. In the meanwhile, we advise that the reporting format of the Return  for the quarter ended December 2013 quarter has undergone revision. The revised
+format
+with explanatory footnotes on the new items including Special Mention  Account 2 (SMA-2) were forwarded to the banks vide our e-mail message dated  January 30, 2014. The revised format of the Return is enclosed. In addition to our  earlier communications on the subject and in the light of the final Guidelines  it is now advised as under:
+2.1 Submission of the Return for the quarter ended  December 2013
+As you are aware, submission of data for the quarter  ended December 2013 has been kept in abeyance vide our e-mail message dated  January 16, 2014 pending revision of the XBRL installer to incorporate new data  requirements in the light of the Discussion Paper for revitalising distressed  assets of the economy. Banks had also been advised to be ready with the data  including the new data elements for submission at short notice. The revised  XBRL installer for submission of December 2013 data would be available on the  secured server from February 14, 2014. Banks are advised to submit the return  for the quarter ended December 2013 within 10 working days from the date when  the new installer is deployed i.e. latest by February 26, 2014.
+2.2 Threshold amount for Reporting of Large Exposure
+The Guidelines require banks to furnish credit  information to CRILC on their borrowers having aggregate fund-based and  non-fund based exposure of
+`
+50  million and above with them. Presently the threshold limit for reporting large  credit in the return is
+`
+100  million and above. The PAN Master is  required to be revised in order to capture exposure of
+`
+50 million and above. The OSMOS Division  would be approaching all the banks to furnish PAN details of their borrowers  having fund based and / or non fund based exposure of
+`
+50 million and above. Banks are therefore  advised to be ready with the correct PAN details duly authenticated from Income  Tax records. The new reporting threshold amount would be effective from the  quarter ended June 2014 onwards.
+2.3 Reporting of SMA-2 Accounts
+The Guidelines require banks to report, among others,  the SMA status of the borrower to the CRILC. To enable banks to report SMA-2  accounts, the revised XBRL installer will contain two sheets – Sheet 1 for  regular reporting on quarterly basis and Sheet 2 for reporting SMA 2 account.  The Sheet 2 will be frequency neutral i.e. this sheet can be accessed whenever  a bank desires to report a borrower as SMA-2. Since the mechanism for creation  of Joint Lenders’ Forum (JLF) and formulation of Corrective Action Plan (CAP)  are critically dependent on reporting of SMA-2 to CRILC, banks need to put in  place proper MIS and reporting system so that they can report SMA-2 category  account to the CRILC on the 61st day itself. The newly introduced  second sheet for SMA-2 can be accessed from April 1, 2014.
+2.4 Reporting of Current Account Balance
+The Guidelines require banks to report outstanding  current account balance of their customers (debit or credit) of
+`
+10 million and above. In this context, it  is clarified that for the purpose of reporting in the Return banks should  report outstanding Current Account balance of any client whose name appears in  the PAN Master of the Return irrespective of the fact whether the client has  availed any exposure (fund based and or non-fund based) or not from the bank.
+It is reiterated that all banks should take utmost care about data  accuracy and integrity while submitting the data on large credit to RBI,  failing which penal action, as per provisions of the Banking Regulation Act,  1949 could be invoked.
+(P.R. Ravi Mohan)
+Chief  General Manager- In Charge
+Enclosure(s):  As above

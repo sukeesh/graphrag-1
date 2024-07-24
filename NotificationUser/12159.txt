@@ -1,0 +1,70 @@
+(329 kb)
+Tokenisation – Card Transactions: Permitting Card-on-File Tokenisation (CoFT) Services
+RBI/2021-22/96
+CO.DPSS.POLC.No.S-516/02-14-003/2021-22
+September 07, 2021
+All Payment System Providers and Payment System Participants
+Madam / Dear Sir,
+Tokenisation – Card Transactions: Permitting Card-on-File Tokenisation (CoFT) Services
+We invite reference to our
+circular DPSS.CO.PD No.1463/02.14.003/2018-19 dated January 8, 2019
+on “Tokenisation – Card transactions”, permitting authorised card networks to offer card tokenisation services subject to the conditions listed therein. Initially limited to mobile phones and tablets, this facility was subsequently extended to laptops, desktops, wearables (wrist watches, bands, etc.), Internet of Things (IoT) devices, etc., vide our
+circular CO.DPSS.POLC.No.S-469/02-14-003/2021-22 dated August 25, 2021
+on “Tokenisation – Card Transactions : Extending the Scope of Permitted Devices”.
+2. Reference is also invited to our
+circulars DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020
+(as updated from time to time) and
+CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March 31, 2021
+on “Guidelines on Regulation of Payment Aggregators and Payment Gateways”, advising that neither the authorised Payment Aggregators (PAs) nor the merchants on-boarded by them shall store customer card credentials [also known as Card-on-File (CoF)].
+3. On a review of the tokenisation framework and to enable cardholders to benefit from the security of tokenised card transactions as also the convenience of CoF, it has been decided to effect the following enhancements –
+Extend the device-based tokenisation
+1
+framework referred to at paragraph 1 above to CoF Tokenisation (CoFT) as well.
+Permit card issuers to offer card tokenisation services as Token Service Providers
+2
+(TSPs).
+The facility of tokenisation shall be offered by the TSPs only for the cards issued by / affiliated to them.
+The ability to tokenise
+3
+and de-tokenise card data shall be with the same TSP.
+Tokenisation of card data shall be done with explicit customer consent requiring Additional Factor of Authentication (AFA) validation by card issuer.
+Additional requirements relating to CoFT are listed in the
+Annex
+.
+4. Further, in the interest of cIarity, the following points may be noted –
+With effect from January 1, 2022, no entity in the card transaction / payment chain, other than the card issuers and / or card networks, shall store the actual card data. Any such data stored previously shall be purged.
+For transaction tracking and / or reconciliation purposes, entities can store limited data – last four digits of actual card number and card issuer’s name – in compliance with the applicable standards.
+Complete and ongoing compliance with the above by all entities involved, shall be the responsibility of the card networks.
+5. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Annex
+(CO.DPSS.POLC.No.S-516/02-14-003/2021-22 dated September 07, 2021)
+Conditions to be fulfilled for offering CoFT services
+1. For the purpose of CoFT, the token shall be unique for a combination of card, token requestor and merchant
+4
+.
+2. If card payment for a purchase transaction at a merchant is being performed along with the registration for CoFT, then AFA validation may be combined.
+3. The merchant shall give an option to the cardholder to de-register the token. Further, a token requestor having direct relationship with the cardholder shall list the merchants in respect of whom the CoFT has been opted through it by the cardholder; and provide an option to de-register any such token.
+4. A facility shall also be given by the card issuer to the cardholder to view the list of merchants in respect of whom the CoFT has been opted by her / him, and to de-register any such token. This facility shall be provided through one or more of the following channels – mobile application, internet banking, Interactive Voice Response (IVR) or at branches / offices.
+5. Whenever a card is renewed or replaced, the card issuer shall seek explicit consent of the cardholder for linking it with the merchants with whom (s)he had earlier registered the card.
+6. The TSP shall put in place a mechanism to ensure that the transaction request has originated from the merchant and the token requestor with whom the token is associated.
+7. All other provisions of the
+RBI circulars dated January 8, 2019
+and
+August 25, 2021
+shall be applicable.
+8. The TSPs shall monitor and ensure compliance in this regard.
+1
+The term “device-based tokenisation” wherever used in this circular refers to card tokenisation framework laid down vide
+RBI circulars dated January 8, 2019
+and
+August 25, 2021
+.
+2
+Token Service Provider (TSP) refers to the entity which tokenises the actual card credentials and de-tokenises them whenever required. Earlier only card networks were allowed to act as TSPs.
+3
+In this circular, the word “token” wherever used includes token reference number, card reference number or any other similar term.
+4
+The word “merchant” wherever used in this circular refers to the end-merchant. However, in case of an e-commerce marketplace entity, merchant refers to the said e-commerce entity. Further, token requestor and merchant may or may not be the same entity.

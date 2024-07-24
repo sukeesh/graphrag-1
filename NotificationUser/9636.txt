@@ -1,0 +1,213 @@
+(204 kb)
+Setting up of IFSC Banking Units (IBUs) (Updated as on January 21, 2020)
+RBI/2014-15/533
+DOR.IBD.BC.14570/23.13.004/2014-15
+April 1, 2015
+(
+Updated as on January 21, 2020
+)
+(
+Updated as on December 23, 2019
+)
+(
+Updated as on May 17, 2018
+)
+(
+Updated as on April 10, 2017
+)
+(
+Updated as on November 10, 2016
+)
+(
+Updated as on January 07, 2016
+)
+All Scheduled Commercial Banks
+(excluding Regional Rural Banks)
+Dear Sir/Madam
+Setting up of IFSC Banking Units (IBUs)
+Please refer to the Reserve Bank of India
+Notification No. FEMA.339/2015-RB dated March 02, 2015
+(copy enclosed) under FEMA 1999 on Foreign Exchange Management (International Financial Services Centre) Regulations, 2015 setting out RBI regulations relating to financial institutions set up in International Financial Services Centres (IFSC). These regulations have been published in the Official Gazette of Government of India on March 23, 2015 vide Notification No. G.S.R.218 (E) dated March 2, 2015.
+2. Pursuant to the above Notification, Reserve Bank has formulated a scheme for the setting up of IFSC Banking Units (IBUs) by banks in IFSCs. The broad contours of the scheme for Indian banks and foreign banks already having presence in India are detailed in
+Annex I
+and
+Annex II
+, respectively. You may be aware that Government of India has already announced setting up of an IFSC in Gujarat namely Gujarat International Finance Tec-City (GIFT) in Gandhinagar, Gujarat. The guidelines contained in this circular will be applicable to IBUs set up in GIFT as well as in other IFSCs which may be set up in India.
+3. Eligible banks intending to set up IBU may approach this department with an application under Section 23 of the Banking Regulation Act, 1949.
+Yours faithfully
+(Saurav Sinha)
+Chief General Manager-in-Charge
+ANNEX - I
+Scheme for setting up of IFSC Banking Units (IBU) by Indian Banks
+The Reserve Bank has issued a notification under FEMA vide
+Notification No. FEMA.339/2015-RB dated March 02, 2015
+setting out RBI regulations relating to financial institutions set up in International Financial Services Centres (IFSC). The regulatory and supervisory framework governing IBUs set up in IFSCs by Indian banks is detailed below.
+2. The scheme
+2.1 Eligibility criteria
+Indian banks viz. banks in the public sector and the private sector authorised to deal in foreign exchange will be eligible to set up IBUs. Each of the eligible banks would be permitted to establish only one IBU in each IFSC.
+2.2 Licensing
+Eligible banks interested in setting up IBUs will be required to obtain prior permission of the Reserve Bank for opening an IBU under Section 23 (1)(a) of the Banking Regulation Act, 1949 (BR Act). For most regulatory purposes, an IBU will be treated on par with a foreign branch of an Indian bank.
+2.3 Capital
+With a view to enabling IBUs to start their operations, the parent bank will be required to provide a minimum capital of USD 20 million or equivalent in any foreign currency to its IBU
+which should be maintained at all times. However,
+the minimum prescribed regulatory capital,
+including for the exposures of the IBU, shall be maintained
+on an on-going basis
+at the parent level.
+2.4 Reserve requirements
+The liabilities of the IBU are exempt from both CRR and SLR requirements of Reserve Bank of India.
+2.5 Resources and deployment
+2.5.1 The sources for raising funds, including borrowing in foreign currency, will be persons not resident in India and overseas branches of Indian banks.
+2.5.2 The deployment of funds can be with both persons resident in India as well as persons not resident in India. However, deployment of funds with persons resident in India shall be subject to the provisions of FEMA, 1999.
+2.6 Permissible activities of IBUs
+The IBUs will be permitted to engage in the form of business mentioned in Section 6(1) of the BR Act as given below, subject to the conditions, if any, of the licence issued to them.
+i. IBUs can undertake transactions with resident (for deployment of funds) and non-resident (for both raising of resources and deployment of funds) entities other than individuals including HNIs / retail customers as indicated in paragraph 2.5.1 and 2.5.2 above.
+ii. All transactions of IBUs shall be in currency other than INR.
+iii. IBUs can deal with the Wholly Owned Subsidiaries /Joint Ventures of Indian companies registered abroad.
+iv. RBI will not prescribe any limit for raising short-term liabilities from banks. However, the IBUs must maintain LCR as applicable to Indian banks on a stand-alone basis and strictly follow the liquidity risk management guidelines issued by RBI to banks. Further, NSFR will also be applicable to IBUs as and when it is applied to Indian banks.
+v. IBUs are not allowed to open savings accounts. They can open foreign currency current accounts of units operating in IFSC and of non-resident institutional investors to facilitate their investment transactions. They can also open foreign currency current accounts (including escrow accounts) of their corporate borrowers subject to the provisions of FEMA 1999 and regulations issued thereunder, wherever applicable in addition to provisions of para 2.5 above. However, IBUs cannot raise liabilities from retail customers including high net worth individuals (HNIs). Also, no cheque facility will be available for holders of current accounts in the IBUs. All transactions through these accounts must be undertaken via bank transfers.
+vi. IBUs are permitted to undertake factoring/forfaiting of export receivables.
+vii. With the prior approval of their board of directors, IBUs may undertake derivative transactions including structured products that the banks operating in India have been allowed to undertake as per the extant RBI directions. However, IBUs shall obtain RBI’s prior approval for offering any other derivative products. Before seeking RBI’s approval, banks shall ensure that their IBUs have necessary expertise to price, value and compute the capital charge and manage the risks associated with the products / transactions intended to be offered and should also obtain their Board’s approval for undertaking such transactions.
+This is subject to the provisions of paragraph 2.6(xiv).
+viii. IBUs are allowed to open foreign currency escrow account of Indian resident entities to temporally hold subscriptions to the GDR/ADR issues until issuance of the Receipts. After GDRs/ADRs are issued, the funds should immediately be transferred to the client’s account outside the IBU and cannot be retained by the bank in any form including in long term deposits.
+ix. IBUs are allowed to act as underwriter / arranger of Indian Rupee (INR) denominated overseas bonds issued by Indian entities in overseas market in terms of extant RBI instructions contained in FED CO
+AP Dir Circular No 17 dated September 29, 2015
+. However, in cases where part of the issuance underwritten by an IBU devolves on it, efforts must be made to sell the underwritten holdings and after 6 months of the issue date these holdings must not exceed 5% of the issue size.
+x. Subject to para 2.5 above, the IBUs can accept fixed deposits in foreign currency of tenor less than one year from non-bank entities and can also repay fixed deposits prematurely without any time restrictions.
+xi. An IBU can be a
+Trading Member
+of an exchange in the IFSC for trading in interest rate and currency derivatives segments that the banks operating in India have been allowed to undertake as per the extant RBI directions.
+xii. An IBU can become a
+Professional Clearing Member (PCM)
+of the exchange in the IFSC for clearing and settlements in any derivative segments. This shall be subject to the following conditions:
+The parent bank of the IBU (“the bank”) shall fulfil the prudential requirements as set out in Para 21 of the
+Master Direction/DBR.FSD.No.101/ 24.01.041/2015-16 dated May 26, 2016
+.
+The IBU shall, with the approval of the bank’s Board, put in place effective risk control measures, prudential limits on risk exposure in respect of each of its trading clients, taking into account their net worth, business turnover, etc.
+The IBU may, as a PCM of derivatives segments, guarantee trades executed by its clients as trading members of the exchanges subject to the condition that the total exposure which the bank would take on its registered clients should be determined by the Board in relation to the net worth of the bank and monitored regularly. However, the IBU should not guarantee any transaction other than what is required in its role as a PCM.
+The IBU shall ensure strict compliance with various margin requirements as may be prescribed by the bank’s Board as also the extant RBI guidelines regarding guarantees issued on behalf of commodity brokers.
+The IBU shall comply with all the conditions, if any, stipulated by other regulatory bodies that may be relevant for their role as a PCM
+.
+xiii. IBUs are allowed to extend facility of bank guarantees and short term loans to IFSC stock broking/commodity broking entities, subject to the terms and conditions contained in paragraph 2.3.1.2 of the
+Master Circular on Statutory Restrictions on Loans and Advances dated July 1, 2015
+.
+xiv. IBUs are allowed to participate in exchange traded currency derivatives on Rupee (with settlement in foreign currency) listed on stock exchanges set up at IFSCs. Banks shall ensure that their IBUs have necessary expertise to price, value and compute the capital charge and manage the risks associated with the products / transactions intended to be offered and should also obtain their Board’s approval for undertaking such transactions. IBUs shall follow all other risk mitigation and prudential measures as applicable and detailed in this circular while participating in these products. Further, IBUs may also be guided by
+A.P (DIR Series) Circular No. 17 on “Introduction of Rupee derivatives at International Financial Services Centres (IFSCs)” dated January 20, 2020
+.
+2.7 Prudential regulations
+All prudential norms applicable to overseas branches of Indian banks would apply to IBUs. Specifically, these units would be required to follow the 90 days’ payment delinquency norm for income recognition, asset classification and provisioning as applicable to Indian banks. The bank’s board may set out appropriate credit risk management policy and exposure limits for their IBUs consistent with the regulatory prescriptions of the RBI.
+The IBUs would be required to adopt liquidity and interest rate risk management policies prescribed by the Reserve Bank in respect of overseas branches of Indian banks and function within the overall risk management and ALM framework of the bank subject to monitoring by the board at prescribed intervals.
+The bank’s board would be required to set comprehensive overnight limits for each currency for these Units, which would be separate from the open position limit of the parent bank.
+Exposure ceiling
+Exposure ceiling for IBUs shall be 5 percent of the parent bank’s Tier 1 capital in case of a single borrower and 10 percent of parent bank’s Tier 1 capital in the case of a borrower group.
+2.8 Anti-Money Laundering measures
+The IBUs will be required to scrupulously follow "Know Your Customer (KYC)", Combating of Financing of Terrorism (CFT) and other anti-money laundering instructions issued by the Reserve Bank from time to time
+, including the reporting thereof, as prescribed by the Reserve Bank /other agencies in India
+. IBUs are prohibited from undertaking cash transactions.
+2.9 Regulation and Supervision
+The IBUs will be regulated and supervised by the Reserve Bank of India.
+2.10 Reporting requirements
+The IBUs will be required to furnish information relating to their operations as prescribed by the Reserve Bank from time to time. These may take the form of offsite reporting, audited financial statements for IBUs, etc.
+2.11 Ring fencing the activities of IFSC Banking Units
+The IBUs would operate and maintain balance sheet only in foreign currency and will not be allowed to deal in Indian Rupees except for having a Special Rupee account out of convertible fund to defray their administrative and statutory expenses. Such operations/transactions of these units in INR would be through the Authorised Dealers (distinct from IBU) which would be subject to the extant Foreign Exchange regulations. IBUs are not allowed to participate in the domestic call, notice, term, forex, money and other onshore markets and domestic payment systems.
+The IBUs will be required to maintain separate nostro accounts with correspondent banks which would be distinct from nostro accounts maintained by other branches of the same bank.
+As per
+FEMA Notification No.339/2015-RB dated March 02, 2015
+, a financial institution or a branch of a financial institution set up in the IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority shall be treated as a person resident outside India. Further, under
+FEMA Notification No.5(R)/2016-RB (schedule-4) dated April 01, 2016
+, any person resident outside India, having business interest in India, may maintain Special Non-Resident Rupee Account(s) (SNRRA) with an Authorised Dealer in the domestic sector for meeting their administrative expenses in INR. Accordingly, any financial institution (as defined under
+FEMA Notification No.339/2015-RB dated March 02, 2015
+) or a branch of a financial institution including an IBU operating in an IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority, can maintain SNRRA with a bank (Authorised Dealer) in the domestic sector for meeting its administrative expenses in INR. These accounts must be funded only by foreign currency remittances through a channel appropriate for international remittances which would be subject to the extant FEMA regulations. The financial institution can make payments, permissible under FEMA regulations, from its SNRRA, in its capacity as a customer, by suitably instructing the domestic bank with whom the SNRRA is maintained.
+2.12 Priority sector lending
+The loans and advances of IBUs would not be reckoned as part of the Net Bank Credit of the parent bank for computing priority sector lending obligations.
+2.13 Deposit insurance
+Deposits of IBUs will not be covered by deposit insurance.
+2.14 Lender of Last Resort (LOLR)
+No liquidity support or LOLR support will be available to IBUs from the Reserve Bank of India.
+ANNEX II
+Scheme for setting up of IFSC Banking Units (IBU) by foreign banks already having a presence in India
+The Reserve Bank has issued a notification under FEMA vide
+Notification No. FEMA.339/2015/RB dated March 02, 2015
+setting out RBI regulations relating to financial institutions set up in International Financial Services Centres (IFSC). The regulatory and supervisory framework governing the IFSC Banking Units (IBU) set up by foreign banks is detailed below.
+2. The scheme
+2.1 Eligibility criteria
+Only foreign banks already having presence in India will be eligible to set up IBUs. This shall not be treated as a normal branch expansion plan in India and therefore, specific permission from the home country regulator for setting up of an IBU will be required. Each of the eligible banks will be permitted to establish only one IBU in each IFSC.
+2.2 Licensing
+The banks will be required to obtain prior permission of the Reserve Bank for opening an IBU under Section 23 (1)(a) of the Banking Regulation Act, 1949 (BR Act). The applications of foreign banks will be considered on the basis of extant guidelines for setting up branches in India subject to the additional requirement of the home country regulator/s confirmation in writing of their regulatory comfort for the bank’s presence in the IFSC, having regard among other things, to the provisions of paragraphs 2.3 and 2.14 below.
+2.3 Capital
+With a view to enabling IBUs to start their operations, the parent bank will be required to provide a minimum capital of USD 20 million or equivalent in any foreign currency to its IBU
+which should be maintained at all times. However,
+the minimum prescribed regulatory capital
+, including for the exposures of the IBU, shall be maintained
+on an on-going basis
+at the parent level
+as per regulations
+in the home country and the IBU shall submit a certificate to this effect obtained from the parent on a half-yearly basis to RBI (International Banking Division, DOR, CO, RBI).
+The parent bank will be required to provide a Letter of Comfort for extending financial assistance, as and when required, in the form of capital / liquidity support to IBU.
+2.4 Reserve requirements
+The liabilities of the IBU are exempt from both CRR and SLR requirements of Reserve Bank of India.
+2.5 Resources and deployment
+2.5.1 The sources for raising funds, including borrowing in foreign currency, will be persons not resident in India and overseas branches of Indian banks.
+2.5.2 The deployment of funds can be with both persons resident in India as well as persons not resident in India. However, deployment of funds with persons resident in India shall be subject to the provisions of FEMA, 1999.”
+2.6 Permissible activities of IBUs
+The IBUs will be permitted to engage in the form of business mentioned in Section 6(1) of the BR Act as given below, subject to the conditions, if any, of the licence issued to them.
+i. IBUs can undertake transactions with resident (for deployment of funds) and non-resident (for both raising of resources and deployment of funds) entities other than individuals including HNIs / retail customers as indicated in paragraph 2.5.1 and 2.5.2 above.
+ii. All transactions of IBUs shall be in currency other than INR.
+iii. IBUs can deal with the Wholly Owned Subsidiaries / Joint Ventures of Indian companies registered abroad.
+iv. RBI will not prescribe any limit for raising short-term liabilities from banks. However, the IBUs must maintain LCR as applicable to Indian banks on a stand-alone basis and strictly follow the liquidity risk management guidelines issued by RBI to banks. Further, NSFR will also be applicable to IBUs as and when it is applied to Indian banks.
+v. IBUs are not allowed to open savings accounts. They can open foreign currency current accounts of units operating in IFSC and of non-resident institutional investors to facilitate their investment transactions. They can also open foreign currency current accounts (including escrow accounts) of their corporate borrowers subject to the provisions of FEMA 1999 and regulations issued thereunder, wherever applicable in addition to provisions of para 2.5 above. However, the IBUs cannot raise liabilities from retail customers including high net worth individuals (HNIs). Also, no cheque facility will be available for holders of current accounts in the IBUs. All transactions through these accounts must be undertaken via bank transfers.
+vi. IBUs are permitted to undertake factoring / forfaiting of export receivables.
+vii. With the prior approval of their board of directors, IBUs may undertake derivative transactions including structured products that the banks operating in India have been allowed to undertake as per the extant RBI directions. However, IBUs shall obtain RBI’s prior approval for offering any other derivative products. Before seeking RBI’s approval, banks shall ensure that their IBUs have necessary expertise to price, value and compute the capital charge and manage the risks associated with the products / transactions intended to be offered and should also obtain their Board’s approval for undertaking such transactions.
+This is subject to the provisions of paragraph 2.6(xiv).
+viii. IBUs are allowed to open foreign currency escrow account of Indian resident entities to temporally hold subscriptions to the GDR/ADR issues until issuance of the Receipts. After GDRs/ADRs are issued, the funds should immediately be transferred to the client’s account outside the IBU and cannot be retained by the bank in any form including in long term deposits.
+ix. IBUs are allowed to act as underwriter / arranger of Indian Rupee (INR) denominated overseas bonds issued by Indian entities in overseas market in terms of extant RBI instructions contained in
+FED CO AP Dir Circular No 17 dated September 29, 2015
+. However, in cases where part of the issuance underwritten by an IBU devolves on it, efforts must be made to sell the underwritten holdings and after 6 months of the issue date these holdings must not exceed 5% of the issue size.
+x. Subject to para 2.5 above, the IBUs can accept fixed deposits in foreign currency of tenor less than one year from non-bank entities and can also repay fixed deposits prematurely without any time restrictions.
+xi. An IBU can be a
+Trading Member
+of an exchange in the IFSC for trading in interest rate and currency derivatives segments that the banks operating in India have been allowed to undertake as per the extant RBI directions.
+xii. An IBU can become a
+Professional Clearing Member (PCM)
+of the exchange in the IFSC for clearing and settlements in any derivative segments. This shall be subject to the following conditions:
+The parent bank of the IBU (“the bank”) shall fulfil the prudential requirements as set out in Para 21 of the
+Master Direction/DBR.FSD.No.101/ 24.01.041/2015-16 dated May 26, 2016
+.
+The IBU shall, with the approval of the bank’s Board, put in place effective risk control measures, prudential limits on risk exposure in respect of each of its trading clients, taking into account their net worth, business turnover, etc.
+The IBU may, as a PCM of derivatives segments, guarantee trades executed by its clients as trading members of the exchanges subject to the condition that the total exposure which the bank would take on its registered clients should be determined by the Board in relation to the net worth of the bank and monitored regularly. However, the IBU should not guarantee any transaction other than what is required in its role as a PCM.
+The IBU shall ensure strict compliance with various margin requirements as may be prescribed by the bank’s Board as also the extant RBI guidelines regarding guarantees issued on behalf of commodity brokers.
+The IBU shall comply with all the conditions, if any, stipulated by other regulatory bodies that may be relevant for their role as a PCM.
+xiii. IBUs are allowed to extend facility of bank guarantees and short term loans to IFSC stock broking/commodity broking entities, subject to the terms and conditions contained in paragraph 2.3.1.2 of the
+Master Circular on Statutory Restrictions on Loans and Advances dated July 1, 2015
+.
+xiv. IBUs are allowed to participate in exchange traded currency derivatives on Rupee (with settlement in foreign currency) listed on stock exchanges set up at IFSCs. Banks shall ensure that their IBUs have necessary expertise to price, value and compute the capital charge and manage the risks associated with the products / transactions intended to be offered and should also obtain their Board’s approval for undertaking such transactions. IBUs shall follow all other risk mitigation and prudential measures as applicable and detailed in this circular while participating in these products. Further, IBUs may also be guided by
+A.P (DIR Series) Circular No. 17 on “Introduction of Rupee derivatives at International Financial Services Centres (IFSCs)” dated January 20, 2020
+.
+2.7 Prudential regulations
+An IBU shall adopt prudential norms as prescribed by Reserve Bank of India. The bank’s board may set out appropriate credit risk management policy and exposure limits for their IBUs consistent with the regulatory prescriptions of the Reserve Bank of India.
+The IBUs will be required to adopt liquidity and interest rate risk management policies prescribed by the Reserve Bank and function within the overall risk management and ALM framework of the bank subject to monitoring by the board at prescribed intervals.
+The bank’s board would be required to set comprehensive overnight limits for each currency for these Units, which would be separate from the open position limit of the other branch/es of the foreign bank having a presence in India.
+Exposure ceiling
+Exposure ceiling for IBUs shall be 5 percent of the parent bank’s Tier 1 capital in case of a single borrower and 10 percent of parent bank’s Tier 1 capital in the case of a borrower group.
+2.8 Anti-Money Laundering measures
+The IBUs will be required to scrupulously follow "Know Your Customer (KYC)", Combating of Financing of Terrorism (CFT) and other anti-money laundering instructions issued by RBI from time to time, including the reporting thereof, as prescribed by the Reserve Bank /other agencies in India. IBUs are prohibited from undertaking cash transactions.
+2.9 Regulation and supervision
+The IBUs of foreign banks will be regulated and supervised by the Reserve Bank of India.
+2.10 Reporting requirements
+The IBUs will be required to furnish information relating to their operations as prescribed from time to time by the Reserve Bank. These may take the form of offsite reporting, audited financial statements for the IBU, etc.
+2.11 Ring fencing the activities of IFSC Banking Units
+The IBUs would operate and maintain balance sheet only in foreign currency and would not be allowed to deal in Indian Rupees except for having a Special Rupee account out of convertible fund to defray their administrative and statutory expenses. Such operations/transactions of these units in INR would be through the Authorised Dealers (distinct from IBU) which would be subject to the extant Foreign Exchange regulations. IBUs are not allowed to participate in the domestic call, notice, term, forex, money and other onshore markets and domestic payment systems.
+The IBUs will be required to maintain separate nostro accounts with correspondent banks which would be distinct from nostro accounts maintained by other branches of that foreign bank in India.
+As per
+FEMA Notification No.339/2015-RB dated March 02, 2015
+, a financial institution or a branch of a financial institution set up in the IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority shall be treated as a person resident outside India. Further, under
+FEMA Notification No.5(R)/2016-RB (schedule-4) dated April 01, 2016
+, any person resident outside India, having business interest in India, may maintain Special Non-Resident Rupee Account(s) (SNRRA) with an Authorised Dealer in the domestic sector for meeting their administrative expenses in INR. Accordingly, any financial institution (as defined under
+FEMA Notification No.339/2015-RB dated March 02, 2015
+) or a branch of a financial institution including an IBU operating in an IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority, can maintain SNRRA with a bank (Authorised Dealer) in the domestic sector for meeting its administrative expenses in INR. These accounts must be funded only by foreign currency remittances through a channel appropriate for international remittances which would be subject to the extant FEMA regulations. The financial institution can make payments, permissible under FEMA regulations, from its SNRRA, in its capacity as a customer, by suitably instructing the domestic bank with whom the SNRRA is maintained.
+2.12 Priority sector lending
+The loans and advances of IBUs will not be reckoned as part of the Net Bank Credit for computing priority sector lending obligations of the foreign bank in India.
+2.13 Deposit insurance
+Deposits of IBUs will not be eligible for deposit insurance in India.
+2.14 Lender of Last Resort (LOLR)
+No liquidity support or LOLR support will be available to IBUs from the Reserve Bank of India.

@@ -1,0 +1,598 @@
+(445 kb)
+Master Circular on Wilful Defaulters
+RBI/2015-16/100
+DBR.No.CID.BC.22/20.16.003/2015-16
+July 1, 2015
+i) All Scheduled Commercial Banks (excluding RRBs) and
+ii) All India Notified Financial Institutions
+Dear Sir / Madam
+Master Circular on Wilful Defaulters
+Please refer to the
+Master Circular no. DBR.No.CID.BC.57/20.16.003/2014-15 dated July 1, 2014
+consolidating instructions/guidelines issued to banks/FIs till June 30, 2014 and updated as on January 7, 2015 on matters related to wilful defaulters.
+2. This
+Master Circular
+consolidates instructions on the above matters up to June 30, 2015.
+Yours faithfully,
+(Sudha Damodar)
+Chief General Manager
+Master Circular on ‘Wilful Defaulters’
+Purpose:
+To put in place a system to disseminate credit information pertaining to willful defaulters for cautioning banks and financial institutions so as to ensure that further bank finance is not made available to them.
+Application:
+To all Scheduled Commercial banks (excluding RRBs) and All India Notified Financial Institutions.
+Structure:
+1
+Introduction
+2
+Guidelines on Wilful Defaulters
+2.1
+Definitions of Lender, Unit and Wilful Default
+2.2
+Diversion and siphoning of funds
+2.3
+Cut-off Limits
+2.4
+End-use of Funds
+2.5
+Penal Measures
+2.6
+Guarantees furnished by individuals, group companies & non-group companies
+2.7
+Role of Auditors
+2.8
+Role of Internal Audit / Inspection
+2.9
+Reporting to Credit Information Companies
+3
+Mechanism for identification of Wilful defaulters
+4
+Criminal Action against Wilful Defaulters
+4.1
+JPC recommendations
+4.2(i)
+Monitoring End-Use of Funds
+4.2(ii)
+Criminal Action by Banks / FIs
+5
+Reporting
+5.1
+Need for Ensuring Accuracy
+5.2
+Position regarding Guarantors
+5.3
+Government Undertakings
+5.4
+Inclusion of Director Identification Number (DIN)
+6
+Annex 1 - Reporting Format
+Annex 2 - List of Circulars consolidated
+1. Introduction
+Pursuant to the instructions of the Central Vigilance Commission for collection of information on wilful defaults of Rs.25 lakhs and above by RBI and dissemination to the reporting banks and FIs, a scheme was framed by RBI with effect from 1st April 1999 under which the banks and notified All India Financial Institutions were required to submit to RBI the details of the wilful defaulters. The scheme was modified in May 2002, based on recommendations of Working Group on wilful defaulters, which was also revised from time to time as per the recommendations of the Committee on Data Format for Furnishing of Credit Information to Credit Information Companies and various feedbacks received from different stakeholders.
+2. Guidelines on Wilful Defaulters
+2.1 Definitions of ‘Lender’, ‘Unit’ and ‘wilful default’
+2.1.1
+Lender:
+The term ‘lender’ covers all banks / FIs to which any amount is due, provided it is arising on account of any banking transaction, including off balance sheet transactions such as derivatives, guarantees and letters of credit.
+2.1.2
+Unit:
+The term ‘unit’ includes individuals, juristic persons and all other forms of business enterprises, whether incorporated or not. In case of business enterprises (other than companies), banks / FIs may also report (in the Director column of
+Annex 1
+) the names of those persons who are in charge and responsible for the management of the affairs of the business enterprise.
+2.1.3
+Wilful Default:
+A ‘wilful default’ would be deemed to have occurred if any of the following events is noted:
+The unit has defaulted in meeting its payment / repayment obligations to the lender even when it has the capacity to honour the said obligations.
+The unit has defaulted in meeting its payment / repayment obligations to the lender and has not utilised the finance from the lender for the specific purposes for which finance was availed of but has diverted the funds for other purposes.
+The unit has defaulted in meeting its payment / repayment obligations to the lender and has siphoned off the funds so that the funds have not been utilised for the specific purpose for which finance was availed of, nor are the funds available with the unit in the form of other assets.
+The unit has defaulted in meeting its payment / repayment obligations to the lender and has also disposed off or removed the movable fixed assets or immovable property given for the purpose of securing a term loan without the knowledge of the bank / lender.
+The identification of the wilful default should be made keeping in view the track record of the borrowers and should not be decided on the basis of isolated transactions / incidents. The default to be categorised as wilful must be intentional, deliberate and calculated.
+2.2 Diversion and siphoning of funds
+2.2.1
+Diversion of Funds:
+The term ‘diversion of funds’ referred to at paragraph 2.1.3(b) above, should be construed to include any one of the undernoted occurrences:
+(a) utilisation of short-term working capital funds for long-term purposes not in conformity with the terms of sanction;
+(b) deploying borrowed funds for purposes / activities or creation of assets other than those for which the loan was sanctioned;
+(c) transferring borrowed funds to the subsidiaries / Group companies or other corporates by whatever modalities;
+(d) routing of funds through any bank other than the lender bank or members of consortium without prior permission of the lender;
+(e) investment in other companies by way of acquiring equities / debt instruments without approval of lenders;
+(f) shortfall in deployment of funds vis-à-vis the amounts disbursed / drawn and the difference not being accounted for.
+2.2.2
+Siphoning of Funds:
+The term ‘siphoning of funds’, referred to at paragraph 2.1.3(c) above, should be construed to occur if any funds borrowed from banks / FIs are utilised for purposes unrelated to the operations of the borrower, to the detriment of the financial health of the entity or of the lender. The decision as to whether a particular instance amounts to siphoning of funds would have to be a judgment of the lenders based on objective facts and circumstances of the case.
+2.3 Cut-off Limits
+While the penal measures indicated at paragraph 2.5 below would normally be attracted by all the borrowers identified as wilful defaulters or the promoters involved in diversion / siphoning of funds, keeping in view the present limit of Rs.25 lakh fixed by the Central Vigilance Commission for reporting of cases of wilful default by the banks / FIs to RBI, any wilful defaulter with an outstanding balance of Rs.25 lakh or more, would attract the penal measures stipulated at paragraph 2.5 below. This limit of Rs.25 lakh may also be applied for the purpose of taking cognisance of the instances of siphoning / diversion of funds.
+2.4 End-Use of Funds
+In cases of project financing, the banks / FIs seek to ensure end use of funds by, inter alia, obtaining certification from the Chartered Accountants for the purpose. In case of short-term corporate / clean loans, such an approach ought to be supplemented by 'due diligence' on the part of lenders themselves, and to the extent possible, such loans should be limited to only those borrowers whose integrity and reliability are above board. The banks and FIs, therefore, should not depend entirely on the certificates issued by the Chartered Accountants but strengthen their internal controls and the credit risk management system to enhance the quality of their loan portfolio.
+The requirement and related appropriate measures in ensuring end-use of funds by the banks and FIs should form a part of their loan policy document.. The following are some of the illustrative measures that could be taken by the lenders for monitoring and ensuring end-use of funds:
+(a) Meaningful scrutiny of quarterly progress reports / operating statements / balance sheets of the borrowers;
+(b) Regular inspection of borrowers’ assets charged to the lenders as security;
+(c) Periodical scrutiny of borrowers’ books of accounts and the ‘no-lien’ accounts maintained with other banks;
+(d) Periodical visits to the assisted units;
+(e) System of periodical stock audit, in case of working capital finance;
+(f) Periodical comprehensive management audit of the ‘credit’ function of the lenders, so as to identify the systemic-weaknesses in their credit administration.
+(It may be kept in mind that this list of measures is only illustrative and by no means exhaustive.)
+2.5 Penal Measures
+The following measures should be initiated by the banks and FIs against the wilful defaulters identified as per the definition indicated at paragraph 2.1.3 above:
+No additional facilities should be granted by any bank / FI to the listed wilful defaulters. In addition, such companies (including their entrepreneurs / promoters) where banks / FIs have identified siphoning / diversion of funds, misrepresentation, falsification of accounts and fraudulent transactions should be debarred from institutional finance from the scheduled commercial banks, Financial Institutions, NBFCs, for floating new ventures for a period of 5 years from the date of removal of their name from the list of wilful defaulters as published/disseminated by RBI/CICs.
+The legal process, wherever warranted, against the borrowers / guarantors and foreclosure for recovery of dues should be initiated expeditiously. The lenders may initiate criminal proceedings against wilful defaulters, wherever necessary.
+Wherever possible, the banks and FIs should adopt a proactive approach for a change of management of the wilfully defaulting borrower unit.
+A covenant in the loan agreements, with the companies to which the banks / FIs have given funded / non-funded credit facility, should be incorporated by the banks / FIs to the effect that the borrowing company should not induct on its board a person whose name appears in the list of Wilful Defaulters and that in case, such a person is found to be on its board, it would take expeditious and effective steps for removal of the person from its board.
+It would be imperative on the part of the banks and FIs to put in place a transparent mechanism for the entire process so that the penal provisions are not misused and the scope of such discretionary powers are kept to the barest minimum. It should also be ensured that a solitary or isolated instance is not made the basis for imposing the penal action.
+2.6 Guarantees furnished by individuals, group companies & non-group companies
+While dealing with wilful default of a single borrowing company in a Group, the banks / FIs should consider the track record of the individual company, with reference to its repayment performance to its lenders. However, in cases where guarantees furnished by the companies within the Group on behalf of the wilfully defaulting units are not honoured when invoked by the banks / FIs, such Group companies should also be reckoned as wilful defaulters.
+In connection with the guarantors, in terms of Section 128 of the Indian Contract Act, 1872, the liability of the surety is co-extensive with that of the principal debtor unless it is otherwise provided by the contract. Therefore, when a default is made in making repayment by the principal debtor, the banker will be able to proceed against the guarantor / surety even without exhausting the remedies against the principal debtor. As such, where a banker has made a claim on the guarantor on account of the default made by the principal debtor, the liability of the guarantor is immediate. In case the said guarantor refuses to comply with the demand made by the creditor / banker, despite having sufficient means to make payment of the dues, such guarantor would also be treated as a wilful defaulter. This treatment of non-group corporate and individual guarantors was made applicable with effect from September 9, 2014 and not to cases where guarantees were taken prior to this date. Banks/FIs may ensure that this position is made known to all guarantors at the time of accepting guarantees.
+2.7 Role of auditors
+In case any falsification of accounts on the part of the borrowers is observed by the banks / FIs, and if it is observed that the auditors were negligent or deficient in conducting the audit, they should lodge a formal complaint against the auditors of the borrowers with the Institute of Chartered Accountants of India (ICAI) to enable the ICAI to examine and fix accountability of the auditors. Pending disciplinary action by ICAI, the complaints may also be forwarded to the RBI (Department of Banking Supervision, Central Office) and IBA for records. IBA would circulate the names of the CA firms, against whom many complaints have been received, amongst all banks who should consider this aspect before assigning any work to them. RBI would also share such information with other financial sector regulators / Ministry of Corporate Affairs (MCA) / Comptroller and Auditor General (CAG).
+With a view to monitoring the end-use of funds, if the lenders desire a specific certification from the borrowers’ auditors regarding diversion / siphoning of funds by the borrower, the lender should award a separate mandate to the auditors for the purpose. To facilitate such certification by the auditors, the banks and FIs will also need to ensure that appropriate covenants in the loan agreements are incorporated to enable award of such a mandate by the lenders to the borrowers / auditors.
+In addition to the above, banks are advised that with a view to ensuring proper end-use of funds and preventing diversion / siphoning of funds by the borrowers, lenders could consider engaging their own auditors for such specific certification purpose without relying on certification given by borrower’s auditors. However, this cannot substitute a bank’s basic minimum own diligence in the matter.
+2.8 Role of Internal Audit / Inspection
+The aspect of diversion of funds by the borrowers should be adequately looked into while conducting internal audit / inspection of their offices / branches and periodical reviews on cases of wilful defaults should be submitted to the Audit Committee of the bank.
+2.9 Reporting to Credit Information Companies
+(a) Reserve Bank of India has, in exercise of the powers conferred by Section 5 of the Credit Information Companies (Regulations) Act, 2005 and the Rules and Regulations framed thereunder, granted Certificate of Registration to (i) Experian Credit Information Company of India Private Limited, (ii) Equifax Credit Information Services Private Limited, (iii) CRIF High Mark Credit Information Services Private Limited and (iv) Credit Information Bureau (India) Limited (CIBIL) to commence/carry on the business of credit information.
+(b) Banks / FIs should submit the list of suit-filed accounts and non suit filed accounts of wilful defaulters of Rs.25 lakh and above on a monthly or more frequent basis to all the four Credit Information Companies. This would enable such information to be available to the banks / FIs on a near real time basis.
+Explanation
+In this connection, it is clarified that banks need not report cases where
+(i) outstanding amount falls below Rs.25 lakh and
+(ii) in respect of cases where banks have agreed for a compromise settlement and the borrower has fully paid the compromised amount.
+(c) Credit Information Companies (CICs) have also been advised to disseminate the information pertaining to suit filed accounts of wilful defaulters on their respective websites.
+3. Mechanism for identification of Wilful Defaulters
+The mechanism referred to in paragraph 2.5 above should generally include the following:
+(a) The evidence of wilful default on the part of the borrowing company and its promoter / whole-time director at the relevant time should be examined by a Committee headed by an Executive Director or equivalent and consisting of two other senior officers of the rank of GM / DGM.
+(b) If the Committee concludes that an event of wilful default has occurred, it shall issue a Show Cause Notice to the concerned borrower and the promoter / whole-time director and call for their submissions and after considering their submissions issue an order recording the fact of wilful default and the reasons for the same. An opportunity should be given to the borrower and the promoter / whole-time director for a personal hearing if the Committee feels such an opportunity is necessary.
+(c) The Order of the Committee should be reviewed by another Committee headed by the Chairman / Chairman & Managing Director or the Managing Director & Chief Executive Officer / CEOs and consisting, in addition, to two independent directors / non-executive directors of the bank and the Order shall become final only after it is confirmed by the said Review Committee. However, if the Identification Committee does not pass an Order declaring a borrower as a wilful defaulter, then the Review Committee need not be set up to review such decisions.
+(d) As regard a non-promoter / non-whole time director, it should be kept in mind that Section 2(60) of the Companies Act, 2013 defines an officer who is in default to mean only the following categories of directors:
+(i) whole-time director
+(ii) where there is no key managerial personnel, such director or directors as specified by the Board in this behalf and who has or have given his or their consent in writing to the Board to such specification, or all the directors, if no director is so specified;
+(iii) every director, in respect of a contravention of any of the provisions of Companies Act, who is aware of such contravention by virtue of the receipt by him of any proceedings of the Board or participation in such proceedings and who has not objected to the same, or where such contravention had taken place with his consent or connivance.
+Therefore, except in very rare cases, a non-whole time director should not be considered as a wilful defaulter unless it is conclusively established that:
+I. he was aware of the fact of wilful default by the borrower by virtue of any proceedings recorded in the minutes of meeting of the Board or a Committee of the Board and has not recorded his objection to the same in the Minutes; or,
+II. the wilful default had taken place with his consent or connivance.
+The above exception will however not apply to a promoter director even if not a whole time director.
+(iv) As a one-time measure, Banks / FIs, while reporting details of wilful defaulters to the Credit Information Companies may thus remove the names of non-whole time directors (nominee directors / independent directors) in respect of whom they already do not have information about their complicity in the default / wilful default of the borrowing company. However, the names of promoter directors, even if not whole time directors, on the board of the wilful defaulting companies cannot be removed from the existing list of wilful defaulters.
+(e) A similar process as detailed in sub-paragraphs (a) to (c) above should be followed when identifying a non-promoter / non-whole time director as a wilful defaulter.
+4. Criminal Action against Wilful Defaulters
+4.1 JPC Recommendations
+Reserve Bank examined, the issues relating to restraining wilful defaults in consultation with the Standing Technical Advisory Committee on Financial Regulation in the context of the following recommendations of the JPC and in particular, on the need for initiating criminal action against concerned borrowers, viz.
+a. It is essential that offences of breach of trust or cheating construed to have been committed in the case of loans should be clearly defined under the existing statutes governing the banks, providing for criminal action in all cases where the borrowers divert the funds with malafide intentions.
+b. It is essential that banks closely monitor the end-use of funds and obtain certificates from the borrowers certifying that the funds have been used for the purpose for which these were obtained.
+c. Wrong certification should attract criminal action against the borrower.
+4.2 Accordingly, banks / FIs are advised, as under:
+(i) Monitoring End-Use of Funds
+In reference to Para 2.4 of this circular, it is advised that banks / FIs should closely monitor the end-use of funds and obtain certificates from borrowers certifying that the funds are utilised for the purpose for which they were obtained. In case of wrong certification by the borrowers, banks / FIs may consider appropriate legal proceedings, including criminal action wherever necessary, against the borrowers.
+(ii) Criminal Action by Banks / FIs
+It is essential to recognise that there is scope even under the existing legislations to initiate criminal action against wilful defaulters depending upon the facts and circumstances of the case under the provisions of Sections 403 and 415 of the Indian Penal Code (IPC), 1860. Banks / FIs are, therefore, advised to seriously and promptly consider initiating criminal action against wilful defaulters or wrong certification by borrowers, wherever considered necessary, based on the facts and circumstances of each case under the above provisions of the IPC to comply with our instructions and the recommendations of JPC.
+It should also be ensured that the penal provisions are used effectively and determinedly but after careful consideration and due caution. Towards this end, banks / FIs are advised to put in place a transparent mechanism, with the approval of their Board, for initiating criminal proceedings based on the facts of individual case.
+5. Reporting
+5.1 Need for Ensuring Accuracy
+Credit Information Companies disseminate information on non-suit filed and suit filed accounts respectively of Wilful Defaulters, as reported to them by the banks / FIs and therefore, the responsibility for reporting correct information and also accuracy of facts and figures rests with the concerned banks and financial institutions. Banks / FIs may also ensure the facts about directors, wherever possible, by cross-checking with Registrar of Companies.
+5.2 Position regarding Guarantors
+Banks / FIs may take due care to follow the provisions set out in paragraph 3 of the this circular in identifying and reporting instances of wilful default in respect of guarantors also. While reporting such names to RBI, banks/FIs may include ‘Guar’ in brackets i.e. (Guar) against the name of the guarantor and report the same in the Director column.
+5.3 Government Undertakings
+In the case of Government undertakings, it should be ensured that the names of directors are not reported. Instead, a legend ‘Government of -------- undertaking’ should be added.
+5.4 Inclusion of Director Identification Number (DIN)
+Ministry of Corporate Affairs had introduced the concept of a Director Identification Number (DIN) with the insertion of Sections 266A to 266G in the Companies (Amendment) Act, 2006. In order to ensure that directors are correctly identified and in no case, persons whose names appear to be similar to the names of directors appearing in the list of wilful defaulters, are wrongfully denied credit facilities on such grounds, banks / FIs have been advised to include the Director Identification Number (DIN) as one of the fields in the data submitted by them to Credit Information Companies.
+It is reiterated that while carrying out the credit appraisal, banks should verify as to whether the names of any of the directors of the companies appear in the list of defaulters / wilful defaulters by way of reference to DIN / PAN etc. Further, in case of any doubt arising on account of identical names, banks should use independent sources for confirmation of the identity of directors rather than seeking declaration from the borrowing company.
+Annex 1
+(Refer Para 2.9)
+Format for submission of data on cases of wilful default (non-suit filed accounts) of Rs.25 lakh & above to all four CICs on monthly or more frequent basis:
+The banks / FIs are required to submit data of wilful defaulters (non-suit filed accounts) on FTP Platform and/or in Compact Disks (CDs) to all four CICs on monthly or more frequent basis, using the following structure (with the same field names):
+Field
+Field Name
+Type
+Width
+Description
+Remarks
+1
+SCTG
+Numeric
+1
+Category of bank/FI
+Number 1/2/4/6/8 should be fed
+1 SBI and its associate banks
+2 Nationalised banks
+4 Foreign banks
+6 Private Sector Banks
+8 Financial Institutions
+2
+BKNM
+Character
+40
+Name of bank/FI
+Name of the bank/FI
+3
+BKBR
+Character
+30
+Branch name
+Name of the branch
+4
+STATE
+Character
+15
+Name of state
+Name of state in which branch is situated
+5
+SRNO
+Numeric
+4
+Serial No.
+Serial No.
+6
+PRTY
+Character
+45
+Name of Party
+The legal name
+7
+REGADDR
+Character
+96
+Registered address
+Registered Office address
+8
+OSAMT
+Numeric
+6
+Outstanding amount in Rs. lakhs (Rounded off)
+9
+SUIT
+Character
+4
+Suit filed or not
+Type ‘SUIT’ in case suit is filed. For other cases this field should be kept blank.
+10
+OTHER_BK
+Character
+40
+Name of other banks/ FIs
+The names of other banks/FIs from whom the party has availed credit facility should be indicated. The names may be fed in abbreviated form e.g. BOB for Bank of Baroda, SBI for State Bank of India etc.
+11
+DIR1
+Character
+40
+Name of director
+(a) Full name of Director should be indicated.
+(b) In case of Government companies the legend “Govt. of ____undertaking” alone should be mentioned.
+(c) Against the names of nominee directors of banks/ FIs/ Central Govt./ State Govt., abbreviation 'Nom' should be indicated in the brackets.
+(d) Against the name of independent directors, abbreviation 'Ind' should be indicated in the brackets.
+12
+DIN_DIR1
+Numeric
+8
+Director Identification Number of DIR1
+8 digit Director Identification Number of the Director at DIR1
+13
+DIR2
+Character
+40
+Name of director
+As in DIR1
+14
+DIN_DIR2
+Numeric
+8
+Director Identification Number of DIR2
+8 digit Director Identification Number of the Director at DIR2
+15
+DIR3
+Character
+40
+Name of director
+As in DIR1
+16
+DIN_DIR3
+Numeric
+8
+Director Identification Number of DIR3
+8 digit Director Identification Number of the Director at DIR3
+17
+DIR4
+Character
+40
+Name of director
+As in DIR1
+18
+DIN_DIR4
+Numeric
+8
+Director Identification Number of DIR4
+8 digit Director Identification Number of the Director at DIR4
+19
+DIR5
+Character
+40
+Name of director
+As in DIR1
+20
+DIN_DIR5
+Numeric
+8
+Director Identification Number of DIR5
+8 digit Director Identification Number of the Director at DIR5
+21
+DIR6
+Character
+40
+Name of director
+As in DIR1
+22
+DIN_DIR6
+Numeric
+8
+Director Identification Number of DIR6
+8 digit Director Identification Number of the Director at DIR6
+23
+DIR7
+Character
+40
+Name of director
+As in DIR1
+24
+DIN_DIR7
+Numeric
+8
+Director Identification Number of DIR7
+8 digit Director Identification Number of the Director at DIR7
+25
+DIR8
+Character
+40
+Name of director
+As in DIR1
+26
+DIN_DIR8
+Numeric
+8
+Director Identification Number of DIR8
+8 digit Director Identification Number of the Director at DIR8
+27
+DIR9
+Character
+40
+Name of director
+As in DIR1
+28
+DIN_DIR9
+Numeric
+8
+Director Identification Number of DIR9
+8 digit Director Identification Number of the Director at DIR9
+29
+DIR10
+Character
+40
+Name of director
+As in DIR1
+30
+DIN_DIR10
+Numeric
+8
+Director Identification Number of DIR10
+8 digit Director Identification Number of the Director at DIR10
+31
+DIR11
+Character
+40
+Name of director
+As in DIR1
+32
+DIN_DIR11
+Numeric
+8
+Director Identification Number of DIR11
+8 digit Director Identification Number of the Director at DIR11
+33
+DIR12
+Character
+40
+Name of director
+As in DIR1
+34
+DIN_DIR12
+Numeric
+8
+Director Identification Number of DIR12
+8 digit Director Identification Number of the Director at DIR12
+35
+DIR13
+Character
+40
+Name of director
+As in DIR1
+36
+DIN_DIR13
+Numeric
+8
+Director Identification Number of DIR13
+8 digit Director Identification Number of the Director at DIR13
+37
+DIR14
+Character
+40
+Name of director
+As in DIR1
+38
+DIN_DIR14
+Numeric
+8
+Director Identification Number of DIR14
+8 digit Director Identification Number of the Director at DIR14
+Total bytes
+953
+(1) If total numbers of directors exceed 14, the name of additional directors may be entered in blank spaces available in the other directors’ columns.
+(2) The data / information should be submitted in the above format on
+FTP Platform / CD
+. While submitting the CD, the banks/FIs should ensure that:
+the CD is readable and is not corrupted / virus-affected.
+the CD is labelled properly indicating name of the bank, name of the list and period to which the list belongs, and the name of list indicated on label and in the letter are same.
+the name and width of each of the fields and order of the fields is strictly as per the above format.
+records with outstanding amount of less than Rs.25 lakh have not been included.
+no suit-filed account has been included.
+use of following types of words have been avoided (as the fields can not be properly indexed) : ‘M/s’, ’Mr’, ‘Shri’ etc.
+the words ‘Mrs’, ‘Smt’, ‘Dr’ etc. have been fed at the end of name of the person, if applicable.
+Except for field "SUIT" and some of the fields from DIR1 To DIR 14, as applicable, information is completely filled in and columns are not kept blank.
+(3) In case of 'Nil' data, there is no need to send any CD and the position can be conveyed through a letter/fax.
+(4) A certificate signed by a sufficiently senior official stating that ‘the list of wilful defaulters has been correctly compiled after duly verifying the details thereof and RBI’s instructions in this regard have been strictly followed’ is sent along with the CD.
+(5)
+The technical working group comprising of member banks, IBA and CICs, which is headed by CIBIL, will be deciding a new format subsequently.
+Annex 2
+List of Circulars consolidated by the Master Circular
+Sr. No.
+Circular No.
+Date
+Subject
+Para No.
+1.
+DBOD.No.DL(W).BC.12/20.16.002(1)/98-99
+20.02.1999
+Collection and Dissemination of Information on Cases of Wilful Default of Rs.25 lakh and above
+1
+2.
+DBOD.No.DL.BC.46/20.16.002/98-99
+10.05.1999
+Disclosure of information regarding defaulting borrowers - Lists of Defaulters/ Suit filed accounts and Data on Wilful Default
+Annex 1
+3.
+DBOD.No.DL(W).BC
+161/20.16.002/99-2000
+01.04.2000
+Collection and Dissemination of information on defaulting borrowers of banks and Financial Institutions
+5 and
+Annex 1
+4.
+DBOD.No.DL.BC.54/20.16.001/2001-02
+22.12.2001
+Collection and dissemination of information on defaulters
+5
+5.
+DBOD.No.DL(W).BC.110/20.16.003(1)/2001-02
+30.05.2002
+Wilful defaulters and action there against
+2, 2.1 to
+2.8
+6.
+DBOD.No.DL.BC.111/20.16.001/2001-02
+04.06.2002
+Submission of Credit Information to Credit Information Bureau (CIB)
+2.9
+7.
+DBOD.No.DL(W).BC.58/20.16.003/2002-03
+11.01.2003
+Wilful defaulters and Diversion of funds - Action there against
+2.1, 2.2
+8.
+DBOD.No.DL.BC.7/20.16.003/2003-04
+29.07.2003
+Wilful Defaulters and action there against
+3
+9.
+DBOD.No.DL.BC.95/20.16.002/2003-04
+17.06.2004
+Annual Policy Statement for the year 2004-05 -
+Dissemination of Credit Information - Role of CIBIL
+2.9
+10.
+DBOD.No.DL.BC.94/20.16.003/2003-04
+17.06.2004
+Annual Policy Statement: 2004-05 - Wilful Defaulters – Clarification on Process
+3
+11.
+DBOD.No.DL.BC.16/20.16.003/2004-05
+23.07.2004
+Checking of wilful defaults and measures against Wilful Defaulters
+4
+12.
+DBOD No.DL(W)BC.87/20.16.003/2007-08
+28.05.2008
+Wilful Defaulters and action there against
+2.1
+13.
+Mail-Box Clarification
+17.04.2008
+Reporting of accounts under compromise settlement
+2.9
+14.
+DBOD No.DL 12738/20.16.001/2008-09
+03.02.2009
+Submission of information about List of Defaulters (non-suit filed accounts) / Wilful Defaulters (non-suit filed accounts) on Compact Disks.
+Annex 1
+15.
+DBOD.No.DL.15214/20.16.042/2009-10
+04.03.2010
+Grant of ‘Certificate of Registration’ – For Commencing business of credit information – Experian Credit Information Company of India Private Limited
+2.9
+16.
+DBOD.No.DL.BC.83/20.16.042/2009-10
+31.03.2010
+Grant of ‘Certificate of Registration’ – For Commencing business of credit information – Equifax Credit Information Services Private Limited
+2.9
+17.
+DBOD.No.DL.BC.110/20.16.046/2009-10
+11.06.2010
+Submission of data to Credit Information Companies – Format of data to be submitted by Credit Institutions
+2.9
+18.
+DBOD No.CID.BC.40/20.16.046/2010-11
+21.09.2010
+Submission of credit data to Credit Information Companies – Inclusion of Director Identification Number (DIN)
+5.4 and
+Annex1
+19.
+DBOD.No.CID.BC.64/20.16.042/2010-11
+01.12.2010
+Grant of ‘Certificate of Registration’ – For Commencing business of credit information – High Mark Credit Information Services Private Limited
+2.9
+20.
+DBOD.No.CID.BC.30/20.16.042/2011-12
+05.09.2011
+Submission of Credit Information to credit Information Companies – Defaulters of Rs.1 Crore and above and Wilful Defaulters of Rs.25 lakh and above- Dissemination of Credit Information of suit filed accounts.
+2.9
+21.
+DBOD.No.CID.BC.84/20.16.042/2011-12
+05.03.2012
+Grant of ‘Certificate of Registration’ – For carrying on the business of credit information – Credit Information Bureau (India) Limited
+2.9
+22
+DBOD.BP.BC.No.97/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy – Guidelines on Joint Lenders’ Forum and Corrective Action Plan
+2.9
+23
+DBOD.BP.BC.No.98/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy- Refinancing of Project Loans, Sale of NPA and Other Regulatory Measures
+2.7, 5.4
+24
+DBOD.CID.BC.128/20.16.003/2013-14
+27.6.2014
+Defaulters of Rs.1 crore and above (non-suit filed accounts) and Wilful Defaulters of Rs.25 lakhs and above (non-suit filed accounts) – Changes in reporting to RBI/CICs
+2.9
+25
+DBOD.No.CID.41/20.16.003/2014-15
+09.09.2014
+Guidelines on Wilful Defaulters –
+Clarification regarding Guarantor, Lender and Unit
+2.1, 2.6 and
+5.2
+26
+DBR.No.CID.BC.60/20.16.056/2014-15
+15.01.2015
+Membership of CICs
+2.5 and
+Annex I
+27
+DBR.No.CID.BC.90/20.16.003/2014-15
+23.04.2015
+Collection and Dissemination of Information on Wilful Defaulters
+3
+28
+Mail box clarification
+05.06.2015
+Wilful defaulters-setting up of the Review Committee
+3
+29
+Mail box clarification
+05.06.2015
+Defaulters/Wilful Defaulters – Removal of the names of Non-whole time directors for already classified and reported accounts.
+3

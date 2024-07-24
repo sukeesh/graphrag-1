@@ -1,0 +1,33 @@
+(100 kb)
+Software Export – Filing of bulk SOFTEX-further liberalisation
+RBI/2015-16/231
+A.P. (DIR Series) Circular No.27
+November 05, 2015
+To,
+All Authorised Dealer Category – I Banks
+Madam/ Sir
+Software Export – Filing of bulk SOFTEX-further liberalisation
+Attention of Authorised Dealers is invited to
+A.P. (DIR Series) Circular No. 80 dated February 15, 2012
+,
+A.P. (DIR Series) Circular No. 66 dated January 01, 2013
+and
+A.P. (DIR Series) Circular No. 43 dated September 13, 2013
+, in terms of which a software exporter, whose annual turnover is at least Rs.1000 crore or who files at least 600 SOFTEX forms annually on an all India basis, is eligible to declare all the off-site software exports in bulk in the form of a statement in excel format, to the competent authority for certification on monthly basis.
+2. In order to provide benefits to small exporters also, it has been decided to extend this facility to all software exporters. Accordingly, all software exporters can now file single as well as bulk SOFTEX form in excel format to the competent authority for certification. The SOFTEX form is given at
+Annex I
+. Since the SOFTEX data from STPI/SEZ is being transmitted in electronic format to RBI, the exporters are required to submit the SOFTEX form in duplicate as per the revised procedure. STPI/SEZ will retain one copy and handover the duplicate copy to the exporters after due certification.
+3. As hitherto, the software exporters can generate SOFTEX form number (single as well as bulk) for use in off-site software exports from the website
+www.rbi.org.in
+.
+In order to generate the SOFTEX number/s, the applicant exporter has to fill-in the online form (Path
+www.rbi.org.in
+⇒ Forms⇒ FEMA Forms⇒ Printing EDF/SOFTEX Form No.). The specimen of the online form and the advice are given at
+Annex II
+.
+4. The Foreign Exchange Management Act (FEMA),1999 requires exporters to complete the SOFTEX form using the number so allotted and submit it first to the competent authority for certification and then to the AD for further necessary action, as hitherto.
+5. Authorised Dealers may bring the contents of this circular to the notice of their constituents concerned. The above instructions will come into force with immediate effect.
+6. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(A K Pandey)
+Chief General Manager

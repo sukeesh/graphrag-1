@@ -1,0 +1,443 @@
+(454 kb)
+Withdrawal of Obsolete Regulatory Circulars / Instructions – Interim Recommendations of the Regulations Review Authority 2.0
+RBI/2021-2022/127
+CO.DPSS.OVRST.No.S929/06-08-001/2021-2022
+November 16, 2021
+The Chairman / Managing Director /
+Chief Executive Officer
+Authorised Payment System Operators / Banks
+Madam / Dear Sir,
+Withdrawal of Obsolete Regulatory Circulars / Instructions – Interim Recommendations of the Regulations Review Authority 2.0
+Please refer to the
+Press Release on Interim Recommendations of the Regulations Review Authority (RRA) 2.0 dated November 16, 2021
+.
+2. A comprehensive review of the circulars issued by the Department of Payment and Settlement Systems (DPSS) was undertaken as part of the rationalisation exercise under RRA 2.0 and as per recommendations of the RRA, the regulatory instructions / circulars listed in the
+Annex
+stand withdrawn with immediate effect.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Encl.: As above.
+Annex
+List of Circulars withdrawn with effect from November 16, 2021
+(Enclosure to CO.DPSS.OVRST.No.S929 / 06-08-001 / 2021-2022 dated November 16, 2021)
+Sr. No.
+Reference Number
+Date
+Subject
+1
+DPSS (CO) No.590/ 01.01.15/2005
+October 17, 2005
+Electronic Clearing Service (ECS)
+2
+DPSS (CO) No.950/ 04.01.01/2005-06
+December 23, 2005
+ECS (Debit Clearing) – Revocation of mandate by the customers
+3
+DPSS CO No.704/ 03.01.14/2007-08
+November 15, 2007
+Access Criteria for Clearing Houses at MICR Centres – Procedural Guidelines
+4
+DPSS.CO. No. 1407 / 02.10.02 / 2007-08
+March 10, 2008
+Use of electronic mode of payment for large value transactions
+5
+DPSS.CO. No. 611 / 03.01.03(P) / 2008-09
+October 08, 2008
+Levy of Service Charges for Electronic Payment Products and Outstation Cheque Collection
+6
+DPSS.CO. No. 711 / 02.10.02 / 2008-09
+October 23, 2008
+Reconciliation of transactions at ATMs failure-Time limit
+7
+DPSS (CO)RTGS No. 1288/04.04.002/2008-09
+January 28, 2009
+Extension of service window for RTGS transactions
+8
+DPSS.CO. No. 1424 / 02.10.02 / 2008-09
+February 11, 2009
+Reconciliation of transactions at ATMs failure-Time limit
+9
+DPSS (CO) EPPD No.2283 / 04.01.04 / 2008-09
+June 25, 2009
+National Electronic Clearing Service (NECS) – Optimal Usage and Expansion
+10
+DPSS (CO) EPPD No. 191/ 04.01.01 /2009-10
+July 29, 2009
+Electronic Clearing Service (ECS) – Accuracy of Input Data and Completeness of Account Number Information in ECS Mandates/Files
+11
+DPSS(CO)RTGS No. 1313/04.04.002/2009-10
+December 18, 2009
+Extension of Service Window for RTGS Transactions
+12
+DPSS.CO.AD.No.1320/ 02.27.005/2009-10
+December 22, 2009
+Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/ Combating the Financing of Terrorism (CFT) obligation of Payment System Operators under Prevention of Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money Laundering (Amendment) Act, 2009
+13
+DPSS CO No. 2232 / 02.27.005/2009-2010
+April 13, 2010
+Know Your Customer (KYC) Norms/ Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)
+14
+DPSS.CO (CHD) No. 2387/ 03.06.01 /2009-10
+May 06, 2010
+Levy of interest on clearing-related overdraft extended by Clearing House managing banks for settling clearing obligations of member banks
+15
+DPSS.CO.CHD.No.485/ 03.06.01/2010-11
+September 01, 2010
+Dishonour / Return of Cheques - Need to Mention the 'Date of Return' in the Cheque Return Memo
+16
+DPSS.CO.AD. No.552/ 02.27.004/2010-2011
+September 15, 2010
+Prevention of Money-laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Second Amendment Rules, 2010-obligation of entities authorized to operate Payment System in India
+17
+DPSS(CO) RTGS No. 1008/04.04.002/2010-11
+November 03, 2010
+Electronic Funds Transfer Infrastructure in India – Usage of RTGS and NEFT
+18
+DPSS (CO) RTGS No. 1051/04.04.002/2010-11
+November 09, 2010
+Electronic Funds Transfer Infrastructure in India – Usage of RTGS and NEFT
+19
+DPSS (CO) RTGS No. 1605/04.08.002/2010-11
+November 12, 2010
+Up-gradation of CFMS System to Windows 2008
+20
+DPSS.CO.CHD.No.1514 /03.01.03/2010-2011
+January 04, 2011
+Enhancing the scope of Speed Clearing
+21
+DPSS.CO.AD.No.1568/ 02.27.005/2010-11
+January 07, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+22
+DPSS (CO) RTGS No. 1654/04.08.002/2010–11
+January 18, 2011
+Centralised Funds Management System (CFMS) – Extension of timings
+23
+DPSS.CO.AD.No.1569/ 02.27.005/2010-11
+January 18, 2011
+Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) – Standards
+24
+DPSS.CO.AD.No.1568 /02.27.005/2010-11
+January 18, 2011
+Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) – Standards
+25
+DPSS.CO.AD.No.2068/ 02.27.005/2010-11
+March 10, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+26
+DPSS(CO)CHD No.2099 /03.02.03/2010-11
+March 14, 2011
+Automation of non-MICR Clearing Houses – Implementation of a new Clearing Software –Express Cheque Clearing System
+27
+DPSS.CO.AD.No.2181 / 02.27.005/2010-11
+March 23, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+28
+DPSS.CO.AD.No.2317 /02.27.005/2010-11
+April 08, 2011
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT)- Standards
+29
+DPSS.CO.AD.No.2318 /02.27.005/2010-11
+April 08, 2011
+Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) – Standards
+30
+DPSS.CO.AD.No.2390 /02.27.005/2010-11
+April 19, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+31
+DPSS.CO.AD.No.2545 /02.27.005/2010-11
+May 11, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+32
+DPSS.CO.AD.No.2818 /02.27.005/2010-11
+June 22, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+33
+DPSS.CO.AD.No.2858 /02.27.005/2010-11
+June 27, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+34
+DPSS.CO.AD.No.2868 /02.27.005/2010-11
+June 30, 2011
+List of Terrorist Individuals/ Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban/Al-Qaida Organisation
+35
+DPSS.CO.AD.No.208 /02.27.005 /2011-12
+August 04, 2011
+List of Terrorist Individuals / Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban / Al-Qaida Organisation
+36
+DPSS.CO.AD.No.313 /02.27.005/2011-12
+August 18, 2011
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+37
+DPSS.CO.AD.No.314 /02.27.005/2011-12
+August 18, 2011
+Anti-Money Laundering (AML)/Combating of Financing of Terrorism (CFT) – Standards
+38
+DPSS(CO)RTGS No.388 /04.04.002/2011-2012
+September 05, 2011
+RTGS service charges for members
+39
+DPSS.CO.AD.No.604 /02.27.005 /2011-12
+October 03, 2011
+List of Terrorist Individuals / Organisations under UNSCR 1267(1999) and 1822(2008) on Taliban / Al-Qaida Organisation
+40
+DPSS.CO.AD.No. 1321 /02.27.005/2011-12
+January 23, 2012
+Implementation of Section 51-A of UAPA, 1967- Splitting of UNSC 1267 Committee's list of individuals and entities linked to Al-Qaida and Taliban
+41
+DPSS.CO.AD.No.1328 /02.27.005/2011-12
+January 24, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+42
+DPSS.CO.AD.No.1425 /02.27.005/2011-12
+February 09, 2012
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT)- Standards
+43
+DPSS.CO.AD.No.1524 /02.27.005/2011-12
+February 17, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+44
+DPSS.CO.AD.No.1877 /02.27.005/2011-12
+April 11, 2012
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+45
+DPSS.CO.AD.No.1891 /02.27.005/2011-12
+April 12, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988 (2011) Sanctions List
+46
+DPSS.CO.AD.No.1892 /02.27.005/2011-12
+April 12, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+47
+DPSS(CO)EPPD No. 1918 /04.03.01/ 2011-12
+April 18, 2012
+ECS (Debit) mandate management procedure by the banks – adherence to Procedural Guidelines
+48
+DPSS.CO.AD.No.2058 /02.27.005/2011-12
+May 09, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+49
+DPSS.CO.CHD No.2073 /03.02.01/2011-12
+May 11, 2012
+Guidelines for clearing of cheques where there is no formal clearing house
+50
+DPSS.CO.AD.No.2218 /02.27.005/2011-12
+June 07, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+51
+DPSS.CO.PD.No.2361 /02.14.003/ 2011-12
+June 28, 2012
+Merchant Discount Rates (MDR) structure for debit card transactions
+52
+DPSS.CO.PD.No. 27 /02.14.003 /2012-13
+July 04, 2012
+Merchant Discount Rates (MDR) structure for debit card transactions
+53
+DPSS.CO.AD.No..47 /02.27.005/2012-13
+July 06, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+54
+DPSS.CO.AD.No.48 /02.27.005/2012-13
+July 06, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988 (2011) Sanctions List
+55
+DPSS.CO.AD.No. 426 /02.27.005/2012-13
+September 06, 2012
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+56
+DPSS.CO.AD. No.427/ 02.27.005/2012-13
+September 06, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+57
+DPSS.CO.AD. No.666/ 02.27.005/2012-13
+October 19, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) and 1989 (2011) Committee's Al Qaida Sanctions List
+58
+DPSS. CO. AD. No. 667/ 02.27.005/2012-13
+October 19, 2012
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988 (2011) Sanctions List
+59
+DPSS.CO.EPPD. No. 825/ 04.03.02/2012-13
+November 21, 2012
+National / Regional Electronic Clearing Service (NECS/RECS) – Extension of service to remaining branches
+60
+DPSS. CO. AD. No. 1121/ 02.27.005/2012-13
+January 08, 2013
+Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267 (1999) and 1989(2011) Committee's Al Qaida Sanctions List
+61
+DPSS. CO. AD. No. 1120/ 02.27.005/2012-13
+January 08, 2013
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+62
+DPSS. CO. AD. No. 2051/ 02.27.005/2012-13
+May 08, 2013
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+63
+DPSS. CO. AD. No. 2050/ 02.27.005/2012-13
+May 08, 2013
+Implementation of Section 51-A of UAPA, 1967 -Updates of the UNSCR 1267 (1999) and 1989(2011) Committee's Al Qaida Sanctions List
+64
+DPSS.CO.CHD. No.133 / 04.07.05 / 2013-14
+July 16, 2013
+Standardization and Enhancement of Security Features in Cheque Forms/Migrating to CTS 2010 standards
+65
+DPSS. CO. AD. No. 626/ 02.27.005/2013-14
+September 13, 2013
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+66
+DPSS. CO. AD. No.627/ 02.27.005/2013-14
+September 13, 2013
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1988 (2011) Sanctions List
+67
+DPSS. CO. AD. No.628/ 02.27.005/2013-14
+September 13, 2013
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) / 1989(2011) Committee's Al Qaida Sanctions List and Consolidated List
+68
+DPSS. CO. AD. No.919/ 02.27.005/2013-14
+October 25, 2013
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of PSOs under Prevention of Money Laundering Act (PMLA), 2002 – e-KYC Service of UIDAI – Recognizing on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules
+69
+DPSS. CO. AD. No. 1502/ 02.27.005/2013-14
+January 07, 2014
+Implementation of Section 51-A of UAPA, 1967 - Updates of the UNSCR 1267 (1999) / 1989(2011) Committee's Al Qaida Sanctions List and Consolidated List
+70
+DPSS. CO. AD. No. 1503/ 02.27.005/2013-14
+January 07, 2014
+Anti- Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+71
+DPSS.CO.AD.No.1968/ 02.27.005 /2013-14
+March 18, 2014
+Anti- Money Laundering (AML)/Combating of Financing of Terrorism (CFT) - Standards
+72
+DPSS.CO.AD.No.2501 /02.27.005/2013-14
+May 30, 2014
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of PSOs under Prevention of Money Laundering Act (PMLA), 2002 – Amendment to Section 13(2)
+73
+DPSS.CO.AD.No.2646 /02.27.005/2013-14
+June 20, 2014
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of Payment System Operators under Prevention of Money Laundering Act (PMLA), 2002 – e-KYC Service of UIDAI – Recognizing E- Aadhaar as an ‘Officially Valid Document’ under PML Rules
+74
+DPSS.CO.AD.No. 27/ 02.27.005/2014-15
+July 03, 2014
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of Payment System Operators under Prevention of Money Laundering Act (PMLA), 2002 – Clarification on Proof of Address.
+75
+DPSS.CO.AD.No.283/ 02.27.005/2014-15
+August 14, 2014
+Inter-Government Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration
+76
+DPSS.CO.AD.No.320/ 02.27.005/2014-15
+September 03, 2014
+Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+77
+DPSS.CO.AD.No.628/ 02.27.005/2014-15
+October 09, 2014
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+78
+DPSS.CO.AD.No.627/ 02.27.005/2014-15
+October 09, 2014
+Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988(2011) Taliban Sanctions List
+79
+DPSS.CO.AD.No.890/ 02.27.005/2014-15
+November 24, 2014
+Simplification of Know Your Customer (KYC) Norms – Creating Public awareness
+80
+DPSS.CO.AD.No.891/ 02.27.005/2014-15
+November 27, 2014
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/ Obligation of Payment System Operators under Prevention of Money Laundering Act (PMLA), 2002 Obligation of Payment System Operators – Amendment to Prevention of Money-Laundering (Maintenance of Records) Rules 2013
+81
+DPSS(CO)RTGS No. 1064/04.04.002/2014-15
+December 15, 2014
+Extension of RTGS time window
+82
+DDPSS.CO.AD.No.1195/ 02.27.005/2014-15
+January 02, 2015
+Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+83
+DPSS.CO.AD.No.1196 / 02.27.005/2014-15
+January 02, 2015
+Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988(2011) Taliban Sanctions List
+84
+DPSS.CO.AD.No.1197/ 02.27.005/2014-15
+January 02, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+85
+DPSS.CO.AD.No.1273/ 02.27.005/2014-15
+January 09, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+86
+DPSS.CO.AD.No.1274/ 02.27.005/2014-15
+January 09, 2015
+Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988(2011) Taliban Sanctions List
+87
+DPSS.CO.AD. No.1279/ 02.27.005/2014-15
+January 09, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+88
+DPSS.CO.AD.No.1390/ 02.27.005/2014-15
+January 21, 2015
+Inter-Government Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA) - Registration
+89
+DPSS.CO.AD.No.1925/ 02.27.005/2014-15
+April 16, 2015
+Anti-Money Laundering (AML) / Combating of Financing of Terrorism (CFT) - Standards
+90
+DPSS.CO.AD.No.745/ 02.27.005/2015-16
+October 15, 2015
+Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standards (CRS)
+91
+DPSS.CO.AD.No.1487 /02.27.005/2014-15
+February 04, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+92
+DPSS.CO.AD.No.1550 / 02.27.005/2014-15
+February 12, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989(2011) Committee’s Al Qaida Sanctions List
+93
+DPSS.CO.AD.No.1555/ 02.27.005/2014-15
+February 18, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List
+94
+DPSS.CO.AD.No.1605/ 02.27.005/2014-15
+February 27, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List
+95
+DPSS.CO.AD.No.1759/ 02.27.005/2014-15
+March 24, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List
+96
+DPSS.CO.AD.No.1760/ 02.27.005/2014-15
+March 24, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List and UNSCR 1988(2011) Taliban Sanctions List – Modification in the Listing Format
+97
+DPSS.CO.AD.No.1924/ 02.27.005/2014-15
+April 16, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List
+98
+DPSS.CO.AD.No.1923/ 02.27.005/2014-15
+April 16, 2015
+Implementation of Section 51-A of UAPA, 1967- Updates of the UNSCR 1988(2011) Taliban Sanctions List
+99
+DPSS.CO.AD.No.1982/ 02.27.005/2014-15
+April 23, 2015
+Implementation of Section 51-A of UAPA, 1967 – Updates of the UNSCR 1267(1999) / 1989 (2011) Committee’s Al Qaida Sanctions List
+100
+DPSS(CO)PD No.2112/ 02.14.003/2014-15
+May 07, 2015
+Security and Risk Mitigation Measures for Card Present and Electronic Payment Transactions
+101
+DPSS(CO)RTGS No.492 /04.04.002/2015-16
+September 01, 2015
+Changes in RTGS time window
+102
+DPSS.CO.OD No.803/ 06.08.005/2018-19
+October 15, 2018
+Directions for Central Counterparties (CCPs)
+103
+DPSS (CO) RTGS No. 2488/ 04.04.016/2018-19
+May 28, 2019
+Real Time Gross Settlement (RTGS) System – Extension of Timings for Customer Transactions
+104
+DPSS(CO)RTGS No.364 /04.04.016/2019-20
+August 21, 2019
+Real Time Gross Settlement (RTGS) System – Increase in operating hours

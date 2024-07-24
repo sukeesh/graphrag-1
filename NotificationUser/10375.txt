@@ -1,0 +1,80 @@
+(150 kb)
+Risk Weight in respect of investments in Corporate Bonds by Standalone Primary Dealers (SPDs)
+RBI/2015-16/388
+DNBR.CO.PD.No.080/03.10.01/2015-16
+April 28, 2016
+All Standalone Primary Dealers
+Madam/ Sir,
+Risk Weight in respect of investments in Corporate Bonds
+by Standalone Primary Dealers (SPDs)
+In terms of the Capital Adequacy Standards and Risk Management Guidelines for SPDs, risk weight of 100% has been stipulated in respect of investments in corporate bonds, for the purpose of calculating capital adequacy.
+2. On a review, in order to bring parity with risk weights assigned to investment in corporate bonds by SPDs and banks, it has been decided to link the risk weights, assigned by SPDs to their investments in corporate bonds, to the rating of the bonds as under:
+A. Short term instruments (bonds ≤ 1 year maturity)
+CARE
+CRISIL
+India Rating
+ICRA
+Brickwork
+SMERA
+Risk weight (%)
+CARE A1+
+CRISIL A1+
+IND A1+
+ICRA A1+
+Brickwork A1+
+SMERA A1+
+20
+CARE A1
+CRISIL A1
+IND A1
+ICRA A1
+Brickwork A1
+SMERA A1
+30
+CARE A2
+CRISIL A2
+IND A2
+ICRA A2
+Brickwork A2
+SMERA A2
+50
+CARE A3
+CRISIL A3
+IND A3
+ICRA A3
+Brickwork A3
+SMERA A3
+100
+CARE A4&D
+CRISIL A4&D
+IND A4&D
+ICRA A4&D
+Brickwork A4&D
+SMERA A4&D
+150
+Unrated
+Unrated
+Unrated
+Unrated
+Unrated
+Unrated
+100
+B. Long term instruments (bonds > 1 year maturity)
+Rating
+AAA
+AA
+A
+BBB
+≤ BB
+Unrated
+Risk Weight
+20
+30
+50
+100
+150
+100
+3. The above shall be applicable with immediate effect.
+Yours faithfully
+(C.D.Srinivasan)
+Chief General Manager

@@ -1,0 +1,81 @@
+(31 kb)
+Auction for Sale (Re-issue) of Government Stock (GS)
+Government of India
+Ministry of Finance
+Department of Economic Affairs
+Budget Division
+New Delhi, dated January 22, 2018
+NOTIFICATION
+Auction for Sale (Re-issue) of Government Stock (GS)
+F.No.4(7)W&M/2017: Government of India(GoI) hereby notifies sale(re-issue) of the following Government Stocks:
+Name of the Security
+Date of Original Issue
+Tenure
+(yy-mm-dd)
+Date of Maturity
+Base
+Method
+Notified Amount
+(in ₹ Crore)
+GOI FRB 2024
+Nov 07, 2016
+08-00-00
+Nov 07, 2024
+Price
+Multiple
+3000
+7.17% GS 2028
+Jan. 08, 2018
+10-00-00
+Jan. 08, 2028
+Price
+Multiple
+8000
+Subject to the limit of Rs 11000 Cr, being total notified amount, GoI will have the option to retain additional subscription up to Rs 1000 Cr each against any one or more of the above security. The sale will be subject to the terms and conditions spelt out in this notification (called ‘Specific Notification’). The Stock will be sold through Reserve Bank of India, Mumbai Office, Fort, Mumbai- 400 001 as per the terms and conditions specified in the General Notification F.No.4(13)–W&M/2008, dated October 8, 2008 issued by Government of India.
+Allotment to Non-competitive Bidders
+2. The Government Stock up to 5% of the notified amount of the sale will be allotted to eligible individuals and institutions as per the enclosed Scheme for Non-competitive Bidding Facility in the Auctions of Government Securities (
+Annex
+).
+Place and date of auction
+3. The auction will be conducted by Reserve Bank of India, Mumbai Office, Fort, Mumbai-400 001 on
+January 25, 2018
+. Bids for the auction should be submitted in electronic format on the Reserve Bank of India Core Banking Solution (E-Kuber) system on
+January 25, 2018
+. The non-competitive bids should be submitted between 10.30 a.m. and 11.30 a.m. and the competitive bids should be submitted between 10.30 a.m. and 12.00 noon.
+When Issued Trading
+4. The Stock will be eligible for “When Issued” trading in accordance with the guidelines issued by the Reserve Bank of India.
+Date of issue and payment for the stock
+5. The result of the auction shall be displayed by the Reserve Bank of India at its Fort, Mumbai Office on
+January 25, 2018
+. The payment by successful bidders will be on
+January 29, 2018
+i.e. the date of re-issue. The payment for the stocks will include accrued interest on the nominal value of the Stock allotted in the auction from the date of original issue / last coupon payment date to the date upto which accrued interest is due as mentioned in the table in para 6.
+Payment of Interest and Re-payment of Stock
+6. Interest will accrue on the nominal value of the Stock from the date of original issue / last coupon payment and will be paid half yearly. The Stock will be repaid at par on date of maturity.
+Name of the Security
+Coupon rate
+(%)
+Date of Last Coupon payment
+Date upto which accrued interest is due
+Date of Coupon payments
+(month / date)
+GoI FRB 2024*
+Variable*
+Nov 07, 2017
+January 28, 2018
+May 07 and Nov 07
+7.17% GS 2028
+7.17
+New Stock
+Jan 08 to Jan 28, 2018
+July 08 and Jan 08
+* GoI FRB 2024*
+(i) The interest at a variable rate will be paid every half-yearly.
+(ii) The variable coupon rate for payment of interest on subsequent semi-annual period shall be the average rate rounded off up to two decimal places, of
+the implicit yields at the cut-off prices of the last three auctions of Government of India 182 day Treasury Bills, held up to the commencement of the respective semi-annual coupon period.
+The implicit yields will be computed by reckoning 365 days in a year.
+(iii) In the event of Government of India 182-day Treasury Bill auctions being discontinued during the currency of the Bonds, the coupon rate will be the average of Yield to Maturity (YTM) rates prevailing for six month Government of India Security/ies as on the last three non-reporting Fridays prior to the commencement of the semi-annual coupon period. In case particular Friday/s is/are holiday/s, the yield to maturity rates as on the previous working day shall be taken.
+(iv) The rate of interest payable half yearly on the Bonds during the subsequent years shall be announced by the Reserve Bank of India before the commencement of the relative semi-annual coupon period
+By Order of the President of India
+(Prashant Goyal)
+Joint Secretary to the Government of India

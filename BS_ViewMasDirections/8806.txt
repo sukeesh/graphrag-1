@@ -1,0 +1,158 @@
+(155 kb)
+Implementation of Basel III Capital Regulations in India – Capital Planning
+RBI/2013-14/538
+DBOD.No.BP.BC.102/21.06.201/2013-14
+March 27, 2014
+The  Chairman and Managing Directors/
+Chief Executives Officers of
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks and Local  Area Banks)
+Madam / Sir,
+Implementation  of Basel III Capital Regulations in India – Capital Planning
+Please  refer to the
+Master  Circular DBOD.No.BP.BC.2 /21.06.201/2013-14 dated  July 1, 2013
+on Basel III Capital  Regulations.
+2. In  view of the implementation of Basel III Capital Regulations, banks need to  improve and strengthen their capital planning processes. While conducting the  capital planning exercise, banks may consider the potential impact of the  changing macro-economic conditions and the outcomes of periodic stress tests on  the adequacy and composition of regulatory capital. A forward looking capital  planning process will enable banks to appropriately assess the level of capital  needed to support their business strategies over the medium-term.
+3. The  capital requirements may be substantially lower during the initial years as  compared to later years of full implementation of Basel III Guidelines.  Accordingly, banks should keep this aspect in view while undertaking their capital  planning exercise. Boards of banks should actively engage themselves in the  capital planning process and oversee its implementation.
+4. Of  late, industry-wide concerns have been expressed about the potential stresses  on the asset  quality and consequential impact on the performance / profitability of the  banks. This may necessitate some lead time for banks to raise capital within  the internationally agreed timeline for full implementation of the Basel III  Capital Regulations. Accordingly, the  transitional period for full implementation of Basel III Capital Regulations in  India is extended upto March 31, 2019, instead of as on March 31, 2018. This  will also align full implementation of Basel III in India closer to the internationally  agreed date of January 1, 2019.
+5. In addition to the above, certain other  aspects of the guidelines, more specifically, those relating to the loss  absorption features of non-equity capital instruments have been reviewed in  response to clarifications sought in this regard.
+6. The revised transitional arrangements along  with other modifications have been furnished in the
+Annex
+to this circular. These  guidelines become applicable with immediate effect. Further, these instructions  would be incorporated in the subsequent Master Circular on Basel III Capital  Regulations.
+Yours  faithfully,
+(Chandan  Sinha)
+Principal Chief  General Manager
+Encls.: a/a
+Annex
+Basel III Capital Regulations in India – Amendments
+(Ref.  Circular DBOD.No.BP.BC.102/21.06.201/2013-14 dated March 27, 2014 –
+Implementation of Basel III Capital  Regulations in India – Capital Planning)
+1. Basel III Transitional Arrangements
+1.1 In terms of Basel III Capital  Regulations issued by the Reserve Bank of India, the Capital Conservation  Buffer (CCB) is scheduled to be implemented from March 31, 2015 in phases and  would be fully implemented as on March 31, 2018. It has been decided that the  implementation of CCB will begin as on March 31, 2016. Consequently, Basel III  Capital Regulations will be fully implemented as on March 31, 2019. The  Transitional Arrangements as indicated in Paragraph 4.5 of the Master Circular is,  therefore,
+revised
+as under:
+Transitional Arrangements-Scheduled Commercial Banks 
+                (excluding LABs and RRBs)
+(% of RWAs)
+Minimum capital    ratios
+April 1, 2013
+March 31, 2014
+March 31, 2015
+March 31, 2016
+March 31, 2017
+March 31, 2018
+March 31, 2019
+Minimum Common Equity Tier 1 (CET1)
+4.5
+5
+5.5
+5.5
+5.5
+5.5
+5.5
+Capital conservation buffer (CCB)
+-
+-
+-
+0.625
+1.25
+1.875
+2.5
+Minimum CET1+ CCB
+4.5
+5
+5.5
+6.125
+6.75
+7.375
+8
+Minimum Tier 1 capital
+6
+6.5
+7
+7
+7
+7
+7
+Minimum Total Capital*
+9
+9
+9
+9
+9
+9
+9
+Minimum Total Capital +CCB
+9
+9
+9
+9.625
+10.25
+10.875
+11.5
+Phase-in of all deductions from CET1(in %)#
+20
+40
+60
+80
+100
+100
+100
+* The  difference between the minimum total capital requirement of 9% and the Tier 1  requirement can be met
+with Tier 2 and higher forms of  capital;
+# The same transition approach will apply to  deductions from Additional Tier 1 and Tier 2 capital.
+1.2 In addition,
+Table 25
+of Paragraph 15.2 of the Master  Circular is
+revised
+as under:
+Table    25: Minimum capital conservation standards for individual bank
+Common    Equity Tier 1 Ratio after including the current
+periods retained earnings
+Minimum    Capital Conservation Ratios
+(expressed    as % of earnings)
+As    on
+March    31, 2016
+As    on
+March    31, 2017
+As    on
+March    31, 2018
+5.5%    - 5.65625%
+5.5%    - 5.8125%
+5.5%    - 5.96875%
+100%
+>5.65625%    - 5.8125%
+>5.8125%    - 6.125%
+>5.96875%    - 6.4375%
+80%
+>5.8125%    - 5.96875%
+>6.125%    - 6.4375%
+>6.4375%    - 6.90625%
+60%
+>5.96875%    - 6.125%
+>6.4375%    - 6.75%
+>6.90625%    - 7.375%
+40%
+>6.125%
+>6.75%
+>7.375%
+0%
+2. Loss  Absorption Features of Non-Equity Capital Instruments
+2.1 The  criteria for Additional Tier 1 (AT1) capital instruments
+inter alia
+require that these instruments should have principal  loss absorption through either (i) conversion into common shares or (ii) a  write-down mechanism which allocates losses to the instruments at an objective  pre-specified trigger point. The pre-specified trigger is set at Common Equity  Tier 1 (CET1) of 6.125% of risk weighted assets (RWAs). It has now been decided  that all Basel III compliant AT1 instruments issued before March 31, 2019 i.e.,  before the full implementation of Basel III, will have two pre-specified  triggers. A lower pre-specified trigger at CET1 of 5.5% of RWAs will apply and remain  effective before March 31, 2019, after which this trigger would be raised to  CET1 of 6.125% of RWAs for all such instruments. AT1 instruments issued on or  after March 31, 2019 will, however, have pre-specified trigger at CET1 of  6.125% of RWAs only.
+2.2 Presently,  in addition to conversion feature, both the temporary and permanent write-down  features have been permitted at the pre-specified trigger point for AT1 capital  instruments. On a review, it has been decided that banks may issue AT1 capital  instruments with conversion / permanent write-down features only. Similarly, with  regard to write-off feature at Point of Non-Viability  (PONV) trigger, all  non-equity capital instruments will have permanent  write-off feature only, even in cases where there is no public sector injection  of funds. Further, it is clarified that Basel III compliant capital instruments  issued with temporary write-off feature till the date of this circular will  continue to be recognised as eligible regulatory capital instruments.
+2.3 Accordingly, Annex 16 of the Basel III  Master Circular has been revised as indicated in the
+Appendix
+.
+3. Dividend/Coupon Discretion on Capital Instruments
+3.1 As regards ‘distributable items’, it is  clarified that:
+The dividend on common shares and perpetual non-cumulative  preference shares (PNCPS) will be paid out of current year’s profit only.
+If the payment of coupons on  perpetual debt instrument (PDI) is likely to result in losses in the current  year, their declaration should be precluded to that extent. Moreover, coupons  on perpetual  debt instruments should not be paid out of retained earnings / reserves.  In other words, payment of coupons should not have the effect of reducing  retained earnings / reserves.
+4. Dividend Payment by Banks
+4.1 Currently, dividend payment by banks is governed by the provisions of
+circular DBOD.No.BP.BC.88/21.02.067/2004-05 dated May  04, 2005
+on ‘Declaration of Dividends by Banks’. Further, Basel III framework also  imposes certain constraints on distributions (i.e. payment of dividend or  bonuses in any form etc.) in case the capital level of banks falls within the  stipulated range as prescribed by the capital buffers framework (i.e. capital  conservation and countercyclical buffers, etc.). It is clarified that the  dividend payment by banks would be governed by the interaction of both these  guidelines, once the capital buffer framework has kicked-in.
+4.2 Incidentally, the reference to Basel II capital requirements under paragraph 5(d) on ‘Board  Oversight’ of the above circular should  be read as the prevailing capital adequacy framework implemented by the Reserve  Bank of India and applicable to scheduled commercial banks operating in India.
+5. Optionality  of Capital Instruments
+One of the essential criteria with regard to the optionality of Basel  III compliant capital instruments is that a bank must not do anything which  creates an expectation that the call will be exercised. For  example, to preclude such expectation of the instrument being called, the  dividend / coupon reset date need not be co-terminus with the call date. Banks  may, at their discretion, consider having an appropriate gap between dividend /  coupon reset date and call date.

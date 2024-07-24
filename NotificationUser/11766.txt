@@ -1,0 +1,31 @@
+(258 kb)
+Introduction of a new type of semi-closed Prepaid Payment Instrument (PPI) – PPIs upto ₹ 10,000/- with loading only from bank account
+RBI/2019-20/123
+DPSS.CO.PD.No.1198/02.14.006/2019-20
+December 24, 2019
+All Prepaid Payment Instrument Issuers
+Madam / Dear Sir,
+Introduction of a new type of semi-closed Prepaid Payment Instrument (PPI) –
+PPIs upto ₹ 10,000/- with loading only from bank account
+Please refer to the
+Statement on Developmental and Regulatory Policies
+issued as part of Monetary Policy Statement dated December 5, 2019 as also the Master Direction on Issuance and Operation of Prepaid Payment Instruments (PPI-MD) issued vide
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017 (updated as on August 30, 2019)
+.
+2. To give impetus to small value digital payments and for enhanced user experience, it has been decided to introduce a new type of semi-closed PPI with the following features:
+Such PPIs shall be issued by bank and non-bank PPI Issuers after obtaining minimum details of the PPI holder.
+The minimum details shall necessarily include a mobile number verified with One Time Pin (OTP) and a self-declaration of name and unique identity / identification number of any ‘mandatory document’ or ‘officially valid document’ (OVD) listed in the ‘
+Master Direction - Know Your Customer (KYC) Direction, 2016
+’ issued by Department of Regulation, Reserve Bank of India, as amended from time to time.
+These PPIs shall be reloadable in nature and issued in card or electronic form. Loading / Reloading shall be only from a bank account.
+The amount loaded in such PPIs during any month shall not exceed ₹ 10,000 and the total amount loaded during the financial year shall not exceed ₹ 1,20,000.
+The amount outstanding at any point of time in such PPIs shall not exceed ₹ 10,000.
+These PPIs shall be used only for purchase of goods and services and not for funds transfer.
+PPI issuers shall provide an option to close the PPI at any time and also allow to transfer the funds ‘back to source’ (payment source from where the PPI was loaded) at the time of closure.
+The features of such PPIs shall be clearly communicated to the PPI holder by SMS / e-mail / post or by any other means at the time of issuance of the PPI / before the first loading of funds.
+The minimum detail PPIs existing as on the date of this circular can be converted to the above type of PPI, if desired by the PPI holder.
+3. The PPI-MD is being modified to introduce this new type of PPI. The other instructions contained in the PPI-MD will be applicable to this type of PPI also.
+4. The directive is issued under Section 18 read with Section 10(2) of Payment and Settlement Systems Act, 2007 and is effective from the date of issuance of this circular.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager

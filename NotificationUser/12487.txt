@@ -1,0 +1,193 @@
+(426 kb)
+Framework for acceptance of Green Deposits
+RBI/2023-24/14
+DOR.SFG.REC.10/30.01.021/2023-24
+April 11, 2023
+All Scheduled Commercial Banks including Small Finance Banks
+(excluding Regional Rural Banks, Local Area Banks and Payments Banks)
+All Deposit taking Non-Banking Finance Companies (NBFCs) including Housing Finance Companies (HFCs)
+Madam/Dear Sir,
+Framework for acceptance of Green Deposits
+Climate change has been recognised as one of the most critical challenges faced by the global society and economy in the 21st century. The financial sector can play a pivotal role in mobilizing resources and their allocation thereof in green activities/projects. Green finance is also progressively gaining traction in India.
+2. Deposits constitute a major source for mobilizing of funds by the Regulated Entities (REs). It is seen that some REs are already offering green deposits for financing green activities and projects. Taking this forward and with a view to fostering and developing green finance ecosystem in the country, it has been decided to put in place the enclosed
+Framework for acceptance of Green Deposits
+for the REs.
+3.
+The framework shall come into effect from June 1, 2023.
+Yours faithfully,
+(Sunil T. S. Nair)
+Chief General Manager
+Framework for acceptance of Green Deposits
+A. Purpose/Rationale
+To encourage regulated entities (REs) to offer green deposits to customers, protect interest of the depositors, aid customers to achieve their sustainability agenda, address greenwashing concerns and help augment the flow of credit to green activities/projects.
+1. Applicability
+The provisions of these instructions shall be applicable to the following entities, collectively referred to as regulated entities (REs):
+(a) Scheduled Commercial Banks including Small Finance Banks (excluding Regional Rural Banks, Local Area Banks and Payments Banks) and
+(b) All Deposit taking Non-Banking Financial Companies (NBFCs) registered with the Reserve Bank of India under clause (5) of Section 45IA of The Reserve Bank of India Act, 1934
+1
+, including Housing Finance Companies (HFCs) registered under Section 29A of The National Housing Bank Act, 1987
+2
+.
+2. Definitions
+In these guidelines, unless the context states otherwise, the terms herein shall bear the meaning assigned to them below:
+(a) "green activities/projects” means the activities/projects meeting the requirements prescribed in paragraph 7 of these guidelines;
+(b) “green deposit” means an interest-bearing deposit, received by the RE for a fixed period and the proceeds of which are earmarked for being allocated towards green finance;
+(c) “green finance” means lending to and/or investing in the activities/projects meeting the requirements prescribed in paragraph 7 of these guidelines that contributes to climate risk mitigation, climate adaptation and resilience, and other climate-related or environmental objectives - including biodiversity management and nature-based solutions;
+(d) “greenwashing” means the practice of marketing products/services as green, when in fact they do not meet requirements to be defined as green activities/projects.
+All other expressions unless defined herein shall have the same meaning as have been assigned to them under The Banking Regulation Act, 1949
+3
+or The Reserve Bank of India Act, 1934, The National Housing Bank Act, 1987 or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+B. Green Deposit Framework
+3. Denomination, interest rates and tenor of deposits
+REs shall issue green deposits as cumulative/non-cumulative deposits. On maturity, the green deposits would be renewed or withdrawn at the option of the depositor. The green deposits shall be denominated in Indian Rupees only. The tenor, size, interest rate and other terms and conditions (as applicable to the RE) as defined in the
+Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 dated March 03, 2016
+,
+Master Direction - Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 2016 dated August 25, 2016
+and
+Master Direction - Non-Banking Financial Company - Housing Finance Company (Reserve Bank) Directions, 2021 dated February 17, 2021
+, as amended from time to time, shall also be applicable to green deposits mutatis mutandis.
+4. Policy
+REs shall put in place a comprehensive Board-approved policy on green deposits laying down therein, all aspects in detail for the issuance and allocation of green deposits.  A copy of the above policy on ‘Green Deposits’ shall be made available on the website of the RE.
+C. Financing Framework
+5. REs shall put in place a Board-approved Financing Framework (FF) for effective allocation of green deposits covering, inter-alia, the following:
+(i) the eligible green activities/projects that could be financed out of proceeds raised through the green deposits (as permitted below in paragraph 7 under
+“Use of Proceeds”
+);
+(ii) the process for project evaluation and selection by the RE (i.e., climate-related or environmental objectives) including identifying the projects fit for lending/investing within the eligible categories, monitoring and validating the sustainability information provided by the borrower;
+(iii) the allocation of proceeds
+4
+of green deposits and its reporting, third-party verification/assurance of the allocation of proceeds and the impact assessment (as per the details given below in the paragraphs 8 and 9 under
+’Third party Verification/Assurance and Impact Assessment’
+); and
+(iv) the particulars of the temporary allocation (which would only be in liquid instruments up to a maximum original tenure of one year, which shall be specified under the Financing Framework) of green deposit proceeds, pending their allocation to the eligible activities/projects.
+6. A copy of the ‘Financing Framework’ specifying the above aspects shall be made available on the website of the RE. The RE shall also arrange to carry out an external review of their FF and the opinion from the external reviewer shall be made available on its website before implementation of the FF.
+D. Use of proceeds
+7. The allocation of proceeds raised from green deposits shall be based on the official Indian green taxonomy. Pending finalization of the taxonomy, as an interim measure, REs shall be required to allocate the proceeds raised through green deposits towards the following list
+5
+of green activities/projects which encourage energy efficiency in resource utilisation, reduce carbon emissions and greenhouse gases, promote climate resilience and/or adaptation and value and improve natural ecosystems and biodiversity.
+Sector
+Description
+Renewable Energy
+• Solar/wind/biomass/hydropower energy projects that integrate energy generation and storage.
+• Incentivizing adoption of renewable energy.
+Energy Efficiency
+• Design and construction of energy-efficient and energy-saving systems and installations in buildings and properties.
+• Supporting lighting improvements (e.g. replacement with LEDs).
+• Supporting construction of new low-carbon buildings as well as energy-efficiency retrofits to existing buildings.
+• Projects to reduce electricity grid losses.
+Clean Transportation
+• Projects promoting electrification of transportation.
+• Adoption of clean fuels like electric vehicles including building charging infrastructure.
+Climate Change Adaptation
+• Projects aimed at making infrastructure more resilient to impacts of climate change.
+Sustainable Water and Waste Management
+• Promoting water efficient irrigation systems.
+• Installation/upgradation of wastewater infrastructure including transport, treatment and disposal systems.
+• Water resources conservation.
+• Flood defence systems.
+Pollution Prevention and Control
+• Projects targeting reduction of air emissions, greenhouse gas control, soil remediation, waste management, waste prevention, waste recycling, waste reduction and energy/emission-efficient waste-to-energy
+6
+.
+Green Buildings
+• Projects related to buildings that meet regional, national or internationally recognized standards or certifications for environmental performance.
+Sustainable Management of Living Natural Resources and Land Use
+• Environmentally sustainable management of agriculture, animal husbandry, fishery and aquaculture.
+• Sustainable forestry management including afforestation/reforestation.
+• Support to certified organic farming.
+• Research on living resources and biodiversity protection.
+Terrestrial and Aquatic Biodiversity Conservation
+• Projects relating to coastal and marine environments.
+• Projects related to biodiversity preservation, including conservation of endangered species, habitats and ecosystems.
+Exclusions
+• Projects involving new or existing extraction, production and distribution of fossil fuels, including improvements and upgrades; or where the core energy source is fossil-fuel based.
+• Nuclear power generation.
+• Direct waste incineration.
+• Alcohol, weapons, tobacco, gaming, or palm oil industries.
+• Renewable energy projects generating energy from biomass using feedstock originating from protected areas.
+• Landfill projects.
+• Hydropower plants larger than 25 MW.
+The REs shall ensure that the funds raised through green deposits are allocated to the eligible green activities/projects.
+E. Third-Party Verification/Assurance and Impact Assessment
+8. The allocation of funds raised through green deposits by REs during a financial year shall be subject to an independent Third-Party Verification/Assurance which shall be done on an annual basis. The third-party assessment would not absolve the RE of its responsibility regarding the end-use of funds, for which the laid down procedures of internal checks and balances would have to be followed as in the case of other loans. The related terms and conditions to be additionally fulfilled by the borrowers to meet the requirements of the framework laid out in paragraphs 5 to 7 above would be the additional check points while ascertaining the end-use of funds.
+9. The Third-Party Verification/Assurance Report shall, at the minimum, cover the following aspects:
+Use of the proceeds to be in accordance with the eligible green activities/projects indicated in paragraph 7 above. The REs shall monitor the end-use of funds allocated against the deposits raised.
+Policies and Internal Controls including, inter-alia, project evaluation and selection, management of proceeds, and validation of the sustainability information provided by the borrower to the REs and Reporting and Disclosures.
+10. REs, with the assistance of external firms, shall annually assess the impact associated with the funds lent for or invested in green finance activities/projects through an Impact Assessment Report. An illustrative list of impact indicators is given in
+Annex 1
+.  In case REs are unable to quantify the impact of their lending/investment, they shall disclose, at the minimum, the reasons, the difficulties encountered, and the time-bound future plans to address the same. Considering the fact that impact assessment is an evolving area, it shall be undertaken on a voluntary basis for the financial year 2023-24. REs shall have to mandatorily make an impact assessment from the financial year 2024-25 onwards. REs shall place the report of the Third-Party Verification/Assurance and Impact Assessment Report on their website.
+F. Reporting and Disclosures
+11. A review report shall be placed by the RE before its Board of Directors within three months of the end of the financial year which shall, inter-alia, cover the following details:
+amount raised under green deposits during the previous financial year
+list of green activities/projects to which proceeds have been allocated, along with a brief description of the projects
+the amounts allocated to the eligible green activities/projects
+a copy of the Third-Party Verification/Assurance Report and the Impact Assessment Report.
+12. REs shall make appropriate disclosures in their Annual Financial Statements on the portfolio-level information regarding the use of the green deposit funds as per the proforma prescribed in
+Annex 2
+.
+Annex 1
+Illustrative list of impact indicators
+Eligible Project Category
+Impact Indicators - Examples
+Renewable Energy
+Total renewable capacity (in MWh)
+Energy generated per year (MWh)
+GHG emissions avoided per year (measured in tonnes CO
+2
+equivalent, tCO
+2
+e)
+Waste Management
+Waste diverted from landfill per year (tonnes)
+Clean Transportation
+GHG emissions avoided per year (tCO
+2
+e)
+New clean transportation infrastructure built (km)
+Number of electric or low emission vehicles produced
+Energy Efficiency
+Energy savings per year (MWh)
+GHG emissions avoided per year (tCO
+2
+e)
+Afforestation/ Reforestation
+GHG emissions reduced/Carbon Sequestration achieved (measured in tCO
+2
+e)
+Annex 2
+Portfolio-level information on the use of funds raised from green deposits
+(Amount in ₹ crore)
+Particulars
+Current Financial Year
+Previous Financial Year
+Cumulative*
+Total green deposits raised (A)
+Use of green deposit funds**
+(1) Renewable Energy
+(2) Energy Efficiency
+(3) Clean Transportation
+(4) Climate Change Adaptation
+(5) Sustainable Water and Waste Management
+(6) Pollution Prevention and Control
+(7) Green Buildings
+(8) Sustainable Management of Living Natural Resources and Land Use
+(9) Terrestrial and Aquatic Biodiversity Conservation
+Total Green Deposit funds allocated (B = Sum of 1 to 9)
+Amount of Green Deposit funds not allocated (C = A – B)
+Details of the temporary allocation of green deposit proceeds pending their allocation to the eligible green activities/projects
+* This shall contain the cumulative amount since the RE started offering green deposits. For example, if a bank has commenced raising green deposits from June 1, 2023, then the annual financial statement for the period ending March 31, 2025 would contain particulars of deposits raised and allocated from June 1, 2023 till March 31, 2025.
+**Under each category, REs may provide sub-categories based on the funds allocated to each sub-sector. For example, REs may provide sub-categories like solar energy, wind energy, etc. under “Renewable Energy”.
+1
+The Reserve Bank of India Act, No. 2 of 1934
+2
+The National Housing Bank Act, No. 53 of 1987
+3
+The Banking Regulation Act, No. 10 of 1949
+4
+Refers to the allocation of funds from the proceeds of the green deposits to the eligible green activities/projects as specified in the Financing Framework
+5
+Adopted from the list of eligible green projects falling under Eligible Categories defined in Table 1 of the Government of India’s ‘
+Framework for Sovereign Green Bonds’
+published on November 9, 2022.
+6
+Feedstock will primarily include: Sewage, manure, wastewater, bagasse, biomass, wood pellets, etc.

@@ -1,0 +1,68 @@
+(64 kb)
+Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standard
+RBI/2017-18/36
+DBR.BP.BC.No. 81/21.04.098/2017-18
+August 02, 2017
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear Sir/Madam,
+Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standard
+Please refer to our circular
+DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 9, 2014
+“Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards” read along with amendments introduced by following circulars:
+DBR.BP.BC.No.52/21.04.098/2014-15 dated November 28, 2014
+on “Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards.”
+DBR.No.BP.BC.80/21.06.201/2014-15 dated March 31, 2015
+on “Prudential Guidelines on Capital Adequacy and Liquidity Standards – Amendments.”
+DBR.BP.BC.No.86/21.04.098/2015-16 dated March 23, 2016
+on “Liquidity Risk Management & Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards.”
+2. In view of feedback received from the stakeholders and experience gained, it has been decided to amend certain provisions of these guidelines. The amendment to specific instructions of the above-mentioned circulars are given in the
+Annex
+.
+Yours faithfully,
+(S. S. Barik)
+Chief General Manager-in-charge
+Encls: as above
+Annex
+Amendment to
+DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 9, 2014
+“Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards.
+Sr.
+Para
+Existing
+Amended
+1
+5.4
+5.4 Level 1 assets of banks would comprise of the following and these assets can be included in the stock of liquid assets without any limit as also without applying any haircut:
+i. Cash including cash reserves in excess of required CRR.
+ii. Government securities in excess of the minimum SLR requirement.
+iii. Within the mandatory SLR requirement, Government securities to the extent allowed by RBI, under Marginal Standing Facility (MSF).
+iv. Marketable securities issued or guaranteed by foreign sovereigns satisfying all the following conditions:
+(a) assigned a 0% risk weight under the Basel II standardized approach for credit risk;
+(b) Traded in large, deep and active repo or cash markets characterised by a low level of concentration; and proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions.
+(c) not issued by a bank/financial institution/ NBFC or any of its affiliated entities.
+5.4 Level 1 assets of banks would comprise of the following and these assets can be included in the stock of liquid assets without any limit as also without applying any haircut:
+i. Cash including cash reserves in excess of required CRR.
+i(a). For banks incorporated in India,
+• Reserves held with foreign Central Banks in excess of the reserve requirement
+1
+, where a foreign sovereign has been assigned a 0% risk weight as per rating by an international rating agency.
+• Reserves held with foreign Central Banks in excess of the reserve requirement, to the extent these balances cover the bank’s stressed net cash outflows in that specific currency, in cases where a foreign sovereign has been assigned a non-0% risk weight as per rating by an international rating agency, but a 0% risk weight has been assigned at national discretion under Basel II Framework.
+ii. Government securities in excess of the minimum SLR requirement.
+iii. Within the mandatory SLR requirement, Government securities to the extent allowed by RBI
+2
+, under Marginal Standing Facility (MSF).
+iv. Marketable securities issued or guaranteed by foreign sovereigns
+3
+satisfying all the following conditions:
+(a) assigned a 0% risk weight under the Basel II standardized approach for credit risk;
+(b) Traded in large, deep and active repo or cash markets characterised by a low level of concentration; and proven record as a reliable source of liquidity in the markets (repo or sale) even during stressed market conditions.
+(c) not issued by a bank/financial institution/NBFC or any of its affiliated entities.
+1
+Central bank’s reserves would include banks overnight deposits with central banks, and term deposits with the central banks that: (i) are explicitly and contractually repayable on notice from the depositing bank; or (ii) that constitute a loan against which the bank can borrow on a term or on an overnight basis but automatically renewable basis (only where the bank has existing deposit with the relevant central bank). Other term deposits with central banks are not eligible for the stock of HQLA. However, if the term expires within 30 days, the term deposits could be considered as an inflow.
+2
+Government securities to the extent of 2 per cent of NDTL may be included i.e. currently allowed under marginal standing facility (MSF).
+3
+These securities will include only marketable securities which attract a 0% risk-weight in terms of paragraph 5.3.1 of RBI’s
+Master Circular on ‘Basel III Capital Regulations’ dated July 1, 2013
+. In cases where a foreign sovereign has been assigned a non-0% risk weight as per rating by an international rating agency, but a 0% risk-weight has been assigned at national discretion under Basel II Framework, marketable securities issued or guaranteed by that foreign sovereign within its domestic jurisdiction will be allowed to the extent those securities cover a bank’s stressed net cash outflows in that specific foreign currency stemming from the bank’s operations in the jurisdiction where the bank’s liquidity risk is being taken.

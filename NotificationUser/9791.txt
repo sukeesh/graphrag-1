@@ -1,0 +1,29 @@
+(275 kb)
+BEF statement - Submission under XBRL
+RBI/2014-15/643
+A.P.(DIR Series) Circular No. 110
+June 18, 2015
+To
+All Category - I Authorised Dealer Banks
+BEF statement - Submission under XBRL
+Madam / Sir,
+Attention of Authorised Dealer Category - I (AD Category - I) banks is invited to
+A.P (DIR Series) Circular No.106 dated June 19, 2003
+and
+A.P. (DIR Series) Circular No.09 dated August 18, 2003
+, in terms of which AD Category - I banks were required to submit BEF statement, to respective regional offices of Reserve Bank of India, in the prescribed format, on half yearly basis.
+2. It has been decided to move from manual reporting of above mentioned statement to eXtensible Business Reporting Language (XBRL) system from half year ended June 2015. With effect from the half year ending June 2015, BEF submission would be online and Bank-wise instead of the present system of branch-wise submission, to the respective Regional Offices of the RBI.
+3. Earlier, banks used to submit BEF data in part I & II on incremental basis. However, in the proposed module, AD banks have to submit data in a single format (
+Annex I
+) giving details of all remittances for import exceeding USD 100,000, as on end of June and December of every year, in respect of which importers have defaulted in submission of appropriate document evidencing  import within 6 months from the date of remittance. All other instructions  remain unchanged.
+4. The details may be accessed at
+https://secweb.rbi.org.in/orfsxbrl/
+. For User name and password, AD banks are advised to submit the fill-in form (
+Annex II
+) through
+email
+on or before June 26, 2015.
+5. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(B. P. Kanungo)
+Principal Chief General Manager

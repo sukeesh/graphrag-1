@@ -1,0 +1,385 @@
+(384 kb)
+Master Circular on Money Transfer Service Scheme
+RBI/2014-15/13
+Master Circular No.1/2014-15
+July 1, 2014
+(As updated on March 25, 2015)
+To
+All Authorised Persons, who are Indian Agents under
+the Money Transfer Service Scheme
+Madam / Sir,
+Master Circular on Money Transfer Service Scheme
+Money Transfer Service Scheme (MTSS) is a quick and easy way of transferring personal remittances from abroad to beneficiaries in India. Only inward personal remittances into India such as remittances towards family maintenance and remittances favouring foreign tourists visiting India are permissible. No outward remittance from India is permissible under MTSS.
+2. This
+Master Circular
+is being updated from time to time as and when the fresh instructions are issued. The date up to which the Master Circular has been updated is suitably indicated.
+3. This Master Circular may be referred to for general guidance. The Authorised Persons and the Authorised Dealer Category – I banks may refer to respective circulars/ notifications for detailed information, if so needed.
+Yours faithfully,
+(B. P. Kanungo)
+Principal Chief General Manager
+INDEX
+PART-A
+SECTION I
+Guidelines for permitting(authorising) Indian Agents under Money Transfer Service Scheme (MTSS)
+SECTION II
+Guidelines for Overseas Principals
+SECTION III
+Guidelines for appointment of Sub-Agents by Indian Agents
+SECTION IV
+Guidelines for renewal of permission (authorisation) of existing Indian Agents
+SECTION V
+Inspection of Indian Agents
+SECTION VI
+KYC/ AML/ CFT Guidelines for Indian Agents
+SECTION VII
+General Instructions
+PART-B
+Reports / Statements
+Annex-I: Format for Sub Agents of Indian Agents of MTSS
+Annex-II: Statement showing details of quantum of remittances received through Money Transfer Scheme during the quarter ended
+Annex-III: Statement of Collateral kept by Indian Agents
+Appendix
+PART-A
+SECTION I
+Guidelines for permitting (authorising) Indian Agents under Money Transfer Service Scheme (MTSS):
+1. Introduction
+1.1 Money Transfer Service Scheme (MTSS) is a quick and easy way of transferring personal remittances from abroad to beneficiaries in India. Only inward personal remittances into India such as remittances towards family maintenance and remittances favouring foreign tourists visiting India are permissible. No outward remittance from India is permissible under MTSS. The system envisages a tie-up between reputed money transfer companies abroad known as Overseas Principals and agents in India known as Indian Agents who would disburse funds to beneficiaries in India at ongoing exchange rates. The Indian Agent is not allowed to remit any amount to the Overseas Principal. Under MTSS the remitters and the beneficiaries are individuals only.
+Statutory Basis
+1.2 In terms of the powers granted under Section 10 (1) of the Foreign Exchange Management Act (FEMA), 1999, the Reserve Bank of India may accord necessary permission (authorization) to any person to act as an Indian Agent under the Money Transfer Service Scheme. No person can handle the business of cross-border money transfer to India in any capacity unless specifically permitted by the Reserve Bank.
+1.3 These guidelines lay down basic conditions for grant of permission (authorisation) to Indian Agents and renewal of existing MTSS permissions given to them. These guidelines also include guidelines for Overseas Principals and appointment of Sub-Agents by the Indian Agents. The guidelines are not exhaustive and other relevant information, security considerations,
+etc.,
+will be factored into the decision of permitting an entity. These guidelines will apply to all applications pending with the Reserve Bank for new arrangements, renewal of permissions given to Indian Agents,
+etc
+. Existing Indian Agents who do not meet the eligibility norms will have to meet the norms in a phased manner with the approval of the Reserve Bank or wind up the business of money transfer immediately.
+2. Guidelines
+Entry Norms
+(i) The applicant to become an Indian Agent should be an Authorised Dealer Category-I bank or an Authorised Dealer Category-II or a Full Fledged Money Changer (FFMC), as defined in the
+A.P. (DIR Series) Circular No. 25 [A.P. (FL Series) Circular No. 02] dated March 6, 2006
+, or a Scheduled Commercial Bank or the Department of Posts.
+(ii) The applicant should have minimum Net Owned Funds of
+`
+50 lakh.
+Note :- (i) Owned Funds :- (Paid-up Equity Capital + Free reserves + Credit balance in Profit & Loss A/c) minus (Accumulated balance of loss, Deferred revenue expenditure and Other intangible assets)
+(ii) Net Owned Funds :- Owned funds minus the amount of investments in shares of its subsidiaries, companies in the same group, all (other) non-banking financial companies as also the book value of debentures, bonds, outstanding loans and advances made to and deposits with its subsidiaries and companies in the same group in excess of 10 per cent of the Owned funds.
+3. Procedure for making Applications to the Reserve Bank
+Application for necessary permission to act as an Indian Agent may be made to the respective Regional Office of the Foreign Exchange Department of the Reserve Bank of India, under whose jurisdiction the registered office of the applicant falls
+1
+and should be accompanied by the documents pertaining to its proposed Overseas Principal, as detailed in
+Section II
+below and the following documents:
+a. A declaration to the effect that no proceedings have been initiated by / are pending with the Directorate of Enforcement (DoE) / Directorate of Revenue Intelligence (DRI) or any other law enforcing authorities, against the applicant or its directors and that no criminal cases are initiated / pending against the applicant or its directors.
+b. A declaration to the effect that proper policy framework on KYC / AML / CFT, in accordance with the guidelines issued by Reserve Bank of India, Department of Banking Regulation, Central Office as referred to in their latest Master Circular –
+‘Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002’
+and other instructions in this regard  so far and from time to time in future, mutatis mutandis, applicable to Indian agents and their Sub-agents in place on obtaining permission (authorization) of the Reserve Bank and before commencement of money transfer operations.
+c. Name and address of the Overseas Principal with whom the MTSS will be conducted.
+d. Full details of the operation of the scheme by the Overseas Principal.
+e. List of branches in India and their addresses where MTSS will be conducted by the applicant.
+f. Estimated volume of business per month/year under the scheme.
+g. Audited Balance Sheet and Profit and Loss Account for the last two financial years of the applicant, if available or a copy of the latest audited accounts, with a certificate from Statutory Auditors regarding the position of the Net Owned Funds as on the date of application.
+h. Memorandum and Articles of Association of the applicant where either a provision exists for taking up money transfer business or an appropriate amendment thereto has been filed with the Company Law Board.
+i. Confidential Report from at least two of the applicant's bankers in sealed cover.
+j. Details of sister/ associated concerns of the applicant functioning in the financial sector.
+k. A certified copy of the board resolution for undertaking money transfer business by the applicant.
+l. A letter from the proposed Overseas Principal, agreeing to enter into tie up with the applicant and also to provide necessary collateral.
+4. Collateral requirement
+Collateral equivalent to 3 days' average drawings or US $ 50,000, whichever is higher, may be kept by the Overseas Principal in favour of the Indian Agent with a designated bank in India. The minimum amount of US $ 50,000 shall be kept as a foreign currency deposit while the balance amount may be kept in the form of a Bank Guarantee. The adequacy of collateral should be reviewed by Indian Agents at quarterly intervals on the basis of remittances received during the past three months.
+5. Other conditions
+a. Only cross-border personal remittances, such as, remittances towards family maintenance and remittances favouring foreign tourists visiting India shall be allowed under this arrangement. Donations/contributions to charitable institutions/trusts, trade related remittances, remittance towards purchase of property, investments or credit to NRE Accounts shall not be made through this arrangement.
+b. A cap of US $ 2500 has been placed on individual remittance under the scheme. Amounts up to
+`
+50,000/- may be paid in cash to a beneficiary in India. Any amount exceeding this limit shall be paid by means of account payee cheque/ demand draft/ payment order,
+etc.
+, or credited directly to the beneficiary's bank account only. However, in exceptional circumstances, where the beneficiary is a foreign tourist, higher amounts may be disbursed in cash. Full details of such transactions should be kept on record for scrutiny by the auditors/ inspectors.
+c. Only 30 remittances can be received by a single individual beneficiary under the scheme during a calendar year.
+6. Criteria for RBI decisions
+(i) The Indian Agents need to have strength and efficiency to function profitably in a highly competitive environment. As a number of Indian Agents are already functioning, permission (authorization) will be issued on a very selective basis to those who meet the above requirements, have necessary outreach and who are likely to conform to the best international and domestic standards of customer service and efficiency.
+(ii) The Indian Agent should commence its money transfer operations under the scheme within a period of
+six months
+from the date of issuance of permission (authorization) and inform the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank.
+SECTION II
+Guidelines for Overseas Principals:
+Indian Agents entering into arrangements with Money Transfer Operators overseas, known as Overseas Principals, may note that Overseas Principals with adequate volume of business, track record and outreach will only be considered under the scheme. Further, since the primary objective of permitting the business of money transfer business in the country is to facilitate cheaper and more efficient means of receipt of remittances, operators with limited outreach in terms of branch network in the country and localized operations overseas will not be entertained.
+Applicant Indian Agents should submit the following documents / comply with the following requirements, in respect of their Overseas Principals:
+a. The Overseas Principal should obtain necessary authorisation from the Department of Payment and Settlement Systems, Reserve Bank of India under the provisions of the Payment and Settlement Systems Act (PSS Act), 2007 to commence/ operate a payment system. Prior to such authorization, the Reserve Bank will verify the background and antecedents of the Overseas Principal with the help of Govt. of India,
+b. The Overseas Principal should be a registered entity, licenced by the Central Bank / Government or financial regulatory authority of the country concerned for carrying on Money Transfer Activities. The country of registration of the Overseas Principal should be AML compliant.
+c. The minimum Net Worth of Overseas Principals should be at least US $ 1 million as per the latest audited balance sheet, which should be maintained at all times. However, the Reserve Bank may consider relaxing the minimum Net Worth criterion in case of Overseas Principals incorporated in FATF member countries and are supervised by the concerned Central Bank/ Government or financial regulatory authority.
+d. The Overseas Principal should be well established in the money transfer business with a track record of operations in well regulated markets.
+e. The arrangement with Overseas Principal should result in considerably increasing access to formal money transfer facilities at both ends.
+f. The Overseas Principal should be registered with the overseas trade / Industry bodies.
+g. The Overseas Principal should have a good rating from one of the international credit rating agencies.
+h. The Overseas Principal should submit confidential reports from at least two of its bankers.
+i. The Overseas Principal should submit a report certified by independent Chartered Accountants, regarding steps taken to comply with anti money laundering norms in the home/ host country.
+j. The Overseas Principals will be fully responsible for the activities of their Agents and Sub Agents in India.
+k
+.
+Proper records of remitters as also beneficiaries pertaining to all pay-outs in India are to be maintained by the Overseas Principals. All records must be made accessible on demand to the Reserve Bank or other agencies of the Government of India,
+viz.
+, Ministry of Finance, Ministry of Home Affairs, FIU-IND,
+etc.
+Full details of the remitters and the beneficiaries should be provided by the Overseas Principals, if called for.
+SECTION III
+Guidelines for appointment of Sub Agents by Indian Agents
+:
+1. The Scheme
+Under the Scheme, Indian Agents can enter into Sub Agency agreements with entities, fulfilling certain conditions, for the purpose of undertaking money transfer business.
+2. Sub Agents
+A Sub Agent should have a place of business, and whose bonafides are acceptable to the Indian Agent. Indian Agents are free to decide on the tenor of the arrangement as also the commission or fee through mutual agreement with the Sub Agent. The audit and on-site inspection of premises and records of the Sub Agents by the Indian Agent to be conducted at least once in a month and in a year respectively.
+3. Procedure for Submission of information in respect of Sub Agents by Indian Agents.
+Indian Agents should submit on a quarterly basis necessary information in the prescribed format (
+Annex-I
+) in soft copy form pertaining to their Sub Agents appointed during a quarter within 15 days of the end of the quarter, to the respective Regional Offices of the Foreign Exchange Department of the Reserve Bank under whose jurisdiction the registered office of the Indian Agent falls for onward submission to the Ministry of Home Affairs (MHA), Govt. of India (GoI) through the Ministry of Finance (MoF), Govt. of India (GoI). In case of any objection by the MHA, the Sub Agency arrangement concerned should be terminated immediately.
+Indian Agents should also furnish certificates along with the information in Annex-I that the Sub Agents appointed by them comply with the eligibility norms and also they have done due diligence, wherever applicable, in respect of them.
+4. Due Diligence of Sub Agents
+The Indian Agents and the Overseas Principals should undertake the following minimum checks while conducting due diligence of the Sub Agents, other than ADs Cat-I, ADs Cat-II, Scheduled Commercial Banks, FFMCs and the Deptt. of Posts.
+existing business activities of the Sub Agent/ its position in area
+Shop & Establishment/ other applicable municipal certification in favour of the Sub Agent
+verification of physical existence of location of the Sub Agent
+conduct certificate of the Sub Agent from the local police authorities. (certified copy of Memorandum and Articles of Association and Certificate of Incorporation in respect of incorporated entities).
+Note: Although obtaining of conduct certificate of the Sub Agent from the local police authorities is non-mandatory for the Indian Agents, the Indian Agents must take due care to avoid appointing individuals/ entities as Sub Agents who have cases / proceedings initiated / pending against them by any law enforcing agencies.
+declaration regarding past criminal cases, cases initiated/ pending against the Sub Agent and/or its directors/ partners by any law enforcing agency, if any
+PAN Card of the Sub Agents and its directors/ partners
+Photographs of the directors/ partners and the key persons of the Sub Agent
+The above checks should be done on a regular basis, at least once in a year. The Indian Agents should obtain from the Sub Agents proper documentary evidence confirming the location of the Sub Agents in addition to personal visits to the site. The Indian Agents should discontinue agreements with Sub Agents who do not meet the criteria laid down above within three months from the date of this circular.
+5. Selection of Centers
+The Indian Agents are free to select centers for operationalising the Scheme. However, this may be advised to the Reserve Bank.
+6. Training
+The Indian Agents would be expected to impart training to the Sub Agents as regards operations and maintenance of records.
+7. Reporting, Audit and Inspection
+The Indian Agents would be expected to put in place adequate arrangements for reporting of transactions by the Sub Agents to the Indian Agents (on a regular basis) in a simple format to be prescribed by them, say at monthly intervals.
+Regular spot audits of all locations of Sub Agents, at least on a monthly basis, should be conducted by Indian Agents. Such audits should involve a dedicated team and
+'mystery customer' (Individuals acting as potential customers to experience and measure the extent up to which people and process perform as they should)
+concept should be used to test the compliance carried out by Sub Agents. As mentioned above, a system of inspection of the books of the Sub Agents should be put in place. The purpose of such inspection, which should be done at least once a year, would be to ensure that the money transfer business is being carried out by the Sub Agents in conformity with the terms of agreement/prevailing RBI guidelines and that necessary records are being maintained by the Sub Agents.
+Note:- As of now, the Indian Agents are fully responsible for the activities of their Sub Agents. While the Indian Agents will be encouraged to act as self-regulated entities, the onus of ensuring the conduct of activities of the Sub Agents in the prescribed manner will lie solely on the Indian Agents concerned and Reserve Bank of India can in no way be held responsible for the activities of the Sub Agents. Each Indian Agent would be required to conduct due diligence before appointing a Sub Agent and any irregularity observed could render the Indian Agent’s permission liable for cancellation.
+SECTION IV
+Guidelines for renewal of permission(authorization) of existing Indian Agents
+:
+1. Necessary permission to Indian Agents will be issued initially for a period of one year, which may be renewed for one to three years at a time on the basis of fulfilment of all conditions and other directions/ instructions issued by the Reserve Bank from time to time by Indian Agents.
+2. The applicant should be an Authorised Dealer Category-I bank or an Authorised Dealer Category-II or a Full Fledged Money Changer (FFMC), as defined in the A.P. (DIR Series) Circular No. 25 [A.P. (FL Series) Circular No. 02] dated March 6, 2006, or a Scheduled Commercial Bank or the Department of Posts.
+3. The Indian Agent should have minimum Net Owned Funds of
+`
+50 lakh.
+4. Application for renewal of permission should be submitted to the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank under whose jurisdiction the registered office of the Indian Agent falls along-with the documents pertaining to the Overseas Principal as detailed in
+Section II
+above and the following documents:
+a. A declaration to the effect that no proceedings have been initiated by / are pending with the Directorate of Enforcement (DoE) / Directorate of Revenue Intelligence (DRI) or any other law enforcing authorities, against the Indian Agent or its directors and that no criminal cases are initiated / pending against the Indian Agent or its directors.
+b. A write up on the KYC / AML / CFT, risk management and internal control policy framework, put in place by the Indian Agent.
+c. Audited Balance Sheet and Profit and Loss Account for the last two financial years of the Indian Agent, if available or a copy of the latest audited accounts, with a certificate from statutory auditors regarding the position of the Net Owned Funds as on the date of application.
+d. Confidential Reports from at least two of the bankers of the Indian Agent in sealed cover.
+e. Details of sister/ associated concerns of the Indian Agent functioning in the financial sector.
+f. A certified copy of the board resolution for renewal of permission.
+Note :- An application for the renewal of permission under MTSS shall be made not later than one month, or such other period as the Reserve Bank may prescribe, before the expiry of the permission. Where an entity submits an application for the renewal of its MTSS permission, the permission shall continue in force until the date on which the permission is renewed or the application for renewal of permission is rejected, as the case may be. No application for renewal of MTSS permission shall be made after the expiry of the permission.
+SECTION V
+Inspection of Indian Agents
+Inspections of the Indian Agents may be conducted by the Reserve Bank under the provisions of Section 12(1) of the FEMA, 1999.
+SECTION VI
+KYC/ AML/ CFT Guidelines for the Indian Agents
+Detailed instructions on Know Your Customer (KYC) norms/Anti-Money Laundering (AML) standards/Combating the Financing of Terrorism (CFT) for Indian Agents under MTSS in respect of cross-border inward remittance activities, in the context of the FATF Recommendations on Anti Money Laundering standards and on Combating the Financing of Terrorism issued by Reserve Bank of India, Department of Banking Regulation, Central Office as referred to in their latest Master Circular –
+‘Know Your Customer (KYC) norms / Anti-Money Laundering (AML) standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under PMLA, 2002’
+and other instructions in this regard  so far and from time to time in future, shall, mutatis mutandis, be applicable to all Authorised Persons (APs), who are Indian agents under MTSS and to their Sub-agents.
+SECTION VII
+General Instructions
+All Overseas Principals are required to submit their annual audited balance sheet along with a certificate on Net Worth from their Statutory Auditors to the concerned Regional Office of the Foreign Exchange Department and the Department of Payment and Settlement Systems of the Reserve Bank. Similarly, all Indian Agents are required to submit their annual audited balance sheet along with a certificate from their Statutory Auditors on Net Owned Funds to the Regional offices concerned of the Foreign Exchange Department of the Reserve Bank. As the Overseas Principals and the Indian Agents are expected to maintain minimum Net Worth and Net Owned Funds respectively on an ongoing basis, they are required to bring it to the notice of the Reserve Bank immediately along with a detailed plan of restoring the Net Worth/ Net Owned Funds to the minimum required level, if there is any reduction in their Net Worth/ Net Owned Funds below the minimum level.
+PART-B
+Reports / Statements
+1. A quarterly statement of the quantum of remittances received, as per the enclosed format (
+Annex-II
+) should be furnished by the Indian Agents to the Regional Offices (ROs) concerned of the Foreign Exchange Department (FED) of the Reserve Bank, under whose jurisdiction their registered offices fall
+within 15 days
+from the close of the quarter to which it relates.
+2. List of their additional locations should be furnished by the Indian Agents to the ROs concerned of the FED of the Reserve Bank, under whose jurisdiction their registered offices fall, on
+quarterly
+basis
+within 15 days
+from the close of the quarter to which it relates.
+3. Indian Agents should forward the list of their Sub Agents, Overseas Principal-Indian Agent wise along with the addresses of all the locations of their Sub Agents in excel format in soft form by emailing the same. Indian Agents should e-mail in excel format in soft form and to the concerned FED Regional Office, full updated list (names and addresses of all the locations) of the Sub Agents, whenever they appoint/ remove any Sub Agent. Indian Agents should visit the RBI website and verify the list of Sub Agents on regular intervals and any aberration to the list observed may immediately be brought to the notice of the concerned FED ROs. Further, Indian Agents should confirm the veracity on quarterly basis of the list placed on RBI wesbite to their respective FED ROs either in form of a letter or by e-mail
+within 15 days
+of the end of a quarter.
+4. A
+half-yearly
+statement of the collateral held as at the end of June and December every year, as per the enclosed format (
+Annex-III
+) should be furnished by the Indian Agents to the ROs concerned of the FED of the Reserve Bank, under whose jurisdiction their registered offices fall
+within 15 days
+from the close of the half-year to which it relates.
+Note: All Authorised Persons, who are Indian agents under MTSS are required to make all their correspondence with Reserve Bank including submission of prescribed statements to the Regional Office of the Foreign Exchange Department of the Reserve Bank, under whose jurisdiction their registered offices function.
+Annex-I
+Format for Sub Agents of Indian Agents of MTSS
+1.
+Name of the Sub Agent
+2.
+Sub Agent Category (AD Cat-I bank/ AD Cat-II/ Other Scheduled Commercial Bank/ Full Fledged Money Changer/ Department of Posts/ Registered NBFC/ Others)
+3.
+Address of the registered/corporate/administrative office with telephone number/s, Fax number/s and e-mail id/s.
+4.
+Registered with
+5.
+Registration Number
+6.
+Details of Registration (papers to be attached as at
+Annex-Ia
+)
+7.
+PAN Number (copy as at Annex-Ia)
+8.
+Name/s of Banker/s and Bank Account Number/s (enclosures as at Annex-Ia)
+9.
+Details (Name, Nationality, Residential address, Controlling interest in any other company, PAN Number) of each promoter with more than 10% equity holding
+10.
+Paid up capital in
+`
+and Number of shares
+11.
+Accounts certified by which Chartered Accountant? Details (Enclosures as at Annex-Ia)
+12.
+Whether prosecuted/ convicted for criminal/ economic offence? If yes, particulars thereof (Enclosures as at Annex-Ia)
+13.
+Whether the Sub Agent is solvent as on date
+14.
+Details (Name, Designation, Nationality, Residential address, PAN No., Name/s of other company/ies in which the person has held any post, Details of equity shareholding in the company, if any) of Chairman/Managing Director/Director/Chief Executive Officer (Details as at Annex-Ia)
+Note: With reference to point 9, ownership of the Sub Agent should be detailed up to the last layer of equity holding ending in mentioning the name of the individual/ entity that owns beneficial interest in the company.
+Date:                                                          Signature of Chartered Accountant
+Place:                                                         Signature of Managing Director
+Annex-Ia : List of Certified copies of Documents to be submitted
+Certificate of Incorporation
+Memorandum (up-to-date) and Articles of Association
+Board resolution for conducting money transfer activities, submission of application and its contents including authorization of an official to make the application.
+Details of associates, group companies,
+etc.
+PAN Card/s of the Director/s.
+Bank Account details and sealed confidential reports from banks.
+A certificate from Chartered Accountant certifying Net Owned Funds
+Balance Sheet and P&L A/c statement for the last three years.
+Business plan for the next three years.
+Conduct certificate from the local police authorities.
+Declaration regarding past criminal cases, cases initiated/ pending against the company or its Directors by any law enforcing agencies.
+Photographs of the Directors and key persons.
+Information about the management.
+Shop and establishment certificate/ other municipal certificate.
+Annex-II
+Statement showing details of quantum of remittances received through
+Money Transfer Service Scheme during the quarter ended
+________________
+Name of the Indian Agent ______________________________________
+Name of the Overseas Principal
+Total quantum of remittances received in US $
+INR equivalent
+Note: This statement is required to be submitted to the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank within 15 days from the close of the quarter to which it relates.
+Annex-III
+Statement of Collateral kept by Indian Agents
+Name of the Indian Agent __________________________
+Name of the Overseas Principal
+Total quantum of remittances received during the past 6 months in US $
+Amount of collateral held in US $
+Collateral kept in various forms (Foreign Currency Deposit/ Bank Guarantee)
+Last review of adequacy of collateral along with observations
+Note: This statement as at the end of June and December every year is required to be submitted to the Regional Office concerned of the Foreign Exchange Department of the Reserve Bank within 15 days from the close of the half year to which it relates.
+Appendix
+List of Circulars/ Notifications which have been consolidated in the
+Master Circular on Money Transfer Service Scheme
+Sl. No.
+Notification/ Circular
+Date
+1.
+Notification on MTSS
+June 4, 2003
+2.
+A.P. (DIR Series) Circular No. 18 [ A.P.(FL Series) Circular No. 05]
+November 27, 2009
+3.
+A.P. (DIR Series) Circular No. 19 [ A.P.(FL Series) Circular No. 02]
+November 25, 2010
+4.
+A.P. (DIR Series) Circular No. 21 [ A.P.(FL Series) Circular No. 04]
+November 30, 2010
+5.
+A.P. (DIR Series) Circular No. 24 [ A.P.(FL Series) Circular No. 05]
+December 13, 2010
+6.
+A.P.(DIR Series) Circular No.26 [A.P.(FL Series) Circular No. 07]
+December 22, 2010
+7.
+A.P.(DIR Series) Circular No.28 [A.P.(FL Series) Circular No. 09]
+December 22, 2010
+8.
+A.P.(DIR Series) Circular No.50 [A.P.(FL Series) Circular No. 12]
+April 6, 2011
+9.
+A.P.(DIR Series) Circular No. 52[A.P.(FL Series) Circular No. 14]
+April 6, 2011
+10.
+A.P. (DIR Series) Circular No. 62
+May 16, 2011
+11.
+A.P. (DIR Series) Circular No. 64
+May 20, 2011
+12.
+A.P.(DIR Series) Circular No. 66
+May 20, 2011
+13.
+A.P.(DIR Series) Circular No. 22
+September 19, 2011
+14.
+A.P.(DIR Series) Circular No. 24
+September 19, 2011
+15.
+A.P.(DIR Series) Circular No. 78
+February 15, 2012
+16.
+A.P.(DIR Series) Circular No. 87
+February 29, 2012
+17.
+A.P.(DIR Series) Circular No. 108
+April 17, 2012
+18.
+A.P.(DIR Series) Circular No. 132
+June 8, 2012
+19.
+A.P.(DIR Series) Circular No. 49
+November 7, 2012
+20.
+A.P.(DIR Series) Circular No. 67
+January 2, 2013
+21.
+A.P.(DIR Series) Circular No. 71
+January 10, 2013
+22.
+A.P.(DIR Series) Circular No. 73
+January 10, 2013
+23.
+A.P.(DIR Series) Circular No. 89
+March 12, 2013
+24
+A.P.(DIR Series) Circular No.102
+May 3, 2013
+25
+A.P.(DIR Series) Circular No.35
+September 4, 2013
+26
+A.P.(DIR Series) Circular No.110
+March 4, 2014
+27
+A.P. (DIR Series) Circular No.125
+April 25, 2014
+28
+A. P. (DIR Series) Circular No. 144
+June 16, 2014
+29
+A. P. (DIR Series) Circular No. 150
+June 25, 2014
+30.
+A. P. (DIR Series) Circular No. 8
+July 18, 2014
+31.
+A. P. (DIR Series) Circular No. 10
+July 21, 2014
+32.
+A. P. (DIR Series) Circular No. 49
+December 16, 2014
+33.
+A. P. (DIR Series) Circular No. 67
+January 28, 2015
+34.
+A. P. (DIR Series) Circular No. 88
+March 25, 2015
+1
+A. P. (DIR Series) Circular No. 8 dated July 18, 2014

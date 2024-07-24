@@ -1,0 +1,18 @@
+(327 kb)
+Application for Aadhaar e-KYC Authentication Licence
+RBI/2021-22/98
+DOR.AML.REC 48/14.01.001/2021-22
+September 13, 2021
+The Chairpersons / CEOs of all Non-Banking Finance Companies (NBFCs), Payment System Providers and Payment System Participants
+Madam / Dear Sir,
+Application for Aadhaar e-KYC Authentication Licence
+In terms of Section 11A of the PML Act, 2002, entities other than banking companies may, by notification of the Central Government, be permitted to carry out authentication of client’s Aadhaar number using e-KYC facility provided by the Unique Identification Authority of India (UIDAI). Such notification shall be issued only after consultation with UIDAI and the appropriate regulator.
+A detailed procedure for processing of applications under the aforementioned Section for use of Aadhar authentication services by entities other than banking companies has been provided by the Department of Revenue, Ministry of Finance vide their circular dated May 9, 2019.
+2. Accordingly, Non-Banking Finance Companies (NBFCs), Payment System Providers and Payment System Participants desirous of obtaining Aadhaar Authentication License - KYC User Agency (KUA) License or sub-KUA License (to perform authentication through a KUA), issued by the UIDAI, may submit their application to this Department for onward submission to UIDAI. The applications can also be forwarded over
+email
+. The format of the application is provided in the
+Annex
+to this circular.
+Yours faithfully,
+(Prakash Baliarsingh)
+Chief General Manager

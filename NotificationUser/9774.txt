@@ -1,0 +1,754 @@
+(908 kb)
+Master Circular – “Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015”
+RBI/2014-15/629
+DNBR (PD) CC No. 037/03.01.001/2014-15
+June 03, 2015
+To
+All Systemically Important Non-Deposit taking NBFCs,
+Dear Sirs,
+Master Circular – “Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015”
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India issues updated circulars / notifications. The instructions contained in the
+Notification No. DNBR.009/CGM (CDS)-2015 dated March 27, 2015
+updated till the date as indicated above are reproduced below. The updated notification has also been placed on the RBI web-site (
+http://rbi.org.in
+/).
+Yours faithfully,
+(C.D.Srinivasan)
+Chief General Manager
+Table of Contents
+Para No
+Particulars
+1
+Short title, commencement and applicability of the Directions
+2
+Definitions
+3
+Income recognition
+4
+Income from investments
+5
+Accounting standards
+6
+Accounting of investments
+7
+Need for policy on demand/call loans
+8
+Asset classification
+9
+Provisioning requirements
+10
+Standard asset provisioning
+11
+Disclosure in the balance sheet
+12
+Accounting year
+13
+Schedule to the balance sheet
+14
+Transactions in government securities
+15
+Submission of a certificate from Statutory Auditor to the Bank
+16
+Requirement as to capital adequacy
+17
+Loans against non-banking financial company’s own shares prohibited
+18
+Loans against security of single product - gold jewellery
+19
+Verification of the ownership of gold
+20
+Standardization of Value of Gold accepted as collateral in arriving at LTV Ratio
+21
+Safety and security measures to be followed by Non-Banking Financial Companies lending against collateral of gold jewellery
+22
+Opening Branches exceeding one thousand in number
+23
+Loans against security of shares
+24
+Concentration of credit/investment
+25
+Information with respect to change of address, directors, auditors, etc. to be submitted
+26
+NBFCs not to be partners in partnership firms
+27
+Norms for restructuring of advances
+28
+Flexible Structuring of Long Term Project Loans to Infrastructure and Core Industries
+29
+Submission of ‘Branch Info’ Return
+30
+Exemptions
+31
+Interpretations
+32
+Repeal and Saving
+Appendix
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING REGULATION
+CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+CUFFE PARADE, COLABA, MUMBAI 400 005
+NOTIFICATION No.DNBR.009/CGM (CDS)-2015 dated March 27, 2015
+The Reserve Bank of India, having considered it necessary in the public interest, and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to issue the Directions relating to the prudential norms as set out below, in exercise of the powers conferred by Section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, and in supersession of the Notification No. DNBS. 193/ DG (VL)-2007 dated February 22, 2007, gives the Directions hereinafter specified.
+Short title, commencement and applicability of the Directions:
+1. (1) These Directions shall be known as the
+"Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015"
+.
+(2) These Directions shall come into force with immediate effect.
+(3) (i) The provisions of these Directions, save as provided for in clauses (ii), (iii) and (iv) hereinafter, shall apply to every non-banking financial company not accepting / holding public deposits and having an asset size of Rs. 500 crore and above as per the last audited balance sheet,.
+(ii) These Directions, except the provisions of paragraph 25 shall not apply to a non-banking financial company being a Government company as defined under clause (45) of Section 2 of the Companies Act, 2013 (18 of 2013) and not accepting / holding public deposit.
+*
+(iii) The provisions of paragraphs 15, 16 and 24 of these Directions shall not apply to a Systemically Important Core Investment Company as defined in the CIC Directions.
+(iv) The provisions of paragraphs 8, 9 and 24 of these Directions shall not apply to an NBFC-MFI as defined in the Non-Banking Financial Company- Micro Finance Institutions (Reserve Bank) Directions, 2011.
+Definitions
+2. (1) For the purpose of these Directions, unless the context otherwise requires:
+(i) “break up value” means the equity capital and reserves as reduced by intangible assets and revaluation reserves, divided by the number of equity shares of the investee company;
+(ii) “carrying cost” means book value of the assets and interest accrued thereon but not received;
+(iii) 'companies in the group’, shall mean an arrangement involving two or more entities related to each other through any of the following relationships: Subsidiary – parent (defined in terms of AS 21), Joint venture (defined in terms of AS 27), Associate (defined in terms of AS 23), Promoter-promotee (as provided in the SEBI (Acquisition of Shares and Takeover) Regulations, 1997) for listed companies, a related party (defined in terms of AS 18), Common brand name, and investment in equity shares of 20% and above.”
+(iv) “Conduct of business regulations” means the directions issued by the Bank from time to time on Fair Practices Code and Know Your Customer guidelines.
+(v) “current investment” means an investment which is by its nature readily realisable and is intended to be held for not more than one year from the date on which such investment is made;
+(vi) “customer interface” means interaction between the NBFC and its customers while customers while carrying on its NBFI business.
+(vii) “doubtful asset” means:
+a term loan, or
+a lease asset, or
+a hire purchase asset, or
+any other asset,
+which remains a sub-standard asset for a period ‘exceeding 18 months’ for the financial year ended March 31, 2015; ‘exceeding 16 months’ for the financial year ended March 31, 2016; ‘exceeding 14 months’ for the financial year ending March 31, 2017 and ‘exceeding 12 months’ for the financial year ending March 31, 2018 and thereafter.
+(viii) “earning value” means the value of an equity share computed by taking the average of profits after tax as reduced by the preference dividend and adjusted for extra-ordinary and non-recurring items, for the immediately preceding three years and further divided by the number of equity shares of the investee company and capitalised at the following rate:
+in case of predominantly manufacturing company, eight per cent;
+in case of predominantly trading company, ten per cent; and
+in case of any other company, including non-banking financial company, twelve per cent;
+Note: If, an investee company is a loss making company, the earning value will be taken at zero;
+(ix) “fair value” means the mean of the earning value and the break up value;
+(x) “hybrid debt” means capital instrument which possesses certain characteristics of equity as well as of debt;
+(xi) “Infrastructure Finance Company” means a non-deposit taking NBFC that fulfills the following criteria :
+a minimum of 75 per cent of its total assets deployed in “infrastructure loans”;
+Net owned funds of Rs. 300 crore or above;
+minimum credit rating 'A' or equivalent of CRISIL, FITCH, CARE, ICRA, Brickwork Rating India Pvt. Ltd. (Brickwork) or equivalent rating by any other credit rating agency accredited by RBI;
+CRAR of 15 percent (with a minimum Tier I capital of 10 percent).
+Explanation: A Credit facility extended by lenders (i.e. NBFCs) to borrower for exposure in the following infrastructure sub-sectors will qualify as "Infrastructure loans” –
+Sr. No.
+Category
+Infrastructure sub-sectors
+1.
+Transport
+i
+Roads and bridges
+ii
+Ports
+1
+iii
+Inland Waterways
+iv
+Airport
+v
+Railway Track, tunnels, viaducts, bridges
+2
+vi
+Urban Public Transport (except rolling stock in case of urban road transport)
+2.
+Energy
+i
+Electricity Generation
+ii
+Electricity Transmission
+iii
+Electricity Distribution
+iv
+Oil pipelines
+v
+Oil / Gas / Liquefied Natural Gas (LNG) storage facility
+3
+vi
+Gas pipelines
+4
+3.
+Water & Sanitation
+i
+Solid Waste Management
+ii
+Water supply pipelines
+iii
+Water treatment plants
+iv
+Sewage collection, treatment and disposal system
+v
+Irrigation (dams, channels, embankments etc)
+vi
+Storm Water Drainage System
+vii
+Slurry Pipelines
+4.
+Communication
+i
+Telecommunication (Fixed network)
+5
+ii
+Telecommunication towers
+iii
+Telecommunication & Telecom Services
+5.
+Social and Commercial Infrastructure
+i
+Education Institutions (capital stock)
+ii
+Hospitals (capital stock)
+6
+iii
+Three-star or higher category classified hotels located outside cities with population of more than 1 million
+iv
+Common infrastructure for industrial parks, SEZ, tourism facilities and agriculture markets
+v
+Fertilizer (Capital investment)
+vi
+Post harvest storage infrastructure for agriculture and horticultural produce including cold storage
+vii
+Terminal markets
+viii
+Soil-testing laboratories
+ix
+Cold Chain
+7
+x.
+Hotels with project cost
+8
+of more than Rs.200 crores each in any place in India and of any star rating.
+xi.
+Convention Centres with project cost
+8
+of more than Rs.300 crores each
+Notes
+1
+Includes Capital Dredging
+2
+Includes supporting terminal infrastructure such as loading / unloading terminals, stations and buildings
+3
+Includes strategic storage of crude oil
+4
+Includes city gas distribution network
+5
+Includes optic fibre / cable networks which provide broadband / internet
+6
+Includes Medical Colleges, Para Medical Training Institutes and Diagnostics Centres
+7
+Includes cold room facility for farm level pre-cooling, for preservation or storage of agriculture and allied produce, marine products and meat.
+8.
+Applicable with prospective effect from the date of this circular and available for eligible projects for a period of three years; Eligible costs exclude cost of land and lease charges but include interest during construction.
+(xii) “NBFC-MFI” means a non-deposit taking NBFC (other than a company licensed under Section 25 of the Indian Companies Act, 1956) that fulfils the following conditions:
+Minimum Net Owned Funds of Rs.5 crore. (For NBFC-MFIs registered in the North Eastern Region of the country, the minimum NOF requirement shall stand at Rs. 2 crore).
+Not less than 85% of its net assets are in the nature of “qualifying assets.”
+For the purpose of (b) above,
+“net assets” are defined as total assets other than cash and bank balances and money market instruments; and
+1
+“Qualifying assets” shall mean a loan which satisfies the following criteria:-
+loan disbursed by an NBFC-MFI to a borrower with a rural household annual income not exceeding Rs. 1,00,000 or urban and semi-urban household income not exceeding Rs. 1,60,000;
+loan amount does not exceed Rs. 60,000 in the first cycle and Rs. 1,00,000 in subsequent cycles;
+total indebtedness of the borrower does not exceed Rs.1,00,000;
+Provided that loan, if any availed towards meeting education and medical expenses shall be excluded while arriving at the total indebtedness of a borrower.
+tenure of the loan not to be less than 24 months for loan amount in excess of Rs.15,000 with prepayment without penalty;
+loan to be extended without collateral;
+aggregate amount of loans, given for income generation, is not less than 50 per cent of the total loans given by the MFIs;
+loan is repayable on weekly, fortnightly or monthly instalments at the choice of the borrower.
+(xiii) “Non-Banking Financial Company – Factor” means a non-banking financial company as defined in clause (
+f
+) of section 45-I of the RBI Act, 1934 having financial assets in the factoring business at least to the extent of 50 percent of its total assets and its income derived from factoring business is not less than 50 percent of its gross income and has been granted a certificate of registration under sub-section (1) of section 3 of the Factoring Regulation Act, 2011.
+(xix) “Non-Operative Financial Holding Company (NOFHC)” means a non-deposit taking NBFC referred to in the
+"Guidelines for Licensing of New Banks in the Private Sector",
+issued by the Reserve Bank, which holds the shares of a banking company and the shares of all other financial services companies in its group, whether regulated by Reserve Bank or by any other financial regulator, to the extent permissible under the applicable regulatory prescriptions.
+(xv) “loss asset” means:
+an asset which has been identified as loss asset by the non-banking financial company or its internal or external auditor or by the Reserve Bank of India during the inspection of the non-banking financial company, to the extent it is not written off by the non-banking financial company; and
+an asset which is adversely affected by a potential threat of non-recoverability due to either erosion in the value of security or non availability of security or due to any fraudulent act or omission on the part of the borrower.
+(xvi) “long term investment” means an investment other than a current investment;
+(xvii) “net asset value” means the latest declared net asset value by the mutual fund concerned in respect of that particular scheme;
+(xviii) “net book value” means:
+in the case of hire purchase asset, the aggregate of overdue and future instalments receivable as reduced by the balance of unmatured finance charges and further reduced by the provisions made as per paragraph 9(2)(i) of these Directions;
+in the case of leased asset, aggregate of capital portion of overdue lease rentals accounted as receivable and depreciated book value of the lease asset as adjusted by the balance of lease adjustment account.
+(xix) “non-performing asset” (referred to in these Directions as “NPA”) means:
+an asset, in respect of which, interest has remained overdue for a period of six months or more;
+a term loan inclusive of unpaid interest, when the instalment is overdue for a period of six months or more or on which interest amount remained overdue for a period of six months or more;
+a demand or call loan, which remained overdue for a period of six months or more from the date of demand or call or on which interest amount remained overdue for a period of six months or more;
+a bill which remains overdue for a period of six months or more;
+the interest in respect of a debt or the income on receivables under the head ‘other current assets’ in the nature of short term loans/advances, which facility remained overdue for a period of six months or more;
+any dues on account of sale of assets or services rendered or reimbursement of expenses incurred, which remained overdue for a period of six months or more;
+Provided
+that the period of ‘six months or more’ stipulated in sub-clauses (a) to (f) shall be ‘five months or more’ for the financial year ending March 31, 2016; ‘four months or more’ for the financial year ending March 31, 2017 and ‘three months or more’, for the financial year ending March 31, 2018 and thereafter.
+the lease rental and hire purchase instalment, which has become overdue for a period of twelve months or more;
+Provided
+that the period of ‘twelve months or more’ stipulated in this sub-clause shall be ‘nine months or more’ for the financial year ending March 31, 2016; ‘six months or more’ for the financial year ending March 31, 2017; and ‘three months or more’ for the financial year ending March 31, 2018 and thereafter.
+in respect of loans, advances and other credit facilities (including bills purchased and discounted), the balance outstanding under the credit facilities (including accrued interest) made available to the same borrower/beneficiary when any of the above credit facilities becomes non-performing asset:
+Provided
+that in the case of lease and hire purchase transactions, a non-banking financial company may classify each such account on the basis of its record of recovery.
+(xx) “owned fund” means paid up equity capital, preference shares which are compulsorily convertible into equity, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any;
+(xxi) “public funds” includes funds raised directly or indirectly through public deposits, commercial papers, debentures, inter-corporate deposits and bank finance but excludes funds raised by issue of instruments compulsorily convertible into equity shares within a period not exceeding 5 years from the date of issue;
+(xxii) “standard asset” means the assets in respect of which, no default in repayment of principal or payment of interest is perceived and which does not disclose any problem or carry more than normal risk attached to the business;
+(xxiii) “sub-standard asset” means:
+an asset which has been classified as non-performing asset for a period not exceeding 18 months;
+Provided
+that the period ‘not exceeding 18 months’ stipulated in this sub-clause shall be ‘not exceeding 16 months’ for the financial year ending March 31, 2016; ‘not exceeding 14 months’ for the financial year ending March 31, 2017; and ‘not exceeding 12 months’ for the financial year ending March 31, 2018 and thereafter.
+an asset where the terms of the agreement regarding interest and / or principal have been renegotiated or rescheduled or restructured after commencement of operations, until the expiry of one year of satisfactory performance under the renegotiated or rescheduled or restructured terms:
+Provided
+that the classification of infrastructure loan as a sub-standard asset shall be in accordance with the provisions of paragraph 27 of these Directions;
+(xxiv) "subordinated debt" means an instrument, which is fully paid up, is unsecured and is subordinated to the claims of other creditors and is free from restrictive clauses and is not redeemable at the instance of the holder or without the consent of the supervisory authority of the non-banking financial company. The book value of such instrument shall be subjected to discounting as provided hereunder:
+Remaining Maturity of the instruments
+Rate of discount
+(a) Upto one year
+100 per cent
+(b) More than one year but upto two years
+80 per cent
+(c) More than two years but upto three years
+60 per cent
+(d) More than three years but upto four years
+40 per cent
+(e) More than four years but upto five years
+20 per cent
+to the extent such discounted value does not exceed fifty per cent of Tier I capital;
+(xxv) “substantial interest” means holding of a beneficial interest by an individual or his spouse or minor child, whether singly or taken together in the shares of a company, the amount paid up on which exceeds ten per cent of the paid up capital of the company; or the capital subscribed by all the partners of a partnership firm;
+(xxvi) ‘Systemically important non-deposit taking non-banking financial company', means a non-banking financial company not accepting / holding public deposits and having total assets of Rs. 500 crore and above as shown in the last audited balance sheet;
+(xxvii) “Tier I Capital” means owned fund as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund; and perpetual debt instruments issued by a non-deposit taking non-banking financial company in each year to the extent it does not exceed 15% of the aggregate Tier I Capital of such company as on March 31 of the previous accounting year;
+(xxviii) “Tier II capital” includes the following:
+preference shares other than those which are compulsorily convertible into equity;
+revaluation reserves at discounted rate of fifty five percent;
+General Provisions (including that for Standard Assets) and loss reserves to the extent these are not attributable to actual diminution in value or identifiable potential loss in any specific asset and are available to meet unexpected losses, to the extent of one and one fourth percent of risk weighted assets;
+hybrid debt capital instruments;
+subordinated debt; and
+perpetual debt instruments issued by a non-deposit taking non-banking financial company which is in excess of what qualifies for Tier I Capital,
+to the extent the aggregate does not exceed Tier I capital.
+(2) Words or expressions used and not defined in these directions but defined in the Reserve Bank of India Act, 1934 (2 of 1934) or the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998 shall have the meanings respectively assigned to them under that Act or Directions. Any words or expressions used and not defined in these directions or in the RBI Act or any of the Directions issued by the RBI, shall have the meanings respectively assigned to them under the Companies Act, 2013 (18 of 2013).
+Income recognition
+3. (1) The income recognition shall be based on recognised accounting principles.
+(2) Income including interest/ discount/ hire charges/ lease rentals or any other charges on NPA shall be recognised only when it is actually realised. Any such income recognised before the asset became non-performing and remaining unrealised shall be reversed.
+Income from investments
+4. (1) Income from dividend on shares of corporate bodies and units of mutual funds shall be taken into account on cash basis:
+Provided
+that the income from dividend on shares of corporate bodies may be taken into account on accrual basis when such dividend has been declared by the corporate body in its annual general meeting and the non-banking financial company’s right to receive payment is established.
+(2) Income from bonds and debentures of corporate bodies and from Government securities/bonds may be taken into account on accrual basis:
+Provided
+that the interest rate on these instruments is pre-determined and interest is serviced regularly and is not in arrears.
+(3) Income on securities of corporate bodies or public sector undertakings, the payment of interest and repayment of principal of which have been guaranteed by Central Government or a State Government may be taken into account on accrual basis.
+Accounting standards
+5. Accounting Standards and Guidance Notes issued by the Institute of Chartered Accountants of India (referred to in these Directions as “ICAI”) shall be followed insofar as they are not inconsistent with any of these Directions.
+Accounting of investments
+6. (1) (a) The Board of Directors of every non-banking financial company shall frame investment policy for the company and shall implement the same;
+(b) The criteria to classify the investments into current and long term investments shall be spelt out by the Board of the company in the investment policy;
+(c) Investments in securities shall be classified into current and long term, at the time of making each investment;
+(d) In case of inter-class transfer –
+(i) There shall be no such transfer on ad-hoc basis;
+(ii) such transfer, if warranted, shall be effected only at the beginning of each half year, on April 1 or October 1, with the approval of the Board;
+(iii) the investments shall be transferred scrip-wise, from current to long-term or vice-versa, at book value or market value, whichever is lower;
+(iv) the depreciation, if any, in each scrip shall be fully provided for and appreciation, if any, shall be ignored;
+(v) the depreciation in one scrip shall not be set off against appreciation in another scrip, at the time of such inter-class transfer, even in respect of the scrips of the same category.
+(2) (a) Quoted current investments shall, for the purposes of valuation, be grouped into the following categories, viz.
+(a) equity shares,
+(b) preference shares,
+(c) debentures and bonds,
+(d) Government securities including treasury bills,
+(e) units of mutual fund, and
+(f) others.
+(b) Quoted current investments for each category shall be valued at cost or market value whichever is lower. For this purpose, the investments in each category shall be considered scrip-wise and the cost and market value aggregated for all investments in each category. If the aggregate market value for the category is less than the aggregate cost for that category, the net depreciation shall be provided for or charged to the profit and loss account. If the ag­gregate market value for the category exceeds the aggregate cost for the category, the net appreciation shall be ignored. Depreciation in one category of investments shall not be set off against appreciation in another category.
+(3) Unquoted equity shares in the nature of current investments shall be valued at cost or breakup value, whichever is lower. However, non-banking financial companies may substitute fair value for the breakup value of the shares, if considered necessary. Where the balance sheet of the investee company is not available for two years, such shares shall be valued at one Rupee only.
+(4) Unquoted preference shares in the nature of current investments shall be valued at cost or face value, whichever is lower.
+(5) Investments in unquoted Government securities or Government guaranteed bonds shall be valued at carrying cost.
+(6) Unquoted investments in the units of mutual funds in the nature of current investments shall be valued at the net asset value declared by the mutual fund in respect of each particular scheme.
+(7) Commercial papers shall be valued at carrying cost.
+(8) A long term investments shall be valued in accordance with the Accounting Standard issued by ICAI.
+Note: Unquoted debentures shall be treated as term loans or other type of credit facilities depending upon the tenure of such debentures for the purpose of income recognition and asset classification.
+Need for policy on demand/ call loans
+7. (1) The Board of Directors of every non-banking financial company granting/intending to grant demand/call loans shall frame a policy for the company and implement the same.
+(2) Such policy shall, inter alia, stipulate the following,-
+A cut-off date within which the repayment of demand or call loan shall be demanded or called up;
+The sanctioning authority shall, record specific reasons in writing at the time of sanctioning demand or call loan, if the cut-off date for demanding or calling up such loan is stipulated beyond a period of one year from the date of sanction;
+The rate of interest which shall be payable on such loans;
+Interest on such loans, as stipulated shall be payable either at monthly or quarterly rests;
+The sanctioning authority shall, record specific reasons in writing at the time of sanctioning demand or call loan, if no interest is stipulated or a moratorium is granted for any period;
+A cut-off date, for review of performance of the loan, not exceeding six months commencing from the date of sanction;
+Such demand or call loans shall not be renewed unless the periodical review has shown satisfactory compliance with the terms of sanction.
+Asset classification
+8. (1) Every non-banking financial company shall, after taking into account the degree of well-defined credit weaknesses and extent of dependence on collateral security for realisation, classify its lease/hire purchase assets, loans and advances and any other forms of credit into the following classes, namely:
+(i) Standard assets;
+(ii) Sub-standard assets;
+(iii) Doubtful assets; and
+(iv) Loss assets.
+(2) The class of assets referred to above shall not be upgraded merely as a result of rescheduling, unless it satisfies the conditions required for the upgradation.
+Provisioning requirements
+9. Every non-banking financial company shall, after taking into account the time lag between an account becoming non-performing, its recognition as such, the realisation of the security and the erosion over time in the value of security charged, make provision against sub-standard assets, doubtful assets and loss assets as provided hereunder:-
+Loans, advances and other credit facilities including bills purchased and discounted-
+(1) The provisioning requirement in respect of loans, advances and other credit facilities including bills purchased and discounted shall be as under:
+(i) Loss Assets
+The entire asset shall be written off. If the assets are permitted to remain in the books for any reason, 100% of the outstanding should be provided for;
+(ii) Doubtful Assets
+(a) 100% provision to the extent to which the advance is not covered by the realisable value of the security to which the non-banking financial company has a valid recourse shall be made. The realisable value is to be estimated on a realistic basis;
+(b) In addition to item (a) above, depending upon the period for which the asset has remained doubtful, provision to the extent of 20% to 50% of the secured portion (i.e. Estimated realisable value of the outstanding) shall be made on the following basis:-
+Period for which the asset has been considered as doubtful
+Per cent of provision
+Up to one year
+20
+One to three years
+30
+More than three years
+50
+(iii) Sub-standard assets
+A general provision of 10 percent of total outstanding shall be made.
+(2) Lease and hire purchase assets -The provisioning requirements in respect of hire purchase and leased assets shall be as under:
+(i) Hire purchase assets - In respect of hire purchase assets, the total dues (overdue and future instalments taken together) as reduced by
+(a) the finance charges not credited to the profit and loss account and carried forward as unma­tured finance charges; and
+(b) the depreciated value of the underlying asset, shall be provided for.
+Explanation: For the purpose of this paragraph,
+the depreciat­ed value of the asset shall be notionally computed as the original cost of the asset to be reduced by deprecia­tion at the rate of twenty per cent per annum on a straight line method; and
+in the case of second hand asset, the original cost shall be the actual cost incurred for acquisition of such second hand asset.
+Additional provision for hire purchase and leased assets
+(ii) In respect of hire purchase and leased assets, additional provision shall be made as under:
+(a) Where hire charges or leaserentals are overdue upto 12 months
+Nil
+(b) Where hire charges or lease rentals are overdue for more than 12 months but upto 24 months
+10 percent of the net book value
+(c) Where hire charges or lease rentals are overdue for more than 24 months but upto 36 months
+40 percent of the net book value
+(d) where hire charges or lease rentals are overdue for more than 36 months but upto 48 months
+70 percent of the net book value
+(e) where hire charges or lease rentals are overdue for more than 48 months
+100 percent of the net book value
+(iii) On expiry of a period of 12 months after the due date of the last instalment of hire purchase/leased asset, the entire net book value shall be fully provided for.
+Notes: (1) The amount of caution money/margin money or security deposits kept by the borrower with the non-banking financial company in pursuance of the hire purchase agreement may be deducted against the provisions stipulated under clause (i) above, if not already taken into account while arriving at the equated monthly instalments under the agreement. The value of any other security available in pursuance to the hire purchase agreement may be deducted only against the provisions stipulated under clause (ii) above.
+(2) The amount of security deposits kept by the borrower with the non-banking financial company in pursuance to the lease agreement together with the value of any other security available in pursuance to the lease agreement may be deducted only against the provisions stipulated under clause (ii) above.
+(3) It is clarified that income recognition on and provisioning against NPAs are two different aspects of prudential norms and provisions as per the norms are required to be made on NPAs on total outstanding balances including the depreciated book value of the leased asset under reference after adjusting the balance, if any, in the lease adjustment account. The fact that income on an NPA has not been recognised cannot be taken as reason for not making provision.
+(4) An asset which has been renegotiated or rescheduled as referred to in paragraph (2) (1) (xxiii) (b) of these Directions shall be a sub-standard asset or continue to remain in the same category in which it was prior to its renegotiation or reschedulement as a doubtful asset or a loss asset as the case may be. Necessary provision is required to be made as applicable to such asset till it is upgraded.
+(5) The balance sheet to be prepared by the NBFC may be in accordance with the provisions contained in sub-paragraph (2) of paragraph 11.
+(6) All financial leases written on or after April 1, 2001 attract the provisioning requirements as applicable to hire purchase assets.
+(7) In case of NBFC-MFIs, if the advance covered by Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) guarantee becomes non-performing, no provision need be made towards the guaranteed portion. The amount outstanding in excess of the guaranteed portion should be provided for as per the extant guidelines on provisioning for non-performing advances.
+Standard asset provisioning
+10. Every Non-Banking Financial Company shall make provisions for standard assets at 0.25 per cent by the end of March 2015; 0.30 per cent by the end of March 2016; 0.35 per cent by the end of March 2017 and 0.40 per cent by the end of March 2018 and thereafter, of the outstanding, which shall not be reckoned for arriving at net NPAs. The provision towards standard assets need not be netted from gross advances but shall be shown separately as ‘Contingent Provisions against Standard Assets’ in the balance sheet.
+Disclosure in the balance sheet
+11. (1) Every non-banking financial company shall separately disclose in its balance sheet the provisions made as per paragraph 9 above without netting them from the income or against the value of assets.
+(2) The provisions shall be distinctly indicated under separate heads of account as under:-
+(i) provisions for bad and doubtful debts; and
+(ii) provisions for depreciation in investments.
+(3) Such provisions shall not be appropriated from the general provisions and loss reserves held, if any, by the non-banking financial company.
+(4) Such provisions for each year shall be debited to the profit and loss account. The excess of provisions, if any, held under the heads general provisions and loss reserves may be written back without making adjustment against them.
+(5) Every non-banking financial company shall disclose the following particulars in its Balance Sheet:
+Capital to Risk Assets Ratio (CRAR);
+Exposure to real estate sector, both direct and indirect; and
+Maturity pattern of assets and liabilities.
+Accounting year
+12. Every non-banking financial company shall prepare its balance sheet and profit and loss account as on March 31 every year. Whenever a non-banking financial company intends to extend the date of its balance sheet as per provisions of the Companies Act, it should take prior approval of the Reserve Bank of India before approaching the Registrar of Companies for this purpose.
+Further, even in cases where the Bank and the Registrar of Companies grant extension of time, the non-banking financial company shall furnish to the Bank a proforma balance sheet (unaudited) as on March 31 of the year and the statutory returns due on the said date. Every non-banking financial company shall finalise its balance sheet within a period of 3 months from the date to which it pertains.
+Schedule to the balance sheet
+13. Every non-banking financial company shall append to its balance sheet prescribed under the Companies Act, 2013, the particulars in the schedule as set out in Annex I.
+Transactions in Government securities
+14. Every non-banking financial company shall undertake transactions in Government securities through its CSGL account or its demat account:
+Provided
+that no non-banking financial company shall undertake any transaction in government security in physical form through any broker.
+Submission of a certificate from Statutory Auditor to the Bank
+15. (1) Every non-banking financial company shall submit a Certificate from its Statutory Auditor that it is engaged in the
+2
+[business] of non-banking financial institution requiring it to hold a Certificate of Registration under Section 45-IA of the RBI Act and is eligible to hold it. A certificate from the Statutory Auditor in this regard with reference to the position of the company as at end of the financial year ended March 31 may be submitted to the Regional Office of the Department of Non-Banking Supervision under whose jurisdiction the non-banking financial company is registered, within one month from the date of finalization of the balance sheet and in any case not later than December 30th of that year. Such certificate shall also indicate the asset / income pattern of the non-banking financial company for making it eligible for classification as Asset Finance Company, Investment Company or Loan Company.
+(2) For an NBFC-MFI, such Certificate should also indicate that the company fulfills all conditions stipulated to be classified as an NBFC-MFI in the
+notification DNBS.PD.No.234/CGM(US)-2011 dated December 02, 2011
+.
+(3) For an NBFC-Factor, such Certificate should indicate the requirement of holding the certificate under Section 3 of the Factoring Act. The certificate should also indicate the percentage of factoring assets and income, the compliance that it fulfills all conditions stipulated under the Act to be classified as an NBFC-Factor and compliance to minimum capitalization norms, if FDI has been received.
+Requirement as to capital adequacy
+16. (1) Every non-banking financial company shall maintain a minimum capital ratio consisting of Tier I and Tier II capital which shall not be less than 15 percent of its aggregate risk weighted assets on-balance sheet and of risk adjusted value of off-balance sheet items.
+(2) The total of Tier I capital, at any point of time, shall not be less than 8.5% by March 31, 2016 and 10% by March 31, 2017
+(3) NBFCs primarily engaged in lending against gold jewellery (such loans comprising 50 percent or more of their financial assets) shall maintain a minimum Tier l capital of 12 percent
+(4) The total Tier II Capital for NBFC-MFIs, at any point of time, shall not exceed one hundred percent of Tier I Capital.
+Explanations:
+I. On balance sheet assets–
+(1) In these Directions, degrees of credit risk expressed as percentage weightages have been assigned to balance sheet assets. Hence, the value of each asset / item requires to be multiplied by the relevant risk weights to arrive at risk adjusted value of assets. The aggregate shall be taken into account for reckoning the minimum capital ratio. The risk weighted asset shall be calculated as the weighted aggregate of funded items as detailed hereunder:
+Weighted risk assets – weight On-Balance Sheet items
+Percentage
+(i) Cash and bank balances including fixed deposits and certificates of deposits with banks
+0
+(ii) Investments
+(a) Approved securities [Except at (c) below]
+0
+(b) Bonds of public sector banks
+20
+(c) Fixed deposits/certificates of deposits/bonds of public financial institutions
+100
+(d) Shares of all companies and debentures/bonds/commercial papers of all companies and units of all mutual funds
+100
+3
+(e) All assets covering PPP and post commercial operations date (COD) infrastructure projects in existence over a year of commercial operation.
+50
+(iii) Current assets
+(a) Stock on hire (net book value)
+100
+(b) Inter-corporate loans/deposits
+100
+(c) Loans and advances fully secured against deposits held by the company itself
+0
+(d) Loans to staff
+0
+(e) Other secured loans and advances considered good
+100
+(f) Bills purchased/discounted
+100
+(g) Others (To be specified)
+100
+(iv) Fixed Assets (net of depreciation)
+(a) Assets leased out (net book value)
+100
+(b) Premises
+100
+(c) Furniture & Fixtures
+100
+(v) Other assets
+(a) Income tax deducted at source (net of provision)
+0
+(b) Advance tax paid (net of provision)
+0
+(c) Interest due on Government securities
+0
+(d) Others (to be specified)
+100
+Notes:
+(1) Netting may be done only in respect of assets where provisions for depreciation or for bad and doubtful debts have been made.
+(2) Assets which have been deducted from owned fund to arrive at net owned fund shall have a weightage of 'zero’.
+(3) While calculating the aggregate of funded exposure of a borrower for the purpose of assignment of risk weight, such non-banking financial companies may net off the amount of cash margin/caution money/security deposits (against which right to set-off is available) held as collateral against the advances out of the total outstanding exposure of the borrower.
+(5) For loans guaranteed by Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) NBFC-MFIs may assign zero risk weight for the guaranteed portion. The balance outstanding in excess of the guaranteed portion would attract a risk-weight as per extant guidelines
+(6) Norms for Infrastructure loans
+(a) Risk weight for investment in AAA rated securitized paper
+The investment in “AAA” rated securitized paper pertaining to the infrastructure facility shall attract risk weight of 50 per cent for capital adequacy purposes subject to the fulfilment of the following conditions:
+(i) The infrastructure facility generates income / cash flows, which ensures servicing / repayment of the securitized paper.
+(ii) The rating by one of the approved credit rating agencies is current and valid.
+Explanation:
+The rating relied upon shall be deemed to be current and valid, if the rating is not more than one month old on the date of opening of the issue, and the rating rationale from the rating agency is not more than one year old on the date of opening of the issue, and the rating letter and the rating rationale form part of the offer document.
+(iii) In the case of secondary market acquisition, the ‘AAA’ rating of the issue is in force and confirmed from the monthly bulletin published by the respective rating agency.
+(iv) The securitized paper is a performing asset.
+(b) For Infrastructure Finance Companies, the risk weight for assets covering PPP and post commercial operations date (COD) projects which have completed at least one year of satisfactory commercial operations shall be at 50 percent.
+II. Off-balance sheet items
+A. General
+NBFCs will calculate the total risk weighted off-balance sheet credit exposure as the sum of the risk-weighted amount of the market related and non-market related off-balance sheet items. The risk-weighted amount of an off-balance sheet item that gives rise to credit exposure will be calculated by means of a two-step process:
+(a) the notional amount of the transaction is converted into a credit equivalent amount, by multiplying the amount by the specified credit conversion factor or by applying the current exposure method; and
+(b) the resulting credit equivalent amount is multiplied by the risk weight applicable viz. zero percent for exposure to Central Government/State Governments, 20 percent for exposure to banks and 100 percent for others.
+B. Non-market-related off- balance sheet items
+i. The credit equivalent amount in relation to a non-market related off-balance sheet item will be determined by multiplying the contracted amount of that particular transaction by the relevant credit conversion factor (CCF).
+Sr. No.
+Instruments
+Credit Conversion Factor
+i.
+Financial & other guarantees
+100
+ii.
+Share/debenture underwriting obligations
+50
+iii.
+Partly-paid shares/debentures
+100
+iv.
+Bills discounted/rediscounted
+100
+v.
+Lease contracts entered into but yet to be executed
+100
+vi.
+Sale and repurchase agreement and asset sales with recourse, where the credit risk remains with the NBFC.
+100
+vii.
+Forward asset purchases, forward deposits and partly paid shares and securities, which represent commitments with certain draw down.
+100
+viii.
+Lending of NBFC securities or posting of securities as collateral by NBFC, including instances where these arise out of repo style transactions
+100
+ix.
+Other commitments (e.g., formal standby facilities and credit lines) with an original maturity of
+up to one year
+over one year
+20
+50
+x.
+Similar commitments that are unconditionally cancellable at any time by the NBFC without prior notice or that effectively provide for automatic cancellation due to deterioration in a borrower’s credit worthiness
+0
+xi.
+Take-out Finance in the books of taking-over institution
+(i)
+Unconditional take-out finance
+100
+(ii)
+Conditional take-out finance
+50
+Note : As the counter-party exposure will determine the risk weight, it will be 100 percent in respect of all borrowers or zero percent if covered by Government guarantee.
+xii.
+Commitment to provide liquidity facility for securitization of standard asset transactions
+100
+xiii.
+Second loss credit enhancement for securitization of standard asset transactions provided by third party
+100
+xiv.
+Other contingent liabilities (To be specified)
+50
+Note:
+i. Cash margins/deposits shall be deducted before applying the conversion factor
+ii. Where the non-market related off-balance sheet item is an undrawn or partially undrawn fund-based facility, the amount of undrawn commitment to be included in calculating the off-balance sheet non-market related credit exposures is the maximum unused portion of the commitment that could be drawn during the remaining period to maturity. Any drawn portion of a commitment forms a part of NBFC’s on-balance sheet credit exposure.
+For example:
+A term loan of Rs. 700 cr is sanctioned for a large project which can be drawn down in stages over a three year period. The terms of sanction allow draw down in three stages – Rs. 150 cr in Stage I, Rs. 200 cr in Stage II and Rs. 350 cr in Stage III, where the borrower needs the NBFC’s explicit approval for draw downunderStages II and III after completion of certain formalities. If the borrower has drawn already Rs. 50 cr under Stage I, then the undrawn portion would be computed with reference to Stage I alone i.e., it will be Rs.100 cr. If Stage I is scheduled to be completed within one year, the CCF will be 20 percent and if it is more than one year then the applicable CCF will be 50 per cent.
+C. Market Related Off-Balance Sheet Items
+i. NBFCs should take into account all market related off-balance sheet items (OTC derivatives and Securities Financing Transactions such as repo / reverse repo/ CBLO etc.) while calculating the risk weighted off-balance sheet credit exposures.
+ii. The credit risk on market related off-balance sheet items is the cost to an NBFC of replacing the cash flow specified by the contract in the event of counterparty default. This would depend, among other things, upon the maturity of the contract and on the volatility of rates underlying the type of instrument.
+iii. Market related off-balance sheet items would include:
+(a) interest rate contracts - including single currency interest rate swaps, basis swaps, forward rate agreements, and interest rate futures;
+(b) foreign exchange contracts, including contracts involving gold, - includes cross currency swaps (including cross currency interest rate swaps), forward foreign exchange contracts, currency futures, currency options;
+(c) Credit Default Swaps; and
+(d) any other market related contracts specifically allowed by the Reserve Bank which give rise to credit risk.
+iv. Exemption from capital requirements is permitted for -
+(a) foreign exchange (except gold) contracts which have an original maturity of 14 calendar days or less; and
+(b) instruments traded on futures and options exchanges which are subject to daily mark-to-market and margin payments.
+v. The exposures to Central Counter Parties (CCPs), on account of derivatives trading and securities financing transactions (e.g. Collateralized Borrowing and Lending Obligations - CBLOs, Repos) outstanding against them will be assigned zero exposure value for counterparty credit risk, as it is presumed that the CCPs' exposures to their counterparties are fully collateralized on a daily basis, thereby providing protection for the CCP's credit risk exposures.
+vi. A CCF of 100 per cent will be applied to the corporate securities posted as collaterals with CCPs and the resultant off-balance sheet exposure will be assigned risk weights appropriate to the nature of the CCPs. In the case of Clearing Corporation of India Limited (CCIL), the risk weight will be 20 per cent and for other CCPs, risk weight will be 50 percent.
+vii. The total credit exposure to a counter party in respect of derivative transactions should be calculated according to the current exposure method as explained below:
+D. Current Exposure Method
+The credit equivalent amount of a market related off-balance sheet transaction calculated using the current exposure method is the sum of a) current credit exposure and b) potential future credit exposure of the contract.
+(a) Current credit exposure is defined as the sum of the gross positive mark-to-market value of all contracts with respect to a single counterparty (positive and negative marked-to-market values of various contracts with the same counterparty should not be netted). The Current Exposure Method requires periodical calculation of the current credit exposure by marking these contracts to market.
+(b) Potential future credit exposure is determined by multiplying the notional principal amount of each of these contracts, irrespective of whether the contract has a zero, positive or negative mark-to-market value by the relevant add-on factor indicated below according to the nature and residual maturity of the instrument.
+Credit Conversion Factors for interest rate related, exchange rate related and gold related derivatives
+Credit Conversion Factors (%)
+Interest Rate Contracts
+Exchange Rate Contracts & Gold
+One year or less
+0.50
+2.00
+Over one year to five years
+1.00
+10.00
+Over five years
+3.00
+15.00
+i. For contracts with multiple exchanges of principal, the add-on factors are to be multiplied by the number of remaining payments in the contract.
+ii. For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset such that the market value of the contract is zero on these specified dates, the residual maturity would be set equal to the time until the next reset date. However, in the case of interest rate contracts which have residual maturities of more than one year and meet the above criteria, the CCF or add-on factor is subject to a floor of 1.0 per cent.
+iii. No potential future credit exposure would be calculated for single currency floating / floating interest rate swaps; the credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+iv. Potential future exposures should be based on 'effective' rather than 'apparent notional amounts'. In the event that the 'stated notional amount' is leveraged or enhanced by the structure of the transaction, the 'effective notional amount' must be used for determining potential future exposure. For example, a stated notional amount of USD 1 million with payments based on an internal rate of two times the lending rate of the NBFC would have an effective notional amount of USD 2 million.
+“E. Credit conversion factors for Credit Default Swaps(CDS)]:
+NBFCs are only permitted to buy credit protection to hedge their credit risk on corporate bonds they hold. The bonds may be held in current category or permanent category. The capital charge for these exposures will be as under:
+(i) For corporate bonds held in current category and hedged by CDS where there is no mismatch between the CDS and the hedged bond, the credit protection will be permitted to be recognised to a maximum of 80% of the exposure hedged. Therefore, the NBFC will continue to maintain capital charge for the corporate bond to the extent of 20% of the applicable capital charge. This can be achieved by taking the exposure value at 20% of the market value of the bond and then multiplying that with the risk weight of the issuing entity. In addition to this, the bought CDS position will attract a capital charge for counterparty risk which will be calculated by applying a credit conversion factor of 100 percent and a risk weight as applicable to the protection seller i.e. 20 per cent for banks and 100 per cent for others.
+(ii) For corporate bonds held in permanent category and hedged by CDS where there is no mismatch between the CDS and the hedged bond, NBFCs can recognise full credit protection for the underlying asset and no capital will be required to be maintained thereon. The exposure will stand fully substituted by the exposure to the protection seller and attract risk weight as applicable to the protection seller i.e. 20 per cent for banks and 100 per cent for others.”
+Loans against non-banking financial company’s own shares prohibited
+17. No non-banking financial company shall lend against its own shares.
+Loans against security of single product - gold jewellery
+18. (a) All NBFCs shall
+(i) maintain a Loan-to-Value (LTV) Ratio not exceeding 75 per cent for loans granted against the collateral of gold jewellery;
+Provided
+that the value of gold jewellery for the purpose of determining the maximum permissible loan amount shall be the intrinsic value of the gold content therein and no other cost elements shall be added thereto. The intrinsic value of the gold jewellery shall be arrived at as detailed in paragraph 17C (1) of the Directions.
+(ii) disclose in their balance sheet the percentage of such loans to their total assets.
+(b) NBFCs should not grant any advance against bullion / primary gold and gold coins. NBFCs should not grant any advance for purchase of gold in any form including primary gold, gold bullion, gold jewellery, gold coins, units of Exchange Traded Funds (ETF) and units of gold mutual fund.
+Verification of the Ownership of Gold
+19. (1) Where the gold jewellery pledged by a borrower at any one time or cumulatively on loan outstanding is more than 20 grams, NBFCs shall keep a record of the verification of the ownership of the jewellery. The ownership verification need not necessarily be through original receipts for the jewellery pledged but a suitable document shall be prepared to explain how the ownership of the jewellery has been determined, particularly in each and every case where the gold jewellery pledged by a borrower at any one time or cumulatively on loan outstanding is more than 20 grams.
+(2) NBFCs shall have an explicit policy in this regard as approved by the Board in their overall loan policy.
+Standardization of Value of Gold accepted as collateral in arriving at LTV Ratio
+20. (1) The gold jewellery accepted as collateral by the Non-Banking Financial Company shall be valued by the following method:
+The gold jewellery accepted as collateral by the Non-Banking Financial Company shall be valued by taking into account the preceding 30 days’ average of the closing price of 22 carat gold as per the rate as quoted by the Bombay Bullion Association Ltd. (BBA) or
+4
+the historical spot gold price data publicly disseminated by a commodity exchange regulated by the Forward Markets Commission.
+If the purity of the gold is less than 22 carats, the NBFC shall translate the collateral into 22 carat and state the exact grams of the collateral. In other words, jewellery of lower purity of gold shall be valued proportionately.
+NBFC, while accepting gold as collateral, should give a certificate to the borrower on their letterhead, of having assayed the gold and state the purity (in terms of carats) and the weight of the gold pledged.
+NBFCs may have suitable caveats to protect themselves against disputes during redemption, but the certified purity shall be applied both for determining the maximum permissible loan and the reserve price for auction.
+(2) Auction
+a. The auction should be conducted in the same town or taluka in which the branch that has extended the loan is located.
+b.
+5
+While auctioning the gold the NBFC should declare a reserve price for the pledged ornaments. The reserve price for the pledged ornaments should not be less than 85 per cent of the previous 30 day average closing price of 22 carat gold as declared by the Bombay Bullion Association Ltd. (BBA) or the historical spot gold price data publicly disseminated by a commodity exchange regulated by the Forward Markets Commission and value of the jewellery of lower purity in terms of carats should be proportionately reduced.
+c. It shall be mandatory on the part of the NBFCs to provide full details of the value fetched in the auction and the outstanding dues adjusted and any amount over and above the loan outstanding should be payable to the borrower.
+d. NBFCs shall disclose in their annual reports the details of the auctions conducted during the financial year including the number of loan accounts, outstanding amounts, value fetched and whether any of its sister concerns participated in the auction.
+Safety and security measures to be followed by Non-Banking Financial Companies lending against collateral of gold jewellery
+21. (1) Non-Banking Financial Companies, which are in the business of lending against collateral of gold jewellery, shall ensure that necessary infrastructure and facilities are put in place, including safe deposit vault and appropriate security measures for operating the vault, in each of its branches where gold jewellery is accepted as collateral. This is required to safeguard the gold jewellery accepted as collateral and to ensure convenience of borrowers.
+(2) No new branch/es shall be opened without suitable arrangements for security and for storage of gold jewellery, including safe deposit vault.
+Opening Branches exceeding one thousand in number
+22. Non-Banking Financial Company shall obtain prior approval of the Reserve Bank to open branches exceeding 1000. However, NBFCs which already have more than 1000 branches may approach the Bank for prior approval for any further branch expansion. Besides, no new branches will be allowed to be opened without the facilities for storage of gold jewellery and minimum security facilities for the pledged gold jewellery.
+Loans against security of shares
+23.
+6
+NBFCs lending against the collateral of listed shares shall,
+maintain a Loan to Value (LTV) ratio of 50% for loans granted against the collateral of shares. LTV ratio of 50% is required to be maintained at all times. Any shortfall in the maintenance of the 50% LTV occurring on account of movement in the share prices shall be made good within 7 working days.
+in case where lending is being done for investment in capital markets, accept only Group 1 securities (specified in SMD/ Policy/ Cir - 9/ 2003 dated March 11, 2003 as amended from time to time, issued by SEBI) as collateral for loans of value more than ₹ 5 lakh, subject to review by the Bank.
+report on-line to stock exchanges on a quarterly basis, information on the shares pledged in their favour, by borrowers for availing loans in format as given in Annex VI.
+Concentration of credit/investment
+24. (1) On and from April 1, 2007 no non-banking financial company shall,
+(i) lend to
+(a) any single borrower exceeding fifteen per cent of its owned fund; and
+(b) any single group of borrowers exceeding twenty five per cent of its owned fund;
+(ii) invest in
+(a) the shares of another company exceeding fifteen per cent of its owned fund; and
+(b) the shares of a single group of companies exceeding twenty five per cent of its owned fund;
+(iii) lend and invest (loans/investments taken together) exceeding
+(a) twenty five per cent of its owned fund to a single party; and
+(b) forty per cent of its owned fund to a single group of parties.
+Provided
+that the ceiling on the investment in shares of another company shall not be applicable to a non-banking financial company in respect of investment in the equity capital of an insurance company up to the extent specifically permitted, in writing, by the Reserve Bank of India.
+Provided
+further that any non-banking financial company not accessing public funds, either directly or indirectly, or not issuing guarantees may make an application to the Bank for an appropriate dispensation consistent with the spirit of the exposure limits.
+Provided
+further that the non-banking financial companies may exceed the concentration of credit/investment norms, by 5 per cent for any single party and by 10 per cent for a single group of parties, if the additional exposure is on account of infrastructure loan and/ or investment.
+Provided
+that Infrastructure Finance Companies may exceed the concentration of credit norms
+(i) in lending to:
+(a) any single borrower, by ten per cent of its owned fund; and
+(b) any single group of borrowers, by fifteen per cent of its owned fund;
+(ii) in lending to and investing in, (loans/investments taken together)
+(a) a single party, by five percent of its owned fund; and
+(b) a single group of parties, by ten percent of its owned fund.
+(2) Every non-banking financial company shall formulate a policy in respect of exposures to a single party / a single group of parties.
+(3) An NBFC which is held by an NOFHC shall not
+i. have any exposure (credit and investments including investments in the equity / debt capital instruments) to the Promoters/ Promoter Group entities or individuals associated with the Promoter Group or the NOFHC;
+ii. make investment in the equity/ debt capital instruments in any of the financial entities under the NOFHC;
+iii. invest in equity instruments of other NOFHCs.
+Explanation: For the purposes of this Paragraph, the expression, 'Promoter' and 'Promoter Group' shall have the meanings assigned to those expressions in Annex 1 to the "Guidelines for Licensing of New Banks in the Private Sector" issued by Reserve Bank (Annex II).
+Notes:
+(1) For determining the limits, off-balance sheet exposures shall be converted into credit risk by applying the conversion factors as explained in paragraph 16.
+(2) The investments in debentures for the purposes specified in this paragraph shall be treated as credit and not investment.
+(3) These ceilings shall be applicable to the credit/investment by such a non- banking financial company to companies/firms in its own group as well as to the borrowers/ investee company’s group.
+Information with respect to change of address, directors, auditors, etc. to be submitted
+25. Every non-banking financial company shall communicate, not later than one month from the occurrence of any change in:
+the complete postal address, telephone number/s and fax number/s of the registered/corporate office;
+the names and residential addresses of the directors of the company;
+the names and the official designations of its principal officers;
+the names and office address of the auditors of the company; and
+the specimen signatures of the officers authorised to sign on behalf of the company
+to the Regional Office of the Department of Non-Banking Supervision of the Reserve Bank of India as indicated in the Second Schedule to the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998.
+NBFCs not to be partners in partnership firms
+26. (1) No non-banking financial company shall contribute to the capital of a partnership firm or become a partner of such firm.
+(2) A non-banking financial company, which had already contributed to the capital of a partnership firm or was a partner of a partnership firm shall seek early retirement from the partnership firm.
+(3) In this connection it is further clarified that;
+Partnership firms mentioned above shall also include Limited Liability Partnerships (LLPs).
+Further, the aforesaid prohibition shall also be applicable to Association of persons, these being similar in nature to partnership firms
+NBFCs which had already contributed to the capital of a LLP/ Association of persons or was a partner of a LLP or member of an Association of persons are advised to seek early retirement from the LLP / Association of persons.
+Norms for restructuring of advances
+27. Norms for restructuring of advances by NBFCs shall be on the lines of the norms specified by the Reserve Bank of India for banks as modified and set forth in Annex-III.
+Flexible Structuring of Long Term Project Loans to Infrastructure and Core Industries
+-
+28. Norms for Flexible Structuring of Long Term project loans to Infrastructure and Core Industries by NBFCs shall be on the lines of the norms specified by the Reserve Bank of India for banks as modified and set forth in Annex-IV.
+Submission of ‘Branch Info’ Return
+29. All NBFCs shall submit a quarterly return on Branch Information within ten days of the expiry of the relative quarter as on March 31, June 30, September 30 and December 31 every year, in the specified format available in the Annex V, to the Regional Office of the Department of Non-Banking Supervision of the Reserve Bank of India, under whose jurisdiction the registered office of the company is located as per Second Schedule to the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 1998. The return shall be submitted online in the format available on
+https://cosmos.rbi.org.in
+.
+Exemptions
+30. The Reserve Bank of India may, if it considers it necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any non-banking financial company or class of non-banking financial companies, from all or any of the provisions of these Directions either generally or for any specified period, subject to such conditions as the Reserve Bank of India may impose.
+Interpretations
+31. For the purpose of giving effect to the provisions of these Directions, the Reserve Bank of India may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the Reserve Bank of India shall be final and binding on all the parties concerned.
+Repeal and Saving
+32. (1) The Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 shall stand repealed by these Directions.
+(2) Notwithstanding such repeal, any circular, instruction, order issued under the Directions in sub–section (1) shall continue to apply to non-banking financial companies in the same manner as they applied to such companies before such repeal.
+(C D Srinivasan)
+Chief General Manager
+* Government Companies were advised vide
+DNBS.PD/CC.No.86/03.02.089/2006-07 dated December 12, 2006
+to submit a road map for compliance with the various elements of the NBFC regulations, in consultation with the Government, and submit the same to the Reserve Bank [Department of Non Banking Supervision – (DNBS)]
+1
+Substituted vide
+Notification No.DNBR.015/CGM(CDS)-2015 dated April 08, 2015
+2
+It was clarified in
+DNBS (PD) C.C. No. 81/03.05.002/2006-07 dated October 19, 2006
+, that the business of non-banking financial institution (NBFI) means a company engaged in the business of financial institution as contained in
+Section 45I(a)
+of the RBI Act, 1934. For this purpose, the definition of 'Principal Business' given, vide
+Press Release 1998-99/1269
+dated April 8, 1999 may be followed.
+3
+Inserted vide
+Notification No.DNBR.022/CGM(CDS)-2015 dated May 14, 2015
+4
+Inserted vide
+Notification No. DNBR.025/CGM(CDS)-2015 dated May 21, 2015
+5
+Substituted vide
+Notification No. DNBR.025/CGM(CDS)-2015 dated May 21, 2015
+6
+Substituted vide
+Notification No. DNBR(PD) 018/CGM(CDS)-2015 dated April 10, 2015

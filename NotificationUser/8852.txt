@@ -1,0 +1,21 @@
+(19 kb)
+Reporting of Cross Border Wire Transfers
+RBI/2013-14/574
+A.P. (DIR Series) Circular No.126
+April 25, 2014
+To
+All  Authorised Persons
+Madam / Sir,
+Reporting of Cross Border Wire Transfers
+Please refer to  our
+A.  P. (DIR Series) Circular No. 72 dated January 10, 2013
+on ‘Uploading of  Reports on FINnet Gateway’ wherein all Authorised Persons were advised to  upload reports as required by FIU-IND using only FINnet gateway.
+2. With  the amendments to Prevention of Money Laundering (PML) Rules, notified by the  Government of India vide Notification No. 12 of 2013 dated August 27, 2013 and  in terms of amended Rule 3, every reporting entity is required to maintain the  record of all transactions including the record of all cross border wire  transfers of more than Rs. 5 lakh or its equivalent in foreign currency, where  either the origin or destination of the fund is in India. FIU-IND has advised that  the information of all such transactions may be furnished to Director, FIU-IND  by 15th of the succeeding month.
+3. In  this regard, it is advised that the ‘Transaction Based Reporting Format’ (TRF)  already developed by FIU-IND and being used for reporting Cash Transaction  Reports (CTRs), Suspicious Transaction Reports (STRs) and Non-Profit  Organizations Transaction Reports (NTRs) may be used for reporting the Cross  Border Wire Transfers. The information may be furnished electronically in the  FIN-Net module developed by FIU-IND. All Authorised Persons are accordingly advised to take action as  required by FIU-IND and ensure that reports are submitted in time as per the  schedule.
+4. The  format along with sample data filled in as an illustration is available in the  ‘Downloads’ section of the FIU-IND website (
+http://fiuindia.gov.in
+).
+5. The directions contained in this  Circular have been issued under Section 10(4) and Section 11(1) of the Foreign  Exchange Management Act, 1999 (42 of 1999) and also under the, Prevention of  Money Laundering Act, (PMLA), 2002, as amended by Prevention of Money  Laundering (Amendment) Act, 2009 and Prevention of Money-Laundering  (Maintenance of Records of the Nature and Value of Transactions, the Procedure  and Manner of Maintaining and Time for Furnishing Information and Verification  and Maintenance of Records of the Identity of the Clients of the Banking  Companies, Financial Institutions and Intermediaries) Rules, 2005 as amended  from time to time and are without prejudice to permission /approvals, if any,  required under any other law.
+Yours faithfully,
+(C.D.Srinivasan)
+Chief General Manager

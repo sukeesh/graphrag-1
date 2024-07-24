@@ -1,0 +1,43 @@
+(133 kb)
+Merchanting Trade Transactions
+RBI/2013-14/452
+A.P. (DIR Series)  Circular No.95
+January 17, 2014
+To
+All  Category - I Authorised Dealer Banks
+Merchanting  Trade Transactions
+Madam / Sir,
+Attention of Authorised Dealer  Category-I (AD Category-I) banks is invited to
+A.P. (DIR Series) Circular Nos.106
+&
+4
+dated June 19, 2003 and July  19, 2003 respectively, containing  directions relating to merchanting or intermediary trade transactions. In the light of the recommendations of the Technical Committee on  Services/Facilities to Exporters (Chairman: Shri G. Padmanabhan) to further  liberalise and simplify the procedure, the existing guidelines for merchanting  or intermediary trade transactions have been reviewed. Accordingly in supersession of the existing guidelines,  the revised guidelines will come into effect immediately.
+2. While handling merchant trade  transactions or intermediary trade transactions, AD Category –  I bank may keep the following guidelines in view:
+Goods involved  in the merchanting or intermediary trade transactions  would be the ones that are permitted for exports / imports under the prevailing  Foreign Trade Policy (FTP) of India, at the  time of entering into the contract and all the rules, regulations and  directions applicable to exports (except Export Declaration Form) and imports  (except Bill of Entry) are complied with for the export leg and import leg  respectively;
+Both the legs of a merchanting or intermediary trade transaction are routed  through the same AD bank. The bank  should verify the documents like invoice, packing list, transport documents and insurance  documents and satisfy itself about the genuiness of the trade.
+The entire merchanting or intermediary trade  transactions should be completed within an overall period of nine months and  there should not be any outlay of foreign exchange beyond four months.
+The  commencement of merchanting or intermediary trade would be the date of shipment /  export leg receipt or import leg payment, whichever is first. The completion  date would be the date of shipment / export leg receipt or import leg payment,  whichever is the last;
+Short-term  credit either by way of suppliers' credit or buyers' credit will be available for merchanting or intermediary trade  transactions including the discounting of export leg LC by an AD bank, as in  the case of import transactions ;
+AD  bank should ensure one-to-one matching in case of each merchanting or intermediary trade  transaction and report defaults in any leg by the traders to the concerned  Regional Office of RBI on half yearly basis in the format as
+annexed
+. The deadline for submission of the report would be 15 calendar days  after the close of each half year.  In case of repeated defaults i.e. three cases or more in a year, ADs should restrain the traders from entering  into any further transaction in merchanting or  intermediary trade and  consider recommending caution listing of the trader, to the Reserve Bank of  India;
+3. The merchanting  traders have to be genuine traders of goods and not mere financial  intermediaries. Confirmed orders have to be received by them from the overseas  buyers. Authorised Dealer should satisfy itself about the capabilities of the  merchanting trader to perform the obligations under the order. The transactions  should result in reasonable profits to the merchanting trader.
+4. The inward remittance from the overseas buyer should  preferably be received first and the outward remittance to the overseas  supplier will be made subsequently. Alternatively, an irrevocable Letter of  Credit (LC) should be opened by the buyer in favour of the merchant. On the  strength of such LC the merchant in turn may open a LC in favour of the  overseas supplier. The terms of payment under both the LCs should be such that  payment for import LC is required to be made after receipt of payment under  export LC. The export LC should be issued in the name of original merchanting  trader in India and import LC should be favouring the original supplier. In case export leg  payment is received in advance, AD banks need not insist on opening of export  LC.
+5. In case advance  against the export leg is received by the merchanting trader, the advance  payment may be held in a separate deposit / current account in foreign currency or Indian  Rupees. The amount required for import leg should be earmarked till the payment of import and  should not be made available to the merchanting trader for use, other than for  import payment or short-term deployment of fund limited to the import payable,  with the same AD for the intervening period. If advance for the import leg is demanded by the overseas seller, the  same should be paid against bank guarantee from an international bank of  repute;
+6. Reporting  for merchanting or intermediary trade for compilation of R-return should be  done on
+gross basis
+, against the undernoted codes :
+Trade
+Purpose    Code under FETERS
+Description
+Export
+P0108
+Goods sold under merchanting /receipt    against export leg of merchanting trade
+Import
+S0108
+Goods acquired under merchanting /payment    against import leg of merchanting trade
+7. AD  Category-I banks may bring the contents of this circular to the notice of their  constituents concerned and note the guidelines for strict compliance.
+8. The directions  contained in this circular have been issued under sections 10(4) and 11(1) of the  Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without  prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(C. D. Srinivasan)
+Chief General Manager

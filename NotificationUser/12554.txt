@@ -1,0 +1,51 @@
+(296 kb)
+Framework for compensation to customers for delayed updation/ rectification of credit information
+RBI/2023-24/72
+DoR.FIN.REC.48/20.16.003/2023-24
+October 26, 2023
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks, and excluding Payments Banks)
+All Primary (Urban) Co-operative Banks/ State Co-operative Banks/ Central Co-operative Banks
+All Non-Banking Financial Companies (including Housing Finance Companies)
+All-India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NaBFID)
+All Asset Reconstruction Companies
+All Credit Information Companies
+Dear Sir/ Madam.
+Framework for compensation to customers for delayed updation/ rectification of credit information
+Please refer to para 4 of the
+Statement on Developmental and Regulatory Policies
+released with the
+Bi-monthly Monetary Policy Statement 2023-24 on April 6, 2023
+, wherein it was announced, inter alia, that a compensation mechanism will be put in place for delayed updation/rectification of credit information by the credit institutions (CIs) and credit information companies (CICs).
+2. Accordingly, in exercise of the powers conferred by sub-section (1) of section 11 of the Credit Information Companies (Regulation) Act, 2005 (CICRA, 2005), the Reserve Bank of India directs CICs and CIs to implement the compensation framework for delayed updation/rectification of credit information by CIs and CICs as detailed below:
+(a) Complainants shall be entitled to a compensation of ₹100 per calendar day in case their complaint is not resolved within a period of thirty (30) calendar days from the date of the initial filing of the complaint by the complainant with a CI/ CIC.
+Explanation:
+Section 21 (3) of CICRA, 2005 provides that a complainant may request a CIC or CI to update the credit information by making an appropriate correction, addition or otherwise, and on such request the CI or CIC shall take steps to update the credit information within thirty (30) days after being requested to do so.
+Rule 20 (3) (c) of CIC Rules, 2006 provides that the CI shall forward the corrected particulars of the credit information to the CIC or complainant within a period of twenty-one (21) days from the date when the CI was informed of the inaccuracy in the credit information.
+The combined reading of Section 21(3) of CICRA, 2005 and Rule 20 (3) (c) of Credit Information Companies Rules, 2006 provide the CI and the CIC, collectively, an overall limit of thirty (30) days to resolve/ dispose of the complaint. In effect, this would mean that a CI would get twenty-one (21) days and CICs would effectively get the remainder of nine (9) days for complete resolution of the complaint.
+(b) A CI shall pay compensation to the complainant if the CI has failed to send updated credit information to the CICs by making an appropriate correction or addition or otherwise within twenty-one (21) calendar days of being informed by the complainant or a CIC.
+(c) A CIC shall pay compensation to the complainant if the CIC has failed to resolve the complaint within thirty (30) calendar days of being informed by the complainant or a CI, despite the CI having furnished the updated credit information to the CIC within twenty-one (21) calendar days of being informed by the complainant or the CIC.
+(d) The complainant shall be advised by the CI/ CIC of the action taken on the complaint in all cases, including the cases where the complaint has been rejected. In cases of rejection, the reasons for rejection shall also be provided by CI and CIC.
+(e) Compensation to be provided by the CICs/ CIs to the complainant (for delayed resolution beyond thirty (30) calendar days of filing the complaint) shall be apportioned among the CIs/ CICs concerned proportionately. Illustrative examples of the same are given in
+Annex
+.
+(f) Where the grievance/ complaint involves inaccurate credit information provided by more than one CI, the complaint shall be registered by the complainant with the concerned CIC. The CIC shall coordinate with all the CIs concerned and furnish the complainant with a comprehensive resolution of the grievance.
+(g) Where the complaint has been received and registered by a CIC and there has been a delay in the resolution of the complaint, the CIC shall inform the concerned CI(s) and the complainant after the final resolution, regarding total delay (in calendar days) and the amount of compensation to be paid by the CI(s) and/ or CIC.
+(h) Where the complaint has been received and registered by a CI and there has been a delay in the resolution of the complaint, the CI shall inform the concerned CIC(s) and the complainant after the final resolution, regarding total delay (in calendar days) and the amount of compensation to be paid by the CI and/ or CIC(s).
+(i) The date of the resolution of the grievance shall be the date when the rectified Credit Information Report (CIR) has been sent by the CIC or CI to the postal address or email ID provided by the complainant.
+(j) The CICs/ CIs shall make appropriate provision in their complaint submission format (both online and offline) for enabling the complainant to submit the contact details, email ID, and bank account details/ Unified Payment Interface (UPI) ID for crediting the compensation amount. The onus of providing accurate details will lie with the complainant and the CIs/ CICs will not be held responsible for any incorrect information provided by the complainant.
+(k) The compensation amount shall be credited to the bank account of the complainant within five (5) working days of the resolution of the complaint.
+(l) The complainant can approach RBI Ombudsman, under the Reserve Bank - Integrated Ombudsman Scheme, 2021, in case of wrongful denial of compensation by CIs or CICs.
+(m) In case of wrongful denial of compensation by CIs which are yet to be covered under the Reserve Bank - Integrated Ombudsman Scheme, 2021, the complainant can approach Consumer Education and Protection Cell (CEPC) functioning from Regional Offices (ROs) of Reserve Bank of India.
+(n)
+Non-Maintainability:
+The compensation framework shall not be applicable in the following cases:
+disputes for which remedy has been provided under Section 18 of CICRA, 2005. The Section 18 of CICRA, 2005 provides that for disputes arising amongst, CICs, CIs, borrowers, and clients on matters relating to the business of credit information and for which no remedy has been provided under CICRA, 2005, such disputes shall be settled by conciliation or arbitration as provided in the Arbitration and Conciliation Act, 1996.
+complaints/ references relating to (a) internal administration, (b) human resources, (c) pay and emoluments of staff, and (d) references in the nature of suggestions and commercial decisions of the CIC/CI.
+complaints pertaining to disputes/ grievances regarding the computation of the credit score/ credit score model.
+complaints that have been decided by or are already pending in other fora such as Consumer Disputes Redressal Commission, Courts, Tribunals, etc.
+3. The compensation framework shall come into effect six (6) months from the date of this circular. CICs and CIs are directed to put in place necessary systems and processes to implement the compensation framework within this period.
+4. CICs and CIs which contravene or default in adherence to the above directions shall be liable for penal action as per the provisions of CICRA, 2005.
+Yours faithfully,
+(R. Lakshmi Kanth Rao)
+Chief General Manager-in-Charge
+Encl. Annex

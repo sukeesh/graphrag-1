@@ -1,0 +1,20 @@
+(48 kb)
+Reporting of Cross Border Wire Transfer Report on FINnet Gateway - Primary (Urban) Co-operative Banks (UCBs)
+RBI/2013-14/555
+UBD.BPD (PCB) Cir.No. 54/14.01.062/2013-14
+April 7, 2014
+The  Chief Executive Officer
+All Primary (Urban) Co-operative Banks.
+Madam / Dear Sir,
+Reporting of Cross Border Wire Transfer Report on  FINnet Gateway - Primary (Urban) Co-operative Banks (UCBs)
+Please refer to our
+circular  UBD.BPD (PCB) Cir.No.19/14.01.062/2012-13 dated October 15, 2012
+on  ‘Uploading of Reports in ‘Test Mode’ on FINnet Gateway’ wherein UCBs were  advised to upload reports as required by FIU-IND using only FINnet gateway.
+2. With the amendments to  Prevention of Money Laundering (PML) Rules, notified by the Government of India  vide Notification No. 12 of 2013 dated August 27, 2013 and in terms of amended  Rule 3, every reporting entity is required to maintain a record of all  transactions including the record of all cross border wire transfers of more  than Rs. 5 lakh or its equivalent in foreign currency, where the place of either  origin or destination of the fund is in India. FIU-IND has advised that the information of  all such transactions may be furnished to Director, FIU-IND by 15th of the  succeeding month.
+3. In this regard, it is advised  that the ‘Transaction Based Reporting Format’ (TRF) already developed by  FIU-IND and being used for reporting Cash Transaction Reports (CTRs),  Suspicious Transaction Reports (STRs) and Non-Profit Organizations Transaction  Reports (NTRs) may be used for reporting the Cross Border Wire Transfers. The information may be furnished  electronically in the FIN-Net module developed by FIU-IND. All UCBs are accordingly advised to take  action as required by FIU-IND and ensure that reports are submitted in time as  per the schedule.
+4. The format along with sample  data filled in as an illustration is available in the ‘Downloads’ section of  the FIU-IND website (
+http://fiuindia.gov.in
+).
+Yours  faithfully,
+(P.K.  Arora)
+General  Manager

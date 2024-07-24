@@ -1,0 +1,21 @@
+(253 kb)
+Enhancing facilitation of National Electronic Toll Collection (NETC) system
+RBI/2019-20/126
+DPSS.CO.PD No.1227/02.31.001/2019-20
+December 30, 2019
+The Chairman / Managing Director / Chief Executive Officer
+Members of National Electronic Toll Collection (NETC) System /
+Authorised Payment System Participants / Operators
+Madam / Dear Sir,
+Enhancing facilitation of National Electronic Toll Collection (NETC) system
+India is progressing ahead with NETC gaining large scale acceptance. Currently, the NETC system allows linking of FASTags with bank accounts – savings, current and prepaid.
+2. In order to further broad base this system by allowing more payment choices for the customers, as well as for fostering competition among the system participants, all authorised payment systems and instruments [non-bank PPIs, cards and Unified Payments Interface (UPI)] shall from now be permitted for linking with the FASTags, which can be used for various types of payments (vehicle toll, parking fee, etc.).
+3. The Turn Around Time (TAT) for resolving failed transactions advised vide
+circular DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019
+shall also be applicable to the transactions carried out in the NETC system.
+4. The transactions in the NETC system can be performed without any Additional Factor of Authentication (AFA) and / or pre-transaction notification / alert.
+5. NPCI shall facilitate requests received from banks / non-banks in this regard.
+6. This directive is issued under Section 10 (2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager

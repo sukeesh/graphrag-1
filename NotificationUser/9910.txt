@@ -1,0 +1,805 @@
+(447 kb)
+Master Circular - Disclosure Norms for Financial Institutions
+RBI/2015-16/103
+DBR.No.FID.FIC.2/01.02.00/2015-16
+July 1, 2015
+All-India Term Lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Dear Sir,
+Master Circular - Disclosure Norms for Financial Institutions
+Please refer to
+Master Circular DBOD.No.FID.FIC.2/01.02.00/2014-15 dated July 01, 2014
+containing the instructions/guidelines issued to FIs till June 30, 2014 relating to Disclosure for FIs. This
+Master Circular
+consolidates instructions on the above matters issued up to June 30, 2015.
+Yours faithfully,
+(
+Sudha Damodar
+)
+Chief General Manager-in-Charge
+Purpose
+To provide a detailed guidance to all-India term-lending and refinancing institutions in the matter of disclosures in the 'Notes to Accounts' to the Financial Statements
+Previous Instructions
+This master circular consolidates and updates the instructions on the above subject contained in the circulars listed in the
+Annex 4
+.
+Application
+To all the all India Financial Institutions viz. Exim Bank, NABARD, NHB and SIDBI
+Structure
+1
+Introduction
+2
+Guidelines on Disclosure Requirements
+2.1 Capital
+2.2 Asset Quality and Credit Concentration
+2.3 Liquidity
+2.4 Operating Results
+2.5 Movement in the provisions
+2.6 Restructured Accounts
+2.7 Assets Sold to Securitisation Company / Reconstruction Company
+2.8 Forward Rate Agreements and Interest Rate Swaps
+2.9 Interest Rate Derivatives
+2.10 Investments in Non Government Debt Securities
+2.11 Consolidated Financial Statements
+2.11.1 Extent of Consolidation
+2.11.2 Accounting Policies
+2.12 Risk in Derivatives
+2.13 Exposures where the FI had exceeded the prudential exposure limits during the year
+2.14 Additional Disclosures in Notes to Accounts
+2.15 Sale of Investments held under Held to Maturity (HTM) Category
+Notes
+I.
+CRAR and other parameters
+II.
+Asset Quality and Credit Concentration
+III.
+Credit Exposure
+IV.
+Capital Funds
+V.
+Definition of Borrower Group
+VI.
+Maturity Pattern of Assets and Liabilities
+VII.
+Operating Results
+VIII.
+Computing Per Employee Net Profit
+Annex - 1 : Format for Disclosure of Issuer Composition for Investment in Debt Securities
+Annex - 2 : Disclosure on Risk Exposure in Derivatives
+Qualitative Disclosure
+Quantitative Disclosure
+Annex - 3 : Additional Disclosures
+Annex - 4 List of Circulars consolidated in the Master Circular
+1. Introduction
+Recognising considerable divergence amongst the financial institutions in the nature and manner of disclosures made by them in their published financial statements, disclosure norms were introduced by Reserve Bank of India for financial institutions in March 2001 with a view to bringing about uniformity in the disclosure practices adopted by them and improving the degree of transparency in their affairs. Such disclosures, which came into effect from the financial year 2000-2001 and were subsequently enhanced, are required to be made as part of "Notes to Accounts" to enable the auditors to authenticate the information, notwithstanding the fact that the same information might be contained elsewhere in the published financial statements. These disclosures constitute only minima and if an FI desires to make any additional disclosures, it would be well advised to do so.
+2. Guidelines on Disclosure Requirements
+The various disclosure requirements are as under :
+2.1 Capital
+(a) CRAR, core CRAR and supplementary CRAR
+(b) The amount of subordinated debt raised and outstanding as Tier-II capital
+(c) Risk weighted assets - separately for on- and off-balance sheet items
+(d) The share holding pattern as on the date of the balance sheet
+2.2 Asset Quality and Credit Concentration
+(e) Percentage of net NPAs to net loans and advances
+(f) Amount and percentage of net NPAs under the prescribed asset classification categories
+(g) Amount of provisions made during the year towards Standard assets, NPAs, investments (other than those in the nature of an advance), income tax
+(h) Movement in net NPAs
+(i) Credit exposure as percentage to capital funds and as percentage to total assets, in respect of :
+* The largest single borrower;
+* The largest borrower group;
+* The 10 largest single borrowers;
+* The 10 largest borrower groups;
+(Names of the borrowers / borrower groups need not be disclosed).
+(j) Credit exposure to the five largest industrial sectors (if applicable) as percentage to total loan assets
+2.3 Liquidity
+(k) Maturity pattern of rupee assets and liabilities; and
+(l) Maturity pattern of foreign currency assets and liabilities, in the following format :
+Items
+Less than or equal to 1 year
+More than a year up to 3 years
+More than 3 years up to 5 years
+More than 5 years up to 7 years
+More than 7 years
+Total
+Rupee assets
+Foreign currency assets
+Total assets
+Rupee liabilities
+Foreign currency liabilities
+Total liabilities
+Total
+2.4 Operating Results
+(m) Interest income as a percentage to average working funds
+(n) Non-interest income as a percentage to average working funds
+(o) Operating profit as a percentage to average working funds
+(p) Return on average assets
+(q) Net Profit per employee
+2.5 Movement in the provisions
+The movement in the provisions held towards Non Performing Assets and depreciation in investment portfolio should be disclosed as per the following format :
+I. Provisions for Non Performing Assets (comprising loans, bonds and debentures in the nature of advance and inter-corporate deposits) (excluding provision for standard assets)
+a) Opening balance as at the beginning of the financial year
+Add : Provisions made during the year
+Less : Write off, write back of excess provision
+b) Closing balance at the close of the financial year
+II. Provisions for Depreciation in Investments
+c) Opening balance as at the beginning of the financial year
+Add :
+i. Provisions made during the year
+ii. Appropriation, if any, from Investment Fluctuation Reserve Account during the year
+Less :
+i. Write off during the year
+ii. Transfer, if any, to Investment Fluctuation Reserve Account
+d) Closing balance as at the close of the financial year
+2.6 Restructured Accounts
+2.6.1 The total amount of loan assets as also of the sub-standard assets / doubtful assets separately, which have been subjected to restructuring, etc should be disclosed.
+2.6.2 Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institutions
+1. As indicated in
+paragraph 81
+of the Monetary Policy Statement 2013-14 announced on May 3, 2013, 'Prudential guidelines on restructuring of advances by banks / financial institutions' have been revised taking into account the recommendations of the Working Group (Chairman : Shri B. Mahapatra) constituted in this regard and the comments received on the Draft Guidelines issued vide
+DBOD.BP.BC.No./21.04.132/2012-13 dated January 31, 2013
+.
+2. The revised instructions are given in the
+Annex 4
+, enumerating only the changed principles / instructions on the subject. Thus, these guidelines should be read in conjunction with instructions on the subject contained in Part B of the
+Master Circular DBOD.No.BP.BC.9/21.04.048/2012-13 dated July 2, 2012
+on 'Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances', which is an updated compilation of 'Prudential Guidelines on Restructuring of Advances' dated August 27, 2008 and subsequent circulars and Mail-Box Clarifications issued on the subject.
+2.6.3 Particulars of Accounts Restructured
+(Amount in ₹ Crore)
+Sl No
+Type of Restructuring →
+Under CDR Mechanism
+Under SME Debt
+Restructuring Mechanism
+Others
+Total
+Asset Classification →
+St-
+an-
+da-
+rd
+Su-
+bSt-
+and-
+ard
+Do-
+ubt-
+ful
+Lo-
+ss
+To-
+tal
+St-
+an-
+da-
+rd
+Su-
+bSt-
+and-
+ard
+Do-
+ubt-
+ful
+Lo-
+ss
+To-
+tal
+St-
+an-
+da-
+rd
+Su-
+bSt-
+and-
+ard
+Do-
+ubt-
+ful
+Lo-
+ss
+To-
+tal
+St-
+an-
+da-
+rd
+Su-
+bSt-
+and-
+ard
+Do-
+ubt-
+ful
+Lo-
+ss
+To-
+tal
+Details ↓
+1
+Restructured Accounts as on April 1 of the FY (opening figures)*
+No. of borro-
+wers
+Amount outst- anding
+Prov- ision there- on
+2
+Fresh restru- cturing during the year
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+3
+Upgra- dations to restru- ctured standard category during the FY
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+4
+Restr- uctured standard advances which cease to attract higher provisioning and / or additional risk weight at the end of the FY and hence need not be shown as restru- ctured standard advances at the beginning of the next FY
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+5
+Downgr- adations of restru- ctured accounts during the FY
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+6
+Write-offs of restru- ctured accounts during the FY
+No. of borro- wers
+Amount outst- anding
+7
+Restru- ctured Accounts as on March 31 of the FY (closing figures*)
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+* Excluding the figures of Standard Restructured Advances which do not attract higher provisioning or risk weight (if applicable).
+For the purpose of disclosure in the above Format, the following instructions are required to be followed :
+(i) Advances restructured under CDR Mechanism, SME Debt Restructuring Mechanism and other categories of restructuring should be shown separately.
+(ii) Under each of the above categories, restructured advances under their present asset classification, i.e. standard, sub-standard, doubtful and loss should be shown separately.
+(iii) Under the 'standard' restructured accounts; accounts, which have objective evidence of no longer having inherent credit weakness, need not be disclosed. For this purpose, an objective criteria for accounts not having inherent credit weakness is discussed below :
+(a) As regards restructured accounts classified as standard advances, in view of the inherent credit weakness in such accounts, banks are required to make a general provision higher than what is required for otherwise standard accounts in the first two years from the date of restructuring. In case of moratorium on payment of interest / principal after restructuring, such advances attract the higher general provision for the period covering moratorium and two years thereafter.
+(b) Further, restructured standard unrated corporate exposures and housing loans are also subjected to an additional risk weight of 25 percentage point with a view to reflect the higher element of inherent risk which may be latent in such entities (cf. paragraph 5.8.3 of
+circular DBOD.No.BP.BC.90/20.06.001/2006-07 dated April 27, 2007
+on 'Prudential Guidelines on Capital Adequacy and Market Discipline - Implementation of the New Capital Adequacy Framework' and paragraph 4 of
+circular DBOD.No.BP.BC.76/21.04.0132/2008-09 dated November 3, 2008
+on 'Prudential Guidelines on Restructuring of Advances by Banks' respectively).
+(c) The aforementioned [(a) and (b)] additional / higher provision and risk weight cease to be applicable after the prescribed period if the performance is as per the rescheduled programme. However, the diminution in the fair value will have to be assessed on each balance sheet date and provision should be made as required.
+(d) Restructured accounts classified as sub-standard and doubtful (non-performing) advances, when upgraded to standard category also attract a general provision higher than what is required for otherwise standard accounts for the first year from the date of up-gradation, in terms of extant guidelines on provisioning requirement of restructured accounts. This higher provision ceases to be applicable after one year from the date of upgradation if the performance of the account is as per the rescheduled programme. However, the diminution in the fair value will have to be assessed on each balance sheet date and provision made as required.
+(e) Once the higher provisions and / or risk weights (if applicable and as prescribed from time to time by RBI) on restructured standard advances revert to the normal level on account of satisfactory performance during the prescribed periods as indicated above, such advances, henceforth, would no longer be required to be disclosed by banks as restructured standard accounts in the "Notes on Accounts" in their Annual Balance Sheets. However, banks should keep an internal record of such restructured accounts till the provisions for diminution in fair value of such accounts are maintained.
+(iv) Disclosures should also indicate the intra category movements both on upgradation of restructured NPA accounts as well as on slippage. These disclosures would show the movement in restructured accounts during the financial year on account of addition, upgradation, downgradation, write off, etc.
+(v) While disclosing the position of restructured accounts, banks must disclose the total amount outstanding in all the accounts / facilities of borrowers whose accounts have been restructured along with the restructured part or facility. This means that even if only one of the facilities / accounts of a borrower has been restructured, the bank should also disclose the entire outstanding amount pertaining to all the facilities / accounts of that particular borrower.
+(vi) Upgradation during the year (Sl No. 3 in the Disclosure Format) means movement of 'restructured NPA' accounts to 'standard asset classification from substandard or doubtful category' as the case may be. These will attract higher provisioning and / or risk weight' during the 'prescribed period' as prescribed from time to time. Movement from one category into another will be indicated by a (-) and a (+) sign respectively in the relevant category.
+(vii) Movement of Restructured standard advances (Sr. No. 4 in the Disclosure Format) out of the category into normal standard advances will be indicated by a (-) sign in the column "Standard".
+(viii) Downgradation from one category to another would be indicated by (-) ve and (+) ve sign in the relevant categories.
+(ix) Upgradation, downgradation and write-offs are from their existing asset classifications.
+(x) All disclosures are on the basis of current asset classification and not 'pre-restructuring' asset classification.
+(xi) Additional / fresh sanctions made to an existing restructured account can be shown under Sr. No. 2 'Fresh Restructuring during the year' with a footnote stating that the figures under Sr. No.2 include Rs. xxx crore of fresh / additional sanction (number of accounts and provision thereto also) to existing restructured accounts. Similarly, reductions in the quantity of restructured accounts can be shown under Sr.No.6 'write-offs of restructured accounts during the year' with a footnote stating that that it includes Rs. xxx crore (no. of accounts and provision thereto also) of reduction from existing restructured accounts by way of sale / recovery.
+(xii) Closing balance as on March 31st of a FY should tally arithmetically with opening balance as on April 1st of the FY + Fresh Restructuring during the year including additional / fresh sanctions to existing restructured accounts + Adjustments for movement across asset categories - Restructured standard advances which cease to attract higher risk weight and / or provision - reductions due to write-offs / sale / recovery, etc. However, if due to some unforeseen / any other reason, arithmetical accuracy is not achieved, then the difference should be reconciled and explained by way of a foot-note.
+2.7 Details of financial assets sold to Securitisation / Reconstruction Company for Asset Reconstruction
+(Amount ₹ in crore)
+Particulars
+Current year
+Previous year
+(i)
+No. of accounts
+(ii)
+Aggregate value (net of provisions) of accounts sold to SC / RC
+(iii)
+Aggregate consideration
+(iv)
+Additional consideration realized in respect of accounts transferred in earlier years
+(v)
+Aggregate gain / loss over net book value
+Guidelines on Sale of Financial Assets to Securitisation Company (SC) / Reconstruction Company (RC) and Related Issues
+As announced in
+paragraph 28
+of the Sixth Bi-Monthly Monetary Policy Statement, 2014-15 on February 03, 2015 All-India Term Lending and Refinancing Institutions (AIFIs) are permitted to reverse the excess provision (when the sale is for a value higher than the NBV) on sale of NPAs (sold prior to February 26, 2014 to SCs/RCs) to their profit and loss account. AIFIs can reverse excess provision arising out of sale of NPAs only when the cash received (by way of initial consideration and/or redemption of security receipts/pass through certificates) is higher than the NBV of the NPAs sold to SCs/RCs.
+3. Further, the quantum of excess provision reversed to profit and loss account will be limited to the extent to which cash received exceeds the NBV of the NPAs sold. The quantum of excess provision reversed to the profit and loss account on account of sale of NPAs shall be disclosed in the financial statements of the bank under ‘Notes to Accounts’.
+4. To enhance transparency, in addition to the disclosure requirements quoted above, AIFIs shall make the following disclosures in the Notes to Accounts in their Annual Financial Statements:
+(In Rs. Crore)
+Particulars
+Backed by NPAs sold by the AIFI as underlying
+Backed by NPAs sold by banks / other financial institutions / non-banking financial companies as underlying
+Total
+Previous Year
+Current Year
+Previous Year
+Current Year
+Previous Year
+Current Year
+Book value of investments in security receipts
+2.8 Forward Rate Agreements and Interest Rate Swaps
+The following disclosures should be made in the note to the balance sheet:
+Forward Rate Agreement / Interest Rate Swap
+(Amount ₹ in crore)
+Particulars
+Current year
+Previous year
+(i)
+The notional principal of swap agreements
+(ii)
+Losses which would be incurred if counterparties failed to fulfill their obligations under the agreements
+(iii)
+Collateral required by the bank upon entering into swaps
+(iv)
+Concentration of credit risk arising from the swaps $
+(v)
+The fair value of the swap book @
+Note
+Nature and terms of the swaps including information on credit and market risk and the accounting policies adopted for recording the swaps should also be disclosed.
+$ Examples of concentration could be exposures to particular industries or swaps with highly geared companies.
+@ If the swaps are linked to specific assets, liabilities, or commitments, the fair value would be the estimated amount that the bank would receive or pay to terminate the swap agreements as on the balance sheet date. For a trading swap the fair value would be its mark to market value.
+2.9 Interest Rate Derivatives
+The FIs dealing in interest rate derivatives on exchanges should disclose as a part of the 'notes on accounts' to balance sheets the following details :
+S. No.
+Particulars
+Amount
+1.
+Notional principal amount of exchange traded interest rate derivatives undertaken during the year (instrument-wise)
+(a)
+(b)
+(c)
+2.
+Notional principal amount of exchange traded interest rate derivatives outstanding as on 31st March ____ (instrument-wise)
+(a)
+(b)
+(c)
+3.
+Notional principal amount of exchange traded interest rate derivatives outstanding and not "highly effective" (instrument-wise)
+(a)
+(b)
+(c)
+4.
+Mark-to-market value of exchange traded interest rate derivatives outstanding and not "highly effective" (instrument-wise)
+2.10 Investments in Non Government Debt Securities
+The FIs should disclose the details of the issuer composition of investments made through private placement and the non-performing investments in the 'Notes on Accounts' of the balance sheet in the format furnished in
+Annex 1
+.
+2.11 Consolidated Financial Statements (CFS)
+2.11.1 Extent of Consolidation
+A parent, presenting the CFS, should consolidate the financial statements of all subsidiaries - domestic as well as foreign, except those specifically permitted to be excluded under the AS-21 the ICAI. The reasons for not consolidating a subsidiary should be disclosed in the CFS. The responsibility of determining whether a particular entity should be included or not for consolidation would be that of the Management of the parent entity. In case, its Statutory Auditors are of the opinion that an entity, which ought to have been consolidated, has been omitted, they should incorporate their comments in this regard in the "Auditors Report".
+2.11.2 Accounting Policies
+CFS should be prepared using uniform accounting policies for like transactions and other events in similar circumstances. (For the purpose, the FIs should rely on a Statement of Adjustments for non-uniform accounting policies furnished by the statutory auditors of the subsidiaries.) If it is not practicable to do so, that fact should be disclosed together with the proportions of the items in the consolidated financial statements to which the different accounting policies have been applied.
+2.12 Disclosures on Risk Exposures in Derivatives
+Best international practices require meaningful and appropriate disclosures of FIs' exposures to risk and their strategy towards managing the risk. FIs should make meaningful disclosures of their derivatives portfolio. A minimum framework for disclosures by FIs on their risk exposures in derivatives is furnished in
+Annex 2
+. The disclosure format includes both qualitative and quantitative aspects and has been devised to provide a clear picture of the exposure to risks in derivatives, risk management systems, objectives and policies. FIs should make these disclosures as a part of the 'Notes on Accounts' to the Balance Sheet with effect from March 31, 2005 (June 30, 2005 in the case of National Housing Bank).
+2.13 Exposures where the FI had exceeded the Prudential Exposure Limits during the year
+The FI should make appropriate disclosures in the 'Notes on account' to the annual financial statements in respect of the exposures where the FI had exceeded the prudential exposure limits during the year.
+2.14 Additional Disclosures by FIs in Notes to Accounts
+Reserve Bank has been taking several steps from time to time to enhance transparency in the operations of FIs by stipulating comprehensive disclosures in tune with the international best practices.
+The Financial Institutions should furnish the Additional Disclosures in “Notes to Accounts” in their balance sheets as per the prescribed formats furnished in
+Annex 3
+.:
+2.15 Sale of Investments held under Held to Maturity (HTM) Category
+If the value of sales and transfers of securities to / from HTM category exceeds 5 per cent of the book value of investments held in HTM category at the beginning of the year, FI should disclose the market value of the investments held in the HTM category and indicate the excess of book value over market value for which provision is not made. This disclosure is required to be made in 'Notes to Accounts' in FI's audited Annual Financial Statements.
+Notes :
+(I) CRAR and other parameters
+CRAR and other related parameters, determined as per the extant capital adequacy norms for the FIs, should be disclosed.
+(II) Asset Quality and Credit Concentration
+For the purpose of asset quality and credit concentration, the following should also be reckoned for determining the amount of loans and advances and NPAs and included in the disclosures :
+(i) Bonds and Debentures :
+The bonds and debentures should be treated in the nature of advance when :
+- The debenture / bond is issued as part of the proposal for project finance and the tenor of the bond / debenture is for three years and above.
+and
+- The FI has a significant stake (i.e. 10% or more) in the issue.
+and
+- The issue is a part of private placement i.e. the borrower has approached the FI, and not part of a public issue where the FI has subscribed in response to an invitation.
+(ii) Preference Shares :
+The preference shares, other than convertible preference shares, acquired as part of project financing and meeting the criteria as at (i) above.
+(iii) Deposits :
+The deposits placed with the corporate sector.
+(III) Credit Exposure
+"Credit exposure" shall include funded and non-funded credit limits, underwriting and other similar commitments. The sanctioned limits or outstandings , whichever is higher, shall be reckoned for arriving at exposure limit. In case of term loans, however, the exposure limit should be reckoned on the basis of actual outstandings plus undisbursed or undrawn commitments.
+However, in cases where disbursements are yet to commence, exposure limit should be reckoned on the basis of the sanctioned limit or the extent upto which the FI has entered into commitments with the borrowing companies in terms of the agreement.
+FIs should include in the non-funded credit limit, the forward contracts in foreign exchange and other derivative products like currency swaps, options, etc as per the extant exposure norms.
+(IV) Capital Funds
+Capital funds for the purpose of credit concentration, would be the total regulatory capital as defined under capital adequacy standards (i.e. Tier I and Tier II Capital).
+(V) Definition of Borrower Group
+The definition of 'borrower group' would be the same as applied by the FIs in complying with group exposure norms.
+(VI) Maturity pattern of certain items of Assets and Liabilities
+(Amount in ₹ crore)
+Day 1
+2 to 7 days
+8 to 14 days
+15 to 28 days
+29 days to 3 Month
+Over 3 month & up to 6 month
+Over 6 Month & up to 1 year
+Over 1 year & up to 3 years
+Over 3 years & up to 5 years
+Over 5 years
+Total
+Deposits
+Advances
+Investments
+Borrowings
+Foreign Currency assets
+Foreign Currency liabilities
+(VII) Operating Results
+For operating results, the working funds and total assets should be taken as the average of the figures as at the end of the previous accounting year, the end of the succeeding half year and the end of the accounting year under report. (The "working funds" refer to the total assets of the FI.)
+(VIII) Computing Per Employee Net Profit
+All permanent, full-time employees in all cadres should be reckoned for computing per employee net profit.
+Annex - 1
+Format for Disclosure of Issuer Composition for Investment in Debt Securities
+A. Issuer Categories in respect of Investments made
+(As on the date of the balance sheet)
+(Rs.in Crore)
+Sr. No.
+Issuer
+Amount
+Amount of
+Investment made through private placement
+‘below investment grade’ Securities held
+‘unrated’ Securities held
+‘unlisted’
+Securities
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+1.
+PSUs
+2.
+FIs
+3.
+Banks
+4.
+Private corporates
+5.
+Subsidiaries /Joint ventures
+6.
+Others
+7.
+#Provision held towards depreciation
+xxx
+xxx
+xxx
+xxx
+Total *
+# Only aggregate amount of provision held to be disclosed in column 3.
+*Notes :
+1. Total under column 3 should tally with the total of investments included under the following categories in the balance sheet :
+a. Shares
+b. Debentures & Bonds
+c. Subsidiaries /joint ventures
+d. Others
+2. Amounts reported under columns 4,5,6 and 7 above might not be mutually exclusive
+B. Non performing Investments
+(Rs. in crore)
+Particulars
+Amount
+Opening balance
+Additions during the year since 1st April
+Reductions during the above period
+Closing balance
+Total provisions held
+Annex - 2
+Disclosures on Risk Exposure in Derivatives
+Qualitative Disclosure
+FIs shall discuss their risk management policies pertaining to derivatives with particular reference to the extent to which derivatives are used, the associated risks and business purposes served. The discussion shall also include :
+- the structure and organization for management of risk in derivatives trading,
+- the scope and nature of risk measurement, risk reporting and risk monitoring systems,
+- policies for hedging and / or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges / mitigants, and
+- accounting policy for recording hedge and non-hedge transactions; recognition of income, premiums and discounts; valuation of outstanding contracts; provisioning, collateral and credit risk mitigation.
+Quantitative Disclosures
+(Rs. in Crore)
+Sl. No.
+Particular
+Currency Derivatives
+Interest Rate Derivatives
+1.
+Derivatives (Notional Principal Amount)
+a)
+For hedging
+b)
+For trading
+2.
+Marked to Market Positions [1]
+a)
+Asset (+)
+b)
+Liability (-)
+3.
+Credit Exposure [2]
+4.
+Likely impact of one percentage change in interest rate (100*PV01)
+a)
+on hedging derivatives
+b)
+on trading derivatives
+5.
+Maximum and Minimum of 100*PV01 observed during the year
+a)
+on hedging
+b)
+on trading
+Notes :
+1. The net position should be shown either under asset or liability, as the case should be, for each type of derivatives.
+2. FIs should adopt the Current Exposure Method prescribed by RBI on Measurement of Credit Exposure of Derivative Products which is described in brief as follows :
+In order to calculate the credit exposure equivalent of off-balance sheet interest rate and exchange rate instruments under Current Exposure Method, a FI would sum :
+- the total replacement cost (obtained by "marking to market") of all its contracts with positive value (i.e., when the FI has to receive money from the counterparty), and
+- an amount for potential future changes in credit exposure calculated on the basis of the total notional principal amount of the contract multiplied by the following credit conversion factors according to the residual maturity of the contract :
+Residual Maturity
+Conversion Factor to be applied on Notional Principal Amount
+Interest Rate Contract
+Exchange Rate Contract
+Less than one year
+Nil
+1.0 %
+One year and over
+0.5%
+5.0 %
+3. Bilateral netting of mark-to-market (MTM)values arising on account of counterparty credit exposures in derivatives contracts cannot be permitted. Accordingly, FIs should count their gross positive MTM value of such contracts for the purposes of capital adequacy as well as for exposure norms.
+Annex - 3
+Additional Disclosures
+1 Provisions and Contingencies
+To facilitate easy reading of the financial statements and to make the information on all Provisions and Contingencies available at one place, banks are required to disclose in the 'Notes to Accounts' the following information :
+(Amount ₹ in crore)
+Break up of 'Provisions and Contingencies' shown under the head Expenditure in Profit and Loss Account
+Current Year
+Previous Year
+Provisions for depreciation on Investment
+Provision towards NPA
+Provision made towards Income tax
+Other Provision and Contingencies (with details)
+2 Floating Provisions
+Banks should make comprehensive disclosures on floating provisions in the "Notes to Accounts" to the balance sheet as follows :
+(Amount ₹ in crore)
+Particulars
+Current Year
+Previous Year
+(a)
+Opening balance in the floating provisions account
+(b)
+The quantum of floating provisions made in the accounting year
+(c)
+Amount of draw down made during the accounting year
+(d)
+Closing balance in the floating provisions account
+Note : The purpose of draw down made during the accounting year may be mentioned
+3 Draw Down from Reserves
+Suitable disclosures are to be made regarding any draw down of reserves in the 'Notes to Accounts' to the Balance Sheet.
+4 Disclosure of complaints
+Banks are also advised to disclose the following brief details along with their financial results :
+A. Customer Complaints
+(a)
+No. of complaints pending at the beginning of the year
+(b)
+No. of complaints received during the year
+(c)
+No. of complaints redressed during the year
+(d)
+No. of complaints pending at the end of the year
+B. Awards passed by the Banking Ombudsman
+(a)
+No. of unimplemented Awards at the beginning of the year
+(b)
+No. of Awards passed by the Banking Ombudsmen during the year
+(c)
+No. of Awards implemented during the year
+(d)
+No. of unimplemented Awards at the end of the year
+5 Disclosure of Letters of Comfort (LoCs) issued by banks
+Banks should disclose full particulars of all the Letters of Comfort (LoCs) issued by them during the year, including their assessed financial impact, as also their assessed cumulative financial obligations under the LoCs issued by them in the past and outstanding, in its published financial statements, as part of the 'Notes to Accounts".
+6 Provisioning Coverage Ratio (PCR)
+The PCR (ratio of provisioning to gross non-performing assets) should be disclosed in the Notes to Accounts to the Balance Sheet.
+7 Bancassurance Business
+Banks should disclose in the 'Notes to Accounts', from the year ending March 31, 2010, the details of fees / remuneration received in respect of the bancassurance business undertaken by them.
+8 Concentration of Deposits, Advances, Exposures and NPAs
+8.1 Concentration of Deposits
+(Amount in ₹ crore)
+Total Deposits of twenty largest depositors
+Percentage of Deposits of twenty largest depositors to Total Deposits of the bank
+8.2 Concentration of Advances*
+(Amount in ₹ crore)
+Total Advances to twenty largest borrowers
+Percentage of Advances to twenty largest borrowers to Total Advances of the bank
+*Advances should be computed as per definition of Credit Exposure including derivatives furnished in our Master Circular on Exposure Norms.
+8.3 Concentration of Exposures**
+(Amount in ₹ crore)
+Total Exposure to twenty largest borrowers / customers
+Percentage of Exposures to twenty largest borrowers / customers to Total Exposure of the bank on borrowers / customers
+**Exposures should be computed based on credit and investment exposure as prescribed in our Master Circular on Exposure Norms.
+8.4 Concentration of NPAs
+(Amount in ₹ crore)
+Total Exposure to top four NPA accounts
+9 Sector-wise NPAs
+Sl. No.
+Sector
+Percentage of NPAs to Total Advances in that Sector
+1.
+Agriculture & allied activities
+2.
+Industry (Micro & small, Medium and Large)
+3.
+Services
+4.
+Personal Loans
+10 Movement of NPAs
+Further AIFIs should disclose the stock of technical write - offs and the recoveries made thereon as per the format below :
+(Amount in Rs.crore)
+Particulars
+Current year
+Previous Year
+Opening balance of Technical / Prudential written - off accounts as at April 1
+Add : Technical /Prudential write - offs during the year
+Sub-total (A)
+Less : Recoveries made from previously technical /prudential written - offs accounts during the year (B)
+Closing balance as at March 31 (A-B)
+11 Overseas Assets, NPAs and Revenue
+Particulars
+Amount in Rs. Crore
+Total Assets
+Total NPAs
+Total Revenue
+12 Off-balance Sheet SPVs sponsored (which are required to be consolidated as per accounting norms)
+Name of the SPV Sponsored
+Domestic
+Overseas
+13 Unamortised Pension and Gratuity Liabilities
+Appropriate disclosures of the accounting policy followed in regard to amortization of pension and gratuity expenditure may be made in the Notes to Accounts to the financial statements.
+14 (Deleted)
+15 Disclosures relating to Securitisation
+The Notes to Accounts of the originating banks should indicate the outstanding amount of securitised assets as per books of the SPVs sponsored by the bank and total amount of exposures retained by the bank as on the date of balance sheet to comply with the Minimum Retention Requirements (MRR). These figures should be based on the information duly certified by the SPV's auditors obtained by the originating bank from the SPV. These disclosures should be made in the format given below.
+S. No.
+Particulars
+No. / Amount in ₹ crore
+1.
+No of SPVs sponsored by the bank for securitisation transactions*
+2.
+Total amount of securitised assets as per books of the SPVs sponsored by the bank
+3.
+Total amount of exposures retained by the bank to comply with MRR as on the date of balance sheet
+a)
+Off-balance sheet exposures
+First loss
+Others
+b)
+On-balance sheet exposures
+First loss
+Others
+4.
+Amount of exposures to securitisation transactions other than MRR
+a)
+Off-balance sheet exposures
+i)
+Exposure to own securitizations
+First loss
+Loss
+ii)
+Exposure to third party securitisations
+First loss
+Others
+b)
+On-balance sheet exposures
+i)
+Exposure to own securitisations
+First loss
+Others
+ii)
+Exposure to third party securitisations
+First loss
+Others
+* Only the SPVs relating to outstanding securitisation transactions may be reported here
+16 Credit Default Swaps
+FIs using a proprietary model for pricing CDS, shall disclose both the proprietary model price and the standard model price in terms of extant guidelines in the Notes to the Accounts and should also include an explanation of the rationale behind using a particular model over another.
+Annex - 4
+Part A : List of Instructions and Circulars Superseded
+No
+Circular No.
+Date
+Subject
+1.
+DBS.FID.No.C-18/01.02.00/2000-01
+23.03.2001
+Disclosures in the Published Financial statements.
+2.
+DBS.FID.No.C-14/01.02.00/2001-02
+08.02.2002
+Additional Disclosures in the Published Financial statements
+3.
+DBOD.No.FID.FIC-1/01.02.00/2004-05
+26.04.2005
+Disclosures on Risk Exposures in Derivatives
+4.
+DBOD.No.FID.FIC-2/01.02.00/2006-07
+01.07.2006
+Master Circular - Disclosure Norms for Financial Institutions
+5.
+DBOD.No.FID.FIC-2/01.02.00/2007-08
+02.07.2007
+Master Circular - Disclosure Norms for Financial Institutions
+Part B : List of other Circulars containing Instructions / Guidelines / Directives related to Disclosure Norms
+No
+Circular No.
+Date
+Subject
+1.
+DBS.FID.No.20/02.01.00/1997-98
+04.12.1997
+Limits on Credit Exposures of Term Lending Financial Institutions to Individual / Group Borrowers
+2.
+MPD.BC.187/07.01.279/1999-2000
+07.07.1999
+Forward Rate Agreements / Interest Rate Swaps
+3.
+DBS.FID.No.C-9/01.02.00/2000-01
+09.11.2000
+Guidelines - Classification and Valuation of Investments
+4.
+DBS.FID.No.C-19/01.02.00/2000-01
+28.03.2001
+Treatment of Restructured Accounts
+5.
+DBS.FID.No.C-26/01.02.00/2000-01
+20.06.2001
+Monetary and Credit Policy Measures 2001-2002 - Credit Exposure Norms
+6.
+DBS.FID.No.C-2/01.11.00/2001-02
+25.08.2001
+Corporate Debt Restructuring (CDR)
+7.
+DBS.FID.No.C-6/01.02.00/2001-02
+16.10.2001
+Guidelines for Classification and Valuation of Investments - Modifications / Clarifications
+8.
+DBOD.No.BP.BC.96/21.04.048/2002-2003
+23.04.2003
+Guidelines on Sale of Financial Assets to Securitisation Company / Reconstruction Company
+9.
+IDMC.MSRD.4801/06.01.03/2002-03
+03.06.2003
+Guidelines on Exchange Traded Interest Rate Derivatives
+10.
+DBS.FID.No.C-5/01.02.00/2003-04
+01.08.2003
+Guidelines for Consolidated Accounting and Consolidated Supervision
+11.
+DBS.FID.No.C-11/01.02.00/2003-04
+08.01.2004
+Final Guidelines on investment by the FIs in debt securities
+12.
+DBOD.No.FID.FIC.8/01.02.00/2009-10
+26.03.2010
+Additional Disclosures in Notes to Accounts
+13.
+DBOD.No.FID.FIC.9/01.02.00/2009-10
+26.03.2010
+Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances - Computation of NPA Levels
+14.
+DBOD.FID.FIC.No.5/01.02.00/2010-11
+August 18, 2010
+Sale of Investments held under Held to Maturity (HTM) Category
+15.
+DBOD.FID.FIC.No.8/01.02.00/2010-11
+November 2, 2010
+Prudential Norms for Off Balance Sheet Exposure - Bilateral netting of counterparty credit exposures
+16.
+DBOD.BP.BC.No.99/21.04.132/2012-13
+May 30, 2013
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institutions
+17.
+DBOD.FID.FIC.No.5/01.02.00/2012-13
+June 17, 2013
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institution
+18.
+DBOD.BP.BC.No.97/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy - Guidelines on Joint Lenders’ Forum (JLF) and Corrective Action Plan (CAP)
+19.
+DBOD.BP.BC.No.98/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy - Refinancing of Project Loans, Sale of NPA and Other Regulatory Measures
+20
+DBR.No.FID.5/01.02.00/2014-15
+June 10, 2015
+Guidelines on Sale of Financial Assets to Securitisation Company (SC)/ Reconstruction Company (RC) and Related Issues
+1
+Gross NPAs as per item 2 of Annex to
+DBOD Circular DBOD.BP.BC.No.46/21.04.048/2009-10 dated September 24,2009
+which specified a uniform method to compute Gross Advances, Net Advances, Gross NPAs and Net NPAs.
+2
+Technical or prudential write – off is the amount of non-performing loans which are outstanding in the books of the branches, but have been written - off (fully or partially) at Head Office level. Amount of Technical write -off should be certified by statutory auditors. (Defined in B.P Divisions
+circular reference DBOD.No.BP.BC.64/21.04.048/2009-10 dated December 1,2009
+on Provisioning Coverage for Advances)

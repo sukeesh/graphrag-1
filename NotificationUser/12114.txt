@@ -1,0 +1,23 @@
+(251 kb)
+Investment in Entities from FATF Non-compliant Jurisdictions
+RBI/2021-22/55
+CO.DPSS.AUTH.No.S190/02.27.005/2021-22
+June 14, 2021
+All entities authorised to operate Payment Systems in India
+Madam / Dear Sir,
+Investment in Entities from FATF Non-compliant Jurisdictions
+A reference is invited to the
+circular DOR.CO.LIC.CC No.119/03.10.001/2020-21 dated February 12, 2021
+issued by the Department of Regulation, Reserve Bank of India (RBI) on investment in NBFCs from FATF non-compliant jurisdictions. With a view to maintaining consistency, the corresponding regulations for investments in Payment Systems Operators (PSOs) are as follows.
+2. The Financial Action Task Force (FATF) periodically identifies jurisdictions with weak measures to combat money laundering and terrorist financing (AML / CFT) in its following publications: i) High-Risk Jurisdictions subject to a Call for Action, and ii) Jurisdictions under Increased Monitoring. A jurisdiction whose name does not appear in these two lists is referred to as a FATF compliant jurisdiction. Investments in PSOs from FATF non-compliant jurisdictions shall not be treated at par with that from compliant jurisdictions.
+3. Investors in existing PSOs holding their investments prior to the classification of the source or intermediate jurisdiction/s as FATF non-compliant, may continue with the investments or bring in additional investments as per extant regulations so as to support continuity of business in India.
+4. New investors from or through non-compliant FATF jurisdictions, whether in existing PSOs or in entities seeking authorisation as PSOs, are not permitted to acquire, directly or indirectly, ‘significant influence’ as defined in the applicable accounting standards in the concerned PSO. In other words, fresh investments (directly or indirectly) from such jurisdictions, in aggregate, should account for less than 20 per cent of the voting power (including potential
+1
+voting power) of the PSO.
+5. The above instructions, as amended from time to time, shall also apply to any entity that has applied for or that intends to apply for authorisation as a PSO under the Payment and Settlement Systems Act, 2007.
+6. This directive is issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+1
+Potential voting power could arise from instruments that are convertible into equity, other instruments with contingent voting rights, contractual arrangements, etc., that grant investors voting rights (including contingent voting rights) in the future. In such cases, it should be ensured that new investments from FATF non-compliant jurisdictions are less than both (i) 20 per cent of the existing voting powers, and (ii) 20 per cent of existing and potential voting powers assuming those potential voting rights have materialised.

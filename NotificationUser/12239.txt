@@ -1,0 +1,54 @@
+(407 kb)
+Regulations Review Authority (RRA 2.0) – Interim Recommendations – Discontinuation / Merger / Online Submission of Returns
+RBI/2021-2022/165
+CO.DPSS.OVRST.No.S1478/06-08-001/2021-2022
+February 18, 2022
+The Chairman / Managing Director /
+Chief Executive Officer
+Authorised Payment System Operators /
+Banks
+Madam / Dear Sir,
+Regulations Review Authority (RRA 2.0) – Interim Recommendations –
+Discontinuation / Merger / Online Submission of Returns
+Please refer to the
+press release dated February 18, 2022
+issued on the captioned subject.
+2. As part of the implementation of interim recommendations of the RRA 2.0, it is proposed to merge the returns listed in the
+Annex 1
+. Further, it is also proposed to migrate the returns listed in the
+Annex 2
+, to online filing systems viz. Centralised Information Management System (CIMS) and / or Central Information System for Banking Infrastructure (CISBI).
+3. The date of effect for merger / migration to CIMS / CISBI, and discontinuation of parallel reporting would be notified in due course.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Encl.: As above.
+Annex 1
+List of Returns to be Discontinued / Merged
+(Enclosure to CO.DPSS.OVRST.No.S1478/06-08-001/2021-2022 dated February 18, 2022)
+S. No.
+Return Name
+Return Description
+1
+WLA Customer Complaints
+Return contains information on complaints received, resolved and pending against White Label ATM Operators (WLAOs).
+2
+WLA Statistics
+Return contains information on state and region – wise ATMs deployed by WLAOs, transaction volume and value, etc.
+Annex 2
+List of Returns identified for online submission through Centralised Information
+Management System (CIMS) / Central Information System for Banking Infrastructure (CISBI)
+(Enclosure to CO.DPSS.OVRST.No.S1478/06-08-001/2021-2022 dated February 18, 2022)
+S. No.
+Return Name
+Return Description
+1
+PPI Statistics
+Return captures granular level information on volume and value of transactions related to various Pre-paid Payment Instruments (PPIs). Details are collected from concerned banks and non-bank authorised issuers of PPIs.
+2
+MTSS
+Return contains details related to remitting countries and state-wise & region-wise remittance destinations under Money Transfer Service Scheme (MTSS). Details are collected from concerned Overseas Principals under MTSS.
+3
+ATM deployment*
+Return contains details of statistics on state and region – wise ATMs deployed by banks and WLAOs. Details are collected from concerned banks and WLAOs to monitor and regulate the payment and settlement systems in India.
+*An instruction in this regard had already been issued vide letter DPSS.CO.OD.No.87438/06.08.001/2021-22 dated August 10, 2021.

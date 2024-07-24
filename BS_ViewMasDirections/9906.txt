@@ -1,0 +1,1534 @@
+(462 kb)
+Master Circular - Disclosure in Financial Statements - ‘Notes to Accounts’
+RBI/2015-16/99
+DBR.BP.BC No.23/21.04.018/2015-16
+July 1, 2015
+The Chairmen / Chief Executives of
+All Commercial Banks
+(excluding RRBs)
+Dear Sir,
+Master Circular - Disclosure in Financial Statements - ‘Notes to Accounts’
+Please refer to the
+Master Circular DBOD.BP.BC.No.8/21.04.018/2014-15 dated July 1, 2014
+consolidating all operative instructions issued to banks till June 30, 2014 on matters relating to disclosures in the ‘Notes to Accounts’ to the Financial Statements. This
+Master Circular
+consolidates instructions on the above matters issued up to June 30, 2015.
+2. It may be noted that in addition to the instructions consolidated in this Master Circular, disclosure requirements contained in "Master Circular on Basel III Capital Regulations" will also be applicable.
+Yours faithfully,
+(Sudha Damodar)
+Chief General Manager
+Purpose
+To provide a detailed guidance to banks in the matter of disclosures in the ‘Notes to Accounts’ to the Financial Statements.
+Classification
+A statutory guideline issued by the Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949.
+Previous Guidelines superseded
+Master Circular on ‘Disclosure in Financial Statements – Notes to Accounts’ issued vide DBOD.BP.BC No.8/21.04.018/2014-15 dated July 1, 2014.
+Scope of application
+To all commercial banks (excluding RRBs).
+Structure
+1
+Introduction
+2.1
+Presentation
+2.2
+Minimum Disclosures
+2.3
+Summary of Significant Accounting Policies
+2.4
+Disclosure Requirements
+3.1
+Capital
+3.2
+Investments
+3.2.1
+Repo Transactions
+3.2.2
+Non SLR Investment Portfolio
+3.2.3
+Sale and Transfers to / from HTM Category
+3.3
+Derivatives
+3.3.1
+Forward Rate Agreement / Interest Rate Swap
+3.3.2
+Exchange Traded Interest Rate Derivatives
+3.3.3
+Disclosures on Risk Exposure in Derivatives
+3.4
+Asset Quality
+3.4.1
+Non Performing Asset
+3.4.2
+Particulars of Accounts Restructured
+3.4.3
+Details of Financial Assets sold to Securitisation / Reconstruction Company for Asset Reconstruction
+3.4.4
+Details of Non Performing Asset Purchased / Sold
+3.4.5
+Provisions on Standard Assets
+3.5
+Business Ratio
+3.6
+Asset Liability Management - Maturity Pattern of certain items of Assets and Liabilities
+3.7
+Exposures
+3.7.1
+Exposure to Real Estate Sector
+3.7.2
+Exposure to Capital Market
+3.7.3
+Risk Category wise Country Exposure
+3.7.4
+Details of Single Borrower Limit (SGL), Group Borrower Limit (GBL) exceeded by the bank
+3.7.5
+Unsecured Advances
+3.8
+Disclosure of Penalties imposed by RBI
+4
+Disclosure Requirements as per Accounting Standards where RBI has issued guidelines
+4.1
+Accounting Standard 5 – Net Profit or Loss for the period, Prior Period items and Changes in Accounting Policies
+4.2
+Accounting Standard 9 – Revenue Recognition
+4.3
+Accounting Standard 15 – Employee Benefits
+4.4
+Accounting Standard 17 – Segment Reporting
+4.5
+Accounting Standard 18 – Related Party Disclosures
+4.6
+Accounting Standard 21 - Consolidated Financial Statements
+4.7
+Accounting Standard 22 – Accounting for Taxes on Income
+4.8
+Accounting Standard 23 – Accounting for Investments in Associates in Consolidated Financial Statements
+4.9
+Accounting Standard 24 – Discontinuing Operations
+4.10
+Accounting Standard 25 – Interim Financial Reporting
+4.11
+Other Accounting Standards
+5
+Additional Disclosures
+5.1
+Provisions and Contingencies
+5.2
+Floating Provisions
+5.3
+Draw Down from Reserves
+5.4
+Disclosure of Complaints
+5.5
+Disclosure of Letters of Comfort (LoCs) issued by banks
+5.6
+Provisioning Coverage Ratio (PCR)
+5.7
+Insurance Business
+5.8
+Concentration of Deposits, Advances, Exposures and NPAs
+5.9
+Sector wise Advances
+5.10
+Movement of NPAs
+5.11
+Overseas Assets, NPAs and Revenue
+5.12
+Off Balance Sheet SPVs Sponsored
+5.13
+Unamortised Pension and Gratuity Liabilities
+5.14
+Disclosures on Remuneration
+5.15
+Disclosures relating to Securitisation
+5.16
+Credit Default Swaps
+5.17
+Intra Group Exposures
+5.18
+Transfers to Depositor Education and Awareness Fund (DEAF)
+5.19
+Unhedged Foreign Currency Exposure
+6
+Liquidity Coverage Ratio
+Annex
+List of Circulars consolidated by the Master Circular
+1. Introduction
+The users of the financial statements of a bank need information about its financial position and performance in making economic decisions. They are interested in the liquidity and solvency of the bank and the risks related to the assets and liabilities recognised on its balance sheet and its off balance sheet items. In the interest of full and complete disclosure, some very useful information is better provided, or can only be provided, by notes to the financial statements. The use of notes and supplementary information provides the means to explain and document certain items, which are either presented in the financial statements or otherwise affect the financial position and performance of the reporting enterprise. Recently, a lot of attention has been paid to the issue of market discipline in the banking sector. Market discipline, however, works only if market participants have access to timely and reliable information, which enables them to assess the activities of banks and the risks inherent in these activities. Market discipline has been given due importance under Basel II framework on capital adequacy by recognizing it as one of its three Pillars.
+2.1 Presentation
+A summary of Significant Accounting Policies’ and ‘Notes to Accounts’ should be shown under Schedule 17 and Schedule 18 respectively, to maintain uniformity.
+2.2 Minimum Disclosures
+At a minimum, the items listed in the circular should be disclosed in the ‘Notes to Accounts’. Banks are also encouraged to make more comprehensive disclosures than the minimum required under the circular if they become significant and aid in the understanding of the financial position and performance of the bank. The disclosures listed are intended only to supplement, and not to replace, other disclosure requirements under relevant legislation or accounting and financial reporting standards. Where relevant, a bank should comply with such other disclosure requirements as applicable.
+2.3 Summary of Significant Accounting Policies
+Banks should disclose the accounting policies regarding key areas of operations at one place (under Schedule 17) along with ‘Notes to Accounts’ in their financial statements. A suggestive list includes - Basis of Accounting, Transactions involving Foreign Exchange, Investments – Classification, Valuation, etc., Advances and Provisions thereon, Fixed Assets and Depreciation, Revenue Recognition, Employee Benefits, Provision for Taxation, Net Profit, etc.
+2.4 Disclosure Requirements
+In order to encourage market discipline, Reserve Bank has over the years developed a set of disclosure requirements, which allow the market participants to assess key pieces of information on capital adequacy, risk exposures, risk assessment processes and key business parameters, to provide a consistent and understandable disclosure framework that enhances comparability. Banks are also required to comply with the Accounting Standard 1 (AS 1) on Disclosure of Accounting Policies issued by the Institute of Chartered Accountants of India (ICAI). The enhanced disclosures have been achieved through revision of Balance Sheet and Profit & Loss Account of banks and enlarging the scope of disclosures to be made in ‘Notes to Accounts’. In addition to the 16 detailed prescribed schedules to the balance sheet, banks are required to furnish the following information in ‘Notes to Accounts’:
+3.1 Capital
+(Amount in ₹ crore)
+Sr. No.
+Particulars
+Current Year
+Previous Year
+i)
+Common Equity Tier 1 capital ratio (%)
+ii)
+Tier 1 capital ratio (%)
+iii)
+Tier 2 capital ratio (%)
+iv)
+Total Capital Ratio (CRAR) (%)
+v)
+Percentage of the shareholding of the Government of India in public sector banks
+vi)
+Amount of equity capital raised
+vii)
+Amount of Additional Tier 1 capital raised; of which
+Perpetual Non Cumulative Preference Shares (PNCPS):
+Perpetual Debt Instruments (PDI) :
+viii)
+Amount of Tier 2 capital raised;
+of which
+Debt capital instruments:
+Preference Share Capital Instruments: [Perpetual Cumulative Preference Shares (PCPS) / Redeemable Non Cumulative Preference Shares (RNCPS) / Redeemable Cumulative Preference Shares (RCPS)]
+3.2 Investments
+(Amount in ₹ crore)
+Particulars
+Current Year
+Previous Year
+(1) Value of Investments
+(i) Gross Value of Investments
+(a) In India
+(b) Outside India
+(ii) Provisions for Depreciation
+(a) In India
+(b) Outside India
+(iii) Net Value of Investments
+(a) In India
+(b) Outside India
+(2) Movement of provisions held towards depreciation on investments
+(i) Opening balance
+(ii) Add: Provisions made during the year
+(iii) Less: Write off / write back of excess provisions during the year
+(iv) Closing balance
+3.2.1 Repo Transactions
+(in face value terms)
+(Amount in ₹ crore)
+Minimum outstanding during the year
+Maximum outstanding during the year
+Daily Average outstanding during the year
+Outstanding as on March 31
+Securities sold under repo
+i. Government securities
+ii. Corporate debt securities
+Securities purchased under reverse repo
+i. Government securities
+ii. Corporate debt securities
+3.2.2. Non SLR Investment Portfolio
+i) Issuer composition of Non SLR investments
+(Amount in ₹ crore)
+Sr. No.
+Issuer
+Amount
+Extent of Private Placement
+Extent of ‘Below Investment Grade’ Securities
+Extent of ‘Unrated’
+Securities
+Extent of ‘Unlisted’
+Securities
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(i)
+PSUs
+(ii)
+FIs
+(iii)
+Banks
+(iv)
+Private Corporates
+(v)
+Subsidiaries / Joint Ventures
+(vi)
+Others
+(vii)
+Provision held towards depreciation
+X X X
+X X X
+X X X
+X X X
+Total *
+Note: (1) *Total under column 3 should tally with the total of Investments included under the following categories in Schedule 8 to the balance sheet:
+a) Shares
+b) Debentures & Bonds
+c) Subsidiaries / Joint Ventures
+d) Others
+(2) Amounts reported under columns 4, 5, 6 and 7 above may not be mutually exclusive.
+ii) Non performing Non-SLR investments
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Opening balance
+Additions during the year since 1st April
+Reductions during the above period
+Closing balance
+Total provisions held
+3.2.3 Sale and Transfers to / from HTM Category
+If the value of sales and transfers of securities to / from HTM category exceeds 5 per cent of the book value of investments held in HTM category at the beginning of the year, the bank should disclose the market value of the investments held in the HTM category and indicate the excess of book value over market value for which provision is not made. This disclosure is required to be made in ‘Notes to Accounts’ in banks’ audited Annual Financial Statements. The 5 per cent threshold referred to above will exclude:
+One time transfer of securities to / from HTM category with the approval of Board of Directors permitted to be undertaken by banks at the beginning of the accounting year.
+Sales to the Reserve Bank of India under pre announced OMO auctions
+Repurchase of Government Securities by Government of India from banks
+Sale of securities or transfer to AFS / HFT consequent to the reduction of ceiling on SLR securities under HTM at the beginning of January, July and September 2015, in addition to the shifting permitted at the beginning of the accounting year, i.e. April 2015.
+3.3 Derivatives
+3.3.1 Forward Rate Agreement / Interest Rate Swap
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+i) The notional principal of swap agreements
+ii) Losses which would be incurred if counterparties failed to fulfil their obligations under the agreements
+iii) Collateral required by the bank upon entering into swaps
+iv) Concentration of credit risk arising from the swaps$
+v) The fair value of the swap book@
+Note: Nature and terms of the swaps including information on credit and market risk and the accounting policies adopted for recording the swaps should also be disclosed.
+$ Examples of concentration could be exposures to particular industries or swaps with highly geared companies.
+@ If the swaps are linked to specific assets, liabilities, or commitments, the fair value would be the estimated amount that the bank would receive or pay to terminate the swap agreements as on the balance sheet date. For a trading swap the fair value would be its mark to market value.
+3.3.2 Exchange Traded Interest Rate Derivatives
+(Amount in ₹ crore)
+Sr. No.
+Particulars
+Current Year
+Previous Year
+(i)
+Notional principal amount of exchange traded interest rate derivatives undertaken during the year (instrument wise)
+a)
+b)
+c)
+(ii)
+Notional principal amount of exchange traded interest rate derivatives outstanding as on 31st March …..
+(instrument wise)
+a)
+b)
+c)
+(iii)
+Notional principal amount of exchange traded interest rate derivatives outstanding and not ‘highly effective’ (instrument wise)
+a)
+b)
+c)
+(iv)
+Mark to market value of exchange traded interest rate derivatives outstanding and not ‘highly effective’ (instrument wise)
+a)
+b)
+c)
+3.3.3 Disclosures on Risk Exposure in Derivatives
+Qualitative Disclosure
+Banks shall discuss their risk management policies pertaining to derivatives with particular reference to the extent to which derivatives are used, the associated risks and business purposes served. The discussion shall also include:
+the structure and organization for management of risk in derivatives trading,
+the scope and nature of risk measurement, risk reporting and risk monitoring systems,
+policies for hedging and / or mitigating risk and strategies and processes for monitoring the continuing effectiveness of hedges / mitigants, and
+accounting policy for recording hedge and non hedge transactions; recognition of income, premiums and discounts; valuation of outstanding contracts; provisioning, collateral and credit risk mitigation.
+Quantitative Disclosures
+(Amount in ₹ crore)
+Sr. No.
+Particular
+Current Year
+Previous Year
+Currency Derivatives
+Interest rate derivatives
+Currency Derivatives
+Interest rate derivatives
+(i)
+Derivatives (Notional Principal Amount)
+a) For hedging
+b) For trading
+(ii)
+Marked to Market Positions
+a) Asset (+)
+b) Liability (-)
+(iii)
+Credit Exposure
+[1]
+(iv)
+Likely impact of one percentage change in interest rate (100*PV01)
+a) on hedging derivatives
+b) on trading derivatives
+(v)
+Maximum and Minimum of 100*PV01 observed during the year
+a) on hedging
+b) on trading
+1. Banks may adopt the Current Exposure Method on Measurement of Credit Exposure of Derivative Products as per extant RBI instructions.
+3.4 Asset Quality
+3.4.1 Non Performing Assets
+(Amount in ₹ crore)
+Particulars
+Current Year
+Previous Year
+(i) Net NPAs to Net Advances (%)
+(ii) Movement of NPAs (Gross)
+Opening balance
+Additions during the year
+Reductions during the year
+Closing balance
+(iii) Movement of Net NPAs
+Opening balance
+Additions during the year
+Reductions during the year
+Closing balance
+(iv) Movement of provisions for NPAs
+(excluding provisions on standard assets)
+Opening balance
+Provisions made during the year
+Write of / write back of excess provisions
+Closing balance
+3.4.2 Particulars of Accounts Restructured
+(Amount in ₹ crore)
+Sl No.
+Type of Restructuring
+→
+Under CDR Mechanism
+Under SME Debt Restructuring Mechanism
+Others
+Total
+Asset Classification
+→
+Stan dard
+Sub
+Stan dard
+Doubt-
+ful
+Loss
+Total
+Stan dard
+Sub
+Stan dard
+Doubt-
+ful
+Loss
+Total
+Stan dard
+Sub
+Stan dard
+Doubt-
+ful
+Loss
+Total
+Stan dard
+Sub
+Stan dard
+Doubt-
+ful
+Loss
+Total
+Details ↓
+1
+Restru-
+ctured Accounts as on April 1 of the FY (opening figures)*
+No. of borro-
+wers
+Amount outst-
+anding
+Prov- ision there- on
+2
+Fresh restru-
+cturing during the year
+No. of borro- wers
+Amount outst- anding
+Prov- ision there- on
+3
+Upgra-
+dations to restru-
+ctured standard category during the FY
+No. of borro- wers
+Amount outst-anding
+Prov-ision there-on
+4
+Restr-
+uctured standard advances which cease to attract higher provisioning and / or additional risk weight at the end of the FY and hence need not be shown as restru-
+ctured standard advances at the beginning of the next FY
+No. of borro- wers
+Amount outst-anding
+Prov- ision there- on
+5
+Downgr-
+adations of restru-
+ctured accounts during the FY
+No. of borro- wers
+Amount outst- anding
+Prov-ision there-on
+6
+Write-offs of restru-
+ctured accounts during the FY
+No. of borro-wers
+Amount outst-anding
+7
+Restru-
+ctured Accounts as on March 31 of the FY
+(closing figures*)
+No. of borro-wers
+Amount outst-anding
+Prov-ision there-on
+* Excluding the figures of Standard Restructured Advances which do not attract higher provisioning or risk weight (if applicable).
+For the purpose of disclosure in the above Format, the following instructions are required to be followed:
+(i) Advances restructured under CDR Mechanism, SME Debt Restructuring Mechanism and other categories of restructuring should be shown separately.
+(ii) Under each of the above categories, restructured advances under their present asset classification, i.e. standard, sub standard, doubtful and loss should be shown separately.
+(iii) Under the 'standard' restructured accounts, accounts which have objective evidence of no longer having inherent credit weakness, need not be disclosed. For this purpose, an objective criteria for accounts not having inherent credit weakness is discussed below:
+As regards restructured accounts classified as standard advances, in view of the inherent credit weakness in such accounts, banks are required to make a general provision higher than what is required for otherwise standard accounts in the first two years from the date of restructuring. In case of moratorium on payment of interest / principal after restructuring, such advances attract the higher general provision for the period covering moratorium and two years thereafter.
+Further, restructured standard unrated corporate exposures and housing loans are also subjected to an additional risk weight of 25 percentage point with a view to reflect the higher element of inherent risk which may be latent in such entities (cf. paragraph 5.8.3 of
+circular DBOD.No.BP.BC.90/20.06.001/2006-07 dated April 27, 2007
+on 'Prudential Guidelines on Capital Adequacy and Market Discipline - Implementation of the New Capital Adequacy Framework' and paragraph 4 of circular
+DBOD.No.BP.BC.76/21.04.0132/2008-09 dated November 3, 2008
+on 'Prudential Guidelines on Restructuring of Advances by Banks' respectively).
+The aforementioned [(a) and (b)] additional / higher provision and risk weight cease to be applicable after the prescribed period if the performance is as per the rescheduled programme. However, the diminution in the fair value will have to be assessed on each balance sheet date and provision should be made as required.
+Restructured accounts classified as sub standard and doubtful (non performing) advances, when upgraded to standard category also attract a general provision higher than what is required for otherwise standard accounts for the first year from the date of upgradation, in terms of extant guidelines on provisioning requirement of restructured accounts. This higher provision ceases to be applicable after one year from the date of up gradation if the performance of the account is as per the rescheduled programme. However, the diminution in the fair value will have to be assessed on each balance sheet date and provision made as required.
+Once the higher provisions and / or risk weights (if applicable and as prescribed from time to time by RBI) on restructured standard advances revert to the normal level on account of satisfactory performance during the prescribed periods as indicated above, such advances, henceforth, would no longer be required to be disclosed by banks as restructured standard accounts in the "Notes on Accounts" in their Annual Balance Sheets. However, banks should keep an internal record of such restructured accounts till the provisions for diminution in fair value of such accounts are maintained.
+(iv) Disclosures should also indicate the intra category movements both on upgradation of restructured NPA accounts as well as on slippage. These disclosures would show the movement in restructured accounts during the financial year on account of addition, upgradation, downgradation, write off, etc.
+(v) While disclosing the position of restructured accounts, banks must disclose the total amount outstanding in all the accounts / facilities of borrowers whose accounts have been restructured along with the restructured part or facility. This means that even if only one of the facilities / accounts of a borrower has been restructured, the bank should also disclose the entire outstanding amount pertaining to all the facilities / accounts of that particular borrower.
+(vi) Upgradation during the year (Sl No. 3 in the Disclosure Format) means movement of 'restructured NPA' accounts to 'standard asset classification from substandard or doubtful category' as the case may be. These will attract higher provisioning and / or risk weight' during the 'prescribed period' as prescribed from time to time. Movement from one category into another will be indicated by a (-) and a (+) sign respectively in the relevant category.
+(vii) Movement of Restructured standard advances (Sr. No. 4 in the Disclosure Format) out of the category into normal standard advances will be indicated by a (-) sign in the column "Standard".
+(viii) Downgradation from one category to another would be indicated by (-) ve and (+) ve sign in the relevant categories.
+(ix) Upgradation, downgradation and write offs are from their existing asset classifications.
+(x) All disclosures are on the basis of current asset classification and not ‘pre restructuring' asset classification.
+(xi) Additional / fresh sanctions made to an existing restructured account can be shown under Sr. No. 2 ‘Fresh Restructuring during the year’ with a footnote stating that the figures under Sr. No. 2 include Rs. xxx crore of fresh / additional sanction (number of accounts and provision thereto also) to existing restructured accounts. Similarly, reductions in the quantity of restructured accounts can be shown under Sr.No.6 ‘write offs of restructured accounts during the year’ with a footnote stating that that it includes Rs. xxx crore (no. of accounts and provision thereto also) of reduction from existing restructured accounts by way of sale / recovery.
+(xii) Closing balance as on March 31st of a FY should tally arithmetically with opening balance as on April 1st of the FY + Fresh Restructuring during the year including additional / fresh sanctions to existing restructured accounts + Adjustments for movement across asset categories – Restructured standard advances which cease to attract higher risk weight and / or provision – reductions due to write offs / sale/ recovery, etc. However, if due to some unforeseen / any other reason, arithmetical accuracy is not achieved, then the difference should be reconciled and explained by way of a foot note.
+3.4.3 Details of Financial Assets sold to Securitisation / Reconstruction Company for Asset Reconstruction
+A. Details of Sales
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous Year
+No. of accounts
+Aggregate value (net of provisions) of accounts sold to SC/RC
+Aggregate consideration
+Additional consideration realized in respect of accounts transferred in earlier years
+Aggregate gain / loss over net book value
+With a view to incentivising banks to recover appropriate value in respect of their NPAs promptly, banks can reverse the excess provision on sale of NPA if the sale is for a value higher than the net book value (NBV) to its profit and loss account in the year the amounts are received. The quantum of excess provision reversed to the profit and loss account on account of sale of NPAs should be disclosed in the financial statements of the bank under ‘Notes to Accounts’.
+As an incentive for early sale of NPAs, banks can spread over any shortfall, if the sale value is lower than the NBV, over a period of two years. This facility of spreading over the shortfall would however be available for NPAs sold up to March 31, 2016 and will be subject to necessary disclosures in the ‘Notes to Account’.
+B. Details of Book Value of Investments in Security Receipts
+The details of the book value of investments in security receipts may be disclosed as under:
+Particulars
+Current year
+Previous Year
+(i) Backed by NPAs sold by the bank as underlying
+(ii) Backed by NPAs sold by other banks / financial institutions / non banking financial companies as underlying
+Total
+3.4.4 Details of Non Performing Financial Assets Purchased / Sold
+Banks which purchase / sell non performing financial assets from / to other banks shall be required to make the following disclosures in the ‘Notes to Accounts’ to their Balance sheets:
+A. Details of non performing financial assets purchased:
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous Year
+1. (a) No. of accounts purchased during the year
+(b) Aggregate outstanding
+2. (a) Of these, number of accounts restructured during the year
+(b) Aggregate outstanding
+B. Details of non performing financial assets sold:
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous Year
+1. No. of accounts sold
+2. Aggregate outstanding
+3. Aggregate consideration received
+3.4.5 Provisions on Standard Assets
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous Year
+Provisions towards Standard Assets
+Note: Provisions towards Standard Assets need not be netted from gross advances but shown separately as 'Provisions against Standard Assets', under 'Other Liabilities and Provisions - Others' in Schedule No. 5 of the balance sheet.
+3.5. Business Ratios
+Particulars
+Current year
+Previous Year
+Interest Income as a percentage to Working Funds
+$
+Non interest income as a percentage to Working Funds
+$
+Operating Profit as a percentage to Working Funds
+$
+Return on Assets
+@
+Business (deposits plus advances) per employee
+#
+(₹ in crore)
+Profit per employee (₹ in crore)
+$
+Working funds to be reckoned as average of total assets (excluding accumulated losses, if any) as reported to Reserve Bank of India in Form X under Section 27 of the Banking Regulation Act, 1949, during the 12 months of the financial year.
+@
+'Return on Assets would be with reference to average working funds (i.e. total of assets excluding accumulated losses, if any).
+#
+For the purpose of computation of business per employee (deposits plus advances) inter bank deposits may be excluded.
+3.6 Asset Liability Management
+Maturity pattern of certain items of assets and liabilities
+(Amount in ₹ crore)
+Day 1
+2 to 7 days
+8 to 14
+days
+15 to 28
+days
+29 days to 3 month
+Over 3 month & up to 6 month
+Over 6 Month & up to 1 year
+Over 1 year & up to 3 years
+Over 3 years & up to 5 years
+Over 5 years
+Total
+Deposits
+Advances
+Investments
+Borrowings
+Foreign Currency assets
+Foreign Currency liabilities
+3.7 Exposures
+3.7.1 Exposure to Real Estate Sector
+(Amount in ₹ crore)
+Category
+Current year
+Previous Year
+a) Direct exposure
+(i) Residential Mortgages–
+Lending fully secured by mortgages on residential property that is or will be occupied by the borrower or that is rented; (Individual housing loans eligible for inclusion in priority sector advances may be shown separately).
+(ii) Commercial Real Estate–
+Lending secured by mortgages on commercial real estate (office buildings, retail space, multi purpose commercial premises, multi family residential buildings, multi tenanted commercial premises, industrial or warehouse space, hotels, land acquisition, development and construction, etc.). Exposure would also include non fund based (NFB) limits;
+(iii) Investments in Mortgage Backed Securities (MBS) and other securitised exposures–
+a. Residential
+b. Commercial Real Estate b) Indirect Exposure
+Fund based and non-fund based exposures on National Housing Bank (NHB) and Housing Finance Companies (HFCs).
+Total Exposure to Real Estate Sector
+3.7.2 Exposure to Capital Market
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous Year
+direct investment in equity shares, convertible bonds, convertible debentures and units of equity oriented mutual funds the corpus of which is not exclusively invested in corporate debt;
+advances against shares / bonds / debentures or other securities or on clean basis to individuals for investment in shares (including IPOs / ESOPs), convertible bonds, convertible debentures, and units of equity oriented mutual funds;
+advances for any other purposes where shares or convertible bonds or convertible debentures or units of equity oriented mutual funds are taken as primary security;
+advances for any other purposes to the extent secured by the collateral security of shares or convertible bonds or convertible debentures or units of equity oriented mutual funds i.e. where the primary security other than shares / convertible bonds / convertible debentures / units of equity oriented mutual funds ₹ does not fully cover the advances;
+secured and unsecured advances to stockbrokers and guarantees issued on behalf of stockbrokers and market makers;
+loans sanctioned to corporates against the security of shares / bonds / debentures or other securities or on clean basis for meeting promoter’s contribution to the equity of new companies in anticipation of raising resources;
+bridge loans to companies against expected equity flows / issues;
+underwriting commitments taken up by the banks in respect of primary issue of shares or convertible bonds or convertible debentures or units of equity oriented mutual funds;
+financing to stockbrokers for margin trading;
+all exposures to Venture Capital Funds (both registered and unregistered)
+Total Exposure to Capital Market
+For restructuring of dues in respect of listed companies, lenders may be ab initio compensated for their loss / sacrifice (diminution in fair value of account in net present value terms) by way of issuance of equities of the company upfront, subject to the extant regulations and statutory requirements. If such acquisition of equity shares results in exceeding the extant regulatory Capital Market Exposure (CME) limit, the same should be disclosed in the ‘Notes to Accounts’ in the Annual Financial Statements. Similarly, banks should separately disclose details of conversion of debt into equity as part of a strategic debt restructuring which are exempt from CME limits.
+3.7.3 Risk Category wise Country Exposure
+(Amount in ₹ crore)
+Risk Category*
+Exposure (net) as at March… (Current Year)
+Provision held as at March… (Current Year)
+Exposure (net) as at March…  (Previous Year)
+Provision held as at March… (Previous Year)
+Insignificant
+Low
+Moderate
+High
+Very High
+Restricted
+Off-credit
+Total
+*Till such time, as banks move over to internal rating systems, banks may use the seven category classification followed by Export Credit Guarantee Corporation of India Ltd. (ECGC) for the purpose of classification and making provisions for country risk exposures. ECGC shall provide to banks, on request, quarterly updates of their country classifications and shall also inform all banks in case of any sudden major changes in country classification in the interim period.
+3.7.4  Details of Single Borrower Limit (SGL) / Group Borrower Limit (GBL) exceeded by the bank.
+The bank should make appropriate disclosure in the ‘Notes to Account’ to the annual financial statements in respect of the exposures where the bank had exceeded the prudential exposure limits during the year. The sanctioned limit or entire outstanding, whichever is higher, shall be reckoned for arriving at exposure limit and for disclosure purpose.
+3.7.5 Unsecured Advances
+In order to enhance transparency and ensure correct reflection of the unsecured advances in Schedule 9 of the banks’ balance sheet, it is advised as under:
+a) For determining the amount of unsecured advances for reflecting in Schedule 9 of the published balance sheet, the rights, licenses, authorisations, etc., charged to the banks as collateral in respect of projects (including infrastructure projects) financed by them, should not be reckoned as tangible security. Hence such advances shall be reckoned as unsecured.
+b) Banks should also disclose the total amount of advances for which intangible securities such as charge over the rights, licenses, authority, etc. have been taken as also the estimated value of such intangible collateral. The disclosure may be made under a separate head in ‘Notes to Accounts’. This would differentiate such loans from other entirely unsecured loans.
+3.8 Disclosure of Penalties imposed by RBI
+At present, Reserve Bank is empowered to impose penalties on a commercial bank under the provision of Section 46 (4) of the Banking Regulation Act, 1949, for contraventions of any of the provisions of the Act or non compliance with any other requirements of the Banking Regulation Act, 1949; order, rule or condition specified by Reserve Bank under the Act. Consistent with the international best practices in disclosure of penalties imposed by the regulator, placing the details of the levy of penalty on a bank in public domain will be in the interests of the investors and depositors.  Further, strictures or directions on the basis of inspection reports or other adverse findings should also be placed in the public domain. The penalty should also be disclosed in the ‘Notes to Accounts’ to the Balance Sheet.
+4. Disclosure Requirements as per Accounting Standards where RBI has issued guidelines in respect of disclosure items for ‘Notes to Accounts’:
+4.1 Accounting Standard 5 – Net Profit or Loss for the period, prior period items and changes in accounting policies.
+Since the format of the profit and loss account of banks prescribed in Form B under Third Schedule to the Banking Regulation Act, 1949 does not specifically provide for disclosure of the impact of prior period items on the current year’s profit and loss, such disclosures, wherever warranted, may be made in the ‘Notes to Accounts’ to the balance sheet of banks.
+4.2 Accounting Standard 9 – Revenue Recognition
+This Standard requires that in addition to the disclosures required by Accounting Standard 1 on ‘Disclosure of Accounting Policies’ (AS 1), an enterprise should also disclose the circumstances in which revenue recognition has been postponed pending the resolution of significant uncertainties.
+4.3 Accounting Standard 15 – Employee Benefits
+Banks may follow the disclosure requirements prescribed under AS 15 (revised) on ‘Employees Benefits’ issued by ICAI.
+4.4 Accounting Standard 17 – Segment Reporting
+While complying with the above Accounting Standard, banks are required to adopt the following:
+The business segment should ordinarily be considered as the primary reporting format and geographical segment would be the secondary reporting format.
+The business segments will be ‘Treasury’, ‘Corporate / Wholesale Banking’, ‘Retail Banking’ and ‘Other banking operations’.
+‘Domestic’ and ‘International’ segments will be the geographic segments for disclosure.
+Banks may adopt their own methods, on a reasonable and consistent basis, for allocation of expenditure among the segments.
+Accounting Standard 17 - Format for disclosure under segment reporting
+Part A: Business segments
+(Amounts in ₹ crore)
+Business Segments g
+Treasury
+Corporate / Wholesale Banking
+Retail Banking
+Other Banking Operations
+Total
+Particulars i
+Current Year
+Previous Year
+Current Year
+Previous Year
+Current Year
+Previous Year
+Current Year
+Previous Year
+Current Year
+Previous Year
+Revenue
+Result
+Unallocated expenses
+Operating profit
+Income taxes
+Extraordinary profit / loss
+Net profit
+Other information:
+Segment assets
+Unallocated assets
+Total assets
+Segment liabilities
+Unallocated liabilities
+Total liabilities
+Note: No disclosure need be made in the shaded portion
+Part B: Geographic segments
+(Amount in ₹ crore)
+Domestic
+International
+Total
+Current Year
+Previous Year
+Current Year
+Previous Year
+Current Year
+Previous Year
+Revenue
+Assets
+4.5 Accounting Standard 18 – Related Party Disclosures
+This Standard is applied in reporting related party relationships and transactions between a reporting enterprise and its related parties. The illustrative disclosure format recommended by the ICAI as a part of General Clarification (GC) 2/2002 has been suitably modified to suit banks. The illustrative format of disclosure by banks for the AS 18 is furnished below:
+Accounting Standard 18 - Format for Related Party Disclosures
+The manner of disclosures required by paragraphs 23 and 26 of AS 18 is illustrated below. It may be noted that the format is merely illustrative and is not exhaustive.
+(Amount in ₹ crore)
+Items / Related Party
+Parent
+(as per ownership or control)
+Subsidiaries
+Associates/
+Joint ventures
+Key
+Management
+Personnel @
+Relatives of Key Management Personnel
+Total
+Borrowings#
+Deposit#
+Placement of deposits#
+Advances#
+Investments#
+Non funded commitments#
+Leasing / HP arrangements availed#
+Leasing / HP arrangements provided#
+Purchase of fixed assets
+Sale of fixed assets
+Interest paid
+Interest received
+Rendering of services*
+Receiving of services*
+Management contracts*
+Note: Where there is only one entity in any category of related party, banks need not disclose any details pertaining to that related party other than the relationship with that related party
+@ Whole time directors of the Board and CEOs of the branches of foreign banks in India.
+# The outstanding at the year end and the maximum during the year are to be disclosed
+* Contract services etc. and not services like remittance facilities, locker facilities etc.
+Illustrative disclosure of names of the related parties and their relationship with the bank
+1.
+Parent
+A Ltd
+2.
+Subsidiaries
+B Ltd and C Ltd
+3.
+Associates
+P Ltd, Q Ltd and R Ltd
+4.
+Jointly controlled entity
+L Ltd
+5.
+Key Management Personnel
+Mr.M and Mr.N
+6.
+Relatives of Key Management Personnel
+Mr.D and Mr.E
+4.6 Accounting Standard 21 – Consolidated Financial Statements (CFS)
+As regards disclosures in the ‘Notes to Accounts’ to the Consolidated Financial Statements, banks may be guided by general clarifications issued by Institute of Chartered Accountants of India from time to time.
+A parent company, presenting the CFS, should consolidate the financial statements of all subsidiaries - domestic as well as foreign, except those specifically permitted to be excluded under the AS 21. The reasons for not consolidating a subsidiary should be disclosed in the CFS. The responsibility of determining whether a particular entity should be included or not for consolidation would be that of the Management of the parent entity. In case, its Statutory Auditors are of the opinion that an entity, which ought to have been consolidated, has been omitted, they should incorporate their comments in this regard in the ‘Auditors Report’.
+4.7 Accounting Standard 22 – Accounting for Taxes on Income
+This Standard is applied in accounting for taxes on income. This includes the determination of the amount of the expense or saving related to taxes on income in respect of an accounting period and the disclosure of such an amount in the financial statements. Adoption of AS 22 may give rise to creation of either a deferred tax asset (DTA) or a deferred tax liability (DTL) in the books of accounts of banks and creation of DTA or DTL would give rise to certain issues which have a bearing on the computation of capital adequacy ratio and banks’ ability to declare dividends. In this regard it is clarified as under:
+(a) DTL created by debit to opening balance of Revenue Reserves on the first day of application of the Accounting Standards 22 or to Profit and Loss account for the current year should be included under item (vi) ‘others (including provisions)’ of Schedule 5 - ‘Other Liabilities and Provisions’ in the balance sheet. The balance in DTL account will not be eligible for inclusion in Tier I or Tier II capital for capital adequacy purpose as it is not an eligible item of capital.
+(b) DTA created by credit to opening balance of Revenue Reserves on the first day of application of Accounting Standards 22 or to Profit and Loss account for the current year should be included under item (vi) ‘others’ of Schedule 11 ‘Other Assets’ in the balance sheet.
+(c) The DTA computed as under should be deducted from Tier I capital:
+DTA associated with accumulated losses; and
+The DTA (excluding DTA associated with accumulated losses), net of DTL. Where DTL is in excess of the DTA (excluding DTA associated with accumulated losses), the excess shall neither be adjusted against item (i) nor added to Tier I capital.
+Regarding creation of DTL on Special Reserve created by banks under Section 36(1)(viii) of the Income Tax Act, 1961 (hereinafter referred to as Special Reserve) banks are advised that, as a matter of prudence, DTL should be created on such Special Reserve.
+4.8 Accounting Standard 23 – Accounting for Investments in Associates in Consolidated Financial Statements
+This Accounting Standard sets out principles and procedures for recognising, in the consolidated financial statements, the effects of the investments in associates on the financial position and operating results of a group. A bank may acquire more than 20% of voting power in the borrower entity in satisfaction of its advances and it may be able to demonstrate that it does not have the power to exercise significant influence since the rights exercised by it are protective in nature and not participative. In such a circumstance, such investment may not be treated as investment in associate under this Accounting Standard. Hence the test should not be merely the proportion of investment but the intention to acquire the power to exercise significant influence.
+4.9 Accounting Standard 24 – Discontinuing Operations
+Merger / closure of branches of banks by transferring the assets / liabilities to the other branches of the same bank may not be deemed as a discontinuing operation and hence this Accounting Standard will not be applicable to merger / closure of branches of banks by transferring the assets / liabilities to the other branches of the same bank.
+Disclosures would be required under the Standard only when:
+discontinuing of the operation has resulted in shedding of liability and realisation of the assets by the bank or
+decision to discontinue an operation which will have the above effect has been finalised by the bank and
+the discontinued operation is substantial in its entirety.
+4.10 Accounting Standard 25 – Interim Financial Reporting
+The half yearly review prescribed by RBI for public sector banks, in consultation with SEBI, vide circular DBS. ARS. No. BC 13/08.91.001/2000-01 dated May 17, 2001 is extended to all banks (both listed and unlisted) with a view to ensure uniformity in disclosures. Banks may also refer to circulars DBS.ARS.No.BC.4/08.91.001/2001-02 dated October 25, 2001 and DBS.ARS.No.BC.17/08.91.001/2002-03 dated June 5, 2003 and adopt the format prescribed by the RBI for the purpose.
+4.11 Other Accounting Standards
+Banks are required to comply with the disclosure norms stipulated under the various Accounting Standards issued by the Institute of Chartered Accountants of India.
+5. Additional Disclosures
+5.1 Provisions and Contingencies
+To facilitate easy reading of the financial statements and to make the information on all Provisions and Contingencies available at one place, banks are required to disclose in the ‘Notes to Accounts’ the following information:
+(Amount in ₹ crore)
+Break up of ‘Provisions and Contingencies’ shown under the head Expenditure in Profit and Loss Account
+Current Year
+Previous Year
+Provisions for depreciation on Investment
+Provision towards NPA
+Provision made towards Income tax
+Other Provision and Contingencies (with details)
+5.2 Floating Provisions
+Banks should make comprehensive disclosures on floating provisions in the ‘Notes to Accounts’ to the balance sheet as follows:
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+(a) Opening balance in the floating provisions account
+(b) The quantum of floating provisions made in the accounting year
+(c) Amount of draw down made during the accounting year
+(d) Closing balance in the floating provisions account
+Note: The purpose of draw down made during the accounting year may be mentioned
+5.3 Draw Down from Reserves
+Suitable disclosures are to be made regarding any draw down of reserves in the ‘Notes to Accounts’ to the Balance Sheet.
+5.4 Disclosure of Complaints
+Banks are advised to disclose the following brief details along with their financial results.
+A. Customer Complaints
+Current year
+Previous year
+(a)
+No. of complaints pending at the beginning of the year
+(b)
+No. of complaints received during the year
+(c)
+No. of complaints redressed during the year
+(d)
+No. of complaints pending at the end of the year
+B. Awards passed by the Banking Ombudsman
+Current year
+Previous year
+(a)
+No. of unimplemented Awards at the beginning of the year
+(b)
+No. of Awards passed by the Banking Ombudsmen during the year
+(c)
+No. of Awards implemented during the year
+(d)
+No. of unimplemented Awards at the end of the year
+It is clarified that banks should include all customer complaints pertaining to Automated Teller Machine (ATM) cards issued by them in the disclosure format specified above. Where the card issuing bank can specifically attribute ATM related customer complaints to the acquiring bank, the same may be clarified by way of a note after including the same in the total number of complaints received.
+5.5 Disclosure of Letters of Comfort (LoCs) issued by banks
+Banks should disclose the full particulars of all the Letters of Comfort (LoCs) issued by them during the year, including their assessed financial impact, as also their assessed cumulative financial obligations under the LoCs issued by them in the past and outstanding, in its published financial statements, as part of the ‘Notes to Accounts”.
+5.6  Provisioning Coverage Ratio (PCR)
+PCR (ratio of provisioning to gross non performing assets) as at close of business for the current year and previous year should be disclosed in the ‘Notes to Accounts’ to the Balance Sheet.
+5.7 Insurance Business
+The details of fees / brokerage earned in respect of insurance broking, agency and bancassurance business undertaken by them should be disclosed in the ‘Notes to Accounts’ to their Balance Sheet.  Disclosures should be made for both the current year and previous year.
+5.8 Concentration of Deposits, Advances, Exposures and NPAs
+5.8.1 Concentration of Deposits
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Total Deposits of twenty largest depositors
+Percentage of Deposits of twenty largest depositors to Total Deposits of the bank
+5.8.2 Concentration of Advances*
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Total Advances to twenty largest borrowers
+Percentage of Advances to twenty largest borrowers to Total Advances of the bank
+*Advances should be computed as per definition of Credit Exposure including derivatives furnished in our Master Circular on Exposure Norms.
+5.8.3 Concentration of Exposures**
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Total Exposure to twenty largest borrowers / customers
+Percentage of Exposures to twenty largest borrowers / customers to Total Exposure of the bank on borrowers / customers
+**Exposures should be computed based on credit and investment exposure as prescribed in our Master Circular on Exposure Norms.
+5.8.4 Concentration of NPAs
+(Amount in ₹ crore)
+Current year
+Previous year
+Total Exposure to top four NPA accounts
+5.9  Sector wise Advances
+(Amounts in ₹ crore)
+Sr. No.
+Sector*
+Current year
+Previous year
+Outstanding Total Advances
+Gross NPAs
+Percentage of Gross NPAs to Total Advances in that sector
+Outstanding Total Advances
+Gross NPAs
+Percentage of Gross NPAs to Total Advances in that sector
+A
+Priority Sector
+1
+Agriculture and allied activities
+2
+Advances to industries sector eligible as priority sector lending
+3
+Services
+4
+Personal loans
+Sub total (A)
+B
+Non Priority Sector
+1
+Agriculture and allied activities
+2
+Industry
+3
+Services
+4
+Personal loans
+Sub-total (B)
+Total (A+B)
+*Banks may also disclose in the format above, sub sectors where the outstanding advances exceeds 10 percent of the outstanding total advances to that sector. For instance, if a bank’s outstanding advances to the mining industry exceed 10 percent of the outstanding total advances to ‘Industry’ sector it should disclose details of its outstanding advances to mining separately in the format above under the ‘Industry’ sector.
+5.10 Movement of NPAs
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Gross NPAs
+1
+as on April 1 of particular year (Opening Balance)
+Additions (Fresh NPAs) during the year
+Sub total (A)
+Less :-
+(i) Upgradations
+(ii) Recoveries (excluding recoveries made from upgraded accounts)
+(iii) Technical / Prudential
+2
+Write offs
+(iv) Write offs other than those under (iii) above
+Sub-total (B)
+Gross NPAs as on 31st March of following year (closing balance) (A-B)
+Further, banks should disclose the stock of technical write offs and the recoveries made thereon as per the format below:
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Opening balance of Technical / Prudential written off accounts as at April 1
+Add : Technical / Prudential write offs during the year
+Sub total (A)
+Less : Recoveries made from previously technical / prudential written off accounts during the year (B)
+Closing balance as at March 31 (A-B)
+5.11 Overseas Assets, NPAs and Revenue
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Total Assets
+Total NPAs
+Total Revenue
+5.12 Off Balance Sheet SPVs Sponsored
+(which are required to be consolidated as per accounting norms)
+Name of the SPV sponsored
+Domestic
+Overseas
+5.13 Unamortised Pension and Gratuity Liabilities
+Appropriate disclosures of the accounting policy followed in regard to amortization of pension and gratuity expenditure may be made in ‘Notes to Accounts’ to the financial statements.
+5.14 Disclosures on Remuneration
+In terms of ‘Guidelines on Compensations of Whole Time Directors / Chief Executive Officers / Risk Takers and Control Function Staff etc.’, private sector banks and foreign banks (to the extent applicable), are advised to disclose the following information in their ‘Notes to Accounts’.
+Qualitative disclosures
+(a)
+Information relating to the composition and mandate of the Remuneration Committee.
+(b)
+Information relating to the design and structure of remuneration processes and the key features and objectives of remuneration policy.
+(c)
+Description of the ways in which current and future risks are taken into account in the remuneration processes. It should include the nature and type of the key measures used to take account of these risks.
+(d)
+Description of the ways in which the bank seeks to link performance during a performance measurement period with levels of remuneration.
+(e)
+A discussion of the bank’s policy on deferral and vesting of variable remuneration and a discussion of the bank’s policy and criteria for adjusting deferred remuneration before vesting and after vesting.
+(f)
+Description of the different forms of variable remuneration (i.e. cash, shares, ESOPs and other forms) that the bank utilizes and the rationale for using these different forms.
+Current Year
+Previous Year
+Quantitative disclosures
+(The quantitative disclosures should only cover Whole Time Directors / Chief Executive Officer/ Other Risk Takers)
+(g)
+Number of meetings held by the Remuneration Committee during the financial year and remuneration paid to its members.
+(h)
+(i) Number of employees having received a variable remuneration award during the financial year.
+(ii) Number and total amount of sign on awards made during the financial year.
+(iii) Details of guaranteed bonus, if any, paid as joining / sign on bonus
+(iv) Details of severance pay, in addition to accrued benefits, if any.
+(i)
+(i) Total amount of outstanding deferred remuneration, split into cash, shares and share linked instruments and other forms.
+(ii) Total amount of deferred remuneration paid out in the financial year.
+(j)
+Breakdown of amount of remuneration awards for the financial year to show fixed and variable, deferred and non deferred.
+(k)
+(i) Total amount of outstanding deferred remuneration and retained remuneration exposed to ex post explicit and / or implicit adjustments.
+(ii) Total amount of reductions during the financial year due to ex post explicit adjustments.
+(iii) Total amount of reductions during the financial year due to ex post implicit adjustments.
+In terms of the Guidelines on Compensation of Non-executive Directors (Except Part-time Chairman) of Private Sector Banks, private sector banks are also required to make disclosure on remuneration paid to the directors on an annual basis at the minimum, in their Annual Financial Statements.
+5.15 Disclosures relating to Securitisation
+The ‘Notes to Accounts’ of the originating banks should indicate the outstanding amount of securitised assets as per books of the SPVs sponsored by the bank and total amount of exposures retained by the bank as on the date of balance sheet to comply with the Minimum Retention Requirements (MRR). These figures should be based on the information duly certified by the SPV's auditors obtained by the originating bank from the SPV. These disclosures should be made in the format given below.
+(Amount in ₹ crore / No.)
+Sr. No.
+Particulars
+Current year
+Previous Year
+1.
+No of SPVs sponsored by the bank for securitisation transactions*
+2.
+Total amount of securitised assets as per books of the SPVs sponsored by the bank
+3.
+Total amount of exposures retained by the bank to comply with MRR as on the date of balance sheet
+a)
+Off balance sheet exposures
+First loss
+Others
+b)
+On-balance sheet exposures
+First loss
+Others
+4
+Amount of exposures to securitisation transactions other than MRR
+a)
+Off balance sheet exposures
+i)
+Exposure to own securitizations
+First loss
+Loss
+ii)
+Exposure to third party securitisations
+First loss
+Others
+b)
+On balance sheet exposures
+i)
+Exposure to own securitisations
+First loss
+Others
+ii)
+Exposure to third party securitisations
+First loss
+Others
+*Only the SPVs relating to outstanding securitisation transactions may be reported here
+5.16 Credit Default Swaps
+Banks using a proprietary model for pricing CDS, shall disclose both the proprietary model price and the standard model price, in terms of extant guidelines, in the ‘Notes to the Accounts’ and should also include an explanation of the rationale behind using a particular model over another.
+5.17 Intra Group Exposures
+With the developments of financial markets in India, banks have increasingly expanded their presence in permitted financial activities through entities that are owned by them fully or partly. As a result, banks' exposure to the group entities has increased and may rise further going forward. In order to ensure transparency in their dealings with group entities, banks should make the following disclosures for the current year with comparatives for the previous year:
+Total amount of intra group exposures
+Total amount of top 20 intra group exposures
+Percentage of intra group exposures to total exposure of the bank on borrowers / customers
+Details of breach of limits on intra group exposures and regulatory action thereon, if any.
+5.18 Transfers to Depositor Education and Awareness Fund (DEAF)
+Unclaimed liabilities where amount due has been transferred to DEAF may be reflected as ‘Contingent Liability - Others, items for which the bank is contingently liable’ under Schedule 12 of the annual financial statements. Banks are also advised to disclose the amounts transferred to DEAF under ‘Notes to Accounts’ as per the format given below.
+(Amount in ₹ crore)
+Particulars
+Current year
+Previous year
+Opening balance of amounts transferred to DEAF
+Add : Amounts transferred to DEAF during the year
+Less : Amounts reimbursed by DEAF towards claims
+Closing balance of amounts transferred to DEAF
+5.19 Unhedged Foreign Currency Exposure
+Banks should disclose their policies to manage currency induced credit risk as a part of financial statements certified by statutory auditors. In addition, banks should also disclose the incremental provisioning and capital held by them towards this risk.
+6. Liquidity Coverage Ratio (LCR)
+6.1 Disclosure format
+Banks are required to disclose information on their Liquidity Coverage Ratio (LCR) in their annual financial statements under ‘Notes to Accounts’, starting with the financial year ending March 31, 2015, for which the LCR related information needs to be furnished only for the quarter ending March 31, 2015. However, in subsequent annual financial statements, the disclosure should cover all the four quarters of the relevant financial year. The disclosure format is given below.
+LCR Disclosure Template
+(All Amounts in ₹ crore)
+Current Year
+Previous Year
+Total Unweighted
+3
+Value (average)
+Total Weighted
+4
+Value (average)
+Total Unweighted
+3
+Value (average)
+Total Weighted
+4
+Value (average)
+High Quality Liquid Assets
+1
+Total High Quality Liquid Assets (HQLA)
+Cash Outflows
+2
+Retail deposits and deposits from small business customers, of which:
+(i)
+Stable deposits
+(ii)
+Less stable deposits
+3
+Unsecured wholesale funding, of which:
+(i)
+Operational deposits (all counterparties)
+(ii)
+Non operational deposits (all counterparties)
+(iii)
+Unsecured debt
+4
+Secured wholesale funding
+5
+Additional requirements, of which
+(i)
+Outflows related to derivative exposures and other collateral requirements
+(ii)
+Outflows related to loss of funding on debt products
+(iii)
+Credit and liquidity facilities
+6
+Other contractual funding obligations
+7
+Other contingent funding obligations
+8
+Total Cash Outflows
+Cash Inflows
+9
+Secured lending (e.g. reverse repos)
+10
+Inflows from fully performing exposures
+11
+Other cash inflows
+12
+Total Cash Inflows
+Total Adjusted
+5
+Value
+Total Adjusted Value
+21
+Total HQLA
+22
+Total Net Cash Outflows
+23
+Liquidity Coverage Ratio (%)
+Note – Data to be entered only in blank and light grey cells
+Data must be presented as simple averages of monthly observations over the previous quarter (i.e. the average is calculated over a period of 90 days). However, with effect from the financial year ending March 31, 2017, the simple average should be calculated on daily observations. For most data items, both unweighted and weighted values of the LCR components must be disclosed as given in the disclosure format. The unweighted value of inflows and outflows is to be calculated as the outstanding balances of various categories or types of liabilities, off balance sheet items or contractual receivables. The weighted value of HQLA is to be calculated as the value after haircuts are applied. The weighted value for inflows and outflows is to be calculated as the value after the inflow and outflow rates are applied. Total HQLA and total net cash outflows must be disclosed as the adjusted value, where the adjusted value of HQLA is the value of total HQLA after the application of both haircuts and any applicable caps on Level 2B and Level 2 assets as indicated in this Framework. The adjusted value of net cash outflows is to be calculated after the cap on inflows is applied, if applicable.
+6.2 Qualitative Disclosure around LCR
+In addition to the disclosures required by the format given above, banks should provide sufficient qualitative discussion (in their annual financial statements under ‘Notes to Accounts’) around the LCR to facilitate understanding of the results and data provided. For example, where significant to the LCR, banks could discuss:
+the main drivers of their LCR results and the evolution of the contribution of inputs to the LCR’s calculation over time;
+intra period changes as well as changes over time;
+the composition of HQLA;
+concentration of funding sources;
+derivative exposures and potential collateral calls;
+currency mismatch in the LCR;
+a description of the degree of centralisation of liquidity management and interaction between the group’s units; and
+other inflows and outflows in the LCR calculation that are not captured in the LCR common template but which the institution considers to be relevant for its liquidity profile.
+Annex
+List of Circulars consolidated by the Master Circular
+No
+Circular No.
+Date
+Relevant Para No. of the circular
+Subject
+Para No. of the Master Circular
+1
+DBOD.No.BP.BC.91/C.686-91
+Feb 28, 1991
+All
+Accounting Policies - Need for Disclosure in the Financial Statements of Banks
+2.1 and 2.3
+2
+DBOD.No.BP.BC.59/21.04.048/97
+May 21, 1997
+1,2,3
+Balance Sheets of Banks – Disclosures
+3.1(i)(iv)(v);3.2.(1):3.4.1(i)
+3
+DBOD.No.BP.BC.9 /21.04.018/98
+Jan 27, 1998
+2
+Balance Sheet of Banks – Disclosures
+3.1(ii)(iii)
+3.5(i) to (vi)
+4
+DBOD.No.BP.BC.32 /21.04.018/98
+Apr 29, 1998
+(ii)(a)(b)
+Capital Adequacy-Disclosures in Balance Sheets
+3.5(i) to (vi)
+5
+DBOD.No.BP.BC.9 /21.04.018/99
+Feb 10, 1999
+3,4
+Balance Sheet of Banks - Disclosure of Information
+3.4.1(ii)(iii); 3.6
+6
+MPD.BC.187 /07.01. 279 /1999-2000
+July 7, 1999
+1,Annex 3 (v)
+Forward Rate Agreements / Interest Rate Swaps
+3.3.1
+7
+DBOD.No.BP.BC. 164/21.04.048/ 2000
+Apr 24, 2000
+3
+Prudential Norms on Capital Adequacy, Income Recognition, Asset Classification and Provisioning etc.
+3.4.5
+8
+DBOD.BP.BC.27 /21.04.137/2001
+Sep 22, 2001
+6
+Bank Financing for Margin Trading
+3.7.2 (ix)
+9
+DBOD.BP.BC.38 /21.04.018/2001-2002
+Oct 27, 2001
+2(i)(ii)
+Monetary and Credit Policy Measures - Mid-Term Review for the year 2001-2002 - Balance Sheet Disclosures
+3.2(2); 3.4.1(iv)
+10
+DBOD.No.BP.BC. 84 /21.04.018/ 2001-02
+Mar 27, 2002
+2
+Balance Sheet of Banks – Disclosure of Information
+3.2(2)
+11
+DBOD.BP.BC.71/21.04.103/2002-03
+Feb 19, 2003
+Annex 24 (a) (b)
+Guidelines on Country Risk Management by banks in India
+3.7.3
+12
+DBOD.No.BP.BC.72 /21.04.018/ 2001-02
+Feb 25, 2003
+16
+Guidelines for Consolidated Accounting and Other Quantitative Methods to Facilitate Consolidated Supervision
+4.6
+13
+DBOD.No.BP.BC.89 /21.04.018/ 2002-03
+Mar 29, 2003
+4.3.2, 5.1, 6.3.1, 7.3.2, 8.3.1
+Guidelines on Compliance with Accounting Standards (AS) by Banks
+4.1 to 4.5; 4.8, 4.10
+14
+DBOD.No.BP.BC.96 /21.04.048/ 2002-03
+Apr 23, 2003
+1, Annex 6
+Guidelines on Sale of Financial Assets to SC/RC (Created under the SARFAESI Act, 2002) and Related Issues
+3.4.3
+15
+IDMC.MSRD.4801/06.01.03/200203
+Jun 3, 2003
+4(x)
+Guidelines on Exchange Traded Interest Rate Derivatives
+3.3.2
+16
+DBOD.BP.BC.44 /21.04.141/ 2003-04
+Nov 12, 2003
+Appendix 11 (4)
+Prudential Guidelines on Banks’ Investment in Non-SLR Securities
+3.2.2
+17
+DBOD.No.BP.BC.82 /21.04.018/ 2003-04
+Apr 30, 2004
+4.3.2
+Guidelines on compliance with Accounting Standards (AS) by banks
+4.9
+18
+DBOD.No.BP.BC. 100 /21.03.054/2003-04
+Jun 21,
+2004
+2(v)
+Annual Policy Statement for the year 2004-05 - Prudential Credit Exposure Limits by Banks
+3.7.4
+19
+DBOD.BP.BC.49 /21.04.018/ 2004 -2005
+Oct 19, 2004
+5
+Enhancement of Transparency on Bank’s Affairs through Disclosure
+3.8
+20
+DBOD.No.BP.BC.72 /21.04.018/ 2004-05
+Mar 3, 2005
+Annex
+Disclosures on risk exposure in derivatives
+3.3.3
+21
+DBS.CO.PP.BC.21/11.01.005/ 2004-05
+Jun 29, 2005
+2. (a) (b)
+Exposure to Real Estate Sector
+3.7.1
+22
+DBOD.NO.BP.BC. 16/21.04.048/2005-06
+Jul 13 2005
+7
+Guidelines on purchase/sale of Non Performing Assets
+3.4.4
+23
+DBOD.BP.BC.86/ 21.04.018/2005-06
+May 29, 2006
+3
+Disclosure in Balance Sheets – Provisions and Contingencies
+5.1
+24
+DBOD.NO.BP. BC.89/21.04.048/ 2005-06
+Jun 22, 2006
+2.(iv)
+Prudential norms on creation and utilisation of floating provisions
+5.2
+25
+DBOD.BP.BC.31/21.04.018/2006-07
+Sep 20, 2006
+3.(iii)
+Section 17 (2) of Banking Regulation Act, 1949 – Appropriation from Reserve Fund
+5.3
+26
+DBOD.No.Dir.BC.47/13.07.05/ 2006-2007
+Dec 15, 2006
+2.1
+Banks’ exposure to Capital Markets – Rationalization of Norms
+3.7.2
+27
+DBOD.No.Leg BC.60/09.07.005/ 2006-07
+Feb 22, 2007
+3.
+Analysis and Disclosure of complaints - Disclosure of complaints / unimplemented awards of Banking Ombudsmen along with Financial Results
+5.4
+28
+DBOD.No.BP.BC. 81 / 21.04.018/ 2006-07
+Apr18, 2007
+4
+Guidelines - Accounting Standard 17(Segment Reporting) – Enhancement of disclosures
+4.4
+29
+DBOD.No.BP.BC. 90/20.06.001/ 2006-07
+Apr 27, 2007
+10
+"Implementation of the New Capital Adequacy Framework"
+30
+DBOD No. BP.BC. 65/21.04.009/ 2007-08
+Mar 4, 2008
+2.(iv)
+Prudential Norms for Issuance of Letters of Comfort by Banks regarding their Subsidiaries
+5.5
+31
+DBOD.No.BP.BC.37/ 21.04.132/2008-09
+Aug 27, 2008
+Annex 3
+Prudential Guidelines on Restructuring of Advances by Banks
+3.4.2
+32
+DBOD.No.BP.BC.. 124/21.04.132/2008-09
+Apr 17, 2009
+Annex
+Prudential guidelines on restructuring of advances
+3.4.2
+33
+DBOD.No.BP.BC. 125 /21.04.048/ 2008-09
+Apr 17, 2009
+2
+Prudential Norms on Unsecured Advances
+3.7.5
+34
+DBOD.No.BP.BC. 64/21.04.048/ 2009-10
+Dec 1, 2009
+5
+Second Quarter Review of Monetary Policy for the Year 2009-10 –Provisioning Coverage for Advances
+5.6
+35
+DBOD.No.FSD.BC.67 /24.01.001/2009-10
+Jan 7, 2010
+2
+Disclosure in Balance Sheet – Bancassurance Business
+5.7
+36
+DBOD.BP.BC.79/ 21.04.018/2009-10
+Mar 15, 2010
+Annex
+Additional Disclosures by banks in Notes to Accounts
+5.8, 5.10, 5.11, 5.12
+37
+IDMD/4135/11.08.43/ 2009-10
+Mar 23, 2010
+9
+Guidelines for Accounting of Repo / Reverse Repo Transactions
+3.2.1
+38
+DBOD.No.BP.BC.34/21.04.141/2010-11
+Aug 6, 2010
+3
+Sale of Investments held under Held to Maturity (HTM) Category
+3.2.3
+39
+DBOD.No.BP.BC.56/21.04.141/2010-11
+Nov 1, 2010
+1
+Sale of Investments held under Held to Maturity (HTM) Category
+3.2.3
+40
+DBOD.No.BP.BC.80/21.04.018/2010-11
+Feb 9, 2011
+4
+Re-opening of Pension Option to Employees of Public Sector Banks and
+Enhancement in Gratuity Limits - Prudential Regulatory Treatment
+5.13
+41
+DBOD.No.BC.72/29.67.001/2011-12
+Jan 13, 2012
+B.3.2
+Guidelines on Compensation of Whole Time Directors / Chief Executive
+Officers / Risk takers and Control function staff, etc.
+5.14
+42
+DBOD.No.BP.BC-103/21.04.177/2011-12
+May 7, 2012
+1.6.2
+Revisions to the Guidelines on Securitisation Transactions
+5.15
+43
+IDMD.PCD. No. 5053 /14.03.04/2010-11
+May 23, 2011
+2.14.3
+Guidelines on Credit Default Swaps for Corporate Bonds
+5.16
+44
+DBOD.BP.BC.No.80/21.04.132/2012-13
+Jan 31, 2013
+Annex
+Disclosure Requirements on Advances Restructured by Banks and Financial Institutions
+3.4.2
+45
+DBOD.BP.BC.No.49/21.04.018/2013-14
+Sep 3, 2013
+2
+Disclosure of Customer Complaints and Unreconciled Balances on Account of ATM Transactions
+5.4
+46
+DBOD.No.BP.BC.77/21.04.018/2013-14
+Dec 20, 2013
+4(a)
+Deferred Tax Liability on Special Reserve created under Section 36(1) (viii) of the Income Tax Act, 1961
+4.7
+47
+DBOD.No.BP.BC.85/21.06.200/2013-14
+Jan 15, 2014
+8
+Capital and Provisioning Requirements for Exposures to entities with Unhedged Foreign Currency Exposure
+5.19
+48
+DBOD.No.BP.BC.96/21.06.102/2013-14
+Feb 11, 2014
+Annex, para 8
+Guidelines on Management of Intra-Group Transactions and Exposures
+5.17
+49
+DBOD.BP.BC.No.97/21.04.132/2013-14
+Feb 26, 2014
+5.6
+Framework for Revitalising Distressed Assets in the Economy - Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP)
+3.7.2
+50
+DBOD.BP.BC.No.98/21.04.132/2013-14
+Feb 26, 2014
+3.4,
+8.3
+Framework for Revitalising Distressed Assets in the Economy -Refinancing of Project Loans, Sale of NPA and Other Regulatory Measures
+3.4.3 (A), 5.10
+51
+Mailbox clarification
+Mar 21, 2014
+-
+Sale of Investments held under Held to Maturity (HTM) Category
+3.2.3 (d)
+52
+DBOD.No.DEAF.Cell.BC.114/ 30.01.002/2013-14
+May 27, 2014
+8
+The Depositor Education and Awareness Fund Scheme, 2014 -Section 26A of Banking Regulation Act, 1949 - Operational Guidelines
+5.18
+53
+DBOD.BP.BC.No.120/21.04.098/2013-14
+Jun 9,2014
+Annex, para 9
+Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR),
+Liquidity Risk Monitoring Tools and LCR Disclosure Standards
+6
+54
+DBOD. No.BP.BC.121/21.04.018/2013-14
+Jun 18, 2014
+Para 2, Annex
+Disclosure of sector-wise advances
+5.9
+55
+DBOD.No.BP.BC.42/21.04.141/2014-15
+Oct 7, 2014
+Para 4
+Fourth Bi-monthly Monetary Policy Statement, 2014-15 - SLR Holdings under Held to Maturity Category
+3.2.3(d)
+56
+Mail Box Clarification
+Dec 15, 2014
+-
+SLR Holdings under Held to Maturity Category
+3.2.3(d)
+57
+DBR.No.FSD.BC.62/24.01.018/2014-15
+Jan 15,2015
+Annex, para 6 (b)
+Entry of Banks into Insurance Business
+5.7
+58
+FMRD.DIRD.03/14.03.002/2014-15
+Feb 3, 2015
+Para 13
+Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015
+3.2.1
+59
+DBR.No.BP.BC.75/21.04.048/2014-15
+Mar 11, 2015
+Para 3
+Guidelines on Sale of Financial Assets to Securitisation Company (SC) / Reconstruction Company (RC) and Related Issues
+3.4.3 (A)
+60
+DBR.No.BP.BC.78/21.04.048/2014-15
+Mar 20, 2015
+Para 2
+Guidelines on Sale of Financial Assets to Securitisation Company / Reconstruction Company and Related Issues
+3.4.3 (B)
+61
+DBR.No.BP.BC.94/21.04.048/2014-15
+May 21, 2015
+-
+Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances - Spread over of Shortfall
+3.4.3 (A)
+62
+DBR.No.BC.97/29.67.001/2014-15
+Jun 1, 2015
+Para 4
+Guidelines on Compensation of Non-executive Directors of Private Sector Banks
+5.14
+63
+DBR.BP.BC.No.101/21.04.132/2014-15
+Jun 8, 2015
+Para 7
+Strategic Debt Restructuring Scheme
+3.7.2
+1
+Gross NPAs as per item 2 of Annex to
+DBOD Circular DBOD.BP.BC.No.46/21.04.048/2009-10 dated September 24, 2009
+which specified a uniform method to compute Gross Advances, Net Advances, Gross NPAs and Net NPAs.
+2
+Technical or prudential write-off is the amount of non-performing loans which are outstanding in the books of the branches, but have been written-off (fully or partially) at Head Office level. Amount of Technical write-off should be certified by statutory auditors. (Defined in our
+circular reference DBOD.No.BP.BC.64/21.04.048/2009-10 dated December 1, 2009
+on Provisioning Coverage for Advances)
+3
+Unweighted values must be calculated as outstanding balances maturing or callable within 30 days (for inflows and outflows) except where otherwise mentioned in the circular and LCR template.
+4
+Weighted values must be calculated after the application of respective haircuts (for HQLA) or inflow and outflow rates (for inflows and outflows).
+5
+Adjusted values must be calculated after the application of both (i) haircuts and inflow and outflow rates and (ii) any applicable caps (i.e. cap on Level 2B and Level 2 assets for HQLA and cap on inflows).

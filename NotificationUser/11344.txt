@@ -1,0 +1,109 @@
+(95 kb)
+Transactions in the ‘When Issued’ (WI) market in Central Government Securities
+RBI/2018-19/25
+FMRD.DIRD.03/14.03.007/2018-19
+July 24, 2018
+All participants in the Government Securities Market
+Madam/Sir,
+Transactions in the ‘When Issued’ (WI) market in Central Government Securities
+The
+Statement on Developmental and Regulatory Policies
+, by the Reserve Bank on June 06, 2018 proposed to liberalise the eligible participant base and relax the entity-wise limits for transactions in the “When Issued” (WI) market in Central Government Securities.
+2. Accordingly, a comprehensive review of the existing guidelines on ‘When Issued’ market has been carried out and the revised directions (
+enclosed
+), are issued.
+3. These directions are issued under Section 45 W of Chapter III D of the Reserve Bank of India Act, 1934.
+4. The directions will come into effect from the date of this circular.
+Yours faithfully,
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE, FORT
+MUMBAI 400 001
+FMRD.DIRD.04/CGM (TRS)-2018 dated July 24, 2018
+When Issued Transactions (Reserve Bank) Directions, 2018
+In exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 (RBI Act) and of all the powers enabling it in this behalf, the Reserve Bank of India (the Reserve Bank) having considered it necessary in public interest and with a view to regulate and develop the Government securities market of the country, hereby issues the following directions to all the persons eligible to participate or transact business in Government securities in India.
+1. Short title, commencement and applicability of the directions
+(1) These Directions shall be called the When Issued Transactions (Reserve Bank) Directions, 2018 and shall supersede all other instructions/guidelines issued on the subject. These Directions shall come into force with effect from the date of these directions.
+(2) These Directions shall be applicable to ‘When Issued’ transactions in Central Government securities.
+2. Definitions
+(1) In these Directions, unless the context otherwise requires-
+(a)
+“Scheduled bank”
+means a bank included in the second schedule of the Reserve Bank of India Act, 1934.
+(b)
+“Government securities”
+shall have the meaning assigned in Section 2(f) of the Government Securities Act, 2006.
+(c)
+"When, as and if issued"
+(commonly known as ‘When Issued’) security refers to a security that has been authorized for issuance but not yet actually issued. When Issued trading takes place between the time a Government Security is announced for issuance and the time it is actually issued. All 'When Issued' transactions are on an 'if' basis, to be settled if and when the actual security is issued.
+(d)
+“Date of Auction”
+means the date on which the auction for issue of the security that is being traded on a ‘When Issued’ basis takes place.
+(e)
+“Date of Issue”
+means the date on which the security that is being traded on a ‘When Issued’ basis is issued, by the Government.
+(f)
+“Net position”
+means the overall position in a security arrived at by reckoning the current investment, amount allotted in auctions and trading position, on ‘When Issued’ basis or otherwise, in that security.
+(g) The words and expressions used, but not defined in these directions, shall have the meaning assigned to them in the Reserve Bank of India Act, 1934, or in any other Master Circular/Notification/Direction issued by the Reserve Bank, unless anything is stated by the Reserve Bank to the contrary.
+3. Eligible securities
+The securities eligible for ‘When Issued’ transactions under these directions shall include:
+(1) Both new and reissued Government securities issued by the Central Government.
+(2) Eligibility of an issue for ‘When Issue’ trades would be indicated in the respective specific auction notification.
+4. Eligible participants
+(1) The following participants are eligible to undertake both net long and short position in ‘When Issued’ market for both new and reissued securities under these Directions:
+(a) All entities which are eligible to participate in the primary auction of Central Government securities.
+(b) However, resident individuals, Hindu Undivided Families (HUF), Non-Resident Indians (NRI) and Overseas Citizens of India (OCI) are eligible to undertake only long position in ‘When Issued’ securities.
+(c) Entities other than scheduled commercial banks and Primary Dealers (PDs), shall close their short positions, if any, by the close of trading on the date of auction of the underlying Central Government security.
+5. Operational instructions
+Transactions in a security on a ‘When Issued’ basis shall be undertaken in terms of the following directions:
+(a) When Issued transactions would commence after the issue of a security is notified by the Central Government and it would cease at the close of trading on the date of auction.
+(b) All ‘When Issued’ transactions for all trade dates shall be contracted for settlement on the date of issue.
+(c) In the case of reissued securities, ‘When Issued’ securities shall form a part of the settlement of the secondary market transaction on the date of issue. At the time of settlement of secondary market transactions on the date of issue, trades in the ‘When Issued’ security will be netted off with trades in the existing security.
+(d) In case an entity is unable to deliver securities sold on a ‘When Issued’ basis to the buyer on the date of issue, the transaction will be settled as per the default settlement mechanism of Clearing Corporation of India Limited (CCIL).
+(e) Members of the Securities Settlement Segment of CCIL (hereafter referred to as ‘members’) shall be responsible for settlements and reporting of trades of their constituent entities, viz., entities maintaining gilt accounts or demat accounts. Accordingly, eligible constituent entities shall undertake ‘When Issued’ transactions to the extent permitted by the members through whom they settle their securities transactions, within the limits prescribed in Para 6 of these directions.
+(f) At the cessation of ‘When Issued’ trading on the date of auction, no entity shall run a short ‘net position’ in a security in excess of the limits prescribed for short sale positions in Central Government securities.
+(g) In the event of cancellation of the auction for whatever reason, all ‘When Issued’ trades will be deemed null and void ab-initio on grounds of force-majeure.
+6. Limits
+(1) The open position limits in the ‘When Issued’ market shall be as below:
+Position Limits
+Categories
+Long
+Short
+PDs and scheduled commercial banks
+Not exceeding 25% of the notified amount in the auction
+Not exceeding 25% of the notified amount in the auction
+Other eligible entities
+Not exceeding 25% of the notified amount in the auction
+Not exceeding 10% of the notified amount in the auction (Individuals, HUFs, NRIs and OCIs are not allowed to take short positions in the ‘When Issued’ market)
+(2) The earlier requirement that aggregate net short positions (sum of all net short positions across all entities) in a new security will be capped at 90% of the notified amount has now been dispensed with. Aggregate net short positions will not be subject to any limits.
+7. Trading venues
+‘When Issued’ transactions shall be undertaken only on the Negotiated Dealing System-Order Matching (NDS-OM) platform. However, an existing position in a ‘When Issued’ security may be closed either on the NDS-OM platform or outside the NDS-OM platform, i.e., through Over-the-Counter (OTC) market.
+8. Reporting
+All OTC When Issued transactions shall be reported to NDS-OM within 15 minutes of the trade.
+9. Internal control
+(1)
+All NDS-OM members participating in the ‘When Issued’ market are required to have in place a written policy on ‘When Issued’ trading which should be approved by the Board of Directors or equivalent body. The policy should lay down the internal guidelines which should include,
+inter alia
+, risk limits on ‘When Issued’ position (including, in the case of reissued securities, overall position in the security, i.e., ‘When Issued’ plus the existing security), an aggregate nominal limit (in terms of Face Value) for ‘When Issued’ and in the case of the reissued securities, ‘When Issued’ plus the existing securities, the internal control arrangements to ensure adherence to regulatory and internal guidelines, reporting of ‘When Issued’ activity to the top management, procedure to deal with violations, etc. A system should be in place to detect violations early.
+(2) Concurrent auditors should specifically verify compliance with these instructions and report violations preferably on the date of trade itself, to the appropriate internal authority. As a part of their monthly reporting, concurrent auditors may verify whether the independent back/mid office has taken cognizance of all such lapses and reported the same within the required time frame. Any violation of regulatory guidelines noticed in this regard should immediately be reported to the Public Debt Office (PDO), Mumbai and Financial Market Regulation Department (FMRD), Reserve Bank of India.
+10. The list of previous circulars issued by the Reserve Bank on ‘When Issued’ transaction in Central Government securities that are repealed and withdrawn are given at
+Annex I
+hereunder.
+(T. Rabi Sankar)
+Chief General Manager
+Annex I
+(i)
+Circular No. IDMD No./3426/11.01.01 (D)/2005-06 dated May 3, 2006
+.
+(ii)
+Circular No. IDMD No./2130/11.01.01 (D)/2006-07 dated November 16, 2006
+.
+(iii)
+Circular No. IDMD.DOD.No.3166/11.01.01(B)/2007-08 dated January 1, 2008
+.
+(iv)
+Circular No. FMRD.DIRD.06/14.03.07/2015-16 dated December 10, 2015
+.

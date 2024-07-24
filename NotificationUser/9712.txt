@@ -1,0 +1,22 @@
+(722 kb)
+Security and Risk Mitigation Measures for Card Present and Electronic Payment Transactions
+RBI/2014-15/589
+DPSS (CO) PD No.2112/02.14.003/2014-15
+May 07, 2015
+All Scheduled Commercial Banks including RRBs/
+Co-operative Banks / State Co-operative Banks/
+Central Co-operative Banks/ Authorised Card Payment Networks
+Madam / Dear Sir,
+Security and Risk Mitigation Measures for Card Present and Electronic Payment Transactions
+A reference is invited to our circulars
+DPSS.PD.CO.No.513 / 02.14.003 / 2011-2012 dated September 22, 2011
+and
+DPSS (CO) PD No.2377 / 02.14.003 / 2012-13 dated June 24, 2013
+on security issues and risk mitigation measures related to Card Present (CP) transactions read along with circular dated February 28, 2013 on security and risk mitigation measures for electronic payment transactions wherein various timelines were indicated for accomplishment of tasks for securing card and electronic payment transactions.
+2. The Reserve Bank has adopted a phased manner of implementation of security and risk mitigation measures in card transactions as evident from the instructions issued from time to time. The acceptance infrastructure is getting geared to accept EMV chip and pin cards. However, in case of card issuance, while some banks have already moved to EMV chip and pin cards issuance, a large number of banks continue to issue Magnetic stripe cards. Thus, given the level of readiness of the card acceptance infrastructure at point of sale and also the implementation of PIN@POS for debit cards, the time is appropriate to move further along the path to migrate away from magnetic stripe only cards to chip and pin cards.
+3. Accordingly, banks are advised that with effect from September 01, 2015 all new cards issued – debit and credit, domestic and international – by banks shall be EMV chip and pin based cards.
+4. The migration plan for existing magnetic stripe only cards will be framed in consultation with stakeholders and timeline for the same will be advised in due course.
+5. These guidelines are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully
+(Smt. Nanda Dave)
+Chief General Manager

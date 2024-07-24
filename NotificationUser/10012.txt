@@ -1,0 +1,37 @@
+(760 kb)
+Changes in RTGS time window
+RBI/2015-16/168
+DPSS (CO) RTGS No.492/04.04.002/2015-16
+September 1, 2015
+The Chairman / Managing Director / Chief Executive
+Officer of participants of RTGS
+Madam / Sir,
+Changes in RTGS time window
+A reference is invited to the Reserve Bank of India
+press release number 2015-2016/528 dated August 28, 2015
+on “Bank Holiday on Second & Fourth Saturdays from September 1; RBI to offer its Support Services to Banks on Working Saturdays”.
+2. Accordingly, RTGS will not be operated on second and fourth Saturdays but would operate for full day on working Saturdays. Processing of future value dated transactions with value date falling on second and fourth Saturdays will not be undertaken under RTGS.
+3. The RTGS time window with effect from September 1, 2015 will be as under:
+Sr. No.
+Time Event
+Regular days including Saturdays, except Second and Fourth Saturdays of the Month
+1.
+Open for Business
+08:00 hours
+2.
+Initial Cut-off (Customer transactions)
+16:30 hours
+3.
+Final Cut-off (Inter-bank transactions)
+19:45 hours
+4.
+IDL Reversal
+19:45 hours - 20:00 hours
+5.
+End of Day
+20:00 hours
+4. This circular is issued under Section 10 (2) of Payment & Settlement Systems Act, 2007.
+5. Please acknowledge receipt.
+Yours faithfully,
+Nilima Ramteke
+General Manager

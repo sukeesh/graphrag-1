@@ -1,0 +1,17 @@
+(31 kb)
+Reporting of  information / data relating to Cash and Suspicious Transactions to the Director, Financial Intelligence Unit-India (FIU-IND)
+RBI/2013-14/569
+DNBS(PD).CC. No.375 /03.10.42 /2013-14
+April  22 , 2014
+All Non Banking Financial Companies
+Dear Sir,
+Reporting  of information / data relating to Cash  and Suspicious Transactions to the Director, Financial Intelligence Unit-India  (FIU-IND)
+Please refer to the circular  DNBS.(PD).CC.No.339/03.10.42/2013-14 dated   July 1, 2013 [
+para III (17)
+] on the above subject.
+2. In terms of the extant  instructions, NBFCs are required to report information / data relating to Cash  and Suspicious Transactions to the Director, Financial Intelligence Unit-India  (FIU-IND) on the FINnet Gateway in Test Mode to test their ability to upload the reports electronically till the  time NBFCs are informed about ‘go-live’ of the project. The project has since gone ‘live' and henceforth NBFCs may  discontinue submission of reports in CD, using only FINnet gateway for  uploading of reports in the new XML reporting format. Any report in CD will not  be treated as a valid submission by FIU-IND. For any clarification /  assistance regarding submission of reports, you may contact FIU-IND help desk  at
+email
+or telephone numbers  011-24109792 / 93.
+Yours  faithfully,
+(Sindhu Pancholy)
+Deputy General Manager

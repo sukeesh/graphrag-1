@@ -1,0 +1,214 @@
+(358 kb)
+Guidelines on Compensation of Whole Time Directors/ Chief Executive Officers/ Material Risk Takers and Control Function staff
+RBI/2019-20/89
+DOR.Appt.BC.No.23/29.67.001/2019-20
+November 4, 2019
+All Private Sector Banks (including Local Area Banks, Small Finance
+Banks, Payments Banks) and Foreign Banks operating in India
+Dear Sir/Madam,
+Guidelines on Compensation of Whole Time Directors/ Chief Executive Officers/ Material Risk Takers and Control Function staff
+The compensation practices, especially of large financial institutions, were one of the important factors which contributed to the global financial crisis in 2008. Employees were often rewarded for increasing short-term profit without adequate recognition of the risks and long-term consequences that their activities posed to the organisations. These perverse incentives amplified excessive risk taking that severely threatened the global financial system. The compensation issue has, therefore, been at the centre stage of regulatory reforms.
+2. In the wake of financial crisis, in order to address the issues in a coordinated manner across jurisdictions, the Financial Stability Forum (later the Financial Stability Board i.e. FSB) brought out a set of Principles (FSF Principles for Sound Compensation Practices, dated April 02, 2009) and Implementation Standards (FSB Principles for Sound Compensation Practices - Implementation Standards, dated September 25, 2009) on sound compensation practices. The Principles are intended to reduce incentives towards excessive risk taking that may arise from the structure of compensation schemes. The Principles call for effective governance of compensation, alignment of compensation with prudent risk taking, effective supervisory oversight and stakeholder engagement. The Principles have been endorsed by the G-20 countries and the Basel Committee on Banking Supervision (BCBS). The Implementation Standards are specific norms, prioritizing the areas that should be addressed by firms and supervisors to achieve effective global implementation of the Principles.
+3. The BCBS published in May 2011 the final report on ‘Range of Methodologies for Risk and Performance Alignment of Remuneration’. The main objectives of the report are (a) to present certain remuneration practices and methodologies that support sound incentives; and (b) the elements influencing the effectiveness of risk alignment that should be considered by banks when developing their methodologies as well as by supervisors, when reviewing and assessing banks’ practices. In July 2011, the BCBS in consultation with the FSB has also published Pillar 3 disclosure requirements for remuneration.
+4. Taking into account the stipulations in these documents, Reserve Bank had issued the Guidelines on compensation vide
+Circular DBOD No.BC.72/29.67.001/2011-12 dated January 13, 2012
+, applicable to Whole Time Directors / Chief Executive Officers / Risk Takers and Control Function Staff, etc. for implementation by private sector and foreign banks from the financial year 2012-13.
+5. These Guidelines have since been reviewed based on experience gained and evolving international best practices. The objective has also been to better align these Guidelines with FSB Principles and Implementation Standards for Sound Compensation Practices and the Supplementary Guidance issued by FSB in March 2018 on the use of compensation tools to address misconduct risk. Consequently, a Discussion Paper on the proposed Guidelines was published on the RBI website and comments were invited from banks and other interested parties by March 31, 2019.
+6. The final Guidelines, taking into consideration the responses received, are given in the
+Annex
+.
+7. These Guidelines will be applicable for pay cycles beginning from/after April 01, 2020. All applications for approval of appointment/re-appointment or approval of remuneration/revision in remuneration of Whole Time Directors (WTDs)/ Chief Executive Officers (CEOs) shall be submitted with full details as prescribed in
+Appendix 1
+.
+8. Private sector banks, foreign banks operating under the Wholly Owned Subsidiary mode (WOS), and foreign banks operating in India under the branch mode are required to obtain regulatory approval for grant of remuneration (i.e. compensation) to WTDs/ CEOs in terms of Section 35B of the Banking Regulation Act, 1949 (B.R. Act, 1949). The approval process will involve, inter alia, an assessment of whether the bank’s compensation policies and practices are in accordance with the Guidelines set out in the
+Annex
+, and the BCBS Methodologies detailed in
+Appendix 2
+.
+9. In view of above, the instructions issued vide the
+circular DBOD No.BC.72/29.67.001/2011-12 dated January 13, 2012
+stand superseded with effect from April 01, 2020.
+Yours faithfully,
+(Shrimohan Yadav)
+Chief General Manager
+Encl: As above
+Related link
+Please also refer subsequent
+circular DOR.GOV.REC.44/29.67.001/2021-22 dated August 30, 2021
+on the subject.
+Annex
+Guidelines on Compensation of Whole Time Directors /
+Chief Executive Officers / Material Risk Takers and Control Function staff
+A. The Financial Stability Board (FSB) Principles for Sound Compensation Practices
+1. The Principles for Sound Compensation Practices issued by the FSB in April 2009 aim to ensure effective governance of compensation, alignment of compensation with prudent risk taking and effective supervisory oversight and stakeholder engagement in compensation. The Principles in brief are as under:
+(i) Effective governance of compensation
+The firm’s board of directors must actively oversee the compensation system’s design and operation.
+The firm’s board of directors must monitor and review the compensation system to ensure the system operates as intended.
+Staff engaged in financial and risk control must be independent, have appropriate authority, and be compensated in a manner that is independent of the business areas they oversee and commensurate with their key role in the firm.
+(ii) Effective alignment of compensation with prudent risk taking
+Compensation must be adjusted for all types of risk.
+Compensation outcomes must be symmetric with risk outcomes.
+Compensation payout schedules must be sensitive to the time horizon of risks.
+The mix of cash, equity and other forms of compensation must be consistent with risk alignment.
+(iii) Effective supervisory oversight and engagement by stakeholders
+Supervisory review of compensation practices must be rigorous and sustained, and deficiencies must be addressed promptly with supervisory action.
+Firms must disclose clear, comprehensive and timely information about their compensation practices to facilitate constructive engagement by all stakeholders.
+2. The Guidelines delineated below are based on the above mentioned Principles and Implementation Standards of the FSB, evolving international standards, as well as current statutory and regulatory framework in India. Banks are required to take steps immediately to implement the Guidelines by putting in place necessary policies/systems.
+B. Guidelines on Compensation for Private Sector Banks and Foreign Banks
+I. Applicability and Scope:
+The Guidelines as laid out below are applicable to private sector banks, including Local Area Banks, Small Finance Banks and Payments Banks.
+Foreign banks operating in India under branch mode would be required to continue to submit a declaration to Reserve Bank annually from their Head Offices to the effect that their compensation structure in India, including that of CEO’s, is in conformity with the FSB Principles and Standards. RBI would take this into account while approving CEOs’ compensation.
+The compensation proposals for CEOs and other staff of foreign banks operating in India that have not adopted the FSB principles in their home country are required to implement the compensation Guidelines as prescribed for private sector banks in India, to the extent applicable to them.
+For the foreign banks operating in India by way of Wholly Owned Subsidiary (WOS) structure, the compensation Guidelines as prescribed for private sector banks in India will be applicable.
+II. Guidelines:
+1. Effective governance of compensation
+1.1 Guideline 1: Compensation Policy
+Banks should continue to formulate and adopt a comprehensive compensation policy covering all their employees and conduct annual review thereof. The policy should cover all aspects of the compensation structure such as fixed pay, perquisites, performance bonus, guaranteed bonus (joining/sign-on bonus), severance package, share-linked instruments e.g. Employee Stock Option Plan (ESOPs), pension plan, gratuity, etc., taking into account these Guidelines.
+1.2 Guideline 2: Nomination and Remuneration Committee (NRC)
+The board of directors of banks should constitute a ‘Nomination and Remuneration Committee’ (NRC) of the board to oversee the framing, review and implementation of compensation policy of the bank on behalf of the board. The NRC should comprise three or more non-executive directors, out of which not less than one-half should be independent directors and should include at least one member from Risk Management Committee of the board. The NRC should work in close coordination with Risk Management Committee of the bank, to achieve effective alignment between compensation and risks. The NRC should also ensure that the cost/income ratio of the bank supports the compensation package consistent with maintenance of sound capital adequacy ratio.
+2. Effective alignment of compensation with prudent risk taking
+2.1 Guideline 3: For Whole Time Directors / Chief Executive Officers / Material Risk Takers (MRTs)
+Banks should ensure that for the Whole Time Directors (WTDs) / Chief Executive Officers (CEOs) / Material Risk Takers (MRTs):
+compensation is adjusted for all types of risks,
+compensation outcomes are symmetric with risk outcomes,
+compensation payouts are sensitive to the time horizon of the risks, and
+the mix of cash, equity and other forms of compensation are consistent with risk alignment.
+A wide variety of measures of credit, market, liquidity and various other risks should be used by banks in implementation of risk adjustment. The risk adjustment methods should preferably have both quantitative and judgmental elements. The compensation should also be in compliance with all statutory requirements.
+The compensation structure for the WTDs/CEOs/MRTs of the bank shall be as under:
+2.1.1 Fixed Pay and Perquisites
+Banks are required to ensure that the fixed portion of compensation is reasonable, taking into account all relevant factors including adherence to statutory requirements and industry practice. All the fixed items of compensation, including the perquisites, will be treated as part of fixed pay. It may be noted that all perquisites that are reimbursable should also be included in the fixed pay so long as there are monetary ceilings on these reimbursements. Contributions towards superannuation/retiral benefits will be treated as part of fixed pay.
+2.1.2 Variable Pay
+(a) Composition of Variable Pay:
+The variable pay can be in the form of share-linked instruments
+1
+, or a mix of cash and share-linked instruments. There should be proper balance between the cash and share-linked components in the variable pay. Only in cases where the compensation by way of share-linked instruments is not permitted by law/regulations, the entire variable pay can be in cash.
+(b) Limit on Variable Pay:
+(i) It should be ensured that there is a proper balance between fixed pay and variable pay. In accordance with FSB Implementation Standards, read with paragraph 2.1.2(b)(iv) and bullet (a) of BCBS stipulations furnished in
+Appendix 2
+, a substantial proportion of compensation i.e., at least 50%, should be variable and paid on the basis of individual, business-unit and firm-wide measures that adequately measure performance, except in cases mentioned in paragraph 2.1.2(b)(iii) and paragraph 2.2 of these Guidelines. At higher levels of responsibility, the proportion of variable pay should be higher. The total variable pay shall be limited to a maximum of 300% of the fixed pay (for the relative performance measurement period).
+(ii) In case variable pay is up to 200% of the fixed pay, a minimum of 50% of the variable pay; and in case variable pay is above 200%, a minimum of 67% of the variable pay should be via non-cash instruments.
+(iii) In the event that an executive is barred by statute or regulation from grant of share-linked instruments, his/her variable pay will be capped at 150% of the fixed pay, but shall not be less than 50% of the fixed pay.
+(iv) The deterioration in the financial performance of the bank should generally lead to a contraction in the total amount of variable compensation, which can even be reduced to zero.
+(c) Deferral of Variable Pay:
+(i) For senior executives, including WTDs, and other employees who are MRTs (see paragraph 2.4 below), in adherence to FSB Implementation Standards, deferral arrangements must invariably exist for the variable pay, regardless of the quantum of pay. For such executives of the bank, a minimum of 60% of the total variable pay must invariably be under deferral arrangements. Further, if cash component is part of variable pay, at least 50% of the cash bonus should also be deferred.
+(ii) However, in cases where the cash component of variable pay is under Rs.25 lakh, deferral requirements would not be necessary.
+(d) Period of Deferral Arrangement:
+The deferral period should be a minimum of three years. This would be applicable to both the cash and non-cash components of the variable pay.
+(e) Vesting:
+Deferred remuneration should either vest fully at the end of the deferral period or be spread out over the course of the deferral period. The first such vesting should be not before one year from the commencement of the deferral period. The vesting should be no faster than on a pro rata basis
+2
+. Additionally, vesting should not take place more frequently than on a yearly basis to ensure a proper assessment of risks before the application of ex post adjustments.
+(f) Share-linked Instruments:
+Such instruments shall be included as a component of variable pay. Norms for grant of share-linked instruments should be framed by banks in conformity with relevant statutory provisions and should form part of the bank’s compensation policy. The details of share-linked instruments granted should also be disclosed in terms of the disclosure requirements stipulated in these Guidelines. Share-linked instruments should be fair valued on the date of grant by the bank using Black-Scholes model. The fair value thus arrived at should be recognised as expense beginning with the accounting period for which approval has been granted.
+2.1.3 Malus / Clawback
+(a) The deferred compensation should be subject to malus
+3
+/clawback
+4
+arrangements in the event of subdued or negative financial performance of the bank and/or the relevant line of business in any year.
+(b) Banks are required to put in place appropriate modalities to incorporate malus/ clawback mechanism in respect of variable pay, taking into account Supplementary Guidance issued by FSB in March 2018 on use of compensation tools to address misconduct risk, and all relevant statutory and regulatory stipulations, as applicable. The banks shall identify a representative set of situations in their Compensation Policies, which require them to invoke the malus and clawback clauses that may be applicable on entire variable pay. When setting criteria for the application of malus and clawback, banks should also specify a period during which malus and/or clawback can be applied, covering at least deferral and retention periods
+5
+.
+(c) Wherever the assessed divergence in bank’s provisioning for Non-Performing Assets (NPAs) or asset classification exceeds the prescribed threshold for public disclosure
+6
+, the bank shall not pay the unvested portion of the variable compensation for the assessment year under ‘malus’ clause. Further, in such situations, no proposal for increase in variable pay (for the assessment year) shall be entertained. In case the bank’s post assessment Gross NPAs are less than 2.0%, these restrictions will apply only if criteria for public disclosure are triggered either on account of divergence in provisioning or both provisioning and asset classification.
+2.1.4 Guaranteed Bonus
+Guaranteed bonus is not consistent with sound risk management or the ‘pay for performance’ principles and should not be part of the compensation plan. Therefore, guaranteed bonus should only occur in the context of hiring new staff as joining/sign-on bonus and be limited to the first year. Further, joining/sign-on bonus should be in the form of share-linked instruments only, since upfront payments in cash would create perverse incentives. Such bonus will neither be considered part of fixed pay nor part of variable pay. Further, banks should not grant severance pay other than accrued benefits (gratuity, pension, etc.) except in cases where it is mandatory under any statute.
+2.1.5 Hedging
+Banks shall not permit employees to insure or hedge their compensation structure to offset the risk alignment effects embedded in their compensation arrangement. To enforce the same, banks should establish appropriate compliance arrangements.
+2.2 Guideline 4: For risk control and compliance staff
+Members of staff engaged in financial and risk control, including internal audit, should be compensated in a manner that is independent of the business areas they oversee and commensurate with their key role in the bank. Effective independence and appropriate authority of such staff are necessary to preserve the integrity of financial and risk management’s influence on incentive compensation. Back office and risk control employees play a key role in ensuring the integrity of risk measures. If their own compensation is significantly affected by short-term measures, their independence may be compromised. If their compensation is too low, the quality of such employees may be insufficient for their tasks and their authority may be undermined. The mix of fixed and variable compensation for control function personnel should be weighted in favour of fixed compensation. Therefore, the requirement of minimum 50% of total compensation to be paid in the form of variable pay will not be applicable for this category of staff. However, a reasonable proportion of compensation has to be in the form of variable pay, so that exercising the options of malus and/or clawback, when warranted, is not rendered infructuous. Subject to the above, while devising compensation structure for such staff, banks should adopt principles similar to principles enunciated for WTDs/CEOs, as appropriate.
+2.3 Guideline 5: For other categories of staff
+While these Guidelines do not apply to bank’s staff other than WTDs/CEOs/MRTs and Control Function Staff, banks are encouraged to adopt similar principles, with suitable modifications, as appropriate for them as well.
+2.4 Guideline 6: Identification of Material Risk Takers of the bank
+2.4.1
+Banks should identify their Material Risk Takers (MRTs) whose actions have a material impact on the risk exposure of the bank, and who satisfy the qualitative and any one of the quantitative criteria given below:
+Standard Qualitative criteria
+Relate to the role and decision-making power of staff members (e.g., senior manager, member of management body) having jointly or individually, the authority to commit significantly to risk exposures, etc.
+Standard Quantitative Criteria:
+Their total remuneration exceeds a certain threshold; the determination of which may be done prudently by the bank, or
+They are included among the 0.3% of staff with the highest remuneration in the bank, or
+Their remuneration is equal to or greater than the lowest total remuneration of senior management and other risk-takers.
+2.4.2
+Banks are advised to refer to the BCBS report entitled ‘Range of Methodologies for Risk and Performance Alignment of Remuneration’ published in May 2011 for guidance. A gist of the methodologies is furnished in
+Appendix 2
+. The report intends to enhance the banks’ and supervisors’ understanding of risk-adjusted remuneration. This report, by providing some clarification on design of risk-adjusted remuneration schemes, supports and facilitates greater adoption of sound practices in the banking sector.
+3. Disclosure and engagement by stakeholders
+3.1 Guideline 7: Disclosure
+Banks are required to make disclosure on remuneration of WTDs/CEOs/MRTs on an annual basis at the minimum, in their Annual Financial Statements.
+3.2
+To improve clarity on disclosure, banks should make the disclosures in table or chart format and make disclosures for previous as well as the current reporting year (previous year’s disclosure need not be made when the disclosures are made for the first time). The key disclosures required to be made by banks are given in
+Appendix 3
+. Further, banks should also comply with the disclosure requirements for remuneration prescribed vide
+Circular DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015
+, as amended from time to time.
+C. Regulatory and Supervisory Approval / Oversight
+As banks are aware, in terms of the Section 10(1)(b)(iii) of the B.R. Act, 1949, no banking company shall employ or continue the employment of any person whose remuneration is, in the opinion of the Reserve Bank, excessive.
+Private sector and foreign banks operating in India are required to obtain regulatory approval for grant of remuneration to WTDs/CEOs in terms of Section 35B of the B.R. Act, 1949.
+Banks’ compensation policies will also be subject to supervisory oversight including review under Basel framework. Deficiencies observed in this regard would have the effect of increasing the risk profile of the bank with attendant consequences, including a requirement of additional capital if the deficiencies are very significant.
+Appendix 2
+Methodologies for risk and performance alignment of remuneration
+The Basel Committee on Banking Supervision (BCBS) in consultation with the FSB has published a report in May 2011 titled ‘Range of Methodologies for Risk and Performance Alignment of Remuneration’. The main objectives of the report are to present (i) some remuneration practices and methodologies that support sound incentives and (ii) the challenges or elements influencing the effectiveness of risk alignment that should be considered by banks when developing their methodologies and by supervisors, when reviewing and assessing banks’ practices.
+Some of the key stipulations of the report are as under:
+For incentive based remuneration to work, the variable part of remuneration should be truly and effectively variable and can even be reduced to zero in line with the symmetry principle defined by the FSB. A key element that supervisors expect is the ability for banks to demonstrate that the methodologies they developed to adjust variable remuneration to risk and performance are appropriate to their specific circumstances.
+The methodologies for adjusting remuneration to risk and performance should also be consistent with the general risk management and corporate governance framework.
+Performance measures and their relation to remuneration packages should be clearly defined at the beginning of the performance measurement period to ensure that the employees perceive the incentive mechanism. The usual annual determination of bonus should be based on rules, processes and objectives known in advance, recognizing that some discretion will always be needed.
+Banks should use a combination of financial and non-financial measures to assess employee performance and adapt the measurement to each employee’s specific situation. Qualitative factors (like knowledge, skills or abilities) might play an important role when it comes to judging and rewarding some activities- particularly when these serve to reinforce the bank’s risk management goals.
+The nature and extent to which risk adjustments are needed depends first on the extent to which performance measures capture risks, but in all cases, some form of risk adjustment is needed as remuneration is often awarded before the final outcome of an activity is known. Risks taken need to be estimated (ex ante), risk outcomes observed (ex post) and both ex ante estimates and ex post outcomes should affect payoffs.
+Risk adjustments need to take into account the nature of the risks involved and the time horizons over which they could emerge. The impact of remuneration adjustments should be linked to actions taken by employees and/or business units, and their impact on the level of risk taken on by the bank.
+The nature of the award process, which links the variable remuneration of each individual employee with bonus pools and the total amount of variable remuneration at a bank’s level, is also an area that should be carefully considered by banks and supervisors, as it directly influences how and when performance and risk adjustment are or can be used.
+Appendix 3
+Disclosure requirements for remuneration/compensation
+Qualitative disclosures
+(a)
+Information relating to the composition and mandate of the Nomination and Remuneration Committee.
+(b)
+Information relating to the design and structure of remuneration processes and the key features and objectives of remuneration policy.
+(c)
+Description of the ways in which current and future risks are taken into account in the remuneration processes. It should include the nature and type of the key measures used to take account of these risks.
+(d)
+Description of the ways in which the bank seeks to link performance during a performance measurement period with levels of remuneration.
+(e)
+A discussion of the bank’s policy on deferral and vesting of variable remuneration and a discussion of the bank’s policy and criteria for adjusting deferred remuneration before vesting and after vesting.
+(f)
+Description of the different forms of variable remuneration (i.e., cash and types of share-linked instruments) that the bank utilizes and the rationale for using these different forms.
+Quantitative disclosures
+(The quantitative disclosures should only cover Whole Time Directors/ Chief Executive Officer/ Material Risk Takers)
+(g)
+Number of meetings held by the Nomination and Remuneration Committee during the financial year and remuneration paid to its members.
+(h)
+Number of employees having received a variable remuneration award during the financial year.
+Number and total amount of sign-on/joining bonus made during the financial year.
+Details of severance pay, in addition to accrued benefits, if any.
+(i)
+Total amount of outstanding deferred remuneration, split into cash, types of share-linked instruments and other forms.
+Total amount of deferred remuneration paid out in the financial year.
+(j)
+Breakdown of amount of remuneration awards for the financial year to show fixed and variable, deferred and non-deferred.
+(k)
+Total amount of outstanding deferred remuneration and retained remuneration exposed to ex post explicit and/or implicit adjustments.
+Total amount of reductions during the financial year due to ex- post explicit adjustments.
+Total amount of reductions during the financial year due to ex- post implicit adjustments.
+(l)
+Number of MRTs identified.
+(m)
+Number of cases where malus has been exercised.
+Number of cases where clawback has been exercised.
+Number of cases where both malus and clawback have been exercised.
+General Quantitative Disclosure
+(n)
+The mean pay for the bank as a whole (excluding sub-staff) and the deviation of the pay of each of its WTDs from the mean pay.
+1
+It is clarified that Cash-linked Stock Appreciation Rights (CSARs) are also to be treated as share-linked instruments.
+2
+No faster than pro rata basis means – vesting should not be frontloaded. In other words, if the deferral arrangement is three years, not more than 33.33 % of the total granted ESOPs should vest at the end of first year. Further, not more than 33.33 % of total granted ESOPs should vest at the end of second year. Similarly, in case deferral arrangement is four years, not more than 25% of total granted ESOPs should vest in each of the first three years.
+3
+A malus arrangement permits the bank to prevent vesting of all or part of the amount of a deferred remuneration. Malus arrangement does not reverse vesting after it has already occurred.
+4
+A clawback, on the other hand, is a contractual agreement between the employee and the bank in which the employee agrees to return previously paid or vested remuneration to the bank under certain circumstances.
+5
+Retention period: a period of time after the vesting of instruments which have been awarded as variable pay during which they cannot be sold or accessed.
+6
+Refer
+DBR.BP.BC.No.32/21.04.018/2018-19 dated April 1, 2019
+, as amended from time to time

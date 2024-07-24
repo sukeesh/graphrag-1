@@ -1,0 +1,117 @@
+(228 kb)
+‘Voluntary Retention Route’ (VRR) for Foreign Portfolio Investors (FPIs) investment in debt
+RBI/2018-19/135
+A.P. (DIR Series) Circular No. 21
+March 01, 2019
+To
+All Authorized Persons
+Madam / Sir
+‘Voluntary Retention Route’ (VRR) for Foreign Portfolio Investors (FPIs) investment in debt
+Attention of Authorised Dealer Category-I (AD Category-I) banks is invited to the following regulations, as amended from time to time, and the relevant directions issued under these regulations.
+Foreign Exchange Management (Permissible Capital Accounts Transactions) Regulations, 2000 notified vide
+Notification No. FEMA 1/2000-RB dated May 03, 2000
+;
+Foreign Exchange Management (Borrowing and Lending) Regulations, 2018 notified vide
+Notification No. FEMA 3(R)/2018-RB dated December 17, 2018
+;
+Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2017 notified vide
+Notification No. FEMA.20(R)/2017-RB dated November 07, 2017
+; and
+Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 notified vide
+Notification No. FEMA 25/RB – 2000 dated May 03, 2000
+.
+2. A reference is also invited to the
+discussion paper
+on ‘Voluntary Retention Route’ (VRR) for investments by Foreign Portfolio Investors (FPIs) released by the Reserve Bank on October 05, 2018. The VRR scheme has been finalized after taking into consideration the comments and views received, and attached as
+Annex
+.
+3. Suitable amendments have been made to regulations under the Foreign Exchange Management Act, 1999 (Act 42 of 1999) to enable FPIs participating in the VRR scheme to hedge their interest rate and exchange rate risks related to their investments under the scheme and to undertake repo/reverse repo transactions to meet their liquidity requirements. A copy of the following amendments notified in the Official Gazette is enclosed.
+Notification No. FEMA 390/2019-RB dated February 26, 2019 (
+GSR. No 161 (E) dated February 27, 2019
+);
+Notification No. FEMA 391/2019-RB dated February 26, 2019 (
+GSR. No 162 (E) dated February 27, 2019
+);
+Notification No. FEMA 3 (R)1/2019-RB dated February 26, 2019 (
+GSR. No 163 (E) dated February 27, 2019
+); and
+Notification No. FEMA 20 (R)5/2019-RB dated February 26, 2019 (
+GSR. No 164 (E) dated February 27, 2019
+)
+4. A reference is also invited to
+A.P. (DIR Series) Circular No. 22 dated March 01, 2019
+on hedging of exchange rate risk by Foreign Portfolio Investors under Voluntary Retention Route, issued today (March 01, 2019).
+5. These directions shall be applicable with immediate effect.
+6. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+Please refer to the revised scheme notified vide A.P. (DIR Series) circular No. 34 dated May 24, 2019
+Annex
+‘Voluntary Retention Route’ (VRR) for Foreign Portfolio Investors (FPIs) investment
+Introduction
+The Reserve Bank, in consultation with the Government of India and Securities and Exchange Board of India (SEBI), introduces a separate channel, called the ‘Voluntary Retention Route’ (VRR), to enable FPIs to invest in debt markets in India. Broadly, investments through the Route will be free of the macro-prudential and other regulatory norms applicable to FPI investments in debt markets, provided FPIs voluntarily commit to retain a required minimum percentage of their investments in India for a period. Participation through this Route will be entirely voluntary. The features of the Route are explained below in detail.
+2. Definitions
+i. ‘Committed Portfolio Size’ (CPS), for an FPI, shall mean the amount allotted to that FPI.
+ii. ‘General Investment Limit’, for any one of the three categories, viz., Central Government Securities, State Development Loans or Corporate Debt Instruments, shall mean FPI investment limits announced for these categories under the Medium Term Framework, in terms of
+A.P. (DIR Series) Circular No. 22 dated April 6, 2018
+, as modified from time to time.
+iii. ‘Minor violations’ shall mean violations that are, in the considered opinion of the custodians, unintentional, temporary in nature or have occurred on account of reasons beyond the control of FPIs, and in all cases are corrected on detection.
+iv. ‘Related FPIs’ shall mean ‘investor group’ as defined in Regulation 23(3) of SEBI (Foreign Portfolio Investors) Regulations, 2014.
+v. ‘Repo’ shall have the same meaning as defined in Section 45U (c) of RBI Act, 1934; and for the purpose of this regulation excludes repo conducted under the Liquidity Adjustment Facility and the Marginal Standing Facility.
+vi. ‘Retention Period’ shall mean the time period that an FPI voluntarily commits for retaining the CPS in India.
+vii. ‘Reverse Repo’ shall have the same meaning as defined in Section 45U (d) of RBI Act, 1934; and for the purpose of this regulation excludes reverse repo conducted under the Liquidity Adjustment Facility and the Marginal Standing Facility.
+viii. ‘VRR-Corp’ shall mean Voluntary Retention Route for FPI investment in Corporate Debt Instruments.
+ix. ‘VRR-Govt’ shall mean Voluntary Retention Route for FPI investment in Government Securities.
+3. Eligible investors
+Any FPI registered with SEBI is eligible to participate through this Route. Participation through this Route shall be voluntary.
+4. Eligible instruments
+Under VRR-Govt, FPIs will be eligible to invest in any Government Securities i.e., Central Government dated Securities (G-Secs), Treasury Bills (T-bills) as well as State Development Loans (SDLs). Under VRR-Corp, FPIs may invest in any instrument listed under Schedule 5 of Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2017 notified vide
+Notification No. FEMA.20(R)/2017-RB dated November 07, 2017
+, other than those specified at 1A(a) and 1A(d) of that Schedule.
+Repo transactions, and reverse repo transactions.
+5. Features
+a. Investment through this Route shall be in addition to the General Investment Limit. Investment under this route shall be capped at Rs.40,000 crore for VRR-Govt and Rs.35,000 crore for VRR- Corp per annum, or such higher amount, as may be decided by the Reserve Bank from time to time. The investment limit shall be released in one or more tranches.
+b. Allocation of investment amount to FPIs under this Route shall be made on tap or through auctions. Details of the auction mechanism are given in
+Appendix
+.
+c. The mode of allotment, allocation to VRR-Govt and VRR-Corp categories and the minimum retention period shall be announced by the Reserve Bank ahead of allotment.
+d. No FPI (including its related FPIs) shall be allotted an investment limit greater than 50% of the amount offered for each allotment by tap or auction in case there is a demand for more than 100% of amount offered.
+e. The minimum retention period shall be three years, or as decided by RBI for each allotment by tap or auction.
+f. FPIs shall invest the amount allocated, called the Committed Portfolio Size (CPS) in the relevant debt instruments and remain invested at all times during the voluntary retention period, subject to the following relaxations:
+The minimum investment of an FPI during the retention period shall be 75% of the CPS (The flexibility for modulating investments between 75%-100% of CPS is intended to enable FPIs to adjust their portfolio size as per their investment philosophy).
+The required investment amount shall be adhered to on an end-of-day basis. For this purpose, investment shall include cash holdings in the Rupee accounts used for this Route.
+g. Amounts of investment shall be reckoned in terms of the face value of securities.
+6. Management of portfolio
+Successful allottees are required to invest 25% of their CPS within one month and the remaining amount within three months from the date of allotment. The retention period will commence from the date of allotment of limit.
+Prior to the end of the committed retention period, an FPI, if it so desires, may opt to continue investments under this Route for an additional identical retention period. In that case, it shall convey this decision to its custodian.
+In case an FPI decides not to continue under VRR at the end of the retention period, FPI may liquidate its portfolio and exit, or it may shift its investments to the ‘General Investment Limit’. This shifting would be subject to availability of limit under the ‘General Investment Limit’.
+FPIs that wish to liquidate their investments under the Route prior to the end of the retention period may do so by selling their investments to another FPI or FPIs. However, the FPI (or FPIs) buying such investment shall abide by all the terms and conditions applicable to the selling FPI under the Route.
+Any violation by FPIs shall be subjected to regulatory action as determined by SEBI. FPIs are permitted, with the approval of the custodian, to regularize minor violations immediately upon notice, and in any case, within five working days of the violation. Custodians shall report all non-minor violations as well as minor violations that have not been regularised to SEBI.
+7. Other relaxations
+Investments made through the Route shall not be subject to any minimum residual maturity requirement, concentration limit or single/group investor-wise limits applicable to corporate bonds as specified in paragraphs 4(b), (e) and (f) respectively of
+A.P. (DIR Series) Circular No. 31 dated June 15, 2018
+.
+Income from investments through the Route may be reinvested at the discretion of the FPI. Such investments will be permitted even in excess of the CPS.
+8. Access to other facilities
+FPIs investing through the Route will be eligible to participate in repos for their cash management, provided that the amount borrowed or lent under repo shall not exceed 10% of their investment under VRR.
+FPIs investing under this route shall be eligible to participate in any currency or interest rate derivative instrument, OTC or exchange traded, to manage their interest rate risk or currency risk.
+9. Other operational aspects
+Utilisation of limits and adherence to other requirements of this Route shall be the responsibility of both the FPI and its custodian.
+Custodians shall not permit any repatriation from the cash accounts of an FPI, if such transaction leads to the FPI’s assets falling below the minimum stipulated level of 75% of CPS during the retention period.
+Custodians shall have in place appropriate legal documentation with FPIs that enables them (custodians) to ensure that regulations under VRR are adhered to.
+FPIs shall open one or more separate Special Non-Resident Rupee (SNRR) account for investment through the Route. All fund flows relating to investment through the Route shall reflect in such account(s).
+FPIs shall also open a separate security account for holding debt securities under this Route.
+Appendix
+Auction process for allocation of investment amount under VRR
+The auction process for allotment of investment amounts under VRR shall be as under:
+a. An FPI shall bid two variables - the amount it proposes to invest and the retention period of that investment, which shall not be less than the minimum retention period applicable for that auction.
+b. FPIs are permitted to place multiple bids.
+c. The criterion for allocation under each auction shall be the retention period bid in the auction.
+d. Bids will be accepted in descending order of retention period, the highest first, until the amounts of accepted bids add up to the auction amount.
+e. Allotment at margin (i.e., at the lowest retention period accepted), in case the amount bid at margin is more than the amount available for allotment, shall be as below:
+The marginal bid shall be allocated partially such that the total acceptance amount matches the auction amount.
+In case there are more than one marginal bids, allocation shall be made to the bid with the largest amount, and then in descending order of amount bid until the acceptance amount matches the auction amount.
+In case the amount offered is the same for two or more marginal bids, the amount will be allocated equally.
+f. If an FPI has been allotted multiple bids in an auction, the CPS shall be reckoned for each bid separately.
+g. FPI which has got CPS allocated under an auction will be eligible to participate in subsequent auction as well.

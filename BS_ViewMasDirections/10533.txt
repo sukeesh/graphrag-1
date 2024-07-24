@@ -1,0 +1,46 @@
+(304 kb)
+Retail Participation by Demat Account Holders in the Government Securities Market: Access to NDS-OM Platform
+RBI/2016-17/30
+Ref No. FMRD.DIRD.3/14.03.07/2016-17
+July 28, 2016
+To
+All eligible market participants
+Retail Participation by Demat Account Holders in the Government Securities
+Market: Access to NDS-OM Platform
+As announced in the
+First Bi-monthly Monetary Policy Statement, 2015-16
+, an Implementation Group with representation from all the stakeholders was constituted to recommend specific measures to enable seamless movement of securities from Subsidiary General Ledger (SGL) form to demat form and vice versa and to provide demat account holders a functionality to put through trades on Negotiated Dealing System – Order Matching (NDS-OM).
+2. Taking into account the recommendations of the Group, the Clearing Corporation of India Ltd. (CCIL) was advised to put in place necessary arrangements in coordination with the depositories viz. National Securities Depository Limited (NSDL) and Central Depository Services (India) Limited (CDSL) to enable demat account holders to trade on NDS-OM.
+3. Accordingly, it has been decided to allow Demat Account Holders of NSDL and CDSL to put through trades in Government Securities on the NDS-OM platform through their respective Depository Participant (DP) bank which is an SGL Account Holder and a direct member of NDS-OM and CCIL.
+4. Details of the scheme for accessing NDS-OM for execution of trades by demat account holders are given in the
+Annex
+. Further operational details of the Scheme will be issued by CCIL separately. The guidelines shall be effective from
+August 16, 2016
+.
+Yours faithfully
+(R. Subramanian)
+Chief General Manager
+Annex
+Access to Individual Retail Investors holding Demat Accounts to Secondary Market in Government Securities via Reserve Bank of India’s NDS-OM System
+1. Introduction
+The secondary market in Government Securities (G-Sec) predominantly comprises of Banks, Primary Dealers, Insurance Companies, Mutual Funds, Financial Institutions and other institutional investors. Most of these entities, maintain their holdings in Government Securities in their Subsidiary General Accounts (SGL) with the Public Debt Office of Reserve Bank of India. A few of the newer participants maintain Gilt Accounts with designated market players authorized to open and maintain Constituent SGL Accounts with RBI.
+Secondary market trades in G-Sec is largely carried out on the Negotiated Dealing System – Order Matching (NDS-OM) owned by RBI , which is hosted, maintained and operated by the Clearing Corporation of India Limited (CCIL) on behalf of RBI. NDS-OM, which primarily provides direct access to SGL Account holders, also supports access to Gilt Account Holders through its Web Based Extension i.e., NDS-OM-Web based on requests by the concerned Primary Member. Both NDS-OM and NDS-OM-Web facilitate anonymous dealing on the Order Matching Segment as also reporting of bilateral trades concluded outside the system.
+It has been decided to facilitate access to NDS-OM by the retail segment comprising of individual investors having demat accounts with the depositories viz. National Securities Depository Limited (NSDL) and/or Central Depository Services (India) Limited (CDSL), desirous of participating in the G-Sec market, by using their demat accounts for their transactions and holdings in G-Sec.
+Any individual investor who maintains a demat account with either of the depositories would be eligible to avail of these services. Initially, this access would be facilitated through any of the existing NDS-OM Primary Members, who also act as Depository Participants for NSDL and/or CSDL.
+2. Objective
+The Scheme seeks to facilitate efficient access to the retail individual investor to the same G-Sec market being used by the large institutional investor in a seamless manner.
+3. Dealing / Access to NDS-OM
+Individuals holding demat accounts would have the following options to trade:
+(i)
+NDS-OM Web:
+Primary members of NDS-OM who are also Depository Participants can grant demat account holders access to the NDS-OM Web Module for placing buy / sell orders directly on NDS-OM.
+(ii)
+NDS-OM Main:
+Individuals holding demat accounts can instruct their Depository Participants, who are also primary members of NDS-OM, to place orders on their behalf on the NDS-OM trading platform, similar to the facility available to Gilt Account Holders.
+(iii)
+Bilateral trades in Voice Market:
+Demat account holders can also conclude a trade in the bilateral voice market. The responsibility of reporting such trades on the Reported Deal Segment of NDS-OM will rest with the Primary member concerned.
+4. Settlement & Risk Management
+(i) Trades concluded and/or reported in respect of a retail individual investor holding Demat Account under this Scheme, shall flow to CCIL for settlement, which would act as the Central Counterparty for all such trades and undertake clearing and settlement of these trades as per its Bye Laws, Rules & Regulations.
+(ii) Primary members shall ensure that demat account holders do not place sell order without sufficient balance of securities in the demat account.
+(iii) Trades executed by demat account holders under this Scheme shall be subject to the code of conduct prescribed for NDS-OM from time to time.

@@ -1,0 +1,177 @@
+(788 kb)
+Master Circular – Detection and Impounding of Counterfeit Notes
+RBI/2014-15/87
+DCM (FNVD) G- 2/16.01.05/2014-15
+July 1, 2014
+The  Chairman / Managing Director,
+Commercial Banks, Cooperative Banks, RRBs,
+Private Banks, Foreign Banks and
+Director of Treasuries of all States
+Dear Sir / Madam,
+Master Circular –  Detection and Impounding of Counterfeit Notes
+Please refer to the
+Master  Circular DCM (FNVD) No.G-5/16.01.05/2013-14 dated July 1, 2013
+consolidating the instructions issued till June 30, 2013 relating to Detection  and Impounding of Counterfeit Notes. The
+Master Circular
+has since been updated by  incorporating the instructions issued till date and has been placed on the RBI  website
+www.rbi.org.in
+.
+The Master Circular is a compilation of the instructions contained  in the circulars issued by RBI on the above subject which are operational as on  the date of this Circular.
+Yours faithfully,
+(M.K. Mall)
+General  Manager (Officer-in-Charge)
+Encl: Master Circular
+Master Circular – Detection and Impounding of  Counterfeit Notes – 2014-15
+CONTENTS
+Para No
+Particulars
+1
+Authority to Impound Counterfeit Notes
+2
+Detection of counterfeit notes
+3
+Impounding    of Counterfeit notes
+4
+Issue of Receipt to tenderer
+5
+Detection of counterfeit notes – Reporting to Police and other bodies
+6
+Examination of Banknotes Before Issuing over    Counters, Feeding ATMs and Remitting to Issue Offices of RBI
+7
+Designating Nodal Bank    Officer
+8
+Establishment of Forged Notes Vigilance Cell at    Head Office of Bank
+9
+Provision of Ultra-Violet Lamp and Other    Infrastructure
+10
+Reporting of Data - (I) Bank Branches (II) FNVC of    Bank (III) Cooperative Banks & RRBs
+11
+Compensation for detection of counterfeit notes
+12
+Preservation of Counterfeit Notes Received from    Police Authorities
+13
+Detection of Counterfeit Notes - Training of Staff
+Annex I
+Annex II
+Annex III
+Annex IV
+Annex V
+Annex VI
+Annex VII
+RESERVE BANK OF INDIA
+DEPARTMENT OF CURRENCY MANAGEMENT
+MASTER CIRCULAR – 2014-15
+Detection and Impounding of Counterfeit Notes
+Para  1 Authority to Impound Counterfeit Notes
+The  Counterfeit Notes can be impounded by-
+(i) All branches of Public Sector Banks.
+(ii) All branches of Private Sector Banks and Foreign Banks.
+(iii) All branches of Co-operative Banks & Regional Rural Banks.
+(iv) All Treasuries and Sub-Treasuries.
+(v) Issue Offices of Reserve Bank of India.
+Para  2 Detection of counterfeit notes
+Detection  of counterfeit notes should be at the back office / currency chest only. Banknotes  when tendered over the counters may be checked for arithmetical accuracy and  other deficiencies like whether there are mutilated notes, and appropriate  credit passed on to the account or value in exchange given.
+Thereafter  the notes should be passed over to the back office / currency chest, as the  case may be, for detailed verification and authentication through machines
+The  banknotes categorized as suspect during machine processing should be subjected  to manual verification for checking their authenticity.
+In no case, the  counterfeit notes should be returned to the tenderer or destroyed by the bank  branches / treasuries
+. Failure of the banks  to impound counterfeit notes detected at their end will be construed as willful  involvement of the bank concerned, in circulating counterfeit notes and penalty  will be imposed for violation of
+Directive  No. 3158/09.39.00 (Policy)/2009-10 dated November 19, 2009
+issued by the Reserve Bank.
+Para 3 Impounding of counterfeit notes
+The  notes identified as counterfeit should be kept separately with proper  impounding stamp as per the format (Annex I). Details of each impounded note  should be recorded under authentication in a separate register.
+Para  4 Issue of Receipt to Tenderer
+For  such notes, there will not be any requirement to issue acknowledgement to the  tenderer. Notice to this effect should be displayed  prominently at the offices / branches for the information of the public.
+Para  5 Detection of Counterfeit Notes - Reporting to Police and other bodies
+A counterfeit note detected in the cash received by the bank  /Treasury, shall be impounded, in the manner detailed in
+Para 2
+above.
+Thereafter, the following procedure should be followed while  reporting incidence of detection of counterfeit note
+to the  Police:
+For cases of detection of counterfeit notes upto 4 pieces, in a  single transaction, a consolidated report (
+Annex  II
+) should be sent by the Nodal Bank Officer to the police authorities or  the  Nodal Police Station, along with the  suspect counterfeit notes, at the end of the month.
+For cases of detection of counterfeit notes of 5 or more pieces,  in a single transaction, the counterfeit notes should be forwarded by the Nodal  Bank Officer to the local police authorities or the Nodal Police Station for  investigation by filing FIR (
+Annex III
+).
+A copy of the monthly consolidated report / FIR shall be sent to  the Forged Note Vigilance Cell constituted at the Head Office of the bank
+(only in the case of banks), and in the case of the treasury, it should  be sent to the Issue Office of the Reserve Bank concerned.
+Acknowledgement of the police authorities concerned has to be  obtained for note/s forwarded to them both as consolidated monthly statement  and FIR. If the counterfeit notes are sent to the police by insured post,  acknowledgement of receipt thereof by the police should be invariably obtained  and kept on record. A proper follow-up of receipt of acknowledgement from the  police authorities is necessary. In case, any difficulty is faced by the  Offices / Branches due to reluctance of the police to receive monthly  consolidate statement / file FIRs, the matter may be sorted out in consultation  with the Nodal Officer of the police authority designated to coordinate matters  relating to investigation of counterfeit banknotes cases. The list of Nodal  Police Station may be obtained from the respective Regional Office of Reserve  Bank.
+Banks should also monitor the patterns /  trends of such detection and suspicious trends / patterns should be brought to  the notice of RBI /Police authorities immediately.
+The progress made by banks in detection and  reporting of counterfeit notes to Police, RBI, etc. and problems thereof,  should be discussed regularly in the meetings of various State Level Committees  viz. State Level Bankers’ Committee (SLBC), Standing Committee on Currency  Management (SCCM), State Level Security Committee (SLSC), etc.
+The data on detection of  counterfeit Indian notes at bank branches & treasuries should be included  in the monthly Returns forwarded to the Reserve Bank Issue Offices as indicated  in
+para 9
+below.
+The definition of  'counterfeiting' in the Indian Penal Code covers currency notes issued by a  foreign government authority as well. In case of suspected foreign  currency note received for opinion from the police and government agencies,  etc., they should be advised to forward the case to the Interpol Wing of the  CBI, New Delhi after prior consultation with them.
+Para  6 Examination of the Banknotes before Issuing over Counters, Feeding  ATMs and Remitting to Issue Offices of the Reserve Bank
+The banks should re-align their cash management in such a manner  so as to ensure that cash receipts in the denominations of
+`
+100 and above  are not put into re-circulation without the notes being machine processed for  authenticity. The said instructions shall be applicable to all bank branches,  irrespective of the volume of daily cash receipt. Any non-compliance will be  construed as violation of the
+Directive No. 3158/09.39.00  (Policy)/2009-10 dated November 19, 2009
+issued by the Reserve Bank.
+In order to obviate  complaints regarding receipt of counterfeit notes through ATMs, and to curb  circulation of counterfeits, it is imperative to put in place adequate  safeguards/checks before loading ATMs with notes.  Dispensation of  counterfeit notes through the ATMs would be construed as an attempt to circulate  the counterfeit notes by the bank concerned.
+Detection of  counterfeits in chest remittances is also liable to be construed as willful  involvement of the chest branches concerned in circulating Counterfeit Notes  and may attract special investigation by police authorities, and other action  like suspending the operation of the chest concerned.
+Reserve Bank may  consider the option of levying higher penal interest/penalties for the amount  of forged notes detected in the chest remittances by RBI or during inspection.
+Para 7 Designating Nodal  Bank Officer
+Each bank should  designate Nodal Bank Officer, district-wise and notify the same to the  concerned Regional Office of RBI and Police Authorities. All cases of reporting  of counterfeit note detection as indicated in Para 5 should be through the  Nodal Bank Officer. The Nodal Bank Officer will also serve as the contact point  for all counterfeit note detection related activities.
+Para  8 Establishment of Forged Notes Vigilance Cell at Head Office of Bank
+Each bank shall  establish at its Head Office, a Forged Note Vigilance Cell to undertake the  following functions:
+Dissemination of  instructions issued by the Reserve Bank on counterfeit notes to bank’s  branches. Monitoring the implementation of these instructions. Compilation of  data on detection of counterfeit notes, and its submission to Reserve Bank and  FIU-IND as per extant instructions. Follow-up of cases of counterfeit notes,  with police authorities / designated nodal officer.
+Sharing of the  information thus compiled with bank’s CVO and report to him / her all cases of  acceptance / issue of counterfeit notes over the counters.
+Conducting periodic  surprise checks at currency chests where shortages/ defective /counterfeit  notes etc. are detected.
+Ensuring operation of  Note Sorting Machines of appropriate capacity at all the currency chests / back  offices and closely monitoring the detection of Counterfeit Notes and  maintaining the record of the same. Ensuring that only properly sorted and  machine examined banknotes are fed into the ATMs / issued over the counters and  to put in place adequate safeguards, including surprise checks, both during the  processing and in transit of notes.
+Forged Note Vigilance  Cell shall submit status report on a quarterly basis covering the aforesaid  aspects to the Chief General Manager, Department of Currency Management,  Reserve Bank of India, Central Office, Amar Building, Fourth Floor, Sir P. M.  Road, Fort, Mumbai 400 001, and to the Issue office of the Regional  office of Reserve Bank under whose jurisdiction the FNV Cell is functioning,  within a fortnight from the conclusion of the quarter under report. The said  report should be sent by
+mail
+. No hard copy need be sent.
+In order to update the  record of the addresses of the Forged Note Vigilance Cells, the bank shall  furnish by e-mail, in the prescribed proforma (
+Annex IV
+), the address  etc. particulars to the Reserve Bank every year, as on 1st July.
+Para  9 Provision of Ultra-Violet Lamp and Other Infrastructure
+With a view to  facilitating the detection of counterfeit notes, all bank branches / identified  back offices should be equipped with ultra-violet lamps / other appropriate  banknote sorting / detection machines.  In addition, all currency chest  branches should be equipped with verification, processing and sorting machines  and should be used to their optimum capacity. Such machines should conform to  the guidelines on 'Note Authentication and Fitness Sorting Parameters'  prescribed by the Reserve Bank in May 2010.
+The banks shall maintain  a daily record of the notes processed through the Note Sorting machines,  including the number of counterfeits detected.
+The banks should also  consider providing at least one counting machine (with dual display facility)  for public use at the counter.
+Para 10 Reporting of  Data to RBI
+I
+By Banks
+Data on counterfeit  notes detected by all the branches of the bank shall be reported in the  prescribed format, on a monthly Basis A statement (
+Annex V)
+-  showing the details of counterfeit notes detected in the bank branches during  the month shall be compiled and forwarded to the Issue Office of Reserve Bank  concerned so as to reach them by 7th of the next month.
+Bank branches need not  report the data to NCRB.
+Under Rule 3 of  Prevention of Money Laundering Rules, 2005, Principal Officers of banks are  also required to report information on cash transactions where forged notes  have been used as genuine note to The Director, FIU-IND, Financial Intelligence  Unit- India, 6th Floor, Hotel Samrat, Chanakyapuri, New Delhi-110021, within  seven working days.
+A “nil “report may be  sent in case no counterfeit has been detected during the month.
+II By Forged Note  Vigilance Cell of Bank
+Forged Note Vigilance  Cell set up at the Head Office of the bank (other than Cooperative and Regional  Rural Banks) shall submit a monthly Return reflecting data on banknotes  processed  (
+`
+100 and above),  counterfeit notes detected by the bank, on an all-India basis in a prescribed  proforma described at
+Para 11
+,
+A "nil" report  may be sent in case no counterfeit has been detected during the month.
+III By Co-operative  Banks and Regional Rural Banks
+Data on Counterfeit  Notes detected by branches of Co-operative Banks and Regional Rural Banks  should be furnished on monthly basis to the respective Issue Office of Reserve  Bank
+(
+Annex V
+).
+Data on an all-India  basis should be compiled at the Head Office of the bank on a monthly basis in  the prescribed proforma described at Para 11.
+Para 11  Compensation
+The  banks will be compensated by RBI to the extent of 25  % of the notional value of the counterfeit notes of
+`
+100 denomination and above, detected  and reported to RBI and Police authorities.
+Claims  for compensation should be made through the Forged Note Vigilance Cell of the  banks in the prescribed format
+(Annex VI)
+on a monthly basis through
+email
+within fifteen days of the succeeding  month.
+Reimbursement  will be done by RBI, Department of Currency Management, to begin with, on a  quarterly basis.
+A  review of the above system will be conducted after one year.
+Para  12 Preservation of Counterfeit Notes Received from Police Authorities
+All Counterfeit Notes  received back from the police authorities/courts may be carefully preserved in  the safe custody of the bank and a record thereof be maintained by the branch  concerned. Forged Note Vigilance Cell of the bank shall also maintain a  branch-wise consolidated record of such Counterfeit Notes.
+These Counterfeit Notes  at branches should be subjected to verification on a half-yearly basis (on 31st  March and 30th September) by the Officer-in- Charge of the bank office  concerned. They should be preserved for a period of three years from the date  of receipt from the police authorities.
+They may thereafter be  sent to the concerned Issue Office of Reserve Bank of India with full details.
+Counterfeit notes, which  are the subject matter of litigation in the court of law should be preserved  with the branch concerned for three years after conclusion of the court case.
+Para 13 Detection  of Counterfeit Notes - Training of Staff
+It is necessary to  ensure that the cash handling staff in banks and treasuries / sub-treasuries is  fully conversant with the security features of a banknote.
+With a view to educating  the branch staff on detection of counterfeit notes, the design and security  features of all the banknotes shown in
+Annex VII
+have been  supplied to all the banks / treasuries with instructions to display them  prominently at the branches for information of the public. Posters of the  2005-06 series of banknotes have also been supplied to bank branches for  display at the branches. Posters of the 2005-06 series are also available for  download in
+http://www.paisaboltahai.rbi.org.in
+.
+The Controlling Offices  / Training Centers should also organise / conduct training programmes on the  security features of banknotes for members of staff to enable detection of  counterfeit notes at the point of receipt itself. The banks  should ensure that all bank personnel handling cash are trained on features of  genuine Indian bank notes within a period of 2 years. The Reserve Bank will  also provide faculty support and training materials.

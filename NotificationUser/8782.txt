@@ -1,0 +1,117 @@
+(829 kb)
+Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalising Distressed Assets in the Economy
+RBI/2013-14/528
+DNBS (PD) CC.No.371/03.05.02/2013-14
+March 21, 2014
+All NBFCs
+Dear Sirs,
+Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalising Distressed Assets in the Economy
+Please refer to the
+Framework for Revitalising Distressed Assets in the Economy (Framework)
+issued by the Reserve Bank on January 30, 2014. The framework covered in the guidelines, which would be fully effective from April 1, 2014, has outlined a corrective action plan that will incentivize early identification of problem account, timely restructuring of accounts which are considered to be viable, and taking prompt steps by lenders for recovery or sale of unviable accounts. In the background of the above, to the extent it is applicable to NBFCs, the following guidelines are issued to NBFCs.
+2. Corrective Action Plan to arrest increasing NPAs
+2.1 Early Recognition of Stress and Reporting to Central Repository of Information on Large Credits (CRILC)
+2.1.1 Before a loan account turns into an NPA, NBFCs will be required to identify incipient stress in the account by creating a sub-asset category viz. ‘Special Mention Accounts’ (SMA) with the three sub-categories as given in the table below:
+SMA Sub-categories
+Basis for classification
+SMA-0
+Principal or interest payment not overdue for more than 30 days but account showing signs of incipient stress as illustrated in the annex to the framework of Jan 30, 2014
+1
+SMA-1
+Principal or interest payment overdue between 31-60 days
+SMA-2
+Principal or interest payment overdue between 61-180 days
+2.1.2 The Reserve Bank of India has set up a Central Repository of Information on Large Credits (CRILC) to collect, store, and disseminate credit data to lenders as advised by the Bank in its Circular dated February 13, 2014 issued by the Department of Banking Supervision. All systemically important non-banking financial companies (NBFC-ND-SI), NBFCs-D and all NBFC-Factors, (Notified NBFCs, for short) shall be required to report the relevant credit information on a quarterly basis in the enclosed formats given in
+Annex II
+to CRILC once the XBRL reporting mechanism is established. Till then they shall forward the information to PCGM, Department of Banking Supervision, Reserve Bank of India, World Trade Centre, Mumbai – 400 005 in hard copy. The data includes credit information on all the borrowers having aggregate fund-based and non-fund based exposure of Rs.50 million and above with them and the SMA status of the borrower. The Notified NBFCs shall be ready with the correct PAN details of their borrowers having fund based and/or non-fund based exposure of Rs. 50 million and above duly authenticated from Income Tax records.
+2.1.3 Individual notified NBFCs shall closely monitor the accounts reported as SMA-1 or SMA-0 as these are the early warning signs of weaknesses in the account. They should take up the issue with the borrower with a view to rectifying the deficiencies at the earliest. However, as soon as an account is reported as SMA-2 by one or more lending banks/notified NBFCs, this will trigger the mandatory formation of a Joint Lenders’ Forum (JLF) and formulation of Corrective Action Plan (CAP)
+2
+as envisioned in Para 2.3 of the Framework. Notified NBFCs must put in place a proper Management Information and Reporting System so that any account having principal or interest overdue for more than 60 days gets reported as SMA-2 on the 61st day itself in the format given in
+Annex III
+, in hard copy to PCGM, Department of Banking Supervision, Reserve Bank of India, World Trade Centre, Mumbai – 400 005. NBFCs shall endeavour to put in place an XBRL reporting framework at the earliest.
+2.2 Accelerated Provisioning
+2.2.1 In cases where NBFCs fail to report SMA status of the accounts to CRILC or resort to methods with the intent to conceal the actual status of the accounts or evergreen the account, NBFCs will be subjected to accelerated provisioning for these accounts and/or other supervisory actions as deemed appropriate by RBI. The current provisioning requirement and the revised accelerated provisioning in respect of such non performing accounts are as under:
+Asset Classification
+Period as NPA
+Period as NPA
+For NBFCs
+Current
+*provisioning (%)
+NBFCs
+Revised accelerated provisioning (%) for banks and proposed for NBFCs
+Sub- standard
+(secured)
+Up to 6 months
+No change
+6 months to 1 year
+6 months to 1 and half year
+For secured and unsecured
+10
+25
+Sub-standard (unsecured ab-initio)
+Up to 6 months
+--
+25
+--
+6 months to 1 year
+6 months to 1 and half year
+10
+40
+6 months to 1 and half year
+10
+Doubtful I
+2nd year
+Upto One year
+(secured portion)
+20
+40 (secured portion)
+Up to one year
+(unsecured portion)
+100
+100 (unsecured portion)
+1-3 years
+30 for secured portion and 100 for unsecured portion
+For NBFCs the above may be adopted i.e. 40 and 100
+Doubtful II
+3rd & 4th year
+More than Three Years
+100 for unsecured portion and 50 for secured portion
+100 for both secured and unsecured portions
+Doubtful III
+5th year onwards
+100
+2.2.2   Further, any of the lenders who have agreed to the restructuring decision under the CAP by JLF and is a signatory to the Inter Creditor Agreement (ICA) and Debtor Creditor Agreement (DCA), but changes their stance later on, or delays/refuses to implement the package, will also be subjected to accelerated provisioning requirement as indicated above, on their exposure to this borrower i.e., if it is classified as an NPA. If the account is standard in those lenders’ books, the provisioning requirement would be 5%. Further, any such backtracking by a lender might attract negative supervisory view during Supervisory Review and Evaluation Process.
+2.2.3 Presently, asset classification is based on record of recovery at individual NBFCs and provisioning is based on asset classification status at the level of each  NBFCs. However, if lenders fail to convene the JLF or fail to agree upon a common CAP within the stipulated time frame, the account will be subjected to accelerated provisioning as indicated above, if it is classified as an NPA. If the account is standard in those lenders’ books, the provisioning requirement would be 5%.
+2.3 “Non-Co-operative borrowers
+”
+2.3.1   All Notified NBFCs shall identify “non-co-operative borrowers
+”.
+A “ non-co-operative borrower”  is defined as
+one who does not provide necessary information required by a lender to assess its financial health even after 2 reminders; or denies access to securities etc. as per terms of sanction or does not comply with other terms of loan agreements within stipulated period; or is hostile / indifferent / in denial mode to negotiate with the NBFC on repayment issues; or plays for time by giving false impression that some solution is on horizon; or resorts to vexatious tactics such as litigation to thwart timely resolution of the interest of the lender/s. The borrowers will be given 30 days’ notice to clarify their stand before their names are reported as non-cooperative borrowers.
+2.3.2  With a view to discouraging borrowers/defaulters from being unreasonable and non-cooperative with lenders in their bonafide resolution/recovery efforts, NBFCs may classify such borrowers as non-cooperative borrowers, after giving them due notice if satisfactory clarifications are not furnished. Notified NBFCs will be required to report classification of such borrowers to CRILC. Further, NBFCs will be required to make higher/accelerated provisioning in respect of new loans/exposures to such borrowers as also new loans/exposures to any other company promoted by such promoters/ directors or to a company on whose board any of the promoter / directors of this non-cooperative borrower is a director. The provisioning applicable in such cases will be at the rate of 5% if it is a standard account and accelerated provisioning, if it is an NPA. This is a prudential measure since the expected losses on exposures to such non-cooperative borrowers are likely to be higher.
+3. Board Oversight
+3.1 The Board of Directors of NBFCs will take all necessary steps to arrest the deteriorating asset quality in their books and should focus on improving the credit risk management system. Early recognition of problems in asset quality and which resolution envisaged in the Framework requires the lenders to be proactive and make use of CRILC as soon as it becomes functional.
+3.2 Boards should ensure that a policy is put in place for timely provision of credit information to and access to credit information from CRILC, prompt formation of JLFs, monitoring the progress of JLFs and periodical review of the above policy.
+4. Credit Risk Management
+4.1 Notified NBFCs should carry out their independent and objective credit appraisal in all cases of lending and must not depend on credit appraisal reports prepared by outside consultants, especially the in-house consultants of the borrowing entity. They should carry out sensitivity tests/scenario analysis, especially for infrastructure projects, which should, inter alia, include project delays and cost overruns. This will aid in taking a view on viability of the project at the time of deciding Corrective Action Plan (CAP).  NBFCs  should ascertain the source and quality of equity capital brought in by the promoters /shareholders. Multiple leveraging, especially, in infrastructure projects, is a matter of concern as it effectively camouflages the financial ratios such as Debt/Equity ratio, leading to adverse selection of the borrowers. Therefore, NBFCs should ensure at the time of credit appraisal that debt of the parent company is not infused as equity capital of the subsidiary/SPV.
+4.2 While carrying out the credit appraisal, notified NBFCs should verify as to whether the names of any of the directors of the companies appear in the list of defaulters by way of reference to DIN/PAN etc. Further, in case of any doubt arising on account of identical names, NBFCs should use independent sources for confirmation of the identity of directors rather than seeking declaration from the borrowing company.
+4.3 In addition to the above, notified NBFCs are advised that with a view to ensuring proper end-use of funds and preventing diversion/siphoning of funds by the borrowers, NBFCs could consider engaging their own auditors for such specific certification purpose without relying on certification given by borrower’s auditors. However, this cannot substitute NBFC’s basic minimum own diligence in the matter.
+5. Registration of Transactions with CERSAI
+5.1 A reference is invited to
+DNBS.(PD).CC.No.360/03.10.001/2013-14 November 12, 2013
+on Filing of records of Equitable Mortgageswith the Central Registry, wherein all NBFCs were advised to file and register the records of all equitable mortgages created in their favour on or after 31st March 2011 as and when equitable mortgages are created in their favour, with the Central Registry of Securitisation Asset Reconstruction and the Security Interest of India (CERSAI). In continuation of the above, NBFCs are further advised to register all types of mortgages with CERSAI.
+6. Purchase/Sale of Non-Performing Financial Assets to Other Banks/FIs/NBFCs
+6.1 DBOD Circular on Guidelines on Sale/Purchase of Non-Performing Financial Assets’ (also applicable to NBFCs) as consolidated and updated in DBOD Master Circular ‘Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances’, inter-alia, prescribes the following:
+A non-performing asset in the books of a bank shall be eligible for sale to other banks only if it has remained a non-performing asset for at least two years in the books of the selling bank.
+A non-performing financial asset should be held by the purchasing bank in its books at least for a period of 15 months before it is sold to other banks
+6.2 In partial modification to the above, it is advised that NBFCs will be permitted to sell their NPAs to other banks/FIs/NBFCs (excluding SCs/RCs) without any initial holding period. However, the non-performing financial asset should be held by the purchasing bank/FI/NBFC in its books at least for a period of 12 months before it is sold to other banks/financial institutions/NBFCs (excluding SCs/RCs). The extant prudential norms on asset classification of such assets in the books of purchasing banks/FIs/NBFCs will remain unchanged.
+7. The guidelines will be effective from April 1, 2014.
+Yours faithfully,
+(N.S.Vishwanathan)
+Principal Chief  General Manager
+1
+An illustrative list of signs of stress for categorising an account as SMA-0 is given in
+Annex I
+2
+Details as applicable to NBFCs are given in
+Annex IV

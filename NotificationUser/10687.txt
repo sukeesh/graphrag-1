@@ -1,0 +1,50 @@
+(677 kb)
+RBI Instruction to Banks for Changes in ATM
+RBI/2016-17/115
+DCM (Plg) No. 1241/10.27.00/2016-17
+November 09, 2016
+The Chairman / Managing Director/ Chief Executive Officer,
+Public Sector Banks/ Private Sector Banks / Foreign Banks/
+Regional Rural Banks / Urban Cooperative Banks/
+State Cooperative Banks
+Dear Sir
+Withdrawal of Legal Tender Character of existing ₹ 500/- and ₹ 1000/- Bank Notes
+Please refer to our
+circular DCM (Plg) No. 1226/10.27.00/2016-17 November 08, 2016
+on the captioned subject. In order to ensure that the ATMs stop dispensing specified banknotes (SBN) of ₹ 500 and ₹ 1,000 and dispense only ₹ 100 and ₹ 50 banknotes once the ATMs are re-opened for public transactions, the following actions are required to be taken:
+I. Reopening of ATMs from November 11, 2016
+Necessary changes at Switch level (if required, through their outsourced / managed services providers) to disable the dispensing of SBN from respective cassettes at the ATMs and necessary arrangements may be made to evacuate the existing SBN lying in the ATMs should be made.
+II. Recalibration of ATMs to dispense ₹ 100 and ₹ 50 banknotes through ATMs
+Banks shall ensure (if required, through their outsourced / managed services providers) that:
+at least one cassette in each ATM is configured to dispense banknotes of ₹ 100 denomination immediately.
+ATM fit notes (fresh and/or recyclable) are supplied to the necessary agencies to ensure the above; and
+If feasible, additional cassettes in the ATMs to dispense non-SBN banknotes are configured.
+III. Withdrawal limit of ₹ 2,000 per day per card
+Banks (issuing banks) shall make necessary changes in their card management system / core banking system to ensure that:
+the withdrawal limit of ₹ 2,000 per day per card is applied to all its customers for withdrawals done at ATMs;
+the limit, would be within the overall withdrawal limit of ₹ 20,000/- in a week across all channels, including withdrawals at ATMs and at Point-of-Sale; and
+necessary changes are made, as and when the limits are revised / changed.
+IV. Withdrawal through Banking Correspondents
+As BCs are agents of banks, the banks shall issue suitable instructions to BCs for cash deposit and withdrawal transactions done through micro-ATMs and Aadhaar Enabled Payment Systems (AEPS) so as to ensure that dispensing and acceptance of SBN are in adherence to extant instructions, inter alia, limits for withdrawal at bank counters (as indicated in the
+GOI Press Release dated November 8, 2016
+)
+V. Acceptance of deposits through cash deposit machines and cash recyclers
+a) Banks shall keep cash deposit machines (CDMs) and Cash Recyclers (CRs) operational
+only
+on their fulfilling the following conditions:
+The CDMs and CRs are disabled for dispensing SBN.
+The CDMs and CRs are configured to accept SBN (till December 30, 2016 only) using card-based authentication (no cardless deposits to be enabled for depositing SBN) for credit of amount only to the card-holders account (in other words, deposits into third party accounts cannot be accepted).
+b) The CDMs and CRs can continue to accept and/or dispense non-SBN as hitherto subject to the withdrawal limits applicable for transactions at ATMs.
+VI. Readiness for dispensing and accepting new series of high denomination banknotes (₹ 500 and ₹ 2000)
+Banks shall also ensure that their ATMs and CDMs/CRs are kept in readiness to dispense (withdrawal) and accept (deposit) high denomination banknotes in the Mahatma Gandhi (New) Series, as and when, the same are available for putting into circulation.
+2. In modification of the instructions contained in item 2(ii) and 2(vi) of the said circular, banks are now advised that White Label ATM Operators may approach their cash supplying banks (which may or may not be the sponsor bank) to deposit the recalled banknotes.
+3. To bring in improvements in the customer service, it has been decided to put in place the following additional arrangements:
+Bank counters should remain open for extended hours as may be needed to provide exchange related services.
+Banks should set up Help Line for assisting the public regarding the exchange related services. Information relating to the Help Line should be displayed in the bank branches and also uploaded on the web site of the bank.
+Cash withdrawal of ₹ 2000/-, per day per card may be allowed at PoS terminals, subject to the pre-specified weekly limit.
+4. On a review, the instructions on provision of exchange facility through Business Correspondents as indicated in para 3(iv) of our circular dated November 8, 2016 stands withdrawn.
+5. These instructions should be implemented with immediate effect.
+6. Please acknowledge receipt.
+Yours faithfully
+(P Vijaya Kumar)
+Chief General Manager

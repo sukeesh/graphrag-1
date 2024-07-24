@@ -1,0 +1,79 @@
+(190 kb)
+Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+RBI/2013-14/666
+DBOD.No.CID.BC.127/20.16.056/2013-14
+June 27, 2014
+All Commercial Banks (excluding RRBs)
+All India Notified Financial Institutions and
+All Credit Information Companies.
+Dear Sir / Madam
+Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+A Committee to Recommend Data Format for Furnishing of Credit Information to Credit Information Companies (Chairman: Shri Aditya Puri) was constituted by the Reserve Bank of India (RBI). The Report of the Committee was placed on RBI’s website on March 22, 2014 inviting comments on the recommendations of the Committee. A copy of the Report of the Committee is attached for reference. (
+http://rbi.org.in/scripts/PublicationReportDetails.aspx?UrlPage=&ID=763
+)
+2. On examination of the recommendations of the Committee and the comments/suggestions received, it has been decided to implement the following recommendations with modifications, wherever appropriate:
+Creating Awareness about Credit Information Report (CIR)
+:
+With a view to appreciating the benefits accruing to banks/FIs arising out of better screening of loan applicants and usage of CIR in credit appraisal, Credit Information Companies (CIC) should regularly hold workshops for banks/FIs, in association with Indian Banks’ Association (IBA) or Micro Finance Institutions Network (MFIN), as the case may be. [
+Recommendation 8.7
+]
+Credit Information Reports (CIRs) / Credit Bureau Usage in all Lending Decisions and Account Opening:
+Banks/FIs should include in their credit appraisal processes/loan policies, suitable provisions for obtaining CIRs from one or more CICs so that the credit decisions are based on information available in the system. In this context, as commercial borrowers’ data is not adequately populated with the CICs, to start with, banks/FIs may institute board approved policies for credit bureau usage in all lending decisions and account opening to retail borrowers/consumer borrower segment. [
+Recommendation 8.9
+]
+Populating Commercial Data Records in Databases of all CICs
+: Presently, the databases of CICs are not adequately populated with commercial borrowers’ data. A roadmap in regard to CICs populating their databases in respect to corporate borrowers is required to be laid out. For this purpose, banks/FIs are advised to report data in respect of their corporate borrowers to the CICs in a timely manner with immediate effect and CICs should populate their databases with commercial data records within six months. Therefore, after a period of six months, banks/FIs should also start using data available with the CICs in respect of commercial / corporate borrowers, under a Board approved policy. [
+Recommendation 8.8
+]
+Standardisation of Data Format:
+With a view to streamlining the process of data submission by banks/FIs to CICs, it has been decided to standardise the formats for data submission by the banks/FIs to the CICs. The data format as per
+Annex I
+should be taken as the base for standardisation of data format for consumer and commercial borrowers. In respect of Micro Finance Institution (MFI) segment, data format as per
+Annex II
+should be taken as the base for standardisation. These formats should be put in use by the banks/FIs for reporting to CICs with immediate effect. The data format would be a non-proprietary reporting format and henceforth would be known as “Uniform Credit Reporting Format”. The segment viz. consumer, commercial, and MFI will be denoted appropriately in parentheses, for example, “Uniform Credit Reporting Format (Consumer)”. These should be uniformly adopted by the banks/FIs and CICs. [
+Recommendation 8.10 (a)
+]
+Technical Working Group:
+It has been decided to constitute a Technical Working Group comprising of representatives from Scheduled Commercial Banks (a member each from a Public Sector Bank, a Private Sector Bank and a Foreign Bank), Urban Cooperative Banks, Regional Rural Banks (RRBs), All India Notified Financial Institutions, CICs, NBFCs, HFCs, IBA and MFIN to institutionalise a continuing mechanism for reviewing and making changes where necessary to the data formats. This Working Group should review the data formats periodically, say once a year, and suggest modifications to the same. It would frame rules on all data fields for various data formats, viz. consumer, commercial and MFI. The data formats after finalisation by the Group will be submitted to RBI for approval. In order to implement the recommendations relating to the Technical Working Group, CIBIL will act as the convenor of the Group and take the lead to operationalize the recommendation. To start with, the Working Group may take up, on a priority basis, changes in the commercial borrower segment, where there is an urgent need to capture data required for sharing of information among member banks/FIs under consortium/multiple banking arrangements and to aid in implementation of the instructions at paragraph 2 (iii) above. The Working Group should also incorporate the additional fields as detailed in
+Annex III
+. [
+Recommendations 8.10 (b)
+and
+8.11
+]
+Rectification of Rejected Data:
+CICs should share with banks/FIs the logic and validation processes involved in data acceptance so that instances of data rejection can be minimised. The reasons for rejection need to be parameterised and circulated among the banks/FIs concerned. Rejection reports should be made simple and understandable so that they can be used for fixing reporting and data level issues. Banks/FIs should rectify the rejected data and upload the same with the CICs within seven days of receipt of such rejection report. [
+Recommendation 8.15
+]
+Data Quality Index:
+A common Data Quality Index would assist banks/FIs in determining the gaps in their data and also move towards improving their performance over a period of time. In addition, they would also be able to rank their own performance against that of their peers and identify their relative position. Annex 6 of the Report contains a draft Data Quality Index as agreed upon by all the CICs giving different parameters for assessing the data submitted by the banks/FIs
+.
+CICs and banks/FIs may adopt this Data Quality Index for assessing the quality of data submissions and make efforts towards improving data quality and minimising data rejections, within a time period of six months. [
+Recommendation 8.16
+]
+Credit Score:
+To facilitate the understanding and interpretation of credit scores in an easy and consistent manner, it is advised that the CIBIL method of calibrating credit score from 300 to 900 be adopted by the other CICs also, within a time period of six months, so that they have a common classification of Credit Scores. [
+Recommendation 8.17
+]
+Standardising Format of Credit Information Report (CIR)
+: It is not considered necessary to standardise the format of the CIR as such differentiation is essential to promoting competition in the market. However, CICs should standardise the CIR terminology and also have some mandatory key fields. This would provide some comparability for the users between CIRs received from two or more CICs. The detailed aspects of a standardised CIR are furnished in
+Annex IV
+. [
+Recommendation 8.18(a)
+]
+Best Practices for Banks/FIs
+: Every bank/FI should take into account the best practices as detailed in
+Annex V
+while formulating or reviewing the policy and procedure under the Credit Information Companies (Regulation) Act, 2005 (CICRA) with the approval of their Board of Directors. [
+Recommendation 8.25
+]
+Best Practices for Credit Information Companies
+: CICs should also take into account best practices as detailed in
+Annex VI
+and put in place a system for consumer complaint redressal with the approval of their Board of Directors. Such policy may be displayed on their websites. [
+Recommendation 8.26
+]
+3. The other recommendations of the Committee would be further examined before taking a decision on their implementation. Banks/FIs and CICs are advised to implement the instructions contained in this circular, as per the time schedule indicated.
+Yours faithfully,
+(Sudarshan Sen)
+Chief General Manager

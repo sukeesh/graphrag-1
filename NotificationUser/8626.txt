@@ -1,0 +1,65 @@
+(123 kb)
+Novation of OTC Derivative Contracts
+RBI/2013-14/406
+DBOD.No.BP.BC.76/21.04.157/2013-14
+December 9,  2013
+All Scheduled Commercial Banks
+(Excluding RRBs and LABs) &
+All India Term-Lending & Refinancing Institutions
+Madam / Sir,
+Novation of OTC Derivative Contracts
+Please refer to our
+circulars  DBOD.No.BP.BC.86/21.04.157/2006-07 dated April 20, 2007
+on Comprehensive  Guidelines on Derivatives and
+DBOD.No.BP.BC.44  /21.04.157/2011-12 dated November 2, 2011
+on Comprehensive Guidelines on  Derivatives: Modifications permitting novation of OTC derivative contracts. In  view of the references received from banks, operational guidance on novation is
+enclosed
+.
+Yours  faithfully,
+(Chandan Sinha)
+Principal Chief General Manager
+Novation of OTC Derivative Contracts
+1. Novation
+A novation is the replacement of a contract  between two counterparties (Transferor
+1
+, who steps out of the existing deal, and  Remaining Party
+2
+)  to an OTC derivatives transaction with a new contract between Remaining Party  and a third party (Transferee
+3
+).  Transferee becomes the new counterparty to Remaining Party. The novation can  only be done with the prior consent
+4
+of  Remaining Party.
+2.  Purpose of Novation
+Novation  may be used for management of counter-party exposure and counter-party credit  risk, to deal with events such as winding-up of business/lines of business by  banks and mergers/acquisitions.
+3. Mechanism for Novation
+3.1 Under novation, a tripartite agreement is  signed between the three parties - Transferor, Remaining Party and Transferee,  wherein, Transferee steps in the contract to face Remaining Party and  Transferor steps out. The original contract stands extinguished and is replaced  by a new contract with identical terms/parameters such as notional amount,  maturity date, etc. to the original contract except for the change in  counterparty for the Remaining Party.
+3.2 Transferor and Remaining Party are each  released from their obligations under the original transaction to each other  and their respective rights against each other are cancelled. These rights and  obligations identical in their terms to original transaction are reinstated in  the new transaction between Remaining Party and Transferee.
+3.3 The  novation should result in transfer of counterparty credit risk and market risk arising  from the derivative contract from Transferor to Transferee.
+3.4 Under  the novation transaction, the amount corresponding to Mark-to-Market value of  the derivative contract at the prevailing market rate on novation date should  be exchanged between Transferor and Transferee who are actually economically  impacted by the transaction. This exchange
+5
+of MTM should be done upfront. There should be no cash-flows for Remaining  Party on account of novation transaction.
+3.5 Transferor  and Transferee may agree on the charge/fee between them for the transfer of the  trade. The fees and their settlement terms may not form part of the novation  agreement since these arrangements do not affect the Remaining Party.
+3.6 Any  document, which could be related to original contract and underlying exposure, should  be transferred from Transferor to Transferee as part of the novation agreement.
+4. Documentation
+The  three parties involved may use the standard novation agreement for this  purpose.
+5. Other Conditions
+5.1 Transferor  bank can novate a derivative contract only after the contract has been held by Transferor  in its books for a minimum period of
+six months for contracts with  original maturity of up to one year, and
+nine months for contracts with  original maturity of more than one year.
+However, this  condition would not apply in cases where Transferor bank is winding-up the  business or put under liquidation.
+5.2 Transferee  bank can undertake novation only if Remaining Party is its constituent borrower.
+5.3 Transferee  bank should carry out necessary due diligence independently as required under  RBI
+circular DBOD.No.BP.BC.44/21.04.157/2011-12 dated November 2, 2011
+on  ‘Comprehensive Guidelines on Derivatives: Modifications’ and Master Circular on
+‘Risk Management and  Inter-Bank Dealings’
+issued by Foreign Exchange Department.
+1
+a party to a transaction that proposes to transfer, or has  transferred, by novation to a transferee all its rights, liabilities, duties  and obligations with respect to a remaining party and discharges such remaining  party.
+2
+a party to a transaction whose consent is required in connection  with, or who has consented to, a   transferor’s transfer by novation and the acceptance thereof by the  transferee of all of the transferor’s rights, liabilities, duties and obligations  with respect to such remaining party.
+3
+a party to a transaction that proposes to accept, or has accepted,  a transferor’s transfer by novation all of the rights, liabilities, duties and  obligations of a transferor with respect to a remaining party.
+4
+The remaining party would have full discretion and may reject the  proposed novation. Such rejection can be on account of credit, operational,  accounting or other reasons.
+5
+The exact consideration paid may differ from the Mark- to- Market  value on account of any balance sheet usage charges that transferee may wish to  impose in order to have the derivative transaction on its books for the residual  maturity.

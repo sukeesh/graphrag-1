@@ -1,0 +1,13 @@
+(91 kb)
+Submission of Statutory returns (SLR-Form VIII) in XBRL platform
+RBI/2016-17/302
+Ref: DBR.CO.No.Ret.BC/66/12.07.144/2016-17
+May 11, 2017
+The Chairperson
+All RRBs
+Madam/Dear Sir,
+Submission of Statutory returns (SLR-Form VIII) in XBRL platform
+It has been decided to move the reporting of SLR from PCRPCD to XBRL (Extensible Business Reporting Language) platform. You are therefore advised to submit the returns (Form VIII) in XBRL from the month of April 2017.
+Yours faithfully,
+(S K Kar)
+Chief General Manager

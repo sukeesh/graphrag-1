@@ -1,0 +1,143 @@
+(342 kb)
+Interest Rates on Advances
+RBI/2015-16/273
+DBR.No.Dir.BC.67/13.03.00/2015-16
+December 17, 2015
+All Scheduled Commercial Banks
+(Excluding RRBs)
+Dear Sir/ Madam
+Interest Rates on Advances
+A reference is invited to
+paragraph 22
+of the first Bi-monthly Monetary Policy Statement 2015-16 announced on April 7, 2015 which stated that in order to improve the efficiency of monetary policy transmission, the Reserve Bank will encourage banks to move in a time-bound manner to marginal-cost-of-funds-based determination of their Base Rate’. Accordingly,
+draft guidelines on computation of Base rate based on marginal cost of funding were hosted on the RBI website on September 1, 2015
+for comments/ feedback from stakeholders.
+2. Taking into consideration the feedback received, it has been decided that banks shall follow the following guidelines for pricing their advances:
+a) Internal Benchmark
+i. All rupee loans sanctioned and credit limits renewed w.e.f. April 1, 2016 will be priced with reference to the
+Marginal Cost of Funds based Lending Rate (MCLR)
+which will be the internal benchmark for such purposes.
+ii. The MCLR will comprise of:
+Marginal cost of funds;
+Negative carry on account of CRR;
+Operating costs;
+Tenor premium.
+iii. Marginal Cost of funds
+The marginal cost of funds will comprise of Marginal cost of borrowings and return on networth. The detailed methodology for computing marginal cost of funds is given in the
+Annex
+.
+iv. Negative Carry on CRR
+Negative carry on the mandatory CRR which arises due to return on CRR balances being nil, will be calculated as under:
+Required CRR x (marginal cost) / (1- CRR)
+The marginal cost of funds arrived at (iii) above will be used for arriving at negative carry on CRR.
+v. Operating Costs
+All operating costs associated with providing the loan product including cost of raising funds will be included under this head. It should be ensured that the costs of providing those services which are separately recovered by way of service charges do not form part of this component.
+vi. Tenor premium
+These costs arise from loan commitments with longer tenor. The change in tenor premium should not be borrower specific or loan class specific. In other words, the tenor premium will be uniform for all types of loans for a given residual tenor.
+vii. Since MCLR will be a tenor linked benchmark, banks shall arrive at the MCLR of a particular maturity by adding the corresponding tenor premium to the sum of Marginal cost of funds, Negative carry on account of CRR and Operating costs.
+viii. Accordingly, banks shall publish the internal benchmark for the following maturities:
+overnight MCLR,
+one-month MCLR,
+three-month MCLR,
+six month MCLR,
+One year MCLR.
+In addition to the above, banks have the option of publishing MCLR of any other longer maturity.
+b) Spread
+i. Banks should have a Board approved policy delineating the components of spread charged to a customer. The policy shall include principles:
+To determine the quantum of each component of spread.
+To determine the range of spread for a given category of borrower / type of loan.
+To delegate powers in respect of loan pricing.
+ii. For the sake of uniformity in these components, all banks shall adopt the following broad components of spread:
+a. Business strategy
+The component will be arrived at taking into consideration the business strategy, market competition, embedded options in the loan product, market liquidity of the loan etc.
+b. Credit risk premium
+The credit risk premium charged to the customer representing the default risk arising from loan sanctioned should be arrived at based on an appropriate credit risk rating/scoring model and after taking into consideration customer relationship, expected losses, collaterals, etc.
+iii. The spread charged to an existing borrower should not be increased except on account of deterioration in the credit risk profile of the customer. Any such decision regarding change in spread on account of change in credit risk profile should be supported by a full-fledged risk profile review of the customer.
+iv. The stipulation contained in sub-paragraph (iii) above is, however, not applicable to loans under consortium / multiple banking arrangements.
+c) Interest Rates on Loans
+i. Actual lending rates will be determined by adding the components of spread to the MCLR. Accordingly, there will be no lending below the MCLR of a particular maturity for all loans linked to that benchmark
+ii. The reference benchmark rate used for pricing the loans should form part of the terms of the loan contract.
+d) Exemptions from MCLR
+i. Loans covered by schemes specially formulated by Government of India wherein banks have to charge interest rates as per the scheme, are exempted from being linked to MCLR as the benchmark for determining interest rate.
+ii. Working Capital Term Loan (WCTL), Funded Interest Term Loan (FITL), etc. granted as part of the rectification/restructuring package, are exempted from being linked to MCLR as the benchmark for determining interest rate.
+iii. Loans granted under various refinance schemes formulated by Government of India or any Government Undertakings wherein banks charge interest at the rates prescribed under the schemes to the extent refinance is available are exempted from being linked to MCLR as the benchmark for determining interest rate. Interest rate charged on the part not covered under refinance should adhere to the MCLR guidelines.
+iv. The following categories of loans can be priced
+without
+being linked to MCLR as the benchmark for determining interest rate:
+(a) Advances to banks’ depositors against their own deposits.
+(b) Advances to banks’ own employees including retired employees.
+(c) Advances granted to the Chief Executive Officer / Whole Time Directors.
+(d) Loans linked to a market determined external benchmark.
+(e) Fixed rate loans granted by banks. However, in case of hybrid loans where the interest rates are partly fixed and partly floating, interest rate on the floating portion should adhere to the MCLR guidelines.
+e) Review of MCLR
+i. Banks shall review and publish their
+Marginal Cost of Funds based Lending Rate (MCLR)
+of different maturities every month on a pre-announced date with the approval of the Board or any other committee to which powers have been delegated.
+ii. However, banks which do not have adequate systems to carry out the review of MCLR on a monthly basis, may review their rates once a quarter on a pre-announced date for the first one year i.e. upto March 31, 2017. Thereafter, such banks should adopt the monthly review of MCLR as mentioned in (i) above.
+f) Reset of interest rates
+i. Banks may specify interest reset dates on their floating rate loans. Banks will have the option to offer loans with reset dates linked either to the date of sanction of the loan/credit limits or to the date of review of MCLR.
+ii. The Marginal Cost of Funds based Lending Rate (MCLR) prevailing on the day the loan is sanctioned will be applicable till the next reset date, irrespective of the changes in the benchmark during the interim.
+iii. The periodicity of reset shall be one year or lower. The exact periodicity of reset shall form part of the terms of the loan contract.
+g) Treatment of interest rates linked to Base Rate charged to existing borrowers
+i. Existing loans and credit limits linked to the Base Rate may continue till repayment or renewal, as the case may be.
+ii. Banks will continue to review and publish Base Rate as hitherto.
+iii. Existing borrowers will also have the option to move to the Marginal Cost of Funds based Lending Rate (MCLR) linked loan at mutually acceptable terms. However, this should not be treated as a foreclosure of existing facility.
+h) Time frame for implementation
+In order to give sufficient time to all the banks to move to the MCLR based pricing, the effective date of these guidelines is
+April 1, 2016
+.
+Yours faithfully
+(Lily Vadera)
+Chief General Manager
+Annex
+Sl
+Source of funds
+(excluding equity)
+Rates offered on deposits on the date of review/ rates at which funds raised
+(1)
+Balance outstanding as on the previous day of review as a percentage of total funds (other than equity)
+(2)
+Marginal cost
+(1) x(2)
+Remarks
+A
+Marginal Cost of Borrowings
+1
+Deposits
+a
+Current Deposits
+The core portion of current deposits identified based on the guidelines on Asset Liability Management issued vide circular dated October 24, 2007 should be reckoned for arriving at the balance outstanding.
+b
+Savings Deposits
+The core portion of savings deposits identified based on the guidelines on Asset Liability Management issued vide circular dated October 24, 2007 should be reckoned for arriving at the balance outstanding.
+c
+Term deposits (Fixed Rate)
+Term deposits of various maturities including those on which differential interest rates are payable should be included.
+d
+Term deposits (Floating Rate)
+The rate should be arrived at based on the prevailing external benchmark rate on the date of review.
+e
+Foreign currency deposits
+Foreign currency deposits, to the extent deployed for lending in rupees, should be included in computing marginal cost of funds. The swap cost and hedge cost of such deposits should be reckoned for computing marginal cost.
+2
+Borrowings
+a
+Short term Rupee Borrowings
+Interest payable on each type of short term borrowing will be arrived at using the average rates at which such short term borrowings were raised in the last one month. For eg. Interest on borrowings from RBI under LAF will be the average interest rate at which a bank has borrowed from RBI under LAF during the last one month.
+b
+Long term Rupee Borrowings
+Option 1:
+Interest payable on each type of long term borrowing will be arrived at using the average rates at which such long term borrowings were raised.
+Option2:
+The appropriate benchmark yield for bank bonds published by FIMMDA for valuation purposes will be used as the proxy rate for calculating marginal cost.
+c
+Foreign Currency Borrowings including HO borrowings by foreign banks (other than those forming part of Tier-I capital)
+Foreign currency borrowings, to the extent deployed for lending in rupees, should be included in computing marginal cost of funds. The all-in-cost of raising foreign currency borrowings including swap cost and hedge cost would be reckoned for computing marginal cost of funds.
+Marginal cost of borrowings
+The marginal cost of borrowings shall have a weightage of 92% of Marginal Cost of Funds while return on networth will have the balance weightage of 8%.
+B
+Return on networth
+Amount of common equity Tier 1 capital required to be maintained for Risk Weighted Assets as per extant capital adequacy norms shall be included for computing marginal cost of funds. Since currently, the common equity Tier 1 capital is (5.5% +2.5%) 8% of RWA, the weightage given for this component in the marginal cost of funds will be 8%.
+In case of newly set up banks (either domestic or foreign banks operating as branches in India) where lending operations are mainly financed by capital, the weightage for this component may be higher ie in proportion to the extent of capital deployed for lending. This dispensation will be available for a period of three years from the date of commencing operations.
+The cost of equity will be the minimum desired rate of return on equity computed as a mark-up over the risk free rate. Banks could follow any pricing model such as Capital Asset Pricing Model (CAPM) to arrive at the cost of capital. This rate can be reviewed annually.
+Marginal cost of funds = 92% x Marginal cost of borrowings + 8% x Return on networth

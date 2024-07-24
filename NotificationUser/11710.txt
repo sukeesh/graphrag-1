@@ -1,0 +1,74 @@
+(648 kb)
+Revision in Proforma and Reporting of Bank / Branch details under the Central Information System for Banking Infrastructure (CISBI)
+RBI/2019-20/81
+DCBR.BPD.(PCB/RCB).Cir.No.04/07.01.000/2019-20
+October 11, 2019
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks /
+All State Co-operative Banks /
+All District Central Co-operative Banks
+Madam / Dear Sir,
+Revision in Proforma and Reporting of Bank / Branch details under the Central Information System for Banking Infrastructure (CISBI)
+Please refer to our circulars
+UBD.CO.LS.Cir.No./43/07.01.000/2006-07 dated May 09, 2007
+and RPCD.CO.RF.No.BC.9/07.06.00/2005-06 dated July 06, 2005 on Branch Banking Statistics – Submission of Quarterly Returns – Revision of Proformae I & II.
+2. The Reserve Bank maintains the directory of all bank branches / offices / Non-Administratively Independent Offices (NAIOs) / Customer Service Points (CSPs) in India, [known as the “Master Office File” (MOF) system], which is updated based on Proforma-I and Proforma-II, submitted by banks through e-mail. The system allots Basic Statistical Return (BSR) code / Authorised Dealer (AD) code to bank branches / offices / NAIOs / CSPs.
+3. Consistent with the needs of branch licencing and financial inclusion policies as well as the need for requisite coverage of additional dimensions / features, a new reporting system, viz.,
+Central Information System for Banking Infrastructure
+(CISBI) (
+https://cisbi.rbi.org.in
+), has been web-deployed to replace the legacy MOF system.
+4. Under the new system, all co-operative banks are required to submit their information in a single Proforma (
+Annex-I
+) online on CISBI portal, as compared with the earlier system of submitting Proforma-I & Proforma-II separately through e-mail. The instructions for submission of new Proforma online are given in
+Annex-II
+. All the past information reported by banks has been migrated to CISBI and additional information should be reported in CISBI henceforth. The CISBI portal contains the relevant circulars, user manuals and other relevant documents to facilitate reporting.
+5. The Reserve Bank has provided login credentials to Nodal Officers of banks for submitting their information in CISBI. Access to CISBI can also be sought by making e-mail request at
+mofbsd@rbi.org.in
+. Banks should submit information on CISBI portal as per guidelines given in the
+Annex-III
+, and thereafter bank branch / office / NAIO / CSP codes would be allotted by CISBI after due validations. In case of status change, banks need to edit only the relevant part. All co-operative banks should
+submit immediately and in any case not later than one week
+, the information relating to opening, closure, merger, shifting and conversion of bank branches / offices / NAIOs / CSPs online through CISBI portal.
+6. To ensure correctness of data on CISBI, in the last week of every month, banks shall generate a ‘NIL Report’ in CISBI for position as on last day of the previous month, indicating the total number of functioning branches, offices, NAIOs, CSPs; and submit it through CISBI after authenticating its correctness. Banks can also use the facility to access / download the data related to them.
+7. It is further advised that CISBI also has provision to maintain complete bank level details (e.g. bank category, bank-group, bank code, type of license issued, registration details, area of operation, addresses of offices, contact details of senior officials, etc.) and history of all the changes with time stamp. After gaining first time access of the system, banks shall ensure to submit correct and updated Bank Level information in all the fields where submission / updation rights are available with the bank. After initial submission of information on CISBI portal, a one-time confirmation stating that “Correct and updated Bank level information has been submitted on CISBI” shall be sent by banks to the concerned Regional Office of Department of Co-operative Bank Supervision within one month of issuance of this circular. Any subsequent changes in the bank level information shall be submitted for updation on the CISBI portal on immediate basis by the banks.
+8. These instructions are being issued in supersession of all the instructions issued on the subject so far.
+Yours faithfully,
+(Mala Sinha)
+General Manager-In-Charge
+Encl: As above
+Annex III
+Guidelines for Co-operative Banks on the use of CISBI
+The Reserve Bank has been using the Master Office File (MOF) system for maintaining the information base on locational and business activity details of all bank branches / offices as reported by banks in terms of extant branch authorisation circulars issued by the regulatory departments [i.e., the Department of Banking Regulations (DBR) and the Department of Co-operative Banks Regulations (DCBR)] in RBI. The Basic Statistical Returns (BSR) codes (Part-I & Part-II) are allotted through the MOF system.
+2. Consistent with the needs of branch licencing and financial inclusion policies as well as the need for requisite coverage of additional dimensions/features in a secure manner, the MOF system is replaced by a new web-based
+“Central Information System for Banking Infrastructure (CISBI)”
+. The Bank Branch Statistics Division (BBSD) in the Department of Statistics and Information Management (DSIM), Reserve Bank of India would be the nodal unit for CISBI and would co-ordinate with other RBI Departments, banks, other financial institutions and stakeholders.
+3. Under the new system, information related to Bank, Branches, Office, NAIOs, other fixed customer service points (CSPs) (e.g., ATMs,etc.) must be submitted in CISBI. For accessing CISBI, each bank is allotted two types of user IDs: (i) “Bank Admin ID” and (ii) “Bank User ID”. RBI(DSIM-BBSD) will create single “Bank Admin ID” for each bank, who in turn would create multiple “Bank User IDs”. Banks can update information related to their bank by using “Bank Admin ID” and can report new branches/offices/NAIOs/CSPs or can report any change in status / address, closure / merger / conversion / relocation / upgradation, etc. of existing branches / offices / NAIOs / CSPs by using both the IDs. However, only “Bank Admin ID’ (and not “Bank User ID”) can make changes in the information related to their Bank.
+4. All the co-operative banks have to submit the above information in CISBI which will be validated and published by RBI. For getting “Bank Admin ID”, a bank should provide an authorised email ID on which RBI(DSIM-BBSD) can forward “Bank Admin ID” and its password in two different emails. A new bank seeking reporting access to CISBI, should contact RBI(DSIM-BBSD) with a request letter providing details of the bank’s nodal person, an email ID for receiving the login credentials and certain basic documents as under:
+Certificate of incorporation from the Registrar of Co-operative Societies / Central Registrar of Co-operative Societies.
+License / Authorization to carry on banking business from RBI.
+A letter of commencement of business in India.
+The Press release by RBI regarding commencement of business.
+A copy of registered Bye Laws.
+5. Based on the documents, as mentioned above, RBI(DSIM-BBSD) will open an account of the bank in CISBI system by filling its “Basic Details” in the system.
+6. System will generate the “Bank Admin ID” and will automatically send email notification of “Bank Admin ID” and its Password (in two separate emails) on the designated email ID of the bank.
+7. Bank should login on the CISBI portal (
+https://cisbi.rbi.org.in
+) using its allotted “Bank Admin ID” and change the allotted password on the first login.
+8. Bank should fill all other information pertaining to the bank and submit on the CISBI portal. RBI will validate and publish the information in CISBI.
+9. After submission of the complete information related to the bank, CISBI will generate Bank-Code and Bank Working Code.
+10. After getting the Bank / Bank Working Code, the bank can create “Bank User ID” for its internal users. Management of “Bank User ID” will remain the responsibility of the bank.
+11. Banks can submit the information related to their new branch/office/NAIOs/CSPs as per the proforma by login through “Bank Admin ID” or “Bank User ID”.
+12. For reporting any change in the existing information, banks should edit the existing information and indicate the effective date of change.
+13. Banks can also use the facility to access/ download the data relating to them.
+14. “Instructions for Filling Proforma” are given in
+Annex II
+.
+15. Banks must reset the password every three months. In case the password expires, or it is forgotten, they can login on CISBI and (a) Use “Bank Admin ID” to reset the password for Bank User ID” and (b) contact CISBI helpdesk for resetting the password of “Bank Admin ID”.
+16. All the changes will be reflected in the system and accordingly will go in the database only after the approval of RBI.
+17.
+Nil Report:
+Nil report will show the status of the bank in CISBI, i.e., total number of functioning branches /offices/NAIOs/other fixed customer service points (CSPs) (ATMs etc.) as on last day of the month as well as opened/closed during the month. Report will be generated from CISBI itself and banks will authenticate that the information in CISBI is correct and updated. If a bank finds any difference in the “Nil Report” generated by CISBI and the actual status, it should first update the information in CISBI, then generate “Nil Report” and submit it through CISBI.
+(No hard copy is required)
+.
+18. In the last week of every month, co-operative banks shall generate ‘NIL Report’ for position as on last day of previous month, authenticate it and submit on CISBI. For example, ‘NIL Report’ for the month of June 2019 shall be generated and submitted in the last week of July 2019.

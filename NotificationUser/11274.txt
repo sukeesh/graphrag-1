@@ -1,0 +1,295 @@
+(1229 kb)
+Revised guidelines on lending to Priority Sector for Primary (Urban) Co-operative Banks (UCBs)
+RBI/2017-18/175
+DCBR.BPD (PCB).Cir.No.07/09.09.002/2017-18
+May 10, 2018
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks
+Dear Sir / Madam
+Revised guidelines on lending to Priority Sector for Primary (Urban) Co-operative Banks (UCBs)
+Please refer to our
+circular UBD.CO.BPD.(PCB).MC.No.18/09.09.001/2013-14 dated October 8, 2013
+on the captioned subject and amendments thereto from time to time, consolidated in
+Master Circular DCBR.BPD.(PCB).MC.No:11/09.09.001/2015-16 dated July 1, 2015
+. The existing guidelines have been reviewed and it has been decided to issue revised guidelines (as per
+Annex-I
+) in supersession of the guidelines in the above-mentioned Master Circular.
+2. Salient features of the revised guidelines are as under:
+Target for lending to total priority sector and weaker section will continue as 40 per cent and 10 per cent, respectively, of Adjusted Net Bank Credit (ANBC) or credit equivalent of off-balance sheet exposure, whichever is higher, as hitherto.
+Agriculture: Distinction between direct and indirect agriculture is dispensed with.
+Bank loans to food and agro processing units will form part of Agriculture.
+Medium Enterprises, Social Infrastructure and Renewable Energy will form part of priority sector.
+A target of 7.5 per cent of ANBC or credit equivalent of off-balance sheet exposure, whichever is higher, has been prescribed for Micro Enterprises.
+Education: Distinction between loans for education in India and abroad is dispensed with.
+Micro Credit
+ceases to be a separate category under priority sector.
+Loan limits for housing loans qualifying under priority sector have been revised.
+Priority Sector assessment will be monitored through quarterly and annual statements.
+3. The revised guidelines will be operational with effect from the date of this circular. Priority sector loans sanctioned under the guidelines issued prior to the date of this circular will continue to be classified under priority sector till maturity / renewal.
+4. Achievement of Priority Sector targets
+Achievement of priority sector targets will be taken into account while granting regulatory clearances / approvals for various purposes. With effect from April 1, 2018, achievement of priority sector targets will be included as a criterion for classifying a UCB as Financially Sound and Well Managed (FSWM), in addition to the criteria specified in our
+circulars UBD.CO.LS.(PCB).Cir.No.20/07.01.000/2014-15
+and
+DCBR.CO.LS.(PCB).Cir.No.4/07.01.000/2014-15
+dated October 13, 2014 and January 28, 2015 respectively. For the financial year 2018-19, shortfall in achieving the priority sector target / sub-target will be assessed based on the position as on March 31, 2018. From the financial year 2019-20 onwards, the achievement at the end of the financial year will be arrived at based on the average of priority sector target / sub-target achievement as at the end of each quarter. Illustrative example is given in
+Annex-II
+.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager
+Encl.: Annex I & II.
+ANNEX-I
+Priority Sector Lending – Targets and Classification
+I. Categories under Priority Sector
+Agriculture
+Micro, Small and Medium Enterprises
+Export Credit
+Education
+Housing
+Social Infrastructure
+Renewable Energy
+Others
+Details of eligible activities under the above categories are specified in paragraph III.
+II. Targets / Sub-targets for Priority sector
+(i) The targets and sub-targets set under priority sector lending for UCBs are given below. The stipulation regarding priority sector lending is not applicable to the Salary Earners' Banks.
+Total Priority Sector
+40 percent of Adjusted Net Bank Credit [ANBC defined in sub paragraph (ii) below] or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.
+Total agriculture
+No target.
+Micro Enterprises
+7.5 percent of ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher
+Advances to Weaker Sections
+10 percent of ANBC or credit equivalent amount of Off-Balance Sheet Exposure, whichever is higher.
+(ii) The computation of priority sector targets / sub-targets achievement will be based on the ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposures, whichever is higher, as on March 31 of the preceding year. For the purpose of priority sector lending, ANBC denotes total loans and advances minus bills rediscounted with RBI and other approved Financial Institutions plus investments made after August 30, 2007 in permitted non SLR bonds under Held to Maturity (HTM) category. For the purpose of calculation of credit equivalent of off-balance sheet exposures, banks may use current exposure method. Inter-bank exposures including inter-bank off-balance sheet exposures will not be taken into account for the purpose of priority sector lending targets / sub-targets.
+(iii) Banks should not deduct / net off any amount like provisions, accrued interest, etc., from ANBC.
+(iv) Advances extended in India against the incremental FCNR(B)/NRE deposits qualifying for exemption from CRR/SLR requirements, as per the Reserve Bank’s
+circulars UBD.BPD.(PCB).CIR.No.5/13.01.000/2013-14 dated August 27, 2013
+read with
+UBD.BPD.(PCB).Cir.No.72/13.01.000/2013-14 dated June 11, 2014
+will be excluded from the ANBC for computation of priority sector lending targets, till their repayment.
+III. Description of the eligible categories under priority sector
+1. Agriculture
+The present distinction between direct and indirect agriculture is dispensed with. Instead, the lending to agriculture sector has been re-defined to include (i) Farm Credit (which will include short-term crop loans and medium / long-term credit to farmers) (ii) Agriculture Infrastructure and (iii) Ancillary Activities. A list of eligible activities under the three subcategories is indicated below:
+1.1
+Farm credit
+A.
+Loans to individual farmers [including Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual farmers, provided banks maintain disaggregated data of such loans], directly engaged in Agriculture and Allied Activities, viz., dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture. This will include:
+(i)
+Crop loans to farmers, which will include traditional / non-traditional plantations and horticulture, and, loans for allied activities.
+(ii)
+Medium and long-term loans to farmers for agriculture and allied activities (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm, and developmental loans for allied activities).
+(iii)
+Loans to farmers for pre and post-harvest activities, viz., spraying, weeding, harvesting, sorting, grading and transporting of their own farm produce.
+(iv)
+Loans to farmers up to ₹ 50 lakh against pledge/ hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months.
+(v)
+Loans to distressed farmers indebted to non-institutional lenders.
+(vi)
+Loans to small and marginal farmers for purchase of land for agricultural purposes.
+B.
+Loans to corporate farmers, farmers' producer organizations / companies of individual farmers, partnership firms directly engaged in Agriculture and Allied Activities, viz., dairy, fishery, animal husbandry, poultry, bee-keeping and sericulture up to an aggregate limit of ₹ 2 crore per borrower. This will include:
+(i)
+Crop loans to farmers which will include traditional / non-traditional plantations and horticulture, and, loans for allied activities.
+(ii)
+Medium and long-term loans to farmers for agriculture and allied activities (e.g. purchase of agricultural implements and machinery, loans for irrigation and other developmental activities undertaken in the farm, and developmental loans for allied activities).
+(iii)
+Loans to farmers for pre and post-harvest activities, viz., spraying, weeding, harvesting, sorting, grading and transporting of their own farm produce.
+(iv)
+Loans up to ₹ 50 lakh against pledge / hypothecation of agricultural produce (including warehouse receipts) for a period not exceeding 12 months.
+1.2
+Agriculture
+infrastructure
+(i)
+Loans for construction of storage facilities (warehouses, market yards, godowns and silos) including cold storage units / cold storage chains designed to store agriculture produce / products, irrespective of their location.
+(ii)
+Soil conservation and watershed development.
+(iii)
+Plant tissue culture and agri-biotechnology, seed production, production of bio-pesticides, bio-fertilizer, and vermi composting.
+For the above loans, an aggregate sanctioned limit of ₹ 100 crore per borrower from the banking system, will apply.
+1.3
+Ancillary activities
+(i)
+Loans for setting up of Agriclinics and Agribusiness Centres.
+(ii)
+Loans for Food and Agro-processing up to an aggregate sanctioned limit of ₹ 100 crore per borrower from the banking system.
+(iii)
+Loans to Custom Service Units managed by individuals, institutions or organisations who maintain a fleet of tractors, bulldozers, well-boring equipment, threshers, combines, etc., and undertake farm work for farmers on contract basis.
+Note:
+Small and Marginal farmers will include the following:
+Farmers with landholding of up to 1 hectare are considered as Marginal Farmers. Farmers with a landholding of more than 1 hectare and up to 2 hectares are considered as Small Farmers.
+Landless agricultural labourers, tenant farmers, oral lessees and share-croppers.
+2. Micro, Small and Medium Enterprises (MSMEs)
+2.1 The limits for investment in plant and machinery / equipment for manufacturing/ service enterprise, as notified by Ministry of Micro, Small and Medium Enterprises, vide S.O.1642(E) dated September 9, 2006 are as under:
+Manufacturing Sector
+Enterprises
+Investment in plant and machinery
+Micro Enterprises
+Does not exceed twenty five lakh rupees
+Small Enterprises
+More than twenty five lakh rupees but does not exceed five crore rupees
+Medium Enterprises
+More than five crore rupees but does not exceed ten crore rupees
+Service Sector
+Enterprises
+Investment in equipment
+Micro Enterprises
+Does not exceed ten lakh rupees
+Small Enterprises
+More than ten lakh rupees but does not exceed two crore rupees
+Medium Enterprises
+More than two crore rupees but does not exceed five crore rupees
+Bank loans to Micro, Small and Medium Enterprises, for both manufacturing and service sectors are eligible to be classified under the priority sector as per the following norms.
+2.2 Manufacturing Enterprises
+The Micro, Small and Medium Enterprises engaged in the manufacture or production of goods to any industry specified in the first schedule to the
+Industries (Development and Regulation) Act, 1951
+and as notified by the Government from time to time. The Manufacturing Enterprises are defined in terms of investment in plant and machinery.
+2.3 Service Enterprises
+All bank loans to micro, small and medium enterprises engaged in providing or rendering of services as defined in terms of investment in equipment under
+MSMED Act, 2006.
+2.4 Khadi and Village Industries (KVI)
+All loans to units in the KVI sector will be eligible for classification under the sub-target of 7.5 percent prescribed for Micro Enterprises under priority sector.
+2.5 Other finance to MSMEs
+Loans to entities involved in assisting the decentralized sector in the supply of inputs to and marketing of outputs of artisans, village and cottage industries. The term “entities” do not include institutions to which UCBs are not permitted to lend under RBI guidelines / the legal framework governing the functioning of these banks.
+Overdrafts extended by UCBs after April 8, 2015 upto ₹ 5,000/- under Pradhan Mantri Jan Dhan Yojana (PMJDY) accounts provided the borrower's household annual income does not exceed ₹ 100,000/- for rural areas and ₹ 1,60,000/- for non-rural areas. These overdrafts will qualify as achievement of the target for lending to Micro Enterprises.
+2.6 To ensure that MSMEs do not remain small and medium units merely to remain eligible for priority sector status, the MSME units will continue to enjoy the priority sector lending status up to three years after they grow out of the MSME category concerned.
+3. Export Credit
+The Export Credit extended as per the details below would be classified as priority sector.
+3.1 Incremental export credit over corresponding date of the preceding year, up to 2 percent of ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposure, whichever is higher, effective from
+April 1, 2017
+subject to a sanctioned limit of up to ₹ 25 crore per borrower to units having turnover of up to ₹ 100 crore.
+3.2 Export credit includes pre-shipment and post shipment export credit (excluding off-balance sheet items) as defined in Master Circular on Rupee / Foreign Currency Export Credit and Customer Service to Exporters issued by our Department of Banking Regulation.
+4. Education
+Loans to individuals for educational purposes including vocational courses upto ₹ 10 lakh, irrespective of the sanctioned amount, will be considered as eligible for priority sector.
+5. Housing
+Loans to individuals up to ₹ 28 lakh irrespective of location for purchase/ construction of a dwelling unit per family provided the overall cost of the dwelling unit should not exceed ₹ 35 lakh. The housing loans to banks' own employees will be excluded.
+Loans for repairs to damaged dwelling units of families up to ₹ 5 lakh in metropolitan centres and up to ₹ 2 lakh in other centres.
+Bank loans to any governmental agency for construction of dwelling units or for slum clearance and rehabilitation of slum dwellers subject to a ceiling of ₹ 10 lakh per dwelling unit.
+The loans sanctioned by banks for housing projects exclusively for the purpose of construction of houses for economically weaker sections and low income groups, the total cost of which does not exceed ₹ 10 lakh per dwelling unit. For the purpose of identifying the economically weaker sections and low income groups, the family income limit of ₹ 2 lakh per annum, irrespective of the location, is prescribed.
+Assistance given to a non-governmental agency approved by the NHB for the purpose of refinance for construction / reconstruction of dwelling units or for slum clearance and rehabilitation of slum dwellers, subject to a ceiling of loan component of ₹ 10 lakh per dwelling unit.
+Investments made by UCBs in bonds issued by NHB / HUDCO on or after April 1, 2007 shall not be eligible for classification under priority sector lending.
+6. Social infrastructure
+Bank loans up to a limit of ₹ 5 crore per borrower for building social infrastructure for activities namely schools, health care facilities, drinking water facilities and sanitation facilities including construction / refurbishment of household toilets and household level water improvements in Tier II to Tier VI centres.
+7. Renewable Energy
+Bank loans up to a limit of ₹ 15 crore to borrowers for purposes like solar based power generators, biomass based power generators, wind mills, micro-hydel plants and for nonconventional energy based public utilities viz. street lighting systems, and remote village electrification. For individual households, the loan limit will be ₹ 10 lakh per borrower.
+8. Others
+8.1 Loans not exceeding ₹ 50,000/- per borrower provided directly by banks to individuals and their SHG / JLG, provided the individual borrower's household annual income in rural areas does not exceed ₹ 100,000/- and for non-rural areas it does not exceed ₹ 1,60,000/-
+8.2 Loans to distressed persons [other than farmers already included under III (1.1) A (v)] not exceeding ₹ 100,000/- per borrower to prepay their debt to non-institutional lenders.
+8.3 Loans sanctioned to State Sponsored Organisations for Scheduled Castes / Scheduled Tribes for the specific purpose of purchase and supply of inputs and / or the marketing of the outputs of the beneficiaries of these organisations.
+IV. Weaker Sections
+Priority sector loans to the following borrowers will be considered under Weaker Sections category:
+No.
+Category
+1
+Small and Marginal Farmers
+2
+Artisans, village and cottage industries where individual credit limits do not exceed ₹ 1 lakh
+3
+Scheduled Castes and Scheduled Tribes
+4
+Self Help Groups
+5
+Distressed farmers indebted to non-institutional lenders
+6
+Distressed persons other than farmers, with loan amount not exceeding ₹ 1 lakh per borrower to prepay their debt to non-institutional lenders
+7
+Women
+8
+Persons with disabilities
+9
+Overdrafts upto ₹ 5,000/- under Pradhan Mantri Jan-Dhan Yojana (PMJDY) accounts, provided the borrowers' household annual income does not exceed ₹ 100,000/- for rural areas and ₹ 1,60,000/- for non-rural areas
+10
+Minority communities as may be notified by Government of India from time to time
+Note: In States, where one of the minority communities notified is, in fact, in majority, item (10) will cover only the other notified minorities. These States / Union Territories are Jammu & Kashmir, Punjab, Meghalaya, Mizoram, Nagaland and Lakshadweep.
+V. Priority Sector Lending Certificates
+The outstanding priority sector lending certificates bought by the banks will be eligible for classification under respective categories of priority sector provided the assets are originated by banks, and are eligible to be classified as priority sector advances and fulfil the Reserve Bank of India guidelines on priority sector lending certificates issued vide
+circular FIDD.CO.Plan.BC.23/04.09.01/2015-16 dated April 7, 2016
+.
+VI. Monitoring of Priority Sector Lending targets
+To ensure continuous flow of credit to priority sector, there will be more frequent monitoring of priority sector lending compliance of UCBs on ‘quarterly’ basis instead of annual basis as of now. The data on priority sector advances shall be furnished by UCBs at quarterly and annual intervals as per revised reporting formats
+Statement I
+and
+Statement II
+(Part A to E) to the concerned Regional Office of the Reserve Bank. The reports should reach the Regional Office within a period of 15 days from the end of the period to which they relate.
+VII. Common guidelines for priority sector loans
+Banks should comply with the following common guidelines for all categories of advances under the priority sector.
+1. Service charges
+No loan related and adhoc service charges / inspection charges should be levied on priority sector loans up to ₹ 25,000. In the case of eligible priority sector loans to SHGs / JLGs, this limit will be applicable per member and not to the group as a whole.
+2. Receipt, Sanction / Rejection / Disbursement Register
+A register / electronic record should be maintained by the bank, wherein the date of receipt, sanction / rejection / disbursement with reasons thereof, etc., should be recorded. The register / electronic record should be made available to all inspecting agencies.
+3. Issue of Acknowledgement of Loan Applications
+UCBs should provide acknowledgement for loan applications received under priority sector loans. Bank Boards should prescribe a time limit within which the bank communicates its decision in writing to the applicants.
+ANNEX-II
+Priority Sector Target Achievement - Calculation of shortfall / excess
+Illustrative example:
+Tables 1
+and
+2
+below illustrate the method followed for computation of shortfall / excess in priority sector target achievement at the end of the financial year under the revised PSL guidelines.
+(Table 1)
+Amount in ₹ thousands
+Quarter ended
+PSL targets
+Priority Sector Amount Outstanding
+Shortfall / Excess
+June
+3,29,61,56,032
+3,16,93,80,800
+-12,67,75,232
+September
+3,08,82,65,369
+3,11,94,59,969
+3,11,94,600
+December
+3,17,69,48,703
+3,19,29,13,269
+1,59,64,566
+March
+3,24,56,09,908
+3,21,34,75,156
+-3,21,34,752
+Total
+12,80,69,80,012
+12,69,52,29,194
+-11,17,50,818
+Average
+3,20,17,45,003
+3,17,38,07,299
+-2,79,37,704
+(Table 2)
+Amount in ₹ thousands
+Quarter ended
+PSL targets
+Priority Sector Amount Outstanding
+Shortfall / Excess
+June
+3,29,61,56,032
+3,27,96,75,252
+-164,80,780
+September
+3,08,82,65,369
+3,12,37,80,421
+3,55,15,052
+December
+3,17,69,48,703
+3,27,22,57,164
+9,53,08,461
+March
+3,24,56,09,908
+3,21,31,53,809
+-3,24,56,099
+Total
+12,80,69,80,012
+12,88,88,66,646
+8,18,86,634
+Average
+3,20,17,45,003
+3,22,22,16,661
+2,04,71,658
+In the example given in
+Table - 1
+, the bank has average shortfall of ₹ 2,79,37,704 thousand at the end of the financial year. In
+Table - 2
+, the bank has average excess of ₹ 2,04,71,658 thousand at the end of the financial year.
+The same method will be followed for calculating the achievement of quarterly and yearly priority sector sub-targets.
+Note :
+The computation of priority sector targets / sub-targets achievement will be based on the ANBC or Credit Equivalent Amount of Off-Balance Sheet Exposures, whichever is higher, as at the corresponding date of the preceding year.

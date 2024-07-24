@@ -1,0 +1,134 @@
+(150 kb)
+RRBs - Sharing of Information Technology Resources by Banks - Guidelines
+RBI/2013-14/335
+RPCD.CO.RRB.BC.No. 45/03.05.33/2013-14
+October 24, 2013
+The Chairmen
+All Regional Rural Banks
+Dear Sir,
+Sharing of Information Technology Resources by  Banks - Guidelines
+Please refer to
+paragraph 101
+of the Monetary Policy Statement 2013-14  wherein the need for banks to examine the issue of shared IT resources to  optimise costs while maintaining the desired levels of efficiency and security  has been emphasised.
+2. One of the pre-requisites for a bank to consume shared IT resources is the existence of a strong IT and IS Governance in the bank. It is imperative that decisions on IT resource sharing have necessary approvals of the management possibly at the board level depending on the criticality of the infrastructure or application to be shared. The applications that can be considered for sharing IT resources are those related to collaboration, housekeeping, office automation and business applications.
+3. As a consumer, Regional Rural Banks may ensure that the service provider (including another bank) adheres to all  regulatory and legal requirements of the country. Regional Rural Banks may necessarily enter into agreement with the service provider that the infrastructure and applications are made available for audit / inspection by the regulators of the country. Reserve Bank of India and NABARD should have access to all information resources that are consumed by Regional Rural Banks, though the resources are not physically located in the premises of banks. Further, Regional Rural Banks have to adhere to the relevant legal and regulatory requirements relating to geographical location of infrastructure and movement of data out of borders.
+4. While consuming services provided by other banks or service providers, it may be ensured that all aspects relating to  privacy, confidentiality, security and business continuity are fully met.
+5. A document which may serve as guidance in this regard is
+enclosed
+.
+6. Please acknowledge receipt of the letter to our concerned Regional Office.
+Yours faithfully,
+(A.Udgata)
+Principal Chief General Manager
+Sharing of Information Technology Resources by  Banks - Steps
+1. Identify the asset(s) to be included:
+Data
+Applications/Functions/Process
+2. Evaluate the asset on the following factors-
+Determine how       important the data or function is to the bank
+Analyse the impact of the scenarios
+The asset        becoming widely public & widely distributed
+An employee of        the service provider accessing the asset
+The process or        function being manipulated by an outsider
+The process or        function failing to provide expected results
+The info/data        being unexpectedly changed
+The asset being unavailable for a period of time
+3. Choose the external organisation carefully:
+A bank
+An IT Company
+Any other organization
+4. Map Data Flow
+Map the data       flow between bank, service provider, customers, other nodes
+Essential to       understand whether data can move in/out of the shared infrastructure       provided by others
+Sketch it for       each of the models
+Know risk tolerance
+5. Assess requirements
+Infrastructure
+Applications
+6. Analyse the Security Concerns
+Issues in       applications - Service levels, security, governance, compliance, liability       expectations of the service     provider are contractually defined
+Issues in infrastructure - service provider handling  Infrastructure security
+7. Prepare a service contract addressing the  following domains:
+Architectural       Framework
+Governance,       Enterprise Risk Management
+Legal,       e-Discovery
+Compliance &       Audit
+Information       Lifecycle Management
+Portability       & Interoperability
+Security,       Business Continuity, Disaster Recovery
+Data Center       Operations
+Incident       Response Issues
+Application       Security
+Encryption &       Key Management
+Identity &       Access Management
+Virtualization
+8. Understand the issues in security pitfalls
+Geographical       location of Infrastructure
+Scope network       security issues
+Control Mechanism
+9. Comprehend the overall security concerns
+Handing over operational control to service  provider while maintaining accountability
+10. General Governance issues
+Identify,       implement process, controls to maintain effective governance, risk       management, compliance
+Provider security governance should be assessed for  sufficiency, maturity, consistency with user ITSEC process
+11. 3rd Party Governance issues
+Request for       clear documentation on how facility & services are assessed
+Requirement of       definition of what provider considers critical services, information
+Perform full contract, terms of use due diligence to  determine roles, accountability
+12. Analyse legal issues
+Functional:       functions & services which have legal implications for both parties
+Jurisdictional:       which governments administer laws and regulations impacting services,       stakeholders, data assets
+Contractual:       terms & conditions
+Clarity on       provider and consumer's roles
+Litigation hold
+e-Discovery       searches
+Expert testimony
+Provider must       save primary and secondary (logs) data
+Location of       storage data
+Plan for       unexpected contract termination and orderly return or secure disposal of       assets
+Ensuring retention  of ownership of data in its original form
+13. Examine compliance & audit function
+Right to Audit       clause
+Analyze       compliance scope
+Regulatory       impact on data security
+Evidence       requirements are met
+Appropriate certification such as SAS 70 Type II, ISO  27001/2 audit statements
+14. Study Information Lifecycle Management  especially in the context of
+Data security
+Data Location
+All copies, backups stored only at location allowed by  contract, SLA and/or regulation
+15. Analyse portability and interoperability
+Factors       necessitating switching service providers
+Negotiate       Contract price increase
+Factor in       service provider bankruptcy and service shutdown
+Decrease in       service quality
+Business dispute
+16. Understand security, business continuity,  disaster recovery related issues
+Centralization       of data means greater insider threat from within the provider
+Requirement of       onsite inspections of provider facilities
+Disaster recovery, Business continuity, of service  provider etc.
+17. Formulate appropriate Incident Response  systems
+Applications may       not always be designed with data integrity, security in mind
+Necessity to       store keep application, firewall, IDS etc. logs
+Management of snapshots of virtual environment
+18. Plan application security
+Different trust       boundaries for various types of shared resources
+Ensure web       application security
+Secure inter-host communication channel
+19. Devise encryption, key management procedures
+Encrypt data in       transit, at rest, backup media
+Secure key store
+Protect       encryption keys
+Ensure       encryption is based on industry/government standards
+Limit access to       key stores
+Key backup &       recoverability
+Test these procedures
+20. Manage ID, access control
+Determine how       service provider handles provisioning, de-provisioning
+Authentication
+Federation
+Authorization
+User profile management
+21. Plan virtualization
+Type of       virtualization
+3rd party security technology augmenting virtual OS  controls that protect admin interfaces

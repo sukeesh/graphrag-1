@@ -1,0 +1,147 @@
+(221 kb)
+Co-origination of loans by Banks and NBFCs for lending to priority sector
+RBI/2018-19/49
+FIDD.CO.Plan.BC.08/04.09.01/2018-19
+September 21, 2018
+The Chairman / Managing Director/
+Chief Executive Officer
+All Scheduled Commercial Banks (excluding RRBs & SFBs) and
+All NBFC-ND-SIs
+Dear Sir/ Madam,
+Co-origination of loans by Banks and NBFCs for lending to priority sector
+Please refer to Para 3 of the
+Statement on Developmental and Regulatory Policies
+of the
+Third Bi-Monthly Monetary Policy Statement 2018-19 dated August 1, 2018
+, introducing the Co-origination Model between Banks and Non-Banking Financial Companies - Non-Deposit taking - Systemically Important (NBFC-ND-SIs) for providing competitive credit to priority sector. The detailed guidelines in this regard are as under.
+2. All scheduled commercial banks (excluding Regional Rural Banks and Small Finance Banks) may engage with NBFC-ND-SIs (hereinafter referred to as NBFC) to co-originate loans for the creation of priority sector assets. The arrangement should entail joint contribution of credit at the facility level, by both lenders. It should also involve sharing of risks and rewards between the bank and the NBFC for ensuring appropriate alignment of respective business objectives, as per the mutually decided agreement between the bank and the NBFC, inter-alia, covering the essential features as indicated in
+Annex 1
+.
+3. The bank can claim priority sector status in respect of its share of credit while engaging in the co-origination arrangement. However, the priority sector assets on the bank’s books should at all times be without recourse to the NBFC. Further, the loans extended by foreign banks under the co-origination framework shall be restricted only to loans qualifying as priority sector assets.
+4. Based on the respective interest rates and proportion of risk sharing, a single blended interest rate should be offered to the ultimate borrower in case of fixed rate loans. In the scenario of floating interest rates, a weighted average of the benchmark interest rates in proportion to the respective loan contribution, should be offered. The interest rate charged by the bank for its portion of credit, shall be subject to applicable directions on interest rates on advances. Further, the NBFC-MFIs which are categorized as NBFC-ND-SIs, are also required to abide by the pricing of credit and other applicable guidelines for loans covered under “Qualifying Assets” regarding their contribution towards the co-originated loan. It is envisaged that the benefit of low cost funds from banks and lower cost of operations of NBFC would be passed on to the ultimate beneficiary through the blended rate/ weighted average rate. In this regard, banks/NBFCs shall provide all the information like loan details including interest rate and other charges, details of risk sharing arrangement, etc., as and when called for by the Reserve Bank of India.
+5. While engaging in co-origination arrangements, inter-alia, the bank/ NBFC is required to adhere to extant guidelines on outsourcing of financial services. Accordingly, though the NBFC is expected to source loans as per the mutually agreed parameters between the bank and the NBFC, bank shall not outsource its part of credit sanction component to the NBFC.
+6. With regard to grievance redressal, any complaint registered by a borrower with the NBFC/ bank shall also be shared with the bank/ NBFC; in case the complaint is not resolved within 30 days, the borrower would have the option to escalate the same with the concerned Banking Ombudsman/ Ombudsman for NBFCs.
+7. The bank/ NBFC shall formulate a Board approved policy for entering into a co-origination agreement with the NBFC/ bank. The loans under the co-origination agreement shall be subjected to periodic verification by bank’s/ NBFC’s internal auditors to ensure adherence to its internal guidelines, terms of the agreement and extant regulatory requirements.
+Yours faithfully,
+(Gautam Prasad Borah)
+Chief General Manager-in-Charge
+Encl: As above
+Annex 1
+Essential Features of Co-origination Model between Banks and NBFC-ND-SIs
+I.
+Sharing of Risk and Rewards:
+Minimum 20% of the credit risk by way of direct exposure shall be on NBFC’s books till maturity and the balance will be on bank’s books. The NBFC shall give an undertaking to the bank that its contribution towards the loan amount is not funded out of borrowing from the co-originating bank or any other group company of the partner bank.
+II.
+Interest Rate:
+NBFC would have the flexibility to price their part of the exposure, while bank shall price its part of the exposure in a manner found fit as per their respective risk appetite/ assessment of the borrower and the RBI regulations issued from time to time. An indicative illustration for arriving at the single blended/ weighted average rate is detailed in
+Annex 2
+. However, notwithstanding the charging of a single blended/ weighted average rate of interest from the borrower, the repayment/ recovery of interest shall be shared between the bank and the NBFC in proportion to their share of credit and interest.
+III.
+Know Your Customer (KYC):
+The co-originating lenders shall adhere to applicable KYC/ AML guidelines, as prescribed by Department of Banking Regulation (DBR)/ Department of Non-Banking Regulation (DNBR) and may also be guided by Para 14 of
+Master Directions on KYC
+, issued by DBR.
+IV.
+Loan Sanction:
+The NBFC shall recommend to the Bank proposals as found relevant for joint lending. The lenders shall be entitled to independently assess the risks and requirements of the applicant borrowers. The loan agreement would be tripartite in nature, wherein, both the Bank and the NBFC shall be parties as lenders to the loan agreement with the customer.
+V.
+Common Account:
+The Bank and the NBFC shall open an escrow type common account for pooling respective loan contributions for disbursal as well as to appropriate loan repayments from borrowers, without holding the funds for usage of float. Regarding loan balances, the NBFC/ Bank shall maintain individual borrower’s accounts and should also be able to generate and share a single unified statement to the customer, through appropriate sharing of required information with the Bank/ NBFC.
+VI.
+Monitoring & Recovery:
+Both lenders shall create the framework for day to day monitoring and recovery of the loan, as mutually agreed upon.
+VII.
+Security and Charge Creation:
+The lenders shall arrange for creation of security and charge as per mutually agreeable terms.
+VIII.
+Provisioning/Reporting Requirement:
+Each of the lenders shall follow its independent provisioning requirements including declaration of account as NPA, as per the regulatory guidelines respectively applicable to each of them. Each of the lenders shall carry out their respective reporting requirements including reporting to Credit Information Companies, under respectively applicable law and regulations for their portion of lending.
+IX.
+Assignment/ Change in Loan Limits:
+Any assignment of loans by any of the lenders can be done only with the mutual consent of both the lenders. Further, any change in loan limit of the co-originated facility can be done only with the mutual consent of both the lenders.
+X.
+Grievance Redressal:
+It shall be the responsibility of the NBFC to explain to end borrower regarding the difference between products offered through the co-origination model as compared to its own products. The front-ending lender will be primarily responsible for providing the required customer service and grievance redressal to the borrower. However, any complaint registered by a borrower with the NBFC and/or bank shall also be shared with the bank/ NBFC and in case, the complaint is not resolved within 30 days, the borrower would have the option to escalate the same with concerned Banking Ombudsman/ Ombudsman for NBFCs.
+XI.
+Business Continuity Plan:
+Both the bank and the NBFC shall formulate a business continuity plan to ensure uninterrupted service to the borrowers till repayment of the loans under the co-origination agreement.
+Annex 2
+Indicative Illustration for calculation of Blended/ Weighted Average Interest Rate
+Scenario 1: Fixed interest rates
+Customers are offered fixed interest rate throughout life of loan.
+Example 1
+Example 2
+Blended interest rate calculations
+Bank
+NBFC
+Bank
+NBFC
+Benchmark Interest Rate
+8%
+9%
+8%
+9%
+Spread
+2%
+3%
+2%
+3%
+Interest rate to consumer
+10% (A)
+12% (B)
+10% (A)
+12% (B)
+Loan contribution ratio
+80%(C)
+20%(D)
+70%(C)
+30%(D)
+Blended interest rate (A*C)+(B*D)= E
+10.40%
+10.60%
+Scenario 2: Floating interest rates
+Example 1
+Example 2
+Change in Weighted Average interest rate
+Bank
+NBFC
+Bank
+NBFC
+Benchmark Interest Rate
+8% (A)
+9% (B)
+8% (A)
+9% (B)
+Loan contribution ratio
+80% (C)
+20% (D)
+70% (C)
+30% (D)
+Weighted Average Benchmark Interest Rate (X = A*C + B*D)
+8.20%
+8.30%
+Spread
+2% (E)
+3% (F)
+2% (E)
+3% (F)
+Weighted Average Spread (Y = E*C+F*D)
+2.20%
+2.30%
+Weighted Average interest rate offered to customer at the time of disbursement (X + Y)
+10.40%
+10.60%
+Change in Benchmark Rate
+0% (F)
++1% (G)
+0% (F)
++1% (G)
+Revised Weighted Average Benchmark Interest Rate X’ = [(A+F)*C + (B+G)*D]
+8.40
+8.60
+New Weighted Interest Rate (X’ + Y)
+10.60%
+10.90%
+Other Charges
+Any other applicable charges, will be decided mutually between co-originating lenders and communicated to the customer.
+Note: The above illustration is only indicative in nature and is not mandatory. However, irrespective of the methodology employed by the lenders to arrive at the blended interest rate, it is envisaged that the benefit of low cost funds from banks and lower cost of operations of NBFC is passed on to the ultimate beneficiary.

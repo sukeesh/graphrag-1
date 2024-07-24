@@ -1,0 +1,87 @@
+(214 kb)
+Foreign Currency (Non-resident) Accounts (Banks) Scheme [FCNR(B)] - Master Direction on Interest Rate on Deposits
+RBI/2021-2022/123
+DOR.SOG (SPE).REC.No 67/13.03.00/2021-22
+November 11, 2021
+All Scheduled Commercial Banks (including Regional Rural Banks)
+All Small Finance Banks
+All Local Area Banks
+All Payment Banks
+All Primary (Urban) Co-operative Banks/ DCCBs /State Cooperative Banks
+Dear Sir / Madam,
+Foreign Currency (Non-resident) Accounts (Banks) Scheme [FCNR(B)] - Master Direction on Interest Rate on Deposits
+Please refer to the instructions on the Foreign Currency (Non-resident) Accounts (Banks) Scheme contained in Section 19 of the
+Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 dated March 03, 2016
+and Section 18 of the
+Master Direction – Reserve Bank of India (Co-operative Banks – Interest Rate on Deposits) Directions, 2016 dated May 12, 2016
+.
+2. In view of the impending discontinuance of LIBOR as a benchmark rate, it has been decided to permit banks to offer interest rates on FCNR (B) deposits using widely accepted ‘Overnight Alternative Reference Rate (ARR) for the respective currency’ with upward revision in the interest rates ceiling by 50 bps.
+3. As a measure to handle the information asymmetry during the transition, FEDAI may publish the ARR till such time the widely accepted benchmark is established. The relevant sections of the Master Directions as amended are indicated in the
+Annex
+.
+4. All other instructions in this regard shall remain unchanged.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager-in-Charge
+Encl: As above
+ANNEX
+[Encl. to circular DOR.SOG(SPE).REC.No 67/13.03.00/2021-22 dated Nov 11, 2021]
+Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016
+Section of MD
+Existing Provisions
+Amended Provisions
+19(d)
+Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of LIBOR rates for the respective currency/ maturity.
+Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of Overnight Alternative Reference Rate* for the respective currency/ maturity.
+19(f)
+The LIBOR/SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+The Overnight Alternative Reference Rate* for the respective currency /SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+19(g)
+The interest rates ceiling on FCNR (B) deposits shall be as under:
+Period of deposit
+Ceiling rate
+1 year to less than 3 years
+LIBOR/ Swap plus 200 basis points
+3 years and above up to and including 5 years
+LIBOR/ Swap plus 300 basis points
+The interest rates ceiling on FCNR (B) deposits shall be as under:
+Period of deposit
+Ceiling rate
+1 year to less than 3 years
+Overnight Alternative Reference Rate* for the respective currency / Swap plus 250 basis points
+3 years and above up to and including 5 years
+Overnight Alternative Reference Rate* for the respective currency / Swap plus 350 basis points
+19(h)
+The LIBOR / Swap rates quoted/displayed by Foreign Exchange Dealers Association of India (FEDAI) shall be used as the reference for arriving at the interest rates on FCNR(B) deposits.
+The Overnight Alternative Reference Rate* for the respective currency / Swap rates quoted/displayed by Foreign Exchange Dealers Association of India (FEDAI) shall be used as the reference for arriving at the interest rates on FCNR (B) deposits.
+Master Direction – Reserve Bank of India (Co-operative Banks – Interest Rate on Deposits) Directions, 2016
+Section of MD
+Existing Provisions
+Amended Provisions
+18(d)
+Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of LIBOR rates for the respective currency/ maturity.
+Interest on floating rate deposits shall be paid within the ceiling of swap rates for the respective currency/ maturity and in case of fixed rate deposits, interest shall be paid within the ceiling of Overnight Alternative Reference Rate* for the respective currency/ maturity.
+18(f)
+The LIBOR/SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+The Overnight Alternative Reference Rate* for the respective currency /SWAP rates as on the last working day of the preceding month shall form the base for fixing ceiling rates for the interest rates offered effective in the following month.
+18(g)
+The interest rates ceiling on FCNR (B) deposits shall be as under:
+Period of deposit
+Ceiling rate
+1 year to less than 3 years
+LIBOR/ Swap plus 200 basis points
+3 years and above up to and including 5 years
+LIBOR/ Swap plus 300 basis points
+The interest rates ceiling on FCNR (B) deposits shall be as under:
+Period of deposit
+Ceiling rate
+1 year to less than 3 years
+Overnight Alternative Reference Rate* for the respective currency / Swap plus 250 basis points
+3 years and above up to and including 5 years
+Overnight Alternative Reference Rate* for the respective currency / Swap plus 350 basis points
+18(h)
+The LIBOR / Swap rates quoted/displayed by Foreign Exchange Dealers Association of India (FEDAI) shall be used as the reference for arriving at the interest rates on FCNR(B) deposits.
+The Overnight Alternative Reference Rate* for the respective currency / Swap rates quoted/displayed by Foreign Exchange Dealers Association of India (FEDAI) shall be used as the reference for arriving at the interest rates on FCNR (B) deposits.
+*Alternative Reference Rate (ARR) refers to any widely accepted ARR for the respective currency (Ref:
+RBI circular CO.FMRD.DIRD.S39/14.02.001/2021-22 dated July 08, 2021 on ‘Roadmap for LIBOR Transition’
+).

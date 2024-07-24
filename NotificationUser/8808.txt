@@ -1,0 +1,35 @@
+(22 kb)
+Exposure norms for standalone PDs
+RBI/2013-14/541
+IDMD.PCD.12/14.03.05/2013-14
+March 27, 2014
+All Standalone Primary  Dealers (PDs)
+Dear Sir / Madam
+Exposure norms for standalone PDs
+Please refer to the
+circular  IDMD.PDRD.N0 19/03.64.00/2010-11 dated July 27, 2010
+updated vide
+circulars  IDMD.PCD.No.1652/14.03.05/2010-11 dated November 11, 2010
+and
+IDMD.PCD.No.718/14.03.05/2012-13  dated September 3, 2012
+.
+2. With a view to promote central clearing of standardised OTC  derivative products through a Central Counter Party (CCP), it has been decided  that as an interim measure, a standalone PD’s clearing exposure to a Qualifying  CCP (QCCP) will be kept outside of the exposure ceiling of 25 per cent of its  net owned funds applicable to a single borrower/counterparty.
+3. Reserve Bank would consider revised framework on PDs’  exposure to QCCP depending on international consensus in this regard.
+4. Revised guidelines on exposure norms for standalone PDs are  detailed in
+Annex
+. The present guidelines shall supercede all existing  instructions issued to standalone PDs in this regard.
+5. The revised guidelines shall be effective from April 1,  2014.
+Yours faithfully
+(K.K Vohra)
+Pr. Chief General  Manager
+Encl: As above
+Annex
+Exposure norms for  standalone PDs
+The exposure  ceiling limits would be 25 percent of latest audited Net Owned Funds (NOF) in  case of a single borrower/counterparty and 40 percent of NOF in case of a group  borrower.
+The ceilings on  single /group exposure limit would not be applicable where principal and  interest are fully guaranteed by the Government of India.
+PDs should include credit risk exposures to all other  categories of non-Government securities including investments in mutual funds,  commercial papers, certificate of deposits, positions in OTC derivatives not settled  through Qualifying CCP (QCCP) etc. to compute extent of credit exposure to  adhere to the prescribed prudential limits.
+Clearing exposure to a QCCP will be kept outside of the  exposure ceiling of 25 per cent of its NOF applicable to a single counter  party.
+Clearing exposure to QCCP would include trade exposure and  default fund exposure as defined in the guidelines on capital requirements for  PDs’ exposure to central counterparties issued vide Circular  IDMD.PCD.11/14.03.05/2013-14 dated March 27, 2014.
+Other permissible exposures to QCCPs such as investments in  the capital of CCP etc. will continue to be within the existing exposure  ceiling of 25 per cent of NOF to a single borrower/counterparty. However, all  exposures of a PD to a non-QCCP should be within the exposure ceiling of 25 per  cent.
+Presently, there are four CCPs viz. Clearing Corporation of  India Ltd. (CCIL), National Securities Clearing Corporation Ltd. (NSCCL),  Indian Clearing Corporation Ltd. (ICCL), and MCX-SX Clearing Corporation Ltd.  (MCX-SXCCL) that are subjected, on an ongoing basis, to rules and regulations  that are consistent with CPSS-IOSCO Principles for Financial Market Infrastructures.  While the CCIL has been granted the status of a QCCP by the Reserve Bank, the  other three CCPs have been granted the status of QCCP by SEBI.
+It may also be mentioned that the status of a CCP as a QCCP may change  in future, if a regulator/supervisor of the CCP withdraws the status of QCCP.  After withdrawal of the status of a QCCP, the CCP will be considered a non-QCCP  and exposure norms as applicable to non-QCCPs would be applicable.

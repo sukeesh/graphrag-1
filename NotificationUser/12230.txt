@@ -1,0 +1,39 @@
+(213 kb)
+Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Clarifications
+RBI/2021-2022/158
+DOR.STR.REC.85/21.04.048/2021-22
+February 15, 2022
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks) excluding Payments Banks
+All Primary (Urban) Co-operative Banks/State Co-operative Banks/District Central Co-operative Banks
+All-India Financial Institutions (Exim Bank, NABARD, NHB and SIDBI)
+All Non-Banking Financial Companies (including Housing Finance Companies)
+Madam/Dear Sir,
+Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances – Clarifications
+Please refer to the clarifications issued in respect of
+Prudential norms on Income Recognition, Asset Classification and Provisioning
+vide
+circular DOR.STR.REC.68/21.04.048/2021-22 dated November 12, 2021
+(‘
+Circular
+’).
+2. In view of several queries received seeking certain clarifications, it is advised as under:
+The definition of ‘out of order’, as clarified in the Circular, shall be applicable to all loan products being offered as an overdraft facility, including those not meant for business purposes and/or which entail interest repayments as the only credits.
+The ‘previous 90 days period’ for determination of ‘out of order’ status of a CC/OD account shall be inclusive of the day for which the day-end process is being run.
+In case of borrowers having more than one credit facility from a lending institution, loan accounts shall be upgraded from NPA to standard asset category only upon repayment of entire arrears of interest and principal pertaining to all the credit facilities.
+The circular does not make any changes to the requirements related to reporting of information to CRILC, which will continue to be governed in terms of extant instructions for respective entities
+1
+.
+The circular does not, in any way, interfere with the extant guidelines on implementation of Ind-AS by NBFCs.
+3. Paragraph 10 of the Circular stipulates that loan accounts classified as NPAs may be upgraded as ‘standard’ asset only if entire arrears of interest and principal are paid by the borrower. NBFCs shall have time till September 30, 2022 to put in place the necessary systems to implement this provision. All other instructions of the Circular shall continue to be applicable as per the timelines specified therein.
+Yours faithfully,
+(Manoranjan Mishra)
+Chief General Manager
+1
+Circular No. DBS.Dir.OSMOS.No.3327/33.01.001/2013-14 dated September 11, 2013
+(SCBs)
+Circular No. DNBS (PD) CC.No.371/03.05.02/2013-14 dated March 21, 2014
+(NBFCs)
+Circular No. DBS.OSMOS.No.14703/33.01.001/2013-14 dated May 22, 2014
+(AIFIs)
+Circular No. DOR (PCB).BPD.Cir.No.7/13.05.000/2019-20 dated December 27, 2019
+(UCBs)

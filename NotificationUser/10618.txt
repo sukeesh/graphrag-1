@@ -1,0 +1,23 @@
+(162 kb)
+Aadhaar-based Authentication for Card Present Transactions
+RBI/2016-17/70
+DPSS.CO.PD No.892/02.14.003/2016-17
+September 29, 2016
+The Chairman and Managing Director / Chief Executive Officers
+All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks /
+State Co-operative Banks / District Central Co-operative Banks/
+Authorised Card Payment Networks / White Label ATM Operators /
+Payments Banks / Small Finance Banks
+Dear Madam / Sir,
+Aadhaar-based Authentication for Card Present Transactions
+A reference is invited to our
+circular dated November 26, 2013 on Security and Risk Mitigation Measures for Card Present Transactions
+wherein the banks were advised that all new card present infrastructure has to be enabled for both EMV Chip and PIN and Aadhaar (biometric validation) acceptance.
+2. With the substantial increase in number of Aadhaar card holders in the country, we reiterate our above mentioned instructions and advise banks to ensure that all new card acceptance infrastructure deployed with effect from
+January 1, 2017
+are enabled for processing payment transactions using Aadhaar-based biometric authentication also.
+3. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+4. Please acknowledge the receipt of this circular.
+Yours faithfully,
+(Nanda S. Dave)
+Chief General Manager

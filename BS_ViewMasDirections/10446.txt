@@ -1,0 +1,108 @@
+(135 kb)
+Scheme for Sustainable Structuring of Stressed Assets
+RBI/2015-16/422
+DBR.No.BP.BC.103/21.04.132/2015-16
+June 13, 2016
+All Scheduled Commercial Banks
+(Excluding RRBs),
+All-India Term-lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Non-Banking Financial Companies
+Securitisation Companies/ Reconstruction Companies
+Scheme for Sustainable Structuring of Stressed Assets
+In order to strengthen the lenders’ ability to deal with stressed assets, Reserve Bank of India has been issuing, from time to time, guidelines and prudential norms on stressed assets resolution by regulated lenders.
+2.
+Resolution of large borrowal accounts which are facing severe financial difficulties may, inter-alia, require co-ordinated deep financial restructuring which often involves a substantial write-down of debt and/or making large provisions. Citing the case of the Strategic Debt Restructuring (SDR) mechanism which provides 18 months for banks to make prescribed provisions for the residual debt and mark-to-market (MTM) provisions on their equity holding arising from conversion of debt, banks have represented for allowing more time to write down the debt and make the required provisions in cases of resolution of large accounts.
+3.
+In order to ensure that adequate deep financial restructuring is done to give projects a chance of sustained revival, the Reserve Bank, after due consultation with banks, has decided to facilitate the resolution of large accounts, which satisfy the conditions set out in the following paragraphs.
+4. Eligible Accounts
+For being eligible under the scheme, the account
+1
+should meet all the following conditions:
+(i) The project has commenced commercial operations;
+(ii) The aggregate exposure (including accrued interest) of all institutional lenders in the account is more than Rs.500 crore (including Rupee loans, Foreign Currency loans/External Commercial Borrowings,);
+(iii) The debt meets the test of sustainability as outlined in
+para 5
+below.
+5. Debt Sustainability
+A debt level will be deemed sustainable if the Joint Lenders Forum (JLF)/Consortium of lenders/bank conclude through independent techno-economic viability (TEV) that debt of that principal value amongst the current funded/non-funded liabilities owed to institutional lenders can be serviced over the same tenor as that of the existing facilities even if the future cash flows remain at their current level. For this scheme to apply, sustainable debt should not be less than 50 percent of current funded liabilities. This is referred to as Part A in
+paragraph 6.2
+below.
+6. Sustainable Debt
+6.1
+The resolution plan may involve one of the following options with regard to the post-resolution ownership of the borrowing entity:
+(a) The current promoter continues to hold majority of the shares or shares required to have control;
+(b) The current promoter has been replaced with a new promoter, in one of the following ways:
+Through conversion of a part of the debt into equity under SDR mechanism which is thereafter sold to a new promoter;
+In the manner contemplated as per Prudential Norms on Change in Ownership of Borrowing Entities (Outside SDR Scheme);
+(c) The lenders have acquired majority shareholding in the entity through conversion of debt into equity either under SDR or otherwise and
+allow the current management to continue or
+hand over management to another agency/professionals under an operate and manage contract.
+Note: Where malfeasance on the part of the promoter has been established, through a forensic audit or otherwise, this scheme shall not be applicable if there is no change in promoter or the management is vested in the delinquent promoter.
+6.2
+In any of the circumstances mentioned above, the JLF/consortium/bank shall, after an independent TEV, bifurcate the current dues of the borrower into Part A and Part B as described below;
+(a)
+Determine the level of debt (including new funding required to be sanctioned within next six months and non-funded credit facilities crystallising within next 6 months) that can be serviced (both interest and principal) within the respective residual maturities of existing debt, from all sources, based on the cash flows available from the current as well as immediately prospective (not more than six months) level of operations. For this purpose, free cash flows (i.e., cash flow from operations minus committed capital expenditure) available for servicing debt as per latest audited/reviewed financial statement will be considered. Where there is more than one debt facility, the maturity profile of each facility shall be that which exists on the date of finalising this resolution plan. For the purpose of determining the level of debt that can be serviced, the assessed free cash flow shall be allocated to servicing each existing debt facility in the order in which its servicing falls due. The level of debt so determined will be referred to as
+Part A
+in these guidelines.
+(b)
+The difference between the aggregate current outstanding debt, from all sources, and Part A will be referred to as
+Part B
+in these guidelines.
+(c)
+The security position of lenders will, however, not be diluted and Part A portion of loan will continue to have at least the same amount of security cover as was available prior to this resolution.
+7. The Resolution Plan
+7.1
+The Resolution Plan shall have the following features:
+There shall be no fresh moratorium granted on interest or principal repayment for servicing of Part A.
+There shall not be any extension of the repayment schedule or reduction in the interest rate for servicing of Part A, as compared to repayment schedule and interest rate prior to this resolution.
+Part B shall be converted into equity/redeemable cumulative optionally convertible preference shares. However, in cases where the resolution plan does not involve change in promoter, banks may, at their discretion, also convert a portion of Part B into optionally convertible debentures. All such instruments will continue to be referred to as Part B instruments in this circular for ease of reference.
+7.2 Valuation and marking to market
+For the purpose of this scheme, the fair value for Part B instruments will be arrived at as per the following methodologies:
+• Equity - The equity shares in the bank's portfolio should be marked to market preferably on a daily basis, but at least on a weekly basis. Equity shares for which current quotations are not available or where the shares are not listed on the stock exchanges, should be valued at the lowest value arrived using the following valuation methodologies:
+Break-up value (without considering 'revaluation reserves', if any) which is to be ascertained from the company's latest audited balance sheet (which should not be more than one year prior to the date of valuation). In case the latest audited balance sheet is not available the shares are to be valued at Re.1 per company. The independent TEV will assist in ascertaining the break-up value.
+Discounted cash flow method where the discount factor is the actual interest rate charged to the borrower plus 3 per cent, subject to floor of 14 per cent. Further, cash flows ( cash flow available from the current as well as immediately prospective (not more than six months) level of operations) occurring within 85 per cent of the useful economic life of the project only shall be reckoned.
+• Redeemable cumulative optionally convertible preference shares/optionally convertible debentures - The valuation should be on discounted cash flow (DCF) basis. These will be valued with a discount rate of a minimum mark up of 1.5 per cent over the weighted average actual interest rate charged to the borrower for the various facilities. Where preference dividends are in arrears, no credit should be taken for accrued dividends and the value determined as above on DCF basis should be discounted further by at least 15 per cent if arrears are for one year, 25 per cent if arrears are for two years, so on and so forth (i.e., with 10 percent increments).
+7.3
+Where the resolution plan does not involve a change in promoter or where existing promoter is allowed to operate and manage the company as minority owner by lenders, the principle of proportionate loss sharing by the promoters should be met. In such cases, lenders shall, therefore, require the existing promoters to dilute their shareholdings, by way of conversion of debt into equity /sale of some portion of promoter’s equity to lenders, at least in the same proportion as that of part B to total dues to lenders. JLF/Consortium/bank should also obtain promoters’ personal guarantee in all such cases, for at least the amount of Part A.
+7.4
+The upside for the lenders will be primarily through equity/quasi equity, if the borrowing entity turns around. The terms for exercise of option for the conversion of preference shares/debentures to equity shall be clearly spelt out. The existing promoter or the new promoter, as the case may be, may have the right of first refusal in case the lenders decide to sell the share, at a price beyond some predetermined price. The lenders may also include appropriate covenants to cover the use of cash flows arising beyond the projected levels having regard to quasi-equity instruments held in Part B
+7.5
+Other important principles for this scheme are the following:
+The JLF/Consortium/bank shall engage the services of credible professional agencies to conduct the TEV and prepare the resolution plan. While engaging professional agencies, the JLF/Consortium/bank shall ensure that the agency is reputed, truly independent/free from any conflict of interest, has proven expertise and will be in a position to safeguard the interest of lenders while preserving the economic value of the assets. Further, from a risk management perspective, lenders should avoid concentration of such assignments in any one particular professional agency.
+The resolution plan shall be agreed upon by a minimum of 75 percent of lenders by value and 50 percent of lenders by number in the JLF/consortium/bank.
+At individual bank level, the bifurcation into Part A and part B shall be in the proportion of Part A to Part B at the aggregate level.
+8. Overseeing Committee
+An Overseeing Committee (OC), comprising of eminent persons, will be constituted by IBA in consultation with RBI. The members of OC cannot be changed without the prior approval of RBI.
+The resolution plan shall be submitted by the JLF/consortium/bank to the OC.
+The OC will review the processes involved in preparation of resolution plan, etc. for reasonableness and adherence to the provisions of these guidelines, and opine on it.
+The OC will be an advisory body.
+9. Asset Classification and Provisioning
+(A) Where there is a change of promoter–
+In case a change of promoter takes place, i.e. a new promoter comes in, the asset classification and provisioning requirement will be as per the ‘SDR’ scheme or ‘outside SDR’ scheme as applicable.
+(B) Where there is no change of promoters –
+Asset classification as on the date of lenders’ decision to resolve the account under these guidelines (reference date) will continue for a period of 90 days from this date. This standstill clause is permitted to enable JLF/consortium/bank to formulate the resolution plan and implement the same within the said 90 day period. If the resolution is not implemented within this period, the asset classification will be as per the extant asset classification norms, assuming there was no such ‘stand-still’
+In respect of an account that is ‘Standard’ as on the reference date, the entire outstanding (both Part A and part B) will remain Standard subject to provisions made upfront by the lenders being at least the higher of 40 percent of the amount held in part B or 20 percent of the aggregate outstanding (sum of Part A and part B). For this purpose, the provisions already held in the account can be reckoned.
+In respect of an account that is classified as non-performing asset on the date of this resolution, the entire outstanding (both Part A and part B) shall continue to be classified and provided for as a non-performing asset as per extant IRAC norms.
+Lenders may upgrade Part A and Part B to standard category after one year of satisfactory performance of Part A loans. In case of any pre-existing moratorium in the account, the upgrade will be permitted one year after completion of the longest moratorium, subject to satisfactory performance of Part A debt during this period. However, lenders will continue to mark to market Part B instruments as per the norms stated herein.
+Any provisioning requirement on account of difference between the book value of Part B instruments and their fair value as indicated in para 7.2 ibid, in excess of the minimum requirements prescribed as per the above
+para (ii)
+and
+(iii)
+, shall be made within four quarters commencing with the quarter in which the resolution plan is actually implemented in the lender’s books, such that the MTM provision held is not less than 25 percent of the required provision in the first quarter, not less than 50 percent in the second quarter and so on. For this purpose, the provision already held in the account can be reckoned.
+If the provisions held by the bank in respect of an account prior to this resolution are more than the cumulative provisioning requirement prescribed in the applicable sub-paragraphs above, the excess can be reversed only after one year from the date of implementation of resolution plan (i.e. when it is reflected in the books of the lender, hereinafter referred to as ‘date of restructuring’), subject to satisfactory performance during this period.
+The resolution plan and control rights should be structured in such a way so that the promoters are not in a position to sell the company/firm without the prior approval of lenders and without sharing the upside, if any, with the lenders towards loss in Part B.
+If Part A subsequently slips into NPA category, the account will be classified with slippage in category with reference to the classification obtaining on the reference date and necessary provisions should be made immediately.
+Where a bank/NBFC/AIFI chooses to make the prescribed provisions/write downs over more than one quarter and this results in the full provisioning/write down remaining to be made as on the close of a financial year, banks/NBFCs/AIFIs should debit 'other reserves' [i.e., reserves other than the one created in terms of Section 17(2) of the Banking Regulation Act 1949] by the amount remaining un-provided/not written down at the end of the financial year, by credit to specific provisions. However, bank/NBFC/AIFI should proportionately reverse the debits to ‘other reserves’ and complete the provisioning/write down by debiting profit and loss account, in the subsequent quarters of the next financial year. Banks shall make suitable disclosures in Notes to Accounts with regard to the quantum of provision made during the year under this scheme and the quantum of unamortised provisions debited to ‘other reserves’ as at the end of the year.
+10. Fees and Charges
+The IBA will collect a fee from the lenders as a prescribed percentage of the outstanding debt of the borrowal entity to the consortium/JLF/consortium/bank and create a corpus fund. This fund will be used to meet the expenses of the OC.
+11. Mandatory Implementation
+Once the resolution plan prepared/presented by the lenders is ratified by the OC, it will be binding on all lenders. They will, however, have the option to exit as per the extant guidelines on Joint Lenders’ Forum (JLF) and Corrective Action Plan (CAP).
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager
+Related pressrelease
+Jun 13, 2016
+RBI introduces a ‘Scheme for Sustainable Structuring of Stressed Assets’
+1
+In respect of Securitisation Companies/ Reconstruction Companies (SCs/RCs), only those accounts are eligible which, in addition to meeting the listed criteria, have been acquired against consideration in cash only, i.e. not by issuing any Security Receipts.

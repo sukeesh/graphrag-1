@@ -1,0 +1,46 @@
+(27 kb)
+Know Your Customer (KYC) Norms/Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/ Obligation of Authorised Persons under Prevention of Money Laundering Act (PMLA), 2002 – Money Changing Activities – Recognising E-Aadhaar as an ‘Officially Valid Document’ under PML Rules
+RBI/2013-14/137
+A.  P. (DIR Series) Circular No.9
+July 21, 2014
+To,
+All  Authorised Persons
+Madam / Sir,
+Know Your  Customer (KYC) Norms/Anti-Money Laundering (AML) Standards/ Combating of  Financing of Terrorism (CFT)/ Obligation of Authorised Persons under Prevention  of Money Laundering Act (PMLA), 2002 – Money Changing Activities – Recognising E-Aadhaar  as an ‘Officially Valid Document’ under PML Rules
+Attention of Authorised Persons is invited to F-Part-II  of our
+A.P.  (DIR Series) Circular No.17 [A.P. (FL/RL Series) Circular No.04] dated November  27, 2009
+on the captioned subject, as amended from time to time. F-Part-II  of the above mentioned circular lists officially valid documents for customer  identification.
+2. Authorised Persons are advised that, physical  Aadhaar card/ letter issued by the Unique Identification Authority of India  (UIDAI) containing details of name, address and Aadhaar number may be accepted  as an ‘Officially Valid Document’. If the address provided by the customer is  same as that on the Aadhaar letter, it may be accepted as a proof of both  identity and address.
+3. In order to reduce the risk of  identity fraud, document forgery and have paperless KYC verification, UIDAI has  launched its e-KYC service. Accordingly, it has been decided to accept e-KYC  service as a valid process for KYC verification under Prevention of Money  Laundering (Maintenance of Records) Rules, 2005. Further, the information  containing demographic details and photographs made available from UIDAI as a  result of e-KYC process (“which is in an electronic form and accessible so as  to be usable for a subsequent reference”) may be treated as an ‘Officially  Valid Document’ under PML Rules. In this connection, it is advised that while  using e-KYC service of UIDAI, the individual user has to authorize the UIDAI,  by explicit consent, to release her or his identity/address through biometric  authentication to the Authorised  Persons. The UIDAI then transfers the data of the individual comprising name,  age, gender, and photograph of the individual, electronically, to the Authorised  Person, which may be accepted as a valid process for KYC verification. The  broad operational instructions to Authorised Persons on Aadhaar e-KYC service are  enclosed as
+Annex
+.
+4. Authorised Persons are advised to  have proper infrastructure (as specified in Annex) in place to enable biometric  authentication for e-KYC.
+5. Further, it is clarified that, Authorised  Persons may accept e-Aadhaar downloaded from UIDAI website as an officially  valid document subject to the following:
+a)  If the prospective customer knows only his/her Aadhaar number, the Authorised  Person may print the prospective customer’s e-Aadhaar letter directly from the  UIDAI portal; or adopt e-KYC procedure as mentioned in the para 3 above.
+b)  If the prospective customer carries a copy of the e-Aadhaar downloaded  elsewhere, the Authorised Person may print the prospective customer’s e-Aadhaar  letter directly from the UIDAI portal; or adopt e-KYC procedure as mentioned in  the para 3 above; or confirm identity and address of the resident through  simple authentication service of UIDAI.
+6. The directions contained in this  Circular have been issued under Section 10(4) and Section 11(1) of the Foreign  Exchange Management Act, 1999 (42 of 1999) and also under the, Prevention of  Money Laundering Act, (PMLA), 2002, as amended from time to time and are  without prejudice to permission /approvals, if any, required under any other  law.
+Yours faithfully,
+(B. P. Kanungo)
+Principal Chief General Manager
+Annex
+Operational Procedure to be followed for e-KYC  exercise
+The e-KYC service of the UIDAI is be leveraged by Authorised  Persons through a secured network. Any Authorised Person willing to use the  UIDAI e-KYC service is required to sign an agreement with the UIDAI. The  process flow to be followed is as follows:
+1. Sign KYC User Agency (KUA) agreement with UIDAI to  enable the Authorised Person to specifically access e-KYC service.
+2. Authorised  Persons to deploy hardware and software for deployment of e-KYC service across  various delivery channels. These should be Standardisation Testing and Quality  Certification (STQC) Institute, Department of Electronics & Information  Technology, Government of India certified biometric scanners at Customer  Service Points (CSPs) as per UIDAI standards. The list of certified biometric  scanners is available on the following website:
+http://www.stqc.gov.in
+3. Develop a software application to enable use of e-KYC  across various CSPs (including franchisee locations) as per UIDAI defined  Application Programming Interface (API) protocols. For this purpose Authorised  Persons will have to develop their own software under the broad guidelines of  UIDAI. Therefore, the software may differ from Authorised Person to Authorised  Person.
+4. Define a procedure for obtaining customer  authorization to UIDAI for sharing e-KYC data with the Authorised Person. This  authorization can be in
+physical
+(by way of a written explicit  consent authorising UIDAI to share his/her Aadhaar data with the Authorised  Person/franchisee for the purpose of money changing)/
+electronic
+form  as defined by UIDAI from time to time.
+5. Sample process flow would be as follows:
+Customer  walks into CSP of an Authorised Person with his/her 12-digit Aadhaar number and explicit consent and requests to avail of money  changing facility with Aadhaar based e-KYC.
+Representative  of the Authorised Person manning the CSP enters the number into the e-KYC  application software of the Authorised Person.
+The  customer inputs his/her biometrics via a UIDAI compliant biometric reader (e.g.  fingerprints on a biometric reader).
+The  software application captures the Aadhaar number along with biometric data,  encrypts this data and sends it to UIDAI’s Central Identities Data Repository  (CIDR).
+The  Aadhaar KYC service authenticates customer data. If the Aadhar number does not  match with the biometrics, UIDAI server responds with an error with various  reason codes depending on type of error (as defined by UIDAI).
+If  the Aadhaar number matches with the biometrics, UIDAI responds with digitally  signed and encrypted demographic information [Name, year/date of birth, Gender,  Address, Phone and email (if available)] and photograph. This information is  captured by e-KYC application of Authorised Person and processed as needed.
+Servers  of Authorised Person auto populate the demographic data and photograph in  relevant fields. It also records the full audit trail of e-KYC viz. source of  information, digital signatures, reference number, original request generation  number, machine ID for device used to generate the request, date and time stamp  with full trail of message routing, UIDAI encryption date and time stamp, Authorised  Person’s decryption date and time stamp, etc.
+The  photograph and demographics of the customer can be seen on the screen of  computer at CSPs for reference.
+The customer can avail of money changing facility  subject to satisfying other necessary requirements.

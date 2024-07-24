@@ -1,0 +1,39 @@
+(42 kb)
+Re-repo in Government Securities Market
+This circular has been superseded by
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 dated July 24, 2018
+.
+RBI/2014-15/454
+FMRD.DIRD.5/14.03.002/2014-15
+February 05, 2015
+All Market Participants
+Dear Sir/Madam,
+Re-repo in Government Securities Market
+Please refer to
+paragraph 26
+of the fourth bi-monthly Monetary Policy Statement 2014-15 wherein it was proposed that re-repo in Government securities will be permitted subject to appropriate control measures and development of IT infrastructure.
+2. In this connection, a reference is invited to
+RBI circular IDMC/PDRS/3432/10.02.01/2002-03 dated February 21, 2003
+on ready forward contracts and the subsequent revisions conveyed vide
+circulars IDMD/PDRS/4779/10.02.01/2004-05 dated May 11, 2005
+and
+IDMD.DOD.No.334/11.08.36/2009-10 dated July 20, 2009
+.
+3. It has now been decided to permit re-repo in government securities, including state development loans and Treasury Bills, acquired under reverse repo, subject to following conditions:
+Scheduled commercial banks and Primary Dealers (PDs) maintaining subsidiary general ledger (SGL) account with the Reserve Bank of India will be permitted to re-repo the securities acquired under reverse repo;
+Mutual Funds and Insurance Companies maintaining SGL account with the Reserve Bank of India will also be permitted to re-repo the securities acquired under reverse repo, subject to the approval of the regulators concerned;
+Re-repo of securities can be undertaken only after receipt of confirmation/matching of first leg of repo transaction;
+Re-repo period should not exceed the residual period of the initial repo;
+Eligible entities undertaking re-repo transactions should ‘flag’ the transactions as a re-repo on the authorised reporting platform. Participants may review their systems and controls to ensure strict compliance with the requirement of reporting of re-repo transactions.
+4. All repo/re-repo transactions should be subject to internal audit and concurrent audit. Violation of the regulatory guidelines, if any, may be brought to the notice of Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Mumbai.
+5. Default in payment of cash or delivery of security shall be viewed seriously and subject to penal measures as prescribed in
+RBI circular IDMD.DOD.17/11.01.01(B)/2010-11 dated July 14, 2010
+, as amended from time to time. Reserve Bank may also take any action including temporary or permanent debarment of the SGL account holder from the repo market as it may deem fit, for violation/circumvention of the regulatory guidelines or if Reserve Bank is of the view that the entity has attempted to manipulate the market, involved in market abuse, or provided information that was incorrect, inaccurate, or incomplete.
+6. These guidelines are not applicable to repo transactions executed with the Reserve Bank of India as counterparty.
+7. All eligible entities are also required to adhere to the prudential guidelines prescribed by their respective regulators from time to time for undertaking repo transactions. All other conditions specified in the circulars
+ibid
+and the subsequent revisions will continue to apply.
+8. The above revised guidelines will come into effect from February 16, 2015. The guidelines will be reviewed periodically to consider modifications and continuance, as appropriate.
+Yours faithfully,
+(Dimple Bhandia)
+General Manager

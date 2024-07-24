@@ -1,0 +1,173 @@
+(855 kb)
+Directions on Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFCs
+RBI/2017-18/87
+DNBR.PD.CC.No.090/03.10.001/2017-18
+November 09, 2017
+To
+All Non-Banking Financial Companies (NBFCs),
+Madam/ Sir,
+Directions on Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFCs
+In exercise of the powers conferred under Section 45 L of the Reserve Bank of India Act, 1934, the Reserve Bank of India after being satisfied that it is necessary and expedient in the public interest so to do and with a view to put in place necessary safeguards applicable to outsourcing of activities by NBFCs, hereby issues the Directions as set out in the
+Annex
+.
+2. NBFCs are advised to conduct a self-assessment of their existing outsourcing arrangements and bring these in line with the aforesaid Directions
+within two months from the date of this circular
+.
+3. The
+Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016
+,
+Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company (Reserve Bank) Directions, 2016
+,
+Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+,
+Core Investment Companies (Reserve Bank) Directions, 2016
+,
+Standalone Primary Dealers (Reserve Bank) Directions, 2016
+and
+Non-Banking Financial Company – P2P (Reserve Bank) Directions, 2017
+have been accordingly updated.
+Yours faithfully,
+(C. D. Srinivasan)
+Chief General Manager
+Annex
+Directions on Managing Risks and Code of Conduct in Outsourcing of Financial Services by NBFCs
+1. Introduction
+1.1 'Outsourcing' is defined as the NBFC’s use of a third party (either an affiliated entity within a corporate group or an entity that is external to the corporate group) to perform activities on a continuing basis that would normally be undertaken by the NBFC itself, now or in the future.
+‘Continuing basis' includes agreements for a limited period.
+1.2 NBFCs have been outsourcing various activities and are hence exposed to various risks as detailed in
+para 5.3
+. Further, the outsourced activities are to be brought within regulatory purview to a) protect the interest of the customers of NBFCs and b) to ensure that the NBFC concerned and the Reserve Bank of India have access to all relevant books, records and information available with service provider. Typically outsourced financial services include applications processing (loan origination, credit card), document processing, marketing and research, supervision of loans, data processing and back office related activities, besides others.
+1.3 Some key risks in outsourcing are Strategic Risk, Reputation Risk, Compliance Risk, Operational Risk, Legal Risk, Exit Strategy Risk, Counterparty Risk, Country Risk, Contractual Risk, Access Risk, Concentration and Systemic Risk. The failure of a service provider in providing a specified service, a breach in security/ confidentiality, or non-compliance with legal and regulatory requirements by the service provider can lead to financial losses or loss of reputation for the NBFC and could also lead to systemic risks.
+1.4 It is therefore imperative for the NBFC outsourcing its activities to ensure sound and responsive risk management practices for effective oversight, due diligence and management of risks arising from such outsourced activities. The directions are applicable to material outsourcing arrangements as explained in
+para 3
+which may be entered into by an NBFC with a service provider located in India or elsewhere. The service provider may either be a member of the group/ conglomerate to which the NBFC belongs, or an unrelated party.
+1.5 The underlying principles behind these directions are that the regulated entity shall ensure that outsourcing arrangements neither diminish its ability to fulfil its obligations to customers and RBI nor impede effective supervision by RBI. NBFCs, therefore, have to take steps to ensure that the service provider employs the same high standard of care in performing the services as is expected to be employed by the NBFCs, if the activities were conducted within the NBFCs and not outsourced. Accordingly, NBFCs shall not engage in outsourcing that would result in their internal control, business conduct or reputation being compromised or weakened.
+1.6 (i) These directions are concerned with managing risks in outsourcing of financial services and are not applicable to technology-related issues and activities not related to financial services, such as usage of courier, catering of staff, housekeeping and janitorial services, security of the premises, movement and archiving of records, etc. NBFCs which desire to outsource financial services would not require prior approval from RBI. However, such arrangements would be subject to on-site/ off- site monitoring and inspection/ scrutiny by RBI.
+(ii) In regard to outsourced services relating to credit cards, RBI's detailed instructions contained in its circular on credit card activities vide
+DBOD.FSD.BC.49/24.01.011/2005-06 dated November 21, 2005
+would be applicable.
+2. Activities that shall not be outsourced
+NBFCs which choose to outsource financial services shall, however, not outsource core management functions including Internal Audit, Strategic and Compliance functions and decision-making functions such as determining compliance with KYC norms for opening deposit accounts, according sanction for loans (including retail loans) and management of investment portfolio. However, for NBFCs in a group/ conglomerate, these functions may be outsourced within the group subject to compliance with instructions in
+Para 6
+. Further, while internal audit function itself is a management process, the internal auditors can be on contract.
+3. Material Outsourcing
+For the purpose of these directions, material outsourcing arrangements are those which, if disrupted, have the potential to significantly impact the business operations, reputation, profitability or customer service. Materiality of outsourcing would be based on:
+the level of importance to the NBFC of the activity being outsourced as well as the significance of the risk posed by the same;
+the potential impact of the outsourcing on the NBFC on various parameters such as earnings, solvency, liquidity, funding capital and risk profile;
+the likely impact on the NBFC’s reputation and brand value, and ability to achieve its business objectives, strategy and plans, should the service provider fail to perform the service;
+the cost of the outsourcing as a proportion of total operating costs of the NBFC;
+the aggregate exposure to that particular service provider, in cases where the NBFC outsources various functions to the same service provider and
+the significance of activities outsourced in context of customer service and protection.
+4. NBFC's role and Regulatory and Supervisory Requirements
+4.1 The outsourcing of any activity by NBFC does not diminish its obligations, and those of its Board and senior management, who have the ultimate responsibility for the outsourced activity. NBFCs would therefore be responsible for the actions of their service provider including Direct Sales Agents/ Direct Marketing Agents and recovery agents and the confidentiality of information pertaining to the customers that is available with the service provider. NBFCs shall retain ultimate control of the outsourced activity.
+4.2 It is imperative for the NBFC, when performing its due diligence in relation to outsourcing, to consider all relevant laws, regulations, guidelines and conditions of approval, licensing or registration.
+4.3 Outsourcing arrangements shall not affect the rights of a customer against the NBFC, including the ability of the customer to obtain redress as applicable under relevant laws. In cases where the customers are required to deal with the service providers in the process of dealing with the NBFC, NBFCs shall incorporate a clause in the relative product literature/ brochures, etc., stating that they may use the services of agents in sales/ marketing etc. of the products. The role of agents may be indicated in broad terms.
+4.4 The service provider shall not impede or interfere with the ability of the NBFC to effectively oversee and manage its activities nor shall it impede the Reserve Bank of India in carrying out its supervisory functions and objectives.
+4.5 NBFCs need to have a robust grievance redress mechanism, which in no way shall be compromised on account of outsourcing.
+4.6 The service provider, if not a group company of the NBFC, shall not be owned or controlled by any director of the NBFC or their relatives; these terms have the same meaning as assigned under Companies Act, 2013.
+5. Risk Management practices for Outsourced Financial Services
+5.1 Outsourcing Policy
+An NBFC intending to outsource any of its financial activities shall put in place a comprehensive outsourcing policy, approved by its Board, which incorporates, inter alia, criteria for selection of such activities as well as service providers, delegation of authority depending on risks and materiality and systems to monitor and review the operations of these activities.
+5.2 Role of the Board and Senior Management
+5.2.1 Role of the Board
+The Board of the NBFC, or a Committee of the Board to which powers have been delegated shall be responsible inter alia for the following:
+approving a framework to evaluate the risks and materiality of all existing and prospective outsourcing and the policies that apply to such arrangements;
+laying down appropriate approval authorities for outsourcing depending on risks and materiality;
+setting up suitable administrative framework of senior management for the purpose of these directions;
+undertaking regular review of outsourcing strategies and arrangements for their continued relevance, and safety and soundness and
+deciding on business activities of a material nature to be outsourced, and approving such arrangements.
+5.2.2 Responsibilities of the Senior Management
+Evaluating the risks and materiality of all existing and prospective outsourcing, based on the framework approved by the Board;
+developing and implementing sound and prudent outsourcing policies and procedures commensurate with the nature, scope and complexity of the outsourcing activity;
+reviewing periodically the effectiveness of policies and procedures;
+communicating information pertaining to material outsourcing risks to the Board in a timely manner;
+ensuring that contingency plans, based on realistic and probable disruptive scenarios, are in place and tested;
+ensuring that there is independent review and audit for compliance with set policies and
+undertaking periodic review of outsourcing arrangements to identify new material outsourcing risks as they arise.
+5.3 Evaluation of the Risks
+The NBFCs shall evaluate and guard against the following risks in outsourcing:
+Strategic Risk – Where the service provider conducts business on its own behalf, inconsistent with the overall strategic goals of the NBFC.
+Reputation Risk – Where the service provided is poor and customer interaction is not consistent with the overall standards expected of the NBFC.
+Compliance Risk – Where privacy, consumer and prudential laws are not adequately complied with by the service provider.
+Operational Risk- Arising out of technology failure, fraud, error, inadequate financial capacity to fulfil obligations and/ or to provide remedies.
+Legal Risk – Where the NBFC is subjected to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements due to omissions and commissions of the service provider.
+Exit Strategy Risk – Where the NBFC is over-reliant on one firm, the loss of relevant skills in the NBFC itself preventing it from bringing the activity back in-house and where NBFC has entered into contracts that make speedy exits prohibitively expensive.
+Counter party Risk – Where there is inappropriate underwriting or credit assessments.
+Contractual Risk – Where the NBFC may not have the ability to enforce the contract.
+Concentration and Systemic Risk – Where the overall industry has considerable exposure to one service provider and hence the NBFC may lack control over the service provider.
+Country Risk – Due to the political, social or legal climate creating added risk.
+5.4 Evaluating the Capability of the Service Provider
+5.4.1 In considering or renewing an outsourcing arrangement, appropriate due diligence shall be performed to assess the capability of the service provider to comply with obligations in the outsourcing agreement. Due diligence shall take into consideration qualitative and quantitative, financial, operational and reputational factors. NBFCs shall consider whether the service providers' systems are compatible with their own and also whether their standards of performance including in the area of customer service are acceptable to it. NBFCs shall also consider, while evaluating the capability of the service provider, issues relating to undue concentration of outsourcing arrangements with a single service provider. Where possible, the NBFC shall obtain independent reviews and market feedback on the service provider to supplement its own findings.
+5.4.2 Due diligence shall involve an evaluation of all available information about the service provider, including but not limited to the following:
+past experience and competence to implement and support the proposed activity over the contracted period;
+financial soundness and ability to service commitments even under adverse conditions;
+business reputation and culture, compliance, complaints and outstanding or potential litigation;
+security and internal control, audit coverage, reporting and monitoring environment, business continuity management and
+ensuring due diligence by service provider of its employees.
+5.5 The Outsourcing Agreement
+The terms and conditions governing the contract between the NBFC and the service provider shall be carefully defined in written agreements and vetted by NBFC's legal counsel on their legal effect and enforceability. Every such agreement shall address the risks and risk mitigation strategies. The agreement shall be sufficiently flexible to allow the NBFC to retain an appropriate level of control over the outsourcing and the right to intervene with appropriate measures to meet legal and regulatory obligations. The agreement shall also bring out the nature of legal relationship between the parties - i.e. whether agent, principal or otherwise. Some of the key provisions of the contract shall be the following:
+the contract shall clearly define what activities are going to be outsourced including appropriate service and performance standards;
+the NBFC must ensure it has the ability to access all books, records and information relevant to the outsourced activity available with the service provider;
+the contract shall provide for continuous monitoring and assessment by the NBFC of the service provider so that any necessary corrective measure can be taken immediately;
+a termination clause and minimum period to execute a termination provision, if deemed necessary, shall be included;
+controls to ensure customer data confidentiality and service providers' liability in case of breach of security and leakage of confidential customer related information shall be incorporated;
+there must be contingency plans to ensure business continuity;
+the contract shall provide for the prior approval/ consent by the NBFC of the use of subcontractors by the service provider for all or part of an outsourced activity;
+it shall provide the NBFC with the right to conduct audits on the service provider whether by its internal or external auditors, or by agents appointed to act on its behalf and to obtain copies of any audit or review reports and findings made on the service provider in conjunction with the services performed for the NBFC;
+outsourcing agreements shall include clauses to allow the Reserve Bank of India or persons authorised by it to access the NBFC's documents, records of transactions, and other necessary information given to, stored or processed by the service provider within a reasonable time;
+outsourcing agreement shall also include a clause to recognise the right of the Reserve Bank to cause an inspection to be made of a service provider of an NBFC and its books and account by one or more of its officers or employees or other persons;
+the outsourcing agreement shall also provide that confidentiality of customer's information shall be maintained even after the contract expires or gets terminated and
+the NBFC shall have necessary provisions to ensure that the service provider preserves documents as required by law and take suitable steps to ensure that its interests are protected in this regard even post termination of the services.
+5.6 Confidentiality and Security
+5.6.1 Public confidence and customer trust in the NBFC is a prerequisite for the stability and reputation of the NBFC. Hence the NBFC shall seek to ensure the preservation and protection of the security and confidentiality of customer information in the custody or possession of the service provider.
+5.6.2 Access to customer information by staff of the service provider shall be on 'need to know' basis i.e., limited to those areas where the information is required in order to perform the outsourced function.
+5.6.3 The NBFC shall ensure that the service provider is able to isolate and clearly identify the NBFC's customer information, documents, records and assets to protect the confidentiality of the information. In instances, where service provider acts as an outsourcing agent for multiple NBFCs, care shall be taken to build strong safeguards so that there is no comingling of information / documents, records and assets.
+5.6.4 The NBFC shall review and monitor the security practices and control processes of the service provider on a regular basis and require the service provider to disclose security breaches.
+5.6.5 The NBFC shall immediately notify RBI in the event of any breach of security and leakage of confidential customer related information. In these eventualities, the NBFC would be liable to its customers for any damages.
+5.7 Responsibilities of Direct Sales Agents (DSA)/ Direct Marketing Agents (DMA)/ Recovery Agents
+5.7.1 NBFCs shall ensure that the DSA/ DMA/ Recovery Agents are properly trained to handle their responsibilities with care and sensitivity, particularly aspects such as soliciting customers, hours of calling, privacy of customer information and conveying the correct terms and conditions of the products on offer, etc.
+5.7.2 NBFCs shall put in place a board approved Code of conduct for DSA/ DMA/ Recovery Agents, and obtain their undertaking to abide by the code. In addition, Recovery Agents shall adhere to extant instructions on Fair Practices Code for NBFCs as also their own code for collection of dues and repossession of security. It is essential that the Recovery Agents refrain from action that could damage the integrity and reputation of the NBFC and that they observe strict customer confidentiality.
+5.7.3 The NBFC and their agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude the privacy of the debtors' family members, referees and friends, making threatening and anonymous calls or making false and misleading representations.
+5.8 Business Continuity and Management of Disaster Recovery Plan
+5.8.1 An NBFC shall require its service providers to develop and establish a robust framework for documenting, maintaining and testing business continuity and recovery procedures. NBFCs need to ensure that the service provider periodically tests the Business Continuity and Recovery Plan and may also consider occasional joint testing and recovery exercises with its service provider.
+5.8.2 In order to mitigate the risk of unexpected termination of the outsourcing agreement or liquidation of the service provider, NBFCs shall retain an appropriate level of control over their outsourcing and the right to intervene with appropriate measures to continue its business operations in such cases without incurring prohibitive expenses and without any break in the operations of the NBFC and its services to the customers.
+5.8.3 In establishing a viable contingency plan, NBFCs shall consider the availability of alternative service providers or the possibility of bringing the outsourced activity back in-house in an emergency and the costs, time and resources that would be involved.
+5.8.4 Outsourcing often leads to the sharing of facilities operated by the service provider. The NBFC shall ensure that service providers are able to isolate the NBFC's information, documents and records, and other assets. This is to ensure that in appropriate situations, all documents, records of transactions and information given to the service provider, and assets of the NBFC, can be removed from the possession of the service provider in order to continue its business operations, or deleted, destroyed or rendered unusable.
+5.9 Monitoring and Control of Outsourced Activities
+5.9.1 The NBFC shall have in place a management structure to monitor and control its outsourcing activities. It shall ensure that outsourcing agreements with the service provider contain provisions to address their monitoring and control of outsourced activities.
+5.9.2 A central record of all material outsourcing that is readily accessible for review by the Board and senior management of the NBFC shall be maintained. The records shall be updated promptly and half yearly reviews shall be placed before the Board or Risk Management Committee.
+5.9.3 Regular audits by either the internal auditors or external auditors of the NBFC shall assess the adequacy of the risk management practices adopted in overseeing and managing the outsourcing arrangement, the NBFC's compliance with its risk management framework and the requirements of these directions.
+5.9.4 NBFCs shall at least on an annual basis, review the financial and operational condition of the service provider to assess its ability to continue to meet its outsourcing obligations. Such due diligence reviews, which can be based on all available information about the service provider shall highlight any deterioration or breach in performance standards, confidentiality and security, and in business continuity preparedness.
+5.9.5 In the event of termination of the outsourcing agreement for any reason in cases where the service provider deals with the customers, the same shall be publicized by displaying at a prominent place in the branch, posting it on the web-site, and informing the customers so as to ensure that the customers do not continue to deal with the service provider.
+5.9.6 Certain cases, like outsourcing of cash management, might involve reconciliation of transactions between the NBFC, the service provider and its sub-contractors. In such cases, NBFCs shall ensure that reconciliation of transactions between the NBFC and the service provider (and/ or its sub-contractor), are carried out in a timely manner. An ageing analysis of entries pending reconciliation with outsourced vendors shall be placed before the Audit Committee of the Board (ACB) and NBFCs shall make efforts to reduce the old outstanding items therein at the earliest.
+5.9.7 A robust system of internal audit of all outsourced activities shall also be put in place and monitored by the ACB of the NBFC.
+5.10 Redress of Grievances related to Outsourced Services
+NBFCs shall constitute Grievance Redressal Machinery as contained in RBI’s circular on Grievance Redressal Mechanism vide
+DNBS. CC. PD. No. 320/03. 10. 01/2012-13 dated February 18, 2013
+. At the operational level, all NBFCs shall display the name and contact details (Telephone/ Mobile nos. as also email address) of the Grievance Redressal Officer prominently at their branches/ places where business is transacted. The designated officer shall ensure that genuine grievances of customers are redressed promptly without involving delay. It shall be clearly indicated that NBFCs' Grievance Redressal Machinery will also deal with the issue relating to services provided by the outsourced agency.
+Generally, a time limit of 30 days may be given to the customers for preferring their complaints/ grievances. The grievance redressal procedure of the NBFC and the time frame fixed for responding to the complaints shall be placed on the NBFC's website.
+5.11 Reporting of transactions to FIU or other competent authorities
+NBFCs would be responsible for making Currency Transactions Reports and Suspicious Transactions Reports to FIU or any other competent authority in respect of the NBFCs' customer related activities carried out by the service providers.
+6. Outsourcing within a Group/ Conglomerate
+6.1 In a group structure, NBFCs may have back-office and service arrangements/ agreements with group entities e.g. sharing of premises, legal and other professional services, hardware and software applications, centralize back-office functions, outsourcing certain financial services to other group entities, etc. Before entering into such arrangements with group entities, NBFCs shall have a Board approved policy and also service level agreements/ arrangements with their group entities, which shall also cover demarcation of sharing resources i.e. premises, personnel, etc. Moreover the customers shall be informed specifically about the company which is actually offering the product/ service, wherever there are multiple group entities involved or any cross selling observed.
+6.2 While entering into such arrangements, NBFCs shall ensure that these:
+are appropriately documented in written agreements with details like scope of services, charges for the services and maintaining confidentiality of the customer's data;
+do not lead to any confusion to the customers on whose products/ services they are availing by clear physical demarcation of the space where the activities of the NBFC and those of its other group entities are undertaken;
+do not compromise the ability to identify and manage risk of the NBFC on a stand-alone basis;
+do not prevent the RBI from being able to obtain information required for the supervision of the NBFC or pertaining to the group as a whole; and
+incorporate a clause under the written agreements that there is a clear obligation for any service provider to comply with directions given by the RBI in relation to the activities of the NBFC.
+6.3 NBFCs shall ensure that their ability to carry out their operations in a sound fashion would not be affected if premises or other services (such as IT systems, support staff) provided by the group entities become unavailable.
+6.4 If the premises of the NBFC are shared with the group entities for the purpose of cross-selling, NBFCs shall take measures to ensure that the entity's identification is distinctly visible and clear to the customers. The marketing brochure used by the group entity and verbal communication by its staff / agent in the NBFCs premises shall mention nature of arrangement of the entity with the NBFC so that the customers are clear on the seller of the product.
+6.5 NBFCs shall not publish any advertisement or enter into any agreement stating or suggesting or giving tacit impression that they are in any way responsible for the obligations of its group entities.
+6.6 The risk management practices expected to be adopted by an NBFC while outsourcing to a related party (i.e. party within the Group / Conglomerate) would be identical to those specified in
+Para 5
+of this directions.
+7. Off-shore outsourcing of Financial Services
+7.1 The engagement of service providers in a foreign country exposes an NBFC to country risk -economic, social and political conditions and events in a foreign country that may adversely affect the NBFC. Such conditions and events could prevent the service provider from carrying out the terms of its agreement with the NBFC. To manage the country risk involved in such outsourcing activities, the NBFC shall take into account and closely monitor government policies and political, social, economic and legal conditions in countries where the service provider is based, both during the risk assessment process and on a continuous basis, and establish sound procedures for dealing with country risk problems. This includes having appropriate contingency and exit strategies. In principle, arrangements shall only be entered into with parties operating in jurisdictions generally upholding confidentiality clauses and agreements. The governing law of the arrangement shall also be clearly specified.
+7.2 The activities outsourced outside India shall be conducted in a manner so as not to hinder efforts to supervise or reconstruct the India activities of the NBFC in a timely manner.
+7.3 As regards the off-shore outsourcing of financial services relating to Indian Operations, NBFCs shall additionally ensure that
+Where the off-shore service provider is a regulated entity, the relevant off-shore regulator will neither obstruct the arrangement nor object to RBI inspection visits/ visits of NBFCs internal and external auditors.
+The availability of records to management and the RBI will withstand the liquidation of either the offshore custodian or the NBFC in India.
+The regulatory authority of the offshore location does not have access to the data relating to Indian operations of the NBFC simply on the ground that the processing is being undertaken there (not applicable if off shore processing is done in the home country of the NBFC).
+The jurisdiction of the courts in the off shore location where data is maintained does not extend to the operations of the NBFC in India on the strength of the fact that the data is being processed there even though the actual transactions are undertaken in India and
+All original records continue to be maintained in India.

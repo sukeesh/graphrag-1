@@ -1,0 +1,105 @@
+(76 kb)
+Exchange-Traded Interest Rate Futures
+RBI/2013-14/402
+IDMD.PCD. 08/14.03.01/2013-14
+December 5, 2013
+To
+All  market participants
+Dear  Sir/Madam
+Exchange-Traded Interest Rate Futures
+As announced in the
+Second Quarter Review of Monetary  Policy 2013-14
+, it has been decided to introduce cash settled Interest Rate  Futures (IRF) on 10-year Government of India security.
+2. The Reserve Bank of India has  accordingly issued a Notification IDMD.PCD.07 /ED (RG) - 2013 dated December 5, 2013 introducing  cash settled IRF on 10-year Government of India security. With a view to consolidating and  revising existing instructions, these directions are issued superceding the Interest Rate Futures (Reserve  Bank) Directions, 2009 dated August 28, 2009 (as amended till December 30,  2011).
+3.
+A copy of  the Interest Rate Futures
+(Reserve Bank) Directions, 2013 which is placed on  the RBI Website, is enclosed.
+Yours faithfully
+(Rajendra Kumar)
+General Manager
+RESERVE  BANK OF INDIA
+INTERNAL  DEBT MANAGEMENT DEPARTMENT
+23rd  FLOOR, CENTRAL OFFICE FORT
+MUMBAI  400 001
+Notification No. IDMD.PCD.07/ED(RG) - 2013 dated December 5, 2013
+Interest  Rate Futures (Reserve Bank) Directions, 2013
+The  Reserve Bank of India having considered it necessary in public interest and to  regulate the financial system of the country to its advantage, in exercise of  the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and  of all the powers enabling it in this behalf, hereby gives the following  directions :
+1. Short  title and commencement of the directions
+1.1  These directions shall be referred to as  the Interest Rate Futures (Reserve Bank) Directions, 2013.
+1.2 These directions shall, come into force  with immediate effect.
+2.  Definitions
+2.1 Interest Rate  Futures means a standardized interest rate derivative contract traded on a  recognized stock exchange to buy or sell a notional security or any other  interest bearing instrument or an index of such instruments or interest rates  at a specified future date, at a price determined at the time of the contract.
+2.2 Interest Rate  Futures market means the market in which Interest Rate Futures are traded.
+2.3 The words and  expressions used but not defined in these directions shall have the meaning  assigned to them in the Reserve Bank of India Act, 1934.
+3.  Eligible instruments
+The Interest Rate Futures deriving value from the following  underlying are permitted on the recognised stock exchanges:
+(i) 91-Day Treasury Bills;
+(ii)  2-year, 5-year and 10-year coupon bearing notional Government of India security,  and
+(iii) Coupon bearing Government of India  security.
+4.  Eligible entities and conditions
+4.1 Persons resident in  India are permitted to purchase or sell  Interest Rate Futures referred to in paragraph 3 above both for hedging an exposure to interest rate risk or  otherwise.
+4.2 Foreign  Institutional Investors, registered with Securities and Exchange Board of  India, are permitted to purchase or sell  Interest Rate Futures referred to in paragraph 3 of these directions, subject to the condition that the total gross  long (bought) position in the spot Government securities market and Interest  Rate Futures markets taken together does not exceed the aggregate permissible  limit for investment in Government securities and the total gross short (sold)  position of each Foreign Institutional Investor in Interest Rate Futures, does  not exceed their long position in the Government securities and in Interest  Rate Futures at any point in time.
+4.3 Notwithstanding  anything contained in paragraph 4.1 of these directions, no scheduled bank or  such other agency falling under the regulatory purview of the Reserve Bank  under the Reserve Bank of India Act, 1934, the Banking Regulation Act, 1949 or  any other Act or instrument having the force of law shall participate in the  Interest Rate Futures market until such participation has been permitted by the  Reserve Bank.
+4.4 (a) Regulated entities  or agencies other than those referred under sub paragraph 4.3 falling under the  regulatory purview of any other regulator established by law shall not  participate in Interest Rate Futures market except with the permission of their  respective regulators.
+(b) Participation of  such entities or agencies referred in clause (a) of this sub paragraph, or of  any other person, in the Interest Rate Futures market on the permitted platform  of the stock exchange, whether as members or clients shall be subject to such  conditions or limits as they are subject to by the stock exchange or the  guidelines issued by the regulator concerned, in addition to compliance with  these directions.
+Explanation: - (i) The expression ‘Person resident in  India’ shall have the meaning assigned to it in sub-section (v) of section 2 of  the Foreign Exchange Management Act, 1999;
+(ii) Permission of the Reserve Bank referred  to in sub paragraph 4.3 for participation of regulated entities in the Interest  Rate Futures market refers to the permission granted by the respective regulatory  department of the Reserve Bank of India.
+5. Necessary conditions of the Interest Rate  Futures contract
+5.1 Contracts for  settlement by Physical Delivery
+The  10-year Interest Rate Futures contract shall satisfy the following requirements:
+The  contract shall be on coupon bearing notional 10-year Government of India  security.
+The coupon  for the notional 10-year Government of India security shall be 7% per annum  with semi-annual compounding.
+The  contract shall be settled by physical delivery of deliverable grade securities  using the electronic book entry system of the existing Depositories, namely,  National Securities Depositories Ltd. and Central Depository Services (India)  Ltd. and Public Debt Office of the Reserve Bank.
+Deliverable  grade securities shall comprise Government of India securities maturing at  least 7.5 years but not more than 15 years from the first day of the delivery  month with a minimum total outstanding stock of
+`
+10,000 crore.
+Subject  to clause (d) of this sub paragraph, exchanges  may select their own basket of securities for delivery from the deliverable  grade securities in accordance with guidelines issued by the Securities  Exchange Board of India from time to time.
+5.2 Contracts to be Cash Settled
+5.2.1 The 91-Day Treasury Bill Futures shall satisfy the  following requirements:
+The contract shall be on 91-Day Treasury Bills  issued by the Government of India.
+The contract shall be cash settled in Indian  Rupees.
+The final settlement price of the contract shall be  based on the weighted average price/yield obtained in the weekly auction of the  91-Day Treasury Bills on the date of expiry of the contract.
+5.2.2  The 2-year and 5-year  Interest Rate Futures contract shall satisfy the following requirements:
+The  2-year and 5-year Interest Rate Futures contracts shall be on coupon bearing notional  2-year and 5-year Government of India security respectively.
+The  coupon for the notional 2-year Government of India security shall be 7% per  annum and that of the notional 5-year Government of India security shall be 7%  per annum with semi-annual compounding.
+The  contracts shall be cash-settled in Indian Rupees.
+The  final settlement price of the 2-year and 5-year Interest Rate Futures contracts  shall be based on the yields on basket of securities for each Interest Rate  Futures contract specified by the respective stock exchange in accordance with  guidelines issued by the Securities Exchange Board of India from time to time.
+The  yields of the Government of India securities [indicated at paragraph 5.2.2 (d) above] shall be polled and the  same shall be as per the guidelines issued by the Reserve Bank of India from  time to time.
+5.2.3 The cash settled Interest Rate Futures on 10-year  Government of India security shall have as underlying:
+(i) coupon bearing Government of India security
+Or
+(ii) coupon bearing notional 10-year Government of India security with  settlement price based on basket of securities.
+5.2.3.1 The 10-year  Interest Rate Futures with coupon bearing Government of India security as  underlying shall satisfy the following requirements:
+The underlying shall be a coupon bearing Government of India  security of face value Rs. 100 and residual maturity between 9 and 10 years on  the expiry of futures contract. The underlying security within these parameters  shall be, as decided by stock exchanges in consultation with the Fixed Income  Money Market and Derivatives Association (FIMMDA).
+The contract shall be  cash-settled in Indian rupees.
+The final settlement price shall be arrived  at by calculating the weighted average price of the underlying security based  on prices during the last two hours of the trading on Negotiated  Dealing System-Order Matching (NDS-OM) system.  If less than 5 trades are executed in the underlying security  during the last two hours of trading, then FIMMDA price shall be used for final  settlement.
+5.2.3.2.  The 10-year Interest Rate Futures with coupon  bearing notional 10-year Government of India security as underlying and settlement  price based on basket of securities shall satisfy the following requirements:
+The underlying shall be coupon bearing notional  10-year Government of India security with face value of Rs. 100. For each  contract, there shall be basket of Government of India securities, with  residual maturity between 9 and 11 years on the day of expiry of futures  contract, with appropriate weight assigned to each security in the basket.  Exchanges shall determine criteria for including securities in the basket and  determining their weights.
+The underlying security shall have coupon  with semi-annual compounding.
+The contract shall be  cash-settled in Indian rupees.
+The final settlement price shall be based on  average settlement yield which shall be weighted average of the yields of  securities in the underlying basket. For each security in the basket, yield  shall be calculated by determining weighted average yield of the security based  on last two hours of the trading in NDS-OM system. If less than 5 trades are  executed in the security during the last  two hours of trading, then FIMMDA price shall be used for determining the  yields of individual securities in the basket.
+6.  Membership of the Stock Exchange
+6.1  Interest Rate Futures contracts on instruments referred to in paragraph 3 shall  be traded on the segment as determined by the recognized stock exchange in  accordance with the guidelines issued by the Securities and Exchange Board of  India.
+6.2 Membership  as client, trading and clearing members, in the segment for trading of Interest  Rate Futures as determined by the respective stock exchanges, shall be subject  to the guidelines issued by the Securities and Exchange Board of India.
+7.  Position limits
+7.1.  All regulated  entities shall operate within the prudential limits set by the regulator  concerned.
+7.2.  The position  limits for the various categories of participants in the Interest Rate Futures  market shall be subject to the guidelines issued by the Securities and Exchange  Board of India.
+8. Risk  Management measures
+8.1 The trading of Interest Rate Futures  contracts permitted under these directions shall be subject to maintaining  initial, extreme loss and calendar spread margins.
+8.2 The Clearing Corporations / Clearing  Houses of the exchanges shall ensure the maintenance of the respective margins  by the participants in accordance with the guidelines issued by the Securities  and Exchange Board of India from time to time.
+9.  Disclosure and Surveillance requirements
+The  disclosure and surveillance of all transactions in the Interest Rate Futures  market shall be carried out in accordance with the guidelines issued by the  Securities and Exchange Board of India and the Reserve Bank of India from time  to time.
+10.  Powers of Reserve Bank
+The  Reserve Bank may from time to time modify the eligibility criteria for the  participants, modify participant-wise position limits, prescribe margins and /  or impose specific margins for identified participants, fix or modify any other  prudential limits, or take such other actions as deemed necessary in public  interest, in the interest of financial stability and orderly development and  maintenance of interest rate market in India.
+11. All existing directions
+1
+stand superceded with immediate effect but shall continue to apply to contracts  undertaken in accordance with the said directions till the expiry of the said  contracts.
+(R. Gandhi)
+Executive Director
+1
+Permitted  vide RBI notifications:
+Notification No. FMD. 1 /ED(VKS) - 2009 dated August 28, 2009
+,
+Notification  IDMD.PCD.27/ED (HRK) - 2010 dated March 7, 2011
+and
+Notification IDMD.PCD.15/ED  (RG) - 2011 dated December 30, 2011

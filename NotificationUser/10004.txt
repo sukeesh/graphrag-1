@@ -1,0 +1,54 @@
+(144 kb)
+Cash Withdrawal at Point-of-Sale (POS) - Enhanced limit at Tier III to VI Centres
+RBI/2015-16/164
+DPSS.CO.PD.No.449/02.14.003/2015-16
+August 27, 2015
+The Chairman and Managing Director / Chief Executive Officers
+All Scheduled Commercial Banks including RRBs /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks /All Card Network Providers
+Dear Madam / Sir,
+Cash Withdrawal at Point-of-Sale (POS) - Enhanced limit at Tier III to VI Centres
+A reference is invited to our
+circulars No DPSS.CO.PD.No.147/02.14.003/2009-10 dated July 22, 2009
+and
+DPSS.CO.PD.No.563/02.14.003/2013-14 dated September 5, 2013
+on the captioned subject wherein cash withdrawal at Point of Sale (POS) was enabled for all debit cards/open loop prepaid cards issued by banks upto Rs.1000/- per day.
+2. On a review it has been decided to enhance the limit for cash withdrawal at POS (for debit cards and open system prepaid cards issued by banks in India) from Rs.1000/- to Rs.2000/- per day in Tier III to VI centres with immediate effect. The per-day limit in Tier I and II centres remains unchanged.
+3. Customer charges, if any, levied on cash withdrawals shall not exceed 1% of the transaction amount at all centres irrespective of the limit of Rs 1000 / Rs 2000.
+4. Such cash withdrawal facility may be provided by banks subject to following conditions:
+The facility is made available at merchant establishments designated by the bank after a process of due diligence. Such merchant establishments may be advised to clearly indicate / display the availability of this facility along with the charges, if any, payable by the customer.
+The facility is available irrespective of whether the card holder makes a purchase or not. In case the facility is availed along with the purchase of merchandise, the receipt generated shall separately indicate the amount of cash withdrawn.
+Banks offering this facility shall have an effective customer redressal mechanism. Complaints in this regard will fall within the ambit of the
+Reserve Bank - Integrated Ombudsman Scheme, 2021
+(as amended from time to time).
+5. Card issuing banks that have enabled this functionality may create sufficient awareness of this facility amongst their customers.
+6. Banks are advised to submit data on cash withdrawals to the Chief General Manager, Department of Payment and Settlement Systems, Mumbai, 400001 on quarterly basis within 15 days of the end of quarter as per
+enclosed
+format.
+7. The above scheme will be reviewed keeping in view the progress in e-payments and other related developments.
+8. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully
+(Nanda S Dave)
+Chief General Manager
+Annex
+Quarterly Report on Cash Withdrawal Transactions at Point-of-Sale (POS)-
+DPSS.PD.No/449 /02.14.003/2015-16 August 27,2015
+Name of the Bank:
+Quarter ended:
+Centres
+No of Merchants points enabled for Cash @POS
+(Cumulative)
+(ON-US)
+(OFF-US)
+Volume of transactions during the quarter
+Value of transactions during the quarter (amount in Rs)
+Volume of transactions during the quarter
+Value of transactions during the quarter (amount in Rs)
+Tier I
+Tier II
+Tier III
+Tier IV
+Tier V
+Tier VI
+Total

@@ -1,0 +1,61 @@
+(654 kb)
+Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+RBI/2014-15/125
+UBD. CO. BPD.  PCB. Cir. No. 4/16.74.000/2014-15
+July 15, 2014
+The Chief  Executive Officer
+All Primary (Urban) Co-operative Banks
+Dear Sir / Madam
+Data Format for  Furnishing of Credit Information to
+Credit Information  Companies and other Regulatory Measures
+A Committee to  Recommend Data Format for Furnishing of Credit Information to Credit  Information Companies (Chairman: Shri Aditya Puri) was constituted by the  Reserve Bank of India (RBI). The Report of the Committee was placed on RBI’s  website on March 22, 2014 inviting comments on the recommendations of the  Committee. The Report of the Committee is available for reference on RBI’s  website which  can be viewed using the  link
+http://rbi.org.in/scripts/PublicationReportDetails.aspx? UrlPage=&ID=763
+.
+2. On examination  of the recommendations of the Committee and the comments/suggestions received,  it has been decided to implement the following recommendations with  modifications, wherever appropriate:
+i.
+Credit Information  Reports (CIRs) / Credit Bureau Usage in all Lending Decisions and Account  Opening
+: Urban Cooperative Banks (UCBs) should include in their  credit appraisal processes/loan policies, suitable provisions for obtaining  CIRs from one or more Credit Information Companies (CICs) so that the credit  decisions are based on information available in the system. In this context, as  commercial borrowers’ data is not adequately populated with the CICs, to start  with, UCBs may institute board approved policies for credit bureau usage in all  lending decisions and account opening to retail borrowers/ consumer borrower  segment. [
+Recommendation 8.9
+]
+ii.
+Populating Commercial  Data Records in Databases of all CICs
+: A roadmap in regard to  CICs populating their databases in respect to corporate borrowers is required  to be laid out. For this purpose, UCBs are advised to report data in respect of  their corporate borrowers to the CICs in a timely manner with immediate effect.  After a period of six months, UCBs should start using data available with the  CICs in respect of commercial / corporate borrowers, under a Board approved  policy. [
+Recommendation 8.8
+]
+iii.
+Standardisation of Data  Format
+: With a view to streamlining the process of data  submission by UCBs to CICs, it has been decided to standardise the formats for  data submission by the UCBs to the CICs. The data format as per
+Annex I
+should be taken as the base for standardisation of data format for consumer and  commercial borrowers. These formats should be put in use by the UCBs for  reporting to CICs with immediate effect. The data format would be a  non-proprietary reporting format and henceforth would be known as “Uniform  Credit Reporting Format”. The segment viz. consumer and commercial will be  denoted appropriately in parentheses, for example, “Uniform Credit Reporting  Format (Consumer)”. These should be uniformly adopted by the UCBs. [
+Recommendation  8.10 (a)
+]
+iv.
+Technical Working Group
+:  It has been decided to constitute a Technical Working Group comprising of  representatives from Scheduled Commercial Banks (a member each from a Public  Sector Bank, a Private Sector Bank and a Foreign Bank), Urban Cooperative  Banks, Regional Rural Banks (RRBs), All India Notified Financial Institutions,  CICs, NBFCs, HFCs, IBA and MFIN to institutionalise  a continuing mechanism for reviewing and making changes where necessary to the  data formats. This Working Group should review the data formats periodically,  say once a year, and suggest modifications to the same. It would frame rules on  all data fields for various data formats, viz. consumer, commercial and MFI.  The data formats after finalisation by the Group will be submitted to RBI for  approval. In order to implement the recommendations relating to the Technical  Working Group, CIBIL will act as the convenor of the Group and take the lead to  operationalize the recommendation. To start with, the Working Group may take  up, on a priority basis, changes in the commercial borrower segment, where  there is an urgent need to capture data required for sharing of information  among member banks/FIs under consortium/multiple banking arrangements and to  aid in implementation of the instructions at paragraph 2 (ii) above. The  Working Group should also incorporate the additional fields as detailed in
+Annex  II
+. [
+Recommendations 8.10 (b)
+and
+8.11
+]
+v.
+Rectification of Rejected Data
+: CICs are required to share with UCBs the logic and  validation processes involved in data acceptance so that instances of data  rejection can be minimised. The reasons for rejection need to be parameterised  and circulated among the UCBs concerned. Rejection reports should be made  simple and understandable so that they can be used for fixing reporting and  data level issues. UCBs should rectify the rejected data and upload the same  with the CICs within seven days of receipt of such rejection report. [
+Recommendation  8.15
+]
+vi.
+Data Quality Index
+: A common Data Quality Index would assist UCBs in  determining the gaps in their data and also move towards improving their  performance over a period of time. In addition, they would also be able to rank  their own performance against that of their peers and identify their relative  position. UCBs may adopt this Data Quality Index for assessing the quality of  data submissions and make efforts towards improving data quality and minimising  data rejections, within a time period of six months. [
+Recommendation 8.16
+]
+vii.
+Best Practices for UCBs
+: Every UCB should take into account the best  practices as detailed in
+Annex III
+while formulating or reviewing the  policy and procedure under the Credit Information Companies (Regulation) Act,  2005 (CICRA) with the approval of their Board of Directors. [
+Recommendation  8.25
+]
+3. The other recommendations of the Committee would be  further examined before taking a decision on their implementation. UCBs are  advised to implement the instructions contained in this circular, as per the  time schedule indicated.
+Yours faithfully,
+(Scenta Joy)
+General Manager

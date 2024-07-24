@@ -1,0 +1,146 @@
+(221 kb)
+Rationalisation under LRS for Current and Capital Account Transactions
+RBI/2014-15/620
+A.P. (DIR Series) Circular No. 106
+June 1, 2015
+To,
+All banks Authorised to Deal in Foreign Exchange
+All Authorised Money Changers (AMCs) / Full-Fledged Money Changers (FFMCs)
+Madam/Sir,
+Liberalised Remittance Scheme (LRS) for resident individuals- increase in the limit from USD 125,000 to USD 250,000 and rationalisation of current account transactions
+Remittance facilities for persons other than individuals
+Attention of Authorised Persons is invited to the
+A.P.(DIR Series) Circular No. 138 dated June 3, 2014
+regarding the Liberalised Remittance Scheme (LRS) for resident individuals and the existing guidelines issued under the Foreign Exchange Management (Current Account Transactions) Rules, 2000. On a review, it has been decided to make the following changes for further liberalization and rationalization on the existing guidelines.
+Limit and Facilities under LRS
+2. AD banks may now allow remittances by a resident individual up to USD 250,000 per financial year for any permitted current or capital account transaction or a combination of both. If an individual has already remitted any amount under the LRS, then the applicable limit for such an individual would be reduced from the present limit of USD 250,000 for the financial year by the amount already remitted. The permissible capital account transactions by an individual under LRS are:
+i) opening of foreign currency account abroad with a bank;
+ii) purchase of property abroad;
+iii) making investments abroad;
+iv) setting up Wholly owned subsidiaries and Joint Ventures abroad;
+v) extending loans including loans in Indian Rupees to Non-resident Indians (NRIs) who are relatives as defined in Companies Act, 2013.
+3. Further, to facilitate ease of transactions, all the facilities (including private/business visits) for release of exchange/remittances for current account transactions available to resident individuals under Para 1 of Schedule III to the Foreign Exchange Management (Current Account Transactions) Rules, 2000, as amended from time to time, shall now be subsumed under the overall limit of USD 250,000. However, for item numbers as mentioned at (iv)[ emigration], (vii)[expenses in connection with medical treatment abroad] and (viii)[studies abroad] in Para 1 of Schedule III provided at Annex 1, individuals may avail of exchange facility for an amount in excess of the overall limit prescribed under the LRS, if it is so required by a country of emigration, medical institute offering treatment or the university respectively. Gift in Indian Rupees by resident individuals to NRI relatives as defined in the Companies Act, 2013 shall also be subsumed under the LRS limit.
+The Notification dated May 26, 2015 containing the revised Schedule III is given in
+Annex 1
+.
+4. As hitherto, the Scheme cannot be made use for making remittances for any prohibited or illegal activities such as margin trading, lottery, etc.
+5. Remittance Procedure
+Requirements to be complied with by the remitter
+5.1 The resident individual seeking to make the remittances should furnish an application cum declaration in the format indicated in
+Annex 2
+to the AD/ full fledged money changer (FFMC) concerned regarding the purpose of the remittances and declaration to the effect that the funds belong to the remitter and will not be used for the prohibited purposes referred to in Para 4 above. Resident individuals can also purchase foreign exchange from a full fledged money changer (FFMC) for private/business visits. Foreign exchange thus purchased from an FFMC should also be reckoned within the overall LRS limit USD 250,000 and declared accordingly in the application-cum-declaration form submitted to the AD bank.
+Requirements to be complied with by the Authorised Persons
+5.2 While allowing the facility to resident individuals, Authorised Persons, including AD Category II and FFMCs, are required to ensure that the "Know Your Customer" guidelines and the Anti-Money Laundering Rules in force have been complied with while allowing the transactions.
+Requirements to be complied with by the Authorised Dealers
+5.3 It is clarified that banks should not extend any kind of funded and non-funded facilities to resident individuals to facilitate capital account remittances under the Scheme.
+5.4 The applicants should have maintained the bank account with the bank for a minimum period of one year prior to the remittance for capital account transactions. If the applicant seeking to make the remittances is a new customer of the bank, Authorised Dealers should carry out due diligence on the operations and maintenance of the account.
+5.5 No part of the foreign exchange of USD 250,000 shall be used for remittance directly or indirectly to countries notified as non-cooperative countries and territories by the Financial Action Task Force (FATF) from time to time and communicated by the Reserve Bank of India to all concerned.
+6. Reporting of the transactions
+Authorised Dealers may arrange to furnish on a monthly basis information on the number of applicants and total amount remitted under LRS to the Chief General Manager, External Payment Division, Foreign Exchange Department, Reserve Bank of India, Central Office, Mumbai - 400001 through Online Return Filing System (ORFS) only.
+7. Facilities for persons other than individuals
+7.1 As provided in Para 2 of Schedule III provided in Annex 1, persons other than individuals can make remittances for
+Donations for educational institutions;
+Commissions to agents abroad for sale of residential flats/commercial plots in India;
+Remittances for consultancy services and
+Remittances for reimbursement of pre-incorporation expenses
+within the limit and conditions laid down therein.
+7.2 While making the above remittances, such persons shall submit to the concerned AD branch a declaration to the effect that the limits and conditions relating to the remittances have been complied with.
+8. All other terms and conditions for making overseas remittances shall remain unchanged.
+9. Necessary amendments to the Foreign Exchange Management (Current Account Transactions) Rules, 2000 and the Foreign Exchange Management (Permissible Capital Account Transactions) Regulations, 2000, (
+Notification No. FEMA 1/2000-RB dated May 3, 2000
+) have been notified vide GSR No. 426 (E) dated May 26, 2015 and GSR No.425 (E) dated May 26, 2015 respectively.
+10. Authorised Persons may bring the contents of this circular to the notice of their constituents and customers concerned.
+11. The directions contained in this circular have been issued under Section 10(4) and 11(1) of the Foreign Exchange Management Act, 1992 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+(A. K. Pandey)
+Chief General Manager
+Annex-1
+MINISTRY OF FINANCE
+(Department of Economic Affairs)
+NOTIFICATION
+New Delhi, the 26th May, 2015
+G.S.R. 426(E).—In exercise of the powers conferred by section 5 and sub-section (1) and clause (a) of sub-section (2) of section 46 of the Foreign Exchange Management Act, 1999 (42 of 1999), and in consultation with Reserve Bank, the Central Government having considered it necessary in the public interest, makes the following amendment to the Foreign Exchange Management (Current Account Transactions) Rules, 2000, namely:—
+1. (1) These rules may be called the Foreign Exchange Management (Current Account Transactions) Amendment Rules, 2015
+(2) They shall come into force on the date of their publication in the Official Gazette.
+2. In the Foreign Exchange Management (Current Account Transactions) Rules, 2000,-
+(i) for rule 5, the following rule shall be substituted, namely:-
+“5. Prior approval of Reserve Bank.—Every drawal of foreign exchange for transactions included in Schedule III shall be governed as provided therein:
+Provided that this rule shall not apply where the payment is made out of funds held in Resident Foreign Currency (RFC) Account of the remitter.”;
+(ii) for Schedule III, the following shall be substituted, namely:—
+“SCHEDULE III (See rule 5)
+Facilities for individuals—
+1. Individuals can avail of foreign exchange facility for the following purposes within the limit of USD 2,50,000 only. Any additional remittance in excess of the said limit for the following purposes shall require prior approval of the Reserve Bank of India.
+Private visits to any country (except Nepal and Bhutan)
+Gift or donation.
+Going abroad for employment
+Emigration
+Maintenance of close relatives abroad
+Travel for business, or attending a conference or specialised training or for meeting expenses for meeting medical expenses, or check-up abroad, or for accompanying as attendant to a patient going abroad for medical treatment/ check-up.
+Expenses in connection with medical treatment abroad
+Studies abroad
+Any other current account transaction
+Provided that for the purposes mentioned at item numbers (iv), (vii) and (viii), the individual may avail of exchange facility for an amount in excess of the limit prescribed under the Liberalised Remittance Scheme as provided in regulation 4 to
+FEMA Notification 1/2000-RB, dated the 3rd May, 2000
+(here in after referred to as the said Liberalised Remittance Scheme) if it is so required by a country of emigration, medical institute offering treatment or the university, respectively:
+Provided further that if an individual remits any amount under the said Liberalised Remittance Scheme in a financial year, then the applicable limit for such individual would be reduced from USD 250,000 (US Dollars Two Hundred and Fifty Thousand Only) by the amount so remitted:
+provided also that for a person who is resident but not permanently resident in India and
+is a citizen of a foreign State other than Pakistan; or
+is a citizen of India, who is on deputation to the office or branch of a foreign company or subsidiary or joint venture in India of such foreign company,
+may make remittance up to his net salary (after deduction of taxes, contribution to provident fund and other deductions).
+Explanation: For the purpose of this item, a person resident in India on account of his employment or deputation of a specified duration (irrespective of length thereof) or for a specific job or assignments, the duration of which does not exceed three years, is a resident but not permanently resident:
+provided also that a person other than an individual may also avail of foreign exchange facility, mutatis mutandis, within the limit prescribed under the said Liberalised Remittance Scheme for the purposes mentioned herein above.
+Facilities for persons other than individual -
+2. The following remittances by persons other than individuals shall require prior approval of the Reserve Bank of India.
+(i) Donations exceeding one per cent. of their foreign exchange earnings during the previous three financial years or USD 5,000,000, whichever is less, for-
+creation of Chairs in reputed educational institutes,
+contribution to funds (not being an investment fund) promoted by educational institutes; and
+contribution to a technical institution or body or association in the field of activity of the donor Company.
+(ii) Commission, per transaction, to agents abroad for sale of residential flats or commercial plots in India exceeding USD 25,000 or five percent of the inward remittance whichever is more.
+(iii) Remittances exceeding USD 10,000,000 per project for any consultancy services in respect of infrastructure projects and USD 1,000,000 per project, for other consultancy services procured from outside India.
+Explanation:—For the purposes of this sub-paragraph, the expression “infrastructure’ shall mean as defined in explanation to para 1(iv)(A)(a) of Schedule I of
+FEMA Notification 3/2000-RB, dated the May 3, 2000
+.
+(iv) Remittances exceeding five per cent of investment brought into India or USD 100,000 whichever is higher, by an entity in India by way of reimbursement of pre-incorporation expenses.”
+3. Procedure
+The procedure for drawal or remit of any foreign exchange under this schedule shall be the same as applicable for remitting any amount under the said Liberalised Remittance Scheme.
+[F. No. 1/6/EM/2015]
+MANOJ JOSHI, Jt. Secy. (Financial Market)
+Note : The principal rules were published in Part II, Section 3, Sub-section (i) of Gazette of India, Extraordinary, vide G.S.R. 381(E), dated the 3rd May, 2000.
+Annex-2
+A.P.(DIR Series) Circular No.106 dated June 1, 2015]
+Application cum Declaration for purchase of foreign exchange under the Liberalised Remittance Scheme of USD 250,000
+(To be completed by the applicant)
+I. Details of the applicant
+a. Name …………………………..
+b. Address…………………………
+c. Account No……………………..
+d. PAN No………………………….
+II. Details of the foreign exchange required
+1. Amount (Specify currency)………………………………
+2. Purpose ………………………………………………….
+III. Sources of funds: ………………………………….
+IV. Nature of instrument
+Draft………………………..
+Direct remittance…………
+Others
+V. Details of the Beneficiary
+1. Name ……………………..
+2. Address ……………………
+3. Country ……………………
+4*. Name and address of the bank……………………….
+5*. Account No……………………………………………..
+(* Required only when the remittance is to be directly credited to the bank account of the beneficiary)
+This is to authorize you to debit my account and effect the foreign exchange remittance/issue a draft as detailed above. (strike out whichever is not applicable).
+VI. Details of the remittances made/transactions effected under the Scheme in the current financial year (April- March) ..…
+Sl. No…….Date :………Amount :…………. Name and address of AD branch/FFMC through which the transaction has been effected.
+Declaration
+I, ………………. …………(Name), hereby declare that the total amount of foreign exchange purchased from or remitted through all sources in India during the financial year as per item No…….of the Application, is within the overall limit of USD 250,000/-(US Dollar Two hundred and Fifty Thousand only), which is the limit prescribed by the Reserve Bank of India for the purpose and certify that the sources of funds for making the said remittance belong to me and the foreign exchange will not be used for prohibited purposes.
+Signature of the applicant
+(Name)
+Certificate by the Authorised Dealer
+This is to certify that the remittance is not being made by/ to ineligible entities and that the remittance is in conformity with the instructions issued by the Reserve Bank from time to time under the Scheme.
+Name and designation of the authorised official:
+Stamp and seal
+Signature
+Date:
+Place:

@@ -1,0 +1,25 @@
+(25 kb)
+Large Exposures Framework (LEF)
+RBI/2018-19/156
+DBR.No.BP.BC.31/21.01.003/2018-19
+April 1, 2019
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Madam/Dear Sir,
+Large Exposures Framework (LEF)
+Please refer to the
+circular DBR.No.BP.BC.43/21.01.003/2016-17 dated December 01, 2016
+on the subject. After due consideration of the representations received from stakeholders, it has been decided as under:
+Non-centrally cleared derivatives exposures will be outside the purview of exposure limits till April 01, 2020. However, banks must compute these exposures separately and report to the Department of Banking Regulation on quarterly basis.
+For the purpose of reckoning exposure limits under LEF, an Indian branch of a foreign G-SIB will be considered as any other Indian bank and can accordingly take exposure upto 25% of its Tier I capital on another non-GSIB in India.
+The interbank exposure limit of an Indian branch of a foreign G-SIB with its Head Office will be 20% of its Tier I capital in India.
+The eligible capital base for the purpose of LEF will be the effective amount of Tier 1 capital fulfilling the criteria defined in the
+Master Circular on Basel III – Capital Regulation dated July 1, 2015
+(as amended from time to time) as per the last audited balance sheet. However, the infusion of capital under Tier I after the published balance sheet date may also be taken into account for the purpose of Large Exposures Framework. Banks shall obtain an external auditor’s certificate on completion of the augmentation of capital and submit the same to the Reserve Bank of India (Department of Banking Supervision) before reckoning the additions to capital funds.
+For Indian Banks, profits accrued during the year, subject to provisions contained in para 4.2.3.1 (vii) of
+Master Circular on Basel III – Capital Regulation dated July 1, 2015
+(as amended from time to time), will also be reckoned as Tier I capital for the purpose of Large Exposures Framework.
+No additional time shall be given to banks that are in breach of specified interbank limits with other banks or with their Head Offices, to bring their exposures within limit.
+Yours faithfully,
+(Saurav Sinha)
+Chief General Manager-in-Charge

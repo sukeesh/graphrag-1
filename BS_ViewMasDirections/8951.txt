@@ -1,0 +1,37 @@
+(192 kb)
+Risk Management and Inter-bank Dealings: Guidelines relating to participation of Residents in the Exchange Traded Currency Derivatives (ETCD) market
+RBI/2013-14/649
+A .P. (DIR Series) Circular  No. 147
+June 20, 2014
+To
+All Category - I Authorised Dealer banks
+Madam / Sir,
+Risk Management and Inter-bank Dealings: Guidelines relating to  participation of Residents in the Exchange Traded Currency Derivatives (ETCD)  market
+Attention of Authorized Dealers Category – I (AD  Category – I) banks is invited to the Foreign Exchange Management (Foreign  Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (
+Notification  No. FEMA. 25/RB-2000 dated May 3, 2000
+), as  amended from time to time, the Currency Futures (Reserve Bank) Directions, 2008  dated August 6, 2008 and Exchange Traded Currency  Options (Reserve Bank) Directions, 2010 dated July 30, 2010 as  amended from time to time and also AP (Dir Series) circular No.5 dated August  6, 2008 and No.5 dated July 30, 2010 in terms of which persons resident in  India may participate in the ETCD market in India subject to the terms and  conditions mentioned in the aforementioned notifications and guidelines, ibid.  Attention is also drawn to
+A.P.  (DIR Series) circular No. 86 dated March 1, 2013
+and
+A.P.  (DIR Series) circular no. 7 dated July 8, 2013
+in terms of which  restrictions on the proprietary trading by AD Category – I banks in the currency  futures and ETCD markets were imposed.
+2. In terms of the present regulatory framework,  domestic participants in the currency futures and exchange traded options  markets are not required to have any underlying exposure while requirement of  underlying is mandatory for taking a position in the over-the-counter (OTC)  derivatives markets. With a view to  bringing about an alignment between the two markets, henceforth domestic  participants in the currency futures and exchange traded currency options will  be subject to the following terms and conditions:
+a. Domestic participants shall be allowed to take a  long (bought) as well as short (sold) position upto USD 10 million per exchange  without having to establish the existence of any underlying exposure. For the  purpose of convenience, exchanges may prescribe a fixed limit for the contracts  in currencies other than USD such that the limit is within the equivalent of  USD 10 million.
+b. Domestic participants who want to take a position  exceeding USD 10 million in the ETCD market will have to establish the  existence of an underlying exposure. The procedure for the same shall be as  under:
+For participants who are exporters or importers of  goods and services, the eligible limit up to which they can take appropriate  hedging positions in ETCDs will be determined as (a) higher of the (I) average  of the last three years’ export turnover, or (II) previous year’s export  turnover, in case they are exporters and (b) fifty per cent of the higher of  the (I) average of their last three years’ imports turnover or (II) the  previous year’s turnover, in case they are importers.
+The participants shall furnish, to the trading  member of the exchange, a certificate(s) from their statutory auditors  regarding the limit(s) mentioned above along with an undertaking signed by the  Chief Financial Officer (CFO) to the effect that at all time, the sum total of  the outstanding OTC derivative contracts and the outstanding ETCD contracts  shall be corresponding to the actual exports or imports contracted, as the case  may be.
+Based on the above certificate, a trading member  can book ETCD contracts upto fifty per cent of the eligible limit [as at  paragraph (i) above] on behalf of the concerned customer. If a participant  wishes to take position beyond the fifty per cent of the eligible limit in the  ETCD, it has to produce a certificate from the statutory auditors certifying  that the sum total of the outstanding OTC derivative contracts and outstanding  ETCD contracts has generally been in correspondence with the eligible  limits. Based on such a certificate, the  trading member can book ETCD contracts beyond fifty per cent of the limit and  up to limit mentioned in paragraph (i) above.
+For all other participants  having an underlying foreign currency exposure in respect of both current and  capital account transactions as also exporters and importers who wish to access  the ETCD market on the basis of contracted exposure, they will have to  undertake the transaction through AD Category-I bank/s who are operating as trading  members. In such cases, the responsibility for verification of the underlying  exposures and ensuring that the ETCD bought/sold is in conformity with the  underlying exposure and that no OTC  contract has been booked against the same underlying exposure shall rest with  the concerned (AD Category I bank) trading member.
+All participants in the ETCD  market, except those covered by paragraph (iv) above, will be required to  submit to the concerned trading member of the exchange a half-yearly  certificate from their statutory auditors as on March 31st and  September 30th, within fifteen days from the said dates, to the  effect that during the preceding six months, the derivative contracts entered  into by the participant in the OTC and the ETCD markets put together did not  exceed the actual exposure.
+c. It may be noted that the  onus of complying with the provisions of this circular rests with the  participant and in case of any contravention the participant shall render  itself liable to any action that may be warranted as per the provisions of  Foreign Exchange Management Act, 1999 and those of the Regulations, Directions,  etc. framed thereunder.
+3. In terms of
+A.P.  (DIR Series) Circular 86 dated March 1, 2013
+, AD Cat-I banks were not  allowed to offset their positions in the ETCD market against the positions in  the OTC derivatives market and in terms of
+A.P.  (DIR Series) Circular No. 7 dated July 8, 2013
+they were not allowed to  carry out any proprietary trading in the ETCD market. Keeping in view the evolving market  conditions, it has now been decided that:
+AD Category-I banks may undertake proprietary  trading in the ETCD market within their Net Open Position Limit (NOPL) and any  limit that may be imposed by the exchanges for the purpose of risk management  and preserving market integrity.
+AD Category-I banks may also net / offset their  positions in the ETCD market against the positions in the OTC derivatives  markets. Keeping in view the volatility in the foreign exchange market, Reserve  Bank may however stipulate a separate sub-limit of the NOPL (as a percentage  thereof) exclusively for the OTC market as and when required.
+4. Save and except as mentioned above, there will be  no other upper limit on the position that can be taken by any participant,  resident or non-resident, in the ETCD market. The exchanges under appropriate  directions from SEBI may however impose any limit for risk management and preserving  market integrity.
+5. This circular has been issued under Sections 10 (4)  and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is  without prejudice to permissions / approvals, if any, required under any other  law.
+Yours faithfully,
+(C D Srinivasan)
+Chief General Manager

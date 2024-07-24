@@ -1,0 +1,25 @@
+(294 kb)
+National Electronic Funds Transfer (NEFT) system – Settlement at half-hourly intervals
+RBI/2016-17/300
+DPSS (CO) EPPD No.2612/04.03.01/2016-17
+May 08, 2017
+The Chairman and Managing Director / Chief Executive Officer
+of member banks participating in NEFT
+Madam / Sir,
+National Electronic Funds Transfer (NEFT) system – Settlement at half-hourly intervals
+National Electronic Funds Transfer (NEFT) system presently settles the fund transfer requests of the participating banks on net basis at hourly intervals from 8:00 am to 7:00 pm on all working days. All participating banks have been advised to give the credit to the beneficiary customer only after the inter-bank settlement has been completed and the End-of-Batch (EOB) message is received by them.
+2. As announced in the
+First Bi-monthly Monetary Policy Statement for 2017-18
+, additional settlements in the NEFT system at half-hour intervals are being introduced to enhance the efficiency of the system and add to customer convenience. The half hourly settlements would speed up the funds transfer process and provide faster credit to the destination accounts. Accordingly, it is decided to introduce 11 additional settlement batches during the day (at 8.30 am, 9.30 am, 10.30 am ……… 5.30 pm and 6.30 pm), taking the total number of half hourly settlement batches during the day to 23.
+3. The starting batch at 8.00 am and closing batch at 7.00 pm shall remain the same as hitherto. The return discipline shall also remain the same i.e., B+2 hours (Settlement batch time plus two hours) as per extant practice.
+4. The participating banks are, therefore, advised to carry out the required changes in their CBS system to initiate the NEFT transactions for half hourly settlement as above, and also to accept and credit the inward NEFT transactions on half hourly basis. IDRBT/IFTAS will communicate the technical changes required to be carried out by participating banks and provide required support in implementing the same.
+5. The additional batches will be introduced from July 10, 2017 (Monday). Banks shall accordingly ensure their readiness in terms of technical and operational aspects.
+6. For efficient customer service, the participant banks in NEFT system were advised (vide,
+circular DPSS CO EPPD No. 168/04.03.01/2009-2010 dated February 5, 2010
+) to send a positive confirmation to the remittance originator (customer) confirming the successful credit of funds to the beneficiary’s account. Accordingly, beneficiary / destination banks shall ensure strict adherence in sending the N10 messages to the originating banks, which in turn shall ensure sending the positive confirmation to the remitting customer advising status of credit to the beneficiary account.
+7. These instructions are issued under Section 10(2) read with Section 18 of
+Payment and Settlement Systems Act, 2007
+.
+Yours faithfully
+(Nilima Ramteke)
+General Manager

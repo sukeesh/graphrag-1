@@ -1,0 +1,66 @@
+(29 kb)
+Participation of Standalone Primary Dealers in Currency Futures Market
+RBI/2015-16/339
+FMRD.FMD.No. 02.03.183/7/2015-16
+March 17, 2016
+All Standalone Primary Dealers
+Dear Sir,
+Participation of Standalone Primary Dealers in Currency Futures Market
+A reference is invited to
+A.P. (DIR Series) Circular No. 05 dated August 06, 2008
+,
+in terms of which
+persons resident in India are permitted to participate in the currency futures market in India subject to directions contained in the Currency Futures (Reserve Bank) Directions, 2008 [
+Notification No.FED.1/DG(SG)-2008 dated August 6, 2008
+] as amended from time to time.
+2. In terms of the announcement made in
+paragraph 37
+of the Fourth Bi-monthly Monetary Policy Statement, 2015-16, it has been decided to permit stand-alone Primary Dealers (PDs) to deal in currency futures contracts traded on recognized exchanges subject to the following conditions:
+Eligibility:
+Exposure to currency futures will be treated as a non- core activity for PDs and only PDs having a minimum Net Owned Fund of Rs. 250 crore or any amount as prescribed for undertaking diversified activity will be allowed to participate in currency futures.
+As prescribed in the existing guidelines on capital adequacy standards, the capital charge for market risk for the non-core activities (including currency futures) which are expected to consume capital should not be more than 20 per cent of the NOF as per last audited balance sheet.
+Membership:
+PDs are permitted to participate in the currency futures market either as clients or direct trading / clearing members of the currency derivatives segment of the Stock Exchanges recognized by SEBI.
+PDs can trade only on their own account and they are not permitted to take positions on behalf of clients.
+Position limits:
+PDs are permitted to take long and short positions in the currency futures market with or without having an underlying exposure subject to the position limits specified by the exchanges. However, the aggregate gross open positions across all contracts in all the stock exchanges in the respective currency pairs shall not exceed the limits as mentioned below:
+Currency Pairs
+Position Limits
+USD-INR
+Gross open position across all contracts shall not exceed 15% of the total open interest or USD 50 million, whichever is higher.
+EUR-INR
+Gross open position across all contracts shall not exceed 15% of the total open interest or EUR 25 million, whichever is higher.
+GBP-INR
+Gross open position across all contracts shall not exceed 15% of the total open interest or GBP 25 million, whichever is higher.
+JPY-INR
+Gross open position across all contracts shall not exceed 15% of the total open interest or JPY 1000 million, whichever is higher.
+Risk Management:
+PDs should lay down detailed guidelines on risk management including exposure, risk limits and reporting requirements with Board's approval for conduct of this activity and management of risks.
+PDs should put in place appropriate system to ensure strict adherence to the above prescribed position limits.
+PDs should maintain adequate infrastructure in terms of systems and manpower for participation in currency futures.
+General:
+For capital adequacy purpose, PDs may adhere to the guidelines given in
+Annex
+to this circular and other instructions prescribed in the Master Circular on Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers dated July 1, 2015 and as updated from time to time for providing capital charge for various risks arising from outstanding contracts.
+In case of failure to meet the obligations of Primary Dealership business in the Government securities market or any other violations leading to supervisory concern, the Reserve Bank reserves the right to impose restrictions or withdraw permission to deal in currency futures contracts.
+The guidelines shall be effective from April 11, 2016
+Yours faithfully,
+(R. Subramanian)
+Chief General Manager
+Annex
+Capital Charge for Foreign Exchange (FE) Position:
+Market Risk: As prescribed in the existing capital adequacy guidelines, the capital charge for market risk in foreign exchange may be worked out by the standardised approach and the internal risk management framework based Value at Risk (VaR) model. The capital charge for market risk would be higher of the two requirements.
+Under standardised approach, PD’s net open positions in each currency should be calculated and the same shall be risk weighted as 100 per cent. These open positions shall be subject to a flat market risk charge of 15 per cent.
+Credit Risk: Since currency futures contracts would be subject to CCP clearing of the authorised stock exchanges, capital charge for credit risk would be calculated as per methodology prescribed for calculation of capital charge for exposure towards CCP issued vide
+circular IDMD.PCD.11/14.03.05/2013-14 dated March 27, 2014
+. The Credit Conversion Factor (CCF) to be used for exchange rate contracts would be as under:
+CCF for Market-Related Off-Balance Sheet Items
+Residual Maturity
+CCF (%)
+Exchange Rate Contracts
+One year or less
+2.00
+Over one year to five years
+10.00
+Over five years
+15.00

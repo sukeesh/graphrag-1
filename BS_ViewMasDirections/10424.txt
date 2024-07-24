@@ -1,0 +1,107 @@
+(155 kb)
+Foreign Exchange Management Act, 1999 (FEMA) Foreign Exchange (Compounding Proceedings) Rules, 2000 (the Rules) -  Compounding of Contraventions under FEMA, 1999
+RBI/2015-16/412
+A.P. (DIR Series) Circular No.73
+May 26, 2016
+To
+All Category - I Authorised Dealer Banks
+Madam / Sir,
+Foreign Exchange Management Act, 1999 (FEMA)
+Foreign Exchange (Compounding Proceedings) Rules, 2000 (the Rules) -
+Compounding of Contraventions under FEMA, 1999
+Attention of Authorised Dealers is invited to paragraph number 7 and 8 of the Master Direction on Compounding of Contraventions under FEMA, 1999 issued vide FED
+Master Direction No.4/2015-16 dated January 1, 2016
+.
+2. In terms of the Foreign Exchange (Compounding Proceedings) Rules, 2000, effective from June 1, 2000, Reserve Bank is empowered to compound contraventions relating to rule 7, 8 and 9 of and the third schedule to the Foreign Exchange Management (Current Account Transactions) (FEMCAT) Rules, 2000. With a view to providing comfort to individuals and corporate community by minimizing transaction costs and the same time taking a serious view of wilful, malafide and fraudulent transactions, the Reserve Bank was, vide GSR 609 (E) dated September 13, 2004 empowered to compound all the contraventions of Foreign Exchange Management Act, 1999 (FEMA) except section 3(a) of FEMA.
+3. To ensure more transparency and greater disclosure, it has now been decided as hereunder:
+I. Public disclosure of Compounding Orders
+For disseminating the information pertaining to compounding orders, it has been decided to host the compounding orders passed on or after June 1, 2016 on the Bank’s website (
+www.rbi.org.in
+). The data on the website will be updated at monthly intervals in the following format:
+Sr. No.
+Name of Applicant
+Amount imposed under the compounding order
+Whether the amount imposed has been paid
+Download order
+Accordingly, a new sub-para no.8.6 is being added in the Master Direction on Compounding.
+II. Public disclosure of guidelines on the amount imposed during compounding
+As per provisions of section 13 of FEMA the amount imposed can be up to three times the amount involved in the contravention. However, the amount imposed is calculated based on guidance note given in the
+Annex
+. Now it has been decided to put the guidance note on the Bank’s website for information of general public. It may, however, be noted that the guidance note is meant only for the purpose of broadly indicating the basis on which the amount to be imposed is derived by the compounding authorities in Reserve Bank of India. The actual amount imposed may sometimes vary, depending on the circumstances of the case taking into account the factors indicated in paragraph 7.3 of the abovementioned Master Direction. This new provision is being inserted as sub-para 7.4 in the Master Direction on Compounding and the subsequent sub-paragraph renumbered accordingly.
+4. Authorised Dealers may bring the contents of this circular to the notice of their constituents and customers concerned.
+5. The directions contained in this circular have been issued under section 10 (4) and 11 (1) of the Foreign Exchange Management Act, 1999 (42 of 1999).
+Yours faithfully,
+(Shekhar Bhatnagar)
+Chief General Manager-in-Charge
+Annex
+Guidance Note on computation of the amount imposed under the Foreign Exchange (Compounding Proceedings) Rules 2000
+Ref : A.P. (DIR Series) Circular No.73 dated May 26, 2016
+I. Computation Matrix
+Type of contravention
+Existing Formula
+1] Reporting Contraventions
+A) FEMA 20
+Para 9(1)(A), 9(1)(B), part B of FC(GPR), FCTRS (Reg. 10) and taking on record FCTRS (Reg. 4)
+B) FEMA 3
+Non submission of ECB statements
+C) FEMA 120
+Non reporting/delay in reporting of acquisition/setup of subsidiaries/step down subsidiaries /changes in the shareholding pattern
+D) Any other reporting contraventions (except those in Row 2 below)
+Fixed amount : Rs10000/- (applied once for each contravention in a compounding application) +
+Variable amount as under:
+Upto 10 lakhs : 1000 per year
+Rs.10-40 lakhs : 2500 per year
+Rs.40-100 lakhs : 7000 per year
+Rs.1-10 crore : 50000 per year
+Rs.10 -100 Crore : 100000 per year
+Above Rs.100 Crore : 200000 per year
+E) Reporting contraventions by LO/BO/PO
+As above, subject to ceiling of Rs.2 lakhs. In case of Project Office, the amount imposed shall be calculated on 10% of total project cost.
+2] AAC/ APR/ Share certificate delays
+In case of non-submission/ delayed submission of APR/ share certificates (FEMA 120) or AAC (FEMA 22) or FCGPR (B) Returns (FEMA 20)
+Rs.10000/- per AAC/APR/FCGPR (B) Return delayed.
+Delayed receipt of share certificate – Rs.10000/- per year, the total amount being subject to ceiling of 300% of the amount invested.
+3]
+A] Allotment/Refunds
+Para 8 of FEMA 20/2000-RB (non-allotment of shares or allotment/ refund after the stipulated 180 days)
+B] LO/BO/PO
+(Other than reporting contraventions)
+Rs.30000/- + given percentage:
+1st year : 0.30%
+1-2 years : 0.35%
+2-3 years : 0.40%
+3-4 years : 0.45%
+4-5 years : 0.50%
+>5 years : 0.75%
+(For project offices the amount of contravention shall be deemed to be 10% of the cost of project).
+4] All other contraventions except Corporate Guarantees
+Rs.50000/- + given percentage:
+1st year : 0.50%
+1-2 years : 0.55%
+2-3 years : 0.60%
+3-4 years : 0.65%
+4-5 years : 0.70%
+> 5 years : 0.75%
+5] Issue of Corporate Guarantees
+without UIN/ without permission wherever required /open ended guarantees or any other contravention related to issue of Corporate Guarantees.
+Rs.500000/- + given percentage:
+1st year : 0.050%
+1-2 years : 0.055%
+2-3 years : 0.060%
+3-4 years : 0.065%
+4-5 years : 0.070%
+>5 years : 0.075%
+In case the contravention includes issue of guarantees for raising loans which are invested back into India, the amount imposed may be trebled.
+II. The above amounts are presently subject to the following provisos, viz.
+(i) the amount imposed should not exceed 300% of the amount of contravention
+(ii) In case the amount of contravention is less than Rs. One lakh, the total amount imposed should not be more than amount of simple interest @5% p.a. calculated on the amount of contravention and for the period of the contravention in case of reporting contraventions and @10% p.a. in respect of all other contraventions.
+(iii) In case of paragraph 8 of Schedule I to FEMA 20/2000 RB contraventions, the amount imposed will be further graded as under:
+If the shares are allotted after 180 days without the prior approval of Reserve Bank, 1.25 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+If the shares are not allotted and the amount is refunded after 180 days with the Bank’s permission: 1.50 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+If the shares are not allotted and the amount is refunded after 180 days without the Bank’s permission: 1.75 times the amount calculated as per table above (subject to provisos at (i) & (ii) above).
+(iv) In cases where it is established that the contravenor has made undue gains, the amount thereof may be neutralized to a reasonable extent by adding the same to the compounding amount calculated as per chart.
+(v) If a party who has been compounded earlier applies for compounding again for similar contravention, the amount calculated as above may be enhanced by 50%.
+III. For calculating amount in respect of reporting contraventions under para I.1 above, the period of contravention may be considered proportionately {(approx. rounded off to next higher month ÷ 12) X amount for 1 year}. The total no. of days does not exclude Sundays/holidays.
+IV. Illustrations in respect of few sample cases are
+appended
+.

@@ -1,0 +1,28 @@
+(35 kb)
+White Label ATMs (WLAs) in India - Guidelines
+RBI/2014-15/338
+DPSS.CO.PD.No.1025/02.10.003/2014-2015
+December  5, 2014
+The  Chairman and Managing Director / Chief Executive Officers
+All  Scheduled Commercial Banks including RRBs /
+Urban  Co-operative Banks / State Co-operative Banks /
+District  Central Co-operative Banks
+Authorised  ATM Network Operators / Card Payment Network  Operators
+White  Label ATM Operators
+Madam  / Dear Sir,
+White Label ATMs (WLAs) in  India - Guidelines
+A  reference is invited to our
+circular  DPSS.CO.PD. No. 2298 / 02.10.002 /  2011-2012 dated June 20, 2012
+and
+DPSS.CO.PD.  No. 1088 / 02.10.003 / 2013-14 dated November 14, 2013
+on the captioned  subject.
+2. Based on the review  of the operations of White Label ATM (WLA) as well as representations received  from the stakeholders, it has been decided to -
+allow  WLAs to accept international credit/debit/prepaid cards. The cards issued under  card payment network schemes (authorized under the PSS Act 2007) will be allowed  for the purpose. The WLA operators  (WLAO) have to ensure that they have established technical connectivity with  the respective card network operators either directly or through their sponsor  banks. However, in the case of cards  issued under any other card scheme, the routing and settlement should take  place based on the bilateral arrangement put in place by the existing  authorized networks for such purpose.
+permit  the facility of Dynamic Currency Conversion (DCC) for the use of international cards  at WLAs if the operator so decides to implement the DCC facility. The currency conversion rate will only be  obtained from authorised dealer bank.  WLAO will be restricted to converting the amount requested by the  international cardholder (based on the DCC option selected by him) to his home  currency using a Base Exchange Rate provided by the AD bank.
+enable  delinking cash supply from that of sponsor bank arrangements. WLAO may now tie up with other commercial banks for cash  supply at WLAs. While the cash would be owned by the WLAO, the responsibility  of ensuring the quality and genuineness of cash loaded at such WLAs would be  that of the cash supplier bank. A suitable Service Level Agreements (SLA) may  be drawn up between the WLAO and the cash supplier bank for adequate supply of  genuine and good quality notes.
+WLAOs who have been  authorised under PSS Act 2007 and have commenced operations are required to  intimate RBI regarding commencement of the services indicated in para (a), (b)  and (c) above.
+3.  The directive is issued under Section 10(2) read with Section 18 of Payment and  Settlement Systems Act 2007 (Act 51 of 2007).
+4.  Please acknowledge receipt.
+Yours faithfully,
+(Vijay Chugh)
+Principal Chief General  Manager

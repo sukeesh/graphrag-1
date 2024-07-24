@@ -1,0 +1,698 @@
+(1931 kb)
+Master Circular – 'Know Your Customer' (KYC) Guidelines – Anti Money Laundering Standards (AML) -'Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules notified thereunder’
+RBI/2014-15/56
+DNBS (PD) CC No. 387/03.10.42/ 2014-15
+July 1, 2014
+(As  amended up to October 30, 2014)
+To
+All Non-Banking Financial Companies (NBFCs),
+Miscellaneous  Non-Banking Companies (MNBCs),
+and Residuary Non-Banking Companies (RNBCs)
+Dear  Sirs,
+Master Circular – 'Know Your Customer' (KYC) Guidelines – Anti Money Laundering Standards (AML) -'Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules notified thereunder’
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India issues
+Master Circulars
+on various topics. In accordance with the approach, a master circular on the captioned subject, updated as on June 30, 2014 is being issued. The Master Circular has also been placed on the RBI web-site (
+http://www.rbi.org.in
+). A copy of the Master Circular is enclosed.
+Yours faithfully,
+(K. K. Vohra)
+Principal Chief General Manager
+Table of Contents
+Para No
+Particulars
+I
+'Know Your Customer' (KYC) Guidelines - Anti Money Laundering Standards
+1 to 10- General
+11. Letter issued by Unique Identification Authority    of India (UIDAI) containing details of name, address and Aadhaar number
+12. Accounts of Politically    Exposed Persons (PEPs)
+13. Client accounts opened by    professional intermediaries
+14. Accounts    of proprietary concerns
+15. Principal Officer
+16. Suspicion of money    laundering/terrorist financing
+17. Filing of Suspicious Transaction Report    (STR)
+II
+Prevention of Money Laundering Act, 2002 -    Obligations of NBFCs in terms of Rules Notified thereunder
+1. General
+2.Maintenance of records of    transactions
+3. Information to be preserved
+4. Maintenance and Preservation    of records
+5. Reporting to Financial    Intelligence Unit-India
+6 to11-General
+12. PMLA Amendment rules 2009/2010
+13. Assessment    and Monitoring of Risk
+III
+Combating financing of terrorism
+IV
+Operation of deposit account with NBFCs and money    mules
+V
+Inter-Governmental  Agreement (IGA) with United States of America (US) under Foreign Accounts Tax  Compliance Act (FATCA)- Registration
+VI
+Constitution of Special Investigating Team –  sharing of information
+Appendix
+I. 'Know Your Customer' (KYC) Guidelines – Anti Money Laundering  Standards
+1. The ‘Know Your Customer’  guidelines were issued in February 2005 revisiting the earlier guidelines  issued in January 2004 in the context of the Recommendations made by the  Financial Action Task Force (FATF) on Anti Money Laundering (AML) standards and  on Combating Financing of Terrorism (CFT). These standards have become the  international benchmark for framing Anti Money Laundering and combating  financing of terrorism policies by the regulatory authorities. Compliance with  these standards by the banks/financial institutions/NBFCs in the country have  become necessary for international financial relationships. The Department of  Banking Operations and Development of Reserve Bank had issued detailed  guidelines to the banks based on the Recommendations of the Financial Action  Task Force and the paper issued on Customer Due Diligence (CDD) for banks by  the Basel Committee on Banking Supervision, with indicative suggestions  wherever considered necessary, a copy of same is enclosed as per
+Annex-VI
+. These guidelines are equally applicable to  NBFCs. All NBFCs were, therefore, advised to adopt the same with suitable  modifications depending on the activity undertaken by them and ensure that a  proper policy framework on ‘Know Your Customer’ and Anti-Money Laundering  measures is formulated and put in place with the approval of the Board. NBFCs were  advised to ensure that they are fully compliant with the instructions before  December 31, 2005.
+2. While preparing operational  guidelines NBFCs were advised to bear in mind that the information collected  from the customer for the purpose of opening of account should be kept as  confidential and not divulge any details thereof for cross selling or any other  purposes. NBFCs may, therefore, ensure  that information sought from the customer is relevant to the perceived risk, is  not intrusive, and is in conformity with the guidelines issued in this regard.  Any other information from the customer should be sought separately with his  /her consent and after opening the account.
+3. As it is necessary that the  guidelines should be equally applicable to the persons authorised by NBFCs including brokers/agents etc.  collecting public deposits on behalf of NBFCs, it was advised on October 11,  2005 that:
+i. Adherence to Know Your  Customer (KYC) guidelines by NBFCs and persons authorised by NBFCs including  brokers/agents etc.
+As regards deposits collected by persons  authorised by NBFCs including brokers/agents etc. inasmuch as such persons are  collecting the deposits on behalf of the NBFC, it shall be the sole  responsibility of the NBFC to ensure full compliance with the KYC guidelines by  such persons. The NBFC should make available all information to the Bank to  verify the compliance with the KYC guidelines and accept full consequences of  any violation by the persons authorised by NBFCs including brokers/agents etc.  who are operating on its behalf.
+With regard to  RNBCs a separate CC No.46 dated December 30, 2004 was issued delineating a road  map for them wherein the guidelines were issued as under:
+‘In respect of new customers acquired after  April 1, 2004, KYC guidelines as stated in the circular CC No.48 should be  complied with in all cases. However, for the existing customers, initially, KYC  guidelines should be complied in respect of large customers whose aggregate  deposit exceeds Rs.1 lakh. For the remaining existing accounts, the companies  should ensure that the details of the customers are updated at the time of  renewal of the deposit. This should, however, not result in unnecessary  harassment of customers.
+As regards deposits  collected by agents / sub-agents in as much as the agent / sub-agent is  collecting the deposits on behalf of the RNBC, it shall be the sole responsibility  of the RNBC to ensure full compliance with the KYC guidelines by its agents and  sub-agents. The RNBC should make available all information to the regulator or  his nominee to verify the compliance with the KYC guidelines and accept full  consequences of any violation by the agent / sub-agent who is operating on its  behalf.’
+ii Due diligence of  persons authorised by NBFCs  including brokers/agents etc.
+As an extension of the KYC Guidelines, NBFCs are  required to put in place a process of due diligence in respect of persons  authorised by NBFCs including  brokers/agents etc. collecting deposits on behalf of the company through a  uniform policy for appointment and detailed verification. Details of due  diligence conducted may be kept on record with the company for verification.
+In the depositors’  interests and for enhancing transparency of operations, the companies should  have systems in place to ensure that the books of accounts of persons  authorised by NBFCs including brokers/agents etc, so far as they relate to  brokerage functions of the company, are available for audit and inspection  whenever required. RNBCs were also advised on the same lines vide CC No 46  dated December 30, 2004 mentioned above and were advised to report compliance  to RBI by January 31, 2005.
+iii. Customer service  in terms of identifiable contact with persons authorised by NBFCs including  brokers/agents etc.
+All deposit receipts should bear the name and  Registered Office address of the NBFC and must invariably indicate the name of  the persons authorised by NBFCs  including brokers/agents etc. and their addresses who mobilised the deposit and  the link office with the telephone number of such officer and/or persons  authorised by NBFCs including  brokers/agents etc in order that there is a clear indication of the  identifiable contact with the field persons and matters such as unclaimed /  lapsed deposits, discontinued deposits, interest payments and other customer  grievances are appropriately addressed. NBFCs should also have suitable review  procedures to identify persons authorised by them including brokers/agents etc.  in whose cases the incidence of discontinued deposits is high for taking  suitable action.
+RNBCs were also advised on  the same lines vide CC No 46/ 02.02 (RNBC)/ 2004-05 dated December 30, 2004.
+4.  In March, 2006, the KYC  procedure for opening accounts by NBFCs for those persons who intend to keep  balances not exceeding rupees fifty thousand (Rs. 50,000/-) in all their  accounts taken together and the total  credit in all the accounts taken  together is not expected to exceed  rupees one lakh (Rs. 1,00,000/-) in a year, was further simplified.
+5. Accordingly, in case a  person who wants to open an account is  not able to produce documents mentioned in
+Annexure VIII
+to this circular, NBFCs may open accounts as described in  paragraph 4 above, subject to
+a) introduction from another account  holder who has been subjected to full  KYC procedure. The introducer’s account with the NBFC should be at least six  month old and should show satisfactory transactions. Photograph of the customer  who proposes to open the account and also his address needs to be certified by  the introducer.
+or
+b) any other evidence as to the identity and address of the customer to the  satisfaction of the NBFC.
+6. While opening accounts as described above, the customer  should be made aware that if at any point of time, the balances in all his/her  accounts with the NBFC (taken together) exceeds rupees fifty thousand (Rs.  50,000/-) or total credit in the account exceeds rupees one lakh (Rs.  1,00,000/-), no further transactions will be permitted until the full KYC  procedure is completed. In order not to inconvenience the customer, the NBFC  must notify the customer when the balance reaches rupees forty thousand (Rs.  40,000/-) or the total credit in a year reaches rupees eighty thousand (Rs.  80,000/-) that appropriate documents for conducting the KYC must be submitted  otherwise the operations in the account will be stopped when the total balance  in all the accounts taken together exceeds rupees fifty thousand (Rs. 50,000/-)  or the total credit in the accounts exceeds rupees one lakh (Rs. 1,00,000/-) in  a year. NBFCs were advised to issue suitable instructions to their branches for  implementation in this regard.
+7. In this regard, the term
+'being satisfied'
+as mentioned in  Annex –VI means that the NBFC must be able to satisfy the competent authorities  that due diligence was observed based on the risk profile of the customer in  compliance with the extant guidelines in place. An
+indicative list
+of  the nature and type of documents/ information that may be relied upon for  customer identification is given in the Annex-VIII to this circular. It may happen that Annex-VIII, which was  clearly termed as an indicative list, may be treated by some NBFCs as an  exhaustive list as a result of which a section of public may be denied access  to financial services. NBFCs were, therefore, advised to take a review of their  extant internal instructions in this regard.
+8. Permanent correct  address, as referred to in Annex-VIII of this circular, means the address at  which a person usually resides and can be taken as the address as mentioned in  a utility bill or any other document accepted by the NBFC for verification of  the address of the customer. In case utility bill is not in the name of person  depositing money but is close relative - wife, son, daughter and parents etc.  who live with their husband, father/mother and son, NBFCs can obtain an identity document and a  utility bill of the relative with whom the prospective customer is living along  with a declaration from the relative that the said person (prospective  customer) wanting to open an account is a relative and is staying with him/her.  NBFCs can use any supplementary evidence such as a letter received through post  for further verification of the address. While issuing operational instructions  to the branches on the subject, NBFCs should keep in mind the spirit of  instructions issued by the Reserve Bank and avoid undue hardships to  individuals who are, otherwise, classified as low risk customers.
+1
+It has been decided  to simplify the requirement of submission of 'proof of address' as follows :
+a) Henceforth, customers may submit only one  documentary proof of address (either current or permanent) while opening a  deposit account or while undergoing periodic  updation. In case the address mentioned as per 'proof of address' undergoes a  change, fresh proof of address may be submitted to the NBFC within a period of  six months.
+b)  In case the proof of address furnished by the customer is not the local address  or address where the customer is currently residing, the NBFC may take a  declaration of the local address on which all correspondence will be made by  the NBFC with the customer. No proof is required to be submitted for such  address for correspondence/local address. This address may be verified by the  NBFC through 'positive confirmation' such as acknowledgment of receipt of (i)  letter (ii) telephonic conversation; (iii) visits; etc. In the event of change  in this address due to relocation or any other reason, customers may intimate  the new address for correspondence to the NBFC within two weeks of such a  change.
+9. In terms of extant  instructions, NBFCs are required to put  in place a system of periodical review of risk categorisation of accounts and  the need for applying enhanced due diligence measures in case of higher risk  perception on a customer. Such review of  risk categorisation of customers should be carried out at a periodicity of not
+less
+than once in six months. NBFCs were also advised to introduce a  system of periodical updation of customer identification data (including  photograph/s) after the account is opened. The periodicity of such updation should not be less than once in five  years in case of low risk category customers and not less than once in two  years in case of high and medium risk categories.
+10. KYC/AML guidelines  issued by the Bank shall also apply to NBFCs’ branches and majority owned subsidiaries located outside India, especially, in countries which do not or  insufficiently apply the FATF Recommendations, to the extent local laws permit.  In case there is a variance in KYC/AML standards prescribed by the Reserve Bank  and the host country regulators, branches/overseas subsidiaries of NBFCs are  required to adopt the more stringent regulation of the two.
+11. Letter issued by Unique Identification Authority  of India (UIDAI) containing details of name, address and Aadhaar number
+Subsequent to the Government of India Notification No. 14/2010/F.No. 6/2/2007-ES dated December 16, 2010, the letter  issued by Unique Identification Authority of India (UIDAI) containing details of name, address and Aadhaar number, can be accepted as an officially valid document as contained in Rule 2(1)(d) of the PML Rules, 2005. While opening accounts based on Aadhaar also, NBFCs must satisfy themselves about the current  address of the customer by obtaining required proof of the same as per extant  instructions.
+2
+In order to reduce  the risk of identity fraud, document forgery and have paperless KYC  verification, UIDAI has launched its e-KYC service. Accordingly, it has been  decided to accept e-KYC service as a valid process for KYC verification under  Prevention of Money Laundering (Maintenance of Records) Rules, 2005. Further,  the information containing demographic details and photographs made available  from UIDAI as a result of e-KYC process ("which is in an electronic form  and accessible so as to be usable for a subsequent reference") may be  treated as an 'Officially Valid Document' under PML Rules. In this connection,  it is advised that while using e-KYC service of UIDAI, the individual user has  to authorize the UIDAI, by explicit consent, to release her or his identity /  address through biometric authentication to the NBFC branches. The UIDAI then  transfers the data of the individual comprising name, age, gender, and  photograph of the individual, electronically to the NBFCs, which may be  accepted as valid process for KYC verification. The broad operational  instructions to NBFCs willing to use the UIDAI e-KYC service on Aadhaar e-KYC  service are enclosed as
+Annex ix
+. Such NBFCs  are advised to have proper infrastructure (as specified in Annex ix) in place  to enable biometric authentication for e-KYC. Physical Aadhaar card / letter  issued by UIDAI containing details of name, address and Aadhaar number received  through post would continue to be accepted as an 'Officially Valid Document'.
+Further  NBFCs may accept e-Aadhaar downloaded from UIDAI website as an officially valid  document subject to the following:
+a) If the prospective customer  knows only his / her Aadhaar number, the NBFC may print the prospective  customer's e-Aadhaar letter in the NBFC directly from the UIDAI portal; or  adopt e-KYC procedure as mentioned above.
+b) If the prospective customer  carries a copy of the e-Aadhaar downloaded elsewhere, the NBFC may print the  prospective customer's e-Aadhaar letter in the NBFC directly from the UIDAI  portal; or adopt e-KYC procedure as mentioned above; or confirm identity and  address of the resident through simple authentication service of UIDAI.
+11A
+3
+In the context of recommendations of Working Group constituted by the Government of India regarding the introduction of unique identifiers for customers across different Financial Institutions for setting up a centralized KYC Registry, Non-Deposit taking NBFCs with assets of Rs 25 cr and above and all Deposit taking NBFCs were advised to initiate steps for allotting Unique Customer Identification Code (UCIC) to all their customers while entering into any new relationships. Existing individual customers were also to be allotted UCIC by March 31, 2014. The UCIC will help NBFCs to identify customers, track the facilities availed, monitor financial transactions in a holistic manner and enable NBFCs to have a better approach to risk profiling of customers. It would also smoothen NBFCs operations for the customers.
+4
+It  has been decided to extend the time for completing the process of allotting  UCIC to existing customers up to December 31, 2014
+12. Accounts of Politically Exposed Persons (PEPs)
+(1) Detailed guidelines on Customer Due Diligence (CDD) measures to be made  applicable to Politically Exposed Person (PEP) and their family members or  close relatives are contained in
+Annex VII
+. In the event of an existing  customer or the beneficial owner of an existing account, subsequently becoming  a PEP, NBFCs (including RNBCs) should obtain senior management approval to  continue the business relationship and subject the account to the CDD measures  as applicable to the customers of PEP category including enhanced monitoring on  an ongoing basis.
+The instructions are also  applicable to accounts where PEP is the ultimate beneficial owner. Further, in  regard to PEP accounts, NBFCs should have appropriate ongoing risk management  procedures for identifying and applying enhanced CDD to PEPs, customers who are  close relatives of PEPs, and accounts of which PEP is the ultimate beneficial  owner.
+13. Client accounts opened by professional  intermediaries
+When the  NBFC has knowledge or reason to believe that the client account opened by a  professional intermediary is on behalf of a single client, that client must be  identified. NBFCs may hold 'pooled' accounts managed by professional  intermediaries on behalf of entities like mutual funds, pension funds or other  types of funds. NBFCs also maintain 'pooled' accounts managed by  lawyers/chartered accountants or stockbrokers for funds held 'on deposit' or  'in escrow' for a range of clients. Where funds held by the intermediaries are  not co-mingled at the NBFCs and there are 'sub-accounts', each of them  attributable to a beneficial owner, all the beneficial owners must be  identified. Where such funds are co-mingled at the NBFC, the NBFC should still  look through to the beneficial owners. Further, in terms of paragraph 3 of  Annex-VI, if an NBFC decides to accept an account in terms of the Customer  Acceptance Policy, the NBFC should take reasonable measures to identify the  beneficial owner(s) and verify his/her/their identity in a manner so that it is  satisfied that it knows who the beneficial owner(s) is/are. Therefore, under  the extant AML/CFT framework it is not possible for professional intermediaries  like Lawyers and Chartered Accountants, etc. who are bound by any client  confidentiality that prohibits disclosure of the client details, to hold an  account on behalf of their clients.
+Therefore, NBFCs should not  allow opening and/or holding of an account on behalf of a client/s by  professional intermediaries, like Lawyers and Chartered Accountants, etc., who  are unable to disclose true identity of the owner of the account/funds due to  any professional obligation of customer confidentiality. Further, any professional intermediary who is  under any obligation that inhibits NBFCs ability to know and verify the true  identity of the client on whose behalf the account is held or beneficial  ownership of the account or understand true nature and purpose of  transaction/s, should not be allowed to open an account on behalf of a client.
+14. Accounts  of proprietary concerns
+NBFCs have been advised that internal guidelines for  customer identification procedure of legal entities may be framed by them based  on their experience of dealing with such entities, normal lenders prudence and  the legal requirements as per established practices. If the NBFCs/RNBCs decide  to accept such accounts in terms of the Customer Acceptance Policy, the NBFC  should take reasonable measures to identify the beneficial owner(s) and verify  his / her / their identity in a manner so that it is satisfied that it knows  who the beneficial owner(s) is /are.
+Further  they were advised that for sake of clarity, in case of accounts of  proprietorship concerns, to lay down criteria for the customer identification  procedure for account opening by proprietary concerns. Accordingly, apart from  following the extant guidelines on customer identification procedure as  applicable to the proprietor, NBFCs/RNBCs should call for and verify the  following documents before opening of accounts in the name of a proprietary   concern:
+i) Proof of the name, address and activity of the  concern, like registration certificate (in the case of a registered concern),  certificate/licence issued by the Municipal authorities under Shop &  Establishment Act, sales and income tax returns, CST / VAT certificate, certificate  / registration document issued by Sales Tax / Service Tax / Professional Tax  authorities, Licence issued by the Registering authority like Certificate of  Practice issued by Institute of Chartered Accountants of India, Institute of  Cost Accountants of India, Institute of Company Secretaries of India, Indian  Medical Council, Food and Drug Control Authorities, etc.
+ii) Any  registration / licensing document issued in the name of the proprietary concern  by the Central Government or State Government Authority/ Department.  NBFCs/RNBCs may also accept IEC (Importer Exporter Code) issued to the  proprietary concern by the office of DGFT as an identity document for opening  of account.
+iii) The complete Income Tax return (not just the  acknowledgement) in the name of the sole proprietor where the firm's income is  reflected, duly authenticated/acknowledged by the Income Tax Authorities.
+iv) Utility  bills such as electricity, water, and landline telephone bills in the name of  the proprietary concern.
+v) Any two of the above documents would suffice. These  documents should be in the name of the proprietary concern.
+15. Principal Officer
+NBFCs (including RNBCs) have been advised in  Para 10 of Annex VI that they should appoint a senior management officer to be  designated as Principal Officer and the role and responsibilities of the  Principal Officer have been detailed therein. With a view to enable the  Principal Officer to discharge his responsibilities, the Principal Officer and  other appropriate staff should have timely access to customer identification  data and other CDD information, transaction records and other relevant  information. Further, NBFCs (including RNBCs) should ensure that the Principal  Officer is able to act independently and report directly to the senior management  or to the Board of Directors. The role and responsibilities of the Principal  Officer should include overseeing and ensuring overall compliance with  regulatory guidelines on KYC/AML/CFT issued from time to time and obligations  under the Prevention of Money Laundering Act, 2002, rules and regulations made  thereunder, as amended form time to time.
+16. Suspicion of money  laundering/terrorist financing
+With a  view to preventing NBFCs from being used, intentionally or unintentionally, by  criminal elements for money laundering or terrorist financing, whenever there  is suspicion of money laundering or terrorist financing or when other factors  give rise to a belief that the customer does not, in fact, pose a low risk,  NBFCs shall carry out full scale customer due diligence (CDD) before opening an  account.
+17. Filing of Suspicious Transaction Report  (STR)
+In terms of Para 2 (iv) Annex-VI an NBFC should  not open an account (or should consider closing an existing account) when it is  unable to apply appropriate CDD measures. In the circumstances when an NBFC  believes that it would no longer be satisfied that it knows the true identity  of the account holder, the Company should also file an STR with FIU-IND.
+II. Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules  notified thereunder
+1. NBFCs were advised to appoint a  Principal Officer and put in place a system of internal reporting of suspicious  transactions and cash transactions of Rs.10 lakh and above. In this connection,  Government of India, Ministry of Finance, Department of Revenue, issued a  notification dated July 1, 2005 in the Gazette of India, notifying the Rules  under the Prevention of Money Laundering Act (PMLA), 2002. In terms of the  Rules, the provisions of PMLA, 2002 came into effect from July 1, 2005. Section 12 of the PMLA, 2002 casts certain  obligations on the NBFCs in regard to preservation and reporting of customer  account information.
+5
+With the enactment of  Prevention of Money Laundering (Amendment) Act, 2012 and amendment to Section  13 of the Act which provides for “Powers of Director to impose fine”, the  section 13(2) now reads as under:
+“If the Director, in the course of any inquiry,  finds that a reporting entity or its designated director on the Board or any of  its employees has failed to comply with the obligations under this Chapter,  then, without prejudice to any other action that may be taken under any other  provisions of this Act, he may—
+(a) issue a  warning in writing; or
+(b) direct such  reporting entity or its designated director on the Board or any of its  employees, to comply with specific instructions; or
+(c) direct such  reporting entity or its designated director on the Board or any of its  employees, to send reports at such interval as may be prescribed on the  measures it is taking; or
+(d) by an order, levy a fine on such reporting  entity or its designated director on the Board or any of its employees, which  shall not be less than ten thousand rupees but may extend to one lakh rupees  for each failure.”
+In view of the above amendment, NBFCs were  advised to nominate a Director on their Boards as “designated Director” to  ensure compliance with the obligations under the Prevention of Money Laundering  (Amendment) Act, 2012.
+2. Maintenance of records of transactions
+NBFCs should have a system of maintaining proper  record of transactions prescribed under Rule 3, as mentioned below:
+(i) all cash transactions  of the value of more than rupees ten lakh or its equivalent in foreign currency;
+(ii) all  series of cash transactions integrally connected to each other which have been  valued below rupees ten lakh or its equivalent in foreign currency where such  series of transactions have taken place within a month and the aggregate value  of such transactions exceeds rupees ten lakh;
+(iii) all cash  transactions where forged or counterfeit currency notes or bank notes have been  used as genuine and where any forgery of a valuable security has taken place;
+(iv) all  suspicious transactions whether or not made in cash and in manner as mentioned  in the Rules framed by Government of India under the Prevention of Money Laundering Act , 2002.
+3. Information to be  preserved
+NBFCs are required to maintain the following  information in respect of transactions referred to in Rule 3:
+(i)  the nature of the transactions;
+(ii) the amount of the  transaction and the currency in which it was denominated;
+(iii) the date on which the  transaction was conducted; and
+(iv) the parties to the  transaction.
+4. Maintenance and Preservation of records
+NBFCs should take appropriate steps to evolve a  system for proper maintenance and preservation of account information  in a manner that allows data to be retrieved  easily and quickly whenever required or when requested by the competent  authorities. The identification records and transaction data should be made  available to the competent authorities upon request.
+(i) In terms of Sub-Section 2(a) of Section 12 of The Prevention of Money  Laundering (Amendment) Act, 2009 (PMLA, 2009), the records referred to in  clause (a) of Sub-Section (1) of Section 12 shall be maintained for a period of  ten years from the date of transaction between the clients and the banking  company and in terms of Sub-Section 2(b) of Section 12 of the Act ibid, the  records referred to in clause (c) of Sub-Section (1) of Section 12 shall be  maintained for a period of ten years from the date of cessation of transaction  between the clients and the banking company.
+(ii) NBFCs (including RNBCs) should maintain for at least ten years from  the date of transaction between the NBFC (including RNBC) and the client, all necessary records of  transactions referred to at
+Rule 3
+of the Prevention of Money-Laundering  (Maintenance of Records of the Nature and Value of Transactions, the Procedure  and Manner of Maintaining and Time for Furnishing Information and Verification  and Maintenance of Records of the Identity of the Clients of the Banking  Companies, Financial Institutions and Intermediaries) Rules, 2005 (PMLA Rules),  both domestic or international, which will permit reconstruction of individual  transactions (including the amounts and types of currency involved, if any) so  as to provide, if necessary, evidence for prosecution of persons involved in  criminal activity.
+(iii) However,  records pertaining to the identification of the customer and his address (e.g.  copies of documents like passports, identity cards, driving licenses, PAN card,  utility bills etc.) obtained while opening the account and during the course of  business relationship, as indicated in the paragraph, would continue to be  preserved for at least ten years after the business relationship is ended as  required under Rule 10 of the Rules ibid.
+5. Reporting to Financial  Intelligence Unit-India
+In terms of the PMLA rules, NBFCs are required  to report information relating to cash and suspicious transactions to the  Director, Financial Intelligence Unit-India (FIU-IND) at the following address:
+Director, FIU-IND,
+Financial Intelligence Unit-India,
+6th Floor, Hotel Samrat,
+Chanakyapuri,
+New Delhi-110021
+(i) There are altogether five reporting formats prescribed  for a banking company viz. i) Manual reporting of cash transactions ii) Manual  reporting of suspicious transactions iii) Consolidated reporting of cash  transactions by Principal Officer of the bank iv) Electronic data structure for  cash transaction reporting and v) Electronic data structure for suspicious  transaction reporting which are enclosed to this circular. The reporting  formats contain detailed guidelines on the compilation and manner/procedure of  submission of the reports to FIU-IND.
+NBFCs  were advised to adopt the format prescribed for banks with suitable  modifications. NBFCs were also advised to initiate urgent steps to ensure  electronic filing of cash transaction report (CTR) as early as possible.
+The related hardware and technical requirement for preparing reports in an  electronic format, the related data files and data structures thereof were  furnished in the instructions part of the concerned formats. While detailed  instructions for filing all types of reports are given in the instructions part  of the related formats, NBFCs should scrupulously adhere to the following:
+(a) The cash transaction report  (CTR) for each month should be submitted to FIU-IND by 15th of the succeeding  month. While filing CTR, individual transactions below rupees fifty thousand  may not be included. Cash transaction reporting by branches/offices of NBFCs to  their Principal Officer should invariably be submitted on monthly basis
+(not  on fortnightly basis)
+and the Principal Officer, in turn, should ensure to  submit CTR for every month to FIU-IND within the prescribed time schedule;
+(b) The Suspicious  Transaction Report (STR) should be furnished within 7 days of arriving at a  conclusion that any transaction, whether cash or non-cash, or a series of  transactions integrally connected are of suspicious nature. The Principal Officer should record his  reasons for treating any transaction or a series of transactions as suspicious.  It should be ensured that there is no undue delay in arriving at such a  conclusion once a suspicious transaction report is received from a branch or  any other office. Such report should be made available to the competent  authorities on request;
+(c) The  Principal Officer will be responsible for timely submission of CTR and STR to  FIU-IND;
+(d) Utmost  confidentiality should be maintained in filing of CTR and STR with FIU-IND. The  reports may be transmitted by speed/ registered post, fax, email at the  notified address;
+(e) It  should be ensured that the reports for all the branches are filed in one mode  i.e. electronic or manual;
+(f) A summary of cash  transaction report for the NBFC as a whole may be compiled by the Principal  Officer of the NBFC in physical form as per the format specified. The summary  should be signed by the Principal Officer and submitted both for manual and  electronic reporting.
+6.  In paragraph 7 of our circular dated April  5, 2006, NBFCs were advised to initiate urgent steps to ensure electronic  filing of cash transaction report (CTR) and Suspicious Transaction Reports  (STR) to FIU-IND. In case of NBFCs, where all the branches are not yet fully  computerized, the Principal Officer of the NBFC should cull out the transaction  details from branches which are not computerized and suitably arrange to feed  the data into an electronic file with the help of the editable electronic  utilities of CTR/STR as have been made available by FIU-IND on their website
+http://fiuindia.gov.in
+.
+7. NBFCs may not put any restrictions on operations  in the accounts where an STR has been made.  However, it should be ensured that there is no
+tipping off to
+the customer at any level. It is likely that in some cases transactions are  abandoned/ aborted by customers on being asked to give some details or to  provide documents. NBFCs should report all such
+attempted transactions in  STRs
+, even if not completed by customers, irrespective of the amount of the  transaction.
+8. In  regard to CTR, the cut-off limit of Rupees ten lakh is applicable to integrally  connected cash transactions also. Further, after consultation with FIU-IND, it  is clarified that:
+a) For determining integrally connected cash  transactions, NBFCs should take into account all individual cash transactions
+in  an account during a calendar month
+, where either debit or credit summation,  computed separately, exceeds Rupees ten lakh during the month. However, while  filing CTR, details of individual cash transactions below rupees fifty thousand  may not be indicated. Illustration of integrally connected cash transactions is  furnished in
+Annex-I
+;
+b) CTR should  contain only the transactions
+carried out by the NBFC on behalf of their  clients/customers
+excluding transactions between the internal accounts of  the NBFC;
+c) All cash transactions, where forged or counterfeit Indian currency notes  have been used as genuine should be reported by the Principal Officer to  FIU-IND immediately in the format (Counterfeit Currency Report – CCR) as per
+Annex-II
+. Electronic data structure has been furnished in
+Annex-IV
+to enable  NBFCs to generate electronic CCRs. These cash transactions should also include  transactions where forgery of valuable security or documents has taken place  and may be reported to FIU-IND in plain text form.
+The  multiple data files reporting format were replaced by a new single XML file  format as provided in the ‘Download’ section of the FIU-IND website (
+http://fiuindia.gov.in
+).  All NBFCs were requested to carefully go through the revised reporting  format and initiate urgent steps to build capacity to generate reports, which  are compliant with the new reporting XML format specifications.
+6
+FIU-IND had advised vide their letter F.No.9-29/2011-FIU-IND dated August 28, 2012,  that all NBFCs should initiate submission of reports on the FINnet Gateway in  ‘TEST MODE’ from August 31, 2012 to test their ability to upload the report  electronically. Such submission in ‘Test Mode’ was to be continued till FIU-IND  informs the NBFCs about ‘go-live’ of the project.
+7
+As the project has gone 'live' NBFCs were advised to  discontinue submission of reports in CD, using only FINnet gateway for  uploading of reports in the new XML reporting format. Any report in CD will not  be treated as a valid submission by FIU-IND. For any clarification / assistance  regarding submission of reports, NBFCs may contact FIU-IND help desk at
+email
+or telephone numbers 011-24109792 / 93.
+9. In terms of  instructions contained in the guidelines on ‘Know Your Customer Norms’ and  ‘Anti-Money Laundering Measures’ of our circular dated February 21, 2005, NBFCs  are required to prepare a profile for each customer based on risk  categorization. Further, vide paragraph 4 of our circular DNBS(PD). CC 68  /03.10.042/2005-06 dated April 5, 2006, the need for periodical review of risk  categorization has been emphasized. NBFCs, as a part of transaction monitoring  mechanism, were required to put in place an appropriate software application to  throw alerts when the transactions are inconsistent with risk categorization  and updated profile of customers. It is needless to add that a robust software  throwing alerts is essential for effective identification and reporting of  suspicious transactions.
+10. As stated in paragraph 4 of Annex VI, NBFCs  are required to pay special attention to all complex, unusual large  transactions and all unusual patterns of transactions, which have no apparent  economic or visible lawful purpose. The  background including all documents/office records/memorandums pertaining to  such transactions and purpose thereof should, as far as possible, be examined  and the findings at branch as well as Principal Officer level should be  properly recorded. These records are required to be preserved for ten years as  is required under PMLA, 2002. Such records and related documents should be made  available to help auditors in their work relating to scrutiny of transactions  and also to Reserve Bank/other relevant authorities.
+11. While making STRs, NBFCs should be guided by  the definition of 'suspicious transaction' as contained in Rule 2(g) of Rules
+ibid.
+NBFCs should make STRs if they have reasonable ground to believe that the  transaction involve proceeds of crime generally
+irrespective of the amount  of transaction
+and/or the threshold limit envisaged for predicate offences  in part B of Schedule of PMLA, 2002.
+12. Prevention of Money-laundering (Maintenance  of Records of the Nature and Value of Transactions, the Procedure and Manner of  Maintaining and Time for Furnishing Information and Verification and  Maintenance of Records of the Identity of the Clients of the Banking Companies,  Financial Institutions and Intermediaries) Amendment Rules, 2009/10 - Obligation  of banks/Financial institutions
+Government of India vide  its Notifications No.13/2009/F.No.6/8/2009-ES dated November 12, 2009, February  12, 2010 and June 16, 2010 amended the Prevention of Money-laundering  (Maintenance of Records of the Nature and Value of Transactions, the Procedure  and Manner of Maintaining and Time for Furnishing Information and Verification  and Maintenance of Records of the Identity of the Clients of the Banking  Companies, Financial Institutions and Intermediaries) Rules, 2005. NBFCs and  RNBCs were advised to study details of notification and the amendments clearly  noted and spread across their organisation and to strictly follow the amended  provisions of PMLA Rules and ensure meticulous compliance with these Rules.
+13.  Assessment and Monitoring of Risk
+The  Government of India had constituted a National Money Laundering/Financing of  Terror Risk Assessment Committee to assess money laundering and terror  financing risks, a national AML/CFT strategy and institutional framework for AML/CFT  in India. Assessment of risk of Money Laundering /Financing of Terrorism helps  both the competent authorities and the regulated entities in taking necessary  steps for combating ML/FT adopting a risk-based approach. This helps in  judicious and efficient allocation of resources and makes the AML/CFT regime  more robust. The Committee made recommendations regarding adoption of a  risk-based approach, assessment of risk and putting in place a system which  would use that assessment to take steps to effectively counter ML/FT. The recommendations  of the Committee were accepted by the Government of India for implementation.
+Accordingly,  NBFCs were advised to take steps to identify and assess their ML/FT risk for  customers, countries and geographical areas as also for products/ services/  transactions/delivery channels, in addition to what has been prescribed in Annex  VI paragraph 2. NBFCs should have policies, controls and procedures, duly  approved by their boards, in place to effectively manage and mitigate their  risk adopting a risk-based approach as discussed above. As a corollary, NBFCs  would be required to adopt enhanced measures for products, services and  customers with a medium or high risk rating.
+In this regard, Indian Banks' Association (IBA)  had taken initiative in assessment of ML/FT risk in the banking sector. This  has circulated to its member banks on May 18, 2011 and a copy of their Report  on Parameters for Risk Based Transaction Monitoring (RBTM) as a supplement to  their guidance note on Know Your Customer (KYC) norms / Anti-Money Laundering  (AML) standards issued in July 2009, is available on the IBA website. The IBA  guidance also provides an indicative list of high risk customers, products,  services and geographies. NBFCs were advised to use the same as guidance in  their own risk assessment.
+8
+In order to have an effective implementation of  KYC/AML/CFT measures, NBFCs were advised to put in place a system of periodic  review of risk categorization of customers and updation of customer  identification data in a time-bound manner, and in any case not later than  end-March 2013.
+III. Combating financing of terrorism
+In terms of PMLA Rules, suspicious transaction  should include
+inter alia
+transactions which give rise to a reasonable  ground of suspicion that these may involve financing of the activities relating  to terrorism. NBFCs were, therefore,  advised to develop suitable mechanism through appropriate policy framework for  enhanced monitoring of accounts suspected of having terrorist links and swift  identification of the transactions and making suitable reports to the Financial  Intelligence Unit – India (FIU-IND) on priority.
+1. As and when list of  individuals and entities, approved by Security Council Committee established  pursuant to various United Nations' Security Council Resolutions (UNSCRs), are  received from Government of India, Reserve Bank circulates these to all banks  and financial institutions (including NBFCs). NBFCs should ensure to update the  consolidated list of individuals and entities as circulated by Reserve Bank.  Further, the updated list of such individuals/entities can be accessed in the United  Nations website at
+http://www.un.org/sc/committees/1267/consolist.shtml
+. NBFCs are advised that before opening any new  account it should be ensured that the name/s of the proposed customer does not  appear in the list. Further, NBFCs should scan all existing accounts to ensure  that no account is held by or linked to any of the entities or individuals  included in the list. Full details of  accounts bearing resemblance with any of the individuals/entities in the list  should immediately be intimated to RBI and FIU-IND.
+2. It may be appreciated that KYC norms/AML standards/CFT measures have been prescribed to ensure that criminals are not allowed to misuse the banking/financial channels. It would, therefore, be necessary that adequate screening mechanism is put in place by NBFCs as an integral part of their recruitment/hiring process of personnel.
+3. In the context of creating KYC/AML awareness among the staff and for generating alerts for suspicious transactions, NBFCs may consider the indicative list of suspicious activities contained in
+Annex-V
+of the CC No.126 dated August 05, 2008.
+4. Countries which do not or insufficiently apply the FATF recommendations.
+Financial Action Task Force (FATF) has issued several Statements on risks arising from the deficiencies in AML/CFT regime of various countries for example Uzbekistan,  Iran, Pakistan, Turkmenistan, Sao Tome and Principe on etc. which are updated from time to time. All NBFCs/RNBCs were required to consider the information contained in the statements issued by FATF which  however, does not preclude financial institutions from legitimate trade and business transactions with the countries and jurisdictions mentioned in the statement.
+NBFCs should take into account risks arising from  the deficiencies in AML/CFT regime of the jurisdictions included in the FATF  Statement. NBFCs should, in addition to FATF Statements circulated by Reserve Bank from time to time, also consider publicly available information for identifying such countries, which do not or insufficiently apply the FATF Recommendations. NBFCs should give special attention to business relationships and transactions with persons (including legal persons and other financial institutions) from or in these countries.
+5. Monitoring
+In terms of paragraph 4 of Annex-VI, ongoing monitoring is an essential element of effective KYC procedures. It is advised that NBFCs should examine the background and purpose of transactions with persons (including legal persons and other financial institutions) from jurisdictions included in FATF Statements and countries that do not or insufficiently apply the FATF  Recommendations. Further, if the transactions have no apparent economic or visible lawful purpose, the background and purpose of such transactions should, as far as possible be examined, and written findings together with all documents be retained and made available to Reserve Bank/other relevant authorities,  on request.
+NBFCs should apply enhanced due diligence measures on high risk customers. Some illustrative  examples of customers requiring higher due diligence are given in the paragraph  under reference. In view of the risks involved in cash intensive businesses, accounts of bullion dealers(including sub-dealers) and jewelers should also be  categorized by NBFCs as ‘high risk’ requiring enhanced due diligence.
+Ongoing monitoring is an essential element of effective KYC procedures. NBFCs are also required to subject these ‘high risk accounts’ to intensified transaction monitoring. High risk associated with  such accounts should be taken into account by NBFCs to identify suspicious transactions for filing Suspicious Transaction Reports (STRs) to FIU-ND.
+IV. Operation of deposit account with NBFCs and money mules
+It was brought to the notice of NBFCs /RNBCs that “Money mules” can be used to launder the proceeds of fraud schemes (
+e.g.,
+phishing  and identity theft) by criminals who gain illegal access to deposit accounts by recruiting third parties to act as “money mules.” In some cases these third parties may be innocent while in others they may be having complicity with the criminals.
+NBFCS were advised to strictly adhere to the guidelines on KYC/AML/CFT issued from time to time and to those relating to periodical updation of customer identification data after the account is opened and also to monitoring of transactions in order to protect themselves and their customers from misuse by such fraudsters.
+NBFCs were also advised to ensure that their accounts in banks are not used for the purpose of money laundering in the manner specified  above.
+These guidelines are issued under Sections 45K and 45L of the RBI Act, 1934 and any contravention of the same or non-compliance will attract penalties under the relevant provisions of the Act. and Rule 7 of Prevention of Money-Laundering (Maintenance of Records of the Nature and Value of Transactions, the Procedure and Manner of Maintaining and Time for Furnishing Information and Verification and Maintenance of Records of the Identity of the Clients of the Banking Companies, Financial Institutions and Intermediaries) Rules, 2005.
+V.
+9
+Inter-Governmental Agreement (IGA) with United States of America (US) under  Foreign Accounts Tax Compliance Act (FATCA)- Registration
+Government  of India (GoI), has advised that India and US have reached an agreement in  substance on the terms of an Inter-Governmental Agreement (IGA) to implement  FATCA and India is now treated as having an IGA in effect from April 11, 2014.  However, IGA would be signed only after the approval of Cabinet.
+Subsequently  the Bank issued the
+Circular DBOD.AML. No.20472/14.07.018/2013-14 dated June  27, 2014
+.
+The contents of  the circular are to be noted by NBFCs for meticulous compliance.
+VI.
+10
+Constitution  of Special Investigating Team – sharing of information
+In pursuance of the Hon’ble Supreme Court Judgment  dated July 4, 2011, Government of India has constituted a Special Investigation  Team (SIT) under the Chairmanship of Hon’ble Justice M.B. Shah. In this regard,  the Hon’ble Supreme Court had directed that:
+“All organs agencies, departments and agents of the  State, whether at the level of  the Union  of India, or the State Government, including but not limited to all statutorily  formed individual bodies, and other constitutional bodies extend all the  cooperation necessary for the functioning of the Special Investigation Team.
+The Union of India and where needed the State  Government will facilitate the conduct of the investigations, in their fullest  measures, by the Special Investigation Team and functioning, by extending all  necessary financial, material, legal, diplomatic and intelligence resources,  whether such investigations or portions of such investigations occur inside the  country or abroad.”
+In view of above all NBFCs are advised to ensure  that information/documents required by the SIT are made available as and when  required.
+Annex-I
+Illustration of Integrally connected cash transaction
+The following transactions have taken place in an NBFC during the month of April, 2008:
+Date
+Mode
+Dr. (in Rs.)
+Cr. (in Rs.)
+Balance (in Rs.)
+BF - 8,00,000.00
+02/04/2008
+Cash
+5,00,000.00
+3,00,000.00
+6,00,000.00
+07/04/2008
+Cash
+40,000.00
+2,00,000.00
+7,60,000.00
+08/04/2008
+Cash
+4,70,000
+1,00,000.00
+3,90,000.00
+Monthly summation
+10,10,000.00
+6,00,000.00
+i) As per above clarification, the debit transactions in the above example are integrally connected cash transactions because total cash debits during the calendar month exceeds Rs.10 lakhs. However, the NBFC should report only the debit transaction taken place on 02/04 & 08/04/2008. The debit transaction dated 07/04/2008 should not be separately reported by the NBFC, which is less than Rs.50,000/-.
+ii) All the  credit transactions in the above example would not be treated as integrally  connected, as the sum total of the credit transactions during the month does  not exceed Rs.10 lakh and hence credit transaction dated 02, 07 & 08/04/2008 should not be reported by NBFC.
+Annex -V
+An Indicative List of  Suspicious Activities Transactions Involving Large Amounts of Cash
+Company transactions, that are denominated by  unusually large amounts of cash, rather than normally associated with the  normal commercial operations of the company, e.g. cheques,
+Transactions  that do not make Economic Sense
+Transactions in which assets are withdrawn immediately  after being deposited unless the business activities of the customer's  furnishes a plausible reason for immediate withdrawal.
+Activities not consistent with the  Customer's Business
+Accounts with large volume of credits whereas the  nature of business does not justify such credits.
+Attempts  to avoid Reporting/Record-keeping Requirements
+(i) A customer who is reluctant to provide information  needed for a mandatory report, to have the report filed or to proceed with a  transaction after being informed that the report must be filed.
+(ii)  Any individual or group that coerces/induces or attempts to coerce/induce a  NBFC employee not to file any reports or any other forms.
+(iii) An account where there are several cash  transactions below a specified threshold level to a avoid filing of reports  that may be necessary in case of transactions above the threshold level, as the  customer intentionally splits the transaction into smaller amounts for the purpose  of avoiding the threshold limit.
+Unusual Activities
+Funds coming from the countries/centers which are  known for money laundering.
+Customer who provides Insufficient or  Suspicious Information
+(i) A customer/company who is reluctant to provide  complete information regarding the purpose of the business, prior business  relationships, officers or directors, or its locations.
+(ii)  A customer/company who is reluctant to reveal details about its activities or  to provide financial statements.
+(iii) A customer who has no record of past or present employment but makes  frequent large transactions.
+Certain  NBFC Employees arousing Suspicion
+(i) An employee whose lavish lifestyle cannot be  supported by his or her salary.
+(ii) Negligence of employees/willful blindness is reported repeatedly.
+Some examples of suspicious activities/transactions to  be monitored by the operating staff-
+Large Cash Transactions
+Multiple accounts under the same name
+Placing funds in term Deposits and  using them as security for more loans
+Sudden surge in activity level
+Same funds being moved repeatedly among several  accounts
+Annex-VI
+Guidelines issued by DBOD  to banks
+Guidelines on ‘Know Your Customer’ norms and
+Anti-Money Laundering  Measures
+'
+Know Your Customer'  Standards
+1. The  objective of KYC guidelines is to prevent banks from being used, intentionally  or unintentionally, by criminal elements for money laundering activities. KYC  procedures also enable banks to know/understand their customers and their  financial dealings better which in turn help them manage their risks prudently.  Banks should frame their KYC policies incorporating the following four key  elements:
+(i) Customer Acceptance Policy;
+(ii) Customer Identification Procedures;
+(iii) Monitoring of Transactions; and
+(iv) Risk  management.
+For the purpose of KYC  policy, a ‘Customer’ may be defined as :
+a       person or entity that maintains an account and/or has a business       relationship with the bank;
+one       on whose behalf the account is maintained (i.e. the beneficial owner);
+beneficiaries       of transactions conducted by professional intermediaries, such as Stock       Brokers, Chartered Accountants, Solicitors etc. as permitted under the       law, and
+any person or entity connected with a financial  transaction which can pose significant reputational or other risks to the bank,  say, a wire transfer or issue of a high value demand draft as a single  transaction.
+Customer Acceptance Policy ( CAP )
+2. Banks should develop a clear Customer  Acceptance Policy laying down explicit criteria for acceptance of  customers.  The Customer Acceptance  Policy must ensure that explicit guidelines are in place on the following  aspects of customer relationship in the bank.
+(i) No account is opened  in anonymous or fictitious/ benami  name(s);
+(ii) Parameters of  risk perception are clearly defined in terms of the nature of business  activity, location of customer and his clients, mode of payments, volume of  turnover, social and financial status etc.  to enable categorization of customers   into low, medium and  high  risk (banks may choose any suitable nomenclature viz. level I, level II and level III ); customers  requiring very high level of monitoring, e.g. Politically Exposed Persons (PEPs  – as explained in Annex II) may, if  considered necessary, be categorised  even higher;
+(iii) Documentation  requirements and other information to be collected in respect of  different categories of customers depending on perceived risk and  keeping in mind the requirements of PML Act, 2002 and guidelines issued by  Reserve Bank from time to time;
+(iv) Not to open an  account or close an existing account where the bank is unable to apply  appropriate customer due diligence measures i.e. bank is unable to verify the identity and /or obtain  documents required as per the risk categorisation due to non cooperation of the  customer or non reliability of the data/information furnished to the bank. It  may, however, be necessary to have suitable built in safeguards to avoid harassment of the customer. For example,  decision to close an account may be taken at a reasonably high level after  giving due notice to the customer explaining  the reasons for such a decision;
+(v) Circumstances,  in which a customer is permitted to  act on behalf of another  person/entity, should be clearly spelt  out in conformity with the established law and practice of banking as there  could be occasions when an account is  operated by a mandate holder or where an account may be opened by an  intermediary in the fiduciary capacity and
+(vi) Necessary checks before opening a new account so as to  ensure that the identity of the customer does not match with any person  with known criminal background or with  banned entities such as individual terrorists or terrorist organizations etc.
+Banks  may prepare a profile for each new  customer based on   risk categorisation.  The customer profile may contain information relating to customer’s identity,  social/financial status, nature of  business activity, information  about his clients’ business and their location etc. The nature and extent of  due diligence will depend on the risk  perceived by the bank. However, while preparing customer profile banks should  take care to seek only such information from the customer which is relevant to  the risk category and is not intrusive. The customer profile will be a  confidential document and details contained therein shall not be divulged for  cross selling or any other purposes.
+For the purpose of risk categorisation, individuals  ( other than High Net Worth) and  entities whose identities and sources of wealth can be easily identified and  transactions in whose accounts by and large conform to the known profile, may  be categorised as low risk. Illustrative  examples of low risk customers could be   salaried employees whose salary  structures are well defined, people belonging to lower economic strata of the  society whose accounts show small balances  and low turnover, Government  departments & Government owned companies, regulators and statutory bodies  etc. In such cases, the policy may  require that only the basic requirements  of verifying the identity and location of the customer are to be met. Customers  that are likely to pose a higher than average risk to the bank may be  categorized as medium or high risk depending on  customer's background, nature and  location of activity, country of origin,  sources of funds and his client profile etc. Banks may apply enhanced due diligence measures based on the  risk assessment, thereby requiring intensive ‘due diligence’ for higher risk  customers, especially those for whom the sources of funds are not clear.  Examples of customers requiring higher due diligence may include (a) non-resident customers, (b)  high net worth individuals, (c) trusts, charities, NGOs and organizations  receiving donations, (d) companies having close family shareholding or  beneficial ownership, (e) firms with 'sleeping partners', (f) politically  exposed persons (PEPs) of foreign origin,  (g) non-face to face customers, and (h) those with dubious reputation as  per public information available, etc.
+It is important to bear in  mind that the adoption of customer acceptance policy and  its implementation should  not become too restrictive and must not  result in denial of banking  services to general public, especially  to those, who are financially or socially disadvantaged.
+Customer Identification Procedure ( CIP )
+3. The  policy approved by the Board of banks should clearly spell out the Customer  Identification Procedure to be carried out at different stages i.e. while  establishing a banking relationship; carrying out a financial transaction or when the bank has a doubt about the  authenticity/veracity or the adequacy of the previously obtained customer  identification data. Customer identification means identifying the customer and  verifying his/ her identity by using reliable, independent source documents,  data or information.
+Banks need  to obtain sufficient information necessary to establish, to their satisfaction,  the identity of each new customer, whether regular or occasional, and the  purpose of the intended nature of banking relationship. Being satisfied means  that the bank must be able to satisfy the competent authorities that due  diligence was observed based on the risk profile of the customer in compliance  with the extant guidelines in place. Such risk based approach is considered  necessary to avoid disproportionate cost to banks and a burdensome regime for  the customers. Besides risk perception, the  nature of information/documents  required would also depend on the type of customer (individual,  corporate etc). For customers that are  natural persons, the banks should obtain  sufficient identification data to verify the identity of the customer, his address/location, and also his  recent photograph. For customers that are legal persons or entities, the bank  should (i) verify the legal status of the legal person/ entity through proper  and relevant documents (ii) verify that any person purporting to act on behalf  of the legal person/entity is so  authorized and identify and verify the identity of that person, (iii)  understand the ownership and control structure of the customer and determine  who are the natural persons who ultimately control the legal person. Customer  identification requirements in respect of a few typical cases, especially,  legal persons requiring an extra element of caution are given in Annex-II for  guidance of banks. Banks may, however, frame their own internal guidelines  based on their experience of dealing with such persons/entities, normal bankers’  prudence and the legal requirements as  per established practices. If the bank  decides to accept such accounts in terms of the Customer Acceptance Policy, the  bank should take reasonable measures to identify the beneficial owner(s) and  verify his/her/their identity in a manner so that it is satisfied that it knows  who the beneficial owner(s) is/are. An indicative list of the nature and type  of documents/information that may be relied upon for customer identification is  given in the
+Annex-III
+.
+11
+Rule 9(IA) of the Prevention of Money Laundering  Rules, 2005 required every banking company, and financial institution, to  identify the beneficial owner and take all reasonable steps to verify his  identity. The term "beneficial owner" has been defined as the natural  person who ultimately owns or controls a client and/or the person on whose  behalf the transaction is being conducted, and includes a person who exercises  ultimate effective control over a juridical person. Government of India has  since examined the issue and has specified the procedure for determination of  Beneficial Ownership. The procedure as advised by the Government of India is as  under:
+A. Where the client is a person other than  an individual or trust, the banking company and financial institution, as the  case may be, shall identify the beneficial owners of the client and take  reasonable measures to verify the identity of such persons, through the  following information:
+(i) The identity of the natural person, who, whether  acting alone or together, or through one or more juridical person, exercises  control through ownership or who ultimately has a controlling ownership  interest.
+(ii) In cases where there exists doubt  under (i) as to whether the person with the controlling ownership interest is  the beneficial owner or where no natural person exerts control through  ownership interests, the identity of the natural person exercising control over  the juridical person through other means.
+(iii) Where no  natural person is identified under (i) or (ii) above, the identity of the  relevant natural person who holds the position of senior managing official.
+B. Where the client is a trust, the banking  company and financial institution, as the case may be, shall identify the  beneficial owners of the client and take reasonable measures to verify the  identity of such persons, through the identity of the settler of the trust, the  trustee, the protector, the beneficiaries with 15% or more interest in the  trust and any other natural person exercising ultimate effective control over  the trust through a chain of control or ownership.
+C. Where the client or the owner of the controlling  interest is a company listed on a stock exchange, or is a majority-owned  subsidiary of such a company, it is not necessary to identify and verify the  identity of any shareholder or beneficial owner of such companies.
+All NBFCs/RNBCs were advised to review their KYC  policy in the light of the above instructions and ensure strict adherence to  the same.
+Monitoring of Transactions
+4.  Ongoing monitoring is an essential element of effective KYC procedures. Banks can effectively control and reduce  their risk only if they have an understanding of the normal and reasonable activity of the customer so that they have the means of identifying  transactions that fall outside the regular pattern of activity. However, the extent of monitoring will depend  on the risk sensitivity of the account.  Banks should pay special attention to all complex, unusually large  transactions and all unusual patterns which have no apparent economic or  visible lawful purpose. The bank may prescribe threshold limits for a particular category of accounts and pay  particular attention to the transactions which exceed these limits.  Transactions that involve large amounts  of cash inconsistent with the normal and  expected activity of the customer should particularly attract the attention of  the bank. Very high account turnover  inconsistent with the size of the balance maintained may indicate that funds are being 'washed'  through the account. High-risk accounts have to be subjected to intensified  monitoring. Every bank should set key indicators for such accounts, taking note  of the background of the customer, such as the country of origin, sources of  funds, the type of transactions involved and other risk factors. Banks should put in place a system of  periodical review of risk categorization of accounts  and the need for applying enhanced due  diligence measures. Banks should ensure  that a record of transactions in the  accounts is preserved and maintained as required in terms of section 12 of the PML Act, 2002. It may also be ensured  that transactions of suspicious nature and/ or  any other type of transaction  notified under section 12 of the PML Act, 2002, is reported to the appropriate  law enforcement authority.
+Banks should ensure that its branches continue  to maintain proper record of all cash transactions ( deposits and withdrawals)  of Rs.10 lakh and above. The internal monitoring system should have an inbuilt  procedure for reporting of such transactions and those of suspicious nature to  controlling/ head office on a fortnightly  basis.
+Risk Management
+5. The  Board of Directors of the bank should ensure that an effective KYC programme is  put in place by establishing appropriate procedures and ensuring their  effective implementation. It should  cover proper management oversight, systems and controls, segregation of duties,  training and other related matters.  Responsibility should be explicitly allocated within the bank for  ensuring that the bank’s policies and procedures are implemented effectively.  Banks may, in consultation with their boards, devise procedures for creating  Risk Profiles of their existing and new customers and apply various Anti Money  Laundering measures keeping in view the risks involved in a transaction,  account or banking/business relationship.
+Banks’ internal audit and  compliance functions have an important role in evaluating and ensuring  adherence to the KYC policies and procedures.  As a general rule, the compliance function should provide an independent  evaluation of the bank’s own policies and procedures, including legal and  regulatory requirements. Banks should ensure that their audit machinery is  staffed adequately with individuals who are well-versed in such policies and  procedures. Concurrent/ Internal  Auditors should specifically check and verify the application of KYC procedures  at the branches and comment on the lapses observed in this regard. The  compliance in this regard may be put up before the Audit Committee of the Board  on quarterly intervals.
+Banks must have an ongoing  employee training programme so that the members of the staff are adequately  trained in KYC procedures. Training requirements should have different focuses  for frontline staff, compliance staff and staff dealing with new customers. It  is crucial that all those concerned fully understand the rationale behind the  KYC policies and implement them consistently.
+Customer Education
+6. Implementation of KYC procedures requires banks to demand certain  information from customers which may be of personal nature or which has  hitherto never been called for. This can sometimes lead to a lot of questioning  by the customer as to the motive and purpose of collecting such information.  There is, therefore, a need for banks to prepare specific literature/ pamphlets  etc. so as to educate the customer of the objectives of the KYC programme. The  front desk staff needs to be specially trained to handle such situations while  dealing with customers.
+Introduction of New Technologies – Credit cards/debit cards/smart  cards/gift cards
+7. Banks  should pay special attention to any money laundering threats that may arise  from new or developing technologies including internet banking that might  favour anonymity, and take measures, if needed, to prevent their use in money  laundering schemes.
+Many banks are engaged in  the business of issuing a variety of Electronic Cards that are used by  customers for buying goods and services, drawing cash from ATMs, and can be  used for electronic transfer of funds.   Further, marketing of these cards is generally done through the services  of agents. Banks should ensure that appropriate KYC procedures are duly applied  before issuing the cards to the customers. It is also desirable that agents are  also subjected to KYC measures.
+In case of NBFCs this  policy may be adopted in respect of issue of credit cards as NBFCs are not  permitted to issue debit cards, smart cards, stored value cards, charge cards,  etc.
+KYC for the Existing Accounts
+8. Banks were advised vide our circulars  DBOD.AML.BC.47/14.01.001/2003-04, DBOD.AML.129/14.01.001/2003-04 and  DBOD.AML.BC.No.101/14.01.001/ 2003-04 dated  November 24, 2003, December 16, 2003 and June 21, 2004 respectively to  apply the KYC norms advised vide our circular DBOD. No. AML.BC.18/ 14.01.001/  2002-03 dated August 16, 2002 to all the existing customers in a time bound  manner. [
+NBFCs were advised, vide our circular DNBS(PD) CC No. 34/2003-04  dated January 6, 2004 to apply the KYC norms to all the existing customers in a time bound manner.
+] While the revised guidelines will apply to all new customers, banks should  apply the same to the existing customers on the basis of materiality and  risk. However, transactions in  existing accounts should be continuously  monitored and any unusual pattern in the operation of the account should  trigger a review of the CDD measures. Banks may consider applying monetary  limits to such accounts based on the nature and type of the account. It may,  however, be ensured that all the existing accounts of companies, firms, trusts,  charities, religious organizations and other institutions are subjected to  minimum KYC standards which would  establish the identity of the natural/legal person and those of the 'beneficial  owners'. Banks may also ensure that  term/ recurring deposit accounts or  accounts of similar nature are treated as new accounts at the time of renewal  and subjected to revised KYC procedures.
+Where the  bank is unable to apply appropriate KYC measures due to non-furnishing of  information and /or non-cooperation by the customer, the bank may consider closing the account or  terminating the banking/business relationship after issuing due notice to the  customer explaining the reasons for taking such a decision. Such decisions need  to be taken at a reasonably senior level.
+Applicability to branches and subsidiaries outside India
+9. The above guidelines shall also apply to the  branches and majority owned subsidiaries located abroad, especially, in  countries which do not or insufficiently apply the FATF Recommendations, to the  extent local laws permit. When local applicable laws and regulations prohibit  implementation of these guidelines, the same should be brought to the notice of  Reserve Bank.
+Appointment of Principal Officer
+10. Banks may appoint a senior management  officer to be designated as Principal Officer. Principal Officer shall be  located at the head/corporate office of the bank and shall be responsible for monitoring and reporting of all transactions and sharing of information as required under the law. He will maintain  close liaison with enforcement agencies, banks and any other institution which  are involved in the fight against money laundering and combating financing of terrorism.
+Annex-VII
+Customer Identification  Requirements – Indicative Guidelines
+Trust/Nominee or Fiduciary  Accounts
+There exists the  possibility that trust/nominee or fiduciary accounts can be used to circumvent  the customer identification procedures. Banks should determine whether the customer is acting on behalf of  another person as trustee/nominee or any other intermediary. If so, banks may insist on receipt of  satisfactory evidence of the identity of the intermediaries and of the persons  on whose behalf they are acting, as also obtain details of the nature of the  trust or other arrangements in place. While opening an account for a trust, banks should take reasonable  precautions to verify the identity of the trustees and the settlors of trust  (including any person settling assets into the trust), grantors, protectors,  beneficiaries and signatories. Beneficiaries should be identified when they are defined. In the case of a 'foundation', steps should  be taken to verify the founder managers/ directors and the beneficiaries, if  defined.
+Accounts of companies and firms
+Banks need to be vigilant against business  entities being used by individuals as a ‘front’ for maintaining accounts with  banks. Banks should examine the control structure of the entity, determine the  source of funds and identify the natural persons who have a controlling  interest and who comprise the management. These requirements may be  moderated  according to the risk  perception e.g. in the case of a public company it will not be necessary to  identify all the shareholders.
+Client accounts opened by professional intermediaries
+When the bank has knowledge or reason to believe  that the client account opened by a professional intermediary is on behalf of a  single client, that client must be identified. Banks may hold 'pooled' accounts managed by professional intermediaries  on behalf of entities like mutual funds, pension funds or other types of  funds. Banks also maintain 'pooled' accounts managed by lawyers/chartered accountants  or stockbrokers for funds held 'on deposit' or 'in escrow' for a range of  clients. Where funds held by the intermediaries are not co-mingled at the bank  and there are 'sub-accounts', each of them attributable to a beneficial owner,  all the beneficial owners must be identified. Where such funds are co-mingled  at the bank, the bank should still look through to the beneficial owners. Where the banks rely on the 'customer due  diligence' (CDD) done by an intermediary, they should satisfy themselves that  the intermediary is regulated and supervised and has adequate systems in place  to comply with the KYC requirements. It  should be understood that the ultimate responsibility for knowing the customer lies with the bank.
+Accounts of Politically  Exposed Persons(PEPs) resident outside  India
+Politically exposed persons are individuals who  are or have been entrusted with prominent public functions in a foreign  country, e.g., Heads of States or of Governments, senior politicians, senior  government/judicial/military officers, senior executives of state-owned  corporations, important political party officials, etc. Banks should gather sufficient information on  any person/customer of this category intending to establish a relationship  and check all the information available on  the person in the public domain. Banks should verify the identify of the person  and seek information about the sources of funds before accepting the PEP as a  customer. The decision to open an account for PEP should be taken at a senior level which should be clearly spelt  out in Customer Acceptance policy. Banks  should also subject such accounts to enhanced monitoring on an ongoing basis.  The above norms may also be applied to the accounts of the family members or  close relatives of PEPs.
+Accounts of non-face-to-face customers
+With the introduction of telephone and  electronic banking, increasingly accounts are being opened by banks for  customers without the need for the customer to visit the bank branch. In the  case of non-face-to-face customers, apart from applying the usual customer  identification procedures, there must be specific and adequate procedures to  mitigate the higher risk involved. Certification of all the documents presented  may be insisted upon and, if necessary, additional documents may be called for.  In such cases, banks may also require the first payment to be effected through  the customer's account with another bank which, in turn, adheres to similar KYC  standards. In the case of cross-border customers, there is the additional  difficulty of matching the customer with the documentation and the bank may  have to rely on third party certification/introduction. In such cases, it must  be ensured that the third party is a regulated and supervised entity and has  adequate KYC systems in place.
+Correspondent Banking
+Correspondent banking is the provision of  banking services by one bank (the “correspondent bank”) to another bank (the  “respondent bank”). These services may include cash/funds management,  international wire transfers, drawing arrangements for demand drafts and mail  transfers, payable-through-accounts, cheques clearing, etc. Banks should gather  sufficient information to understand fully the nature of the business of the  correspondent/respondent bank. Information on the other bank’s management,  major business activities, level of AML/CFT compliance, purpose of opening the  account, identity of any third party entities that will use the correspondent  banking services, and regulatory/supervisory framework in the correspondent's/respondent’s  country may be of special relevance. Similarly, banks should try to ascertain  from publicly available information whether   the other bank has been subject to any money laundering or terrorist  financing investigation or regulatory action. While it is desirable that such relationships should be established only  with the approval of the  Board, in case  the Boards of some banks wish to delegate the power to an administrative  authority, they may delegate the power to a committee headed by the  Chairman/CEO of the bank while laying down clear parameters for approving such  relationships. Proposals approved by the Committee should invariably be put  up to the Board at its next meeting for  post facto approval. The responsibilities of each bank with whom correspondent  banking relationship is established should be clearly documented. In the case  of payable-through-accounts, the correspondent bank should be satisfied that  the respondent bank has verified the identity of the customers having direct  access to the accounts and is undertaking ongoing 'due diligence' on them. The  correspondent bank should also ensure that the respondent bank is able to  provide the relevant customer identification data immediately on request.
+Banks should refuse to  enter into a correspondent relationship with a
+“
+shell bank
+”
+(i.e.  a bank which is incorporated in a country where it has no physical presence and  is unaffiliated to any regulated financial group). Shell banks are not  permitted to operate in India. Banks should also guard against establishing  relationships with respondent foreign financial institutions that permit their  accounts to be used by shell banks. Banks should be extremely cautious while  continuing relationships with respondent banks located in countries with poor  KYC standards and countries identified as 'non-cooperative' in the fight  against money laundering and terrorist financing. Banks should ensure that  their respondent banks have anti money laundering policies and procedures in  place and apply enhanced 'due diligence' procedures for transactions carried  out through the correspondent accounts.
+Annex-VIII
+Customer Identification Procedure
+Features  to be verified and documents that may be obtained from customers
+Features
+Documents
+Accounts of individualsLegal name and any other names used
+Correct permanent address
+(i) Passport (ii) PAN card  (iii) Voter’s Identity Card (iv) Driving licence (v) Identity card (subject to  the bank’s satisfaction) (vi) Letter from a recognized public authority or  public servant verifying the identity and residence of the customer to the  satisfaction of bank(i) Telephone bill (ii) Bank account statement (iii) Letter from  any recognized public authority
+(iv) Electricity bill (v) Ration card
+(vi) Letter from employer (subject to satisfaction of the bank)
+( any one document which provides customer  information to the satisfaction of the bank will suffice )
+Accounts of companies
+- Name of the company
+- Principal place of business
+- Mailing address of the company
+- Telephone/Fax Number
+(i) Certificate of incorporation and Memorandum & Articles of Association (ii) Resolution of the Board of Directors to open an account and identification of those who have authority to operate the account (iii) Power of Attorney granted to its managers, officers or employees to transact business on its behalf (iv) Copy of PAN allotment letter (v) Copy of the telephone bill
+Accounts of partnership firms
+- Legal name
+- Address
+- Names of all partners and their addresses
+- Telephone numbers of the firm and partners
+(i) Registration certificate, if registered
+(ii) Partnership deed (iii) Power of Attorney granted to a partner or an employee of the firm to transact business on its behalf
+(v) Telephone bill in the name of firm/partners
+Accounts of trusts & foundations
+- Names of trustees, settlers, beneficiaries and signatories- Names and addresses of the founder, the managers/directors and the beneficiaries
+- Telephone/fax numbers
+(i) Certificate of registration, if registered
+(ii) 
+            Power of Attorney granted to transact business on its behalf
+(iii) 
+            Any officially valid document to identify the trustees, settlors, beneficiaries and those holding Power of Attorney, founders/managers/ directors and their addresses
+(iv) 
+            Resolution of the managing body of the foundation/association
+(v) 
+          Telephone bill
+Accounts of Proprietary Concerns
+- Name, Address and Activity of the Proprietary Concern.
+i) Proof of the name, address and activity of the concern, like registration certificate (in the case of a registered concern), certificate/licence issued by the Municipal authorities under Shop & Establishment Act, sales and income tax returns, CST / VAT certificate, certificate / registration document issued by Sales Tax / Service Tax / Professional Tax authorities, Licence issued by the Registering uthority like Certificate of Practice issued by Institute of Chartered Accountants of India, Institute of Cost Accountants of India, Institute of Company Secretaries of India, Indian Medical Council, Food and Drug Control Authorities, etc.
+ii) Any registration / licensing document issued in the name of the proprietary concern by the Central Government or State Government Authority / Department. NBFCs/RNBCs may also accept IEC (Importer Exporter Code) issued to the proprietary concern by the office of DGFT as an identity document for opening of account.
+iii) The complete Income Tax return (not just the acknowledgement) in the name of the sole proprietor where the firm's income is reflected, duly authenticated/ acknowledged by the Income Tax Authorities.
+iv) Utility bills such as electricity, water, and landline telephone bills in the name of the proprietary concern.
+v) Any two of the above documents would suffice. These documents should be in the name of the proprietary concern.
+Annex IX
+Operational Procedure to be followed by NBFCs  for e-KYC exercise
+The e-KYC service of the UIDAI is be leveraged  by NBFCs through a secured network. Any NBFC willing to use the UIDAI e-KYC  service is required to sign an agreement with the UIDAI. The process flow to be  followed is as follows :
+1. Sign KYC User Agency (KUA) agreement with UIDAI  to enable the NBFC to specifically access e-KYC service.
+2. NBFCs  to deploy hardware and software for deployment of e-KYC service across various  delivery channels. These should be Standardisation Testing and Quality  Certification (STQC) Institute, Department of Electronics & Information  Technology, Government of India certified biometric scanners at NBFC branches  as per UIDAI standards. The current list of certified biometric scanners is  given in the link below :
+http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613.pdf
+3. Develop a software application to enable use of  e-KYC across various NBFC branches, as per UIDAI defined Application  Programming Interface (API) protocols. For this purpose NBFCs will have to  develop their own software under the broad guidelines of UIDAI. Therefore, the  software may differ from NBFC to NBFC.
+4. Define a procedure for obtaining customer  authorization to UIDAI for sharing e-KYC data with the NBFC. This authorization  can be in
+physical
+(by way of a written explicit consent authorising  UIDAI to share his / her Aadhaar data with the NBFC for the purpose of opening  deposit account) /
+electronic
+form as defined by UIDAI from time to  time.
+5. Sample process flow would be as follows :
+a. Customer walks into branch of NBFC with
+his /  her 12-digit Aadhaar number and explicit consent
+and requests to open a  deposit account with
+          Aadhaar based e-KYC.
+b. NBFC representative manning the branch enters  the number into NBFC's e-KYC application software.
+c. The customer inputs his / her biometrics via a  UIDAI compliant biometric reader (e.g. fingerprints on a biometric reader).
+d. The software application captures the Aadhaar  number along with biometric data, encrypts this data and sends it to UIDAI's  Central Identities Data Repository (CIDR).
+e. The Aadhaar KYC service authenticates customer  data. If the Aadhaar number does not match with the biometrics, UIDAI server  responds with an error with various reason codes depending on type of error (as  defined by UIDAI).
+f. If the Aadhaar number matches with the  biometrics, UIDAI responds with digitally signed and encrypted demographic  information [Name, year / date of birth, Gender, Address, Phone and email (if  available)] and photograph. This information is captured by NBFCs e-KYC  application and processed as needed.
+g. NBFCs servers auto populate the demographic data  and photograph in relevant fields. It also records the full audit trail of  e-KYC viz. source of information, digital signatures, reference number,  original request generation number, machine ID for device used to generate the  request, date and time stamp with full trail of message routing, UIDAI  encryption date and time stamp, NBFCs decryption date and time stamp, etc.
+h. The photograph and demographics of the customer  can be seen on the screen of computer at NBFC branches for reference.
+i. The customer can open deposit account subject to  satisfying other account opening requirements.
+Appendix
+List of KYC Circulars
+Sr. No.
+Circular No.
+Date
+(i)
+DNBS (PD) CC.No.46/02.02(RNBC)/2004-05
+December 30, 2004
+(ii)
+DNBS(PD). CC 48 /10.42/2004-05
+February 21, 2005
+(iii)
+DNBS(PD).CC    No. 58/ 10.42 /2005-06
+October 11, 2005
+(iv)
+DNBS.PD.    CC No. 64 /03.10.042/2005-06
+March 7, 2006
+(v)
+DNBS(PD).    CC 113 /03.10.042/ 2007- 08
+April 23, 2008
+(VI)
+DNBS(PD).    CC 163/03.10.042/ 2009- 10
+November 13, 2009
+(vii)
+DNBS(PD).CC.    No 166 /03.10.42 /2009-10
+December 2, 2009
+(viii)
+DNBS.    (PD) CC No 192 /03.10.42/2010-11
+August 9, 2010
+(ix)
+DNBS.    (PD) CC No 193 /03.10.42/2010-11
+August 9, 2011
+(x)
+DNBS(PD).CC.    No 201/03.10.42 /2010-11
+September 22, 2010
+(xi)
+DNBS(PD).CC.    No 202 /03.10.42 /2010-11
+October 4, 2010
+(xii)
+DNBS(PD).CC.No209/03.10.42/2010-
+January 28, 2011
+(xiii)
+DNBS(PD).CC.No210/03.10.42/2010-11
+February 14, 2011
+(xiv)
+DNBS.(PD)CCNo212/03.10.42/2010-11
+March 8, 2011
+(xv)
+DNBS(PD).CC.    No.216 /03.10.42 /2010-11
+May 02, 2011
+(xvi)
+DNBS(PD).CC.No218/03.10.42/2010-11
+May 04 , 2011
+(xvii)
+DNBS.(PD)CC No215/03.10.42/2010-11
+April 5, 2011
+(xviii)
+DNBS(PD).CC.    No 242 /03.10.42 /2011-12
+September 15, 2011
+(xix)
+DNBS(PD).CC.    No 244 /03.10.42 /2011-12
+September 22, 2011
+(xx)
+DNBS(PD).CC.    No 251 /03.10.42 /2011-12
+December26, 2011
+(xi)
+DNBS(PD).CC.    No 257 /03.10.42 /2011-12
+March 14, 2012
+(xii)
+DNBS(PD).CC.    No 264/03.10.42/2011-12
+March 21, 2012
+(xiii)
+DNBS(PD).CC. No.270/03.10.42 /2011-12
+April 4, 2012
+(xiii)
+DNBS(PD).CC. No 275 /03.10.42 /2011-12
+May 29, 2012
+(xiv)
+DNBS(PD).CC.    No 294 /03.10.42 /2012-13
+July 5, 2012
+(xv)
+DNBS(PD).CC.    No 295 /03.10.42 /2012-13
+July 11, 2012
+(xvi)
+DNBS(PD).CC.    No 296 /03.10.42 /2012-13
+July 11, 2012
+(xvii)
+DNBS(PD).CC.    No 298 /03.10.42 /2012-13
+July 26, 2012
+(xviii)
+DNBS(PD).CC.    No 302 /03.10.42 /2012-13
+September 7,2012
+(ix)
+DNBS(PD).CC.    No 304 /03.10.42 /2012-13
+September 17,2012
+(xx)
+DNBS(PD).CC.    No 305 /03.10.42 /2012-13
+October 3,2012
+(xxi)
+DNBS(PD).CC.    No 306 /03.10.42 /2012-13
+October 3,2012
+(xxii)
+DNBS(PD).CC.    No 310 /03.10.42 /2012-13
+November 22,2012
+(xxiii)
+DNBS(PD).CC.    No 313 /03.10.42 /2012-13
+December 10, 2012
+(xxiv)
+DNBS(PD).CC.    No 318 /03.10.42 /2012-13
+December 28, 2012
+(xxv)
+DNBS(PD).CC.    No 319 /03.10.42 /2012-13
+December 28, 2012
+(xxvi)
+DNBS(PD).CC.    No 321 /03.10.42 /2012-13
+February 27, 2013
+(xxvii)
+DNBS(PD).CC.    No 323 /03.10.42 /2012-13
+April 18, 2013
+(xxviii)
+DNBS(PD).CC.    No 324 /03.10.42 /2012-13
+May 2, 2013
+(xxix)
+DNBS(PD).CC.    No 325 /03.10.42 /2012-13
+May 3, 2013
+(xxx)
+DNBS(PD).CC.No.351/03.10.42/2013-14
+July 4, 2013
+(xxi)
+DNBS(PD).CC.    No 352/03.10.42 /2013-14
+July 23, 2013
+(xii)
+DNBS(PD).CC.No    357/03.10.42/2013-14
+October 3, 2013
+(xiii)
+DNBS(PD).CC    NO 358/03.10.42/2013-14
+October 3, 2013
+(xiv)
+DNBS(PD).CC.No.364/03.10.42/2013-14
+January 1, 2014
+(xv)
+DNBS(PD).CC.No.366    /03.10.42/2013-14
+January 10, 2014
+(xvi)
+DNBS    (PD).CC. No 370 /03.10.42 /2013-14
+March 19, 2014
+(xvii)
+DNBS(PD).CC.No.375/03.10.42/2013-14
+April 22, 2014
+(xviii)
+DNBS  (PD).CC. No 398/03.10.42/2014-15
+July  10, 2014
+(xvix)
+DNBS(PD).CC. No 400/03.10.42/2014-15
+July 14, 2014
+(xvx)
+DNBS (PD).CC.No 401/03.10.42/2014-15
+July 25, 2014
+(xv)
+DNBS(PD).CC.  No 402/03.10.42/2014-15
+August  1, 2014
+(xvi)
+DNBS(PD).CC. No 404/03.10.42/2014-15
+August 1, 2014
+List of PMLA Circulars
+Sr. No.
+Circular    No.
+Date
+(i)
+DNBS(PD).    CC 68 /03.10.042/2005-06
+April 5, 2006
+(ii)
+DNBS(PD).    CC 126/03.10.042/ 2008- 09
+August 5, 2008
+(iii)
+DNBS(PD).    CC 164/03.10.042/ 2009- 10
+November 13, 2009
+(iv)
+DNBS(PD).CC.    No 170 /03.10.42 /2009-10
+April 23 , 2010
+(v)
+DNBS(PD)CC.No    171/03.10.42/2009-10
+April 23 , 2010
+(vi)
+DNBS(PD).CC.    No. 172 /03.10.42 /2009-10
+April 30, 2010
+(vii)
+DNBS(PD)CC.No    175/03.10.42/2009-10
+May 26, 2010
+(ix)
+DNBS(PD)CC.No    198/03.10.42/2010-11dated
+August 26, 2010
+(x)
+DNBS(PD).CC.    No 247 /03.10.42 /2011-12
+October 28, 2011
+(xi)
+DNBS(PD).CC.No.307/03.10.42/2012-13
+October    16 , 2012
+(xii)
+DNBS(PD).CC.    No 378 /03.10.42 /2013-14 May 29, 2014
+May    29, 2014
+1
+Inserted vide
+DNBS (PD).CC. No  398/03.10.42 /2014-15 dated July 10, 2014
+2
+Inserted vide
+DNBS(PD).CC. No 400/03.10.42 /2014-15 dated July 14, 2014
+3
+Inserted vide
+DNBS (PD).CC. No. 325 /03.10.42 /2012-13 dated May 3, 2013
+4
+Inserted vide
+DNBS(PD).CC. No 402 /03.10.42 /2014-15 dated  August 1, 2014
+5
+DNBS(PD).CC. No 378 /03.10.42 /2013-14 dated May 29, 2014
+6
+DNBS(PD).CC. No 307 /03.10.42 /2012-13 dated  October 16, 2012
+7
+Inserted vide
+DNBS(PD).CC.No.375/03.10.42/2013-14 dated April 22 , 2014
+8
+Inserted vide
+DNBS(PD).CC.No.298/03.10.42/2012-13 dated July 26, 2012
+9
+Inserted vide
+DNBS (PD).CC.No 401/03.10.42  /2014-15 dated July 25, 2014
+10
+Inserted vide
+DNBS (PD).CC. No 404/03.10.42 /2014-15  dated August 1, 2014
+11
+Inserted vide
+DNBS  (PD).CC. No 321/03.10.42 /2012-13 dated February 27, 2013

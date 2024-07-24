@@ -1,0 +1,564 @@
+(439 kb)
+Master Circular - Resource Raising Norms for Financial Institutions
+RBI/2015-16/69
+DBR.No.FID.FIC.1/01.02.00/2015-16
+July 1, 2015
+All-India Term Lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Dear Sir,
+Master Circular - Resource Raising Norms for Financial Institutions
+Please refer to
+Master Circular DBOD.No.FID.FIC.1/01.02.00/2014-15 dated July 01, 2014
+containing the instructions/guidelines issued to FIs till June 30, 2014 relating to Resource Raising Norms. This
+Master Circular
+consolidates instructions on the above matters issued up to June 30, 2015
+Yours faithfully,
+(Sudha Damodar)
+Chief General Manager-in-Charge
+Master Circular on
+Resource Raising Norms for Financial Institutions
+Purpose
+To facilitate the specialised financial institutions (FIs) to meet their short-term and long-term resource requirements so as to enable the FIs to cater to sectoral needs of credit linked to the operations, purpose and objectives with which the FIs were set up as per their respective statutes. This circular also aims at providing level-playing field, by bringing broad convergence in regulatory norms among financial institutions with regard to issue of bonds by them.
+Previous Instructions
+This master circular consolidates and updates all the instructions/guidelines issued by the Reserve Bank of India relating to resource raising by financial institutions contained in the circulars listed in
+Annex 4
+.
+Application
+To all the all-India term-lending and refinancing institutions, viz., Exim Bank, National Bank for Agriculture & Rural Development (NABARD), National Housing Bank (NHB) and Small Industries Development Bank of India (SIDBI).
+1
+Introduction
+2
+Norms for Resource Raising under the 'Umbrella Limit'
+2.1
+Term Deposits
+2.2
+Term Money Borrowings
+2.3
+Certificates of Deposit (CDs)
+2.4
+Commercial Papers (CPs)
+2.5
+Inter Corporate Deposits (ICDs)
+3
+Norms regarding Issue of Bonds / Debentures
+Annex 1 : Directions on Commercial Paper
+Schedule I : Proforma of Certificates of Deposit (CDs)
+Schedule II : Proforma of Commercial Paper (CP)
+Schedule III : IPA Certificate
+Schedule IV : Details of Defaults on Repayment of CP
+Schedule V: Reporting of buyback of CPs
+Annex 2 : Monthly consolidated return on aggregate resources raised
+Annex 3 : Monthly return on resources raised through Bonds
+Annex 4 : List of Circulars consolidated in the Master Circular
+1. Introduction
+All financial Institutions, whether statutory bodies or limited companies, are subject to RBI regulations since 1998. FIs play an important role in the financial markets and facilitate fund raising resource allocation etc. Initially, the RBI had prescribed instrument-wise limits for mobilisation of resources by the select FIs through the specified instruments. In May 1997, the instrument-wise ceilings were replaced by an “umbrella limit” linked to the ‘net owned funds’ of the FI concerned, which constituted the overall ceiling for borrowing by the FI through the specified instruments. The system of umbrella limit remains in force even now though a few additional instruments have been included under the limit, over the years.
+2. Norms for Resource Raising under the 'Umbrella Limit'
+The ‘umbrella limit’ at present consists of five instruments viz., term deposits, term money borrowings, certificates of deposits (CDs), commercial papers (CPs) and inter-corporate deposits (ICDs). The aggregate borrowings through these specified instruments should not at any time exceed 100 per cent of net owned funds (NOF) of the FI concerned as per its latest audited balance sheet or as approved by RBI for individual financial institutions. The terms and conditions relating to each of the instruments are set out below.
+2.1 Term Deposits
+Item
+Instructions
+Aggregate Amount
+An FI may accept term deposits within the overall umbrella limit fixed by RBI, i.e., term deposits along with other instruments viz. term money, CPs, CDs and inter corporate deposits should not exceed 100% of its net owned funds, as per the latest audited balance sheet.
+Maturity Period
+1 to 5 years.
+Interest Rates
+FIs are free to fix the interest rates.
+Minimum Size
+Rs.10,000/-
+Brokerage
+1% of the deposits accepted.
+Premature Withdrawal
+i)
+In the case of premature withdrawal before completion of one year due to death of depositor, medical exigencies, educational expenditure and other such reasons, the following norm should be applied :
+(a)
+Premature withdrawal before six months -no interest to be paid
+(b)
+Premature withdrawal between six months and one year -interest to be paid at the rate of 4.0 per cent.
+(ii)
+Beyond 1 year, FIs have freedom to fix their own penal rate of interest on premature withdrawal of deposits
+Rating
+Rating from the rating agencies approved by the SEBI is mandatory.
+Other terms and conditions
+FIs should not provide any loan against the term deposits accepted.
+2.2 Term Money Borrowings
+Item
+Instructions
+Aggregate Amount
+An FI may raise term money within the overall umbrella limit fixed by RBI i.e., term money borrowings along with other instruments, viz., term deposits, CPs, CDs and inter corporate deposits should not exceed 100% of its net owned funds, as per the latest audited balance sheet.
+Maturity Period
+Not less than 3 months and not exceeding 6 months.
+Interest Rates
+FIs are free to fix interest rates.
+Borrowings from
+FIs are eligible to borrow 'term money' from Scheduled Commercial Banks and Co-operative banks only.
+2.3 Certificates of Deposit (CDs)
+Item
+Instructions
+Eligibility
+CDs can be issued by select all-India Financial Institutions that have been permitted by the RBI to raise short-term resources within the umbrella limit fixed by the RBI.
+Aggregate Amount
+An FI may issue CDs within the overall umbrella limit fixed by the RBI, i.e., issue of CDs together with other instruments viz., term money, term deposits, CPs and inter corporate deposits should not exceed 100% of its net owned funds, as per the latest audited balance sheet.
+Denomination
+Minimum amount of a CD should be Rs.1 lakh i.e., the minimum deposit that can be accepted from a single subscriber should not be less than Rs.1 lakh. CD issued will be in multiples of Rs.1 lakh.
+Who can subscribe?
+CDs can be issued to individuals (other than minors), corporations, companies, trusts, funds, associations, etc. Non Resident Indians may also subscribe to CDs, but only on non-repatriable basis which should be clearly stated on the Certificate. Such CDs cannot be endorsed to another NRI in the secondary market.
+Maturity
+FIs can issue CDs for a period not less than 1 year and not exceeding 3 years from the date of issue.
+Discount / Coupon Rate
+- Fixed & Floating
+CDs may be issued at a discount on face value but may also be issued as coupon bearing instruments. FIs are also allowed to issue CDs on floating rate basis provided the methodology of compiling the floating rate is objective, transparent and market based.
+FIs are free to determine the discount / coupon rate.
+Format
+FIs should issue CDs only in dematerialised form. However, according to the Depositories Act, 1996, investors have the option to seek certificate in physical form. Accordingly, if an investor insists on physical certificate, the FI may inform the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Central Office, Fort, Mumbai - 400 001 about such instances separately. Further, issuance of CDs will attract stamp duty. A format in Annex I (
+Schedule I
+) is enclosed for adoption by banks / FIs. There will be no grace period for repayment of CDs. If the maturity date happens to be a holiday, the issuing FI should make payment on the immediate preceding working day. FIs, therefore, should fix the period of deposit in such a manner that the maturity date does not coincide with a holiday to avoid loss of discount / interest rate.
+Transferability
+Physical CDs are freely transferable by endorsement and delivery. Dematted CDs can be transferred as per the procedure applicable to other demat securities. There is no lock-in period for the CDs.
+Loans / Buybacks
+FIs cannot sanction loans against CDs nor can they buy back their own CDs before maturity.
+Standardised Market
+Practices and Documentation
+FIs should refer to the detailed guidelines issued by Fixed Income
+Money Market and Derivatives Association of India (FIMMDA) in this regard on June 20, 2002 as amended from time to time.
+2.4 Commercial Papers (CPs)
+Item
+Instructions
+Eligibility
+All India Financial Institutions that have been permitted to raise resources under the umbrella limit fixed by the RBI are eligible to issue CPs.
+Aggregate Amount
+An FI may issue CPs within the overall umbrella limit fixed by RBI i.e., issue of CPs together with other instruments viz., term money, term deposits, CDs and inter corporate deposits should not exceed 100% of its net owned funds, as per the latest audited balance sheet.
+Period of Issue
+The total amount proposed through issue of CPs should be raised within a period of two weeks from the date on which the issuer opens the issue for subscription. CPs may be issued on a single date or in parts on different dates provided that in the latter case, each CP shall have the same maturity date.
+Every issue of CPs, including renewal, should be treated as a fresh issue.
+Denomination
+CPs can be issued in denomination of Rs.5 lakh or multiples thereof. The amount invested by single investor should not be less than Rs.5 lakh (face value).
+Procedure for Issuance
+a.
+Every issuer must appoint an IPA for issuance of CP.
+b.
+The issuer should disclose to the potential investors, its latest financial position as per the standard market practice.
+c.
+After the exchange of confirmation of the deal between the investor and the issuer, the issuer shall arrange for crediting the CP to the Demat account of the investor with the depository through the IPA.
+d.
+The issuer shall give to the investor a copy of IPA certificate to the effect that the issuer has a valid agreement with the IPA and documents are in order as per the format given at Annex I (
+Schedule III
+).
+Rating Requirement
+FIs shall obtain credit rating for issuance of CP from any one of the SEBI registered CRAs
+The minimum credit rating shall be 'A3' as per rating symbol and definition prescribed by SEBI. The issuers shall ensure at the time of issuance of the CP that the rating so obtained is current and has not fallen due for review.
+Who can subscribe?
+CPs may be issued to and held by individuals, banking companies, other corporate bodies registered or incorporated in India and unincorporated bodies, non-resident Indians (NRIs) and foreign institutional investors (FIIs). However, investment by FIIs would be (i) within the limit set for their investments by the SEBI and (ii) compliance with the provisions of the Foreign Exchange Management Act, 1999, the Foreign Exchange (Deposit) Regulations, 2000 and the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000, as amended from time to time.
+Maturity
+CPs can be issued for maturities between a minimum of 7 days and maximum up to one year from the date of issue. However, the maturity date of the CPs should not extend beyond the date up to which the credit rating of the issuer is valid.
+Discount
+CPs should be issued at a discount to face value and the rate of discount may be determined by the FI.
+Transferability
+CPs in physical form will be freely transferable by endorsement and delivery. The transferability of CPs in demat form will be governed by the guidelines issued by FIMMDA.
+Mode of Issuance
+a.
+CP shall be issued in the form of a promissory note as specified in Annex 1 (
+Schedule II
+) to these Guidelines and held in physical form or in a dematerialized form through any of the depositories approved by and registered with SEBI, provided that all RBI regulated entities can deal in and hold CP only in dematerialised form through such depositories.
+b.
+Fresh investments by all RBI-regulated entities shall be only in dematerialised form
+Guarantee for Credit Enhancement
+Non-bank entities including corporates may provide unconditional and irrevocable guarantee for credit enhancement for CP issue provided.
+(i)
+The issuer fulfils the eligibility criteria prescribed for issuance of CPs;
+(ii)
+The guarantor has a credit rating at least one notch higher than the issuer given by an approved credit rating agency; and
+(iii)
+The offer document for CP properly discloses the net worth of the guarantor company, the names of the companies to which the guarantor has issued similar guarantees, the extent of guarantees offered by the guarantor company and the conditions under which the guarantee will be invoked.
+Trading and Settlement of CP
+a.
+All OTC trades in CP shall be reported within 15 minutes of the trade to FIMMDA reporting platform.
+b.
+OTC trades in CP shall be settled through the clearing house of the National Stock Exchange (NSE), i.e., the National Securities Clearing Corporation Limited (NSCCL), the clearing house of the Bombay Stock Exchange (BSE), i.e., Indian Clearing Corporation Limited (ICCL), and the clearing house of the MCX-Stock Exchange, i.e., MCX-SX Clearing Corporation Limited (CCL), as per the norms specified by NSCCL, ICCL and CCL from time to time
+c.
+The settlement cycle for OTC trades in CP shall either be T+0 or T+1.
+Investment / Redemption
+a.
+The investor in CP (primary subscriber) shall pay the discounted value of the CP to the account of the issuer through the IPA.
+b.
+The investor holding the CP in physical form shall, on maturity, present the instrument for payment to the issuer through the IPA.
+c.
+The holder of a CP in dematerialised form shall get the CP redeemed and receive payment through the IPA.
+Buyback of CP
+a.
+Issuers may buyback the CP, issued by them to the investors, before maturity.
+b.
+Buyback of CP shall be through the secondary market and at prevailing market price.
+c.
+The CP shall not be bought back before a minimum period of 7 days from the date of issue.
+d.
+Issuer shall intimate the IPA of the buyback undertaken.
+e.
+Buyback of CPs should be undertaken after taking approval from the Board of Directors.
+Duties and Obligations
+The duties and obligations of the Issuer, IPA and CRA are set out below :
+I.
+Issuer
+The issuer shall ensure that the guidelines and procedures laid down for the issuance of CP are strictly adhered to.
+II.
+IPA
+a.
+The IPA shall ensure that the issuer has the minimum credit rating as stipulated by RBI and the amount mobilised through issuance of CP is within the quantum indicated by CRA for the specified rating or as approved by its Board of Directors, whichever is lower.
+b.
+The IPA shall certify that it has a valid agreement with the issuer Annex 1 (
+Schedule III
+).
+c.
+The IPA shall verify that all the documents submitted by the issuer, viz., copy of board resolution, signatures of authorised executants (when CP is issued in physical form) are in order and shall issue a certificate to this effect.
+d.
+Certified copies of original documents, verified by the IPA, shall be held in the custody of IPA.
+e.
+All scheduled banks/FIs, acting as IPAs, shall report the details of issuance of CP on the Online Returns Filing System (ORFS) module of the RBI within two days from the date of issuance of the CP.
+f.
+IPAs, shall immediately report, on occurrence, full particulars of defaults in repayment of CP to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Central Office, Fort, Mumbai-400001 (
+email
+) in the format as given at Annex-I (
+Schedule IV
+) of these guidelines
+g.
+IPAs shall also report all instances of buyback of CPs undertaken by the issuer to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Central Office, Fort, Mumbai–400001 (
+email
+) in the format as given at Annex I (
+Schedule V
+) of these guidelines.
+III.
+CRA
+a.
+CRAs shall abide by the Code of Conduct prescribed by the SEBI for CRAs for undertaking rating of capital market instruments, which shall be applicable for rating CPs.
+b.
+The CRAs shall have the discretion to determine the validity period of the rating depending upon their perception about the strength of the issuer; and they shall, at the time of rating, clearly indicate the date when the rating is due for review.
+c.
+The CRAs shall closely monitor the rating assigned to issuers vis-a-vis their track record at regular intervals and shall make their revision in the ratings public through their publications and website.
+Underwriting / Co acceptance of CP issue
+No issuer shall have the issue of CP underwritten or co-accepted.
+Options (call / put) are not permitted on CP.
+Documentation Procedures
+a.
+Standardised procedures and documentation for CPs are prescribed in consultation with Fixed Income Money Market and Derivatives Association of India (FIMMDA) in consonance with international best practices.
+b.
+Issuers / IPAs shall follow the operational guidelines issued by FIMMDA, from time to time, with the approval of RBI.
+2.5 Inter Corporate Deposits (ICDs)
+The RBI has not prescribed any norms for raising of resources through ICDs by the FIs. However, the FIs which are structured as companies under the Companies Act 1956, are eligible to issue ICDs as permissible under the Act. The amount of resources raised through ICDs should be within the overall umbrella limit fixed by the RBI. Thus, the issue of ICDs together with other instruments viz. term money, term deposits, CDs and CPs should not exceed 100 per cent of its net owned funds as per the latest audited balance sheet.
+3. Norms regarding Issue of Bonds / Debentures
+3.1 FIs are not required to seek issue-wise prior approval/registration from the RBI for raising resources by way of issue of bonds, whether by public issue or through private placement, subject to the fulfillment of the following conditions :
+i) The minimum maturity of the bond should be 3 years;
+ii) In respect of bonds having call / put or both options, the same should not be exercisable before the expiry of one year from the date of issue of bonds;
+iii) No 'Exit' option on the bonds should be offered before the end of one year, from the date of issue.
+3.2 The outstanding of total resources mobilised at any point of time by an FI, including the funds mobilised under the 'umbrella limit', as prescribed by the Reserve Bank, should not exceed 10 times its net owned funds as per its latest audited balance sheet or as approved by RBI for individual financial institutions.
+3.3 The limit fixed for raising resources is only an enabling provision. FIs are advised to arrive at their requirements of resources along with the maturity structure and the interest rate offered thereon on a realistic basis, derived, inter alia, from a sound ALM / Risk Management system.
+3.4 In case of floating rate bonds, FIs should seek prior approval from the Reserve Bank, in regard to 'reference rate' selected and the methods of floating rate determination. The same is not required for subsequent individual issues so long as the underlying reference rate and method of floating rate determination remain unchanged.
+3.5 Fls should take note to comply with the prudential requirements of other regulatory authorities such as SEBI, etc.
+3.6 Fls are required to furnish monthly statements to the RBI in the specified formats given at
+Annex 2
+and
+Annex 3
+. The statements relating to a month are to be submitted on or before the 10th day of the following month. The details in respect of public issue of bonds are to be incorporated in the statement for the month during which the respective issue is closed.
+3.7 The statements are to be sent to the Chief General Manager, Financial Institutions Division, Department of Banking Regulation, Reserve Bank of India, Central Office, 13th Floor, COB, Shahid Bhagat Singh Marg, Mumbai - 400 001; Fax No. 22701238.
+Annex 1
+Schedule I
+(Para 2.3)
+Proforma of Certificates of Deposit (CDs)
+To be stamped as per the applicable rate in force in the
+State in which it is to be issued
+(Name of the Issuing Company / Institutions)
+Serial No.
+Issued at :______________________ (Place)
+Date of issue :______________________
+Date of Maturity: ___________________________ without days of grace.
+(If such date happens to fall on a holiday, payment shall be made on the immediate preceding working day)
+For value received ___________________________________hereby (Name of the issuing Company / Institution) hereby Promises to pay ________________________________ or order on the (Name of the Investor) maturity date as specified above the sum of Rs. ___________________ (in words) upon presentation and surrender of this Certificates of Deposit to _______________________________________________ (Name of the issuing and paying Agent)
+For and on behalf of ____________________ (Name of the issuing Company/Institution)
+Authorised Signatory / Signatories
+Authorised Signatory
+All endorsements upon this Certificates of Deposits must be clean and distinct. Each endorsement should be written within the space allotted.
+Pay to_____________________________________(Name of Transferee) or order the amount within named.
+For and on behalf of _______________________________(Name of the Transferor)
+1.           “
+2.           “
+3.           “
+4.           “
+Schedule II
+(Para 2.4)
+Proforma of Commercial Paper (CP)
+To be stamped as per the applicable rate in force in the
+S tate in which it is to be issued
+(Name of the Issuing Company / Institutions)
+Serial No.
+Issued at :______________________ (Place)
+Date of issue :______________________
+Date of Maturity: ___________________________ without days of grace.
+(If such date happens to fall on a holiday, payment shall be made on the immediate preceding working day)
+For value received ___________________________________hereby (Name of the issuing Company / Institution) hereby Promises to pay ________________________________ or order on the (Name of the Investor) maturity date as specified above the sum of Rs. ___________________ (in words) upon presentation and surrender of this Commercial Paper to _______________________________________________ (Name of the issuing and paying Agent)
+For and on behalf of ____________________ (Name of the issuing Company/Institution)
+Authorised Signatory / Signatories
+Authorised Signatory
+All endorsements upon this commercial paper must be clean and distinct. Each endorsement should be written within the space allotted.
+Pay to_____________________________________(Name of Transferee) or order the amount within named.
+For and on behalf of _______________________________(Name of the Transferor)
+1.           “
+2.           “
+3.           “
+4.           “
+Schedule III
+(Para 2.4)
+IPA Certificate
+We have a valid IPA agreement with the ___________ (Name of Issuing Company / Institution)
+2. We have verified the documents viz., board resolution and certificate issued by Credit Rating Agency submitted by _____________________ (Name of the Issuing Company / Institution) and certify that the documents are in order. Certified copies of original documents are held in our custody.
+3. * We also hereby certify that the signatures of the executants of the attached Commercial Paper bearing Sr. No. ______________ dated _______________ for Rs._______________ (Rupees ____________________________________) (in words) tally with the specimen signatures filed by _______________________________ ( Name of the issuing Company / Institution).
+(Authorised Signatory / Signatories)
+(Name and Address of Issuing and Paying Agent)
+Place :
+Date :
+*(Applicable to Commercial Paper in Physical Form/Strike out if not applicable)
+Schedule IV
+(Para 2.4)
+Details of Defaults on Repayment of CP
+Name of the issuer
+Date of issue of CP
+Amount
+(Rs. In Cr.)
+Due date of repayment
+Initial rating
+Latest Rating
+Whether the CP issue enjoyed a standby assistance/credit backstop facility/guarantee
+If so,the name of the entity providing the facility indicated at Col.(7)
+Whether the facility at Col(7) has been honoured and payment made
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+[Authorized Signatory / Signatories]
+Schedule V
+(Para 2.4)
+Reporting of buyback of CPs
+Date of Trade
+Issuer
+ISIN
+Date of Issue
+Date of Maturity
+Amount
+(Rs. In Crore)
+#Nature of Buyback
+#Indicate whether the CPs have been extinguished by the Issuer
+[Authorized Signatory /Signatories]
+Annex – 2
+(Para 3.3.6)
+Monthly Consolidated Return on Aggregate Resources Raised
+1. Reporting Institution                                                       :
+2. Report for the month ended                                            :
+3. Date of Report                                                               :
+4. Overall Borrowing Limit(10 times of NOF)                         :   Rs                  Crore
+5. NOF as per the Audited Balance Sheet dated ______       :   Rs_________Crore
+6. Amount of Borrowing outstanding at the end of      :
+Month_________                                                    :  Rs__________Crore
+Resources raised during the month ..............
+(Rs. Crore)
+A.
+‘Instruments under ‘Umbrella Limit’
+Amount
+1.
+Term Deposits
+2.
+Term Money Borrowings
+3.
+Certificate of Deposits [ CDs]
+4.
+Inter- Corporate Deposits [ICDs]
+5.
+Commercial Paper
+Total of A ( 1 to 5)
+B.
+Bonds
+Total (A+B)
+Annexure - 3
+(Para 3.3.6)
+Monthly Return on Resources Raised through Bonds
+Total amount raised during the month of ___________ Rs ___________ crore
+Cumulative amount raised during the year (April-March) Rs.___________ crore
+Date of Issue of Bonds #
+Amount raised During the Month @
+Maturity
+Options
+(call/put/
+both)
+Interest
+Rate (% per annum)
+Annualised YTM
+Offered
+Annualised YTM on GoI Securities (of Equal Residual Maturity at the Time of Issue of Bond)
+Yield (Basis Points)
+Above GOI Securities
+A.
+Public Issue of Bonds
+Type of Instrument
+(i)
+(ii)
+(iii)
+Total (A)
+B.
+Private Placement of Bonds
+Type of Instrument
+(i)
+(ii)
+(iii)
+(iv)
+Bonds on tap ,if any(mention period of tap)
+Total(B)
+Grand Total (A+B)
+@ Only the issue that has already been completed to be included.
+# The date of issue open for public subscription /private placement to be mentioned
+Annex - 4
+List of Circulars Consolidated in the Master Circular
+No.
+Circular No.
+Date
+Subject
+1.
+FIC No. 817/01.02.00/95-96
+27.05.1996
+Short Term Borrowings by FIs.
+2.
+CPC.2774/07.01.279 (FIs)/96-97
+03.05.1997
+Mobilisation of Resources by Financial Institutions.
+3.
+DBS.FID.No.28/01.02.00/97-98
+26.03.1998
+Raising of Resources by FIs - Issue of Bonds.
+4.
+DBS.FID.No.30/01.02.00/98-99
+09.07.1998
+Standing Committee on Issue of Bonds by AIFIs-Constitution of.
+5.
+DBS.FID.No.33/09.01.02/98-99
+14.11.1998
+Raising of Resources by FIs-Issue of Bonds Through Private Placement.
+6.
+DBS.FID.No.C-21/09.01.02/99-2000
+21.06.2000
+Raising of Resources by all-India FIs.
+7.
+DBS.FID.No.C-6/09.01.02/2000-01
+10.10.2000
+Development in the Money Market-Rating of Term deposits.
+8.
+DBS.FID.No.C-12/01.02.00/2000-01
+05.12.2000
+Raising of Resources by all-India FIs-Monthly Returns.
+9.
+IECD.2/08.15.01/2001-02
+23.07.2001
+Guidelines for Issue of Commercial Paper.
+10.
+DBS.FID.No.C-4/01.02.00/2001-02
+28.08.2001
+Holding of Instruments in dematerialised form.
+11.
+DBS.FID.No.C-15/01.02.00/2001-02
+29.04.2002
+Issue of Certificates of Deposit in Dematerialised Form.
+12.
+DBS.FID.No.C-18/01.02.00/2000-01
+20.06.2002
+Certificates of Deposits-Minimum and Multiple Requirements.
+13.
+DBS.FID.No.C-9/01.02.00/2002-03
+25.11.2002
+Mid-term Review of Monetary and Credit Policy 2002-03-Certificates of Deposit (CDs).
+14.
+DBS.FID No.C-6/01.02.00/2003-2004
+06.08.2003
+Guidelines for issuance of Commercial Paper (CP).
+15.
+MPD.245/ 07.01.279/2003-2004
+05.01.2004
+Term Deposits : Premature Withdrawal.
+16.
+MPD.254/07.01.279/2004-05
+12.07.2004
+Master Circular on Guidelines for Issue of Certificates of Deposits.
+17.
+MPD.258/07.01.279/2004-05
+26.10.2004
+Guidelines for Issue of Commercial Papers.
+18.
+DBOD.FID.FIC.1/01.02.00/2006-07
+01.07.2006
+Master Circular - Resource Raising Norms for Financial Institutions.
+19.
+DBOD.FID.FIC.1/01.02.00/2007-08
+02.07.2007
+Master Circular - Resource Raising Norms for Financial Institutions.
+20.
+DBOD.FID.FIC.1/01.02.00/2008-09
+01.07.2008
+Master Circular - Resource Raising Norms for Financial Institutions
+21.
+DBOD.FID.8909/09.01.02.00/2008-09
+08.12.2008
+Resource Raising Norms for Financial Institutions
+22.
+DBOD.FID.8911/09.01.02.00/2008-09
+08.12.2008
+Resource Raising Norms for Financial Institutions
+23.
+DBOD.FID.8912/09.01.02.00/2008-09
+08.12.2008
+Resource Raising Norms for Financial Institutions
+24.
+DBOD.FID.9045/09.01.02.00/2008-09
+08.12.2008
+Resource Raising Norms for Financial Institutions
+25.
+DBOD.FID.11379/09.01.02.00/2008-09
+15.01.2009
+Relaxation in the Umbrella Limit
+26.
+DBOD.FID.FIC.1/ 01.02.00/2009-10
+01.07.2009
+Master Circular - Resource Raising Norms for Financial Institutions
+27.
+DBOD.FID.11357/09. 01.02/2009-10
+01.02.2010
+Resource Raising Norms for Financial Institutions
+28.
+DBOD.FID.11358/09. 01.02/2009-10
+01.02.2010
+Resource Raising Norms for Financial Institutions
+29.
+DBOD.FID.11359/09. 01.02/2009-10
+01.02.2010
+Resource Raising Norms for Financial Institutions
+30.
+DBOD.FID.No.5539/03.27.29/2010-11
+05.10.2010
+Borrowings Limit - request for enhancement by NHB
+31.
+DBOD.FID.No.13940/03.27.29/2010-11
+08.03.2011
+Relaxation in the ceiling prescribed for aggregate outstanding resources
+32.
+DBOD.FID.No.19202/03.27.12/2010-11
+13.06.2011
+Resource Raising under the "Umbrella Limit"
+33.
+DBOD.FID.No.19204/03.01.06/2010-11
+13.06.2011
+Resource Raising under the "Umbrella Limit"
+34.
+DBOD.FID.19205/03.01.11/2010-11
+13.06.2011
+Resource Raising under the "Umbrella Limit"
+35.
+IDMD.PCD.1284/14.01.02/2012-13
+16.10.2012
+Notification : Reserve Bank Commercial Paper Directions, 2012

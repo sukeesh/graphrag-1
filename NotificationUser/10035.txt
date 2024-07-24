@@ -1,0 +1,67 @@
+(100 kb)
+Partial Credit Enhancement to Corporate Bonds
+RBI/2015-16/183
+DBR.BP.BC.No. 40/21.04.142/2015-16
+September 24, 2015
+All Scheduled Commercial Banks
+(excluding RRBs)
+Partial Credit Enhancement to Corporate Bonds
+Please refer to the draft guidelines proposing to allow banks to offer partial credit enhancement (PCE) to corporate bonds, issued on
+May 20, 2014
+for comments/ feedback.
+2. Taking into account the feedback received, and with a view to encouraging corporates to avail of bond financing, it has been decided to allow banks to provide PCE to bonds issued by corporates /special purpose vehicles (SPVs) for funding all types of projects, subject to the guidelines in the
+Annex
+.
+3. While the draft guidelines included provisions for allowing PCE as a funded loan facility also, it has been decided that, to begin with, banks will be allowed to offer PCE only in the form of a non-funded irrevocable contingent line of credit. A view on allowing the PCE as a funded loan facility will be taken in due course after reviewing the implementation and performance of the contingent PCE offered by banks.
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager
+Annex
+Guidelines on Partial Credit Enhancement to corporate bonds by banks
+I. Introduction
+1. The credit needs of the infrastructure sector in India are huge. The bond market should be the natural choice for corporates to raise resources to meet their credit needs for project development. However, the Indian corporate bond market is at a nascent stage of development, resulting in excessive pressure on the banking system to fund the credit needs for project development, including the infrastructure sector. Due to greater asset-liability mismatch in infrastructure and project financing, banks are exposed to liquidity risk. The insurance and provident/pension funds, whose liabilities are long term, may be better suited to finance such projects.
+2. The regulatory requirement for insurance and provident/pension funds is to invest in bonds of high or relatively high credit rating. However, bonds issued for funding projects by corporates/SPVs do not necessarily get high ratings from the Credit Rating Agencies (CRAs), because of the inherent risk in the initial stages of project implementation.
+3. With a view to enabling long term providers of funds such as insurance and provident/pension funds, as also other investors, to invest in the bonds issued for funding projects by corporates/SPVs, RBI, in its Second Quarter Review of Monetary Policy 2013-14 announced on October 29, 2013, proposed to allow banks to offer Partial Credit Enhancement (PCE) to corporate bonds.
+4. The objective behind allowing banks to extend PCE is to enhance the credit rating of the bonds issued so as to enable corporates to access the funds from the bond market on better terms.
+5. It has been decided that, to begin with, banks can provide PCE to a project as a non-funded subordinated facility in the form of an irrevocable contingent line of credit which will be drawn in case of shortfall in cash flows for servicing the bonds and thereby improve the credit rating of the bond issue.
+II. Salient features of the PCE facility
+6. The aggregate PCE provided by all banks for a given bond issue shall be limited to 20 per cent of the bond issue size.
+7. The PCE facility shall be provided at the time of the bond issue and will be irrevocable.
+8. Banks may offer PCE only in respect of bonds whose pre-enhanced rating is
+BBB minus or better
+.
+9. Banks cannot provide PCE by way of guarantee.
+10. Banks providing PCE to bonds issued by a corporate/SPV will not be eligible to invest in those bonds. They can, however, provide other need based credit facilities (funded and/or non-funded) to the corporate/SPV.
+11. So long as the exposure of a bank to a project loan is classified as standard and the borrower is not in any financial distress (see the Non-Exhaustive Indicative List of Signs of Financial Difficulty annexed to
+DBR circular No.BP.BC.85/21.04.048/2014-15 dated April 6, 2015
+), providing a commercially priced PCE to enhance the rating of a bond issue, whose proceeds replace, in whole or in part, the bank's project loan, would not amount to restructuring.
+12. Banks should have a Board approved policy on PCE, covering issues such as quantum of PCE, underwriting standards, assessment of risk, pricing, setting limits, etc.
+13. The documentation for the facility must clearly define the circumstances under which the facility would be drawn upon.
+14. The contingent PCE will be available only for servicing the bond and not for any other purpose (such as funding acquisition of additional assets by the corporate, meeting part of the project cost or meeting recurring expenses of the corporate or servicing other lenders/ creditors to the project etc.), irrespective of the seniority of claims of other creditors in relation to the bond holders. A clear agreement documenting all aspects of this arrangement will need to be signed between the promoter (bond issuer), the PCE providing bank/s and all other lenders to the project. The agreement to this effect is to be in the nature of a legally binding contract. The operational details in this regard, including timing etc., of drawal, are to be decided by the PCE providing banks as per the Board approved policy.
+15. In case the PCE facility is partly drawn and interest accrues on the same, the unpaid accrued interest will be excluded from the calculation of the remaining amount available for drawing.
+16. The contingent facility may, at the discretion of the PCE providing bank, be made available as a revolving facility.
+17. In the event of the project failure / bankruptcy, in terms of repayment priority, the PCE must rank below the claims of the enhanced bond holders.
+III. Balance sheet treatment, capital requirements, exposure and asset classification norms for exposures arising on account of providing PCE
+18. PCE facilities to the extent drawn should be treated as an advance in the balance sheet. Undrawn facilities would be an off-balance sheet item and reported under ‘Contingent Liability – Others’.
+19. The aggregate capital required to be maintained by the banks providing contingent PCE for a given bond issue for their exposure on account of PCE provided will be computed, as if the entire bond issue was held by banks, as the difference between (a) the capital required on the entire bond amount, corresponding to its pre-credit enhanced rating and (b) the capital required on the bond amount corresponding to its post-credit enhanced rating, as per the risk weights applicable to claims on corporates in the Master Circular – Basel III Capital Regulations (as updated from time to time).
+To illustrate, assume that the total bond size is Rs.100 for which PCE to the extent of Rs.20 is provided by a bank. The pre-enhanced rating of the bond is BBB which gets enhanced to AA with the PCE. In this scenario –
+At the pre-enhanced rating of BBB (100% risk weight), the capital requirement on the total bond size (Rs.100) is Rs.9.00.
+The capital requirement for the bond (Rs.100) at the enhanced rating (AA, i.e., 30% risk weight)) would be Rs.2.70.
+As such, the PCE provider will be required to hold the difference in capital i.e., Rs.6.30 (Rs.9.00 – Rs.2.70).
+20. The above illustration is based on the assumption that the entire quantum of eligible PCE (20% of the bond issue size) is provided by a single bank. Where the PCE to a bond issue is provided by more than one bank within the overall limit indicated in para 6 of this circular, each bank will maintain capital as illustrated above in proportion to the quantum of PCE provided by it.
+21. It is possible that the credit rating of the bond changes during the lifetime of the bond, necessitating a change in the capital requirement. Therefore, the rating of the bond must be monitored regularly and capital requirement adjusted in the following manner:
+(a) For this purpose, the capital calculation must take into account, at all times, the difference in rating notches between the pre-enhanced and enhanced rating as arrived at the time of bond issue. Illustratively, if, at the time of the bond issue, the difference between the pre-enhanced and the enhanced rating was four notches (taking into account the rating qualifiers) and the enhanced rating subsequently undergoes a change, the notional reference rating will be arrived at by deducting four notches from the changed rating, The absolute value of the difference between the capital requirement corresponding to the notional reference rating thus arrived at, and the current / revised rating of the bond will give the aggregate capital required to be maintained by the PCE providing banks, subject to a floor, i.e., the capital requirement on the PCE at the time of issuance of the PCE enhanced bonds.
+(b) As long as the bond outstanding amount exceeds the aggregate PCE (drawn and contingent non- funded) offered, the capital held should not be less than the amount required to be held at the time of issuance of the PCE enhanced bond. However, once the bond outstanding has amortised below the aggregate PCE amount, the capital can be computed taking into account the outstanding bond amount.
+(c) In situations where the notional pre-enhanced rating of the bond, as computed according to paragraph 21(a), slips below investment grade (BBB minus), capital must be maintained as per risk weight of 1250% on the amount of PCE provided.
+22. In all circumstances, the capital computed for PCE as mentioned above and required to be maintained by the PCE provider, will be capped by the total amount of credit enhancement provided.
+23. In a waterfall mechanism, Credit Enhancement (CE) gets drawn only in a contingent situation of cash flow shortfall for servicing a debt / bond etc., and not in the normal course of business. Hence, such an event is indicative of financial distress of the project. Keeping this aspect in view, a drawn tranche of the contingent PCE facility will be required to be repaid within 30 days from the date of its drawal (due date). The facility will be treated as NPA if it remains outstanding for 90 days or more from the due date and provided for as per the usual asset classification and provisioning norms. In that event, the bank’s other facilities to the borrower will also be classified as NPA as per extant guidelines.
+24. The PCE providing bank will observe the following exposure limits:
+(a) PCE exposure to a single counterparty or group of counterparties shall not exceed 5 per cent of the bank’s Single Borrower / Group Borrower limit to the counterparty to whom the PCE is provided,
+(b) The aggregate PCE exposure of a bank shall not exceed 20 per cent of its Tier 1 capital.
+IV. Other Aspects
+25. The effect of the PCE on the bond rating must be disclosed in the bond offer document i.e., the rating of the bond without and with the PCE should be disclosed.
+26. There would be no prohibition in providing the PCE facility to bonds issued for funding projects by corporates/SPVs even if the latter are not the regular constituent/s of the PCE providing bank. As such, the prohibition in paragraph 2.7.1 of the Master Circular on Guarantees and Co-acceptances dated July 1, 2015, on banks extending non-fund based facilities or additional/ad-hoc credit facilities to parties who are not their regular constituents, will not apply in this case.
+27. Banks should ensure that the project assets, created out of the bond issue for which PCE has been provided by them, and the cash flows from the project are ring fenced through an escrow account mechanism administered under a bond trustee arrangement. The manner in which security interest in the project assets would be shared by the lenders to the project, bond holders and banks providing the PCE and the manner in which the project cash flows would be shared for servicing loans, if any, and the bonds and PCE, should be decided and agreed upon before the issue of bonds and should be properly documented.
+28. The project should have a robust and viable financial structure even before the credit enhancement is taken into account. Nevertheless, while providing PCE, banks should exercise necessary due diligence and risk appraisal, including making their own internal credit analysis/rating and should not entirely rely on the ratings of external agencies. Banks should strengthen their internal rating systems which should also include building up of a system of regular (quarterly or half-yearly) tracking of the financial position of the issuer with a view to ensuring continuous monitoring of the rating migration of the issuers/issues.
+29. Banks must honour the full PCE commitment made ab-initio in respect of a bond issue irrespective of the asset classification of the concerned borrower’s credit facilities.
+30. All extant regulatory prescriptions for credit and investment exposures by banks, unless specified otherwise in this circular, will continue to apply.

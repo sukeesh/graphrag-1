@@ -1,0 +1,43 @@
+(85 kb)
+Import of Goods: Import Data Processing and Monitoring System (IDPMS)
+RBI/2015-16/385
+A.P. (DIR Series) Circular No.65
+April 28, 2016
+To
+All Category-I Authorised Dealer Banks
+Madam / Sir,
+Import of Goods: Import Data Processing and Monitoring System (IDPMS)
+Attention of Authorised Dealers is invited to Section 5 of the Foreign Exchange Management Act 1999 (42 of 1999), read with Government of India Notification No. G.S.R. 381(E) dated May 3, 2000 viz. Foreign Exchange Management (Current Account Transaction) Rules, 2000 on import of goods read with
+A.P. (DIR Series) Circular No. 9 dated August 24, 2000
+which provides the procedure, mode/manner of payment for imports and submission of related returns.
+2. Reserve Bank of India had constituted a Working Group (Chairman: Shri A. K. Pandey, CGM, FED) comprising of representatives from Customs, Directorate General of Foreign Trade (DGFT), Special Economic Zone (SEZ), Foreign Exchange Dealers Association of India (FEDAI) and select Authorised Dealer banks (AD banks), to suggest putting in place a comprehensive IT- based system to facilitate efficient processing of all import transactions and effective monitoring thereof. The Working Group had recommended development of a robust and effective IT- based system “Import Data Processing and Monitoring System “(IDPMS) on the lines of “Export Data Processing and Monitoring System” (EDPMS) in consultation with the Customs authorities and other stakeholders.
+3. To track the import transactions through banking system, Customs will modify the Bill of Entry format to display the AD Code of bank concerned, as reported by the importers. Primary data on import transactions from Customs and SEZ will first flow to the RBI secured server and thereupon depending on the AD code shall be shared with the respective banks for taking the transactions forward. The AD bank shall enter every subsequent activity, viz. document submission, outward remittance data, etc. in IDPMS so as to update the RBI database on real time basis. It is therefore, necessary that AD banks upload and download data on daily basis.
+4. For non EDI (manual) Customs ports, till they are upgraded to EDI (computerised) ports, nodal branch of AD Category – I banks will upload Bills of Entry (BoE) data based on original BoE with stamp/signature of the Customs as submitted by importer. Under no circumstances, AD category – I banks will process the transactions till the concerned BoE is reflected in the IDPMS. Customs will share a copy of manual BoE with respective Regional Office of RBI for information as they presently do for shipping bills in the case of exports.
+5. The date of operationalization of IDPMS will be notified shortly. All import remittances outstanding as on the notified date shall have to be uploaded in IDPMS. Further, to facilitate smooth processing of import transactions and closure of BoE and advance remittances in IDPMS, the following guidelines will be followed by the AD category – I banks:
+6. Write off of import bills
+i) AD Category I banks can consider closure of bills in IDPMS that involve write off to the extent of 5% of invoice value in cases where the amount declared in BoE varies from the actual remittance marginally due to discounts, fluctuation in exchange rates, change in the amount of freight, insurance, etc. Cases, where write off is on account of quality issues; short shipment or destruction of goods by the port / Customs / health authorities, may be closed with remarks subject to submission of satisfactory documentation for the same, irrespective of the amount involved.
+ii) While allowing write off, AD Category - I banks must ensure that:
+The case is not the subject matter of any pending civil or criminal suit;
+The importer has not come to the adverse notice of the Enforcement Directorate or the Central Bureau of Investigation or any such other law enforcement agency; and
+There is a system in place under which internal inspectors or auditors of the AD category – I banks (including external auditors appointed by authorised dealers) should carry out random sample check / percentage check of write-off of import bills; and
+iii) Cases not covered by the above instructions / beyond the above limits, may be referred to the concerned Regional Office of Reserve Bank of India.
+iv) The above guidelines are only meant to facilitate closure of bills in IDPMS and do not in any way absolve the importer from remitting / receiving the amount in case circumstances change.
+7. Extension of Time
+i) AD Category – I banks can consider granting extension of time for settlement of import dues up to a period of six months at a time (maximum up to the period of three years) irrespective of the invoice value for delays on account of disputes about quantity or quality or non-fulfilment of terms of contract; financial difficulties and cases where importer has filed suit against the seller. In cases where sector specific guidelines have been issued by Reserve Bank of India for extension of time (i.e. rough, cut and polished diamonds), the same will be applicable.
+ii) While granting extension of time, AD Category –I banks must ensure that:
+The import transactions covered by the invoices are not under investigation by Directorate of Enforcement / Central Bureau of Investigation or other investigating agencies;
+While considering extension beyond one year from the date of remittance, the total outstanding of the importer does not exceed USD one million or 10 per cent of the average import remittances during the preceding two financial years, whichever is lower; and
+Where extension of time has been granted by the AD Category – I banks, the date up to which extension has been granted may be indicated in the ‘Remarks’ column.
+iii) Cases not covered by the above instructions / beyond the above limits, may be referred to the concerned Regional Office of Reserve Bank of India.
+8. Follow-up for Evidence of Import
+i) As per extant guidelines, AD Category - I banks have to submit a statement on half-yearly basis as at the end of June & December of every year, in form BEF furnishing details of import transactions, exceeding USD 100,000 in respect of which importers have defaulted in submission of appropriate document evidencing import within six months from the date of remittance using the online eXtensible Business Reporting Language (XBRL) system on bank-wide basis to the respective Regional Offices of the RBI.
+ii) On operationalization of IDPMS, all outstanding import remittances, irrespective of the amount involved, will be uploaded into the system and submission of a separate BEF statement would be discontinued from a date to be notified separately.
+iii) AD Category – I banks are required to follow up submission of evidence of import and remittance within stipulated time irrespective of the amount involved.
+9. AD Category – I banks shall put in place a system to ensure that all import transactions and related remittances are processed only through IDPMS from the date to be notified shortly. The AD category – I banks should, therefore be in readiness mode for switching to the proposed IT based system. The requisite message formats and technical specifications have been shared with AD category –I banks via e-mail. These have also been placed on website (
+https://edpms.rbi.org.in
+).
+10. Authorised Dealers may bring the contents of this circular to the notice of their constituents and customers concerned.
+11. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(A. K. Pandey)
+Chief General Manager

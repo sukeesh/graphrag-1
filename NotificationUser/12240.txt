@@ -1,0 +1,80 @@
+(226 kb)
+Regulations Review Authority (RRA 2.0) – Interim Recommendations – Discontinuation/Merger/Online Submission of Returns
+RBI/2021-22/168
+DoR.RRA.88/01.01.101/2021-22
+February 18, 2022
+All Scheduled Commercial Banks
+All Regional Rural Banks
+All Payments Banks
+All Small Finance Banks
+All Local Area Banks
+All Primary Urban Cooperative Banks
+All State Cooperative Banks
+All District Central Cooperative Banks
+[As applicable]
+Madam / Dear Sir,
+Regulations Review Authority (RRA 2.0) – Interim Recommendations – Discontinuation/Merger/Online Submission of Returns
+Please refer to the
+Press Release dated February 18, 2022
+issued on the captioned subject.
+2. As part of the implementation of the interim recommendations of the RRA 2.0, it is proposed to convert the paper based/ e-mail-based returns listed in the
+Annex 1
+to online filing. The exact date of online filing of the returns listed in the
+Annex 1
+would be notified in due course. Till such time, the returns may continue to be submitted as hitherto.
+3. Further, banks are advised to discontinue submission of returns as mentioned in
+Annex 2
+.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager-in-Charge
+Encl: As above
+Annex – 1
+List of Returns to be converted into Online submission
+S.No
+Return Name
+Return Description
+Reporting Entities
+1
+Report on issue of Subordinated Debt, raising of Upper Tier II Capital, Perpetual Debts and Equity Capital (Qualified Institutional Placements-QIP, Preferential issue to Promoters, GDR issue) together with copy of document
+Report on issue of Subordinated Debt, raising of Upper Tier II Capital, Perpetual Debts and Equity Capital (Qualified Institutional Placements-QIP, Preferential issue to Promoters, GDR issue) together with copy of document
+All Commercial Banks (Excluding Local Area Banks and RRBs)
+2
+Payment of dividend
+Details of dividend declared during the financial year and other details as per the circular
+SCBs (excluding RRBs)
+3
+Form II
+Monthly return claiming refund from the DEA Fund (Original hardcopy to be submitted by 15th of the succeeding month to which the claim pertains)
+SCBs (including RRBs), Local Area Banks, UCBs, StCBs, DCCBs, SFBs and PBs
+4
+Form III
+Certificate of reconciliation of balances for the Half Year ended June/December to be submitted by banks not later than July 31 and January 31
+SCBs (including RRBs), Local Area Banks, UCBs, StCBs, DCCBs, SFBs and PBs
+5
+Annual Certificate
+A yearly return certified by statutory auditor and to be submitted by banks in original within one month from the date of completion of their annual audit
+SCBs (including RRBs), Local Area Banks, UCBs, StCBs, DCCBs, SFBs and PBs
+6
+Certificate regarding continuance of the “fit and proper” status of all major shareholder
+Certificate regarding continuance of the “fit and proper” status of all major shareholders. In case any major shareholder is assessed to be not “fit and proper”, the concerned bank shall report the same immediately in Form D specified in the Schedule to extant Master Directions
+All Private Sector Banks including Local Area Banks
+Annex – 2
+List of Returns – Discontinuation of submission to DoR
+S.No
+Return Name
+Return Description
+Reporting Entities
+1
+Leverage Ratio reporting
+(
+Master Circular – Basel III Capital Regulations - DBR.No.BP.BC.1/21.06.201/2015-16) dated July 1, 2015
+)
+Para 16.5.2 of Master Circular on ‘Basel III Capital Regulations’ require banks to report their leverage ratio to the RBI (DoR and DoS) on a quarterly basis.@
+All Scheduled Commercial Banks (Excluding Local Area Banks and Regional Rural Banks)
+@ Beginning from quarter ended March 2022, banks are not required to report the Leverage Ratio to DoR. As hitherto, banks shall continue to report the Leverage Ratio to DoS.
+2.
+Table 34 (Distribution of offices population/group wise)
+Table 34 (Distribution of offices population/group wise) is reported to Regional Offices of RBI and DSIM (erstwhile DESACS) #
+State Cooperative Banks (StCBs), District Central Cooperative Banks (DCCBs)
+# Beginning from year ended March 2022, banks are not required to submit this return to Regional Offices of RBI. As hitherto, banks shall continue to report the data to DSIM through Central Information System for Banking Infrastructure (CISBI) portal.

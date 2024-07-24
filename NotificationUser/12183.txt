@@ -1,0 +1,128 @@
+(338 kb)
+Gold Monetization Scheme (GMS), 2015
+RBI/2021-22/115
+DoR.AUT.REC.62/23.67.001/2021-22
+October 28, 2021
+All Scheduled Commercial Banks
+(excluding Regional Rural Banks)
+Dear Sir/Madam
+Gold Monetization Scheme (GMS), 2015
+In exercise of the powers conferred on the Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949, the RBI makes the following amendments in the Reserve Bank of India (Gold Monetization Scheme, 2015)
+Master Direction No.DBR.IBD.No.45/23.67.003/2015-16 dated October 22, 2015
+, with immediate effect.
+2. A new sub-paragraph 2.2.2 (f) has been inserted to read as follows:
+2.2.2 (f) Interest on premature closure of the deposit in case of death of depositor before and after lock-in period
+The amount payable to the depositor shall be calculated as a sum of
+(A) and (B)
+, as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold for the period of deposit at the applicable rate.
+(i) Before lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 6 months
+>6 months and <1 year
+≥1 year and <2 years
+≥2 years and <3 years
+MTGD
+3 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.25%
+Applicable rate for MTGD at the time of deposit minus 1.00%
+Applicable rate for MTGD at the time of deposit minus 0.75%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 1 year
+>1 year and <2 years
+≥2 years and <3 years
+≥3 years and <5 years
+LTGD
+5 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.00%
+Applicable rate for MTGD at the time of deposit minus 0.75%
+Applicable rate for MTGD at the time of deposit minus 0.25%
+(ii) After lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+>3 years and < 5 years
+≥5 years and < 7 years
+MTGD
+3 years
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Applicable rate for MTGD at the time of deposit minus 0.125%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+>5 years and < 7 years
+≥ 7 years and < 12 years
+≥12 years and < 15 years
+LTGD
+5 years
+Applicable rate for MTGD at the time of deposit minus 0.125%
+Applicable rate for LTGD at the time of deposit minus 0.25%
+Applicable rate for LTGD at the time of deposit minus 0.125%
+3. A new sub-paragraph 2.2.2 (g) has been inserted to read as follows:
+2.2.2 (g) Interest on premature closure of the deposit due to default of loan taken against MLTGD before and after lock-in period
+The amount payable to the depositor shall be calculated as a sum of
+(A) and (B)
+, as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold for the period of deposit at the applicable rate.
+(i) Before lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 6 months
+>6 months and <1 year
+≥1 year and <2 years
+≥2 years and <3 years
+MTGD
+3 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.375%
+Applicable rate for MTGD at the time of deposit minus 1.125%
+Applicable rate for MTGD at the time of deposit minus 0.875%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 1 year
+>1 year and <2 years
+≥2 years and <3 years
+≥3 years and <5 years
+LTGD
+5 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.125%
+Applicable rate for MTGD at the time of deposit minus 0.875%
+Applicable rate for MTGD at the time of deposit minus 0.375%
+(ii) After lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+>3 years and < 5 years
+≥5 years and < 7 years
+MTGD
+3 years
+Applicable rate for MTGD at the time of deposit minus 0.375%
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+>5 years and < 7 years
+≥ 7 years and < 12 years
+≥12 years and < 15 years
+LTGD
+5 years
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Applicable rate for LTGD at the time of deposit minus 0.375%
+Applicable rate for LTGD at the time of deposit minus 0.25%
+4. The Reserve Bank of India
+Master Direction No.DBR.IBD.45/23.67.003/2015-16 dated October 22, 2015
+on Gold Monetization Scheme, 2015 has been updated incorporating the above changes.
+Yours faithfully
+(Prakash Baliarsingh)
+Chief General Manager

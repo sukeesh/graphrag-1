@@ -1,0 +1,37 @@
+(92 kb)
+Compilation of R-Returns: Reporting under FETERS
+RBI/2018-2019/145
+A.P. (DIR Series) Circular No. 25
+March 20, 2019
+To,
+All Authorised Dealers in Foreign Exchange
+Madam / Sir,
+Compilation of R-Returns: Reporting under FETERS
+Attention of Authorised Dealer (Category I) banks is invited to
+A.P. (DIR Series) Circular No.84 dated February 29, 2012
+,
+A.P. (DIR Series) Circular No.15 dated July 28, 2014
+and
+A.P (DIR Series) Circular No.50 dated February 11, 2016
+giving guidelines for compilation of R-Returns for reporting under the Foreign Exchange Transactions Electronic Reporting System (FETERS).
+2. In order to facilitate compilation of estimates of bilateral trade in services, it has been decided to incorporate an additional field for capturing the country code of ultimate exporter/importer in the BoP file-format under FETERS. In case of export of services, bank may use the transaction information available with them to report country-code of the ultimate exporting country, whereas Form-A2 is being revised here for capturing the required country information for import of services.
+3. The details of the additional field is as follows:
+i. BoP file-format under FETERS
+Field
+Format
+Remarks
+Country Code (SWIFT Code) of ultimate exporter/importer
+Char(2)
+To be added at the end of BOP file format
+ii. Form A2 - If payment is for import of services (Purpose Group Nos. 02, 03, 05, 06, 07, 08, 09 10, 11, 15, 16 or 17), please indicate:
+"Name of the country providing ultimate services:................."
+The Form A2 (revised) and the file format (revised) of the BOP file for reporting under FETERS are given in
+Annex I
+and
+Annex II
+, respectively.
+4. The revised format is for reporting of R-Returns on fortnightly basis (15th and end-month) for forex transactions performed w.e.f. April 01, 2019. AD Banks should make the required changes in their work-flows and information systems to capture the required additional data accordingly to comply with the guidelines.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Ajay Kumar Misra)
+Chief General Manager -in -Charge

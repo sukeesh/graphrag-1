@@ -1,0 +1,19 @@
+(190 kb)
+Bucketing of excess SLR and MSF securities in Structural Liquidity Statement
+RBI No 2015-16/109
+DBR.No.BP.BC.26/21.04.098/2015-16
+July 2, 2015
+The Chairmen and Managing Directors /
+Chief Executive Officers of
+All Commercial Banks
+(Excluding RRBs and LABs)
+Dear Sir,
+Bucketing of excess SLR and MSF securities in Structural Liquidity Statement
+Please refer to our
+Circular DBOD.BP.No.56/21.04.098/2012-13 dated November 7, 2012
+on Liquidity Risk Management by Banks in terms of which banks are required to prepare structural liquidity statement (Rupee) as per the format prescribed in Appendix II (Liquidity Return, Part A1). Further, the guidance for slotting the future cash flows of banks in the various time buckets of the structural liquidity statement is furnished in Appendix IVA thereto.
+2. As per the extant instructions, approved securities are required to be slotted under respective maturity buckets, excluding the amount required to be reinvested to maintain SLR corresponding to the DTL profile in various time buckets. Further, securities in the trading book are to be slotted under Day 1, 2-7 days, 8-14 days, 15-28 days and 29-90 days according to defeasance periods.
+3. Whereas securities in excess of mandatory SLR as well as securities eligible for MSF were also required to be slotted as per the above instructions, these securities, in fact, exhibit the liquidity characteristics required for slotting in day-1 bucket in view of their ready access to liquidity by way of repo and MSF (presently upto 2% of NDTL). It has, therefore, been decided that banks can slot their excess SLR securities and MSF eligible securities under the Day-1 bucket.
+Yours faithfully
+(Sudha Damodar)
+Chief General Manager-in-Charge

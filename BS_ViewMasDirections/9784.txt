@@ -1,0 +1,69 @@
+(150 kb)
+Exchange-Traded Interest Rate Futures
+RBI/2014-15/640
+FMRD.DIRD.10/14.03.01/2014-15
+June 12, 2015
+To
+All market participants
+Dear Sir/Madam
+Exchange-Traded Interest Rate Futures
+As announced in the
+sixth Bi-Monthly Monetary Policy Statement, 2014-15
+, it has been decided to introduce cash settled Interest Rate Futures (IRF) on 5-7 year and 13-15 year Government of India Securities.
+2. In this regard, the Reserve Bank of India has issued a Notification FMRD.DIRD.09/ED (CS) - 2015 dated June 12, 2015 amending the Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 5, 2013 to permit introduction of cash settled IRF on 4-8 years and 11-15 years Government of India Securities.
+3. It has also been decided to modify the residual maturity of cash settled 10-year IRF to ‘between 8 years and 11 years’ for both options mentioned at sub-paragraphs 5.2.3.1 and 5.2.3.2 in the said notification dated December 05, 2013.
+4. A copy of the Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2015 which is placed on the RBI Website, is
+enclosed
+.
+Yours faithfully
+(R. Subramanian)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+23rd FLOOR, CENTRAL OFFICE FORT
+MUMBAI 400 001
+Notification No. FMRD.DIRD.09/ED(CS) - 2015 dated June 12, 2015
+Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2015
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby amends the Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 5, 2013 (the Directions).
+1. Short Title and commencement
+1.1 These directions shall be referred to as the Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2015
+1.2 These directions shall, come into force with effect from June 12, 2015.
+2. Eligible Instruments
+In paragraph 3, in sub-paragraph (iii) of the Directions, after the words “Government of India security”, the following words shall be inserted:
+“with residual maturity between 4 and 8 Years, 8 and 11 years and 11 and 15 years”
+3. Necessary conditions of the Interest Rate Futures contract
+In paragraph 5, for sub-paragraph 5.2.3, the following shall be substituted, namely:
+“5.2.3 The
+10-Year cash settled Interest Rate Futures contracts
+shall have two options as under:
+Option A:
+The underlying shall be a coupon bearing Government of India security of face value Rs. 100 and residual maturity between 8 and 11 years on the expiry of futures contract.
+Option B:
+The underlying shall be coupon bearing notional 10-year Government of India security with a face value of Rs. 100. For each contract, there shall be basket of Government of India securities, with residual maturity between 8 and 11 years on the day of expiry of futures contract, with appropriate weight assigned to each security in the basket.
+4. After paragraph 5.2.3 of the Directions, the following shall be added, namely:
+“5.2.4 The
+6-Year cash settled Interest Rate Futures contracts
+shall have two options as under:
+Option A:
+The underlying shall be a coupon bearing Government of India security of face value Rs. 100 and residual maturity between 4 and 8 years on the expiry of futures contract.
+Option B:
+The underlying shall be coupon bearing notional 6-year Government of India security with a face value of Rs. 100. For each contract, there shall be basket of Government of India securities, with residual maturity between 4 and 8 years on the day of expiry of futures contract, with appropriate weight assigned to each security in the basket.
+5.2.5 The
+13-Year cash settled Interest Rate Futures contracts
+shall have two options as under:
+Option A:
+The underlying shall be a coupon bearing Government of India security of face value Rs. 100 and residual maturity between 11 and 15 years on the expiry of futures contract.
+Option B:
+The underlying shall be coupon bearing notional 13-year Government of India security with a face value of Rs. 100. For each contract, there shall be basket of Government of India securities, with residual maturity between 11 and 15 years on the day of expiry of futures contract, with appropriate weight assigned to each security in the basket.
+5.2.6. Other requirements for cash settled 6-year, 10-year and 13-year Interest Rate Futures contracts shall be:
+Option A:
+The underlying security shall be decided by stock exchanges in consultation with the Fixed Income Money Market and Derivatives Association (FIMMDA).
+The contract shall be cash-settled in Indian rupees.
+The final settlement price shall be arrived at by calculating the volume weighted average price of the underlying security based on prices during the last two hours of the trading on Negotiated Dealing System-Order Matching (NDS-OM) system. If less than 5 trades are executed in the underlying security during the last two hours of trading, then FIMMDA price shall be used for final settlement.
+Option B:
+The underlying security shall have coupon with semi-annual compounding.
+Exchanges shall disclose criteria for including securities in the basket and determining their weights such as trading volumes in cash market, minimum outstanding etc.
+The contract shall be cash-settled in Indian rupees.
+The final settlement price shall be based on average settlement yield which shall be volume weighted average of the yields of securities in the underlying basket. For each security in the basket, yield shall be calculated by determining weighted average yield of the security based on last two hours of the trading in NDS-OM system. If less than 5 trades are executed in the security during the last two hours of trading, then FIMMDA price shall be used for determining the yields of individual securities in the basket. “
+(Chandan Sinha)
+Executive Director

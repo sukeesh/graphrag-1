@@ -1,0 +1,51 @@
+(57 kb)
+Uniform Accounting Standards at ARCs
+RBI/2013-14/571
+DNBS (PD) CC. No. 38/SCRC/26.03.001/2013-14
+April 23, 2014
+The  Chairman/Managing Director/Chief Executive Officer
+All registered Securitisation  Companies/Reconstruction Companies
+Dear  Sir,
+Uniform Accounting Standards at ARCs
+Please refer to "
+The  Securitisation Companies and Reconstruction Companies (Reserve Bank) Guidelines  and Directions, 2003
+" dated April 23, 2003 (herein after called  Guidelines).
+2.  Pursuant to the recommendations of the Key Advisory Group (KAG) constituted by  the Government of India on the Asset Reconstruction Companies (ARCs), Reserve  Bank of India advises the guidelines on uniform accounting standard for ARCs as  under:
+a.
+Acquisition cost (Pre and post acquisition)
+Expenses  incurred at pre acquisition stage for performing due diligence etc. for  acquiring financial assets from banks/ Fls should be expensed immediately by  recognizing the same in the statement of profit and loss for the period in  which such costs are incurred.
+Expenses  incurred after acquisition of assets on the formation of the trusts, stamp  duty, registration, etc. which are recoverable from the trusts, should be  reversed, if these expenses are not realised within 180 days from the planning  period [In terms of RBI Notification No.DNBS.2/CGM(CSM)-2003, dated April 23,  2003 planning period means a period not exceeding twelve months allowed for  formulating a plan for realization of non­performing assets (in the books of  originator) acquired for the purpose of reconstruction] or downgrading of  Security receipts (SRs) (i.e. Net Asset Value(NAV) is less than 50% of the face  value of SRs ) whichever is earlier.
+b.
+Revenue Recognition
+-
+(i)
+Yield
+should be recognised only after the full redemption of the entire principal  amount of Security Receipts.
+(ii)
+Upside  income
+should be recognized only after full redemption of Security  Receipts.
+(iii)
+Management
+fees may be recognized on accrual basis.
+Management
+fees recognized
+during
+the planning period must be realized within 180 days from the date of  expiry of the planning period.
+Management
+fees recognized
+after
+the  planning period should be realized within 180 days from the date of  recognition. Unrealised
+Management
+fees should be reversed thereafter.  Further any unrealized
+Management
+fees will be reversed if before the  prescribed time for realisation, NAV of the SRs fall below 50% of face value.  [In terms of RBI Notification No.DNBS.2/CGM(CSM)-2003, dated April 23, 2003  planning period means a period not exceeding twelve months allowed for  formulating a plan for realization of non-performing assets (in the books of  originator) acquired for the purpose of reconstruction.]
+c.
+Valuation of Security Receipts (SRs)
+Considering  nature of investment in SRs where underlying cash flows are dependent on  realization from non performing assets, it can be classified as available for  sale. Hence investments in SRs may be aggregated for the purpose of arriving at  net depreciation/ appreciation of investments under the category. Net  depreciation, if any shall be provided for. Net Appreciation, if any should be  ignored. Net depreciation required to be provided for should not be reduced on  account of net appreciation.
+d.
+Applicability of 'Operating Cycle Concept' under Schedule VI
+SC/  RCs are advised in their balance sheet to classify all the liabilities due  within one year as "current liabilities" and assets maturing within  one year along with cash and bank balances as "current assets".  Capital and Reserves will be treated as liabilities on liability side while  investment in SRs and Long term deposits with banks will be treated as fixed  assets on the assets side.
+3. The  accounting guidelines will be effective from the accounting year 2014-15.
+Yours  sincerely,
+(N. S.  Vishwanathan)
+Principal  Chief General Manager

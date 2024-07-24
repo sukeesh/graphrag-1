@@ -1,0 +1,61 @@
+(790 kb)
+Real Time Gross Settlement (RTGS) System – Extension of Timings for Customer Transactions
+RBI/2018-19/189
+DPSS (CO) RTGS No. 2488/04.04.016/2018-19
+May 28, 2019
+The Chairman / Managing Director / Chief Executive Officer
+of member banks participating in RTGS
+Madam / Dear Sir,
+Real Time Gross Settlement (RTGS) System – Extension of Timings for Customer Transactions
+A reference is invited to
+circular DPSS (CO) RTGS No.492/04.04.002/2015-16 dated September 1, 2015
+on ‘Changes in RTGS time window’ and
+circular DPSS (CO) RTGS No.1926/04.04.002/2015-16 dated February 4, 2016
+on ‘RTGS service charges for members and customers - Rationalisation’.
+2. It has been decided to extend the timings for customer transactions (initial cut-off) in RTGS from 4:30 pm to 6:00 pm. Accordingly, the RTGS time window with effect from
+June 01, 2019
+will be as under:
+Sr. No.
+Event
+Time
+1.
+Open for Business
+08:00 hours
+2.
+Customer transactions (Initial Cut-off)
+18:00 hours
+3.
+Inter-bank transactions (Final Cut-off)
+19:45 hours
+4.
+IDL Reversal
+19:45 hours - 20:00 hours
+5.
+End of Day
+20:00 hours
+3. The time-varying charges for transactions in RTGS from 13:00 hours to 18:00 hours shall be ₹ 5 per outward transaction. The time varying charges structure is as under:
+Sr. No.
+Time of Settlement at the Reserve Bank of India
+Time varying charge per outward transaction
+(in addition to flat processing charge) (exclusive of tax, if any)
+From
+To
+1
+08:00 hours
+11:00 hours
+Nil
+2
+After 11:00 hours
+13:00 hours
+₹ 2.00
+3
+After 13:00 hours
+18:00 hours
+₹ 5.00
+4
+After 18:00 hours
+₹ 10.00
+4. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully,
+(Sangeeta Lalwani)
+General Manager (Officer in Charge)

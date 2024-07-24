@@ -1,0 +1,755 @@
+(351 kb)
+Master Directions - Mortgage Guarantee Companies (Reserve Bank) Directions, 2016 (Updated as on April 04, 2024)
+RBI/DNBR/2016-17/50
+Master Direction DNBR.(PD-MGC) No. 01/23.11.001/2016-17
+November 10, 2016
+(
+Updated as on April 04, 2024
+)
+(
+Updated as on June 20, 2023
+)
+(
+Updated as on December 29, 2022
+)
+(
+Updated as on October 05, 2021
+)
+(
+Updated as on November 22, 2019
+)
+(
+Updated as on May 25, 2017
+)
+Master Directions - Mortgage Guarantee Companies (Reserve Bank) Directions, 2016
+The Reserve Bank of India (the Bank) having considered it necessary in the public interest and being satisfied that, for the purpose of enabling the Bank to regulate the financial system to the advantage of the country and to prevent the affairs of any Mortgage Guarantee Company (MGC) from being conducted in a manner detrimental to the interest of investors or in any manner prejudicial to the interest of such MGCs and in exercise of the powers conferred under section 45JA of Reserve Bank of India Act, 1934 (Act 2 of 1934), in supersession of the
+Master Circulars DNBR(PD-MGC) CC.No.01/23.11.001/2015-16
+,
+DNBR(PD-MGC) CC.No. 02/23.11.001/2015-16
+and
+DNBR (PD-MGC) CC.No.DNBR (PD-MGC) CC.No.03/23.11.001/2015-16 dated July 01, 2015
+, hereby issues the Master Direction on Mortgage Guarantee Companies (Reserve Bank) Directions, 2016 hereinafter specified.
+(J.P. Sharma)
+Chief General Manager
+CHAPTER – I
+PRELIMINARY
+1. Short title, commencement
+(a) These Directions shall be known as the "Mortgage Guarantee Companies (Reserve Bank) Directions, 2016".
+(b) These directions shall come into force with immediate effect.
+2. Applicability
+The provisions of these Directions shall apply to every Mortgage Guarantee Company (MGC) which has been granted Certificate of Registration under the scheme of Registration of Mortgage Guarantee Companies by the Reserve Bank of India.
+2A.
+1
+Regulatory Structure under Scale Based Regulation for NBFCs
+(1) Regulatory structure for NBFCs shall comprise of four layers based on their size, activity and perceived riskiness. NBFCs in the lowest layer shall be known as NBFCs-Base Layer (NBFC-BL). NBFCs in Middle Layer and Upper Layer shall be known as NBFCs-Middle Layer (NBFC-ML) and NBFCs-Upper Layer (NBFC-UL) respectively. The Top Layer is ideally expected to be empty and NBFCs in that Layer will be known as NBFCs-Top Layer (NBFC-TL).
+(2) MGCs may lie in any of the layers of the regulatory structure depending on the parameters of the scale based regulatory framework.
+(3) MGCs below the asset size of ₹1,000 crore shall lie in Base Layer and MGCs with asset size of ₹1,000 crore and above shall lie in Middle Layer. MGCs can be placed in higher Layers as notified.
+Note
+: Once a MGC reaches an asset size of ₹1,000 crore or above, it shall be subject to the regulatory requirements as applicable to NBFC-ML despite not having such assets as on the date of last balance sheet and shall comply with the regulations/directions applicable to Middle Layer from time to time, as and when they attain an asset size of ₹1,000 crore. In a dynamic environment, the asset size of a MGC can fall below ₹1,000 crore in a given month, which may be due to temporary fluctuations and not due to actual downsizing. In such a case the MGC shall continue to comply with the reporting requirements and shall comply with the extant directions as applicable to Middle layer, till the submission of its next audited balance sheet to the Reserve Bank and a specific dispensation from the Reserve Bank in this regard.
+(4) The Upper Layer shall comprise of those NBFCs which are specifically identified by the Reserve Bank as warranting enhanced regulatory requirement based on a set of parameters and scoring methodology as provided in the Annex I of the
+Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023
+. The top ten eligible NBFCs in terms of their asset size shall always reside in Upper Layer, irrespective of any other factor.
+(5) The Top Layer will ideally remain empty. This layer can get populated, if the Reserve Bank is of the opinion that there is a substantial increase in the potential systemic risk from specific NBFC in the Upper Layer. Such NBFC shall move to Top Layer from the Upper Layer.
+2B. Progressive application of regulations
+Regulatory instructions applicable to lower layers of MGCs will automatically be applicable to MGCs residing in higher layers, unless stated otherwise.
+2C. Multiple NBFCs in a Group - Classification in Middle Layer
+NBFCs that are part of a common Group or are floated by a common set of promoters shall not be viewed on a standalone basis. The total assets of all the NBFCs, including MGCs, in a Group shall be consolidated to determine the threshold for classification of NBFCs in Middle Layer. The provision shall not be applicable for classifying an NBFC in Upper Layer. The procedure prescribed in 2.8 of the
+Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023
+shall be followed for the purpose.
+3. Definitions
+(a) In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below –
+(i) "bank" means –
+1) a banking company; or
+2) a corresponding new bank; or
+3) the State Bank of India; or
+4) a subsidiary bank; or
+5) such other bank which the Reserve Bank may, by notification, specify for the purposes of these guidelines; and
+6) a co-operative bank as defined under the Banking Regulation Act, 1949 (Act 10 of 1949);
+(ii) "banking company" means a banking company as defined in Section 5(c) of the Banking Regulation Act, 1949 (Act 10 of 1949);
+(iii) "borrower" means any person or any entity who has been granted a housing loan by any creditor institution or any other entity which may be specified by Reserve Bank of India from time to time;
+(iv) "breakup value" means the equity capital and reserves as reduced by intangible assets and revaluation reserves, divided by the number of equity shares of the investee company;
+(v) "carrying cost" means book value of the assets and interest accrued thereon but not received;
+(vi) “company" means a company registered under Section 3 of the Companies Act, 1956 or a corresponding provision under Companies Act, 2013;
+(vii) "corresponding new bank" means as defined in clause (da) of Section 5 of the Banking Regulation Act, 1949;
+(viii) “creditor institution" means a bank or housing finance company;
+(ix) "default" means non-payment on the due date of any principal debt or interest thereon payable by a borrower to any creditor institution;
+(ix)(a) “Dividend Payout Ratio” means the ratio between the amount of the dividend payable in a year and the net profit as per the audited financial statements for the financial year for which the dividend is proposed. Proposed dividend shall include both dividend on equity shares and compulsory convertible preference shares eligible for inclusion in Tier 1 capital. In case the net profit for the relevant period includes any exceptional and/or extra-ordinary profits/ income or the financial statements are qualified (including ’emphasis of matter’) by the statutory auditor that indicates an overstatement of net profit, the same shall be reduced from net profits while determining the Dividend Payout Ratio.
+(x) "doubtful asset" means an asset which remains a sub-standard asset for a period exceeding 12 months;
+(xi) "earning value" means the value of an equity share computed by taking the average of profits after tax as reduced by the preference dividend and adjusted for extra-ordinary and non-recurring items, for the immediately preceding three years and further divided by the number of equity shares of the investee company and capitalised at the following rate :
+1) in case of predominantly manufacturing company, eight per cent;
+2) in case of predominantly trading company, ten per cent; and
+3) in case of any other company, including a non-banking financial company, twelve per cent;
+Note :
+If, an investee company is a loss making company, the earning value will be taken at zero;
+(xii) "fair value" means the mean of the earning value and the breakup value;
+(xiii) "guarantee" means a contract of guarantee as defined in section 126 of the Indian Contract Act, 1872 (9 of 1872);
+(xiv) "housing finance company" means a company which primarily transacts or has as one of its principal objects, the transacting of the business of providing finance for housing, as defined in the National Housing Bank Act, 1987;
+(xv) "housing loan" means any loan or advance granted to an individual or any other entity which may be specified by Reserve Bank from time to time for the purpose of construction/ repairs/ upgradation of a house or residential property or acquisition of a house or residential property or both, i.e., house and residential property;
+Explanation: -
+'Other entities' would include housing societies and housing co-operatives in the above definition of “housing loan”.
+(xvi) "hybrid debt capital instrument" means capital instrument which possesses certain characteristics of equity as well as of debt;
+(xvii) "loss asset" means :
+1) an asset which has been identified as loss asset by the mortgage guarantee company or its internal or external auditor or by the Reserve Bank, to the extent it is not written off by the mortgage guarantee company; and
+2) an asset which is adversely affected by a potential threat of non-recoverability for reasons like erosion in the value of security or non-availability of security or due to any fraudulent act or omission on the part of the borrower, etc.;
+(xvii)(a) “major shareholder” shall mean a person holding 10% or more of the paid-up share capital or five crore rupees in paid-up shares, whichever is lower.
+(xviii) "Mortgage guarantee" means a guarantee provided by a mortgage guarantee company for the repayment of an outstanding housing loan and interest accrued thereon up to the guaranteed amount to a creditor institution, on the occurrence of a trigger event;
+(xix) "Mortgage Guarantee Company" means a company registered with the Bank as mortgage guarantee company which primarily transacts the business of providing mortgage guarantee;
+(xx) "Mortgage guarantee contract" means a tri-partite contract among the borrower, the creditor institution and the mortgage guarantee company, which provides the mortgage guarantee;
+(xxi) National Housing Bank" means the National Housing Bank established under the National Housing Bank Act, 1987 (53 of 1987);
+(xxii) "'net owned fund' means :
+1) the aggregate of the paid-up equity capital and free reserves as disclosed in the latest balance sheet of the company after deducting there from -
+a) accumulated balance of loss;
+b) deferred revenue expenditure; and
+c) other intangible assets; and
+2) further reduced by the amounts representing -
+a) investments of such company in shares of -
+i) its subsidiaries;
+ii) companies in the same group;
+iii) all other non-banking financial companies; and
+b) the book value of debentures, bonds, outstanding loans and advances (including hire-purchase and lease finance) made to, and deposits with -
+i) subsidiaries of such company; and
+ii) companies in the same group,
+to the extent such amount exceeds ten per cent, of 1) above.
+3) "subsidiaries" and "companies in the same group" shall have the same meanings assigned to them in the Companies Act, 1956 or a corresponding provision under Companies Act, 2013
+(xxiii) "non-performing asset" (NPA) means account of a borrower, which has been classified by a creditor institution as sub-standard, doubtful or loss asset, in accordance with the directions or guidelines relating to asset classification issued by the Reserve Bank.
+“non-performing asset' in respect of mortgage guarantee asset means, an asset acquired from the credit institution on the happening of trigger event which is straight away classified as non-performing asset and shall thereafter be classified according to the age of NPA. "Non-performing asset" for the purpose of income recognition on investments by mortgage guarantee companies means an asset, in respect of which, interest or principal or amortization obligations have remained overdue for a period
+of more than 90 days.
+(xxiv) "net asset value" means the latest declared net asset value by the mutual fund concerned in respect of that particular scheme;
+(xxv) "owned fund" means paid up equity capital, free reserves including contingency reserves maintained as per paragraph 14(a) of these Directions, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of asset, excluding reserves created by revaluation of asset, as reduced by accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any;
+(xxv)(a) “relative” shall have the meaning assigned to it under Clause (77) of Section 2 of the Companies Act, 2013.
+(xxvi) "Reserve Bank" means the Reserve Bank of India constituted under the Reserve Bank of India Act, 1934 (2 of 1934);
+(xxvi)(a) “Senior Officer” shall have the same meaning as assigned to ‘Senior Management’ under Section 178 of the Companies Act, 2013.
+(xxvii) "standard asset" means the asset in respect of which, no default in repayment of principal or payment of interest is perceived and which does not disclose any problem nor carry more than normal risk attached to the business;
+(xxviii) "sub-standard asset in respect of mortgage guarantee asset" means an asset which has been classified as NPA for a period not exceeding 12 months;
+(xxix) "subordinated debt" means an instrument, which is fully paid up, is unsecured and is subordinated to the claims of other creditors and is free from restrictive clauses and is not redeemable at the instance of the holder or without the consent of the supervisory authority of the mortgage guarantee company. The book value of such instrument shall be subjected to discounting as provided hereunder :
+Remaining Maturity of the Instruments
+Rate of Discount
+(a)
+Upto one year
+100%
+(b)
+More than one year but upto two years
+80%
+(c)
+More than two years but upto three years
+60%
+(d)
+More than three years but upto four years
+40%
+(e)
+More than four years but upto five years
+20%
+to the extent such discounted value does not exceed fifty per cent of Tier 1 capital;
+(xxx) "substantial interest" means holding of a beneficial interest by an individual or his spouse or minor child, whether singly or taken together in the shares of a company, the amount paid up on which exceeds ten percent of the paid up capital of the company; or the capital subscribed by all partners of a partnership firm;
+(xxxi) "Tier 1 capital" means owned fund as reduced by investment in shares of other non-banking financial companies and in shares, debentures, bonds, outstanding loans and advances including hire purchase and lease finance made to and deposits with subsidiaries and companies in the same group exceeding, in aggregate, ten per cent of the owned fund;
+Note
+:- Investment in shares of subsidiaries, companies in the same group and other NBFCs refers to that which has been acquired by the mortgage guarantee company in satisfaction of debt;
+(xxxii) "Tier 2 capital" includes the following :-
+1) preference shares;
+2) revaluation reserves at discounted rate of fifty five percent;
+3) general provisions and loss reserves to the extent these are not attributable to actual diminution in value or identifiable potential loss in any specific asset and are available to meet unexpected losses and provisions made on standard assets, to the extent of one and one fourth percent of risk weighted assets;
+4) hybrid debt capital instruments; and
+5) subordinated debt,
+to the extent the aggregate does not exceed Tier 1 capital;
+(xxxiii) "trigger event" means classification of the account of a borrower as NPA in the books of the creditor institution;
+(xxxiv) "turnover or business turnover" means the total mortgage guarantee contracts entered during the year together with the volume of business arising out of other activities (specially permitted by RBI), undertaken during the year;
+(b) The Words or expressions used in these Directions but not defined herein and defined in the Reserve Bank of India Act, 1934 (Act 2 of 1934), or the Banking Regulation Act, 1949 (Act 10 of 1949) shall have the same meaning as assigned to them under the said Acts. Any other words or expressions not defined in the said Acts shall have the same meaning as assigned to them in the Companies Act, 1956 or Companies Act, 2013.
+CHAPTER – II
+GENERAL GUIDELINES
+4. Registration with the Reserve Bank
+(a) A mortgage guarantee company shall commence the business of providing mortgage guarantee after -
+(i) obtaining a certificate of registration from the Reserve Bank; and
+(ii) having a net owned fund of one hundred crore rupees or such other higher amount, as the Reserve Bank may, by notification, specify.
+(b) Every mortgage guarantee company shall make an application for registration to the Reserve Bank in such form as may be specified by the Reserve Bank for the purpose.
+(c) The Reserve Bank, for the purpose of considering the application for registration, shall require to be satisfied that the following conditions are fulfilled :-
+(i) The mortgage guarantee company shall primarily transact the business of providing mortgage guarantee. A mortgage guarantee company shall be deemed to comply with the above when at least 90% of the business turnover is mortgage guarantee business or at least 90% of the gross income is from mortgage guarantee business (which includes the income derived from reinvesting the income generated from mortgage guarantee business).
+(ii) The mortgage guarantee company is or shall be in a position to pay its liabilities arising from the contracts of guarantee it may enter into.
+(iii) The mortgage guarantee company has adequate capital structure as stipulated in paragraphs 8 and 9 below and adequate earning prospects from mortgage guarantee business.
+(iv) The general character of the management or the proposed management of the mortgage guarantee company shall not be prejudicial to the public interest.
+(v) The Board of Directors of such mortgage guarantee company does not consist of more than half of its total number of directors who are either nominees of any shareholder with substantial interest or associated in any manner with the shareholder with substantial interest or any of the subsidiaries of the shareholder with substantial interest if such a shareholder is a company.
+(vi) 1) Mortgage guarantee company shall have a well diversified shareholding;
+2) Mortgage guarantee company shall not be a subsidiary of any other company including a company registered or incorporated under any law in force outside India;
+3) No individual, association or body of individuals whether incorporated or not, partnership firm, company or company registered or incorporated under any law in force outside India shall, directly or indirectly, have any controlling interest in mortgage guarantee company.
+(vii) Foreign Direct Investment (FDI) Policy as notified from time to time by the Reserve Bank of India, shall apply to Mortgage Guarantee Companies. However, if the foreign entity has substantial interest in the applicant mortgage guarantee company, it should be regulated by a home country financial regulator and should itself preferably be a mortgage guarantee company and have a good track record of operating as a mortgage guarantee company. The above clauses would not be applicable if the investor in the equity of a mortgage guarantee company is international financial institution.
+(vii)(a) Investment from FATF non-compliant jurisdictions
+2
+1) Investments in mortgage guarantee company from FATF non-compliant jurisdictions shall not be treated at par with that from the compliant
+3
+jurisdictions. New investors from or through non-compliant FATF jurisdictions, whether in existing mortgage guarantee company or in companies seeking Certification of Registration (COR), should not be allowed to directly or indirectly acquire ‘significant influence’ in the investee, as defined in the applicable accounting standards. In other words, fresh investors (directly or indirectly) from such jurisdictions in aggregate should be less than the threshold of 20 per cent of the voting power (including potential
+4
+voting power) of the mortgage guarantee company.
+2) Investors in existing mortgage guarantee company holding their investments prior to the classification of the source or intermediate jurisdiction/s as FATF non-compliant, may continue with the investments or bring in additional investments as per extant regulations so as to support continuity of business in India.
+(viii) The public interest shall be served by the grant of certificate of registration to the mortgage guarantee company to commence or to carry on the business in India.
+(ix) The grant of certificate of registration shall not be prejudicial to the operation and growth of the housing finance sector of the country.
+(x) The mortgage guarantee company is compliant with the applicable norms for foreign investment in such companies; and
+(xi) any other condition, fulfillment of which in the opinion of the Reserve Bank, shall be necessary to ensure that the commencement of or carrying on the business in India by a mortgage guarantee company shall not be prejudicial to the public interest and the housing finance sector in India.
+(d) The Reserve Bank may, after being satisfied that the conditions specified in sub paragraphs of paragraph 4(c) are fulfilled, grant a certificate of registration subject to such conditions which it may consider fit to impose.
+(e) The mortgage guarantee company shall be under the regulatory and supervisory jurisdiction of the Reserve Bank.
+(f) The Reserve Bank may cancel a certificate of registration granted to a mortgage guarantee company, if such company -
+(i) ceases to carry on the business of providing mortgage guarantee in India; or
+(ii) has failed to comply with any condition subject to which the certificate of registration has been issued to it; or
+(iii) has failed to honour, in a timely manner, the claims arising from the contract of guarantee it has entered into or may enter into; or
+(iv) at any time fails to fulfill any of the conditions referred to in paragraphs 4(c) and 4(d);
+or
+(v) fails to -
+1) comply with any direction issued by the Reserve Bank; or
+2) maintain accounts, publish and disclose its financial position in accordance with the requirements of any law or any direction or order issued by the Reserve Bank; or
+3) submit or offer for inspection its books of account or other relevant documents when so demanded by the Reserve Bank.
+5. Other Activities
+A mortgage guarantee company can take up any activity up to 10% of its total assets. If a mortgage guarantee company undertakes any other business as specified in 45I(c) of the RBI Act 1934 within the permitted limit, prudential and other regulations as applicable (including valuation of investments, asset classification and provisioning, etc.,) as prescribed in ‘
+Master Direction - Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023
+’ (as amended from time to time), shall be applicable.
+6. Essential features of a mortgage guarantee
+(a) The essential features of a mortgage guarantee contract shall be as follows :
+(i) it shall be a contract of guarantee under Section 126 of the Indian Contract Act, 1872;
+(ii) the mortgage guarantee contract shall be unconditional and irrevocable and the guarantee obtained shall be free from coercion, undue influence, fraud, misrepresentation, and / or mistake under Indian Contract Act, 1872
+(iii) it shall guarantee the repayment of the principal and interest outstanding in the housing loan account of the borrower, up to the amount of guarantee;
+(iv) the guarantor shall pay the guaranteed amount on invocation without any adjustment against the realisable value of the mortgage property;
+(v) it shall be a tri-partite contract among the borrower, the creditor institution and the mortgage guarantee company, which provides the mortgage guarantee.
+(b) The mortgage guarantee company shall not carry on insurance business.
+7. Funding Options
+(a)
+Acceptance of public deposits
+- Mortgage guarantee companies shall not accept public deposits.
+(b)
+External Commercial Borrowings
+- Mortgage guarantee companies shall not avail External Commercial Borrowings.
+CHAPTER III
+PRUDENTIAL REGULATION
+The mortgage guarantee company shall be required to comply with various prudential guidelines including those relating to income recognition, asset classification, provisioning, classification and valuation of investments and prudential exposures that are issued by the Reserve Bank from time to time.
+8. Minimum Capital requirement
+A mortgage guarantee company shall have a minimum net owned fund of Rs.100 crore at the time of commencement of business, which shall be reviewed for enhancement after 3 years.
+9. Capital Adequacy
+A mortgage guarantee company shall maintain a capital adequacy ratio consisting of Tier 1 and Tier 2 capital which shall not be less than ten percent (10%) of its aggregate risk weighted assets of on balance sheet and of risk adjusted value of off-balance sheet items or any other percentage that may be prescribed by the Reserve Bank for the purpose, from time to time.
+A mortgage guarantee company shall maintain at least six percent (6%) of its aggregate risk weighted assets of on balance sheet and of risk adjusted value of off-balance sheet items as Tier 1 capital.
+The total of Tier 2 capital, at any point of time, shall not exceed one hundred per cent of Tier 1 capital.
+Explanations:
+On balance sheet assets
+(i) In these Directions, degrees of credit risk expressed as percentage weightages have been assigned to balance sheet assets. Hence, the value of each asset / item requires to be multiplied by the relevant risk weights to arrive at risk adjusted value of assets. The aggregate shall be taken into account for reckoning the minimum capital ratio. The risk weighted asset shall be calculated as the weighted aggregate of funded items as detailed hereunder:
+Items of Assets - On-Balance Sheet Items
+Risk Weight % Age
+(i)
+Cash
+0
+(ii)
+Bank balances and claims on banks including fixed deposits and certificates of deposits.
+20
+(iii)
+Investments
+(a)
+Central Government and State Government Securities
+0
+(b)
+Bonds of banks
+20
+(c)
+Fixed deposits/ certificates of deposits/ bonds of public financial institutions
+100
+(d)
+Shares of all companies *and debentures/ bonds/ commercial papers of all companies and units of debt oriented/ money market mutual funds
+100
+(*shares of corporates can be acquired only in satisfaction of debt)
+(iv)
+Current Assets/Other Financial Assets
+(a)
+Loans and advances
+100
+(b)
+Loans to staff, if fully covered by superannuities, benefits & mortgage of flats / houses
+20
+(c)
+Other loans to staff
+100
+(d)
+Other secured loans and advances
+100
+(e)
+Others (including net stock on hire, bills purchased and discounted, etc.)
+100
+(v)
+Fixed Assets (net of depreciation)
+(a)
+Assets leased out (net book value)
+100
+(b)
+Premises
+100
+(c)
+Furniture & Fixtures
+100
+(d)
+Other fixed assets
+100
+(vi)
+Other Assets
+(a)
+Income tax deducted at source (net of provision)
+0
+(b)
+Advance tax paid (net of provision)
+0
+(c)
+Interest due on Government securities
+0
+(d)
+Others
+100
+Notes:
+(1)
+Netting may be done only in respect of assets where provisions for depreciation or for bad and doubtful debts have been made.
+(2)
+Assets which have been deducted from owned fund to arrive at net owned fund shall have a weightage of 'zero'.
+(3)
+While calculating the aggregate of funded exposure of a borrower for the purpose of assignment of risk weight, mortgage guarantee companies may net off the amount of cash margin/ caution money/ security deposits (against which right to set-off is available) held as collateral against the advances out of the total outstanding exposure of the borrower.
+Off-balance sheet items
+(ii) In these Directions, degrees of credit risk exposure attached to off-balance sheet items have been expressed as percentage of credit conversion factor. Hence, the face value of each item requires to be first multiplied by the relevant conversion factor to arrive at credit equivalent value of off-balance sheet item. The credit equivalent value of each item shall have to be again multiplied by the risk weight as applicable to the respective counterparties. The aggregate risk weighted value shall be taken into account for reckoning the minimum capital ratio. The credit equivalent value of the off-balance sheet items shall be calculated as per the credit conversion factors for non-funded items as detailed hereunder:
+Nature of Item
+Credit Conversion Factor - Percentage
+i)
+Mortgage Guarantees
+50
+ii)
+Underwriting obligations in r/o capital investment such as shares / debentures, etc
+50
+iii)
+Partly-paid shares / debentures
+100
+iv)
+Lease contracts entered into but yet to be executed
+100
+v)
+Other contingent liabilities
+50
+Note :
+Cash margins / deposits shall be deducted before applying the conversion factor.
+(d) No single guarantee shall exceed 10% of the company's Tier 1 and Tier 2 capital.
+9A. Internal Capital Adequacy Assessment Process (ICAAP)
+MGCs in Middle and above layers are required to make a thorough internal assessment of the need for capital, commensurate with the risks in their business. This internal assessment shall be on similar lines as ICAAP prescribed for commercial banks under Pillar 2 (
+Master Circular – Basel III Capital Regulations, dated May 12, 2023
+, as amended from time to time). While Pillar 2 capital will not be insisted upon, MGCs are required to make a realistic assessment of risks. Internal capital assessment shall factor in credit risk, market risk, operational risk and all other residual risks as per methodology to be determined internally. The methodology for internal assessment of capital shall be proportionate to the scale and complexity of operations as per their Board approved policy. The objective of ICAAP is to ensure availability of adequate capital to support all risks in business as also to encourage MGCs to develop and use better internal risk management techniques for monitoring and managing their risks. This will facilitate an active dialogue between the supervisors and MGCs on the assessment of risks and monitoring as well as mitigation of the same.
+10.
+Income recognition
+(a) Mortgage Guarantee Companies may book income on accrual basis on securities of corporate bodies / public sector undertakings in respect of which the payment of inertest and repayment of principal have been guaranteed by the Central Government or a State Government, provided interest is serviced regularly and as such is not in arrears.
+(b) Mortgage Guarantee Companies may book income from dividend on shares of corporate bodies on accrual basis provided dividend on the shares has been declared by the corporate body in its Annual General Meeting and the owner's right to receive payments is established.
+(c) Mortgage Guarantee Companies may book income from Government securities and bonds and debentures of corporate bodies on accrual basis, where interest rates on these instruments are pre-determined and provided interest is serviced regularly and as such is not in arrears.
+(d) Mortgage Guarantee Companies should book income from units of mutual funds on cash basis.
+(e) Income including interest/ discount or any other charges on an asset which is NPA or on an asset which is NPA and is taken over from creditor institution on happening of trigger event shall be recognised only on cash basis.
+(f) A mortgage guarantee company shall account the premium or fee on the mortgage guarantee contracts as an income in the profit and loss account in accordance with the applicable Accounting Standards. The amount of unearned premium shall be shown as a separate line on the liability side of the balance sheet.
+(g) In respect of any other business undertaken by the mortgage guarantee company as specified in Section 45 I (c) of the RBI Act, within the permitted limit, income shall be recognised as per income recognition norms prescribed for such assets in these Directions.
+11.
+Asset Classification
+(a) Every mortgage guarantee company shall, after taking into account the degree of well defined credit weaknesses and extent of dependence on collateral security for realisation, classify its assets, loans and advances and any other forms of credit into the following classes, namely :
+(i) Standard assets*;
+(ii) Sub-standard assets;
+(iii) Doubtful assets; and
+(iv) Loss assets.
+* Assets acquired under guarantee obligations will not be classified as standard assets.
+(b) The class of assets referred to above shall not be upgraded merely as a result of rescheduling, unless it satisfies the conditions as stipulated by the Reserve Bank from time to time, required for the upgradation.
+12. Accounting year
+Every mortgage guarantee company shall prepare its balance sheet and profit and loss account as on March 31 every year. Whenever a mortgage guarantee company intends to extend the date of its balance sheet as per provisions of the Companies Act, 1956 or Companies Act, 2013, it should take prior approval of the Reserve Bank before approaching the Registrar of Companies for this purpose.
+Further, even in cases where the Reserve Bank and the Registrar of Companies grant extension of time, the mortgage guarantee company shall furnish to the Reserve Bank a proforma balance sheet (unaudited) as on March 31 of the year and the statutory returns due on the said date.
+13. Concentration of Credit/ Investment
+(not applicable to MGC in Upper Layer)
+(a) No mortgage guarantee company shall lend to
+(i) any single borrower exceeding fifteen per cent of its
+Tier 1 capital
+; and
+(ii) any single group of borrowers exceeding twenty five per cent of its
+Tier 1 capital
+.
+(b) Every mortgage guarantee company shall formulate a policy in respect of exposures to a single party/a single group of parties.
+Notes
+:
+(1) For determining the limits, off-balance sheet exposures shall be converted into credit risk by applying the conversion factors as explained above.
+(2) The investments in debentures for the purposes specified in this paragraph shall be treated as credit and not investment.
+(3) These ceilings shall be applicable to credit exposure by such a mortgage guarantee company to companies/ firms in its own group as well as to the borrower company's group.
+14.
+Creation and maintenance of Reserves
+(a) Contingency Reserves:
+A mortgage guarantee company shall create and maintain a "Contingency Reserve" on an ongoing basis. The mortgage guarantee company :
+(i) Shall appropriate each year at least forty percent (40%) of the premium or fee earned during that accounting year or twenty five percent (25%) of the profit (after provisions and tax), whichever is higher, to the Contingency Reserve;
+(ii) In case of inadequate profits, such appropriation shall either result in or increase the amount of carry forward loss;
+(iii) May appropriate a lower percentage of the premium or fee earned during any accounting year subject to a minimum of at least 24% of the premium or fee earned when the provisions made each year towards losses on account of settlement of mortgage guarantee claims exceeds thirty-five percent (35%) of the premium or fee earned during that accounting year.
+(iv) Shall ensure that the Contingency Reserve is built up to at least five percent (5%) of the total outstanding mortgage guarantee commitments;
+(v) Shall retain the amounts appropriated each year to the Contingency Reserve for a minimum period of seven (7) subsequent years which shall be eligible for reversal only in the eighth year subject to the condition in 14(a)(iv) above;
+(vi) Shall utilize the Contingency Reserve without the prior approval of the Reserve Bank solely for the purpose of meeting and making good the losses suffered by the mortgaged guarantee holders only after exhausting all other avenues and options to recoup the losses; in all other cases of utilization, prior approval of Reserve Bank shall be obtained.
+(vii) Shall show the amount of 'Contingency Reserve' as a separate line item on the liability side of the balance sheet; however, Contingency Reserve may be treated as 'free reserve' for the purpose of net owned fund.
+15. Accounting Standards
+MGCs, that are required to implement Indian Accounting Standards (Ind AS) as per the Companies (Indian Accounting Standards) Rules, 2015, shall prepare their financial statements in accordance with Ind AS notified by the Government of India and shall comply with the regulatory guidance prescribed vide the
+circular DOR (NBFC).CC.PD No.109/22.10.106/2019-20 dated March 13, 2020
+and
+circular DOR (NBFC).CC.PD.No.116/22.10.106/2020-21 dated July 24, 2020
+on Implementation of Ind AS as amended from time to time. Other MGCs shall comply with the requirements of notified Accounting Standards (AS) insofar as they are not inconsistent with any of these directions.
+16.
+Accounting of Unearned Premium
+A mortgage guarantee company shall account the premium or fee on the mortgage guarantee contracts as an income in the profit and loss account in accordance with the applicable Accounting Standards. The amount of unearned premium shall be shown as a separate line on the liability side of the balance sheet.
+17.
+Provisioning requirements
+(a)
+Provision for losses on invoked guarantee
+A mortgage guarantee company is exposed to a potential loss when its guarantee is invoked. Mortgage guarantee companies shall hold provisions for losses in respect of such invoked guarantees pending recovery of assets. The amount of provisions required to be held shall be equal to the contract-wise aggregate of 'amount of invocation' after adjusting the realisable value of the assets held by the company in respect of each housing loan where the guarantee has been invoked. In case the realisable value of the assets held in respect of any invoked guarantee is more than the amount of invocation, the excess shall not be adjusted against the shortfall in other invoked guarantees. In case the amount of provisions already held is in excess of the amount as computed above, the excess provision may be reversed after full recovery or closure of the invoked guarantee amount or after the account becomes standard. The amount of provisions made each year shall be shown as a separate line item in the Profit and Loss Account. The amount of provision held for losses on settlement of invoked guarantees shall be shown as a separate line item on the liability side of the balance sheet.
+(b) Provision for 'Incurred But-Not-Reported (IBNR) losses'
+A mortgage guarantee company is exposed to a potential loss when there is a default in a housing loan guaranteed by it. Mortgage guarantee companies shall hold provisions in respect of such defaulted housing loans where the trigger event is yet to occur or the guarantee is yet to be invoked. The potential loss to which the guarantee company is exposed to is referred to as IBNR losses'. The amount of provisions required to be held shall be arrived at on an actuarial basis depending upon the estimates of loss frequency and loss severity for incurred but not reported losses which are derived from historic data, trends, economic factors and other statistical data in relation to paid claims, the provisions held for claims settled, risk statistics, etc. In case the amount of provisions already held is in excess of the amount as computed above, the excess shall not be reversed. The amount of provisions made each year shall be shown as a separate line item in the Profit and Loss Account. The amount of provision held for IBNR losses shall be shown as a separate line item on the liability side of the balance sheet.
+(c) Subject to what has been mentioned above, every mortgage guarantee company shall, after taking into account the time lag between an account becoming non-performing, its recognition as such, the realisation of the security and the erosion over time in the value of security charged, make provision against each class as provided hereunder :-
+(d)
+Mortgage guarantee assets
+The provisioning requirement in respect of mortgage guarantee assets shall be as under:
+(i)
+Loss Assets
+The entire asset shall be written off. If the assets are permitted to remain in the books for any reason, 100% of the outstanding should be provided for;
+(ii)
+Doubtful Assets
+(a)
+100% provision to the extent to which the advance is not covered by the realisable value of the security to which the mortgage guarantee company has a valid recourse shall be made. The realisable value is to be estimated on a realistic basis;
+(b)
+In regard to the secured portion, provision is to be made on the following basis to the extent of 20% to 100% of the secured portion depending upon the period for which the asset has remained doubtful:
+Period for which the asset has remained in doubtful category
+% of provision
+Up to one year
+20
+One to three years
+30
+More than three years
+100
+(iii)
+Sub-standard assets
+A general provision of 10% of total outstanding shall be made.
+For Standard Assets
+Standard asset
+Mortgage guarantee companies should make general provisions for standard asset on the following basis;
+(a)
+Guarantee cover for residential housing loans beyond Rs.20 lakhs at 1%;
+(b)
+All other guarantee cover at 0.40%
+Notes :
+(1)
+The provisions on standard asset should not be reckoned for arriving at net NPAs.
+(2)
+The provisions towards standard assets need not be netted from gross advances but shown separately as 'Contingent Provisions against Standard Assets' under 'Other Liabilities and Provisions Others' in the balance sheet.
+(3)
+It is clarified that income recognition on and provisioning against NPAs are two different aspects of prudential norms and provisions as per the norms are required to be made on NPAs on total outstanding balances. The fact that income on an NPA has not been recognised cannot be taken as reason for not making provision.
+17A. Framework for Compromise Settlements and Technical Write-offs
+5
+MGCs shall comply with the instructions contained in
+circular on ‘Framework for Compromise Settlements and Technical Write-offs’ dated June 08, 2023
+, as amended from time to time.
+18.
+Disclosure in the balance sheet
+(a) Every mortgage guarantee company shall separately disclose in its balance sheet the provisions made as per paragraph 6 above without netting them from the income or against the value of assets.
+(b) The provisions shall be distinctly indicated under separate heads of account separately for mortgage guarantee business and others and individually for each type of assets as under :-
+(i) provisions for bad and doubtful debts; and
+(ii) provisions for depreciation in investments.
+(c) Such provisions for each year shall be made from the profit and loss account.
+(d) Disclosure requirements as prescribed in paragraph 27.2 to 27.4 of the
+Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023
+(as amended from time to time) shall be applicable, mutatis mutandis, to MGCs. MGCs in various layers shall comply with disclosure requirements as prescribed in various Sections of
+Annex VII
+of the above Master Direction.
+18A. Declaration of dividends
+6
+MGCs shall comply with the following guidelines to declare dividends.
+(a) The Board of Directors, while considering the proposals for dividend, shall take into account each of the following aspects:
+(i) Supervisory findings of the Reserve Bank on divergence in classification and provisioning for Non-Performing Assets (NPAs).
+(ii) Qualifications in the Auditors Report to the financial statements.
+(iii) Long term growth plans of the MGC.
+(b) MGCs that meet the following minimum prudential requirements shall be eligible to declare dividend:
+(i) MGCs shall have met the capital adequacy requirement prescribed under paragraph 9 of this Master Direction in each of the last three
+7
+financial years including the financial year for which the dividend is proposed.
+(ii) The net NPA ratio shall be less than six per cent in each of the last three years, including as at the close of the financial year for which dividend is proposed to be declared.
+(iii) Unless exempted, MGCs shall comply with the provisions of Section 45 IC of the RBI Act, 1934.
+(iv) MGCs shall be compliant with the prevailing regulations/ guidelines issued by the Reserve Bank. The Reserve Bank shall not have placed any explicit restrictions on declaration of dividend.
+(c) MGCs that meet the eligibility criteria specified in paragraph 18A(b) above can declare dividend upto a dividend payout ratio of 50 per cent.
+(d) A MGC which does not meet the applicable capital adequacy requirements and/ or the net NPA ratio requirement as above, for each of the last three financial years, shall be eligible to declare dividend, subject to a cap of 10 per cent on the dividend payout ratio, provided the MGC complies with both the following conditions:
+(i) meets the applicable capital adequacy requirement, as per this Master Direction, in the financial year for which it proposes to pay dividend, and
+(ii) has net NPA of less than four per cent as at the close of the financial year.
+(e) The Board shall ensure that the total dividend proposed for the financial year does not exceed the ceilings specified in these guidelines. The Reserve Bank shall not entertain any request for ad-hoc dispensation on declaration of dividend.
+(f) MGCs declaring dividend shall report details of dividend declared during the financial year as per the format prescribed below.
+Details of dividend declared during the financial year
+Name of the MGC
+Accounting period*
+Net profit for the accounting period
+(₹ crore)
+Rate of dividend (per cent)
+Amount of dividend
+(₹ crore)
+Dividend Payout ratio (per cent)
+* quarter or half year or year ended ----- as the case may be;
+The report shall be furnished within a fortnight after declaration of dividend to the Regional Office of the Department of Supervision of the Reserve Bank.
+19.
+Transactions in Government securities
+Every mortgage guarantee company may undertake transactions in Government securities through its
+gilt
+account or its demat account
+or any other account, as permitted by the Reserve Bank.
+CHAPTER IV
+INVESTMENT POLICY
+20.
+Investment Policy for Mortgage Guarantee Companies
+(a) A mortgage guarantee company shall invest only in the following instruments:
+(i) Government Securities;
+(ii) Securities of corporate bodies/ public sector undertakings guaranteed by Government;
+(iii) Fixed Deposit/ Certificate of Deposits/ bonds of Scheduled Commercial banks/ PFIs;
+(iv) listed and rated debentures/ bonds of corporates;
+(v) fully debt oriented Mutual Fund Units;
+(vi) unquoted Government securities and Government guaranteed bonds.
+(b) No other investment including investment in subsidiaries and joint ventures would be permitted. However, a mortgage guarantee company may hold investments in equity shares of any company which may be quoted or unquoted or other unquoted investments acquired in satisfaction of its debts which shall be disposed of by the mortgage guarantee company within a period of three years or within such period as extended by the Bank, from the date of such acquisition.
+21. Pattern of Investment
+(a) A mortgage guarantee company shall hold not less than 25% of its total investment portfolio in Central and State Government securities.
+(b) The remaining investments may be invested as the Board considers prudent, but with a ceiling of 25% in any one category, i.e., listed and rated corporate bonds and debentures or debt oriented mutual fund units, etc.
+(c) The Board may fix an appropriate sub-limit for individual investments within each category of instruments as specified in paragraph 20(a) above of these directions.
+(d) The Minimum Investment Grade Rating (MIGR) assigned by the SEBI registered Rating Agencies would be the requirement for investment by MGC in bonds/ debentures and debt oriented Mutual Funds.
+22. Accounting of investments
+(a) (i) Quoted investments shall, for the purposes of valuation, be grouped into the following categories, viz.,
+1) Government securities including treasury bills,
+2) Government guaranteed bonds/ securities;
+3) bonds of banks/ PFIs;
+4) debentures/ bonds of corporates; and
+5) Units of mutual fund.
+(ii) Quoted investments for each category except Government Securities including treasury bills, Government guaranteed bonds or securities shall be valued at cost or market value whichever is lower. The investments made towards Government securities, quoted or otherwise, government guaranteed securities and bonds not exceeding the capital may be treated as “Held to Maturity” (HTM) for the purpose of valuation and accounted for accordingly. The company is allowed to effect the transfer of the government security from HTM category to AFS category at the beginning of each half year, on April 01 or October 01, with the approval of the Board, provided the principal amount is reinvested in another Government security. Investments classified under HTM need not be marked to market and will be carried at acquisition cost, unless it is more than the face value, in which case the premium should be amortised over the period remaining to maturity. The book value of the security should continue to be reduced to the extent of the amount amortised during the relevant accounting period. However, if any security out of this bouquet is traded before maturity the entire category will be treated as securities held for trade and will have to be mark to market (MTM) to as detailed in clause (iii) herein below.
+(iii) The investments in each category shall be considered scrip-wise and the cost and market value aggregated for all investments in each category. If the aggregate market value for the category is less than the aggregate cost for that category, the net depreciation shall be provided for or charged to the profit and loss account. If the aggregate market value for the category exceeds the aggregate cost for the category, the net appreciation shall be ignored. Depreciation in one category of investments shall not be set off against appreciation in another category.
+(iv) All other investments shall be MTM in accordance with these Directions.
+(b) Unquoted investments acquired in satisfaction of its debts shall be valued as under :
+(i) Unquoted investments in the units of mutual funds shall be valued at the net asset value (NAV) declared by the mutual fund in respect of each particular scheme;
+(ii) Unquoted equity shares shall be valued at cost or breakup value, whichever is lower. However, mortgage guarantee companies may substitute fair value for the breakup value of the shares, if considered necessary. Where the balance sheet of the investee company is not available for two years, such shares shall be valued at Rupee one per company;
+(iii) Unquoted preference shares shall be valued at cost or face value, whichever is lower.
+Note:
+Unquoted debentures shall be treated as term loans or other type of credit facilities depending upon the tenure of such debentures for the purpose of income recognition and asset classification.
+23. The mortgage guarantee company with the approval of the Board shall frame an investment policy in tune with these directions.
+CHAPTER V
+MISCELLANEOUS INSTRUCTIONS
+24. Requirement of maintaining Register of guarantees
+Every mortgage guarantee company shall keep one or more registers in which shall be entered the particulars of guarantee provided by the company, namely,
+(a) name and address of the borrower / co-borrower,
+(b) date and amount of loan sanctioned to the borrower,
+(c) brief description of the property including the site / location of the property,
+(d) the nature of security available for the loan,
+(e) tenure of the loan,
+(f) amount of each installment and due date for the payment of each installment,
+(g) name and address of the bank or housing finance company to whom the guarantee has been provided,
+(h) date and amount of the guarantee, and
+(i) duration of the guarantee.
+25. Obligation of the mortgage guarantee company
+(a) The liability of the mortgage guarantee company in respect of a secured housing loan granted by a creditor institution where the mortgage guarantee company has provided a guarantee shall be as stipulated in the contract of guarantee entered into by and between the mortgage guarantee company, the creditor institution and the borrower.
+(b) On any day after a trigger event, the creditor institution, which has obtained a mortgage guarantee from a mortgage guarantee company, shall be entitled to invoke the guarantee against the mortgage guarantee company.
+(c) The mortgage guarantee company shall make good the guarantee liability without demur as and when a notice of demand for the payment of the guarantee liability in respect of the mortgage guarantee provided by it in favour of a bank or a housing finance company is received by it.
+(d) If a housing loan turns into a non-performing asset and the creditor institution prefers first to realize the loan by resorting to speedy recovery procedures prescribed in the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 and the creditor institution, realizes some amount of the loan from the borrower, the liability of the mortgage guarantee company in respect of the loan, will stand reduced to that extent.
+(e) As scheduled commercial banks are expected to seek mortgage guarantee for their housing loans, it has been decided to align the regulatory prescription of LTV ratio for mortgage guarantee companies with that of commercial banks and revise it downwards from 90% to 80% for housing loans exceeding Rs.20 lakhs. However for small value housing loans i.e housing loans up to Rs.20 lakh (which get categorized as priority sector advances), LTV ratio should not exceed 90%.
+26. Due diligence to be exercised by a mortgage guarantee company
+(a) Before offering to provide a guarantee for the repayment of a housing loan, the mortgage guarantee company shall be required to be satisfied, amongst others, with the following;
+(i) that the loans are secured by a valid mortgage;
+(ii) that the creditor institution has verified title to the property, marketability of the property and credit worthiness of the borrower;
+(iii) that the creditor institution has verified the use of the land on which a house or residential property is constructed or proposed to be constructed out of the loan obtained from it;
+(iv) that the creditor institution has verified and obtained a copy of the permission obtained by the borrower from the proper authorities for the purpose of construction of the house or residential property; and
+(v) that the loan granted by a creditor institution to a borrower is not more than 90% of the value of the property
+27. Information in regard to change of address, directors, auditors, etc. to be submitted
+Every mortgage guarantee company shall communicate to Reserve Bank of India, not later than one month from the occurrence of any change in :
+(a) the complete postal address, telephone number/s and fax number/s of the registered / corporate office;
+(b) the names and residential addresses of the directors of the company;
+(c) the names and the official designations of its principal officers;
+(d) the names and office address of the auditors of the company; and
+(e) the specimen signatures of the officers authorised to sign on behalf of the company.
+28. Prohibitions
+(a) A housing loan which is not secured by a valid mortgage of the house / residential property that is or is proposed to be acquired by such loan shall not be eligible for a mortgage guarantee from a mortgage guarantee company.
+(b) No commissions, rebates or inducements
+A mortgage guarantee company shall not pay commissions, rebates, or other inducements for referral of mortgage guarantee business to any person.
+(c) Prohibition on guaranteeing mortgage originations of Related Party
+A mortgage guarantee company shall not provide guarantees on mortgage originations of promoters, its / their subsidiaries, associates and related parties or subsidiaries, associates and related parties of mortgage guarantee company including companies where the mortgage guarantee company has a material investment or interest of five percent (5%) or more of the shareholding.
+(d) Investments
+A mortgage guarantee company shall not invest in notes or other evidences of indebtedness secured by a mortgage or other lien upon real property. This section shall not apply to obligations secured by real property, or contracts for the sale of real property, which obligations or contracts of sale are acquired in the course of the good faith settlement of claims under policies issued by the mortgage guarantee company, or in good faith disposition of real property so acquired.
+(e) Loans against own shares of the mortgage Guarantee Company are prohibited
+(i) No mortgage guarantee company shall lend against its own shares.
+(ii) Any outstanding loan against its own shares shall be recovered by the mortgage guarantee company as per the repayment schedule before grant of Certificate of Registration to it.
+29. Deleted
+30. Policy for grant of guarantee
+The Board of Directors of a mortgage guarantee company shall frame a policy for the company for providing mortgage guarantee to creditor institutions. Such policy shall, inter alia, stipulate the following:-
+(a) the fee or premium chargeable for providing a mortgage guarantee based on specific identified criteria including the quantum of loan; LTV ratio; credit quality of the borrower; and credit appraisal / credit risk management skills of the bank or housing finance company,
+(b) delegation of power for providing a mortgage guarantee and to enter into a contract of guarantee,
+(c) delegation of power for taking a decision to make good the claims received from banks and housing finance companies, and
+(d) delegation of power for initiating proceedings for the recovery of its dues from the borrowers.
+31.
+Scheme of Mortgage Guarantee
+For the purpose of providing mortgage guarantee, the mortgage guarantee company shall prepare a detailed scheme duly approved by its Board of Directors. The scheme shall contain, amongst others, the following matters:
+(a) the quality of a housing loan,
+(b) the maximum portion of a housing loan granted by a bank or a housing finance company to a borrower, that may be covered under the contract of guarantee,
+(c) the minimum and the maximum LTV ratio of a housing loan proposed to be covered under the contract of guarantee,
+(d) the fee or premium or charge indicating the manner for the payment there of, payable by a borrower to the mortgage guarantee company in consideration for the contract of guarantee,
+(e) the liability of the mortgage guarantee company as to whether the liability will be co-extensive with that of the borrower or otherwise, and
+(f) the conditions governing the issue as to which party of the mortgage guarantee company or a bank / housing finance company will be required to effect recoveries from the borrower after the mortgage guarantee is invoked and the guarantee liability is made good by the mortgage guarantee company to the bank or housing finance company.
+32.
+Counter-guarantee
+Whenever a mortgage guarantee company obtains counter-guarantee cover in respect of the housing loans guaranteed by it from another mortgage guarantee company, the mortgage guarantee company and the counter-guarantee company shall establish and maintain the reserves required for a mortgage guarantee company in India in appropriate proportions in relation to the risk retained by the original mortgage guarantee company and ceded to the assuming counter-guarantee company so that the total reserves established shall not be less than the reserves required under Indian law for a mortgage guarantee company. In case the counter-guarantee company is not regulated by the regulator(s) in India, the mortgage guarantee company guaranteeing the claim shall hold relevant reserves and provisions in respect of all outstanding mortgage guarantee contracts issued by it.
+32A.
+8
+Experience of the Board
+Considering the need for professional experience in managing the affairs of the MGCs, at least one of the directors shall have relevant experience of having worked in a bank/NBFC.
+32B. Constitution of Audit Committee
+A mortgage guarantee company shall constitute an Audit Committee consisting of not less than three non-executive Directors of the Board of the company, at least one of whom will be a Chartered Accountant.
+Explanation I: If a MGC is required to constitute Audit Committee under section 177 of the Companies Act, 2013, the Audit Committee so constituted by it shall be treated as the Audit Committee for the purpose of this paragraph.
+Explanation II: The Audit Committee constituted under this paragraph shall have the same powers, functions and duties as laid down in section 177 of the Companies Act, 2013.
+32C. Risk Management Committee
+In order that the Board is able to focus on risk management, MGCs shall constitute a Risk Management Committee (RMC) either at the Board or executive level. The RMC shall be responsible for evaluating the overall risks faced by the MGCs including liquidity risk and shall report to the Board.
+32D. Key Managerial Personnel (applicable to MGCs in Middle Layer and above)
+Except for directorship in a subsidiary, Key Managerial Personnel
+9
+shall not hold any office (including directorships) in any other NBFC-ML or NBFC-UL. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. It is clarified that they can assume directorship in NBFC-BL.
+32E. Independent Director (applicable to MGCs in Middle Layer and above)
+Within the permissible limits in terms of Companies Act, 2013, an independent director shall not be on the Board of more than three NBFCs (NBFC-ML or NBFC-UL) at the same time. Further, the Board of the MGCs shall ensure that there is no conflict arising out of their independent directors being on the Board of another NBFC at the same time. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. There shall be no restriction to directorship on the Boards of NBFCs-BL, subject to provisions of Companies Act, 2013.
+32F.
+10
+Guidelines on Compensation of Key Managerial Personnel (KMP) and Senior Management
+11
+in MGCs (applicable to MGCs in Middle Layer and above)
+(1) In order to address issues arising out of excessive risk taking caused by misaligned compensation packages, MGCs are required to put in place a Board approved compensation policy. The policy shall at the minimum include
+constitution of a Remuneration Committee,
+principles for fixed/variable pay structures, and
+malus/clawback provisions.
+Further, MGCs shall comply with the guidelines furnished in
+Annex II
+of these Directions.
+(2) The guidelines are intended only for providing broad guidance to MGCs and their NRCs in formulating their compensation policy. While formulating the compensation policy, it has to be ensured that all statutory mandates and the rules and directions issued under them are fully complied with.
+(3) These guidelines shall be for fixing the compensation policy of Key Managerial Personnel and members of senior management of MGCs under the SBR framework, except Government owned MGCs (if any).
+33.
+Exemptions
+(a) The Reserve Bank may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any mortgage guarantee company or class of mortgage guarantee companies or all mortgage guarantee companies, from all or any of the provisions of these guidelines either generally or for any specified period, subject to such conditions as the Reserve Bank of India may impose.
+34. Technical Specifications for all participants of the Account Aggregator ecosystem
+The NBFC-Account Aggregator (AA) consolidates financial information, as defined in paragraph 3(1)(ix) of
+Master Direction - Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+, of a customer held with different financial entities, spread across financial sector regulators adopting different IT systems and interfaces. In order to ensure that such movement of data is secured, duly authorised, smooth and seamless, it has been decided to put in place a set of core technical specifications for the participants of the AA ecosystem. Reserve Bank Information Technology Private Limited (ReBIT), has framed these specifications and published the same on its website (
+www.rebit.org.in
+).
+MGCs acting either as Financial Information Providers
+12
+or Financial Information Users are expected to adopt the technical specifications published by ReBIT, as updated from time to time.
+CHAPTER V-A
+REGULATIONS APPLICABLE FOR MGCs IN UPPER LAYER
+34A.
+Regulatory instructions specified in
+Chapters XIII, XIV, XV and XVI
+of
+Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023
+(as amended from time to time) shall be mutatis mutandis applicable to MGCs in Upper Layer. In addition, regulatory instructions applicable to MGCs in Middle Layer in these Directions shall also be applicable to MGCs in Upper Layer, unless stated otherwise.
+CHAPTER V-B
+REGULATIONS APPLICABLE FOR MGCs IN TOP LAYER
+34B.
+MGCs falling in the Top Layer of the regulatory structure shall, inter alia, be subject to higher capital charge. Such higher requirements shall be specifically communicated to the MGC at the time of its classification in the Top Layer. There will be enhanced and intensive supervisory engagement with these MGCs.
+CHAPTER VI
+INTERPRETATION AND REPEAL PROVISIONS
+35. Interpretations
+For the purpose of giving effect to the provisions of these Directions, the Reserve Bank may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these directions given by the Reserve Bank shall be final and binding on all the parties concerned. Violation of these Directions shall invite penal action under the provisions of the Reserve Bank of India Act. Further, these Directions shall be in addition to and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+36. Repeal
+With the issue of these Directions, the instructions / guidelines contained in the circulars mentioned in the
+Annex I
+, issued by the Reserve Bank stand repealed.
+All approvals / acknowledgements given under the above circulars shall be deemed as given under the directions.
+All the repealed circulars are deemed to have been in force prior to the coming into effect of these directions.
+Annex I
+List of Circulars and Notifications stands repealed with the issuance of Master Direction 2016
+Sr No.
+Circular /Notification No.
+Date
+Subject
+1
+Notification DNBS(PD)MGC No.3/CGM(PK) -2008
+February 15, 2008
+Guidelines on Registration and Operations of Mortgage Guarantee Company
+2
+Notification DNBS(PD)MGC No.4/CGM(PK) -2008
+February 15, 2008
+3
+Notification DNBS(PD)MGC No.5/CGM(PK) -2008
+February 15, 2008
+4
+DNBS(PD-MGC) CC.No.10/03.11.01/2011-12
+December 16, 2011
+Amendment to Mortgage Guarantee Companies (Reserve Bank) Guidelines - 2008
+5
+Notification DNBS(PD)MGC No.6/CGM(US) -2011
+December 16, 2011
+6
+DNBS (PD-MGC) CC.No. 20/03.11.001/2014-15
+August 08, 2014
+Modification of Guidelines on Mortgage Guarantee Companies (MGCs)
+7
+Notification DNBS(PD)MGC No. 7/PCGM(KKV) -2014
+August 08, 2014
+8
+Notification DNBS(PD)MGC No. 8/PCGM(KKV) -2014
+August 08, 2014
+9
+Notification DNBS(PD)MGC No. 9/PCGM(KKV) -2014
+August 08, 2014
+Annex II
+Guidelines on Compensation of Key Managerial Personnel and Senior Management in MGCs: Minimum Scope and coverage
+1. Nomination and Remuneration Committee (NRC)
+The Boards of MGCs shall constitute a Nomination and Remuneration Committee (NRC). The NRC shall have the constitution, powers, functions and duties as laid down in section 178 of the Companies Act, 2013. The NRC, inter alia, shall also have the mandate to oversee the framing, review and implementation of compensation policy of the company which should have the approval of the board. The NRC may work in close coordination with RMC of the MGC to achieve effective alignment between compensation and risks. Further, the NRC may ensure that compensation levels are supported by the need to retain earnings of the MGC and the need to maintain adequate capital based on ICAAP. NRC may also ensure ‘fit and proper’ status of proposed/existing directors and that there is no conflict of interest in appointment of directors on Board of the company, KMPs and senior management.
+2. Principles for compensation
+2.1 Components and risk alignment:
+The compensation of Key Managerial Personnel (KMPs) and senior management needs to be reasonable, recognising all relevant factors including adherence to statutory requirements and industry practices. The compensation packages may comprise of fixed and variable pay components aligned effectively with prudent risk taking to ensure that compensation is adjusted for all types of risks, the compensation outcomes are symmetric with risk outcomes, compensation pay-outs are sensitive to the time horizon of the risks, and the mix of cash, equity and other forms of compensation are consistent with risk alignment.
+2.2 Composition of Fixed Pay:
+All the fixed items of compensation, including the perquisites and contributions towards superannuation/retiral benefits, may be treated as part of fixed pay. All perquisites that are reimbursable may also be included in the fixed pay so long as there are monetary ceilings on these reimbursements. Monetary equivalent of benefits of non-monetary nature (such as free furnished house, use of company car, etc.) may also be part of fixed pay.
+2.3 Principles for Variable Pay
+2.3.1 Composition of Variable Pay:
+The variable pay may be in the form of share-linked instruments, or a mix of cash and share-linked instruments. It shall be ensured that the share-linked instruments are in conformity with relevant statutory provisions.
+2.3.2 Proportion:
+The proportion of variable pay in total compensation
+13
+needs to be commensurate with the role and prudent risk taking profile of KMPs/senior management. At higher levels of responsibility, the proportion of variable pay needs to be higher. There should be proper balance between the cash and share-linked instruments in the variable pay in case the variable pay contains share linked instruments. The variable pay should be truly and effectively variable and can be reduced to zero based on performance at an individual, business-unit and company-wide level. In order to do so, performance measures and their relation to remuneration packages should be clearly defined at the beginning of the performance measurement period to ensure that the employees perceive the incentive mechanism.
+2.3.3 Deferral of variable pay:
+Not all the variable pay awarded after performance assessment may be paid immediately. Certain portion of variable pay, as decided by the Board of the company, may be deferred to time horizon of the risks. The portion of deferral arrangement may be made applicable for both cash and non-cash components of the variable pay. Deferral period for such an arrangement may be decided by the Board of the company.
+2.3.4 Control and assurance function personnel:
+KMPs and senior management engaged in financial control, risk management, compliance and internal audit may be compensated in a manner that is independent of the business areas they oversee and commensurate with their key role in the company. Accordingly, such personnel may have higher proportion of fixed compensation. However, a reasonable proportion of compensation may be in the form of variable pay, so that exercising the options of malus and/or clawback, when warranted, is not rendered infructuous.
+3. Guaranteed bonus
+Guaranteed bonus may not be paid to KMPs and senior management. However, in the context of new hiring joining/sign-on bonus could be considered. Such bonus will neither be considered part of fixed pay nor of variable pay.
+4. Malus/Clawback
+The deferred compensation may be subject to malus
+14
+/clawback
+15
+arrangements in the event of subdued or negative financial performance of the company and/or the relevant line of business or employee misconduct in any year. A representative set of situations may be identified by the MGC, which require them to invoke the malus and clawback clauses that may be applicable on entire variable pay. While setting criteria for the application of malus and clawback, MGCs may also specify a period during which malus and/or clawback can be applied, covering at least the deferral and retention periods
+16
+.
+1
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+2
+Vide
+circular DOR.CO.LIC.CC No.119/03.10.001/2020-21 dated February 12, 2021
+3
+The Financial Action Task Force (FATF) periodically identifies jurisdictions with weak measures to combat money laundering and terrorist financing (AML/CFT) in its following publications: i) High-Risk Jurisdictions subject to a Call for Action, and ii) Jurisdictions under Increased Monitoring. A jurisdiction, whose name does not appear in the two aforementioned lists, shall be referred to as a FATF compliant jurisdiction.
+4
+Potential voting power could arise from instruments that are convertible into equity, other instruments with contingent voting rights, contractual arrangements, etc. that grant investors voting rights (including contingent voting rights) in the future. In such cases, it should be ensured that new investments from FATF non-compliant jurisdictions are less than both (i) 20 per cent of the existing voting powers and (ii) 20 per cent of existing and potential voting powers assuming those potential voting rights have materialised.
+5
+Inserted vide
+circular DOR.STR.REC.20/21.04.048/2023-24 dated June 08, 2023
+6
+Vide
+Circular DOR.ACC.REC.No.23/21.02.067/2021-22 dated June 24, 2021
+.
+7
+Where a MGC has been in existence for less than three financial years, it shall be since registration
+8
+Instructions in para 32A, 32C, 32D and 32E introduced vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+9
+As defined in Section 2(51) of Companies Act, 2013, as amended from time to time.
+10
+Vide
+circular DOR.GOV.REC.No.29/18.10.002/2022-23 dated April 29, 2022
+.
+11
+As defined in ‘Explanation’ to Section 178 of the Companies Act, 2013.
+12
+The definitions of Financial Information Provider and Financial Information User are as per the
+Master Direction - Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+, as amended from time to time.
+13
+Total compensation includes fixed and variable pay
+14
+A malus arrangement permits the MGC to prevent vesting of all or part of the amount of a deferred remuneration. Malus arrangement does not reverse vesting after it has already occurred.
+15
+A clawback is a contractual agreement between the employee and the MGC in which the employee agrees to return previously paid or vested remuneration to the MGC under certain circumstances.
+16
+Retention period: A period of time after the vesting of instruments which have been awarded as variable pay during which they cannot be sold or accessed.

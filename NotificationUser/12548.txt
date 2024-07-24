@@ -1,0 +1,23 @@
+(271 kb)
+Reverse Repo transactions - Reporting in Form ‘A’ Return
+RBI/2023-24/68
+DoR.RET.REC.43/12.01.001/2023-24
+October 16, 2023
+The Chairperson / CEOs of all Commercial Banks
+Madam / Dear Sir,
+Reverse Repo transactions - Reporting in Form ‘A’ Return
+Please refer to Form A Return in the
+Master Direction - Reserve Bank of India [Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)] Directions - 2021
+(updated as on September 25, 2023) regarding the reporting of Reverse Repo transactions by Commercial Banks.
+2. In order to bring uniformity in reporting of Reverse Repo transactions in the Form A Return by various banks, it is clarified that the banks should adhere to the following practice for presentation of Reverse Repo transactions in the above return:
+A. Reverse Repo transactions with the banks should be reported as under:
+i. For original tenors up to and inclusive of 14 days
+Item III(b) of Form A (i.e. Money at call and short notice) and;
+Memo item 2.1 of Annex A to Form A (i.e. under Inter Bank Assets)
+ii. For original tenors more than 14 days
+Item III(c) of Form A (i.e. Advances to banks) and;
+Memo item 2.1 and 2.2 of Annex A to Form A (i.e. under Inter Bank Assets)
+B. Reverse Repo transactions with non-banks (other institutions) for all tenors should be reported under Item VI(a) of Form A [i.e. Loans, cash credits and overdrafts under Bank Credit in India (excluding inter-bank advances)].
+Yours faithfully,
+(Brij Raj)
+Chief General Manager

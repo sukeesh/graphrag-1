@@ -1,0 +1,29 @@
+(28 kb)
+Security and Risk Mitigation Measures for Card Present Transactions
+RBI/2013 -14/380
+DPSS (CO) PD No.1164/02.14.003/2013-14
+November  26, 2013
+The Chairman and  Managing Director / Chief Executive Officers
+All Scheduled  Commercial Banks including RRBs / Urban Co-operative Banks /
+State Co-operative  Banks / District Central Co-operative Banks/
+Authorised Card Payment  Networks
+Madam / Dear Sir,
+Security and Risk  Mitigation Measures for Card Present Transactions
+A reference is invited to our
+circular dated  September 22, 2011 on security issues and risk mitigation measures related to  Card Present (CP) transactions
+, along with circulars dated
+February 28, 2013
+and
+June 24, 2013
+on security and risk mitigation measures for electronic  payment transactions wherein various timelines were indicated for  accomplishment of tasks for securing card and electronic payment transactions.
+2. It may be recalled that the “
+Working Group on Securing Card  Present Transactions
+“ (Chairperson: Gowri Mukherjee) set up by RBI, had  recommended the evaluation of UIDAI’s Aadhaar as an effective alternative for  additional factor of authentication for domestic transactions subject to  fulfilment of certain tasks stated therein. In order to evaluate this  recommendation, another Working Group was formed by RBI to assess the  feasibility of Aadhaar (biometric validation) as additional factor of  authentication for card present transactions.
+3. The recommendations of the Working Group have been  examined by RBI. After taking into consideration the developments that have  taken place in the card payment ecosystem as well as the scalability and  effectiveness of Aadhaar over a period of time, the banks are advised as  follows:
+In respect of cards, not  specifically mandated by the Reserve Bank to adopt EMV norms, banks may take a  decision whether they should adopt Aadhaar as additional factor of  authentication or move to EMV Chip and Pin technology for securing the card  present payment infrastructure.
+All new card present  infrastructure has to be enabled for both EMV chip and PIN and Aadhaar  (biometric validation) acceptance.
+4. The directive is  issued under section 18 of Payment and Settlement Systems Act 2007, (Act 51 of  2007).
+5. Please  acknowledge the receipt of this circular.
+Yours faithfully,
+(Vijay Chugh)
+Chief General Manager

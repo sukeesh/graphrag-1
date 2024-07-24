@@ -1,0 +1,31 @@
+(387 kb)
+Individual Housing Loans: Rationalisation of Risk-Weights and LTV Ratios
+RBI/2015-16/200
+DBR.BP.BC.No. 44/08.12.015/2015-16
+October 8, 2015
+All Scheduled Commercial Banks
+Dear Sir,
+Individual Housing Loans: Rationalisation of Risk-Weights and LTV Ratios
+Please refer to paragraph 4 of the
+circular DBOD.BP.BC.No.104/08.12.015/2012-13 dated June 21, 2013
+on ‘Housing Sector: New Sub-sector CRE (Residential Housing) within CRE & Rationalisation of Provisioning, Risk-weight and LTV Ratios’, wherein the LTV ratios and risk weights for individual housing loans were prescribed. On a review, it has been decided to fix the Loan to Value (LTV) ratios and risk weights for individual housing loans as under:
+Category of loan
+LTV ratio (%)
+Risk Weight (%)
+Upto ₹ 30 lakh
+≤ 80
+35
+> 80 and ≤ 90
+50
+Above ₹ 30 lakh and upto ₹ 75 lakh
+≤ 75
+35
+> 75 and ≤ 80
+50
+Above ₹ 75 lakh
+≤ 75
+75
+All other instructions contained in the circular mentioned above will remain unchanged.
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager

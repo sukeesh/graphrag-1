@@ -1,0 +1,55 @@
+(291 kb)
+Risk Weights for Claims on Foreign Central Banks
+RBI/2015-16/202
+DBR.BP.BC.No.43/21.06.001/2015-16
+October 8, 2015
+All Commercial Banks
+(Excluding Local Area Banks and Regional Rural Banks)
+Dear Sir,
+Risk Weights for Claims on Foreign Central Banks
+Please refer to paragraph 5.3 of the
+Master Circular DBR.No.BP.BC.1/21.06.201/2015-16dated July 1, 2015
+on Basel III Capital Regulations prescribing risk weights for claims on Foreign Sovereigns.
+2. The matter of risk weights in respect of claims on foreign central banks has been examined and it is advised that claims on foreign central banks will be risk weighted in a manner similar to claims on foreign sovereigns.
+3. Accordingly, it has been decided to amend paragraph 5.3 of the Master Circular on Basel III Capital Regulations as under:
+“5.3 Claims on Foreign Sovereigns and Foreign Central Banks
+5.3.1 Subject to paragraph 5.3.2 below, claims on foreign sovereigns and their central banks will attract risk weights as per the rating assigned
+30
+to those sovereigns and central banks/ sovereign and central bank claims, by international rating agencies as follows:
+Table 2 : Claims on Foreign Sovereigns/Central Banks – Risk Weights
+S&P*/Fitch Ratings
+AAA to AA
+A
+BBB
+BB to B
+Below B
+Unrated
+Moody’s ratings
+Aaa to Aa
+A
+Baa
+Ba to B
+Below B
+Unrated
+Risk Weight (%)
+0
+20
+50
+100
+150
+100
+*Standard & Poor’s
+5.3.2 Claims on the foreign sovereign or foreign central bank in their jurisdiction, denominated in the domestic currency of that jurisdiction, met out of resources of the same currency
+31
+will attract a risk weight of zero percent. However, in case a Host Supervisor requires a more conservative treatment to such claims in the books of the foreign branches of the Indian Banks, they should adopt the requirements prescribed by the Host Country supervisors for computing capital adequacy.”
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager
+30
+For example: The risk weight assigned to an investment in US Treasury Bills by SBI branch in Paris, irrespective of the currency of funding, will be determined by the rating assigned to the Treasury Bills, as indicated in
+Table 2
+.
+31
+For example: The risk weight assigned to an investment in US Treasury Bills by SBI branch in New York will attract a zero per cent risk weight, irrespective of the rating of the claim, if the investment is funded from out of the USD denominated resources of SBI, New York. In case the SBI, New York, did not have any USD denominated resources, the risk weight will be determined by the rating assigned to the Treasury Bills, as indicated in
+Table 2
+above.

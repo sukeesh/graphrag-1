@@ -1,0 +1,67 @@
+(36 kb)
+Foreign Exchange Management (Cross Border Merger) Regulations, 2018
+Reserve Bank of India
+Foreign Exchange Department
+Central Office
+Mumbai - 400 001
+Notification No. FEMA.389/2018-RB
+Dated: March 20, 2018
+Foreign Exchange Management (Cross Border Merger) Regulations, 2018
+In exercise of the powers conferred by sub-section (3) of section (6) read with section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank makes the following regulations relating to merger, amalgamation and arrangement between Indian companies and foreign companies, namely:
+1. Short title and commencement
+These Regulations may be called the Foreign Exchange Management (Cross Border Merger) Regulations, 2018.
+They shall come into force from the date of their publication in the Official Gazette.
+2. Definitions
+In these Regulations unless the context requires otherwise, -
+‘Act’ means the Foreign Exchange Management Act, 1999 (42 of 1999);
+‘Companies Act’ means The Companies Act, 2013;
+‘Cross border merger’ means any merger, amalgamation or arrangement between an Indian company and foreign company in accordance with Companies (Compromises, Arrangements and Amalgamation) Rules, 2016 notified under the Companies Act, 2013;
+‘Foreign company’ means any company or body corporate incorporated outside India whether having a place of business in India or not;
+Explanation: for the purpose of outbound mergers, the foreign company should be incorporated in a jurisdiction specified in Annexure B to Companies (Compromises, Arrangements and Amalgamation) Rules, 2016;
+‘Inbound merger’ means a cross border merger where the resultant company is an Indian company;
+‘Indian company’ means a company incorporated under the Companies Act, 2013 or under any previous company law;
+‘NCLT’ means National Company Law Tribunal as defined under the Companies Act, 2013 or rules framed thereunder;
+‘Outbound merger’ means a cross border merger where the resultant company is a foreign company;
+‘Resultant company’ means an Indian company or a foreign company which takes over the assets and liabilities of the companies involved in the cross border merger;
+The words and expressions used but not defined in these Regulations shall have the same meanings respectively assigned to them in the Act.
+3.
+Save as otherwise provided in the Act or rules or regulations framed thereunder or with the general or special permission of Reserve Bank, no person resident in India shall acquire or transfer any security or debt or asset outside India and no person resident outside India shall acquire or transfer any security or debt or asset in India on account of cross border mergers.
+Explanation: Cross Border Mergers pending before the competent authority as on date of commencement of these regulations shall be governed by these Regulations.
+4. Inbound merger
+In an inbound merger,
+(1) the resultant company may issue or transfer any security and/or a foreign security, as the case may be, to a person resident outside India in accordance with the pricing guidelines, entry routes, sectoral caps, attendant conditions and reporting requirements for foreign investment as laid down in Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2017.
+Provided that
+where the foreign company is a joint venture (JV)/ wholly owned subsidiary (WOS) of the Indian company, it shall comply with the conditions prescribed for transfer of shares of such JV/ WOS by the Indian party as laid down in Foreign Exchange Management (Transfer or issue of any foreign security) Regulations, 2004;
+where the inbound merger of the JV/WOS results into acquisition of the Step down subsidiary of JV/ WOS of the Indian party by the resultant company, then such acquisition should be in compliance with Regulation 6 and 7 of Foreign Exchange Management (Transfer or issue of any foreign security) Regulations, 2004.
+(2) An office outside India of the foreign company, pursuant to the sanction of the Scheme of cross border merger shall be deemed to be the branch/office outside India of the resultant company in accordance with the Foreign Exchange Management (Foreign Currency Account by a person resident in India) Regulations, 2015. Accordingly, the resultant company may undertake any transaction as permitted to a branch/office under the aforesaid Regulations.
+(3) The guarantees or outstanding borrowings of the foreign company from overseas sources which become the borrowing of the resultant company or any borrowing from overseas sources entering into the books of resultant company shall conform, within a period of two years, to the External Commercial Borrowing norms or Trade Credit norms or other foreign borrowing norms, as laid down under Foreign Exchange Management (Borrowing or Lending in Foreign Exchange) Regulations, 2000 or Foreign Exchange Management (Borrowing or Lending in Rupees) Regulations, 2000 or Foreign Exchange Management (Guarantee) Regulations, 2000, as applicable.
+Provided that no remittance for repayment of such liability is made from India within such period of two years;
+Provided further that the conditions with respect to end use shall not apply.
+(4) The resultant company may acquire and hold any asset outside India which an Indian company is permitted to acquire under the provisions of the Act, rules or regulations framed thereunder. Such assets can be transferred in any manner for undertaking a transaction permissible under the Act or rules or regulations framed thereunder.
+(5) Where the asset or security outside India is not permitted to be acquired or held by the resultant company under the Act, rules or regulations, the resultant company shall sell such asset or security within a period of two years from the date of sanction of the Scheme by NCLT and the sale proceeds shall be repatriated to India immediately through banking channels. Where any liability outside India is not permitted to be held by the resultant company, the same may be extinguished from the sale proceeds of such overseas assets within the period of two years.
+(6) The resultant company may open a bank account in foreign currency in the overseas jurisdiction for the purpose of putting through transactions incidental to the cross border merger for a maximum period of two years from the date of sanction of the Scheme by NCLT.
+5. Outbound merger
+In an outbound merger,
+(1) a person resident in India may acquire or hold securities of the resultant company in accordance with the Foreign Exchange Management (Transfer or issue of any Foreign Security) Regulations, 2004.
+(2) a resident individual may acquire securities outside India provided that the fair market value of such securities is within the limits prescribed under the Liberalized Remittance Scheme laid down in the Act or rules or regulations framed thereunder.
+(3) An office in India of the Indian company, pursuant to sanction of the Scheme of cross border merger, may be deemed to be a branch office in India of the resultant company in accordance with the Foreign Exchange Management (Establishment in India of a branch office or a liaison office or a project office or any other place of business) Regulations, 2016. Accordingly, the resultant company may undertake any transaction as permitted to a branch office under the aforesaid Regulations.
+(4) The guarantees or outstanding borrowings of the Indian company which become the liabilities of the resultant company shall be repaid as per the Scheme sanctioned by the NCLT in terms of the Companies (Compromises, Arrangement or Amalgamation) Rules, 2016.
+Provided that the resultant company shall not acquire any liability payable towards a lender in India in Rupees which is not in conformity with the Act or rules or regulations framed thereunder.
+Provided further that a no-objection certificate to this effect should be obtained from the lenders in India of the Indian company.
+(5) The resultant company may acquire and hold any asset in India which a foreign company is permitted to acquire under the provisions of the Act, rules or regulations framed thereunder. Such assets can be transferred in any manner for undertaking a transaction permissible under the Act or rules or regulations framed thereunder.
+(6) Where the asset or security in India cannot be acquired or held by the resultant company under the Act, rules or regulations, the resultant company shall sell such asset or security within a period of two years from the date of sanction of the Scheme by NCLT and the sale proceeds shall be repatriated outside India immediately through banking channels. Repayment of Indian liabilities from sale proceeds of such assets or securities within the period of two years shall be permissible.
+(7) The resultant company may open a Special Non-Resident Rupee Account (SNRR Account) in accordance with the Foreign Exchange Management (Deposit) Regulations, 2016 for the purpose of putting through transactions under these Regulations. The account shall run for a maximum period of two years from the date of sanction of the Scheme by NCLT.
+6. Valuation
+(1) The valuation of the Indian company and the foreign company shall be done in accordance with Rule 25A of the Companies (Compromises, Arrangement or Amalgamation) Rules, 2016.
+7. Miscellaneous
+(1) Compensation by the resultant company, to a holder of a security of the Indian company or the foreign company, as the case may be, may be paid, in accordance with the Scheme sanctioned by the NCLT.
+(2) The companies involved in the cross border merger shall ensure that regulatory actions, if any, prior to merger, with respect to non-compliance, contravention, violation, as the case may be, of the Act or the Rules or the Regulations framed thereunder shall be completed.
+8. Reporting
+(1) The resultant company and/or the companies involved in the cross border merger shall be required to furnish reports as may be prescribed by the Reserve Bank, in consultation with the Government of India, from time to time.
+9. Deemed approval
+(1) Any transaction on account of a cross border merger undertaken in accordance with these Regulations shall be deemed to have prior approval of the Reserve Bank as required under Rule 25A of the Companies (Compromises, Arrangement and Amalgamations) Rules, 2016.
+(2) A certificate from the Managing Director/Whole Time Director and Company Secretary, if available, of the company(ies) concerned ensuring compliance to these Regulations shall be furnished along with the application made to the NCLT under the Companies (Compromises, Arrangement or Amalgamation) Rules, 2016.
+(Jyoti Kumar Pandey)
+Chief General Manager
+Foot Note:-
+Published in the Official Gazette of Government of India-Extraordinary – Part-II, Section 3, Sub-Section (i) dated 20.3.2018- G.S.R.No. 244(E)

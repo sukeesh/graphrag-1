@@ -1,0 +1,16 @@
+(321 kb)
+CIMS Project Implementation - Submission of Statutory Returns (Form A, Form VIII and Form IX) on CIMS Portal
+RBI/2024-25/16
+DoR.RET.REC.12/12.01.001/2024-25
+April 15, 2024
+The Chairperson / CEOs of all Commercial Banks
+Madam / Dear Sir,
+CIMS Project Implementation - Submission of Statutory Returns (Form A, Form VIII and Form IX) on CIMS Portal
+In terms of Para 29 of the
+Master Direction - Reserve Bank of India [Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)] Directions - 2021
+(Updated as on September 25, 2023), banks submit the statutory Form A, Form VIII and Form IX (on unclaimed deposits) Returns in electronic form on the eXtensible Business Reporting Language (XBRL) Portal.
+2. Following the launch of Reserve Bank’s next generation data warehouse, viz., the Centralised Information Management System (CIMS), it has been decided to shift the submission of Form A, Form VIII and Form IX Returns from the XBRL Portal to the CIMS Portal. Banks shall, accordingly, submit the fortnightly Form A Return from the Reporting Friday June 14, 2024, monthly Form VIII Return from May 2024 and the annual Form IX Return from December 31, 2024 respectively on the CIMS Portal only.
+3. Banks shall continue to submit Form A & Form VIII both on XBRL as well as CIMS portals concurrently till the date/month indicated above.
+Yours faithfully,
+(Manoranjan Padhy)
+Chief General Manager

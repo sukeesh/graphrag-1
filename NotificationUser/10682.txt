@@ -1,0 +1,34 @@
+(23 kb)
+External Commercial Borrowings (ECB) – Clarifications on hedging
+RBI/2016-17/110
+A.P. (DIR Series) Circular No. 15
+November 07, 2016
+To
+All Category-I Authorised Dealer Banks
+Madam / Dear Sir
+External Commercial Borrowings (ECB) – Clarifications on hedging
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to paragraphs 2.i and 3 of
+A.P. (DIR Series) Circular No.56 dated March 30, 2016
+and paragraph no. 2.5 of
+Master Direction No.5 dated January 1, 2016
+on ‘External Commercial Borrowings, Trade Credit, Borrowing and Lending in Foreign Currency by Authorised Dealers and Persons other than Authorised Dealers’ as amended from time to time, on the provisions of hedging in the ECB framework.
+2. With a view to provide clarity on the aforesaid directions and bring uniformity in hedging practices in the market so as to effectively address currency risk at a systemic level, the following clarifications are issued:
+Coverage:
+Wherever hedging has been mandated by the RBI, the ECB borrower will be required to cover principal as well as coupon
+through financial hedges
+. The financial hedge for all exposures on account of ECB should start from the time of each such exposure (i.e. the day liability is created in the books of the borrower).
+Tenor and rollover:
+A minimum tenor of one year of financial hedge would be required with periodic rollover duly ensuring that the exposure on account of ECB is
+not unhedged
+at any point during the currency of ECB.
+Natural Hedge:
+Natural hedge, in lieu of financial hedge, will be considered only to the extent of offsetting projected cash flows / revenues in matching currency, net of all other projected outflows. For this purpose, an ECB may be considered naturally hedged if the offsetting exposure has the maturity/cash flow within the same accounting year. Any other arrangements/ structures, where revenues are indexed to foreign currency will not be considered as natural hedge.
+3. The designated AD Category-I bank will have the responsibility of verifying that 100 per cent hedging requirement is complied with. All other aspects of the ECB policy shall remain unchanged.
+4. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers.
+5. Relevant paragraph of the
+Master Direction No. 5 dated January 01, 2016
+is being updated to reflect the changes.
+6. The directions contained in this circular have been issued under section 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully
+(Shekhar Bhatnagar)
+Chief General Manager-in- charge

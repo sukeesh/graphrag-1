@@ -1,0 +1,24 @@
+(79 kb)
+Liquidity Support (LS) Facility - NEFT 24 x 7
+RBI/2019-20/115
+FMOD.MAOG.No.138/01.01.001/2019-20
+December 13, 2019
+The Chairman / Managing Director / Chief Executive Officers
+of member banks participating in NEFT payment system
+Madam / Dear Sir
+Liquidity Support (LS) Facility - NEFT 24 x 7
+As announced in the
+Statement on Developmental and Regulatory Policies dated October 4, 2019
+, in order to facilitate smooth settlement of NEFT transactions in the accounts of the member banks maintained with the Reserve Bank in a 24x7 environment, it has been decided to provide an additional collateralised intra-day liquidity facility, to be called Liquidity Support (LS).
+2. The salient features of the scheme are as under:
+LS facility will be available for facilitating NEFT settlements, on 24x7 basis. The LS facility will operate as per the same terms and conditions as the Intra-Day Liquidity (IDL) facility.
+All member banks eligible for the IDL facility will be eligible to avail of the LS facility.
+The limit for LS facility would be set by the Reserve Bank from time to time. Drawings under the LS facility shall be reckoned as part of the eligible IDL limit.
+The margin requirement on LS facility would be similar to that of IDL facility.
+Outstanding drawing at the end of the day under the LS facility will be automatically converted into borrowing under the Marginal Standing Facility (MSF).
+The above MSF borrowing reversal will take place along with other LAF operations as is currently being done.
+The extant instructions on intra-day-liquidity and reversal of IDL shall continue, as hitherto.
+The Reserve Bank may review the facilities based on the experience gained in operationalizing the scheme.
+Yours faithfully
+(Radha Shyam Ratho)
+Chief General Manager

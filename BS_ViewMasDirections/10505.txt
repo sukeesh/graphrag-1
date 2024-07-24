@@ -1,0 +1,87 @@
+(98 kb)
+Investments in Non-SLR instruments by State / Central Co-operative Banks
+RBI/2016-17/14
+DCBR.BPD.BC.No. 01/19.51.026/2016-17
+Ashadha 23, 1938
+July 14, 2016
+All State / Central Co-operative Banks
+Dear Sir / Madam,
+Investments in Non-SLR instruments by State / Central Co-operative Banks
+Please refer to our
+circulars RPCD.CO.RF.BC.26/07.02.03/2005-06 dated August 4, 2005
+and
+DCBR.CO.RCBD.BC.No.5/19.51.026/2015-16 dated October 21, 2015
+on the captioned subject.
+2. With a view to providing greater flexibility to State and Central Co-operative Banks (StCBs/CCBs), the extant guidelines have been reviewed and it has been decided that StCBs/CCBs shall make investments in Non-SLR instruments subject to the following conditions:
+2.1 Prudential Limit
+Total Non-SLR investments shall not exceed 10% of the total deposits of a bank as on March 31 of the preceding financial year.
+2.2 Instruments
+StCBs / CCBs may invest in the following instruments:
+(a) "A" or equivalent and higher rated Commercial Papers (CPs), debentures and bonds.
+(b) Units of Debt Mutual Funds and Money Market Mutual Funds.
+(c) Shares of Market Infrastructure Companies (MICs), e.g. Clearing Corporation of India Ltd. (CCIL), National Payments Corporation of India (NPCI), Society for World-wide Inter-bank Financial Telecommunication (SWIFT).
+2.3 Restrictions
+(a) Investment in perpetual debt instruments is not permitted.
+(b) Fresh investments in equity of All India Financial Institutions (AIFIs) will not be permitted. The existing share-holding in these institutions may be phased out over a period of three years and till the time such investments are held in the books of the bank, they will be reckoned as Non-SLR investments for the purpose of computing the limit prescribed at 2.1 above.
+(c) Investment in units of Mutual Funds, other than units of Debt Mutual Funds and Money Market Mutual Funds, is not permitted. The existing investments in units of Mutual Funds other than Debt / Money Market Mutual Funds should be disinvested. Till the time such ineligible investments are held in the books of the bank, they will be reckoned as Non-SLR investments for the purpose of computing the limit prescribed at 2.1 above. The banks shall review their risk management policy and ensure that they do not have disproportionate exposure in any one scheme of a Mutual Fund.
+(d) Investment in unlisted securities shall be subject to a minimum rating prescribed at 2.2(a) above and shall not exceed 10 percent of the total Non-SLR investments of a bank at any time. Where banks have already exceeded the said limit, no further investment in such securities shall be made. Investment in Non-SLR debt securities (both primary and secondary market) where the security is proposed to be listed on Stock Exchange(s) may be considered as investment in listed security at the time of making the investment. If such security is not listed subsequently within the period specified, the same will be reckoned for computing the 10 percent limit prescribed for unlisted Non-SLR securities. In case such investments under the unlisted Non-SLR securities lead to breach of 10 percent limit, the bank will not be allowed to make further investments in Non-SLR securities (both primary and secondary market) till such time its investment in unlisted securities is brought within the limit of 10 percent
+(e) Investment in deep discount / zero coupon bonds shall be subject to the minimum rating as stated at 2.2(a) above and comparable market yields for the residual duration. No investment shall be made in zero coupon bonds unless the issuer has created a sinking fund for all accrued interest and keeps it invested in liquid instruments / securities (government bonds).
+(f) Non-SLR investment, other than in units of Debt Mutual Funds and Money Market Mutual Funds, and CPs, shall be in instruments with an original maturity of over one year.
+(g) All fresh investments under Non-SLR category shall be classified under “current” category only and marked to market as applicable to these categories of investments.
+(h) All Non-SLR investments shall be subject to the prudential limits prescribed for single /group counter-party exposure.
+(i) StCBs / CCBs may invest in Certificates of Deposits (CDs) issued by scheduled commercial banks (other than Regional Rural Banks and Local Area Banks) and select All-India Financial Institutions that have been permitted by RBI to raise short-term resources within the umbrella limit fixed by the Reserve Bank of India. Investment in CDs will be treated as inter-bank deposits and shall not be reckoned for computing the limit on Non-SLR investments prescribed at 2.1 above.
+2.4 Policy
+StCBs / CCBs shall review their investment policy and ensure that it is in compliance with the guidelines prescribed by the Reserve Bank of India. Banks shall put in place appropriate risk management systems for capturing and analysing the risk in respect of Non-SLR investments and taking remedial measures in time.
+2.5 Review
+The Boards of StCBs/ CCBs shall review the following aspects of Non-SLR investments at least at half-yearly intervals:
+a) Total business (investment and divestment) during the reporting period.
+b) Compliance with the prudential limits prescribed for non-SLR investment.
+c) Compliance with the prudential guidelines issued by the Reserve Bank.
+d) Rating migration of the issuers / issues held in the bank's books and consequent diminution in the portfolio quality.
+e) Extent of non-performing investments in the non-SLR category and adequacy of provisions thereof.
+2.6 Disclosure
+StCBs / CCBs shall disclose details of issuer-wise composition of Non-SLR investments and non-performing investments in 'Notes on Accounts' in their balance sheet, as indicated in the
+Annex
+.
+Yours faithfully,
+(Reeny Ajith)
+General Manager-in-Charge
+Annex
+Investments in Non-SLR instruments by State / Central Co-operative Banks –
+Disclosure Requirements
+StCBs / CCBs shall make the following disclosures in the 'Notes on Accounts' in the balance sheet in respect of their non-SLR investment portfolio:
+(i) Issuer Composition of Non SLR Investments
+(Rs. in lakh)
+No
+Issuer
+Amount
+Extent of 'Below Investment Grade' Securities
+Extent of 'Unrated' Securities
+Extent of 'Unlisted' Securities
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+1
+PSUs
+2
+FIs
+3
+Public Sector Banks
+4
+Mutual Funds
+5
+Others
+6
+Provision held towards depreciation
+(ii) Non Performing Non-SLR Investments
+Particulars
+Amount
+(Rs. in lakh)
+Opening balance
+Additions during the year since 1st April
+Reductions during the above period
+Closing balance
+Total provisions held

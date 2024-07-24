@@ -1,0 +1,47 @@
+(362 kb)
+Value Free Transfer (VFT) of Government Securities – Guidelines (Amended)
+RBI/2018-19/78
+IDMD.CDD.No.1241/11.02.001/2018-19
+November 16, 2018
+All SGL/CSGL Account holders
+Madam/Sir,
+Value Free Transfer (VFT) of Government Securities – Guidelines
+A reference is invited to Notification No.183 dated September 05, 2011 on eligibility criteria and operational guidelines for Subsidiary General Ledger (SGL) / Constituent Subsidiary General Ledger (CSGL)/ accounts(as amended thereafter) under which Value Free Transfers (VFT) of Government securities from one SGL/CSGL account to another SGL/CSGL account were allowed by the Reserve Bank. The SGL/CSGL Guidelines have since been revised vide Notifications dated 29.10.2018. It has now been decided to issue separate guidelines for VFT to enable more efficient operations in the Government securities market. Value Free Transfers between SGL/CSGL accounts not covered by this circular would require specific approval of the Reserve Bank.
+2. VFT of the government securities shall mean transfer of securities from one SGL/CSGL to another SGL/CSGL account, without consideration. Such transfers could be on account of posting of margins, inter-depository transfers of government securities arising from trades in exchanges between demat account holders of different depositories, gift/inheritance and change of custodians etc. VFT would also be required in the case of distribution of securities to the beneficiary de-mat/gilt accounts on allotment after participation in the non-competitive segment of the primary auction.
+Permitted Transactions for VFT:
+3. The following transactions shall be eligible for VFT of government securities:
+i. Transfers on account of gifts and inheritance, between one CSGL account to another.
+ii. Inter-depository transfers (between CSGL accounts of depositories) arising out of the following:
+a) own account transfer of securities by investors/brokers holding accounts in more than one depository.
+b) trades in exchanges between de-mat account holders of different depositories. In such cases, depositories shall put in place suitable mechanisms to ensure, the bonafide nature of these transfers before effecting the VFT. This will entail suitably advising the Depository Participants, to ensure that board approved risk management processes and audit oversight are applied before transactions in Government securities are accepted at their level and to confirm the same to the Depositories;
+iii. Transfer from CSGL accounts of clearing corporations to the CSGL account of the depositories or to other CSGL holders for onward transfer to clients for distribution of securities allotted during primary auction settlement;
+iv. Transfer of securities on account of mergers and amalgamations;
+v. Transfer of securities on account of change of custodians by Foreign Portfolio Investors, subject to approval by SEBI
+vi. Own account transfer of securities from SGL/CSGL accounts to CSGL of depositories, where there is no change in beneficiary ownership;
+vii. Transfer of Gilt Account Holder’s(GAH) securities from one CSGL account to another CSGL account, in case a GAH decides to close his gilt account with one CSGL account holder and open a new gilt account with another CSGL account holder.
+viii. Transfer of securities pertaining to margin requirement/collateral posting in the following cases:
+Transfer of margin/collateral between Clearing Corporation of India Ltd (CCIL) and members of CCIL.
+Transfer of margin /collateral under the Credit Support Annexes (CSA) and the Global Master Repurchase Agreement (GMRA)
+Provided that the margin/collateral should be kept in a separate CSGL account opened with RBI’s specific permission for the purpose. All such transactions should have an RBI regulated entity at least on one side of the transaction and should be subjected to concurrent and management audit. Appropriate documentation should be maintained.
+Posting of Government securities as margin /collateral in all segments of the recognized stock exchanges – CSGL account holders, will be permitted to effect VFT of Government Securities for margin/margin reversal movements between the Foreign Portfolio Investors (FPIs) and their clearing members, who are constituents/ Gilt Account holders of the CSGL account holders, for offering G-Secs as collateral to the recognized stock exchanges in India for eligible transactions in recognized stock exchanges. The CSGL account holders shall obtain a specific request along with an undertaking from the concerned FPI and their clearing members that the transactions are non-trade and only for margin/collateral purpose. Clearing members would be required to put in place a robust system for clear segregation of their proprietary securities and securities held as margin /collateral on behalf of their FPI clients.
+Posting of margin /collateral as above for domestic participants in recognized stock exchanges.
+4. The eligible entities will be allowed to initiate VFT through RBI’s Core Banking System viz., e-Kuber for the transactions mentioned at i. to viii. above. The details of the VFT effected as above may be reported by entities effecting the VFT on a weekly basis to The Regional Director, Public Debt Office, Mumbai Regional Office, RBI, Fort, Mumbai 400 001, as per the format in
+Annex I
+.
+5. Permission for VFT for any other purpose may be granted on a case to case basis. Applications for the same may be submitted to by Public Debt Office, Mumbai Regional Office, RBI, Fort, Mumbai - 400 001.
+6. These guidelines are issued by the Bank in exercise of the powers conferred under Notifications dated October 29, 2018 on
+Subsidiary General Ledger Account: Eligibility Criteria and Operational Guidelines and Constituents' Subsidiary General Ledger Account: Eligibility Criteria and Operational Guidelines
+and supersede earlier instructions issued on the subject matter. Any violations of the conditions specified therein shall attract provisions of Section 27 of the Government Securities Act, 2006 (38 of 2006), in addition to inviting penalties as provided in Section 30 of the Act ibid.
+Yours faithfully
+(A.Mangalagiri)
+Chief General Manager
+Annex I
+Report to be submitted by eligible entities effecting Value Free Transfer for permitted transactions (ref: IDMD.CDD.No1241/11.02.001/2018-19 dated November 16, 2018)
+Sl.No
+Date of transfer
+Instrument Nomenclature
+Purpose of transfer
+Transferor
+Transferee
+Face Value of the bonds
+Remarks

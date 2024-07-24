@@ -1,0 +1,263 @@
+(542 kb)
+Rationalisation of Branch Authorisation Policy- Revision of Guidelines
+RBI/2018-19/194
+DBR.RRB.BL.BC.No.40/31.01.002/2018-19
+May 31, 2019
+The Chairman
+All Regional Rural Banks
+Madam/Dear Sir,
+Rationalisation of Branch Authorisation Policy- Revision of Guidelines
+Please refer to the
+Master Circular DBR.CO.RRB.BL.BC.No.17/31.01.002/2015-16 dated July 01, 2015
+consolidating instructions/guidelines issued to Regional Rural Banks (RRBs) on Branch Licensing till June 30, 2015.
+2. In terms of announcement made in the
+first Bi-monthly Monetary Policy Statement 2016-17 on April 5, 2016
+, it was, inter alia, proposed to redefine branches and permissible methods of outreach keeping in view the various attributes of the banks and the types of services that are sought to be provided. An Internal Working group (IWG) was constituted for the purpose and its Report was also placed on our web-site on
+October 6, 2016
+seeking public comments.
+3. Taking into account the suggestions/feedback received from the Government of India and other stakeholders, final guidelines on ‘Banking Outlets’ were issued for commercial banks on
+May 18, 2017
+and now are being issued for RRBs as detailed in the
+Annex
+which shall be operational with immediate effect.
+Yours faithfully
+(Dr. S.K. Kar)
+Chief General Manager
+Encl: As above
+Extract of Statement of Developmental and Regulatory Policies, Reserve Bank of India – Issued on April 6, 2017
+11. Banking Outlets: Final Guidelines - Final guidelines are proposed to be issued on banking outlets, clarifying on what is a ‘banking outlet’ and harmonising the treatment of different forms of bank presence for the purpose of opening outlets in underserved areas. These will supersede the branch licensing guidelines in force.
+Annex
+Opening of new place of business and transfer of existing places of business
+(Section 23 of the Banking Regulation Act, 1949) – Revised Guidelines for RRBs
+1. Scope of Application
+These guidelines are applicable to all Regional Rural Banks
+2. Date of Application
+These guidelines come into effect from the date of issue of the Circular.
+3. Definitions
+The following definitions are to be used for the purpose of this policy framework:
+3.1 Banking Outlet/Part-time Banking Outlet
+3.1.1 A ‘Banking Outlet’ for a Regional Rural Bank is a fixed point service delivery unit, manned by either bank’s staff or its Business Correspondent where services of acceptance of deposits, encashment of cheques/ cash withdrawal or lending of money are provided for a minimum of four hours per day for at least five days a week. It carries uniform signage with name of the bank and authorisation from it, contact details of the controlling authorities and complaint escalation mechanism. The bank should have a regular off-site and on-site monitoring of the banking outlet to ensure proper supervision, uninterrupted service except temporary interruptions due to telecom connectivity, etc. and timely addressing of customer grievances. The working hours/days need to be displayed prominently.
+3.1.2 A banking outlet which does not provide delivery of service for a minimum of four hours per day and for at least five days a week will be considered a ‘Part-time Banking Outlet’.
+3.2 Unbanked Rural Centre
+An ‘Unbanked Rural Centre’ (URC) is a rural (Tier 5 and 6) centre that does not have a CBS-enabled banking outlet of a Scheduled Commercial Bank, a Small Finance Bank, a Payment Bank or a Regional Rural Bank nor a branch of Local Area Bank or licensed Co-operative Bank for carrying out customer based banking transactions.
+N.B.1: Extension Counters, Satellite Offices, Part-shifted Branches, Ultra Small Branches and Specialised Branches, subject to their satisfying the definition given above, shall be treated as independent ‘Banking Outlets’ or ‘Part-time Banking Outlets’, as the case may be.
+N.B.2: ATMs, E- lobbies, Bunch Note Acceptor Machines (BNAM), Cash Deposit Machines (CDM), E- Kiosks and Mobile Branches will not be treated as ‘Banking Outlets’. Point of Sale (PoS) terminals where limited cash withdrawal facility is allowed by banks in terms of extant instructions without having an arrangement with the concerned entities as ‘Business Correspondents’ will not be considered as ‘Banking Outlets’.
+4. Opening of Banking Outlets by Regional Rural Banks
+4.1 (a) Regional Rural Banks are permitted to open banking outlets in Tier 1 to Tier 6 centres (as per census 2011) as per the following arrangement:-
+For opening of banking outlets (excluding BC outlets) in Tier 1 to 4 centres, RRBs are required to obtain prior approval of RBI. Their application shall be considered, provided they fulfill the following conditions:
+Minimum CRAR of nine percent
+Net NPA ratio does not exceed five percent.
+No default in maintenance of CRR and SLR during last two years.
+Net Profit in the previous financial year.
+All branches and Head offices of the RRB should be CBS compliant and have in place system generated NPA recognition.
+4.1 (b) Regional Rural Banks will have general permission for opening banking outlets in rural centres i.e. Tier 5 and 6 centres (as per census 2011) without having the need to seek specific approval from the Reserve Bank of India in each case, subject to post facto reporting (within seven days of opening a banking outlet) to Regional Office concerned of RBI.
+(i) For opening branches in tier 1 to 4 centres during the current year, the permission for opening new branches shall be granted, only after the RRB had achieved the target of opening 25 percent of the total banking outlets in unbanked rural centres, during the previous financial year.
+(ii) RRBs opening branches in Tier 5 and 6 centres, may approach the Regional Office concerned of RBI for post-facto automatic issue of the licence/s.
+(iii) The licence should be displayed in the premises of the branch so opened for information of its customers / public to instil confidence in them that the bank branch is authorized to conduct banking business.
+4.1 (c) The Regional Office concerned of RBI, through the Empowered Committee on Regional Rural Banks, shall also be responsible for monitoring opening/closing/shifting /merger of banking outlets of the RRBs under their jurisdiction. Further, if any RRB fails to adhere to the requirement of opening 25% banking outlets in a URC, in a year, these RRBs shall not be permitted to open banking outlets in Tier 1 to Tier 4 centres.
+4.1 (d) The policy covers the opening of ‘Banking Outlets’ in all Tiers as defined on the basis of population as per Census 2011. The tier-wise and population group-wise classification of centres is provided in
+Annex I
+.
+4.2 The opening of ‘Banking Outlets’ during a financial year will be subject to the conditions given below:
+At least 25 percent of the total number of banking outlets opened during a financial year must be opened in unbanked rural centres, as defined in Para 3.2 above.
+A part-time banking outlet, opened in any Centre, will be counted and added to the denominator as well as numerator on pro rata basis for computing the requirement as well as the compliance with the norm of opening 25 per cent banking outlets in unbanked rural centres. Some illustrations on the computation of part-time banking outlet are provided under
+Annex II
+.
+A banking outlet/part-time banking outlet opened in any Tier 3 to Tier 6 centre of North-Eastern States as well as in any Tier 3 to 6 centre of Left-wing Extremism (LWE) affected districts as notified by the Government of India from time to time, will be considered as equivalent to opening a banking outlet/ part-time banking outlet, as the case may be, in a URC. A list of LWE affected districts as notified by the Government as on February 24, 2016, is being provided in
+Annex III
+. As the overall objective of these guidelines is enabling expansion of banking facilities in these under banked/ underserved centres, each banking outlet opened, irrespective of the banked/unbanked status of the centre, will be reckoned as having been opened in an URC.
+A full-fledged ‘brick and mortar’ branch opened in a rural (Tier 5 and 6) centre which is already being served by a fixed point BC outlet by any bank will be eligible to be treated as equivalent to opening a banking outlet in a URC. In other words, the first fixed point BC outlet of a bank as well as the first ‘brick and mortar’ branch of any bank opened in a URC will be reckoned for computing compliance with the 25 per cent norm.
+The time given to a bank for opening a banking outlet is one year. If a bank fails to adhere to the requirement of opening 25% banking outlets in URC in a year, appropriate penal measures, including restrictions on opening of banking outlets in Tier 1 to 4 centres (except tier 5 and 6) shall be imposed.
+4.3 To encourage the RRBs to open more number of banking outlets in unbanked rural centres, they will be allowed to carry forward the benefit of the banking outlets, if any, opened in excess of the requirement specified in para 4.2 above, for a period of next 2 years. No further extension to avail the benefit will be allowed.
+4.4. To enable banks to have information for identifying an unbanked rural centre, State Level Bankers Committees (SLBCs) shall play a constructive and proactive role. The SLBCs shall compile and have an updated list of all unbanked rural centres in the state which shall be displayed on their website. This list will facilitate banks to choose/indicate the place where they wish to open a banking outlet. Banks shall inform and coordinate with the SLBC convenor bank to earmark the centre identified by them. If a bank fails to open the banking outlet in the prescribed period of 1 year as per para 4.2 (e) above, the SLBC convenor bank may indicate the centre as available for other banks to open a banking outlet.
+4.5 If a RRB proposes to undertake government business at any of the banking outlets/part-time banking outlets, it would require prior approval of the Government authority concerned as also of Department of Government and Bank Accounts, Reserve Bank of India, Central Office, Mumbai.
+5. Merger/Closure/ Shifting/Conversion of ‘Banking Outlets’
+5.1 RRBs may shift, merge or close all banking outlets (except rural outlets and sole semi-urban outlets) at their discretion.
+5.2 Merger, closure and shifting of any rural banking outlet as well as a sole semi urban banking outlet would require approval of the DCC/DLRC and Regional Office concerned of RBI. However, conversion of any rural or sole semi-urban banking outlet into a full-fledged brick and mortar branch and vice versa would not require such approval. While merging/closing/shifting/converting a rural or a sole semi urban banking outlet, banks and DCC/DLRC shall ensure that the banking service needs at that centre continue to be met, without disruptions.
+5.3 RRBs should also ensure that customers of the banking outlet, which is being merged/closed/shifted are informed two months in advance so as to avoid inconvenience to them. Further, banks should ensure that they continue to fulfil the role entrusted to these banking outlets under the Government sponsored programmes and Direct Benefit Transfer schemes.
+5.4 It may further be ensured that banking outlets are shifted within the same or to a lesser population category, i.e., semi urban banking outlets to semi urban or rural centres and rural banking outlets to other rural centres.
+6. Annual Banking Outlet Expansion Plan
+Regional Rural Banks shall submit their Annual Banking Outlet Expansion Plan (ABOEP), with the approval of Board of Directors, together with the consolidated details of proposals for opening, closing, shifting, merger and conversion of these banking outlets as per Proforma given in
+Annex IV
+, to Regional Office concerned of RBI, and to NABARD for monitoring.
+6.2 It should be ensured that all the proposals conform to the guidelines contained in the above paras applicable to RRBs. Individual proposals for opening new branches at specific centres, for which prior permission is required from RBI, must be submitted in the prescribed
+Form VI
+in terms of Rule 12 of the Banking Regulation (Companies Rules), 1949, to the concerned Regional office of RBI with recommendation of NABARD for approval. The ABOEP and any other proposal required to be submitted to RBI in this regard should have the approval of the Board of Directors of the bank. RRBs shall ensure that an authenticated / certified copy of such approval is invariably submitted along with these proposals.
+7. Manning of ATMs/E-kiosks/CDMs/BNAMs
+Banks are allowed to set up onsite/offsite Automated Teller Machines (ATMs) at centres/places identified by them. Banks at their discretion may post suitable staff member(s) to provide guidance to the customers using the services of these outlets. Such ATMs shall not be reckoned as banking outlets as defined in paragraph 3.1 of the circular.
+8. Mobile Branches – Extension to All Tiers
+The scheme of mobile branch envisages extension of banking facilities through a well-protected van with arrangements for two or three officials of the bank sitting in it with books, safe containing cash, etc. The mobile unit would visit the places proposed to be served by it on specific days/hours. The mobile offices would be attached to a branch of an RRB.
+Regional Rural Banks are allowed to open/operate mobile branches in all Centres. These mobile branches will not be considered as ‘Banking Outlets’.
+9. Setting up of Regional Offices, Administrative Offices, Back Offices (Central Processing Centres/Service Branches) and Call Centres, etc.
+9.1 RRBs shall be allowed to open one Regional Office (RO) for every 50 banking outlets. However, RRBs are required to obtain licence from the concerned Regional Office of RBI prior to functioning / opening of these offices. RRBs having up to 50 banking outlets will be under the direct control of the Head Office, without any intermediate tier. The cases of RRBs, which require relaxation in the above norm with regard to the number of branches to be covered by one RO due to geographical / other conditions, will be examined by the Empowered Committee (EC) and referred to Central Office, Department of Banking Regulation (DBR) for consideration.
+The ROs shall not be permitted to transact any banking business. RRBs can either shift or close / merge these offices at their discretion without prior approval of RBI, but they are required to inform the change in address to the concerned Regional Office of RBI at the earliest, but not later than one month from the date of shifting. As regards closure / merger of such offices, the same may be communicated to the concerned Regional Office of RBI for cancellation immediately after the closure / merger of the office under advice to the DSIM of RBI.
+9.2 RRBs may set up Training Centres, Back Offices (Central Processing Centres (CPCs)/Service Branches), Treasury Branches and Call Centres, etc. exclusively to attend to back office functions such as and other functions incidental to their banking business after obtaining necessary permission from the concerned Regional Office of RBI. They should not have any interface with customers and shall not allowed to be converted into general banking branches.
+9.3 The banks should ensure that administrative offices, training centres, back offices i.e. CPCs/service branches, etc. which are set up exclusively to attend to back office functions such as administration, data processing, verification and processing of documents, issuance of cheque books, etc. on requests received from other banking outlets should not have any direct interface with customers for them to be not considered as banking outlets. Banks currently having specific permission to allow customer interface at these back offices (service branches and/or CPCs), have to align with the above instructions within one year from the date of this circular and report compliance to Regional offices concerned of RBI.
+10. Business Facilitator/ Business Correspondent Model
+The instructions on Business Facilitator/Business Correspondent Model as contained in our
+Master Circular DBR.CO.RRB.BL.BC.No.17/31.01.002/2015-16 dated July 01, 2015
+remain unchanged.
+11. Customer Education
+While the banks will continue to follow guidelines as indicated in our
+Master Circular DBR.CO.RRB.BL.BC.No.17/31.01.002/2015-16 dated July 01, 2015
+they should also ensure to enlighten people about banking outlets, as adequate substitutes for physical ‘brick and mortar’ branches in low population density or low population locations.
+12. Reporting Requirements
+12.1 RRBs shall furnish the information as per Proforma I (
+Annex VI
+) on opening of new place of business i.e. branch/office/NAIOs (Non-Administratively Independent Office) and Proforma II (
+Annex VII
+) on change in status – merger, conversion, closure, etc. to Department of Statistics and Information Management (DSIM), Banking Statistics Division, Reserve Bank of India, Central Office, C-8/9, Bandra-Kurla Complex, Mumbai-400051.
+12.2 As regards fixed point BC outlets classified as banking outlets, banks are required to report the data as per
+Annex VIII
+on quarterly basis starting from April 01, 2018. In order to furnish the initial statistics, banks have to furnish the first such report to DSIM, Reserve Bank of India (position as on March 31, 2017), not later than one month from the date of issue of this Circular.
+12.3 From the current year 2018-19, the reporting on opening of branches to the Department of Banking Regulation, Central Office has been dispensed with.
+13. All the salient changes made from the existing branch authorization framework are furnished in the
+Appendix
+.
+Annex I
+Details of tier-wise classification of centres based on population
+i) Classification of centres (tier-wise)
+Population (as per 2011 Census)
+Tier 1
+- 1,00,000 and above
+Tier 2
+- 50,000 to 99,999
+Tier 3
+- 20,000 to 49,999
+Tier 4
+- 10,000 to 19,999
+Tier 5
+- 5,000 to 9,999
+Tier 6
+- Less than 5000
+ii) Population-group wise classification of centres
+Rural Centre
+- Population up to 9,999
+Semi-urban centre
+- from 10,000 to 99,999
+Urban centre
+- from 1,00,000 to 9,99,999
+Metropolitan centre
+- 10,00,000 and above
+Annex II
+Illustrations for calculation of part time banking outlets
+Prescribed Period for Banking Outlet is 4 hours per day for 5 days (min. 20 hours spread over 5 days) this will remain constant denominator. For ensuring that fairly regular service is available to customers, a maximum of 4 hours per day will be counted.
+Example I
+A banking outlet works for 2 hours for 2 days
+Multiplying 2 x 2= 4 hours out of 20 prescribed hours.
+It will be counted 0.2 (4/20) outlet.
+It would be added to the denominator (if opened in any centre/any tier) and in the numerator (if opened in URC).
+Example 2:
+A banking outlet works for 6 hours for 3 days
+Max. Benefit allowed: 4 hours per day
+Hence 4x3 = 12 so 12/20 = It will be equal to 0.6 outlet.
+Example 3:
+Total no. of Banking Outlets (Full time) opened - 100
+Opened in URCs (Full time) – 30
+Opened in URCs (Part time Banking Outlet) - 2 outlets working for 6 hours for 3 days in URCs
+Max. Benefit allowed: 4 hours per day
+Hence 4x3 = 12 so 12/20 = It will be equal to 0.6 = 06*2 = 1.2 outlets.
+For computation of 25% URC,
+Total outlets opened = 100+1.2 = 101.2
+Opened in URC = 30+1.2 =31.2
+URC % = 31.2/101.2*100 = 30.83% (Complies with the norm)
+Appendix
+Revised Guidelines on Authorisation of Banking Outlets – Major Changes
+Sr. No.
+Particulars
+Old Provisions
+New Provisions
+1
+Banking Outlets/Other Outlets defined
+Branch -
+A "branch" would include all branches i.e. full-fledged branches, specialized branches, satellite offices, mobile branches Extension Counters, off-site ATMs (Automated Teller Machines), administrative offices, controlling offices, service branches (back office or processing centre) etc. A call centre will not be treated as a branch.
+In place of branch, a banking outlet (which includes a branch as well as BC outlet, amongst others) has been defined as under:
+Banking Outlet -
+A ‘Banking Outlet’ for a RRB, is a fixed point service delivery unit, manned by either bank’s staff or its Business Correspondent where services of acceptance of deposits, encashment of cheques / cash withdrawal or lending of money are provided for a minimum of 4 hours per day for at least five days a week.
+Part time Banking Outlets -
+Any fixed point service delivery unit of the bank which does not comply with the prescription regarding minimum working hours/days will be considered as a ‘Part-time Banking Outlet’.
+2
+Unbanked rural centre redefined
+Unbanked rural centres are those which do not have any brick and mortar structure of any scheduled commercial bank for customer based banking transactions.
+An unbanked rural centre (URC) is defined as a rural (Tier 5 and 6) centre that does not have a CBS-enabled ‘Banking Outlet’ of a Scheduled Commercial Bank, a Payment Bank or a SFB or a Regional Rural Bank nor a branch of a Local Area Bank or licensed Co-operative Bank for carrying out customer based banking transactions.
+3
+Condition for opening of 25% branches modified
+At least 25 percent of the total number of branches opened during a financial year (excluding entitlement for branches in Tier 1 centres given by way of incentive), must be opened in unbanked rural (Tier 5 and Tier 6) centres.
+At least 25 percent of the total number of ‘Banking Outlets’ opened during a financial year must be opened in an unbanked rural centres (Tier 5 and Tier 6).
+Pro-rata benefit for part-time banking outlet will be given.
+4.
+Procedure for opening of Branches
+RRBs are required to obtain prior approval of RBI for opening branches in Tier 1 centres. Their applications will be considered, provided they fulfill the following conditions:
+No default in maintenance of SLR and CRR during the last two years;
+Operating profits are being made;
+Net worth shows improvement; and
+Net NPA ratio does not exceed 8 per cent.
+(b) (i) RRBs are permitted to open branches in Tier 2 to Tier 6 centers (with population of up to 99,999 as per Census 2001) without having the need to take permission from Reserve Bank of India in each case, subject to reporting, provided they fulfill the following conditions as per the latest inspection report :
+CRAR of at least 9%;
+Net NPA ratio less than 5%;
+No default in maintenance of CRR / SLR for the last year; and
+Net profit in the last financial year;
+CBS compliant
+(ii) RRBs eligible to open branches in Tier 2 to Tier 6 centres, under general permission, may approach the Regional Office of RBI for post-facto automatic issue of the licence/s. The licence should be displayed in the premises of the branch so opened for information of its customers / public to instill confidence in them that the bank branch is authorized to conduct banking business.
+(iii) RRBs which are not eligible are required to apply to RBI for prior permission to open branches in Tier 2 to 6 centres. Their applications will be considered provided they fulfill the conditions laid down in paragraph II (1) (a).
+(a) Regional Rural Banks are permitted to open Banking Outlets in Tier 1 to Tier 6 centres (as per census 2011) as per the following arrangement:-
+For opening of Banking Outlets (excluding BC outlets) in Tier 1 to 4 centres, RRBs are required to obtain prior approval of RBI. Their application shall be considered, provided they fulfill the following conditions:
+Minimum CRAR of nine percent
+Net NPA ratio does not exceed five percent.
+No default in maintenance of CRR and SLR during last two years.
+Net Profit in the previous financial year.
+All branches and Head offices of the RRB should be CBS compliant and have in place system generated NPA recognition.
+(b) Regional Rural Banks will have general permission for opening Banking outlets in Tier 5 and 6 centres (as per census 2011) without having the need to seek specific approval from the Reserve Bank of India in each case, subject to post facto reporting (within seven days of opening a banking outlet) to Regional Office concerned of RBI.
+(i) For opening branches in tier 1 to 4 centres during the current year, the permission for opening new branches shall be granted, only after the RRB had achieved the target of opening 25 percent of the total banking outlets in Unbanked Rural Centres, during the previous financial year.
+(ii) RRBs opening branches in Tier 5 and 6 centres, may approach the Regional Office concerned of RBI for post-facto automatic issue of the licence/s.
+(iii) The licence should be displayed in the premises of the branch so opened for information of its customers / public to instil confidence in them that the bank branch is authorized to conduct banking business.
+5.
+Front loading of branches in Unbanked Rural Centres – delinking from FIPs
+The banks may consider front-loading (prioritizing) the opening of branches in unbanked rural centres over a 3 year cycle co-terminus with their Financial Inclusion Plan (FIP 2013-16).
+To encourage the RRBs to open more number of banking outlets in unbanked rural centres, they will be allowed to carry forward the benefit of the ‘Banking Outlets’, if any, opened in excess of the requirement specified in para 4.2 of the circular, for a period of next 2 years. No further extension to avail the benefit will be allowed.
+6.
+Merger/Closure/ Shifting/Conversion of ‘Banking Outlets’
+Shifting of Branches - At Rural Centres
+(a) The shifting of branches in rural centres may be effected by RRBs themselves
+without obtaining the prior approval of RBI
+, subject to the condition that both the existing and proposed centres are within the same block, and that the relocated branch would be able to cater adequately to the banking needs of the villages served by the existing branch.
+Shifting of Branches - At Urban / Metropolitan Centres / Semi Urban Centres
+(b)(i) RRBs may shift their branches at semi urban centres / urban / metropolitan centres within the same locality / municipal ward
+without the prior approval of RBI
+. It should, however, be ensured that the locality / ward is not rendered unbanked due to the shifting of branch/es.
+(ii) RRBs have to obtain
+prior approval of the concerned Regional Office of RBI
+for shifting of branches outside the locality / municipal ward at semi urban / urban / metropolitan centres.
+(c) RRBs may shift their branches as indicated above, but ensure that the licence of the branch is submitted to the concerned Regional Office of RBI for getting the new address incorporated therein at the earliest but not later than three months from the date of the shifting of the branch.
+(d) RRBs should, however, ensure that customers of the branch, which is being shifted, are informed well in time before actual shifting of the branch, so as to avoid inconvenience to them.
+Conversion of Branches
+(a) RRBs may themselves decide the need for conversion of the existing loss making branches into satellite / mobile offices keeping in view the cost-benefit aspect, the likely inconvenience that may be caused to the existing clientele, the effect of the conversion on the performance in the preparation of district credit plan and priority sector lending. With a view to providing better customer service in rural areas, RRBs may also convert their satellite offices into
+full-fledged branches after obtaining concurrence from the Empowered Committee (EC) and RRBs should also obtain necessary licence from the concerned Regional Office of RBI.
+(b) Conversion of branches into satellite
+offices at centres other than rural is not permissible.
+Merger of Branches -
+Where two loss making branches of any RRB are in close proximity to each other (i.e. within a distance of about 5 kms.), the RRB may consider merging the two branches with a view to rationalising the spatial spread and reducing establishment / operating costs.
+RRBs may shift, merge or close all ‘Banking Outlets’ (except rural outlets and sole semi-urban outlets) at their discretion.
+Merger, Closure and shifting of any Rural ‘Banking Outlet’ as well as a Sole Semi Urban ‘Banking Outlet’ would require approval of the DCC/DLRC and Regional office concerned of RBI. However, conversion of any rural or sole semi-urban banking outlet into a full-fledged brick and mortar branch and vice versa would not require such approval. While merging/closing/shifting/converting a rural or a sole semi urban ‘Banking Outlet’, banks and DCC/DLRC shall ensure that the banking service needs at that centre continue to be met, without disruptions.
+RRBs should also ensure that customers of the Banking Outlet, which is being merged/closed/shifted are informed two months in advance so as to avoid inconvenience to them. Further, banks should ensure that they continue to fulfil the role entrusted to these ‘Banking Outlets’ under the Government sponsored programmes and Direct Benefit Transfer Schemes.
+It may further be ensured that ‘Banking Outlets’ are shifted within the same or to a lesser population category, i.e., semi urban ‘Banking Outlets’ to semi urban or rural centres and rural ‘Banking Outlets’ to other rural centres.
+7
+Mobile Branches
+The mobile office/s should not visit the rural places which are served by cooperative banks and places served by regular offices of commercial banks.
+Regional Rural Banks are allowed to open/operate mobile branches in all Centres. These mobile branches will not be considered as Banking Outlets.
+8.
+Setting up of Administrative Offices, Back Offices (Central Processing Centres/Service Branches) and Call Centres etc.
+Although current guidelines prohibited any customer interaction, over time, some exceptions were allowed based on banks’ requests which are not uniform in nature.
+No Customer Interface will be allowed. Banks which are currently having specific permission to allow limited customer interface at CPCs will have to align with the above instructions within one year from the date of this circular.
+9
+Guidelines on Satellite Offices, Part Shifting of branches, Extension Counters, Ultra small Branches, Specialised Branches subsumed.
+Separate guidelines existed for these outlets.
+No separate guidelines required as all these outlets will be considered as banking outlets or part-time banking outlets, as the case may be.
+10
+Role of Board of Directors
+Limited to approval of Annual Branch Expansion Plans.
+Financial Inclusion being the overarching objective of the revised framework and the operational flexibility being given to banks, the Board has been given overall responsibility to ensure that all the guidelines are complied with.
+11
+Reporting Requirements
+-
+From the current year 2018-19, the reporting on opening of branches to the Department of Banking Regulation, Central Office has been dispensed with.

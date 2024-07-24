@@ -1,0 +1,22 @@
+(287 kb)
+Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+RBI/2015-16/120
+DBR.No.CID.BC.28 /20.16.056/2015-16
+July 9, 2015
+All Scheduled Commercial Banks (excluding RRBs)
+All India Notified Financial Institutions (EXIM, NABARD, NHB & SIDBI)
+All Credit Information Companies
+Dear Sir/Madam
+Data Format for Furnishing of Credit Information to Credit Information Companies and other Regulatory Measures
+Please refer to our
+circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June 27, 2014
+inter alia setting out a Uniform Credit Reporting Format for the purpose of reporting credit information to the Credit Information Companies (CICs).
+2.
+Annex I
+of the format has two parts, Consumer Bureau and Commercial Bureau. It has been decided to create a new status value viz; ‘Restructured due to Natural Calamity’ for the fields ‘Written Off and Settled Status” in the Consumer Bureau and ‘Major reasons for restructuring’ in the Commercial Bureau. This modification is intended to enable banks/FIs to report to CICs restructured/rescheduled agricultural loans on account of any declared natural calamities. The ‘Guidelines for Relief Measures by Banks in Areas affected by Natural Calamities’ are contained in RBI’s
+circular FIDD.No.FSD.BC.52/05.10.001/2014-15 dated March 25, 2015
+. Such reporting would help banks to know if any earlier loans availed by the farmers were restructured due to natural calamities.
+3. Banks/FIs/CICs should make necessary modification to their systems and commence reporting the above information w.e.f. September 30, 2015.
+Yours faithfully
+(Rajinder Kumar)
+Chief General Manager

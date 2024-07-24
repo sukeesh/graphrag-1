@@ -1,0 +1,76 @@
+(344 kb)
+Framework for Geo-tagging of Payment System Touch Points
+RBI/2021-22/187
+CO.DPSS.OVRST.No.S1738/06-08-018/2021-2022
+March 25, 2022
+The Chairman / Managing Director / Chief Executive Officer
+Banks and Non-bank Payment System Operators (PSOs)
+Madam / Dear Sir,
+Framework for Geo-tagging of Payment System Touch Points
+To facilitate nuanced spread of acceptance infrastructure and inclusive access to digital payments, the
+Monetary Policy Statement 2020-21 on October 08, 2021
+had announced that a framework for geo-tagging of physical payment acceptance infrastructure would be prescribed by Reserve Bank. Accordingly, a framework for capturing geo-tagging information of payment system touch points deployed by banks / non-bank PSOs is laid out in the
+Annex
+. The date from which the information shall be reported to Reserve Bank shall, however, be advised in due course.
+2. This framework is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully,
+(P Vasudevan)
+Chief General Manager
+(Annex to RBI circular CO.DPSS.OVRST.No.S1738/06-08-018/2021-2022 dated March 25, 2022)
+Framework for Geo-tagging of Payment System Touch Points
+A. Background
+In recent years, the payments ecosystem in India has witnessed rapid developments with a bouquet of payment systems, platforms, products and services available for consumers. Reserve Bank of India (Reserve Bank, Bank) is focused on deepening of digital payments and providing inclusive access to all citizens of the country, irrespective of their location or digital literacy. To ensure this, it is imperative that a robust payment acceptance infrastructure with multiple types of touch points exists across the length and breadth of the country and is available and accessible at all times. Capturing the accurate location of existing payment system touch points / acceptance infrastructure (hereinafter referred to as payment touch points), is essential to upscaling and chalking out intervention strategies. This requirement can be effectively facilitated by geo-tagging of payment touch points.
+B. Geo-tagging
+Geo-tagging refers to capturing the geographical coordinates (latitude and longitude) of payment touch points deployed by merchants to receive payments from their customers. Geo-tagging has various benefits, such as, provide insights on regional penetration of digital payments; monitor infrastructure density across different locations; identify scope for deploying additional payment touch points; facilitate focused digital literacy programmes. Policy interventions for realising the above benefits will be facilitated by the information thus collected.
+C. Infrastructure
+Digital payment transactions carried out by customers using payment touch points use two broad categories of physical infrastructure:
+Banking infrastructure
+comprising bank branches, offices, extension counters, Automated Teller Machines (ATMs) / Cash Deposit Machines (CDMs), Cash Recycler Machines (CRMs), micro-ATMs used by Business Correspondents (BCs), etc.
+Payment acceptance infrastructure
+comprising Points of Sale (PoS) terminals, Quick Response (QR) codes deployed by banks / non-bank Payment System Operators (PSOs), etc.
+D. Capturing payment touch point details
+Use of geo-tagging to capture the locational data of acceptance infrastructure would be subject to the following guidelines:
+Banks / Non-bank PSOs shall capture and maintain geographical coordinates for all payment touch points.
+Geo-tagging information in respect of the following shall be submitted to the Reserve Bank:
+PoS terminals
+(Mobile PoS, Soft PoS, Tablet PoS, Desktop PoS, Self-service Kiosk PoS, Android-based PoS terminals, Non-Android-based PoS terminals with GPRS SIM Card-embedded, Non-Android-based PoS terminals with PSTN Line Connectivity, etc.); and
+Paper-based / Soft QR Codes
+(Bharat QR, UPI QR, etc.).
+E. Reporting guidelines
+Information that shall be reported by banks / non-bank PSOs and procedure therefor is detailed below:
+1. Information to be submitted to Reserve Bank
+i. All banks / Non-bank PSOs shall maintain a registry with accurate location of all payment touch points across the country, including the following information:
+Merchant-related information – General merchant details
+(name, merchant ID, merchant type, merchant category, merchant contact details, merchant / payment aggregator information, if any, etc.);
+Merchant location details
+(merchant address, state, district, revenue centre, population of revenue centre, post office, pin code, population group, tier, etc.); and
+Payment acceptance infrastructure details – General payment touch point details
+(terminal type, sub-type, terminal ID, date of commencing operations, operating status, etc.) and
+Payment touch point location details
+(terminal address, state, district, revenue centre, population of revenue centre, post office, pin code, geo-co-ordinates (latitude, longitude), population group, tier, etc.).
+2. Reporting requirements and methodology
+i. All banks / Non-bank PSOs shall report information on payment touch points to the Reserve Bank through the Centralised Information Management System (CIMS) of RBI.
+ii. Reporting of information shall be in
+.txt / CSV
+file format.
+iii. Banks / Non-bank PSOs shall report two files:
+File 1 containing details on the merchants acquired / on-boarded by the banks / non-bank PSOs; and
+File 2 containing details on the payment touch points deployed by the acquired / on-boarded merchants.
+iv. Banks / Non-bank PSOs deploying payment touch points shall report to RBI:
+Details of all existing payment touch points deployed (as per timeline indicated by RBI);
+Details of additional touch points as and when deployed, within seven calendar days from operationalisation / activation of the terminal;
+Updates and changes pertaining to the existing payment touch points shall be reported within seven calendar days from date of updation / modification.
+3. Access to information reported
+Banks / Non-bank PSOs shall be provided with a facility to access / download the data relating to information reported by them.
+4. Reporting template
+Information shall be reported using the enclosed reporting template. (
+Appendix
+).
+5. Miscellaneous
+Banks / Non-bank PSOs shall be solely responsible for ensuring data pertaining to payment touch points deployed and the merchants acquired / on-boarded by them is up to date and accurate.
+Banks / Non-bank PSOs shall put in place necessary measures at their end to ensure timely capture and reporting of required information to the RBI as per the indicated timelines.
+Banks / Non-bank PSOs shall submit the contact details of the nodal officer for this activity to
+osddpssco@rbi.org.in
+by
+March 31, 2022
+. Reserve Bank shall provide login credentials to nodal officers of banks / non-bank PSOs for submitting their information in CIMS. Reserve Bank shall communicate the timeline for commencement of reporting in CIMS in due course.

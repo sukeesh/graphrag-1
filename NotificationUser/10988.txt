@@ -1,0 +1,41 @@
+(56 kb)
+Introduction of Legal Entity Identifier for OTC derivatives markets
+RBI/2016-17/314
+FMRD.FMID No.14/11.01.007/2016-17
+June 01, 2017
+To
+All eligible participants in the OTC derivatives markets
+Dear Sir/Madam
+Introduction of Legal Entity Identifier for OTC derivatives markets
+The Legal Entity Identifier (LEI) code has been conceived of as a key measure to improve the quality and accuracy of financial data systems for better risk management post the Global Financial Crisis. The LEI is a 20-character unique identity code assigned to entities who are parties to a financial transaction.
+2. It has been decided to implement the LEI system for all participants in the Over-the-Counter (OTC) markets for Rupee Interest Rate derivatives, foreign currency derivatives and credit derivatives in India, in a phased manner. Accordingly, all current and future participants would be required to obtain the unique LEI code as per time lines indicated in the attached schedule (
+Annex
+). Entities without an LEI code would not be eligible to participate in the OTC derivative markets, after the date specified in the schedule.
+3. Entities can obtain LEI from any of the Local Operating Units (LOUs) accredited by the Global Legal Entity Identifier Foundation (GLEIF) – the entity tasked to support the implementation and use of the LEI. In India, LEI code may be obtained from Legal Entity Identifier India Ltd.(LEIL) (
+https://www.ccilindia-lei.co.in
+), which has been recognised by the Reserve Bank as issuer of LEI under the Payment and Settlement Systems Act, 2007 and is accredited by the GLEIF as the Local Operating Unit (LOU) in India for issuance and management of LEI.
+4. The rules, procedure and documentation requirements may be ascertained from LEIL (
+https://www.ccilindia-lei.co.in/USR_FAQ_DOCS.aspx
+).
+5. After obtaining LEI code, entities should ensure that they are renewed as per GLEIF guidelines. Lapsed LEIs will not be deemed valid for Trade Repository (TR) reporting.
+6. These directions are issued under Section 45(W) of the RBI Act, 1934.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+Annex
+Schedule for Implementation of LEI for various entities
+Phase
+Entities
+Date by which the LEI code is to be obtained
+Phase I
+Entities regulated by RBI / SEBI / IRDA / PFRDA and Corporates With Net Worth above Rs 10000 mn
+August 1, 2017
+Phase II
+Corporates With Net Worth between Rs 2000 mn and Rs 10000 mn
+October 1, 2017
+Phase III
+Corporates With Net Worth between Rs 700 mn and Rs 2000 mn
+December 1, 2017
+Phase IV
+Corporates With Net Worth between Rs 700 mn and below
+March 31, 2018

@@ -1,0 +1,33 @@
+(457 kb)
+Credit Information Reporting in respect of Self Help Group (SHG) members
+RBI/2015-16/424
+DBR.CID.BC.No.104/20.16.56/2015-16
+June 16, 2016
+All Scheduled Commercial banks (including RRBs)
+All Non-Banking Financial Companies (NBFCs)
+All Primary (Urban) Co-operative Banks,
+State / Central Co-operative Banks
+All Credit Information Companies
+Dear Sir/Madam
+Credit Information Reporting in respect of Self Help Group (SHG) members
+Please refer to the instructions contained in paragraph 6 of our
+circular DBR.CID.BC.No.73/20.16.56/2015-16 dated January 14, 2016
+advising banks to put in place necessary systems and procedures including making necessary changes to their systems software so as to be able to begin collection of the relevant information from the SHG members and the reporting of the required information to Credit Information Companies (CICs)
+1
+.
+2. It has been decided to incorporate the SHG member level data into the existing Microfinance data sharing file format issued vide our
+circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June 27, 2014
+. A mapping of the relevant individual SHG member level data of Table 3 of the
+circular DBR.CID.BC.No.73/20.16.56/2015-16 dated January 14, 2016
+to the relevant fields of Microfinance data sharing file format is enclosed in
+Annex I
+.
+3. The modified view of Microfinance Data file format to be submitted to all the four CICs from July 1, 2016 is given in
+Annex II
+.
+Yours faithfully,
+(Rajinder Kumar)
+Chief General Manager
+Encl: As above
+1
+All Non-Banking Financial Companies (NBFCs) must also follow the directions contained in this circular if they finance SHGs.

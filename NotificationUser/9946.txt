@@ -1,0 +1,26 @@
+(57 kb)
+Guidelines on issue of ATM-cum-debit cards
+RBI/2015-2016/130
+DCBR.BPD. (PCB/RCB).Cir.No. 1/16.20.000/2015-16
+July 16, 2015
+The Chief Executive Officers of
+All Primary (Urban) Co-operative Banks/
+All State Co-operative Banks (StCBs)/
+All District Central Co-operative Banks
+Dear Sir/ Madam,
+Guidelines on issue of ATM-cum-debit cards
+Please refer to our
+circular UBD(PCB) Cir No.6/09.18.300/2007-08 dated July 13, 2007
+issued to UCBs on the captioned subject and
+circular DCBR.CO. RCB.No.BC.29/19.51.008/2014-15 dated April 16, 2015
+issued to StCBs on installation of offsite/ mobile ATMs.
+2. We have been receiving representations from banks not having their own ATMs seeking permission to issue ATM-cum-debit cards to their customers in tie-up with banks having their own ATM network. The matter has been examined keeping in view the requirement to become a direct member or a sub-member of the National Financial Switch (NFS) for carrying out such transactions. Banks are required to fulfil the following criteria for becoming a sub-member of NFS network –
+Core Banking Solution (CBS) fully implemented.
+Licence for conducting banking business.
+Introduction from sponsor bank (a bank having ATM network connectivity).
+Connectivity with National Payment Corporation of India (NPCI).
+3. As a precursor to moving towards a less-cash economy, it is necessary to inculcate the habit of using electronic payment channels among bank customers. With this in view, it has been decided to permit co-operative banks which are CBS enabled, to issue ATM cards/ ATM-cum-debit cards in tie-up with a sponsor bank.
+4. Such banks, being sub-members of National Financial Switch (NFS), are required to fulfil the risk management requirements prescribed by the sponsor bank and meet expenses devolving on them under the agreement with the sponsor bank. Banks should setup their own arrangement for issuing cards, authorization of cards and customer support/ redressal mechanism and ensure to provide uninterrupted services to their customers.
+Yours faithfully,
+(Reeny Ajith)
+General Manager

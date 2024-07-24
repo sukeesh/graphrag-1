@@ -1,0 +1,38 @@
+(272 kb)
+FETERS – Cards: Monthly Reporting
+RBI/2020-21/113
+A.P. (DIR Series) Circular No.13
+March 25, 2021
+To
+All Category-I Authorised Dealer Banks
+Madam / Sir,
+FETERS – Cards: Monthly Reporting
+Attention of Authorised Dealers (Category I) is invited to
+A.P. (DIR Series) Circular No. 50 dated February 11, 2016
+on compilation of R-Returns for reporting under the Foreign Exchange Transactions Electronic Reporting System (FETERS). It has been decided to collect more details of international transactions using credit card / debit card / unified payment interface (UPI) along with their economic classification (merchant category code – MCC) through a new return called ‘FETERS-Cards’, using the same web-portal (
+https://bop.rbi.org.in
+).
+2. Nodal offices of Authorised Dealers (ADs) may submit FETERS-Cards details on the web-portal in the following manner:
+A. For transactions through credit card / debit card / UPI:
+Sale of forex by AD towards international transaction made by Indian resident (to be reported by the card issuing / transaction originating AD); and
+Purchase of forex by AD under transaction by foreign resident with Indian resident (to be reported by merchant acquirer AD).
+B. The information shall be submitted in the following fixed format (details given in
+Annex
+):
+For transactions using credit/debit card:
+MCC X Country X Currency X Amount (Payment/Refund) X Card Status (Present /Not present)
+For transactions through UPI:
+MCC X Country X Currency X Amount (Payment/Refund) X QR Code Scan (Yes/No)
+3. AD Banks need to report all card transactions (e.g., through PoS terminals / e-commerce (online purchase) / for transferring funds to bank accounts).
+4. Data submission by ADs:
+ADs shall submit the FETERS-Cards data on the web-portal (
+https://bop.rbi.org.in
+) by using the RBI-provided login-name and password, within seven working days from the last date of the month for which data are being reported. The web-portal provides detailed guidance and help material.
+FETERS-Cards reporting will be implemented for the transactions taking place from April 1, 2021. Hence, details of the transactions in April 2021 may be reported in the first week of May 2021.
+In case of any clarifications, banks may send their queries through
+e-mail
+or contact by phone at 022-26578416 or 022-26571154 (direct).
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully
+Ajay Kumar Misra
+Chief General Manager-in-Charge

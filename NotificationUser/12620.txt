@@ -1,0 +1,126 @@
+(691 kb)
+Amendment to the Master Direction - Credit Card and Debit Card – Issuance and Conduct Directions, 2022
+RBI/2023-24/132
+DOR.RAUG.AUT.REC.No.81/24.01.041/2023-24
+March 07, 2024
+The Chairperson / Managing Director / Chief Executive Officer
+Banks and Non-Banking Financial Companies
+Madam / Sir,
+Amendment to the Master Direction - Credit Card and Debit Card – Issuance and Conduct Directions, 2022
+In exercise of the powers conferred by Section 35A of the Banking Regulation Act, 1949 and Chapter IIIB of the Reserve Bank of India Act, 1934, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby, amends certain provisions issued vide
+Master Direction DoR.AUT.REC.No.27/24.01.041/2022-23 dated April 21, 2022
+on ‘Credit Card and Debit Card – Issuance and Conduct Directions, 2022’.
+2. The amended provisions of the Master Direction are enclosed in the
+Annex
+to this circular.
+Frequently Asked Questions
+relating to the provisions contained in the Master Direction are placed under
+FAQ Section
+on the website and as an Appendix to the Master Direction.
+3. Commencement
+The amended provisions contained in this circular shall come into effect from March 07, 2024. The captioned Master Direction is hereby updated to reflect the changes effected by the below amendments.
+4. Applicability
+Instructions relating to credit cards shall apply to all credit card issuing Banks and Non-Banking Financial Companies (NBFCs).
+Instructions relating to debit cards shall apply to every bank operating in India.
+(Manoranjan Padhy)
+Chief General Manager
+Annex
+I. Amendment to the existing provisions of the Master Direction (MD)
+Para of MD
+Existing Provision
+Amended Provision
+7(c)
+Card-issuers may issue business credit cards to business entities/individuals for business expenses. The business credit cards may also be issued as charge cards, corporate credit cards or by linking a credit facility such as overdraft/cash credit provided for business purpose as per the terms and conditions stipulated for the facility concerned. Corporate credit cards can be issued together with add-on cards wherever required.
+Card-issuers may issue business credit cards to business entities/individuals for business expenses. The business credit cards may also be issued as charge cards, corporate credit cards or by linking a credit facility such as overdraft/cash credit provided for business purpose as per the terms and conditions stipulated for the facility concerned. The card-issuers shall put in place an effective mechanism to monitor end use of funds. Business credit cards can be issued together with add-on cards wherever required.
+8(a)
+Failure on the part of the card-issuers to complete the process of closure within seven working days shall result in a penalty of ₹500 per day of delay payable to the cardholder, till the closure of the account provided there is no outstanding in the account.
+Failure on the part of the card-issuers to complete the process of closure within seven working days shall result in a penalty of ₹500 per calendar day of delay payable to the cardholder, till the closure of the account provided there is no outstanding in the account.
+9(b)(iii)
+Card-issuers shall inform the cardholders of the implications of paying only ‘the minimum amount due’. A legend/warning to the effect that “Making only the minimum payment every month would result in the repayment stretching over months/years with consequential compounded interest payment on your outstanding balance" shall be prominently displayed in all the billing statements to caution the cardholders about the pitfalls in paying only the minimum amount due. The MITC shall specifically explain that the ‘interest-free credit period’ is suspended if any balance of the previous month’s bill is outstanding. The card-issuers shall specify in the billing statement, the level of unpaid amount of the bill i.e., part payment beyond ‘minimum amount due’, at which the interest-free credit period benefits would not be available to cardholders.
+Card-issuers shall inform the cardholders of the implications of paying only ‘the minimum amount due’. A legend/warning to the effect that “Making only the minimum payment every month would result in the repayment stretching over months/years with consequential compounded interest payment on your outstanding balance" shall be prominently displayed in all the billing statements to caution the cardholders about the pitfalls in paying only the minimum amount due. The MITC shall specifically explain that the ‘interest-free credit period’ is suspended if any balance of the previous month’s bill is outstanding.
+9(b)(v)
+Card-issuers shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges and other related charges, if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement, as specified under the regulatory instructions on ‘Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances’ amended from time to time. Penal interest, late payment charges and other related charges shall be levied only on the outstanding amount after the due date and not on the total amount.
+Card-issuers shall report a credit card account as 'past due' to credit information companies (CICs) or levy penal charges, viz. late payment charges and other related charges, if any, only when a credit card account remains 'past due' for more than three days. The number of 'days past due' and late payment charges shall, however, be computed from the payment due date mentioned in the credit card statement, as specified under the regulatory instructions on ‘Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances’ amended from time to time. Late payment charges and other related charges shall be levied, only on the outstanding amount after the due date, and not on the total amount due.
+10(d)
+1
+Card-issuers do not follow a standard billing cycle for all credit cards issued. In order to provide flexibility in this regard, cardholders shall be provided a one-time option to modify the billing cycle of the credit card as per their convenience.
+Card-issuers do not follow a standard billing cycle for all credit cards issued. In order to provide flexibility in this regard, cardholders shall be provided option to modify the billing cycle of the credit card at least once, as per the cardholders’ convenience.
+12(b)
+Before reporting default status of a credit cardholder to a Credit Information Company, the card-issuers shall ensure that they adhere to a procedure, duly approved by their Board, including issuing of a seven-day notice period to such cardholder about the intention to report him/her as defaulter to the Credit Information Company. In the event the customer settles his/her dues after having been reported as defaulter, the card-issuer shall update the status within 30 days from the date of settlement. Card-issuers shall be particularly careful in the case of cards where there are pending disputes. The disclosure/release of information, particularly about the default, shall be made only after the dispute is settled. In all cases, a well laid down procedure shall be transparently followed and be made a part of MITC.
+Before reporting default status of a credit cardholder to a Credit Information Company (CIC), the card-issuers shall ensure that they adhere to the procedure, approved by their Board, and intimate the cardholder prior to reporting of the status. In the event the customer settles his/her dues after having been reported as defaulter, the card-issuer shall update the status with CIC within 30 days from the date of settlement. Card-issuers shall be particularly careful in the case of cards where there are pending disputes. The disclosure/release of information, particularly about the default, shall be made only after the dispute is settled. In all cases, a well laid down procedure shall be transparently followed and be made a part of MITC.
+14(c)
+No bank shall issue debit cards to cash credit/loan account holders. However, it will not preclude the banks from linking the overdraft facility provided along with Pradhan Mantri Jan Dhan Yojana accounts with a debit card.
+No bank shall issue debit cards to cash credit/loan accounts. However, it will not preclude the banks from linking the overdraft facility provided along with Pradhan Mantri Jan Dhan Yojana accounts or Kisan Credit Card accounts with a debit card.
+15
+2
+Other Form Factors
+(a) Scheduled Commercial Banks (other than RRBs) may issue other form factors in place of a plastic debit card such as wearables after obtaining explicit consent from the customer.
+(b) Form factors issued in place of a debit card shall be subject to the specific and general guidelines applicable to debit cards.
+(c) Banks shall provide options for disabling or blocking the form factor through mobile banking, internet banking, SMS, IVR or any other mode.
+(d) Banks shall submit a detailed report to the Department of Regulation, Reserve Bank of India, prior to the issuance of any such form factors. Any bank that has already issued such product prior to the effective date of the Master Direction, shall submit a detailed report to Department of Regulation within 30 days from the effective date.
+CHAPTER – IV
+16. Issue of Form Factor
+(a) Card-issuers may issue other form factors in place of/in addition to a plastic debit/credit card such as wearables, after obtaining explicit consent from the customer.
+(b) Form factors shall be subject to all the specific and general guidelines applicable to the respective cards.
+(c) Card-issuers shall provide options for disabling or blocking the form factor in line with the instructions issued by the Reserve Bank from time to time
+.
+17(b)
+The co-branded credit/debit card shall explicitly indicate that the card has been issued under a co-branding arrangement. The co-branding partner shall not advertise/market the co-branded card as its own product. In all marketing/advertising material, the name of the card-issuer shall be clearly shown.
+The co-branded card shall explicitly indicate that the card has been issued under a co-branding arrangement. The co-branding partner shall not advertise/market the co-branded card as its own product. In all marketing/advertising material, the name of the card-issuer shall be clearly shown.
+21(b)
+The co-branding partner shall not have access to information relating to transactions undertaken through the co-branded card. Post issuance of the card, the co-branding partner shall not be involved in any of the processes or the controls relating to the co-branded card except for being the initial point of contact in case of grievances.
+The co-branding partner (CBP) shall not have access to information relating to transactions undertaken through the co-branded card. Post issuance of the card, the CBP shall not be involved in any of the processes or the controls relating to the co-branded card except for being the initial point of contact in case of grievances. However, for the purpose of cardholder’s convenience, card transaction related data may be drawn directly from the card-issuer’s system in an encrypted form and displayed in the CBP platform with robust security. The information displayed through the CBP’s platform shall be visible only to the cardholder and shall neither be accessed nor be stored by the CBP.
+22
+Co-branding arrangement between banks and NBFCs for Credit Cards
+NBFCs, which desire to enter into a co-branding arrangement for issue of credit cards with a card-issuer, shall also be guided by the Guidelines on issue of Co-Branded Credit Cards contained in the respective Master Directions applicable to NBFCs, as amended from time to time.
+Co-branding with card-issuers
+Prior approval shall not be required by the banks (all banks including Payments Banks, State Co-operative Banks and District Central Co-operative Banks) and NBFCs registered with the Reserve Bank (NBFCs – ICC, HFC, Factor, MFI, and IFC) to become a co-branding partner of card-issuers. The role of the co-branding partner shall be as per the conditions stipulated under para 21.
+23(g)
+3
+No card-issuer shall dispatch a card to a customer unsolicited, except in the case where the card is a replacement/renewal of a card already held by the customer. In case a card is blocked at the request of the customer, replacement card in lieu of the blocked card shall be issued with the explicit consent of the customer. Further, card-issuer shall obtain explicit consent of the cardholder prior to the renewal of an existing card.
+No card-issuer shall dispatch a card to a customer unsolicited. In case of renewal of an existing card, the cardholder shall be provided an option to decline the same if he/she wants to do so before dispatching the renewed card. Further, in case a card is blocked at the request of the cardholder, replacement card in lieu of the blocked card shall be issued with the explicit consent of the cardholder.
+26(c)
+Card-issuers shall be liable to compensate the complainant for the loss of his/her time, expenses, financial loss as well as for the harassment and mental anguish suffered by him/her for the fault of the card-issuer and where the grievance has not been redressed in time. If a complainant does not get satisfactory response from the card-issuer within a maximum period of one month from the date of lodging the complaint, he/she will have the option to approach the Office of the concerned RBI Ombudsman for redressal of his/her grievance/s.
+Card-issuers shall be liable to compensate the complainant for the loss of his/her time, expenses, financial loss as well as for the harassment and mental anguish suffered by him/her for the fault of the card-issuer and where the grievance has not been redressed in time. If a complainant does not get satisfactory response from the card-issuer within a maximum period of 30 days from the date of lodging the complaint, he/she will have the option to approach the Office of the RBI Ombudsman under Integrated Ombudsman Scheme for redressal of his/her grievance/s.
+27(a)
+Card-issuers shall not reveal any information relating to customers obtained at the time of opening the account or issuing the card to any other person or organization without obtaining their explicit consent, with regard to the purpose/s for which the information will be used and the organizations with whom the information will be shared. Card-issuers shall ensure strict compliance to the extant legal framework on data protection. Further, in case where the customers give explicit consent for sharing the information with other agencies, card-issuers shall explicitly state and explain clearly to the customer the full meaning/implications of the disclosure clause. The information sought from customers shall not be of such nature which will violate the provisions of law relating to maintenance of secrecy in the transactions. The card-issuers shall be solely responsible for the correctness or otherwise of the data provided for the purpose.
+Card-issuers shall not reveal any information relating to customers obtained at the time of opening the account or issuing the card to any other person or organization without obtaining their explicit consent, with regard to the purpose/s for which the information will be used and the organizations with whom the information will be shared. Card-issuers shall ensure strict compliance to the extant legal framework on data protection. Further, in case where the customers give explicit consent for sharing the information provided by them with other agencies, card-issuers shall clearly state and explain to the customer the full meaning/implications of the disclosure clause. The information sought from customers shall not be of such nature which will violate the provisions of law relating to maintenance of secrecy in the transactions. The card-issuers shall be solely responsible for the correctness or otherwise of the data provided for the purpose.
+27(c)
+Card-issuers, which were granted specific approvals for issue of co-branded debit cards in the past, are advised to ensure that the co-branding arrangement is in conformity with the instructions issued under Chapter IV above. In case, the co-branding arrangement is between two banks, the card issuing bank shall ensure compliance with the relevant instructions.
+Card-issuers, which were granted specific approvals for issuance of co-branded cards in the past, are advised to ensure that the co-branding arrangement is in conformity with the instructions issued under Chapter V above. In case, the co-branding arrangement is between two banks, the card issuing bank shall ensure compliance with the relevant instructions.
+28
+Card-issuers shall ensure adherence to the guidelines on “Managing Risks and Code of Conduct in Outsourcing of Financial Services” as amended from time to time.
+Card-issuers shall ensure adherence to the
+Master Direction DoS.CO.CSITEG/SEC.1/31.01.015/2023-24 dated April 10, 2023 on ‘Outsourcing of Information Technology Services
+’ and guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services’, as amended from time to time. Further, the card-issuers shall not share card data (including transaction data) of the cardholders with the outsourcing partners unless sharing of such data is essential to discharge the functions assigned to the latter. In case of sharing of any data as stated above, explicit consent from the cardholder shall be obtained. It shall also be ensured that the storage and the ownership of card data remains with the card-issuer.
+II. New provisions added in the MD
+The following provisions have been added:
+i. Para 3(a)(xxi) -
+Total Amount Due
+is the total amount (net of credit received during the billing cycle, if any) payable by the cardholder as per the credit card statement generated at the end of a billing cycle.
+ii. Para 9(b)(vi) - Interest shall be levied only on the outstanding amount, adjusted for payments/refunds/reversed transactions.
+iii. Para 10(c) - Card-issuers shall provide the list of payment modes authorised by them for making payment towards the credit card dues, in their websites and billing statements. Further, card-issuers shall advise cardholders to exercise due caution and refrain from making payments through modes other than those authorised by them.
+iv. Para 10(e) - Any debit to the credit card account shall be done as per the authentication framework prescribed by the Reserve Bank from time to time, and not through any other mode/instrument.
+v. Para 10(i) - For business credit cards wherein the liability rests fully with the corporate or business entity (principal account holder), timeframe provided for payment of dues and adjustment of refunds may be as agreed between the card-issuer and the principal account holder.
+vi. Para 23(d) - In case card-issuers, at their discretion, decide to block/deactivate/suspend a debit or credit card, it shall be ensured that a standard operating procedure is followed as approved by their Board. Further, it shall also be ensured that blocking/deactivating/suspending a card or withdrawal of benefits available on any card is immediately intimated to the cardholder along with reasons thereof through electronic means (SMS, email, etc.) and other available modes.
+III. Repeal of circular/paragraph
+The following circular/paragraph stands repealed with the issuance of these directions:
+Circular/paragraph
+Date
+Subject
+RPCD.CO.RF.BC.No.2/07.06.00/2005-06
+September 17, 2005
+Approval for Co-branded Domestic Credit Card Business
+DCBR.CO.BPD.(SCB).No.1/13.05.000/2014-15
+April 30, 2015
+First Bi-monthly Monetary Policy Statement 2015-16 – Issue of Credit Cards by Scheduled Urban Cooperative Banks
+Paragraph 60 and Annex XVII of the
+Master Direction – Reserve Bank of India (Non-Banking Financial Company– Scale Based Regulation) Directions, 2023
+October 19, 2023
+Issue of Co-branded Credit Cards
+1
+New provisions have been added under Para 10 of the Master Direction, therefore, para number of this provision has changed to 10(f).
+2
+The para has been shifted to a separate Chapter IV of the Master Direction.
+3
+A new provision has been added under Para 23 of the Master Direction, therefore, para number of this provision has changed to 23(h).

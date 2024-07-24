@@ -1,0 +1,351 @@
+(224 kb)
+Resolution of Stressed Assets – Revised Framework
+RBI/2017-18/131
+DBR.No.BP.BC.101/21.04.048/2017-18
+February 12, 2018
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks (RRB)),
+All-India Financial Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Dear Sir/Madam,
+Resolution of Stressed Assets – Revised Framework
+1. The Reserve Bank of India has issued various instructions aimed at resolution of stressed assets in the economy, including introduction of certain specific schemes at different points of time. In view of the enactment of the Insolvency and Bankruptcy Code, 2016 (IBC), it has been decided to substitute the existing guidelines with a harmonised and simplified generic framework for resolution of stressed assets. The details of the revised framework are elaborated in the following paragraphs.
+I. Revised Framework
+A. Early identification and reporting of stress
+2. Lenders
+1
+shall identify incipient stress in loan accounts, immediately on default
+2
+, by classifying stressed assets as special mention accounts (SMA) as per the following categories:
+SMA Sub-categories
+Basis for classification – Principal or interest payment or any other amount wholly or partly overdue between
+SMA-0
+1-30 days
+SMA-1
+31-60 days
+SMA-2
+61-90 days
+3. As provided in terms of the
+circular DBS.OSMOS.No.14703/33.01.001/2013-14 dated May 22, 2014
+and subsequent amendments thereto, lenders shall report credit information, including classification of an account as SMA to Central Repository of Information on Large Credits (CRILC) on all borrower entities having aggregate exposure
+3
+of ₹ 50 million and above with them. The CRILC-Main Report will now be required to be submitted on a monthly basis effective April 1, 2018. In addition, the lenders shall report to CRILC, all borrower entities in default (with aggregate exposure of ₹ 50 million and above), on a weekly basis, at the close of business on every Friday, or the preceding working day if Friday happens to be a holiday. The first such weekly report shall be submitted for the week ending February 23, 2018.
+B. Implementation of Resolution Plan
+4. All lenders must put in place Board-approved policies for resolution of stressed assets under this framework, including the timelines for resolution. As soon as there is a default in the borrower entity’s account with any lender, all lenders − singly or jointly − shall initiate steps to cure the default. The resolution plan (RP) may involve any actions / plans / reorganization including, but not limited to, regularisation of the account by payment of all over dues by the borrower entity, sale of the exposures to other entities / investors, change in ownership, or restructuring
+4
+. The RP shall be clearly documented by all the lenders (even if there is no change in any terms and conditions).
+C. Implementation Conditions for RP
+5. A RP in respect of borrower entities to whom the lenders continue to have credit exposure, shall be deemed to be ‘implemented’ only if the following conditions are met:
+a. the borrower entity is no longer in default with any of the lenders;
+b. if the resolution involves restructuring; then
+all related documentation, including execution of necessary agreements between lenders and borrower / creation of security charge / perfection of securities are completed by all lenders; and
+the new capital structure and/or changes in the terms of conditions of the existing loans get duly reflected in the books of all the lenders and the borrower.
+6. Additionally, RPs involving restructuring / change in ownership in respect of ‘large’ accounts (i.e., accounts where the aggregate exposure of lenders is ₹ 1 billion and above), shall require independent credit evaluation (ICE) of the residual debt
+5
+by credit rating agencies (CRAs) specifically authorised by the Reserve Bank for this purpose. While accounts with aggregate exposure of ₹ 5 billion and above shall require two such ICEs, others shall require one ICE. Only such RPs which receive a credit opinion of RP4
+6
+or better for the residual debt from one or two CRAs, as the case may be, shall be considered for implementation. Further, ICEs shall be subject to the following:
+The CRAs shall be directly engaged by the lenders and the payment of fee for such assignments shall be made by the lenders.
+If lenders obtain ICE from more than the required number of CRAs, all such ICE opinions shall be RP4 or better for the RP to be considered for implementation.
+7. The above requirement of ICE shall be applicable to restructuring of all large accounts implemented from the date of this circular, even if the restructuring is carried out before the ‘reference date’ stipulated in paragraph 8 below.
+D. Timelines for Large Accounts to be Referred under IBC
+8. In respect of accounts with aggregate exposure of the lenders at ₹ 20 billion and above, on or after March 1, 2018 (‘reference date’), including accounts where resolution may have been initiated under any of the existing schemes as well as accounts classified as restructured standard assets which are currently in respective specified periods (as per the previous guidelines), RP shall be implemented as per the following timelines:
+If in default as on the reference date, then 180 days from the reference date.
+If in default after the reference date, then 180 days from the date of first such default.
+9. If a RP in respect of such large accounts is not implemented as per the timelines specified in paragraph 8, lenders shall file insolvency application, singly or jointly, under the Insolvency and Bankruptcy Code 2016 (IBC)
+7
+within 15 days from the expiry of the said timeline
+8
+.
+10. In respect of such large accounts, where a RP involving restructuring/change in ownership is implemented within the 180-day period, the account should not be in default at any point of time during the ‘specified period’, failing which the lenders shall file an insolvency application, singly or jointly, under the IBC within 15 days from the date of such default.
+‘Specified period’ means the period from the date of implementation of RP up to the date by which at least 20 percent of the outstanding principal debt as per the RP and interest capitalisation sanctioned as part of the restructuring, if any, is repaid.
+Provided that the specified period cannot end before one year from the commencement of the first payment of interest or principal (whichever is later) on the credit facility with longest period of moratorium under the terms of RP.
+11. Any default in payment after the expiry of the specified period shall be reckoned as a fresh default for the purpose of this framework.
+12. For other accounts with aggregate exposure of the lenders below ₹ 20 billion and, at or above ₹ 1 billion, the Reserve Bank intends to announce, over a two-year period, reference dates for implementing the RP to ensure calibrated, time-bound resolution of all such accounts in default.
+13. It is, however, clarified that the said transition arrangement shall not be available for borrower entities in respect of which specific instructions have already been issued by the Reserve Bank to the banks for reference under IBC. Lenders shall continue to pursue such cases as per the earlier instructions.
+E. Prudential Norms
+14. The revised prudential norms applicable to any restructuring, whether under the IBC framework or outside the IBC, are contained in
+Annex-1
+9
+. The provisioning in respect of exposure to borrower entities against whom insolvency applications are filed under the IBC shall be as per their asset classification in terms of the Master Circular on Prudential norms on Income Recognition, Asset Classification and Provisioning, as amended from time to time.
+10
+II. Supervisory Review
+15. Any failure on the part of lenders in meeting the prescribed timelines or any actions by lenders with an intent to conceal the actual status of accounts or evergreen the stressed accounts, will be subjected to stringent supervisory / enforcement actions as deemed appropriate by the Reserve Bank, including, but not limited to, higher provisioning on such accounts and monetary penalties
+11
+.
+III. Disclosures
+16. Banks shall make appropriate disclosures in their financial statements, under ‘Notes on Accounts’, relating to resolution plans implemented. Detailed guidelines will be issued separately.
+IV. Exceptions
+17. Restructuring in respect of projects under implementation involving deferment of date of commencement of commercial operations (DCCO), shall continue to be covered under the guidelines contained at paragraph 4.2.15 of the
+Master Circular No.DBR.No.BP.BC.2/21.04.048/2015-16 dated July 1, 2015
+on ‘Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances’.
+V. Withdrawal of extant instructions
+18. The extant instructions on resolution of stressed assets such as Framework for Revitalising Distressed Assets, Corporate Debt Restructuring Scheme, Flexible Structuring of Existing Long Term Project Loans, Strategic Debt Restructuring Scheme (SDR), Change in Ownership outside SDR, and Scheme for Sustainable Structuring of Stressed Assets (S4A) stand withdrawn with immediate effect. Accordingly, the Joint Lenders’ Forum (JLF) as an institutional mechanism for resolution of stressed accounts also stands discontinued. All accounts, including such accounts where any of the schemes have been invoked but not yet implemented, shall be governed by the revised framework.
+19. The list of circulars/directions/guidelines subsumed in this circular and thereby stand repealed from the date of this circular is given in
+Annex - 3
+.
+20. The above guidelines are issued in exercise of powers conferred under Section 35A, 35AA (read with S.O.1435 (E) dated May 5, 2017 issued by the Government of India) and 35AB of the Banking Regulation Act, 1949; and, Section 45(L) of the Reserve Bank of India Act, 1934.
+Yours faithfully,
+(Saurav Sinha)
+Chief General Manager-in-Charge
+Annex – 1
+Norms Applicable to Restructuring
+1. Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty
+12
+, grants concessions to the borrower. Restructuring would normally involve modification of terms of the advances / securities, which would generally include, among others, alteration of repayment period / repayable amount / the amount of instalments / rate of interest / roll over of credit facilities / sanction of additional credit facility / enhancement of existing credit limits / compromise settlements where time for payment of settlement amount exceeds three months.
+I. Prudential Norms
+13
+A. Asset Classification
+2. In case of restructuring, the accounts classified as 'standard' shall be immediately downgraded as non-performing assets (NPAs), i.e., ‘sub-standard’ to begin with. The non-performing assets, upon restructuring, would continue to have the same asset classification as prior to restructuring. In both cases, the asset classification shall continue to be governed by the ageing criteria as per extant asset classification norms.
+B. Conditions for Upgrade
+3. Standard accounts classified as NPA and NPA accounts retained in the same category on restructuring by the lenders may be upgraded only when all the outstanding loan / facilities in the account demonstrate ‘satisfactory performance’ (i.e., the payments in respect of borrower entity are not in default at any point of time) during the ‘specified period’ (as defined in paragraph 10 of the covering circular)
+14
+.
+4. For the large accounts (i.e., accounts where the aggregate exposure of lenders is ₹ 1 billion and above) to qualify for an upgrade, in addition to demonstration of satisfactory performance, the credit facilities of the borrower shall also be rated as investment grade
+15
+(BBB- or better) as at the end of the ‘specified period’ by CRAs accredited by the Reserve Bank for the purpose of bank loan ratings. While accounts with aggregate exposure of ₹ 5 billion and above shall require two ratings, those below ₹ 5 billion shall require one rating. If the ratings are obtained from more than the required number of CRAs, all such ratings shall be investment grade to qualify for an upgrade.
+5. In case satisfactory performance during the specified period is not demonstrated, the account shall, immediately on such default, be reclassified as per the repayment schedule that existed before the restructuring
+16
+. Any future upgrade for such accounts shall be contingent on implementation of a fresh RP and demonstration of satisfactory performance thereafter.
+C. Provisioning Norms
+6. Accounts restructured under the revised framework shall attract provisioning as per the asset classification category as laid out in the Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances dated July 1, 2015, as amended from time to time. However, the provisions made in respect of accounts restructured before the date of the circular under any of the earlier schemes shall continue to be held as per the requirements specified therein.
+D. Additional Finance
+7. Any additional finance approved under the RP (including any resolution plan approved by the Adjudicating Authority under IBC) may be treated as 'standard asset' during the specified period under the approved RP, provided the account performs satisfactorily (as defined in paragraphs 3-5 above) during the specified period. If the restructured asset fails to perform satisfactorily during the specified period or does not qualify for upgradation at the end of the specified period, the additional finance shall be placed in the same asset classification category as the restructured debt.
+E. Income recognition norms
+8. Interest income in respect of restructured accounts classified as 'standard assets' may be recognized on accrual basis and that in respect of the restructured accounts classified as 'non-performing assets' shall be recognised on cash basis.
+9. In the case of additional finance in accounts where the pre-restructuring facilities were classified as NPA, the interest income shall be recognised only on cash basis except when the restructuring is accompanied by a change in ownership.
+F. Conversion of Principal into Debt / Equity and Unpaid Interest into 'Funded Interest Term Loan' (FITL), Debt or Equity Instruments
+10. The FITL / debt / equity instruments created by conversion of part of principal / unpaid interest, as the case may be, will be placed in the same asset classification category in which the restructured advance has been classified.
+11. These instruments shall be valued as per usual valuation norms and marked to market. Equity instruments, whether classified as standard or NPA, shall be valued at market value, if quoted, or else at break-up value (without considering the revaluation reserve, if any) as ascertained from the company's balance sheet as on March 31st of the immediate preceding financial year. In case balance sheet as on March 31st of the immediate preceding financial year is not available, the entire portfolio of equity shares of the company held by the bank shall be valued at Re.1. Depreciation on these instruments shall not be offset against the appreciation in any other securities held under the AFS category.
+12. The unrealised income represented by FITL / Debt or equity instrument can only be recognised in the profit and loss account as under:
+FITL/debt instruments: only on sale or redemption, as the case may be;
+Unquoted equity/ quoted equity (where classified as NPA): only on sale;
+Quoted equity (where classified as standard): market value of the equity as on the date of upgradation, not exceeding the amount of unrealised income converted to such equity. Subsequent changes to value of the equity will be dealt as per the extant prudential norms on investment portfolio of banks.
+G. Change in Ownership
+13. In case of change in ownership of the borrowing entities, credit facilities of the concerned borrowing entities may be continued/upgraded as ‘standard’ after the change in ownership is implemented, either under the IBC or under this framework. If the change in ownership is implemented under this framework, then the classification as ‘standard, shall be subject to the following conditions:
+Banks shall conduct necessary due diligence in this regard and clearly establish that the acquirer is not a person disqualified in terms of Section 29A of the Insolvency and Bankruptcy Code, 2016.
+The new promoter shall have acquired at least 26 per cent of the paid up equity capital of the borrower entity and shall be the single largest shareholder of the borrower entity.
+The new promoter shall be in ‘control’ of the borrower entity as per the definition of ‘control’ in the Companies Act 2013 / regulations issued by the Securities and Exchange Board of India/any other applicable regulations / accounting standards as the case may be.
+The conditions for implementation of RP as per Section I-C of the covering circular are complied with.
+14. For such accounts to continue to be classified as standard, all the outstanding loans/credit facilities of the borrowing entity need to demonstrate satisfactory performance (as defined above in paragraph 3 above) during the specified period. If the account fails to perform satisfactorily at any point of time during the specified period, the credit facilities shall be immediately downgraded as non-performing assets (NPAs) i.e., ‘sub-standard’. Any future upgrade for such accounts shall be contingent on implementation of a fresh RP (either under IBC, wherever mandatory filings are applicable or initiated voluntarily by the lenders, or outside IBC) and demonstration of satisfactory performance thereafter.
+15. Further, the quantum of provisions held by the bank against the said account as on the date of change in ownership of the borrowing entities can be reversed only after satisfactory performance during the specified period.
+II. Principles on classification of sale and lease back transactions as restructuring
+16. A sale and leaseback transaction of the assets of a borrower or other transactions of similar nature will be treated as an event of restructuring for the purpose of asset classification and provisioning in the books of banks with regard to the residual debt of the seller as well as the debt of the buyer if all the following conditions are met:
+The seller of the assets is in financial difficulty;
+Significant portion, i.e. more than 50 per cent, of the revenues of the buyer from the specific asset is dependent upon the cash flows from the seller;
+25 per cent or more of the loans availed by the buyer for the purchase of the specific asset is funded by the lenders who already have a credit exposure to the seller.
+III. Prudential Norms relating to Refinancing of Exposures to Borrowers in different currency
+17. If foreign currency borrowings/export advances for the purpose of repayment/refinancing of rupee loans are obtained from:
+lenders who are part of Indian banking system (where permitted); or
+with support (where permitted) from the Indian banking system in the form of Guarantees/Standby Letters of Credit/Letters of Comfort, etc.,
+such events shall be treated as ‘restructuring’ if the borrower concerned is under financial difficulty.
+18. Similarly, rupee loans for repayment/refinancing of foreign currency borrowings/export advances will also be treated as ‘restructuring’ if such rupee loans are extended to a borrower who is under financial difficulty.
+IV. Regulatory Exemptions
+Exemptions from RBI Regulations
+19. Acquisition of non-SLR securities by way of conversion of debt is exempted from the restrictions and the prudential limit on investment in unlisted non-SLR securities prescribed by the RBI.
+20. Acquisition of shares due to conversion of debt to equity during a restructuring process will be exempted from regulatory ceilings/restrictions on Capital Market Exposures, investment in Para-Banking activities and intra-group exposure. However, these will require reporting to RBI (reporting to DBS, CO every month along with the regular DSB Return on Asset Quality) and disclosure by banks in the Notes to Accounts in Annual Financial Statements. Nonetheless, banks will have to comply with the provisions of Section 19(2) of the Banking Regulation Act, 1949.
+Exemptions from Regulations of Securities and Exchange Board of India (SEBI)
+21. SEBI has provided exemptions, under certain conditions, from the requirements of Securities and Exchange Board of India (SEBI) (Issue of Capital and Disclosure Requirements) (ICDR) Regulations, 2009 as well as SEBI (Substantial Acquisition of Shares and Takeovers) (SAST) Regulations, 2011 for restructurings carried out as per the regulations issued by the Reserve Bank.
+22. With reference to the requirements contained in sub-regulations 70 (5) (a) and 70 (6) (a) of ICDR Regulations, 2009, the issue price of the equity shall be the lower of (i) or (ii) below:
+The average of the weekly high and low of the volume weighted average price of the related equity shares quoted on the recognised stock exchange during the twenty six weeks preceding the ‘reference date’ or the average of the weekly high and low of the volume weighted average prices of the related equity shares quoted on a recognised stock exchange during the two weeks preceding the ‘reference date’, whichever is lower; and
+Book value: Book value per share to be calculated from the audited balance sheet as on March 31st of the immediate preceding financial year (without considering 'revaluation reserves', if any) adjusted for cash flows and financials post the earlier restructuring, if any. The balance sheet shall not be more than a year old. In case the audited balance sheet as on March 31st of the immediate preceding financial year is not available the total book value of the borrower company shall be reckoned at Re.1.
+23. In the case of conversion of debt into equities, the ‘reference date’ shall be the date on which the bank approves the restructuring scheme. In the case of conversion of convertible securities into equities, the ‘reference date’ shall be the date on which the bank approves the conversion of the convertible securities into equities. In case of issuance of fresh shares to the new promoter, the ‘reference date’ shall be the date of signing of the binding agreement between the bank and the new promoter.
+24. With reference to the requirements contained in sub-regulations 10 (1) (ia) (a) of the SAST Regulations, 2001, at the time of selling the equity instruments acquired by banks (as part of a restructuring exercise) in favour of a new promoter, the selling price may be a negotiated price. However, the selling price shall not be lower than the ‘fair value’, which shall be the higher of (i) and (ii) below:
+The average of the weekly high and low of the volume weighted average price of the related equity shares quoted on the recognised stock exchange during the twenty six weeks preceding the ‘reference date’ or the average of the weekly high and low of the volume weighted average prices of the related equity shares quoted on a recognised stock exchange during the two weeks preceding the ‘reference date’, whichever is higher; and
+Book value: Book value per share to be calculated from the company's latest audited balance sheet (without considering 'revaluation reserves', if any) adjusted for cash flows and financials post the earlier restructuring, if any.
+25. In case of sale of equity held by banks as a result of conversion/invocation of pledge, the ‘reference date’ shall be the date on which the share purchase agreement between the bank and the new promoter is executed.
+V. Non-applicability of these guidelines
+26. The revival and rehabilitation of MSMEs as defined under ‘The Micro, Small and Medium Enterprises Development Act, 2006’ shall continue to be guided by the instructions contained in
+Circular No. FIDD.MSME & NFS.BC.No.21/ 06.02.31/ 2015-16 dated March 17, 2016
+, as amended from time to time.
+27. Restructuring of loans in the event of a natural calamity shall continue to be as per the directions contained in the
+Master Directions FIDD.CO.FSD.BC No.8/05.10.001/2017-18
+, as amended from time to time.
+VI. Cases of frauds/wilful defaulters.
+28. Borrowers who have committed frauds/ malfeasance/ wilful default will remain ineligible for restructuring. However, in cases where the existing promoters are replaced by new promoters, and the borrower company is totally delinked from such erstwhile promoters/management, lenders may take a view on restructuring such accounts based on their viability, without prejudice to the continuance of criminal action against the erstwhile promoters/management.
+Appendix
+Non – Exhaustive Indicative List of Signs of Financial Difficulty
+Irregularities in cash credit/overdraft accounts such as inability to maintain stipulated margin basis or drawings exceeding sanctioned limits, periodic interest debited remaining unrealised;
+Failure/anticipated failure to make timely payment of instalments of principal and interest on term loans;
+Delay in meeting commitments towards payments of installments due, crystallized liabilities under LC/BGs, etc.
+Excessive leverage;
+Inability to adhere to financial loan covenants;
+Failure to pay statutory liabilities, non- payment of bills to operational creditors, etc.;
+Non-submission or undue delay in submission or submission of incorrect stock statements and other control statements, delay in publication of financial statements and adversely qualified financial statements;
+Steep decline in production figures, downward trends in sales and fall in profits, margin erosion etc.;
+Elongation of working capital cycle, excessive inventory build-up;
+Significant delay in project implementation;
+Downward migration of internal/external ratings/rating outlook.
+Annex – 2
+ICE Symbols
+Definition
+RP1
+Debt facilities/instruments with this symbol are considered to have the highest degree of safety regarding timely servicing of financial obligations. Such debt facilities/instruments carry lowest credit risk.
+RP2
+Debt facilities/instruments with this symbol are considered to have high degree of safety regarding timely servicing of financial obligations. Such debt facilities/instruments carry very low credit risk.
+RP3
+Debt facilities/instruments with this symbol are considered to have adequate degree of safety regarding timely servicing of financial obligations. Such debt facilities/instruments carry low credit risk.
+RP4
+Debt facilities/instruments with this symbol are considered to have moderate degree of safety regarding timely servicing of financial obligations. Such debt facilities/instruments carry moderate credit risk.
+RP5
+Debt facilities/instruments with this symbol are considered to have moderate risk of default regarding timely servicing of financial obligations.
+RP6
+Debt facilities/instruments with this symbol are considered to have high risk of default regarding timely servicing of financial obligations.
+RP7
+Debt facilities/instruments with this symbol are considered to have very high risk of default regarding timely servicing of financial obligations.
+Annex – 3
+List of circulars repealed
+S.No.
+Circular number
+Date of issue
+Subject
+1
+DBR.BP.BC.No.67/21.04.048/2016-17
+05-05-2017
+Timelines for Stressed Assets Resolution
+2
+DBR.No.BP.BC.33/21.04.132/2016-17
+10-11-2016
+Scheme for Sustainable Structuring of Stressed Assets – Revisions
+3
+DBR.No.BP.BC.34/21.04.132/2016-17 (Excluding instructions on deferment of DCCO)
+10-11-2016
+Schemes for Stressed Assets – Revisions
+4
+DBR.No.BP.BC.103/21.04.132/2015-16
+13-06-2016
+Scheme for Sustainable Structuring of Stressed Assets
+5
+DBR.BP.BC.No.82/21.04.132/2015-16 (Excluding Part E on Sale of Financial Assets to SCs/RCs)
+25-02-2016
+Review of Prudential Guidelines - Revitalising Stressed Assets in the Economy
+6
+DBR.BP.BC.No.41/21.04.048/2015-16
+24-09-2015
+Prudential Norms on Change in Ownership of Borrowing Entities (Outside Strategic Debt Restructuring Scheme)
+7
+DBR.BP.BC.No.39/21.04.132/2015-16
+24-09-2015
+Framework for Revitalising Distressed Assets in the Economy - Review of the Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP)
+8
+DBR.No.BP.BC.101/21.04.132/2014-15
+08-06-2015
+Strategic Debt Restructuring Scheme
+9
+DBR.No.BP.BC.53/21.04.048/2014-15
+15-12-2014
+Flexible Structuring of Existing Long Term Project Loans to Infrastructure and Core Industries
+10
+DBOD.No.BP.BC.45/21.04.132/2014-15
+21-10-2014
+Framework for Revitalising Distressed Assets in the Economy – Review of the Guidelines on Joint Lenders Forum (JLF) and Corrective Action Plan CAP)
+11
+DBOD.No.BP.BC.31/21.04.132/2014-15
+07-08-2014
+Refinancing of Project Loans
+12
+DBOD.No.BP.BC.24/21.04.132/2014-15
+15-07-2014
+Flexible Structuring of Long Term Project Loans to Infrastructure and Core Industries
+13
+DBOD.No.BP.BC.97/21.04.132/2013-14 (Excluding paragraph 8 on ‘Wilful Defaulters and Non-cooperative Borrowers’ and paragraph 9 on ‘Dissemination of Information’)
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy – Guidelines on Joint Lenders Forum (JLF) and Corrective Action Plan
+14
+Para 2 of circular DBOD.BP.BC.No. 98/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy - Refinancing of Project Loans, Sale of NPA and Other Regulatory Measures
+15
+DBOD.No.BP.BC-99/21.04.048/2012-13 (Excluding paragraph 2 on change in DCCO)
+30.05.2013
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institutions
+16
+DBOD.BP.BC.No.80/21.04.132/2012-13
+31.01.2013
+Disclosure Requirements on Advances Restructured by Banks and Financial Institutions
+17
+DBOD.No.BP.BC-63/21.04.048/2012-13
+26.11.2012
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institutions
+18
+DBOD.BP.BC.No.99/21.04.132/2010-11
+10.06.2011
+Prudential Guidelines on Restructuring of Advances by Banks
+19
+DBOD.BP.BC.No.74/21.04.132/2010-11
+19.01.2011
+Credit Support to Micro Finance Institutions
+20
+DBOD.BP.No.49/21.04.132/2010-11
+07.10.2010
+Prudential Guidelines on Restructuring of Advances by Banks
+21
+DBOD.No.BP.BC.No.124/21.04.132/2008-09
+17.04.2009
+Prudential Guidelines on Restructuring of Advances
+22
+DBOD.BP.BC.121/21.04.132/2008-09
+09.04.2009
+Prudential guidelines on Restructuring of Advances
+23
+DBOD.BP.BC.76/21.04.132/2008-09
+03.11.2008
+Prudential guidelines on Restructuring of Advances
+24
+DBOD.BP.BC.58/21.04.048/2008-09
+13.10.2008
+(i) Disbursal of Loans against Sanctioned Limits (ii) Restructuring of Dues of the Small and Medium Enterprises (SMEs)
+25
+DBOD.BP.BC.37/21.04.132/2008-09
+27.08.2008
+Prudential guidelines on Restructuring of Advances-comprehensive guidelines
+26
+DBOD.NO.BP.BC.45/21.0421.04.048/2005-­06
+10.11.2005
+Revised Guidelines on Corporate Debt Restructuring(CDR) Mechanism
+27
+DBOD No.BP.BC.101/ 21.01.002/2001­-02
+09.05.2002
+Corporate Debt Restructuring
+28
+DBOD No.BP.BC.15/ 21.04.114/2000­-2001
+23.08.2001
+Corporate Debt Restructuring
+1
+Lenders under these guidelines would generally include all scheduled commercial banks (excluding RRBs) and All India Financial Institutions, unless specified otherwise.
+2
+‘Default’ means non-payment of debt when whole or any part or instalment of the amount of debt has become due and payable and is not repaid by the debtor or the corporate debtor, as the case may be.
+For revolving facilities like cash credit, default would also mean, without prejudice to the above, the outstanding balance remaining continuously in excess of the sanctioned limit or drawing power, whichever is lower, for more than 30 days.
+3
+Aggregate exposure under the guidelines would include all fund based and non-fund based exposure with the lenders.
+4
+Restructuring is an act in which a lender, for economic or legal reasons relating to the borrower's financial difficulty (An illustrative non-exhaustive list of indicators of financial difficulty are given in the
+Appendix to Annex-I
+), grants concessions to the borrower. Restructuring would normally involve modification of terms of the advances / securities, which may include, among others, alteration of repayment period / repayable amount / the amount of instalments / rate of interest; roll over of credit facilities; sanction of additional credit facility; enhancement of existing credit limits; and, compromise settlements where time for payment of settlement amount exceeds three months.
+5
+The residual debt of the borrower entity, in this context, means the aggregate debt (fund based as well as non-fund based) envisaged to be held by all the lenders as per the proposed RP.
+6
+Annex – 2
+provides list of RP symbols that can be provided by CRAs as ICE and their meanings.
+7
+Applicable in respect of entities notified under IBC.
+8
+The prescribed timelines are the upper limits. Lenders are free to file insolvency petitions under the IBC against borrowers even before the expiry of the timelines, or even without attempting a RP outside IBC.
+9
+During the period when the RP is being finalised and implemented, the usual asset classification norms would continue to apply. The process of re-classification of an asset should not stop merely because RP is under consideration.
+10
+Accounts in respect of which banks have already been specifically issued instructions to initiate insolvency resolution proceedings under the IBC, minimum provisions as already advised shall be maintained.
+11
+This may be in addition to direction to banks to file insolvency application under the Insolvency and bankruptcy Code 2016.
+12
+An illustrative (but not exhaustive) list of indicators of financial difficulty are in
+Appendix
+.
+13
+Applicable to all resolution plans, including those undertaken under IBC.
+14
+For accounts under IBC, the specified period shall be deemed to commence from the date of implementation of the resolution plan as approved by the Adjudicating Authority.
+15
+These ratings shall be the normal ratings provided by the CRAs and not ICEs referred to in paragraph 6 of the covering circular.
+16
+For large accounts, this will be in addition to mandatory IBC filing.

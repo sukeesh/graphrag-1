@@ -1,0 +1,106 @@
+(773 kb)
+NBFCs- Lending against Shares
+RBI/2014-15/186
+DNBS (PD).CC.No. 408 /03.10.001/2014-15
+August 21, 2014
+All NBFCs with asset size of
+`
+.100 cr and above
+(excluding Primary Dealers)
+Dear Sirs,
+NBFCs- Lending against Shares
+At present, lending against shares carried out by NBFCs is not subject to specific instructions apart from the general prudential regulation applicable to all NBFCs. Lending against shares could be in the normal course where shares are accepted as collateral or as part of their capital market operations. NBFCs lend either by way of pledge of shares in their favour, transfer of shares or by obtaining a power of attorney on the demat accounts of borrowers. Irrespective of the manner and purpose for which money is lent against shares, default by borrowers can and has in the past lead to offloading of shares in the market by the NBFCs thereby creating avoidable volatility in the market. Certain other associated areas of concern relate to absence of adequate prior information to the stock exchanges on the shares held as pledge by NBFCs, probable overheating of the market, over-exposure by NBFCs to certain stocks and overleveraging of borrowers. Further, while NBFCs in general are understood to have in place their own internal controls with regard to lending against shares including a loan to value (LTV) ratio, there are anecdotal evidences of volatility in the capital market being the result of offloading of shares by NBFCs. It is, therefore, found necessary to introduce a minimum set of guidelines on lending against shares while at the same time ensuring that these do not result in unnecessary constraints to the requirements of genuine borrowers.
+2. Accordingly, NBFCs lending against collateral of shares shall, with effect from the date of this circular:
+Maintain an LTV ratio of 50%; and
+accept only Group 1 securities (specified in SMD/ Policy/ Cir - 9/ 2003 dated March 11, 2003 as amended from time to time, issued by SEBI) as collateral for loans of value more than
+`
+. 5 lakh, subject to review by the Bank.
+3. All NBFCs with asset size of
+`
+.100 crore and above shall report on-line to stock exchanges, information on the shares pledged in their favour, by borrowers for availing loans. The infrastructure for on-line reporting to the stock exchanges has been put in place. The exchanges may be approached for creation of user IDs. The web links for
+the respective exchanges are provided below:
+BSE :
+http://nbfc.bseindia.com
+NSE:
+https://www.connect2nse.com/LISTING/
+4. The format for reporting as desired by SEBI is given in the
+Annex
+.
+5. The following officials from the Stock Exchanges may be contacted for any queries on reporting of the pledge data:
+BSE :
+a) Mr. Ravindra Shetty, email:
+ravindran.shetty@bseindia.com
+,
+Ph:- 022-22728792;
+b) Mr. Rajesh Gandhi, email:
+rajesh.gandhi@bseindia.com
+Ph: 022-22728281
+NSE ::
+a) Mr. Samir Rajdev, email:
+srajdev@nse.co.in
+, Ph: 022-26598346
+b) Ms. Saritha Menon,
+snandialath@nse.co.in
+, Ph: 022-26598458
+6.
+Notification No. DNBS(PD) 276/ PCGM(KKV)/ 2014-15 dated August 21, 2014
+amending Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 and
+Notification No. DNBS(PD) 277/ PCGM(KKV)/ 2014-15 dated August 21, 2014
+amending Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 issued in this regard by the Reserve Bank of India are enclosed for meticulous compliance.
+Yours faithfully,
+(K.K. Vohra)
+Principal Chief General Manager
+Annex
+Data on Pledged Securities
+Name of the NBFC Lender
+PAN
+Date of Reporting
+Share holding Information
+Name of the Company
+ISIN
+No of Shares held against loans
+Type of the Borrower (Promoter/Non Promoter)
+Name of the Borrower
+PAN of the Borrower
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING SUPERVISION
+CENTRAL OFFICE
+CENTRE I, WORLD TRADE CENTRE,
+CUFFE PARADE, COLABA,
+MUMBAI 400 005
+DNBS(PD).276/ PCGM(KKV)-2014 dated August 21, 2014
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 (hereinafter referred to as ‘the Directions’), (
+Notification No.DNBS.192/DG(VL)-2007 dated February 22, 2007
+), in exercise of the powers conferred by sections 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby makes the following amendments in the Directions with immediate effect namely : –
+Insertion of new paragraph 17 F
+- After paragraph 17 E, the following paragraph shall be inserted :-
+17 F. Loans against security of shares – All NBFCs with asset size of
+`
+.100 crore and above shall,
+maintain a Loan to Value (LTV) ratio of 50% for loans granted against the collateral of shares, and
+accept only Group 1 securities (specified in SMD/ Policy/ Cir - 9/ 2003 dated March 11, 2003 as amended from time to time, issued by SEBI) as collateral for loans of value more than
+`
+. 5 lakh, subject to review by the Bank.
+(K.K.Vohra)
+Principal Chief General Manager
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING SUPERVISION
+CENTRAL OFFICE
+CENTRE I, WORLD TRADE CENTRE,
+CUFFE PARADE, COLABA,
+MUMBAI 400 005
+DNBS(PD) 277/ PCGM(KKV)/ 2014-15 dated August 21, 2014
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 (hereinafter referred to as ‘the Directions’) (
+Notification No. DNBS.193/DG(VL)-2007 dated February 22, 2007
+), in exercise of the powers conferred by section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby makes the following amendments in the Directions with immediate effect namely : –
+Insertion of new paragraph 17 F
+- After paragraph 17E, the following paragraph shall be inserted :-
+17F. Loans against security of shares – All NBFCs with asset size of
+`
+.100 crore and above shall,
+maintain a Loan to Value (LTV) ratio of 50% for loans granted against the collateral of shares, and
+accept only Group 1 securities (specified in SMD/ Policy/ Cir - 9/ 2003 dated March 11, 2003 as amended from time to time, issued by SEBI) as collateral for loans of value more than
+`
+. 5 lakh, subject to review by the Bank.
+(K.K.Vohra)
+Principal Chief General Manager

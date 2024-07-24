@@ -1,0 +1,21 @@
+(89 kb)
+Transactions in derivatives by regulated institutional entities on electronic platforms
+RBI/2015-16/392
+FMRD.DIRD.No.9/14.03.01/2015-16
+May 5, 2016
+All Market Participants
+Dear Madam/Sir,
+Transactions in derivatives by regulated institutional entities on electronic platforms
+A reference is invited to
+para 37
+of the First Bi-monthly Monetary Policy Statement announced on April 5, 2016, in terms of which, it was proposed to review the existing guidelines on OTC derivatives in order to make participation in OTC derivative markets through electronic platforms more broad-based. Accordingly, it has been decided to enable any institutional entity regulated by the Reserve Bank of India (RBI), the Securities and Exchange Board of India (SEBI), the Insurance Regulatory and Development Authority of India (IRDAI), the Pension Fund Regulatory and Development Authority (PFRDA) and the National Housing Bank (NHB) to trade in interest rate swaps (IRS) on electronic trading platforms.
+2. At present regulated entities, other than scheduled banks, are unable to conduct transactions on electronic platforms for interest rate swaps (IRS) as one party to such transactions has to be either the Reserve Bank of India (RBI) or a scheduled bank or
+such other agency falling under the regulatory purview of the RBI
+which may be specified by the RBI in this regard. In this context, the Reserve Bank of India, in exercise of its powers conferred by Section 45V of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby specifies the Clearing Corporation of India Ltd (CCIL) as an approved counterparty for IRS transactions undertaken on electronic trading platforms where CCIL is the central counterparty.
+3. In view of the above measures, the regulated institutional entities, subject to the approval of their respective sectoral regulators, may apply for membership of electronic trading platforms in IRS which have CCIL as the central counterparty for settlement.
+4. The above guidelines would become effective from June 1
+st
+, 2016.
+Yours faithfully,
+(R.Subramanian)
+Chief General Manager

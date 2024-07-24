@@ -1,0 +1,297 @@
+(514 kb)
+External Commercial Borrowings (ECB) Policy – New ECB Framework
+RBI/2018-19/109
+A.P. (DIR Series) Circular No. 17
+January 16, 2019
+To
+All Category-I Authorised Dealer Banks
+Madam / Sir,
+External Commercial Borrowings (ECB) Policy – New ECB Framework
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to paragraph 7 of the
+Statement on Developmental and Regulatory Policies
+of the
+Fifth Bi-monthly Monetary Policy Statement for 2018-19 released on December 5, 2018
+. Reference is also invited to paragraphs 2 and 3 of
+Master Direction No.5 dated January 1, 2016
+on “External Commercial Borrowings, Trade Credit, Borrowing and Lending in Foreign Currency by Authorised Dealers and Persons other than Authorised Dealers”, as amended from time to time.
+2. As indicated in the aforesaid statement, it has been decided, in consultation with the Government of India, to rationalise the extant framework for ECB and Rupee Denominated Bonds in light of the experience gained to improve the ease of doing business. The new framework is instrument neutral and would further strengthen the AML/CFT framework.
+3. The revised ECB guidelines are set out in the
+Annex
+to this circular. The salient features of the new framework are as under:
+Merging of Tracks:
+Merging of Tracks I and II as “Foreign Currency denominated ECB” and merging of Track III and Rupee Denominated Bonds framework as “Rupee Denominated ECB”.
+Eligible Borrowers:
+This has been expanded to include all entities eligible to receive FDI. Additionally, Port Trusts, Units in SEZ, SIDBI, EXIM Bank, registered entities engaged in micro-finance activities, viz., registered not for profit companies, registered societies/trusts/cooperatives and non-government organisations can also borrow under this framework.
+Recognised Lender:
+The lender should be resident of FATF or IOSCO compliant country. Multilateral and Regional Financial Institutions, Individuals and Foreign branches / subsidiaries of Indian banks can also be lenders as detailed in
+Annex
+.
+Minimum Average Maturity Period (MAMP):
+MAMP will be 3 years for all ECBs. However, for ECB raised from foreign equity holder and utilised for specific purposes, as detailed in the Annex, the MAMP would be 5 years. Similarly, for ECB up to USD 50 million per financial year raised by manufacturing sector, which has been given a special dispensation, the MAMP would be 1 year as given in the
+Annex
+.
+Late Submission Fee (LSF) for delay in Reporting:
+Any borrower, who is otherwise in compliance of ECB guidelines, except for delay in reporting drawdown of ECB proceeds before obtaining LRN or Form ECB 2 returns, can regularize the delay by payment of LSF as per the laid down procedure.
+4. ECB up to USD 750 million or equivalent per financial year, which otherwise are in compliance with the parameters and other terms and conditions set out in the new ECB framework, will be permitted under the automatic route not requiring prior approval of the Reserve Bank. The designated AD Category I bank while considering the ECB proposal is expected to ensure compliance with applicable ECB guidelines by their constituents. Any contravention of the applicable provisions will invite penal action or adjudication under the Foreign Exchange Management Act, 1999.
+5. Lending and borrowing under the ECB framework by Indian banks and their branches/subsidiaries outside India will be subject to prudential guidelines issued by the Department of Banking Regulation of the Reserve Bank. Further, other entities raising ECB are required to follow the guidelines issued, if any, by the concerned sectoral or prudential regulator.
+6. The amended policy will come into force with immediate effect. The Principal Regulations governing the ECB policy has been rationalized through the Foreign Exchange Management (Borrowing and Lending) Regulations, 2018 and notified through
+Notification No. FEMA.3R/2018-RB dated December 17, 2018
+, vide
+G.S.R. 1213(E) dated December 17, 2018
+.
+7. The aforesaid
+Master Direction No. 5 dated January 01, 2016
+is being revised to reflect the above changes.
+8. The directions contained in this circular have been issued under section 10(4) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully
+Ajay Kumar Misra
+Chief General Manager-in-Charge
+ANNEX
+New External Commercial Borrowings (ECB) framework
+{c.f.: A.P. (DIR Series) Circular No. 17 dated January 16, 2019}
+1. Important terms used:
+1.1. All-in-Cost:
+It includes rate of interest, other fees, expenses, charges, guarantee fees, Export Credit Agency (ECA) charges, whether paid in foreign currency or Indian Rupees (INR) but will not include commitment fees and withholding tax payable in INR. In the case of fixed rate loans, the swap cost plus spread should not be more than the floating rate plus the applicable spread. Additionally, for Foreign Currency Convertible Bonds (FCCBs) the issue related expenses should not exceed 4 per cent of issue size and in case of private placement, these expenses should not exceed 2 per cent of the issue size, etc. Various components of all-in-cost have to be paid by the borrower without taking recourse to the drawdown of ECB/ TC, i.e., ECB/TC proceeds cannot be used for payment of interest/charges.
+1.2. Approval route:
+Under the ECB/TC framework, ECB/TC can be raised either under the automatic route or under the approval route. Under the approval route, the prospective borrowers are required to send their requests to the Reserve Bank through their Authorised Dealer (AD) Banks for examination.
+1.3. Authorised dealer:
+Means a person authorised as an authorised dealer under subsection (1) of section 10 of the Foreign Exchange Management Act, 1999 (42 of 1999).
+1.4. Automatic route:
+For the automatic route, the cases are examined by the Authorised Dealer Category-I (AD Category-I) banks.
+1.5. Benchmark rate:
+Benchmark rate in case of foreign currency denominated ECB/ TC (FCY ECB/TC) refers to 6-month London Interbank Offered Rate (LIBOR) rate of different currencies or any other 6-month interbank interest rate applicable to the currency of borrowing, for eg., Euro Interbank Offered Rate (EURIBOR). Benchmark rate in case of Rupee denominated ECB (INR ECB) will be prevailing yield of the Government of India securities of corresponding maturity.
+1.6. Designated Authorized Dealer Category I Bank:
+It is the bank branch which is designated by the ECB borrower for meeting the reporting requirements including obtaining of the Loan Registration Number (LRN) from the Reserve Bank, exercising the delegated powers under these guidelines and monitoring of ECB transactions.
+1.7. ECB liability-Equity ratio:
+For the purpose of ECB liability-equity ratio, ECB amount will include all outstanding amount of all ECBs (other than INR denominated) and the proposed one (only outstanding ECB amounts in case of refinancing) while equity will include the paid-up capital and free reserves (including the share premium received in foreign currency) as per the latest audited balance sheet. Both ECB and equity amounts will be calculated with respect to the foreign equity holder. Where there are more than one foreign equity holders in the borrowing company, the portion of the share premium in foreign currency brought in by the lender(s) concerned shall only be considered for calculating the ratio. The ratio will be calculated as per latest audited balance sheet.
+1.8. FATF compliant country:
+A country that is a member of Financial Action Task Force (FATF) or a member of a FATF-Style Regional Body; and should not be a country identified in the public statement of the FATF as (i) A jurisdiction having a strategic Anti-Money Laundering or Combating the Financing of Terrorism deficiencies to which counter measures apply; or (ii) A jurisdiction that has not made sufficient progress in addressing the deficiencies or has not committed to an action plan developed with the Financial Action Task Force to address the deficiencies.
+1.9. Foreign Currency Convertible Bonds (FCCBs):
+It refers to foreign currency denominated instruments which are issued in accordance with the Issue of Foreign Currency Convertible Bonds and Ordinary Shares (Through Depositary Receipt Mechanism) Scheme, 1993 as amended from time to time. Issuance of FCCBs shall also conform to other applicable regulations. Further, FCCBs should be without any warrants attached.
+1.10. Foreign Currency Exchangeable Bonds (FCEBs):
+It refers to foreign currency denominated instruments which are issued in accordance with the Issue of Foreign Currency Exchangeable Bonds Scheme, 2008 as amended from time to time. FCEBs are exchangeable into equity share of another company, to be called the Offered Company, in any manner, either wholly, or partly or on the basis of any equity related warrants attached to debt instruments. Issuance of FCEBs shall also conform to other applicable regulations.
+1.11. Foreign Equity Holder:
+It means (a) direct foreign equity holder with minimum 25% direct equity holding by the lender in the borrowing entity, (b) indirect equity holder with minimum indirect equity holding of 51%, or (c) group company with common overseas parent.
+1.12. Infrastructure Sector:
+It has the same meaning as given in the Harmonised Master List of Infrastructure sub-sectors approved by Government of India vide Notification F. No. 13/06/2009-INF as amended / updated from time to time. For the purpose of ECB, “Exploration, Mining and Refinery” sectors will be deemed as in the infrastructure sector.
+1.13. Infrastructure space companies:
+Companies in infrastructure sector, Non-Banking Finance Companies (NBFCs) undertaking infrastructure financing, Holding Companies/ Core Investment Companies undertaking infrastructure financing, Housing Finance Companies (HFCs) regulated by National Housing Bank (NHB) and Port Trusts (constituted under the Major Port Trusts Act, 1963 or Indian Ports Act, 1908).
+1.14. IOSCO compliant country:
+A country whose securities market regulator is a signatory to the International Organization of Securities Commission's (IOSCO’s) Multilateral Memorandum of Understanding (Appendix A Signatories) or a signatory to bilateral Memorandum of Understanding with the Securities and Exchange Board of India (SEBI) for information sharing arrangements.
+1.15. Person resident in India:
+It shall have the same meanings as assigned to them in Sections 2(v) and 2(w) of the Foreign Exchange Management Act, 1999 (FEMA).
+1.16. Real estate activities:
+Any real estate activity involving own or leased property for buying, selling and renting of commercial and residential properties or land and also includes activities either on a fee or contract basis assigning real estate agents for intermediating in buying, selling, letting or managing real estate. However, this would not include construction/development of industrial parks/integrated township/SEZ, purchase/long term leasing of industrial land as part of new project/modernisation of expansion of existing units or any activity under ‘infrastructure sector’ definition.
+2. External Commercial Borrowings framework:
+ECBs are commercial loans raised by eligible resident entities from recognised non-resident entities and should conform to parameters such as minimum maturity, permitted and non-permitted end-uses, maximum all-in-cost ceiling, etc. The parameters apply in totality and not on a standalone basis.
+2.1.
+The framework for raising loans through ECB (herein after referred to as the ECB Framework) comprises the following two options:
+Sr. No.
+Parameters
+FCY denominated ECB
+INR denominated ECB
+i
+Currency of borrowing
+Any freely convertible Foreign Currency
+Indian Rupee (INR)
+ii
+Forms of ECB
+Loans including bank loans; floating/ fixed rate notes/ bonds/ debentures (other than fully and compulsorily convertible instruments); Trade credits beyond 3 years; FCCBs; FCEBs and Financial Lease.
+Loans including bank loans; floating/ fixed rate notes/ bonds/ debentures/ preference shares (other than fully and compulsorily convertible instruments); Trade credits beyond 3 years; and Financial Lease. Also, plain vanilla Rupee denominated bonds issued overseas (RDBs), which can be either placed privately or listed on exchanges as per host country regulations.
+iii
+Eligible borrowers
+All entities eligible to receive FDI. Further, the following entities are also eligible to raise ECB:
+a) Port Trusts;
+b) Units in SEZ;
+c) SIDBI;
+d) EXIM Bank; and
+e) Registered entities engaged in micro-finance activities, viz., registered Not for Profit companies, registered societies/trusts/cooperatives and Non-Government Organisations (permitted only to raise INR ECB).
+iv
+Recognised lenders
+The lender should be resident of FATF or IOSCO compliant country, including on transfer of ECBs. However,
+a) Multilateral and Regional Financial Institutions where India is a member country will also be considered as recognised lenders;
+b) Individuals as lenders can only be permitted if they are foreign equity holders or for subscription to bonds/debentures listed abroad; and
+c) Foreign branches / subsidiaries of Indian banks are permitted as recognised lenders only for FCY ECB (except FCCBs and FCEBs). Foreign branches / subsidiaries of Indian banks, subject to applicable prudential norms, can participate as arrangers/underwriters/market-makers/traders for Rupee denominated Bonds issued overseas. However, underwriting by foreign branches/subsidiaries of Indian banks for issuances by Indian banks will not be allowed.
+v
+Minimum Average Maturity Period
+Minimum average maturity period (MAMP) will be 3 years. However, manufacturing sector companies may raise ECBs with MAMP of 1 year for ECB up to USD 50 million or its equivalent per financial year. Further, if the ECB is raised from foreign equity holder and utilised for working capital purposes, general corporate purposes or repayment of Rupee loans, MAMP will be 5 years. The call and put option, if any, shall not be exercisable prior to completion of minimum average maturity.
+vi
+All-in-cost ceiling per annum
+Benchmark rate plus 450 bps spread.
+vii
+Other costs
+Prepayment charge/ Penal interest, if any, for default or breach of covenants should not be more than 2 per cent over and above the contracted rate of interest on the outstanding principal amount and will be outside the all-in-cost ceiling.
+viii
+End-uses (Negative list)
+The negative list, for which the ECB proceeds cannot be utilised, would include the following:
+a) Real estate activities.
+b) Investment in capital market.
+c) Equity investment.
+d) Working capital purposes except from foreign equity holder.
+e) General corporate purposes except from foreign equity holder.
+f) Repayment of Rupee loans except from foreign equity holder.
+g) On-lending to entities for the above activities.
+ix
+Exchange rate
+Change of currency of FCY ECB into INR ECB can be at the exchange rate prevailing on the date of the agreement between the parties concerned for such change or at an exchange rate, which is less than the rate prevailing on the date of agreement, if consented to by the ECB lender.
+For conversion to Rupee, exchange rate shall be the rate prevailing on the date of settlement.
+x
+Hedging provision
+The entities raising ECB are required to follow the guidelines for hedging issued, if any, by the concerned sectoral or prudential regulator in respect of foreign currency exposure. Infrastructure space companies shall have a board approved risk management policy. Further, such companies are required to mandatorily hedge 70 per cent of their ECB exposure in case average maturity of ECB is less than 5 years. The designated AD Category-I bank shall verify that 70 per cent hedging requirement is complied with during the currency of ECB and report the position to RBI through Form ECB 2 returns. The following operational aspects with respect to hedging should be ensured:
+Coverage:
+The ECB borrower will be required to cover principal as well as coupon through financial hedges. The financial hedge for all exposures on account of ECB should start from the time of each such exposure (i.e. the day liability is created in the books of the borrower).
+Tenor and rollover:
+A minimum tenor of one year of financial hedge would be required with periodic rollover duly ensuring that the exposure on account of ECB is not unhedged at any point during the currency of ECB.
+Natural Hedge:
+Natural hedge, in lieu of financial hedge, will be considered only to the extent of offsetting projected cash flows / revenues in matching currency, net of all other projected outflows. For this purpose, an ECB may be considered naturally hedged if the offsetting exposure has the maturity/cash flow within the same accounting year. Any other arrangements/ structures, where revenues are indexed to foreign currency will not be considered as natural hedge.
+The overseas investors are eligible to hedge their exposure in Rupee through permitted derivative products with AD Category I banks in India. The investors can also access the domestic market through branches / subsidiaries of Indian banks abroad or branches of foreign banks with Indian presence on a back to back basis.
+xi
+Change of currency of borrowing
+Change of currency of ECB from one freely convertible foreign currency to any other freely convertible foreign currency as well as to INR is freely permitted.
+Change of currency from INR to any freely convertible foreign currency is not permitted.
+Note:
+ECB framework is not applicable in respect of the investment in Non-Convertible Debentures in India made by Registered Foreign Portfolio Investors.
+2.2. Limit and leverage:
+Under the aforesaid framework, all eligible borrowers can raise ECB up to USD 750 million or equivalent per financial year under auto route. Further, in case of FCY denominated ECB raised from direct foreign equity holder ECB liability-equity ratio for ECBs raised under the automatic route cannot exceed 7:1. However, this ratio will not be applicable if outstanding amount of all ECBs, including proposed one, is up to USD 5 million or equivalent. Further, the borrowing entities will also be governed by the guidelines on debt equity ratio issued, if any, by the sectoral or prudential regulator concerned.
+3. Issuance of Guarantee, etc. by Indian banks and Financial Institutions:
+Issuance of any type of guarantee by Indian banks, All India Financial Institutions and NBFCs relating to ECB is not permitted. Further, financial intermediaries (viz., Indian banks, All India Financial Institutions, or NBFCs) shall not invest in FCCBs/ FCEBs in any manner whatsoever.
+4. Parking of ECB proceeds:
+ECB proceeds are permitted to be parked abroad as well as domestically in the manner given below:
+4.1. Parking of ECB proceeds abroad:
+ECB proceeds meant only for foreign currency expenditure can be parked abroad pending utilization. Till utilisation, these funds can be invested in the following liquid assets (a) deposits or Certificate of Deposit or other products offered by banks rated not less than AA (-) by Standard and Poor/ Fitch IBCA or Aa3 by Moody’s; (b) Treasury bills and other monetary instruments of one-year maturity having minimum rating as indicated above and (c) deposits with foreign branches/ subsidiaries of Indian banks abroad.
+4.2. Parking of ECB proceeds domestically:
+ECB proceeds meant for Rupee expenditure should be repatriated immediately for credit to their Rupee accounts with AD Category I banks in India. ECB borrowers are also allowed to park ECB proceeds in term deposits with AD Category I banks in India for a maximum period of 12 months cumulatively. These term deposits should be kept in unencumbered position.
+5. Procedure of raising ECB:
+All ECBs can be raised under the automatic route if they conform to the parameters prescribed under this framework. For approval route cases, the borrowers may approach the RBI with an application in prescribed format (
+Form ECB – Annex I
+) for examination through their AD Category I bank. Such cases shall be considered keeping in view the overall guidelines, macroeconomic situation and merits of the specific proposals. ECB proposals received in the Reserve Bank above certain threshold limit (refixed from time to time) would be placed before the Empowered Committee set up by the Reserve Bank. The Empowered Committee will have external as well as internal members and the Reserve Bank will take a final decision in the cases taking into account recommendation of the Empowered Committee. Entities desirous to raise ECB under the automatic route may approach an AD Category I bank with their proposal along with duly filled in Form ECB.
+6. Reporting Requirements:
+Borrowings under ECB Framework are subject to following reporting requirements apart from any other specific reporting required under the framework:
+6.1. Loan Registration Number (LRN):
+Any draw-down in respect of an ECB should happen only after obtaining the LRN from the Reserve Bank. To obtain the LRN, borrowers are required to submit duly certified Form ECB, which also contains terms and conditions of the ECB, in duplicate to the designated AD Category I bank. In turn, the AD Category I bank will forward one copy to the Director, Balance of Payments Statistics Division, Department of Statistics and Information Management (DSIM), Reserve Bank of India, Bandra-Kurla Complex, Mumbai – 400 051 (Contact numbers 022-26572513 and 022-26573612). Copies of loan agreement for raising ECB are not required to be submitted to the Reserve Bank.
+6.2. Changes in terms and conditions of ECB:
+Changes in ECB parameters in consonance with the ECB norms, including reduced repayment by mutual agreement between the lender and borrower, should be reported to the DSIM through revised Form ECB at the earliest, in any case not later than 7 days from the changes effected. While submitting revised Form ECB the changes should be specifically mentioned in the communication.
+6.3. Monthly Reporting of actual transactions:
+The borrowers are required to report actual ECB transactions through
+Form ECB 2 Return (Annex II)
+through the AD Category I bank on monthly basis so as to reach DSIM within seven working days from the close of month to which it relates. Changes, if any, in ECB parameters should also be incorporated in Form ECB 2 Return.
+6.4. Late Submission Fee (LSF) for delay in reporting:
+6.4.1. Any borrower, who is otherwise in compliance of ECB guidelines, can regularize the delay in reporting of drawdown of ECB proceeds before obtaining LRN or delay in submission of Form ECB 2 returns, by payment of late submission fees as detailed in the following matrix:
+Sr. No.
+Type of Return/Form
+Period of delay
+Applicable LSF
+1
+Form ECB 2
+Up to 30 calendar days from due date of submission
+INR 5,000
+2
+Form ECB 2/Form ECB
+Up to three years from due date of submission/date of drawdown
+INR 50,000 per year
+3
+Form ECB 2/Form ECB
+Beyond three years from due date of submission/date of drawdown
+INR 100,000 per year
+6.4.2. The borrower, through its AD bank, may pay the LSF by way of demand draft in favour of “Reserve Bank of India” or any other mode specified by the Reserve Bank. Such payment should be accompanied with the requisite return(s). Form ECB and Form ECB 2 returns reporting contraventions will be treated separately. Non-payment of LSF will be treated as contravention of reporting provision and shall be subject to compounding or adjudication as provided in FEMA 1999 or regulations/rules framed thereunder.
+6.5. Standard Operating Procedure (SOP) for Untraceable Entities:
+The following SOP has to be followed by designated AD Category-I banks in case of untraceable entities who are found to be in contravention of reporting provisions for ECBs by failing to submit prescribed return(s) under the ECB framework, either physically or electronically, for past eight quarters or more.
+i. Definition:
+Any borrower who has raised ECB will be treated as ‘untraceable entity’, if entity/auditor(s)/director(s)/ promoter(s) of entity are not reachable/responsive/reply in negative over email/letters/phone for a period of not less than two quarters with documented communication/ reminders numbering 6 or more and it fulfills both of the following conditions:
+Entity not found to be operative at the registered office address as per records available with the AD Bank or not found to be operative during the visit by the officials of the AD Bank or any other agencies authorized by the AD bank for the purpose;
+Entities have not submitted Statutory Auditor’s Certificate for last two years or more;
+ii. Action:
+The followings actions are to be undertaken in respect of ‘untraceable entities’:
+File Revised Form ECB, if required, and last Form ECB 2 Return without certification from company with ‘UNTRACEABLE ENTITY’ written in bold on top. The outstanding amount will be treated as written-off from external debt liability of the country but may be retained by the lender in its books for recovery through judicial/ non-judicial means;
+No fresh ECB application by the entity should be examined/processed by the AD bank;
+Directorate of Enforcement should be informed whenever any entity is designated ‘UNTRACEABLE ENTITY’; and
+No inward remittance or debt servicing will be permitted under auto route.
+7. Powers delegated to AD Category I banks to deal with ECB cases:
+The designated AD Category I banks can approve any requests from the borrowers for changes in respect of ECBs, except for FCCBs/FCEBs, duly ensuring that the changed conditions, including change in name of borrower/lender, transfer of ECB and any other parameters, comply with extant ECB norms and are with the consent of lender(s). Further, the following changes can be undertaken under automatic route:
+7.1. Change of the AD Category I bank:
+AD Category I bank can be changed subject to obtaining no objection certificate from the existing AD Category I bank.
+7.2. Cancellation of LRN:
+The designated AD Category I banks may directly approach DSIM for cancellation of LRN for ECBs contracted, subject to ensuring that no draw down against the said LRN has taken place and the monthly ECB-2 returns till date in respect of the allotted LRN have been submitted to DSIM.
+7.3. Refinancing of existing ECB:
+The designated AD Category I bank may allow refinancing of existing ECB by raising fresh ECB provided the outstanding maturity of the original borrowing (weighted outstanding maturity in case of multiple borrowings) is not reduced and all-in-cost of fresh ECB is lower than the all-in-cost (weighted average cost in case of multiple borrowings) of existing ECB. Further, refinancing of ECBs raised under the previous ECB framework may also be permitted, subject to additionally ensuring that the borrower is eligible to raise ECB under the extant framework. Raising of fresh ECB to part refinance the existing ECB is also permitted subject to same conditions. Indian banks are permitted to participate in refinancing of existing ECB, only for highly rated corporates (AAA) and for Maharatna/Navratna public sector undertakings.
+7.4. Conversion of ECB into equity:
+Conversion of ECBs, including those which are matured but unpaid, into equity is permitted subject to the following conditions:
+i. The activity of the borrowing company is covered under the automatic route for FDI or Government approval is received, wherever applicable, for foreign equity participation as per extant FDI policy.
+ii. The conversion, which should be with the lender’s consent and without any additional cost, should not result in contravention of eligibility and breach of applicable sector cap on the foreign equity holding under FDI policy;
+iii. Applicable pricing guidelines for shares are complied with;
+iv. In case of partial or full conversion of ECB into equity, the reporting to the Reserve Bank will be as under:
+For partial conversion, the converted portion is to be reported in Form FC-GPR prescribed for reporting of FDI flows, while monthly reporting to DSIM in Form ECB 2 Return will be with suitable remarks, viz., "ECB partially converted to equity".
+For full conversion, the entire portion is to be reported in Form FC-GPR, while reporting to DSIM in Form ECB 2 Return should be done with remarks “ECB fully converted to equity”. Subsequent filing of Form ECB 2 Return is not required.
+For conversion of ECB into equity in phases, reporting through Form FC-GPR and Form ECB 2 Return will also be in phases.
+v. If the borrower concerned has availed of other credit facilities from the Indian banking system, including foreign branches/subsidiaries of Indian banks, the applicable prudential guidelines issued by the Department of Banking Regulation of Reserve Bank, including guidelines on restructuring are complied with;
+vi. Consent of other lenders, if any, to the same borrower is available or atleast information regarding conversions is exchanged with other lenders of the borrower.
+vii. For conversion of ECB dues into equity, the exchange rate prevailing on the date of the agreement between the parties concerned for such conversion or any lesser rate can be applied with a mutual agreement with the ECB lender. It may be noted that the fair value of the equity shares to be issued shall be worked out with reference to the date of conversion only.
+7.5. Security for raising ECB:
+AD Category I banks are permitted to allow creation/ cancellation of charge on immovable assets, movable assets, financial securities and issue of corporate and/ or personal guarantees in favour of overseas lender / security trustee, to secure the ECB to be raised / raised by the borrower, subject to satisfying themselves that:
+i. the underlying ECB is in compliance with the extant ECB guidelines,
+ii. there exists a security clause in the Loan Agreement requiring the ECB borrower to create/ cancel charge, in favour of overseas lender / security trustee, on immovable assets / movable assets / financial securities / issuance of corporate and / or personal guarantee, and
+iii. No objection certificate, as applicable, from the existing lenders in India has been obtained in case of creation of charge.
+Once the aforesaid stipulations are met, the AD Category I bank may permit creation of charge on immovable assets, movable assets, financial securities and issue of corporate and / or personal guarantees, during the currency of the ECB with security co-terminating with underlying ECB, subject to the following:
+i. Creation of Charge on Immovable Assets:
+The arrangement shall be subject to the following:
+Such security shall be subject to provisions contained in the Foreign Exchange Management (Acquisition and Transfer of Immovable Property in India) Regulations, 2000.
+The permission should not be construed as a permission to acquire immovable asset (property) in India, by the overseas lender/ security trustee.
+In the event of enforcement / invocation of the charge, the immovable asset/ property will have to be sold only to a person resident in India and the sale proceeds shall be repatriated to liquidate the outstanding ECB.
+ii. Creation of Charge on Movable Assets:
+In the event of enforcement/ invocation of the charge, the claim of the lender, whether the lender takes over the movable asset or otherwise, will be restricted to the outstanding claim against the ECB. Encumbered movable assets may also be taken out of the country subject to getting ‘No Objection Certificate’ from domestic lender/s, if any.
+iii. Creation of Charge over Financial Securities:
+The arrangements may be permitted subject to the following:
+a) Pledge of shares of the borrowing company held by the promoters as well as in domestic associate companies of the borrower is permitted. Pledge on other financial securities, viz. bonds and debentures, Government Securities, Government Savings Certificates, deposit receipts of securities and units of the Unit Trust of India or of any mutual funds, standing in the name of ECB borrower/promoter, is also permitted.
+b) In addition, security interest over all current and future loan assets and all current assets including cash and cash equivalents, including Rupee accounts of the borrower with ADs in India, standing in the name of the borrower/promoter, can be used as security for ECB. The Rupee accounts of the borrower/promoter can also be in the form of escrow arrangement or debt service reserve account.
+c) In case of invocation of pledge, transfer of financial securities shall be in accordance with the extant FDI/FII policy including provisions relating to sectoral cap and pricing as applicable read with the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000.
+iv. Issue of Corporate or Personal Guarantee:
+The arrangement shall be subject to the following:
+a) A copy of Board Resolution for the issue of corporate guarantee for the company issuing such guarantee, specifying name of the officials authorised to execute such guarantees on behalf of the company or in individual capacity should be obtained.
+b) Specific requests from individuals to issue personal guarantee indicating details of the ECB should be obtained.
+c) Such security shall be subject to provisions contained in the Foreign Exchange Management (Guarantees) Regulations, 2000.
+d) ECB can be credit enhanced / guaranteed / insured by overseas party/ parties only if it/ they fulfil/s the criteria of recognised lender under extant ECB guidelines.
+7.6. Additional Requirements:
+While permitting changes under the delegated powers, the AD Category I banks should ensure that:
+i. The changes permitted are in conformity with the applicable ceilings / guidelines and the ECB continues to be in compliance with applicable guidelines. It should also be ensured that if the ECB borrower has availed of credit facilities from the Indian banking system, including foreign branches/subsidiaries of Indian banks, any extension of tenure of ECB (whether matured or not) shall be subject to applicable prudential guidelines issued by Department of Banking Regulation of Reserve Bank including guidelines on restructuring.
+ii. The changes in the terms and conditions of ECB allowed by the ADs under the powers delegated and / or changes approved by the Reserve Bank should be reported to the DSIM through revised Form ECB at the earliest, in any case not later than 7 days from the changes effected. While submitting revised Form ECB to the DSIM, the changes should be specifically mentioned in the communication. Further, these changes should also get reflected in the Form ECB 2 returns appropriately.
+8. Special Dispensations under the ECB framework:
+8.1. ECB facility for Oil Marketing Companies:
+Notwithstanding the provisions contained in paragraph 2.1 (viii), 2.1 (x) and 2.2 above, Public Sector Oil Marketing Companies (OMCs) can raise ECB for working capital purposes with minimum average maturity period of 3 years from all recognized lenders under the automatic route without mandatory hedging and individual limit requirements. The overall ceiling for such ECBs shall be USD 10 billion or equivalent. However, OMCs should have a Board approved forex mark to market procedure and prudent risk management policy, for such ECBs. All other provisions under the ECB framework will be applicable to such ECBs.
+8.2. ECB facility for Startups:
+AD Category-I banks are permitted to allow Startups to raise ECB under the automatic route as per the following framework:
+i. Eligibility:
+An entity recognised as a Startup by the Central Government as on date of raising ECB.
+ii. Maturity:
+Minimum average maturity period will be 3 years.
+iii. Recognised lender:
+Lender / investor shall be a resident of a FATF compliant country. However, foreign branches/subsidiaries of Indian banks and overseas entity in which Indian entity has made overseas direct investment as per the extant Overseas Direct Investment Policy will not be considered as recognized lenders under this framework.
+iv. Forms:
+The borrowing can be in form of loans or non-convertible, optionally convertible or partially convertible preference shares.
+v. Currency:
+The borrowing should be denominated in any freely convertible currency or in Indian Rupees (INR) or a combination thereof. In case of borrowing in INR, the non-resident lender, should mobilise INR through swaps/outright sale undertaken through an AD Category-I bank in India.
+vi. Amount:
+The borrowing per Startup will be limited to USD 3 million or equivalent per financial year either in INR or any convertible foreign currency or a combination of both.
+vii. All-in-cost:
+Shall be mutually agreed between the borrower and the lender.
+viii. End uses:
+For any expenditure in connection with the business of the borrower.
+ix. Conversion into equity:
+Conversion into equity is freely permitted subject to Regulations applicable for foreign investment in Startups.
+x. Security:
+The choice of security to be provided to the lender is left to the borrowing entity. Security can be in the nature of movable, immovable, intangible assets (including patents, intellectual property rights), financial securities, etc. and shall comply with foreign direct investment / foreign portfolio investment / or any other norms applicable for foreign lenders / entities holding such securities. Further, issuance of corporate or personal guarantee is allowed. Guarantee issued by a non-resident(s) is allowed only if such parties qualify as lender under ECB for Startups. However, issuance of guarantee, standby letter of credit, letter of undertaking or letter of comfort by Indian banks, all India Financial Institutions and NBFCs is not permitted.
+xi. Hedging:
+The overseas lender, in case of INR denominated ECB, will be eligible to hedge its INR exposure through permitted derivative products with AD Category – I banks in India. The lender can also access the domestic market through branches/ subsidiaries of Indian banks abroad or branches of foreign bank with Indian presence on a back to back basis.
+Note:
+Startups raising ECB in foreign currency, whether having natural hedge or not, are exposed to currency risk due to exchange rate movements and hence are advised to ensure that they have an appropriate risk management policy to manage potential risk arising out of ECBs.
+xii. Conversion rate:
+In case of borrowing in INR, the foreign currency - INR conversion will be at the market rate as on the date of agreement.
+xiii. Other Provisions:
+Other provisions like parking of ECB proceeds, reporting arrangements, powers delegated to AD banks, borrowing by entities under investigation, conversion of ECB into equity will be as included in the ECB framework. However, provisions on leverage ratio and ECB liability: Equity ratio will not be applicable. Further, the Start-ups as defined above [8.2. (i)] as well as other start-ups which do not comply with the aforesaid definition but are eligible to receive FDI, can also raise ECBs under the general ECB route/framework.
+9. Borrowing by Entities under Investigation:
+All entities against which investigation / adjudication / appeal by the law enforcing agencies for violation of any of the provisions of the Regulations under FEMA pending, may raise ECBs as per the applicable norms, if they are otherwise eligible, notwithstanding the pending investigations / adjudications / appeals, without prejudice to the outcome of such investigations / adjudications / appeals. The borrowing entity shall inform about pendency of such investigation / adjudication / appeal to the AD Category-I bank / RBI as the case may be. Accordingly, in case of all applications where the borrowing entity has indicated about the pending investigations / adjudications / appeals, the AD Category I Banks / Reserve Bank while approving the proposal shall intimate the agencies concerned by endorsing a copy of the approval letter.
+10. ECB by entities under restructuring:
+An entity which is under restructuring scheme/ corporate insolvency resolution process can raise ECB only if specifically permitted under the resolution plan.
+11. Dissemination of information:
+For providing greater transparency, information with regard to the name of the borrower, amount, purpose and maturity of ECB under both Automatic and Approval routes are put on the RBI’s website, on a monthly basis, with a lag of one month to which it relates.
+12. Compliance with the guidelines:
+The primary responsibility for ensuring that the borrowing is in compliance with the applicable guidelines is that of the borrower concerned. Any contravention of the applicable provisions of ECB guidelines will invite penal action under the FEMA. The designated AD Category I bank is also expected to ensure compliance with applicable ECB guidelines by their constituents.

@@ -1,0 +1,63 @@
+(52 kb)
+Amendments to Master Direction- Reserve Bank of India (Financial Services provided by Banks) Directions, 2016
+RBI/2017-18/66
+DBR.No.FSD.BC.89/24.01.040/2017-18
+September 25, 2017
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear Sir/ Madam,
+Amendments to Master Direction- Reserve Bank of India (Financial Services provided by Banks) Directions, 2016
+Considering the suggestions and queries received from SEBI, banks and other stakeholders, Reserve Bank of India has decided to make certain amendments to
+Master Direction - Reserve Bank of India (Financial Services provided by Banks) Direction No.DBR.FSD.No.101/24.01.041/2015-16 dated May 26, 2016
+. In pursuance of these changes, Para 5(a)(v) of the Master Direction on Financial Services provided by Banks is amended to read as under:
+“v. No bank shall
+a) Hold more than 10 per cent in the equity of a deposit taking NBFC.
+Provided that this does not apply to a housing finance company.
+b) Make an investment of more than 10 per cent of the unit capital of a Real Estate Investment Trust/Infrastructure Investment Trust subject to overall ceiling of 20 per cent of its net worth permitted for direct investments in shares, convertible bonds/ debentures, units of equity-oriented mutual funds and exposures to Alternative Investment Funds.
+c) Hold more than 10 per cent of the paid up capital of a company, not being its subsidiary engaged in non-financial services or 10 per cent of the bank’s paid up capital and reserves, whichever is lower.
+Provided investments in excess of 10 per cent but not exceeding 30 per cent of the paid up share capital of such investee company shall be permissible in the following circumstances:
+the investee company is engaged in non-financial activities permitted for banks in terms of Section 6(1) of the Banking Regulation Act, 1949; or
+the additional acquisition is through restructuring of debt or to protect the banks’ interest on loans/investments made to a company. The bank shall submit a time bound action plan for disposal of such shares within a specified period to RBI.
+d) Hold along with its subsidiaries, associates or joint ventures or entities directly or indirectly controlled by the bank; and mutual funds managed by Asset Management Companies (AMCs) controlled by the bank, more than 20 per cent of the paid up share capital of an investee company engaged in non-financial services. However, this cap does not apply to the cases mentioned at 5(a)(v)(c)(i) and (ii) above.
+e) Make any investment in a Category III Alternative Investment Fund (AIF). Investment by a bank’s subsidiary in a Category III AIF shall be restricted to the regulatory minima prescribed by SEBI.”
+2. Para 5(a)(vi)(b) is being amended to read as under:
+“investments in excess of 10 per cent in non-financial companies acquired in circumstances as mentioned at 5 (a) (v) (c) (ii) above.”
+3. Para 5(b)(i)(b) is being amended to read as under:
+“The bank has the minimum prescribed capital (including Capital Conservation Buffer) and has also made a net profit in that immediate preceding financial year; and.”
+4. Section 5(b)(i)(d) is being amended to read as under:
+“The aggregate shareholding of the bank along with shareholdings, if any, by its subsidiaries or joint ventures or other entities directly or indirectly controlled by the bank, is less than 20 per cent of the investee company’s paid up capital.
+Explanation: Prior approval of RBI shall not be required if the investments in the financial services companies are held under the ‘Held for Trading’ category and are not held beyond 90 days.”
+5. In Para 5(b), the following is being added as (iii):
+“(iii) investment of more than 10 per cent of the paid up capital/ unit capital in a Category I/ Category II Alternative Investment Fund.”
+6. A new Para 5(c) is being inserted after Para 5(b), which reads as under:
+“Banks shall ascertain the risks arising on account of equity investments in Alternative Investment Funds done directly or through their subsidiaries, within the Internal Capital Adequacy Assessment Process (ICAAP) framework and determine the additional capital required which will be subject to supervisory examination as part of Supervisory Review and Evaluation Process. This shall also be applicable to sponsoring of Infrastructure Debt Funds by banks.”
+7. The explanation to Para 7(d) is being amended to read as under:
+“Explanation: This shall not apply to the investments made by a Category I and II AIF set up by the subsidiary.”
+8. Section 14(a)(ii) is being amended to read as under:
+“It has the minimum prescribed capital (including Capital Conservation Buffer) after investment.”
+9. Section 14(b)(ii) is being amended to read as under:
+“It complies with conditions stated at 14 (a) ii, iii, iv and v.”
+10. Para 14(c) is being amended to read as under:
+“Insurance broking services departmentally:
+A bank may, at its option, act as an insurance broker departmentally subject to the conditions mentioned under Section 18(d) on insurance agency business.”
+11. Section 15(ii) is being amended to read as under:
+“It has the minimum prescribed capital (including Capital Conservation Buffer) after investment.”
+12. Section 21(a)(ii) is being amended to read as under:
+“It has the minimum prescribed capital (including Capital Conservation Buffer)”.
+13. A new Para 21(c) is being inserted after Para 21(b), which reads as under:
+“No bank shall become a Professional Clearing Member of the commodity derivatives segment of SEBI recognised exchanges unless it satisfies the prudential criteria (as given in Para 21(a) (i) to (iv)) and shall do so subject to the following conditions:
+The bank shall satisfy the membership criteria of the stock exchanges and comply with the regulatory norms laid down by SEBI and the respective stock exchanges.
+The bank shall, with the approval of Board, put in place effective risk control measures, prudential norms on risk exposure in respect of each of its trading members, taking into account their net worth, business turnover, etc.
+The bank shall not undertake trading in the derivative segment of the commodity exchange on its own account and shall restrict itself only to clearing and settlement transactions done by the trading members/ clients on the exchange.
+The bank shall take exposure on its trading members as per the policy approved by its board.
+The bank may fulfill pay-in obligations arising out of trades executed by its clients, as clearing member of the exchange subject to the condition that the total exposure which the bank would take on its registered clients should be determined by the Board in relation to the net worth of the bank and should be monitored regularly. However, the bank shall not meet pay-in obligations of any transaction other than what is required in its role as a Professional Clearing Member.
+The bank shall ensure strict compliance with various margin requirements as may be prescribed by the Bank’s board or the Commodity Exchanges as also the extant RBI guidelines regarding guarantees issued on behalf of commodity brokers.”
+14. A new Para 22 is being inserted in the MD which reads as under:
+“22. Broking services for Commodity Derivatives Segment
+(a) No bank shall offer broking services for the commodity derivatives segment of SEBI recognised stock exchanges except through a separate subsidiary set up for the purpose or one of its existing subsidiaries and shall do so subject to the following conditions:
+The subsidiary shall, with the approval of its Board, put in place effective risk control measures including prudential norms on risk exposure in respect of each of its clients, taking into account their net worth, business turnover, etc.
+The subsidiary shall not undertake proprietary positions in the commodity derivatives segments.
+The subsidiary shall ensure strict compliance with various margin requirements as may be prescribed by SEBI, its own board or the Commodity Exchanges.”
+15. The Master Direction has been suitably updated.
+(Dr. S K Kar)
+Chief General Manager

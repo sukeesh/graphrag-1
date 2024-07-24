@@ -1,0 +1,58 @@
+(133 kb)
+Framework for authorisation of pan-India Umbrella Entity for Retail Payments
+A. Objective
+To set-up pan-India umbrella entity / entities focussing on retail payment systems. Such entity shall be a Company incorporated in India under the Companies Act, 2013 and may be a ‘for-profit’ or a Section 8 Company as may be decided by it.
+B. Authorisation under the Payment and Settlement Systems Act, 2007 (PSS Act)
+The umbrella entity shall be a Company authorised by Reserve Bank of India (RBI) under Section 4 of the PSS Act, 2007. It shall be governed by the provisions of the PSS Act and other relevant statutes and directives, prudential regulations and other guidelines / instructions.
+C. Eligible Promoters & Shareholding
+All entities eligible to apply as promoter / promoter group of the umbrella entity shall be owned and controlled by resident Indian citizens’
+1
+[as defined in the rules / regulations framed under the Foreign Exchange Management Act, 1999 (FEMA), as amended from time to time] with 3 years’ experience in the payments ecosystem as Payment System Operator (PSO) / Payment Service Provider (PSP) / Technology Service Provider (TSP)
+2
+. The shareholding pattern shall be diversified. Any entity holding more than 25% of the paid-up capital of the umbrella entity shall be deemed to be a Promoter.
+D. Memorandum of Association (MoA)
+The Memorandum of Association (MOA) of the applicant entity must cover the proposed activities of operating a pan-India umbrella entity for retail payment systems.
+E. Foreign Investment
+In case of any Foreign Direct Investment (FDI) / Foreign Portfolio Investment (FPI) in the applicant entity, it shall:
+Fulfil, additionally, the capital requirements as applicable under the rules / regulations framed under FEMA, as amended from time to time.
+Submit, with application of authorisation, necessary approval from the competent authority as required under rules / regulations framed under FEMA, as amended from time to time.
+F. Fit and Proper Criteria
+The Promoters / Promoter Groups, shall conform to the Reserve Bank’s ‘fit and proper’ criteria. Director of a Promoter Company / Group Company shall be deemed to be a “fit and proper” person if:
+1. Such person has a record of fairness and integrity, including but not limited to –
+financial integrity;
+good reputation and character; and
+honesty;
+2. Such person has not incurred any of the following disqualifications –
+Convicted by a court for any offence involving moral turpitude or any economic offence or any offence under the laws administered by the RBI;
+Declared insolvent and not discharged;
+An order, restraining, prohibiting or debarring the person from accessing / dealing in any financial system, passed by any regulatory authority, and the period specified in the order has not elapsed;
+Found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and
+Is financially not sound.
+3. If any question arises as to whether a person is a fit and proper person, the RBI’s decision on such question shall be final.
+G. Capital
+The umbrella entity shall have a minimum paid-up capital of ₹500 crore. No single Promoter / Promoter Group shall have more than 40% investment in the capital of the umbrella entity. The Promoters / Promoter Groups shall upfront demonstrate capital contribution of not less than 10% i.e., ₹50 crore at the time of making an application for setting up of the umbrella entity. The balance capital shall be secured at the time of commencement of business / operations. The Promoter / Promoter Group shareholding can be diluted to a minimum of 25% after 5 years of the commencement of business of the umbrella entity. A minimum net-worth of ₹300 crore shall be maintained at all times.
+H. Scope of Activities
+The scope of activities of the umbrella entity shall be as follows:
+Set-up, manage and operate new payment system(s) in the retail space comprising of but not limited to ATMs, White Label PoS; Aadhaar based payments and remittance services; newer payment methods, standards and technologies; monitor related issues in the country and internationally; take care of developmental objectives like enhancement of awareness about the payment systems.
+Operate clearing and settlement systems for participating banks and non-banks; identify and manage relevant risks such as settlement, credit, liquidity and operational and preserve the integrity of the system(s); monitor retail payment system developments and related issues in the country and internationally to avoid shocks, frauds and contagions that may adversely affect the system(s) and / or the economy in general.
+Fulfil its policy objectives and ensure that principles of fairness, equity and competitive neutrality are applied in determining participation in the system; frame necessary rules and the related processes to ensure that the system is safe and sound, and that payments are exchanged efficiently.
+Carry on any other business as suitable to further strengthen the retail payments ecosystem in the country. It is expected that the umbrella entity shall offer innovative payment systems to include hitherto excluded cross-sections of the society and which enhance access, customer convenience and safety and the same shall be distinct yet interoperable.
+It is also expected to interact and be interoperable, to the extent possible, with the systems operated by NPCI.
+The umbrella entity may be permitted to participate in Reserve Bank’s payment and settlement systems, including having a current account with Reserve Bank, if required.
+I. Governance Structure
+The umbrella entity shall conform to the norms of corporate governance along with ‘fit and proper’ criteria for persons to be appointed on its Board. The Reserve Bank retains the right to approve the appointment of Directors as also to nominate a member on the Board of the umbrella entity.
+J. Business Plan
+The application for setting up the umbrella entity shall contain a detailed business plan covering the payment system/s proposed to be set-up and / or operated along with other documents to duly establish its experience in the payments ecosystem.
+Such plan shall, inter alia, include technology, security features, market analysis / research, benefit, if any, of such payment systems, operational structure of the payment systems, time-period for setting up the payment systems and proposed scale of operations, etc. A proposed organisational strategy in terms of fulfilling its responsibility as an umbrella entity shall also be given in the business plan. The umbrella entity shall commence business / operations within a time of 6 months, extendable to a maximum of one year, if required, from the date of ‘in-principle approval’.
+K. Procedure for Application
+The application shall be submitted in an envelope superscribed “Application for Umbrella Entity ”, addressed to the Chief General Manager, Department of Payment and Settlement Systems, Central Office, Reserve Bank of India, 14th Floor, Central Office Building, Shahid Bhagat Singh Marg, Mumbai – 400 001 and shall be submitted in the prescribed form (
+Form A
+) till the close of business hours on February 26, 2021.
+L. Procedure for Processing of Applications
+The applications will be taken up for processing only after the last date of receipt of applications, in the order of their receipt at the Reserve Bank of India. Scrutiny of applications will be undertaken by an External Advisory Committee (EAC). The EAC will submit its recommendations to the Reserve Bank. Board for Regulation and Supervision of Payment and Settlement Systems (BPSS), will be the final authority on issuing authorisation for setting up umbrella entity / entities. Reserve Bank will endeavour to complete the process within a period of six months.
+1
+As defined in Chapter VIII of the Foreign Exchange Management (Non-debt Instruments) Rules, 2019, as amended from time to time.
+2
+PSO – refers to an entity that operates an authorised payment system as defined under Section 2 of the Payment and Settlement Systems Act, 2007.
+PSP – includes banks or non-banks which provide payment services or participate in a payment transaction.
+TSP – entities that provide only technology platform or support (software, hardware or a technical service) to bank payment gateways, non-bank payment aggregators, e-commerce platforms, etc. Being pure technology service providers, they do not at any point hold the monies transacted between the customer and merchant.

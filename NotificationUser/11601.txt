@@ -1,0 +1,147 @@
+(191 kb)
+Financial Benchmark Administrators (Reserve Bank) Directions, 2019
+RBI/2018-19/221
+FMRD.FMSD.17/03.07.035/2018-19
+June 26, 2019
+To
+All eligible market participants
+Dear Sir/Madam
+Financial Benchmark Administrators (Reserve Bank) Directions, 2019
+Please refer to Paragraph 2 of the
+Statement on Developmental and Regulatory Policies of the Fourth Bi-monthly Monetary Policy Statement for 2018-19 dated October 05, 2018
+, wherein it was announced that the Reserve Bank will introduce a regulatory framework for financial benchmarks, to improve the governance of the benchmark processes in markets regulated by it.
+2. The
+draft Directions
+were released for public comments on February 15, 2019. Based on the feedback received, the Directions have been finalized. The Directions are
+enclosed
+herewith.
+3. These Directions have been issued by RBI in exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE (MAIN BUILDING), FORT
+MUMBAI 400 001
+Notification No. FMRD.FMSD.18/2019 dated June 26, 2019
+Financial Benchmark Administrators (Reserve Bank) Directions, 2019
+The Reserve Bank of India (hereinafter called ‘the Reserve Bank’) having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934, (hereinafter called ‘the Act’) read with section 45U of the Act and of all the powers enabling it in this behalf, hereby issues the following Directions to Financial Benchmark Administrators
+1
+.
+Short Title and Commencement:
+These directions shall be called the ‘Financial Benchmarks Administrators (Reserve Bank) Directions, 2019’ and shall come into force with effect from June 26, 2019.
+1. Extent and applicability:
+These directions shall apply to Financial Benchmark Administrators (FBAs) administering ‘Significant Benchmarks’ in the markets for financial instruments regulated by the Reserve Bank under Section 45 W of the Act.
+Benchmarks administered outside India do not fall under the scope of these directions.
+2. Definitions:
+‘Administration’
+refers to all stages and processes involved in the production and dissemination of a benchmark.
+‘Benchmarks’
+mean prices, rates, indices, values or a combination thereof related to financial instruments that are calculated periodically and used as a reference for pricing or valuation of financial instruments or any other financial contract.
+‘Calculating Agent’
+means a person who calculates a benchmark in accordance with the methodology set out by the financial benchmark administrator.
+‘Financial Benchmark Administrator’
+(FBA) means a person who controls the creation, operation and administration of significant benchmark(s).
+‘Financial instruments’
+mean instruments referred to or specified under section 45W of the RBI Act.
+‘Methodology’,
+for the purpose of benchmarks includes the written rules and procedures according to which information is collected and the benchmark is determined.
+‘Significant benchmark’
+means any benchmark notified by the Reserve Bank as a ‘significant benchmark’ under these Directions.
+‘Submitter’
+means any natural or legal person contributing input data for determination of a benchmark.
+3. Authorization of FBA:
+The Reserve Bank shall notify a benchmark as a ‘significant benchmark’ taking into consideration its use, efficiency and relevance in domestic financial markets.
+On the Reserve Bank notifying a benchmark as a ‘significant benchmark’, the person administering that benchmark shall make, within a period of three months from the date of the notification, an application for authorization to continue administering that benchmark.
+No FBA shall administer a ‘significant benchmark’ without obtaining authorization of the Reserve Bank under these directions. However, FBAs that were already administering the ‘significant benchmark’ may continue to do so till the disposal of their applications by the Reserve Bank.
+4. Eligibility criteria for FBAs:
+FBA shall be a company incorporated in India.
+FBAs shall maintain a minimum net worth of ₹ 1 crore at all times.
+5. Grant of authorization to administer a ‘significant benchmark’:
+The administrator of a benchmark notified as a ‘significant benchmark’ shall make an application to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, 1st Floor, Main Building, Shaheed Bhagat Singh Marg, Mumbai – 400001, for grant of authorization.
+The Reserve Bank may call for any additional information or seek any clarification from the applicant which, in the opinion of the Reserve Bank, is relevant and the applicant shall furnish such additional information or clarification within the time prescribed by the Reserve Bank.
+The Reserve Bank may, after being satisfied that the applicant fulfils the eligibility criteria, grant authorization to administer a ‘significant benchmark’ subject to the terms and conditions stipulated therein.
+6. Authorized FBAs shall adhere to the following directions for administering ‘significant benchmarks’:
+i. Overall Responsibility of FBAs -
+FBAs, in respect of the ‘significant benchmarks’ administered by them, shall be responsible for
+formulation of the benchmark calculation methodology;
+determination of the benchmark values;
+dissemination of the benchmark values;
+ensuring transparency in the benchmark administration;
+periodic review of the benchmark; and,
+putting in place necessary organizational and process controls for effectively carrying out the above responsibilities.
+ii. ‘Significant Benchmarks’: Formulation, Determination and Review -
+a. FBAs shall ensure that a ‘significant benchmark’ is designed to be an accurate and reliable representation of the referenced (specified) financial instrument.
+b. FBAs shall ensure that the data used to construct a ‘significant benchmark’ is based on an active market involving arm’s length transactions. Where such transactions are not available, it shall record justification for any data, information or expert judgment used to construct the benchmark.
+c. FBAs shall establish and publish the procedure regarding the hierarchy of data inputs and exercise of expert judgment used for the determination of ‘significant benchmarks’.
+d. FBAs shall document the methodology of calculating the ‘significant benchmarks’ that they are administering with illustrations and publish the same on their official website. The document shall, at the minimum, contain the following details:
+the inputs for calculation of the benchmark;
+the sources of inputs;
+the basis and manner of selection of the sources of inputs;
+the method of calculation including the mathematical formulae used;
+instances where the methodology would not or cannot be adhered to and the alternatives adopted to calculate the benchmark in such exceptional cases; and,
+the rationale underlying the methodology and treatment of exceptions.
+e. Any amendment to the methodology that FBAs decide to make shall be announced in their official websites at least 15 days prior to coming into effect of such amendments. The announcement shall delineate all aspects of the methodology that would be amended and explain the amended methodology with illustrations.
+f. FBAs shall establish a formal process for interacting with market participants at any stage in the benchmark administration process.
+iii. Organizational and Process Controls (Role of Oversight Committee) -
+a. FBAs shall develop an appropriate oversight function for regular review of various aspects of the significant benchmark determination process. The oversight function shall be carried out by a committee, to be called ‘Oversight Committee’, specifically set up for carrying out the function.
+b. The procedures involved in the ‘oversight’ function, including criteria for selection of members, processes for selection, nomination, removal and replacement of members, and declaration of conflicts of interest, shall be documented and made available to the stakeholders, and
+c. FBAs shall have a policy to ensure that the Oversight Committee has fair representation of major stakeholders.
+d. No person shall be a member of the Oversight Committee for more than five years irrespective of the number of terms.
+e. The responsibilities of the Oversight Committee shall include, at the minimum, the following:
+Periodic review of the methodology of the ‘significant benchmark’.
+Enabling seamless transition to a new benchmark whenever an existing ‘significant benchmark’ is replaced, rescinded or amended.
+Reviewing and overseeing of any changes to the ‘significant benchmark’ setting methodology and assessing whether the changed methodology continues to appropriately reflect the underlying variable the benchmark intends to represent.
+Overseeing the management and operation of the ‘significant benchmark’ including the activities undertaken by a third party involved in the benchmark determination.
+Ensuring that exercise of expert judgement, if any, by the FBA is as per the laid down policies.
+Following up for implementation of the remedial actions recommended in the audit reports.
+f. In case of ‘significant benchmarks’ determined through submissions by contributing entities (submitters), the Oversight Committee shall
+Oversee the compliance by the submitters to the Code of Conduct, (ref. para 6 iv e) issued by the FBA and institute an effective system to address breach of the Code by submitters. The findings of the Oversight Committee shall be put up to the Board of Directors along with the action taken report.
+Undertake regular review to detect potential anomalous or suspicious submissions and initiate follow up action thereafter. The details of such submissions and follow up action shall be reported to the Board of Directors.
+iv. Internal Control -
+a. FBAs shall ensure effective controls over data collection, storage, processing and dissemination to maintain data security, confidentiality and integrity.
+b. FBAs shall document and implement policies, procedures and control framework for the identification, disclosure, management, mitigation or avoidance of existing and potential conflicts of interest. They shall also address the conflict of interest that may exist between the ‘significant benchmark’ determination process and any other business of the Administrator or any of its affiliates. A separate document detailing the measures taken to minimize the conflict of interest shall be placed on the website of the FBA, a copy of which shall also be submitted to the Reserve Bank. These policies and procedures shall be periodically reviewed and updated by the FBA.
+c. There shall be proper segregation of reporting lines within an FBA to define responsibilities and prevent any conflict of interest or perception of such conflicts of interest.
+d. In case of ‘significant benchmarks’ determined on the basis of submissions, FBAs shall be responsible for the following:
+Ensure that the submitters, as a group, appropriately represent the underlying variable the benchmark seeks to represent.
+Employ a system of appropriate measures so that submitters comply with submission guidelines, as defined in the submitter Code of Conduct and the Administrator’s quality and integrity standards for submission.
+Employ measures to effectively monitor and scrutinize submissions.
+e. Code of Conduct for Submitters:
+FBAs shall formulate a Code of Conduct for submitters of inputs for calculation of ‘significant benchmarks’.
+The Code shall include steps to be taken by them to mitigate operational risks and eliminate conflicts of interest. The Code shall also include a provision for submission during transition periods arising on account of revocation of authorisation by the Reserve Bank or termination of the benchmark by an FBA.
+f. FBAs shall have a business continuity plan and contingency procedures to overcome disruptions to normal business.
+g. FBAs shall carry out periodic audit to verify the compliance to their policies as well as instructions issued by the Reserve Bank.
+h. FBAs shall carry out independent audit of the entire benchmark administration process that shall include audit of the inputs, calculation process and values of the ‘significant benchmark’ on a periodic basis.
+v. Outsourcing of ‘significant benchmark’ related work -
+FBAs shall put in place transparent written policies setting out the roles and obligations of any agency to which it outsources work to act as a calculating agent or any other function that affects the value of the benchmark and regularly monitor their compliance with the policies.
+FBAs shall also put in place appropriate contingency plans to manage the operational risks involved in the outsourced functions.
+FBAs shall retain adequate access to and control over the data and calculation process.
+In respect of any work related to ‘significant benchmark’ administration that an FBA outsources to any entity, the FBA shall be responsible for all acts of omissions and commissions of the entities to which it has outsourced its work.
+vi. Complaint Management -
+FBAs shall have a formal mechanism to handle the complaints related to ‘significant benchmark’ administration.
+FBAs shall establish an effective ‘whistleblower’ mechanism to facilitate early detection of any potential misconduct or irregularities in the ‘significant benchmark’ determination process.
+vii. Data Preservation -
+FBAs shall preserve all data in their possession in connection with ‘significant benchmarks’ for a period of ten years from the date of receipt/creation of data. Without prejudice to the aforesaid time period, data related to any litigation/ dispute / arbitration / adjudication shall be preserved for a period of two years after final disposal of the case / litigation / dispute / arbitration / adjudication.
+viii. FBAs shall adhere to any other terms/ conditions stipulated by the Reserve Bank at the time of grant of authorization or subsequently.
+7. Exemption from the provisions of these directions:
+The Reserve Bank, on being satisfied that it is necessary to do so, may exempt an FBA either generally or for such period as may be specified, from any or all of the provisions of these Directions, subject to such terms or conditions or limitations or restrictions as it may think appropriate, in the interest of public or financial system of the country.
+8. Revocation of authorization:
+The Reserve Bank may revoke the authorisation granted to an FBA for administration of one or more ‘significant benchmarks’, based on adverse findings/ observations or material violation of any of the provisions of these directions or any condition of authorisation.
+On revocation of the authorisation, the FBA shall cease administration of the ‘significant benchmark’ in the manner and within the timeframe stipulated by the Reserve Bank. The Reserve Bank may stipulate the FBA to continue administering the benchmark in the manner prescribed by it till such time an alternate arrangement is made. During this interim period, the FBA may also be subjected to enhanced monitoring including third party audit as the Reserve Bank may deem fit.
+9. Transition or Termination of administration:
+i. An FBA, who is holding a letter of authorisation to commence or carry administration of a ‘significant benchmark’, may terminate its operation with prior approval of the Reserve Bank and shall comply with the terms and conditions stipulated by the Reserve Bank.
+ii. FBAs shall have a written policy addressing the following:
+the grounds for termination of a ‘significant benchmark’;
+procedures for its termination;
+procedure enabling seamless transition to a new benchmark whenever an existing ‘significant benchmark’ is replaced;
+consultation with stakeholders on termination; and,
+alternative or fallback provisions.
+iii. Notwithstanding anything contained herein above, the Reserve Bank may require an FBA to continue administering a ‘significant benchmark’ till such time any alternative arrangement is made. During this interim period, the FBA may also be subjected to enhanced monitoring including third party audit as the Reserve Bank may deem fit.
+10. Benchmark Publication:
+FBAs shall make public the ‘significant benchmarks’, either on the day of its release or with a lag not exceeding 15 days from the release.
+11. Reporting:
+FBAs shall submit to the Reserve Bank such data and reports within such timelines and in such formats as advised from time to time. FBAs shall also submit periodic return/report on their compliance with the directions/instructions issued by the Reserve Bank within such timelines and in such formats as advised from time to time.
+1
+These directions are based on the practices recommended by the International Organization of Securities Commissions (IOSCO) in their report on Principles for Financial Benchmarks dated July 2013 and the Report of the Committee on financial benchmarks set up by the Reserve Bank on
+June 28, 2013
+.

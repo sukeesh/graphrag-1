@@ -1,0 +1,263 @@
+(229 kb)
+StCBs/CCBs - Risk weights for calculation of CRAR
+RBI/2014-2015/278
+RPCD.RCB.BC.No.37/07.51.012/2014-15
+October 29, 2014
+All State / Central Cooperative Banks (StCBs/CCBs)
+Madam / Dear Sir,
+Risk Weights for calculation of CRAR
+Please refer to our
+circular  RPCD.CO.RF.BC.40/07.38.03/2007-08 dated December 4, 2007
+advising  StCBs/CCBs to compute CRAR and disclose it as ‘Notes on Accounts’. Risk weights  to be allotted to various items of assets were enclosed as
+annex I
+to the above  mentioned circular.
+2. In the light of  the
+circular RPCD.RCB.BC.73 /07.51.012 /2013-14 dated January 7, 2014
+on  'Application of Minimum Capital Adequacy Norms', the risk weights on various  assets have since been reviewed and revised instructions on risk weights are  annexed.
+3. The other contents of our circular  dated December 7, 2007 remain unchanged.
+4. Please acknowledge receipt of this  circular to our Regional Office concerned.
+Yours faithfully,
+(A.  Udgata)
+Principal  Chief General Manager
+Encl. as above
+ANNEX
+Prudential Norms -  Risk Weights for Computation of CRAR (StCBs/CCBs)
+I. Domestic Operations
+A.
+Funded Risk Assets
+Items of Assets
+Risk weight
+I
+Balances
+1
+Cash    (including foreign currency notes) & balances with RBI
+0
+2
+Balances    in current account with other banks
+20
+II
+Investments
+1
+Investments    in Government Securities
+2.5
+2
+Investment    in other approved securities guaranteed by Central Government / State    Governments
+2.5
+3
+Investments    in other securities where payment of interest and repayment of principal are    guaranteed by Central Govt. (include investment in Indira / Kisan Vikas    Patras (IVP/KVP) and investments in bonds and debentures where payment of interest and repayment of    principal is guaranteed by Central Government / State Governments)
+2.5
+4
+Investments    in other securities where payment of interest and repayment of principal are    guaranteed by State Governments
+Note
+: Investment in    securities where payment of interest or repayment of principal is guaranteed    by State Government and which has become a non-performing investment, will    attract 102.5 percentage risk weight
+2.5
+5
+Investments    in other approved securities where payment of interest and repayment of    principal are
+not
+guaranteed by Central / State Governments.
+22.5
+6
+Investments    in government guaranteed securities of government undertakings which
+do    not
+form part of the approved market borrowing program
+22.5
+7
+Claims    on commercial banks, District Central Cooperative Banks and State Cooperative    Banks, such as fixed deposits, certificates of deposits, money at call and    short notice, etc.
+22.5
+8
+Investments    in bonds issued by All India Public Financial Institutions
+102.5
+9
+Investments    in bonds issued by Public Financial Institutions (PFIs) for their Tier-II    Capital
+102.5
+10
+All    other investments
+Note:
+Intangible    assets and losses deducted from Tier I capital should be assigned zero weight
+102.5
+11
+Off-balance    sheet (net) position in 'When Issued' securities, scrip-wise
+2.5
+III
+Loans and advances including bills    purchased and discounted and other credit facilities
+1
+Loans    and advances guaranteed by Government of India
+0
+2
+Loans    guaranteed by State Governments
+0
+3
+State    Government guaranteed advance which has become a non performing asset
+100
+4
+Loans    granted to Public Sector Undertakings (PSUs) of Government of India
+100
+5
+Loans    granted to PSUs of State Governments
+100
+6
+Housing Loans
+(i) Loans to individuals (fully    secured by mortgage of residential properties)
+up to Rs 30 lakh
+LTV ratio is equal to or less than 75%
+LTV ratio is more than 75%
+50
+100
+(ii)    Housing – others
+100
+*
+LTV ratio should be computed as a    percentage of total outstanding in the account (viz. "principal +    accrued interest + other charges pertaining to the loan" without any    netting) in the numerator and the realizable value of the residential property    mortgaged to the bank in the denominator
+7
+Consumer    credit including Personal loan
+125
+8
+Loans    up to Rs. 1 lakh against gold and silver ornaments
+Note
+: Where the loan    amount exceeds Rs. 1 lakh, the entire loan amount has to be assigned the risk    weight applicable for the purpose for which the loan has been sanctioned.
+50
+9
+All    other loans and advances including Education loan
+100
+10
+Loans    extended against primary / collateral security of shares / debentures
+125
+11
+Leased    assets
+100
+12
+Advances    covered by DICGC / ECGC
+Note:
+The risk weight    of 50% should be limited to the amount guaranteed and not the entire    outstanding balance in the accounts. In other words, the outstanding in    excess of the amount guaranteed, will carry 100% risk weight.
+50
+13
+Advances    against term deposits, Life policies, NSCs, IVPs and KVPs where adequate    margin is available
+0
+14
+Loans    and advances granted by State/Central cooperative banks to their own staff ,    which are fully covered by superannuation benefits and mortgage of flat/house
+20
+Notes
+:
+While    calculating the aggregate of funded and non-funded exposure of a borrower for    the purpose of assignment of risk weight, banks may 'net-off' against the    total outstanding exposure of the borrower –
+(a) advances collateralized by cash margins or deposits;
+(b)    credit balances in current or other accounts of the borrower which are not    earmarked for specific purposes and free from any lien;
+(c    ) in respect of any assets where provisions for depreciation or for bad debts    have been made;
+(d)    claims received from DICGC / ECGC and kept in a separate a/c pending    adjustment in case these are not adjusted against the dues outstanding in the    respective a/cs;
+(e)    Subsidies received under various schemes and kept in a separate account
+IV
+Other Assets
+1
+Premises,    furniture and fixtures
+100
+2
+Interest    due on Government securities
+0
+3
+Accrued    interest on CRR balances maintained with RBI and claims on RBI on account of    Government transactions (net of claims of government / RBI on banks on    account of such transactions)
+0
+4
+Interest    receivable on staff loans
+20
+5
+Interest receivable from banks
+20
+6
+All    other assets
+100
+V
+Market    Risk on Open Position
+1
+Market    risk on foreign exchange open position (Applicable to Authorised Dealers    only)
+100
+2
+Market    risk on open gold position
+100
+B. Off-Balance Sheet Items
+The credit risk exposure attached to  off-Balance Sheet items has to be first calculated by multiplying the face  amount of each of the off-Balance Sheet items by 'credit conversion factors' as  indicated in the table below. This will then have to be again multiplied by the  weights attributable to the relevant counter-party as specified above.
+Sl. No
+Instruments
+Credit Conversion Factor (%)
+1
+Direct    credit substitutes e.g. general guarantees of indebtedness (including stand    L/Cs serving as financial guarantees for loans and securities) and    acceptances (including endorsements with character of acceptance)
+100
+2
+Certain    transaction-related contingent items (e.g. performance bonds, bid bonds,    warranties and standby L/Cs related to particular transactions)
+50
+3
+Short-term    self-liquidating trade-related contingencies (such as documentary credits    collateralized by the underlying shipments)
+20
+4
+Sale    and repurchase agreement and asset sales with recourse, where the credit risk    remains with the bank.
+100
+5
+Forward    asset purchase, forward deposit and partly paid shares and securities, which    represent commitments with certain draw down
+100
+6
+Note issuance    facilities and revolving underwriting facilities
+50
+7
+Other    commitments (e.g., formal standby facilities and credit lines) with an    original maturity of over one year
+50
+8
+Similar    commitments with an original maturity up to one year, or which can be unconditionally    cancelled at any time
+0
+9
+(i)    Guarantees issued by banks against the counter guarantees of other banks
+(ii)    Rediscounting of documentary bills accepted by banks (Bills discounted by    banks which have been accepted by another bank will be treated as a funded    claim on a bank)
+Note
+:
+In these    cases, banks  should be fully satisfied    that the risk exposure is, in fact, on the other bank.  Bills purchased / discounted / negotiated under LC    (where the payment to the beneficiary is not made 'under reserve') will be    treated as an exposure on the LC issuing bank and not on the borrower. All    clean negotiations as indicated above, will be assigned the risk weight  normally applicable to inter-bank    exposures, for capital adequacy purposes. In the case of negotiations 'under    reserve' the exposure should be treated as on the borrower and risk weight    assigned accordingly.
+20
+20
+10
+Aggregate    outstanding foreign exchange contracts of original maturity –
+(a) less than 14 calendar days
+0
+(b) more than 14 days but less than one year
+2
+(c) for each additional year or part thereof
+3
+Notes :
+While    calculating the aggregate of funded and non-funded exposure of a borrower for    the purpose of assignment of risk weight, bank may 'net-off' against the    total outstanding exposure of the borrower credit balances in current or    other accounts which are not earmarked for specific purposes and free from    any lien.
+After    applying the conversion factor as indicated above, the adjusted off-balance sheet    value shall again be multiplied by the weight attributable to the relevant    counter-party as specified.
+Note :
+At present, State and District Central Cooperative Banks may not be undertaking  most of the off-balance sheet transactions. However, keeping in view their  potential for expansion, risk- weights are indicated against various  off-balance sheet items, which, perhaps banks may undertake in future.
+II. Additional risk weights in respect of overseas operations  of Indian banks (applicable to Authorised Dealers only)
+1.  Foreign Exchange and Interest Rate  related Contracts
+(i)  Foreign exchange contracts include the following:
+a.  Cross currency interest rate swaps
+b.  Forward foreign exchange contracts
+c.  Currency futures
+d.  Currency options purchased
+e.  Other contracts of a similar nature
+(ii) As in the case of other  off-Balance Sheet items, a two stage calculation prescribed below shall be  applied:
+(a) Step 1 - The notional  principal amount of each instrument is multiplied by the conversion factor  given below:
+Original    Maturity
+Conversion    Factor
+Less    than one year
+2%
+One    year and less than two years
+5%    (i.e. 2% + 3%)
+For    each additional year
+3%
+(b) Step 2 - The adjusted value  thus obtained shall be multiplied by the risk weight allotted to the relevant  counter-party as given in A above.
+2.   Interest Rate Contracts
+(iii)   Interest rate contracts include the following :
+a.   Single currency interest rate swaps
+b.   Basic swaps
+c.   Forward rate agreements
+d.   Interest rate futures
+e.   Interest rate options purchased
+f.   Other contracts of a similar nature
+(iv) As in the case of other  off-Balance Sheet items, a two stage calculation prescribed below shall be  applied:
+(a)   Step 1 - The notional principal amount of each instrument is multiplied by the  percentages given below :
+Original    Maturity
+Conversion    Factor
+Less    than one year
+0.5%
+One    year and less than two years
+1.0%
+For    each additional year
+1.0%
+(b) Step 2 - The adjusted value  thus obtained shall be multiplied by the risk weight allotted to the relevant  counter-party as given in 'A' above.
+Note
+: At present, most of the  State and District Central Cooperative Banks are not carrying out forex  transactions. However, those who have been given A.D's licence may undertake  transactions mentioned above. In the event of any uncertainty in assigning risk  weights against a specific transaction, RBI clarification may be sought for.

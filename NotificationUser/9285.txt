@@ -1,0 +1,60 @@
+(61 kb)
+Revisions to Basel II-Advanced Approaches of Operational Risk-TSA and AMA
+RBI/2014-15/265
+DBOD.No.BP.BC.43/21.06.017/2014-15
+October  16, 2014
+The  Chairman and Managing Director /
+Chief Executive Officer of
+All Scheduled Commercial Banks
+(Excluding RRBs and Local Area Banks)
+Dear  Sir,
+Revisions to Basel  II-Advanced Approaches of Operational Risk-TSA and AMA
+Please refer to the Reserve Bank Guidelines on Basel  II-Advanced Approaches of Operational Risk as contained in circulars dated  March 31, 2010 on ‘Implementation of The Standardised Approach (TSA) for  Calculation of Capital Charge for Operational Risk’ and circular dated April  27, 2011 on ‘Implementation of the Advanced Measurement Approach (AMA) for  Calculation of Capital Charge for Operational Risk’.
+2. A comparison of the Reserve Bank guidelines  on Operational Risk with the Basel Guidelines was taken by RBI recently based  on which, it has been decided to carry out certain revisions/additions to the  guidelines, as detailed in
+Annex
+of this circular. The  revisions/additions may be read in conjunction with the existing guidelines  contained in the TSA/AMA circulars as indicated there against.
+3. All other guidelines on Basel  II-Operational Risk as contained in the circulars mentioned in Para I above as well as in the Para 9 (BIA) of Master  Circulars on Implementation of New Capital Adequacy Framework (NCAF) and Basel  III Capital Regulations dated July 1, 2014 (updated every year) remain  unchanged.
+Yours  faithfully,
+(Sudarshan Sen)
+Chief  General Manager-in-Charge
+Annex
+A) Revisions / Changes in TSA  Guidelines dated March 31, 2010
+1. Para  1.6: Parallel Run is added as follows:
+1.6. Parallel Run
+1.6.1. RBI would initially  accord a provisional approval to the bank to migrate to TSA and the bank having  such an approval will be required to perform parallel calculation of capital as  per BIA in addition to calculations as per TSA.
+1.6.2. During the parallel  run, RBI will continue to evaluate the readiness of the bank to adopt the TSA  in order to reach a decision, on whether to grant or withhold the final  approval for the bank to adopt the TSA. RBI may withhold such approval if,  during the parallel run, it becomes aware of information that materially  affects its assessment of the readiness of the bank or if any outstanding issue  identified prior to the start of the parallel run has not been addressed.
+1.6.3. RBI will recognise a  parallel run only if it is based on an operational risk management framework  assessed by RBI to be sufficiently satisfactory for the parallel run.
+1.6.4. A bank should submit to  RBI during the parallel run period, the capital charge calculations for  operational risk on quarterly basis duly certified by Statutory Auditors. Bank  should also update RBI, on quarterly basis, about the progress made by the bank towards strengthening the  ORMF, including rectification made in respect of deficiencies and areas of  concern pointed.
+1.6.5. If a bank becomes aware  during the recognised parallel run that the bank no longer complies with any of  the conditions or restrictions imposed by the RBI at the time of approving the  TSA model, it shall –
+(a)  inform RBI as soon as practicable;
+(b) assess the effect of the situation in  terms of the risk posed to the bank;
+(c) prepare a plan to rectify the situation  and inform RBI of its plan as soon as practicable; and
+(d) undertake prompt corrective action in  accordance with the plan prepared pursuant to sub-paragraph (c) above.
+2. Para  2.4 is modified (bold and underlined) as follows:
+2.4.
+Under the ASA, banks may aggregate retail and  commercial banking (if they wish to) using a beta of 15%. Similarly, those  banks that are unable to disaggregate their gross income into the other six  business lines can aggregate the total gross income for these six business  lines using a beta of 18%. As under TSA, the total capital charge for the ASA  is calculated as the simple summation of the regulatory capital charges across  each of the eight business lines,
+with negative gross income treated as  described in paragraph 1.3
+.
+3. Para  2.6 is added as follows:
+2.6. Parallel Run
+The guidelines pertaining to  parallel run of TSA banks as explained in Para  1.6 of these Guidelines will apply mutatis mutandis to ASA banks.
+B) Revisions / Changes in AMA  Guidelines dated April 27, 2011
+1. Para  2.3 is modified (bold and underlined) as follows:
+2.3 Banks with overseas  branches and internationally active subsidiaries intending to implement  AMA should have capability to calculate capital under the AMA on global basis,  even if the local regulators do not require the overseas branches to adopt AMA.
+2. Para  4.1.10 is added to ‘Appendix 1 (Part C, Para 4): Oversight of the ORMF’ as follows:
+4.1 Board Oversight
+4.1.10. The board of directors and senior management of  each subsidiary/overseas branch should be responsible for conducting their own  assessment of the subsidiary’s/overseas branch’s operational risks and controls  and ensuring the subsidiary/overseas branch is adequately capitalised in  respect of those risks.
+3. Para  8.4.4. is modified (bold and underlined) and a new para 8.4.5. is added as  follows:
+8.4 Qualitative Standards for  ORMS
+8.4.4. A bank should have  techniques for allocating operational risk capital to business lines,
+among various legal entities and across the banking  group
+for creating incentives to improve the management of operational  risk, processes and practices throughout the bank. The bank should be able to  demonstrate that the allocation will enhance transparency, risk awareness and  operational risk management expertise in the bank.
+8.4.5. AMA banking groups  should continue efforts to develop increasingly risk-sensitive operational risk  allocation techniques, notwithstanding initial approval of techniques based on  gross income or other proxies for operational risk. The appropriateness of the  allocation methodology will be reviewed with consideration given to the stage  of development of risk-sensitive allocation techniques and the extent to which  it reflects the level of operational risk in the legal entities and across the  banking group.
+4. Added to Para 8.5.4 as follows:
+8.5.4 Essential Data  Elements of an AMA Model
+8.5.4.2.
+A bank should include in its ORMS the use of the  above four AMA elements, in accordance with the following:
+x) The bank should  ensure that the bank’s approach for weighting the four fundamental elements  avoids the double counting of qualitative assessments or risk mitigants already  recognised in other elements of the framework.
+5. Added to Para  8.5.4.6. as follows:
+8.5.4.6 Business  Environment and Internal Control Factors (BEICFs)
+xi) Over time, the  process and the outcomes of BEICFs should be validated through comparison to  actual internal loss experience, relevant external data, and appropriate  adjustments made.

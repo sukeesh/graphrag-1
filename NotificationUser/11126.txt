@@ -1,0 +1,20 @@
+(73 kb)
+Trade Repository for OTC Foreign Exchange and Interest Rate Derivatives
+RBI/2017-18/63
+FMRD.FMID No.3/02.05.002/2017-18
+September 21, 2017
+To,
+All Authorised Dealer – Category I Banks
+Madam/Sir,
+Trade Repository for OTC Foreign Exchange and Interest Rate Derivatives
+Attention of Authorised Dealer Category – I (AD Category-I) banks is invited to
+circular no.FMD.MSRG.No.75/02.05.002/2012-13 dated March 13, 2013
+on the captioned subject wherein a threshold of USD 1 million, and equivalent thereof in other currencies, was stipulated for reporting FCY-INR and FCY-FCY forward and options trades between AD Category-I banks and their clients to the Trade Repository (TR). Subsequently, Clearing Corporation of India Limited (CCIL), in consultation with Reserve Bank on June 02, 2016, had informed its members the removal of this threshold limit for reporting FCY-INR and FCY-FCY option trades w.e.f. July 04, 2016.
+2. It has now been decided to remove the threshold for reporting FCY-INR and FCY-FCY forward trades between AD Category-I banks and their clients w.e.f. October 03, 2017.
+3. As a one-time measure, in order to update the outstanding balances in the Trade Repository (TR), AD Category-I banks are advised to report the following to the CCIL by October 06, 2017:
+OTC currency option transactions between AD Category-I banks and their clients undertaken before April 02, 2013 and outstanding as on September 29, 2017.
+OTC currency option transactions between AD Category-I banks and their clients, with value below USD 1 million and equivalent thereof in other currencies, undertaken in the period April 02, 2013 - July 03, 2016 and outstanding as on September 29, 2017.
+Currency forward transactions between AD Category-I banks and their clients, with value below USD 1 million and equivalent thereof in other currencies, and outstanding as on September 29, 2017.
+4. AD Category-I banks are advised to ensure that outstanding balances between their books and the TR are reconciled on an ongoing basis.
+(T. Rabi Sankar)
+Chief General Manager

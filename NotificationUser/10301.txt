@@ -1,0 +1,135 @@
+(690 kb)
+Review of risk weights assigned to sovereign debt
+RBI/2015-16/336
+DNBR (PD) CC.No.076/03.10.001/2015-16
+March 10, 2016
+All Non-Banking Financial Companies (excluding RNBCs)
+Madam/ Sir,
+Review of risk weights assigned to sovereign debt
+In terms of the extant directions, deposit accepting NBFCs, systemically important non-deposit taking NBFCs, all NBFC-MFIs and all NBFC-IFCs shall maintain a minimum capital ratio consisting of Tier I and Tier II capital which shall not be less than 15 per cent of its aggregate risk weighted assets on-balance sheet and of risk adjusted value of off-balance sheet items.
+2. Based on the representations received from the industry, the risk weights assigned to exposures to domestic sovereigns have been reviewed. It has been decided as under:
+A) Exposures to Central Government
+fund based and non-fund based claims on the Central Government will attract a zero risk weight.
+Central Government guaranteed claims will attract a zero risk weight.
+B) Exposures to State Government
+Direct loan/ credit/ overdraft exposure and investment in State Government securities will attract zero risk weight.
+State Government guaranteed claims, which have not remained in default, will attract 20 per cent risk weight. However, if the loans guaranteed by the State Government have remained in default for a period of more than 90 days, a risk weight of 100% should be assigned.
+3.
+Notification No.DNBR.037/CGM (CDS) -2016 dated March 10, 2016
+amending the Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015;
+Notification No.DNBR.038/CGM (CDS) -2016 dated March 10, 2016
+amending the Non-Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015; and
+Notification No.DNBR.039/CGM(CDS) -2016 dated March 10, 2016
+amending the Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 are enclosed.
+Yours faithfully
+(C.D. Srinivasan)
+Chief General Manager
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING REGULATION
+CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+CUFFE PARADE, COLABA, MUMBAI 400 005
+Notification No.DNBR 037/CGM (CDS) -2016 dated March 10, 2016
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 (
+Notification No.DNBR.009 CGM(CDS) – 2015 dated March 27, 2015
+) (hereinafter referred to as the Directions), in exercise of the powers conferred by section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows –
+1.
+In paragraph 16, in the table under Explanations I.(1) On balance Sheet assets
+i. (iii)(e) shall be read as
+(e) Other secured loans and advances considered good [Except at (vi) below]
+ii. after (v) the following shall be inserted
+(vi)
+Domestic Sovereign
+(a)
+fund based claims on the Central Government
+0
+(b)
+Direct loan / credit / overdraft exposure and investment in State Government securities
+0
+(c)
+Central Government guaranteed claims
+0
+(d)
+State Government guaranteed claims, which have not remained in default/ which are in default for a period not more than 90 days
+20
+(e)
+State Government guaranteed claims, which have remained in default for a period of more than 90 days
+100
+2.
+In paragraph 16, in the table at Explanations II. (B) (i) on Non-market related off balance Sheet items the following shall be inserted
+(xv)
+Non-fund based claims on the Central Government
+0
+(C.D.Srinivasan)
+Chief General Manager
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING REGULATION
+CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+CUFFE PARADE, COLABA, MUMBAI 400 005
+Notification No.DNBR 038/CGM (CDS) -2016 dated March 10, 2016
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non- Systemically Important Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2015 (
+Notification No.DNBR.008 CGM(CDS) – 2015 dated March 27, 2015
+) (hereinafter referred to as the Directions), in exercise of the powers conferred by section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows –
+1. In paragraph 16, in the table under the Explanations (1) On balance Sheet assets
+i. (iii)(e) shall be read as
+(e) Other secured loans and advances considered good [Except at (vi) below]
+ii. after (v) the following shall be inserted
+(vi)
+Domestic Sovereign
+(a)
+fund based claims on the Central Government
+0
+(b)
+Direct loan / credit / overdraft exposure and investment in State Government securities
+0
+(c)
+Central Government guaranteed claims
+0
+(d)
+State Government guaranteed claims, which have not remained in default/ which are in default for a period not more than 90 days
+20
+(e)
+State Government guaranteed claims, which have remained in default for a period of more than 90 days
+100
+2.
+In paragraph 16, in the table under Explanations (B) (i) on Non-market related off-balance Sheet items the following shall be inserted
+(xv)
+Non-fund based claims on the Central Government
+0
+(C.D.Srinivasan)
+Chief General Manager
+RESERVE BANK OF INDIA
+DEPARTMENT OF NON-BANKING REGULATION
+CENTRAL OFFICE, CENTRE I, WORLD TRADE CENTRE
+CUFFE PARADE, COLABA, MUMBAI 400 005.
+Notification No.DNBR 039/CGM (CDS) -2016 dated March 10, 2016
+The Reserve Bank of India, having considered it necessary in public interest and being satisfied that, for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to amend the Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007(
+Notification No.DNBS.192/DG(VL)-2007 dated February 22, 2007
+, amended upto July 30, 2015) (hereinafter referred to as the Directions), in exercise of the powers conferred by section 45JA of the Reserve Bank of India Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby directs that the said Directions shall be amended with immediate effect as follows –
+1. In paragraph 16, in the table under the Explanations (1) On balance Sheet assets
+i. (iii)(e) shall be read as
+(e) Other secured loans and advances considered good [Except at (vi) below]
+ii. after (v) the following shall be inserted
+(vi)
+Domestic Sovereign
+(a)
+fund based claims on the Central Government
+0
+(b)
+Direct loan / credit / overdraft exposure and investment in the State Government securities
+0
+(c)
+Central Government guaranteed claims
+0
+(d)
+State Government guaranteed claims, which have not remained in default/ which are in default for a period not more than 90 days
+20
+(e)
+State Governments guaranteed claims, have remained in default for a period of more than 90 days
+100
+2.
+In paragraph 16, after sub-paragraph (2) at the table at Explanations (2) (B) (i) on Non-market related off balance Sheet items the following shall be inserted
+(xv)
+Non-fund based claims on the Central Government
+0
+(C.D.Srinivasan)
+Chief General Manager

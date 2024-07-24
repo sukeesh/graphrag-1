@@ -1,0 +1,28 @@
+(747 kb)
+Modalities for implementation of Atal Pension Yojana (APY)
+RBI/2014-15/609
+DCBR.BPD (PCB ) Cir. No. 9/12.05.001/2014-15
+May 21, 2015
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks
+Dear Sir/ Madam,
+Modalities for implementation of Atal Pension Yojana (APY)
+Government of India, Ministry of Finance has announced the launch of Atal Pension Yojana (APY)
+on May 9, 2015. The scheme, is an universal social security measure specially for the poor and the under-privileged , which will provide a defined pension, depending on the contribution, and its period to its subscribers. The enrolment under the scheme to be introduced from June 1, 2015 has to start immediately. The APY will be focussed on all citizens in the unorganised sector, who join the National Pension System (NPS) administered by the Pension Fund Regulatory and Development Authority (PFRDA). Under the APY, the subscribers would receive the fixed minimum pension of Rs. 1000-Rs 5000 per month at the age of 60 years, depending on their contributions, which itself would be based on the age of joining the APY. The minimum age of joining APY is 18 years and maximum age is 40 years. Therefore, minimum period of contribution by any subscriber under APY would be 20 years or more. The benefit of fixed minimum pension would be guaranteed by the Government.
+2. The scheme will be implemented by member banks in accordance with the preliminary rules and terms finalised by the Government, the copies of which are enclosed, for your information and necessary action. Copies of Office Order dated May 7, 2015, Office Order dated May 8, 2015 and Scheme details, Notification dated April 30, 2015, FAQs and APY Subscriber Registration form and Acknowledgement of the same are also enclosed as
+Annex I to V
+. The Central Government would also co-contribute 50% of the total contribution or Rs. 1000 per annum, whichever is lower, to each eligible subscriber account, for a period of 5 years, i.e., from Financial Year 2015-16 to 2019-20, who join the NPS before 31st December, 2015 and who are not members of any statutory social security scheme and who are not income tax payers. However, the scheme will continue after this date but Government Co-contribution will not be available. The Government co-contribution is payable to eligible PRANs by PFRDA after receiving the confirmation from Central Record Keeping Agency at such periodicity as may be decided by PFRDA. However, the funding support to the scheme would be released only after approval of the Parliament through Supplementary Demand for Grants for making necessary budgetary provision.
+3. As the scheme has to be implemented in a system driven IT mode by auto debit of the concerned account holder, the UCBs in co-ordination with PFRDA would also be required to introduce the necessary module for this purpose in their CBS package and in the software for the handheld devices of BCs to enable on-line enrolment etc. The acknowledgement slip may be made into an acknowledgement slip cum registration slip for APY.
+4. All Primary Urban Cooperative Banks not operating under directions u/s 35 A of BR Act,1949(AACS) with full CBS implementation and having capabilities to build necessary modules in the CBS/hand held devices software for banks and BCs may participate in APY.
+5. UCBs may appoint a Nodal Officer for implementation of the schemes and furnish to our Regional Offices the full details such as name of the bank, address, name of the Nodal Officers with details of their telephone numbers, email addresses etc. for onward transmission to Ministry of Finance, Government of India.
+6. The details of the scheme are available at website
+www.jansuraksha.gov.in
+/
+www.financialservices.gov.in
+.
+Yours faithfully,
+(Suma Varma)
+Principal Chief General Manager
+Encl: As above (
+Annex- I,II,III,IV & V
+)

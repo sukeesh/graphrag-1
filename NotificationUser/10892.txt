@@ -1,0 +1,47 @@
+(777 kb)
+Special Clearing operations on March 30 and 31, 2017
+RBI/2016-17/255
+DPSS.CO.CHD.No./2656/03.01.03/2016-17
+March 23, 2017
+The Chairman and Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks including Regional Rural Banks/
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks/Local Area Banks
+Madam / Dear Sir,
+Special Clearing operations on March 30 and 31, 2017
+A reference is invited to the circular issued by our Department of Government and Bank Accounts (
+DGBA.GAD.No.2377/42.01.029/2016-17 dated March 16, 2017
+) on ‘Annual Closing of Government Accounts - Transactions of Central / State Governments - Special Measures for the Current Financial Year (2016-17)’.
+2. With a view to facilitate accounting of all the Government transactions for the current financial year (2016-17) by March 31, 2017, it has been decided to conduct special clearing at all clearing houses across the country on
+March 30 and 31, 2017
+as detailed below:
+Date
+Type of clearing
+Presentation clearing
+Return clearing
+March 30, 2017 (Thursday)
+Normal Clearing as followed on any working Thursday
+In addition, a Special Clearing exclusively for Government transactions (receipts and payments) with return clearing on the same day as per the schedule indicated below.
+March 31, 2017 (Friday)
+Normal Clearing as followed on any working Friday
+In addition, a Special Clearing exclusively for Government transactions (receipts and payments) with return clearing on the same day as per the schedule indicated below.
+Schedule for various types of clearing
+a. CTS grid locations (Chennai, Mumbai and New Delhi)
+Special Presentation clearing on March 30 & 31, 2017***
+P2F session timings for the instruments presented through the Special Clearing
+Return clearing for the instruments presented through the special clearing
+Between 20.00 and 20.30 hours
+Between 21.00 and 21.30 hours
+Between 22.00 and 22.15 hours
+*** Under the special clearing, single session will be run for both CTS-2010 and non-CTS-2010 standard instruments together. No segregation is required.
+b. Special clearing in non-MICR/ECCS clearing houses
+Presentation clearing
+Return clearing
+One hour after the extended business hours keeping in view the operational convenience at the local center
+Half an hour/One hour after the presentation clearing keeping in view the operational convenience at the local center.
+3. It is mandatory for all banks to participate in the special clearing operations on these two days. All member banks of the Clearing House are required to keep their inward clearing processing infrastructure open during the Special Clearing hours and maintain sufficient balance in their clearing settlement account to meet settlement obligations arising out of the Special Clearing. However, participation in the outward clearing is left to banks depending upon the instruments received by them towards credit-to/payment-from Government accounts.
+4. Member banks of Clearing Houses are advised to adhere to the instructions contained in this circular as well as the instructions received from the Regional offices of Reserve Bank of India and Presidents of respective Clearing Houses. In case of image-based clearing at CTS locations, separate operating procedure will be decided for these two days and advised to all member banks by the President of the respective CTS location and in this regard member banks may be guided by the circular issued by NPCI to all member banks and President of the three grids vide their circular NPCI/2016-17/CTS/Circular No. 32 dated October 3, 2016.
+5. Member banks are also advised to be in readiness to participate in the Centralised Payment Systems (RTGS and NEFT) on these days (March 30-31, 2017). A separate broadcast message in this regard will be issued through the respective system indicating the extended time window.
+Yours faithfully
+(Nanda S. Dave)
+Chief General Manager-in-Charge

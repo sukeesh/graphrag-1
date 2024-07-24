@@ -1,0 +1,24 @@
+(722 kb)
+Modalities for implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY)
+RBI/2014-15/585
+DCBR.BPD (PCB ) Cir.No.8/12.05.001/2014-15
+May 5, 2015
+The Chief Executive Officer
+All Primary (Urban) Co-operative Banks.
+Madam / Dear Sir,
+Modalities for implementation of Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMSBY)
+Government of India, Ministry of Finance intends to roll out Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) Scheme and Pradhan Mantri Suraksha Bima Yojana (PMSBY) from June 1st, 2015. Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) Scheme offers life insurance worth Rs 2 lakhs at Rs 330 per annum while Pradhan Mantri Suraksha Bima Yojana (PMSBY) offers accident insurance worth Rs 2 lakhs at Rs 12 per annum. The schemes will be implemented by member banks in accordance with the preliminary rules and terms finalised by the Government, the copies of which are
+enclosed
+, for your information and necessary action. The rules, roles and responsibilities assigned to the banks for implementing the scheme are also mentioned therein.
+2. As the schemes have to be implemented in a system driven IT mode, the UCBs in co-ordination with the insurance companies concerned would also be required to introduce the necessary module for this purpose in their CBS package and in the software for the handheld devices of BCs to enable on-line enrolment etc. The acknowledgement slip may be made into an acknowledgement slip cum certificate of insurance.
+3. All Primary Urban Cooperative Banks not operating under directions u/s 35 A of BR Act,1949(AACS) with full CBS implementation and having capabilities to build necessary modules in the CBS/hand held devices software for banks and BCs for the roll out of these insurance schemes by May 31, 2015 may participate in these schemes. Such UCBs are advised to finalize MOUs with LIC/GIPSA or any other Insurance Companies of their choice who are willing to offer the product on similar terms with necessary approvals and tie ups with UCBs for this purpose as mentioned in the schemes.
+4. UCBs may appoint a Nodal Officer for implementation of the schemes and furnish to our Regional Offices the full details such as name of the bank, address, name of the Nodal Officers with details of their telephone numbers, email addresses etc. for onward transmission to Ministry of Finance, Government of India.
+5. The details of the schemes are available at website
+www.jansuraksha.gov.in
+/
+www.financialservices.gov.in
+.
+Yours faithfully,
+(Suma Varma)
+Principal Chief General Manager
+Encl: As above

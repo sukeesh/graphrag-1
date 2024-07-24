@@ -1,0 +1,80 @@
+(30 kb)
+Market Repo Transactions in Government Securities Market
+This circular has been superseded by
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 dated July 24, 2018
+.
+RBI/2016-17/49
+FMRD.DIRD.6/14.03.002/2016-17
+August 25, 2016
+All Market Participants
+Dear Sir/Madam,
+Market Repo Transactions in Government Securities Market
+Please refer to
+paragraph 34
+of the fourth Bi-monthly Monetary Policy Statement 2015-16 dated September 29, 2015 wherein it was stated that the Reserve Bank will review restrictions placed on repo transactions, particularly relating to the participation of gilt account holders in the repo market.
+2. Accordingly, the eligibility conditions and other terms of participation contained in earlier circulars issued by the Reserve Bank of India in this regard
+1
+have been relaxed to permit the following transactions:
+Gilt account holders (GAH) may enter into a repo
+2
+transaction with its custodian or another GAH of the same custodian;
+Co-operative banks may enter into repo transactions with all eligible market participants, including NBFCs;
+Listed companies may borrow or lend under repos with all eligible market participants (including banks) without the minimum tenor restriction of  seven days;
+Eligible unlisted companies may borrow from any eligible market participant against special Government of India securities issued to them;
+NBFCs registered with RBI, including Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013 which adhere to the prudential norms prescribed for NBFCs by the Department of Non-Banking Regulation, Reserve Bank of India, may borrow/lend under repos with all eligible market participants.
+3. The revised guidelines are as under:
+3.1 Eligibility
+(i) Repo transactions may be undertaken in i) dated securities and Treasury Bills issued by the Government of India and ii) dated securities issued by the State Governments.
+(ii) Repo transactions in the above mentioned securities may be entered into by:
+persons or entities maintaining a Subsidiary General Ledger (SGL) account with the Reserve Bank of India; and
+entities, as specified in the
+Annex
+, maintaining gilt accounts with a bank or any other entity permitted by the Reserve Bank of India to maintain Constituent Subsidiary General Ledger Account (the custodian) with its Public Debt Office.
+(iii) Accordingly repo transactions are now allowed between the following permitted entities:
+SGL A/c holders
+A SGL A/c holder and its own gilt account holder (GAH)
+A SGL A/c holder and a GAH under another custodian
+GAHs under the same custodian
+GAHs under two different custodians
+3.2 Trading and Settlement
+Repo transactions can be undertaken either on an approved electronic platform or bilaterally in the OTC market.
+All repo transactions executed in the OTC market must be reported on the prescribed reporting platform within 15 minutes of the execution of trade.
+In respect of repo transactions involving GAH, including those between the custodian and its own GAH and two GAHs of the same custodian, the custodian with whom the gilt accounts are maintained shall be responsible for reporting the deals on the reporting platform on behalf of the GAH.
+All repo transactions shall be settled in the SGL Account/CSGL Account maintained with the Reserve Bank of India with the Clearing Corporation of India Ltd (CCIL) acting as the central counterparty. However, the security leg of repo transactions between the custodian and its GAH as also those between two GAHs of the same custodian shall be settled bilaterally, in the books of RBI and the custodian respectively.
+Listed companies can now lend and borrow funds under repo for periods less than seven days, including overnight.
+Eligible unlisted companies can only borrow under repos specifically against the collateral of the special securities issued to them by the Government of India.
+3.3 General Requirements
+(i) Banks can undertake repo transactions only in securities held in excess of the prescribed Statutory Liquidity Ratio (SLR) requirements.
+(ii) Custodians should put in place an effective system of internal control and concurrent audit and ensure compliance.
+(iii) Regulated entities are required to adhere to the prudential guidelines prescribed by the respective regulator for undertaking repo transactions.
+4. Re-repo of securities acquired under reverse repo will continue to be permitted for the SGL account holders in terms of the
+circular No. FMRD.DIRD.5/14.03.002/2014-15 dated February 5, 2015
+. However, entities, other than SGL account holders are not permitted to re-repo securities borrowed under reverse repo transaction.
+5. The above revised guidelines are issued in exercise of the powers conferred by Section 45W of the Reserve Bank of India Act, 1934 and shall come into effect from September 6, 2016. The guidelines will be subject to periodic review.
+Yours faithfully,
+(R. Subramanian)
+Chief General Manager
+Annex
+List of entities maintaining gilt accounts and which are permitted to undertake repo transactions in Government securities
+Any scheduled bank
+Any primary dealer authorised by the Reserve Bank of India
+Any non-banking financial company registered with the Reserve Bank of India, including Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013 which adhere to the prudential norms prescribed for NBFCs by the Department of Non-Banking Regulation, Reserve Bank of India
+Any mutual fund registered with the Securities and Exchange Board of India
+Any housing finance company registered with the National Housing Bank (NHB)
+Any insurance company registered with the Insurance Regulatory and Development Authority of India
+Any pension fund/provident fund regulated by the Pension Fund Regulatory and Development Authority
+Any non-scheduled Urban Co-operative bank
+Any State and District Central Co-operative bank
+Any All India Financial Institution (FIs) viz. Exim Bank, NABARD, NHB and SIDBI
+Any listed company having gilt account with a scheduled commercial bank
+Any unlisted company which has been issued special securities by the Government of India
+Any other entity specifically permitted by the Reserve Bank of India
+1
+IDMC/PDRS/3432/10.02.01/2002-03 dated February 21, 2003
+on ready forward contracts and the subsequent revisions conveyed vide
+circulars IDMD/PDRS/4779/10.02.01/2004-05 dated May 11, 2005
+and
+IDMD.DOD.No.334/11.08.36/2009-10 dated July 20, 2009
+.
+2
+For the purpose of this circular, repo has been used as a generic name for both repo and reverse repo transactions.

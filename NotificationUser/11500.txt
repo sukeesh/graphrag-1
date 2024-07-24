@@ -1,0 +1,75 @@
+(166 kb)
+Reserve Bank of India (Prevention of Market Abuse) Directions, 2019
+RBI/2018-19/141
+FMRD.FMSD.11/11.01.012/2018-19
+March 15, 2019
+To
+All eligible market participants
+Dear Sir/Madam
+Reserve Bank of India (Prevention of Market Abuse) Directions, 2019
+Please refer to Paragraph 12 of the
+Statement on Developmental and Regulatory Policies of the Second Bi-monthly Monetary Policy Statement for 2018-19 dated June 06, 2018
+, wherein it was announced that the Reserve Bank shall introduce regulations, in line with best global practices, to prevent abuse in markets regulated by the Reserve Bank.
+2. The
+draft directions
+were released for public comments on September 28, 2018. Based on the feedback received, the directions have been finalized as
+enclosed
+herewith.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE (MAIN BUILDING), FORT
+MUMBAI 400 001
+Notification No. FMRD.FMSD.12/2019 dated March 15, 2019
+Reserve Bank of India (Prevention of Market Abuse) Directions, 2019
+The Reserve Bank of India (herein after called the ‘Bank’), having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the RBI Act read with section 45U of the Act and of all the powers enabling it in this behalf, hereby issues the following Directions to all persons dealing in securities, money market instruments, foreign exchange instruments, derivatives or other instruments of like nature as the Bank may specify from time to time.
+1. Short title, extent, commencement and application.
+(1) These Directions shall be called the Reserve Bank of India (Prevention of Market Abuse) Directions, 2019.
+(2) They shall come into force on March 15, 2019.
+(3) These Directions shall apply to transactions of all participants in markets for financial instruments but shall exclude transactions executed through the recognized stock exchanges under and in accordance with the regulations of the Securities and Exchange Board of India. These Directions shall not apply to the Bank and the Central Government in furtherance of monetary policy, fiscal policy or other public policy objectives.
+2. Definitions.
+(1) In these Directions, unless the context otherwise requires,
+‘Artificial price’
+means the price of a financial instrument resulting from a transaction, or any act of omission or commission, undertaken by a market participant with the sole or dominant purpose of setting or securing the price of a financial instrument or related instrument at a particular level or moving it in a particular direction.
+‘Benchmarks’
+mean any benchmark rate published by the Financial Benchmarks India Pvt. Ltd. (FBIL) or by any other agency specified by the Bank from time to time.
+‘Electronic Trading Platform (ETP)’
+shall have the meaning assigned to it in section 2(1)(iii) of The Electronic Trading Platform (Reserve Bank) Directions, 2018.
+‘Financial instruments’
+mean instruments referred to or specified under section 45W of the RBI Act.
+‘Market abuse’
+includes market manipulation, benchmark manipulation, misuse of information, or any other similar practice.
+‘Market manipulation’
+means any transaction or any act of omission or commission by a market participant, or a group of market participants acting in collusion, that may result in, or seek to convey, a false or misleading impression as to the price of, or supply of, or demand for, a financial instrument, carried out with the intention of making an undue financial gain or any other material benefit. It shall also include any transaction or action that may result in, or is intended to result in, an artificial price of a financial instrument.
+‘Market participant’
+means a person transacting or facilitating a transaction in the markets for financial instruments.
+‘Price-sensitive customer information’
+for any market participant means any information pertaining to transactions or potential transactions of a customer that is not publicly available, and which may affect the price of any financial instrument if made publicly available.
+‘Publicly available’
+in relation to information means any information which is available on a non-discriminatory basis from any source.
+‘Recognized stock exchange’
+shall have the meaning assigned to it in section 2(f) of the Securities Contracts (Regulation) Act, 1956.
+‘Reference rate’
+means any reference rate published by the FBIL or any other agency as specified by the Bank from time to time.
+‘Transactions’
+include orders, quotes, bids or offers, irrespective of whether they result in a trade or not.
+‘Non-public price-sensitive information’
+means any information that is not publicly available, and which may affect the price of a financial instrument if made publicly available.
+(2) Words and expressions used, but not defined in these Directions, shall have the same meaning assigned to them in the RBI Act, 1934.
+3. Market manipulation:
+(1) Market participants shall not engage in, or attempt to engage in, market manipulation.
+(2) Market participants shall not undertake transactions on an ETP that may disrupt or delay its functioning.
+4. Benchmark manipulation:
+(1) Market participants, either acting independently or in collusion, shall not undertake any action, with the intention to manipulate the calculation of a benchmark rate or a reference rate.
+(2) No market participant shall carry out a transaction or initiate any action with the sole or dominant intention of influencing a benchmark rate or a reference rate.
+5. Misuse of information:
+(1) A market participant that is in possession of ‘Non-public price-sensitive information’ shall not use it for any material benefit to itself or to others.
+(2) Market participants shall not use ‘Price-sensitive customer information’ for transacting on their own account in a manner that adversely affects the outcome for the customer in that (those) transaction(s). They shall maintain confidentiality of price-sensitive customer information.
+(3) Market participants shall not intentionally create or transmit false or inaccurate information, or, withhold timely information that is required to be reported or made public, that influences or is likely to influence the price of any financial instrument. Transmission of false or inaccurate information shall be deemed to have been done intentionally by a market participant if it had not exercised due diligence as to the veracity of the information before transmitting.
+6. Monitoring, compliance and reports:
+(1) Market participants shall report any instance of market abuse or attempted market abuse detected by them to the Bank promptly.
+(2) Market participants shall provide any data and/or information as required by the Bank in the format and within the time frame prescribed.
+7. Regulatory action for market abuse:
+Market participants committing market abuse are liable to be denied access to markets in one or more instruments for a period that may not exceed one month at a time. No such action shall be taken by the Bank without providing reasonable opportunity to the market participant to defend its actions. All instances of such action shall be made public by the Bank.

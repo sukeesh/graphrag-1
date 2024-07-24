@@ -1,0 +1,78 @@
+(451 kb)
+The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Operational Guidelines
+RBI/2013-14/614
+DBOD.No.DEAF Cell.BC.114/30.01.002/2013-14
+May 27, 2014
+The Chairman and Managing Director /
+Chief Executive Officers
+All Scheduled Commercial Banks including RRBs and LABs /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks.
+Dear Sir/Madam,
+The Depositor Education and Awareness Fund Scheme, 2014 –Section 26A of Banking Regulation Act, 1949- Operational Guidelines
+Please refer to
+circular DBOD.No.DEAF Cell.BC.101/30.01.002/2013-14 dated March 21, 2014
+and Depositor Education and Awareness Fund Scheme, 2014 (Scheme) enclosed therewith. In this connection it is advised that the Scheme has been notified in the Official Gazette on May 24, 2014 and a copy thereof is
+attached
+. As per paragraph 3(vi) of the Scheme, banks shall calculate the cumulative balances in all accounts along with interest accrued, as on the day prior to the effective date, i.e May 23, 2014 and such amounts due should be transferred to the Depositor Education and Awareness Fund (Fund) on June 30, 2014 (before the close of banking hours). Subsequently, as mentioned in paragraph 3(vii) of the Scheme, banks shall transfer to the Fund the amounts becoming due in each calendar month (i.e. proceeds of the inoperative accounts and balances remaining unclaimed for ten years or more) as specified in the Scheme and the interest accrued thereon on the last working day of the subsequent month.
+Crediting the Fund in Electronic form only
+2. We advise that banks shall remit the amounts due (as defined in the Scheme),
+in electronic form
+through portal facility of the E-Kuber (Core Banking Solution) of Reserve Bank of India (RBI), to a designated account created for the Scheme, viz. “
+DEAF Account 161001006009”
+. All banks are advised to generate a single entry for remitting the amounts to the Fund. Accordingly, the amount required to be transferred to the Fund in terms of paragraphs 3(vi) and 3(vii) of the Scheme, can be credited to the Depositor Education and Awareness Fund (DEAF) Account, specified above, maintained with RBI (within banking hours) on the last working day of the month. Further each bank has been allotted a unique
+“Bank DEAF Code” by the RBI, for operating the Fund
+which is given in
+Annex I
+. Every bank remitting amount to the DEAF Account should indicate its unique
+“Bank DEAF Code”
+.
+Procedure to be followed by banks for crediting the Fund
+3.
+(i) Own Account
+– This facility is available under the service “DEAF Service” of the E-Kuber portal. When a bank is crediting its own amount due to the Fund it should furnish its DEAF code (bank specific DEAF code is given in Annex I) in the “Bank DEAF Code” field and the detailed breakup (number of accounts and amount) of the deposits viz. interest bearing, non-interest bearing deposits and other credits (i.e., any amount other than deposits remaining unclaimed as defined in paragraph 3(iii) of the Scheme), in the fields provided for the same, of the aforementioned service in the portal. Other credits would be non-interest bearing.
+(ii) Members’ Account
+- In case of a bank remitting amounts due of member/ other banks (banks not having current account with RBI) who approach the bank for remitting such amounts to the Fund, the bank should not consolidate the amounts of all banks, instead they should separately remit the amount due bank-wise, for the amount to be credited to the Fund. In the Bank DEAF Code field available in the DEAF Service of E-Kuber, bank should provide appropriate Bank DEAF Code of the member/other bank, whose funds are being transferred. Also, the detailed breakup (number of accounts and amount) of the deposits viz. interest bearing deposits, non-interest bearing deposits and other credits should be provided in the fields designated for the same. Other credits would be non-interest bearing. Further, it is advised that while making payment towards claims/refunds from the Fund of members / other banks, RBI would credit the account of the sponsor bank from where the credits would flow to the member / other banks.
+Returns prescribed
+4. In terms of paragraph 5 of the Scheme, banks shall, furnish returns
+duly audited
+to RBI in the form and manner prescribed. In this regard, all banks are advised to furnish returns duly audited as per details given below:-
+Form I-
+Banks shall submit a consolidated return
+on the date of transferring
+the amount to the Fund furnishing the total amount credited (indicating separately the amount of interest bearing deposits, non-interest bearing deposits and other credits transferred). For each tranche transferred to the Fund, banks shall maintain complete details viz., name of customer, account number, amount, including interest accrued, transferred to the Fund, date of transfer to the Fund and other related documents, etc. These details/documents shall be maintained by the banks tranche-wise.
+Form II-
+A
+monthly
+return to be submitted by the bank for the total amount of funds transferred to the Fund (indicating interest bearing deposits, non-interest bearing deposits and other credits). The return shall be forwarded by 15th of the succeeding month.
+Form III
+- In terms of paragraph 4 (i) of the Scheme, in case of demand from a customer/ depositor whose unclaimed amount/deposit had been transferred to Fund, banks shall repay the customer/depositor, along with interest, if applicable, and lodge a claim for refund from the Fund for an equivalent amount paid to the customer/depositor. In case of any claim for refund of the part amount by the depositor, whose unclaimed amount/inoperative deposit had been transferred to the Fund, the bank shall claim the entire amount transferred to the Fund in respect of such depositor along with interest payable, if any, from the Fund. The details of the refund made by a bank in each calendar month should be furnished in Form III by 15th of the subsequent month. Form III should give details i.e., the name of the customer/ depositor, date of transfer of the amount to the Fund, date of payment of the amount to the customer, rate of interest claimed from the Fund etc. The return may be forwarded by 15th of the succeeding month to which the claim pertains so as to enable the Reserve Bank to process the same and refund the amount on the last working day of the month. Any return received after 15th of the succeeding month to which the claim pertains, would be processed in the subsequent month.
+Form IV–
+A
+monthly
+consolidated return for claims made by the bank from the Fund may be forwarded by 15th of the succeeding month.
+Form V
+- A yearly return indicating item-wise details of amount due outstanding at the year end may be submitted within thirty days after the close of each calendar year.
+5. We advise that banks may necessarily furnish the above returns, even if it is a nil return, to the RBI at the periodicity indicated above. The formats of the above returns are enclosed.
+Audit
+6. On the date of transferring the amount to the Fund, the bank should maintain customer-wise details verified by the concurrent auditors, including payment of up-to-date interest accrued, that has been credited to the deposit account till the date of transfer to the Fund, with respect to interest bearing deposits. With respect to non-interest bearing deposits and other credits transferred to the Fund, customer-wise details, duly audited, should be maintained with the bank. The concurrent auditors should also verify and certify that, as per the banks’ books, the returns have been correctly compiled by the bank in the monthly and yearly returns submitted to RBI. The above returns shall also be verified by the statutory auditors at the time of annual audit and an Annual Certificate shall be obtained from statutory auditors and forwarded to RBI, certifying that the returns have been correctly compiled by the bank.
+Authorized Signatories
+7. The banks are advised to furnish true copy of the Resolution of the Board of Directors authorising two officials designated as authorized signatories, who would operate the account jointly, for the claims/refund on behalf of the bank from the Fund. The specimen signatures of the authorised signatories may be duly attested by the Chairman, Executive Director or Chief Executive Officer. The specimen signature of the authorized signatories along with Board Resolution may be forwarded as per the
+Annex II
+.
+Disclosure in Notes to Accounts
+8. All such unclaimed liabilities (where amount due has been transferred to DEAF) may be reflected as “Contingent Liability – Others, items for which the bank is contingently liable” under Schedule 12 of the annual financial statements. Banks are also advised to disclose the amounts transferred to DEAF under the notes to accounts as per the format given below.
+(Amounts in Rs. crore)
+Current year
+Previous year
+Opening balance of amounts transferred to DEAF
+Add: Amounts transferred to DEAF during the year
+Less: Amounts reimbursed by DEAF towards claims
+Closing balance of amounts transferred to DEAF
+9. The above returns duly certified by the auditors may be forwarded in original, to Chief General Manager, Reserve Bank of India, Department of Banking Operations & Development, Central Office, DEAF Cell, 12th Floor, Shahid Bhagat Singh Road, Fort, Mumbai – 400001, as also scanned copy in pdf format by
+email
+. The statutory auditors’ Annual Certificate as mentioned in paragraph 6 above may also be forwarded at the above address along with a scanned copy in pdf format by e-mail.
+Yours faithfully,
+(Rajesh Verma)
+Chief General Manager
+Encl: As above

@@ -1,0 +1,20 @@
+(53 kb)
+Sharing of Information Technology Resources by banks – guidelines
+RBI/2013-14/327
+UBD CO BPD No.31/09.18.300/2013-14
+October 17, 2013
+The  Chief Executive Officer
+All  Primary (Urban) Co-operative Banks
+Dear  Sir / Madam,
+Sharing  of Information Technology Resources by banks – guidelines
+As announced in the Monetary Policy  Statement 2013-14 (
+paragraph 101
+), with the increased use of information  technology (IT) infrastructure by banks, there is a need to examine the issue  of shared IT resources in order to optimise costs while maintaining the desired  levels of efficiency and security. The feasibility of such shared resources by  the banking sector needs to be explored wherever possible, taking into account  security issues, data integrity and confidentiality.
+2. In  this connection, we enclose a copy of circular on the captioned subject issued  to all Scheduled Commercial Banks by the Department of Information Technology,  Central Office, Reserve Bank of India, vide circular
+DIT CO (Policy)  No.674/ 09.63.025/2013-14 dated August 30, 2013
+for your information and  necessary action. As the guidelines on sharing of IT resources by banks have  been prepared taking into account issues relating to security, data integrity  and confidentiality, Urban Co-operative Banks (UCBs) are advised to take the  same into account when they opt for sharing of IT resources and ensure that all  aspects relating to privacy, confidentiality, security and business continuity  are fully met.
+3. While  entering into agreement with service provider in this regard, UCBs may ensure  that the infrastructure and applications are made available for audit /  inspection by RBI and that RBI should have access to all information resources  that are used by banks, even if the resources are not physically located in the  premises of banks.
+Yours faithfully,
+(A.K. Bera)
+Principal Chief General Manager
+Encl: As above.

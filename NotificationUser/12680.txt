@@ -1,0 +1,148 @@
+(359 kb)
+Master Direction – Risk Management and Inter-Bank Dealings: Amendments
+RBI/2024-25/32
+A. P. (DIR Series) Circular No. 04
+May 03, 2024
+To,
+All Authorised Persons
+Madam/Sir,
+Master Direction – Risk Management and Inter-Bank Dealings: Amendments
+Attention of Authorised Persons is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 03, 2000 [
+Notification no. FEMA.25/RB-2000 dated May 03, 2000
+], as amended from time to time and
+Master Direction - Risk Management and Inter-Bank Dealings dated July 05, 2016
+, as amended from time to time (hereinafter referred as ‘Master Direction’).
+2. Standalone Primary Dealers (SPDs) have been granted authorisation under Section 10(1) of the Foreign Exchange Management Act (FEMA), 1999 pursuant to
+notification no. DNBR (PD) CC.No.094/03.10.001/2018-19 July 27, 2018
+. Accordingly, amendments are being made in the Master Direction to reflect the applicability of the provisions to SPDs. These amendments are placed at
+Annex I
+herewith. SPDs shall continue to comply with all applicable Directions issued by the Reserve Bank of India.
+3. Additionally, directions on reporting of OTC foreign exchange derivative contracts and foreign currency interest rate derivative contracts to the Trade Repository of Clearing Corporation of India Ltd. have been updated and incorporated in Part E of the Master Direction. Certain directions on reporting relating to format, mode, timelines, etc., have also been updated and the amendments being made to the Master Direction are placed at
+Annex II
+herewith.
+4. These Directions will come into force with immediate effect and in supersession of the circulars listed at Appendix III of the Master Direction.
+5. For the purpose of this circular, Authorised Persons shall mean Authorised Dealer Category-I banks and Standalone Primary Dealers authorised as Authorised Dealer Category-III under Section 10 (1) of the FEMA, 1999.
+6. The directions contained in this circular have been issued under Section 45W of the Reserve Bank of India Act, 1934 and Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Dimple Bhandia)
+Chief General Manager
+Annex I
+Sr. No.
+Existing Directions
+Revised/Additional Directions
+New para shall be inserted after Para 4 of the cover circular.
+(i)
+-
+5. Authorised Persons shall mean Authorised Dealer Category - I banks, Standalone Primary Dealers authorised as Authorised Dealer Category – III and for the purpose of exchange traded currency derivatives, Recognised Stock Exchanges and Recognised Clearing Corporations, authorised under Section 10 (1) of the FEMA, 1999.
+Para 1 (ii) of Part A (Section I) shall be modified.
+(ii)
+For the purpose of these Directions, Authorised Dealer shall mean Authorised Dealer Category - I banks, unless stated otherwise.
+For the purpose of these Directions, Authorised Dealer shall mean Authorised Dealer Category - I banks and Standalone Primary Dealers authorised as Authorised Dealer Category - III, unless stated otherwise. Any specific reference solely to Authorised Dealer Category-I banks shall not be applicable for Standalone Primary Dealers.
+Para 4 and 5 of Part A (Section III) shall be removed and a new para shall be inserted after Para 6 (b) of Part A (Section III).
+(iii)
+-
+(c) While participating in the ETCD market, AD Category-I banks shall comply with the
+Master Direction – Reserve Bank of India (Financial Services provided by Banks) Directions, 2016 dated May 26, 2016
+, as amended from time to time and Standalone Primary Dealers authorised as Authorised Dealer Category-III shall comply with the
+Master Direction – Standalone Primary Dealers (Reserve Bank) Directions, 2016 dated August 23, 2016
+, as amended from time to time.
+Para 6 of Part A (Section III) shall be renamed.
+(iv)
+Operational Guidelines, terms and conditions for AD Category-I banks participation in the ETCD market
+Participation of Authorised Dealers in the exchange traded currency derivative (ETCD) market
+Para 5 of Part C shall be renamed.
+(v)
+Loans/Overdrafts
+Loans/Overdrafts by Authorised Dealer Category-I banks
+New para shall be inserted after Para 5 of Part C
+(vi)
+-
+5A. Overseas foreign currency borrowing by Standalone Primary Dealers authorised as Authorised Dealer Category-III
+(a) Standalone Primary Dealers may borrow in foreign currency from their parent or correspondent outside India or any other entity as permitted by Reserve Bank of India and avail overdraft in nostro accounts (not adjusted within five days), only for operational reasons. Such borrowings shall be within the limit for foreign currency borrowings prescribed in the
+Master Direction – Standalone Primary Dealers (Reserve Bank) Directions, 2016 dated August 23, 2016
+, as amended from time to time.
+(b) If drawals in excess of the above limit are not adjusted within five days, a report, should be submitted to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai – 400 001, within 15 days from the close of the month in which the limit was exceeded. Such a report is not necessary if arrangements exist for value dating.
+Para A (i) of Annex I shall be substituted
+(vii)
+i. Net Overnight Open Position Limit (NOOPL) for calculation of capital charge on forex risk
+NOOPL may be fixed by the boards of the respective banks and communicated to the Reserve Bank immediately. However, such limits should not exceed 25 percent of the total capital (Tier I and Tier II capital) of the bank.
+i. Net Overnight Open Position Limit (NOOPL) for calculation of capital charge on forex risk
+NOOPL may be fixed by the boards of the respective Authorised Dealers and communicated to the Reserve Bank immediately through Centralised Information Management System (CIMS) /
+email
+. However, such limits should not exceed 25 percent of the total capital (Tier I and Tier II capital) of the Authorised Dealer.
+Para B (i) of Annex I shall be substituted
+(viii)
+AGL may be fixed by the boards of the respective banks and communicated to the Reserve Bank immediately. However, such limits should not exceed 6 times the total capital (Tier I and Tier II capital) of the bank.
+AGL may be fixed by the boards of the respective Authorised Dealers and communicated to the Reserve Bank immediately through CIMS /
+email
+. However, such limits should not exceed 6 times the total capital (Tier I and Tier II capital) of the Authorised Dealer.
+Annex II
+Sr. No.
+Existing Directions
+Revised/Additional Directions
+Para (i) of Part E shall be substituted.
+(i)
+The Head/Principal Office of each AD Category-I banks should submit daily statements of Foreign Exchange Turnover in Form FTD and Gaps, Position and Cash Balances in Form GPB through the Online Returns Filing System (ORFS) as per the format given in Annex-II.
+The Head/Principal Office of each Authorised Dealer should submit daily statements of Foreign Exchange Turnover in Form FTD and Gaps, Position and Cash Balances in Form GPB through the Centralised Information Management System (CIMS) as per the format given in Annex-II by the following working day.
+Para (iv) of Part E shall be substituted.
+(ii)
+AD Category-I banks should forward details of exposures in foreign exchange as at the end of every quarter as per the format given in Annex-V. ADs should submit this report as per the revised format online only from quarter ended September 2013 through the Extensible Business Reporting Language (XBRL) system which may be accessed at
+https://secweb.rbi.org.in/orfsxbrl/
+. AD Category – I banks which require login ID / passwords for accessing XBRL system may submit their e-mail addresses and contact numbers to
+fmrdfx@rbi.org.in
+. Please note that details of exposures of all corporate clients who meet the prescribed criteria have to be included in the report. The AD banks should submit this report based on bank's books and not based on corporate returns.
+Authorised Dealers should forward details of exposures in foreign exchange as at the end of every quarter as per the format given in Annex-V through CIMS by the 30th of the month following the end of the quarter. Please note that details of exposures of all corporate clients who meet the prescribed criteria have to be included in the report. Authorised Dealers should submit this report based on their own books and not based on corporate returns.
+Para (v) of Part E shall be substituted.
+(iii)
+Authorised Dealers Category I should forward details of option transactions (FCY-INR) undertaken on a weekly basis as per the format given in Annex VIII. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+Authorised Dealers should forward details of option transactions (FCY-INR) undertaken on a weekly basis as per the format given in Annex VIII through CIMS /
+email
+by the first working day of the following week.
+Para (vi) of Part E shall be substituted.
+(iv)
+AD Category-I banks have to report their total outstanding foreign currency borrowings under all categories as on the last Friday of every month as per the format given in Annex-IX. The report should be received by the 10th of the following month. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+vi) Authorised Dealers have to report their total outstanding foreign currency borrowings under all categories as on the last working day of every month as per the format given in Annex-IX through CIMS by 10th of the following month.
+Para (x) of Part E shall be substituted.
+(v)
+The Head/Principal Office of each AD Category-I banks should furnish an up-to-date list (in triplicate) of all its offices/branches, which are maintaining Rupee accounts of non-resident banks as at the end of December every year giving their code numbers allotted by Reserve Bank. The list should be submitted before 15th January of the following year. The offices/branches should be classified according to area of jurisdiction of Reserve Bank Offices within which they are situated. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+The Head/Principal Office of each AD Category I banks should furnish an up-to-date list of all its offices/branches, which are maintaining Rupee accounts of non-resident banks as at the end of December every year giving their code numbers allotted by Reserve Bank through CIMS /
+email
+by 15th January of the following year. The offices/branches should be classified according to area of jurisdiction of Reserve Bank Offices within which they are situated.
+Para (xiii) of Part E shall be substituted.
+(vi)
+Authorised Dealers should report on a quarterly basis, doubtful transactions involving frequent cancellation of hedge transactions and / or the underlying trade transactions by non-residents under the scheme as per the format indicated in the Annex XX. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+Authorised Dealers should report on a quarterly basis, doubtful transactions involving frequent cancellation of hedge transactions and / or the underlying trade transactions by non-residents under the scheme as per the format indicated in the Annex XX through CIMS by the 10th of the month following the end of the quarter.
+Existing para of Part E shall be removed.
+(vii)
+Reports are to be sent to The Chief General Manager, Financial Markets Regulation Department Reserve Bank of India, Central Office, 9th Floor, Central Office Building, Shahid Bhagat Singh Road, Fort, Mumbai - 400 001 unless otherwise specified. Reports may be sent preferably through
+e-mail
+-
+New para shall be inserted after Para A of Part E
+(viii)
+-
+B. REPORTING TO THE TRADE REPOSITORY
+(i) Authorised Dealers should report all OTC foreign exchange derivative contracts and foreign currency interest rate derivative contracts, undertaken by them directly or through their overseas entities
+1
+(including overseas branches, IFSC Banking Units, wholly owned subsidiaries and joint ventures of Authorised Dealers), to the Trade Repository (TR) of Clearing Corporation of India Ltd. (CCIL) as per the following timelines:
+Inter-bank foreign exchange derivative contracts involving INR (except currency swaps and structured derivatives) should be reported in hourly batches within 30 minutes from completion of the hour. Such contracts executed 30 minutes prior to closure of CCIL’s reporting platform for the day and subsequent to closure of CCIL’s reporting platform for the day should be reported by 10 a.m of the following business day;
+Inter-bank foreign exchange derivative contracts not involving INR (except currency swaps and structured derivatives) executed up to 5 p.m. on any given day should be reported by 05:30 p.m of that day. Such contracts executed after 5 p.m should be reported by 10 a.m of the following business day;
+Inter-bank currency swaps, structured derivatives and foreign currency interest rate derivative contracts executed upto 5 p.m. on any given day should be reported before closure of CCIL’s reporting platform for the day. Such contracts executed after 5 p.m should be reported by 10 a.m of the following business day; and
+Foreign exchange derivative contracts and foreign currency interest rate derivative contracts executed with clients should be reported before 12 noon of the following business day.
+Note:
+For the purpose of (a) (b) and (c), structured derivative shall have the meaning as assigned in the
+Master Direction – Reserve Bank of India (Market-makers in OTC Derivatives) Directions, 2021 dated September 16, 2021
+, as amended from time to time.
+(ii) Under the ‘back-to-back’ arrangement, trade details, including particulars of the non–resident client should be reported to the TR.
+(iii) There shall be no requirement of matching transactions with overseas counterparties and client transactions in the TR as the overseas counterparties and clients are not required to report/confirm the transaction details. Authorised Dealers shall be responsible for ensuring the accuracy in respect of transactions reported.
+(iv) Authorised Dealers should ensure that outstanding balances between their books and the TR are reconciled on an ongoing basis.
+(v) The reporting formats shall be as indicated by CCIL with the prior approval of the Reserve Bank.
+1
+In case of foreign banks operating in India, through any branch of the parent bank.

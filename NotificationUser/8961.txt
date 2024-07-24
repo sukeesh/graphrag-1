@@ -1,0 +1,21 @@
+(36 kb)
+Reporting of OTC transactions on F-TRAC-Hiving off to CDSIL
+This circular has been superseded by
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 dated July 24, 2018
+.
+RBI/2013-14/659
+IDMD.PCD. 13 /14.01.02/2013-14
+June 25, 2014
+All Market Participants
+Madam/Sir,
+Reporting of OTC transactions on F-TRAC-Hiving off to CDSIL
+Reference is invited to paragraph 2 of the
+circular IDMD.DOD. 11/11.08.36/2009-10 dated June 30, 2010
+and paragraph 7 of the
+circular IDMD.DOD. 05/11.08.38/2009-10 dated January 8, 2010
+on reporting of OTC trades in CP,CD and repo in corporate debt securities on reporting platform of Fixed Income Money Market and Derivatives Association of India (FIMMDA).
+2. In view of the change in ownership of the F-TRAC platform, all eligible market participants are advised to report their OTC transactions in CPs, CDs and repo in corporate debt securities, CP, CD and non-convertible debentures of original maturity less than one year on the reporting platform of Clearcorp Dealing Systems (India) Ltd. (CDSIL) within 15 minutes of the trade for online dissemination of market information.
+3. Further,OTC transactions in CP, CD and repo in corporate debt securities, CP, CD and NCDs of original maturity less than one year will continue to be settled through the clearing house of the National Stock Exchange (NSE), i.e., the National Securities Clearing Corporation Limited (NSCCL), the clearing house of the Bombay Stock Exchange (BSE), i.e., Indian Clearing Corporation Limited (ICCL), and the clearing house of the MCX-Stock Exchange, i.e., MCX-SX Clearing Corporation Limited (CCL), as per the norms specified by NSCCL, ICCL and CCL from time to time.
+Yours faithfully,
+(Rekha Warriar)
+Chief General Manager

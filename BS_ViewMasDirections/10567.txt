@@ -1,0 +1,1242 @@
+(1690 kb)
+Master Direction - Standalone Primary Dealers (Reserve Bank) Directions, 2016 (Updated as on April 04, 2024)
+RBI/DNBR/2016-17/42
+Master Direction DNBR.PD.004/03.10.119/2016-17
+August 23, 2016
+(
+Updated as on April 04, 2024
+)
+(
+Updated as on November 14, 2022
+)
+(
+Updated as on September 29, 2022
+)
+(
+Updated as on April 22, 2022
+)
+(
+Updated as on October 05, 2021
+)
+(
+Updated as on November 22, 2019
+)
+(
+Updated as on February 22, 2019
+)
+(
+Updated as on October 05, 2018
+)
+(
+Updated as on August 23, 2018
+)
+(
+Updated as on November 09, 2017
+)
+(
+Updated as on March 31, 2017
+)
+Master Direction - Standalone Primary Dealers (Reserve Bank) Directions, 2016
+The Reserve Bank of India (the Bank), having considered it necessary in the public interest, and being satisfied that, for the purpose of enabling the Bank to regulate the financial system to the advantage of the country and to prevent the affairs of any Standalone Primary Dealer (SPD) from being conducted in a manner detrimental to the interest of investors or in any manner prejudicial to the interest of such SPD, and in exercise of the powers conferred under Section 45JA, 45L and 45M of the Reserve Bank of India Act, 1934 (2 of 1934), hereby issues to every SPD, in supersession of the list of circulars as provided for in
+Chapter XI
+, the
+Directions
+hereinafter specified.
+(J.P. Sharma)
+Chief General Manager
+Subject
+Section I : Introduction
+Chapter I – Preliminary
+Chapter II – Definition
+Chapter III – Registration
+Section II : Prudential Issues
+Chapter IV – Capital Funds and Capital Requirements
+Chapter V – Sources and Application of Funds
+Chapter VI – Prudential Regulations
+Section III : Governance Issues
+Chapter VII – Corporate Governance
+Section IV : Miscellaneous Issues
+Chapter VIII - Miscellaneous Instructions
+Chapter IX – Reporting Requirements
+Chapter X – Interpretations
+Chapter XI – Repeal
+Annex
+Annex I – Guidelines on SD Bonds (Tier 2 capital)
+Annex II - Capital Adequacy for Credit Risk
+Annex III - Measurement of Market Risk
+Annex IV- Illustration
+Annex V - Guidelines for Entry of SPDs into Insurance
+Annex VI - Guidelines on Distribution of Mutual Fund Products by SPDs
+Annex VII - Publication of Financial Results
+Annex VIII - 'Fit and Proper' Criteria for directors of SPDs
+Annex IX - Declaration and Undertaking by Director
+Annex X - Form of Deed of Covenants with a Director of SPDs
+Annex X-A – Guidelines on Compensation of Key Managerial Personnel and Senior Management in SPDs: Minimum Scope and coverage
+Annex XI – Indicative list of Balance Sheet Disclosures for SPDs
+Annex XII - Deleted
+Annex XIII- Reporting Format for Primary Dealers declaring Dividend
+Annex XIV - Directions on Managing Risks and Code of Conduct in Outsourcing of Financial Services by SPDs
+Section – I
+Introduction
+Chapter – I
+PRELIMINARY
+1. Short Title and Commencement.
+(1) These Directions shall be called the
+Standalone Primary Dealers (Reserve Bank) Directions, 2016
+(2) These directions shall come into force with immediate effect.
+2. Applicability
+(1) The provisions of these Directions shall apply to all Standalone Primary Dealers (SPDs) registered as Non-Banking Financial Company (NBFC) with the Bank.
+(2) These Directions consolidate the regulations as issued by Department of Regulation, Reserve Bank of India. However, any other Directions/guidelines issued by any other Department of the Bank, as applicable to a Standalone Primary Dealer shall be adhered to, by it.
+2A.
+1
+Regulatory Structure under Scale Based Regulation for NBFCs
+Regulatory structure for NBFCs shall comprise of four layers based on their size, activity and perceived riskiness. NBFCs in the lowest layer shall be known as NBFCs-Base Layer. NBFCs in Middle Layer and Upper Layer shall be known as NBFCs-Middle Layer and NBFCs-Upper Layer respectively. The Top Layer is ideally expected to be empty and NBFCs in that Layer will be known as NBFCs-Top Layer. SPDs shall always remain in the Middle Layer of the regulatory structure.
+Chapter II
+Definitions
+3.
+For the purpose of these Directions, unless the context otherwise requires:
+(i) "Act" means the
+Reserve Bank of India Act, 1934
+;
+(ii) "Bank" means the Reserve Bank of India constituted under
+section 3
+of the Reserve Bank of India Act, 1934
+(iia) “Dividend Payout Ratio” means the ratio between the amount of the dividend payable in a year and the net profit as per the audited financial statements for the financial year for which the dividend is proposed. Proposed dividend shall include both dividend on equity shares and compulsory convertible preference shares eligible for inclusion in Tier 1 Capital. In case the net profit for the relevant period includes any exceptional and/or extra-ordinary profits/ income or the financial statements are qualified (including ’emphasis of matter’) by the statutory auditor that indicates an overstatement of net profit, the same shall be reduced from net profits while determining the Dividend Payout Ratio.
+(iii) Subordinated Debt (SD): means an instrument which is fully paid-up, unsecured, subordinate to the claims of other creditors, free of restrictive clauses, and shall not be redeemable at the initiative of the holder or without the consent of the Bank. SD instruments with an initial maturity of less than 5 years or with a remaining maturity of less than one year shall not be included as part of Tier 2 capital. SD instruments eligible to be reckoned as Tier 2 capital will be limited to 50 percent of Tier 1 capital. The issuance shall be in adherence to the Guidelines on SD Bonds (Tier 2 capital), as provided in
+Annex I
+. The SD instruments shall be subjected to progressive discount at the rates shown below:
+Residual Maturity of Instruments
+Rate of Discount (%)
+Less than one year
+100
+One year and more but less than two years
+80
+Two years and more but less than three years
+60
+Three years and more but less than four years
+40
+Four years and more but less than five years
+20
+(iv) Tier 1 capital means paid-up capital, statutory reserves and other disclosed free reserves. Investment in subsidiaries (where applicable), intangible assets, losses in current accounting period, deferred tax asset and losses brought forward from previous accounting periods will be deducted from the Tier 1 capital.
+In case any SPD is having substantial interest/exposure (as defined for NBFCs) by way of loans and advances not related to business relationship in other Group companies, such amounts will be deducted from its Tier 1 capital.
+(v) Tier 2 capital includes the following:
+i. Undisclosed reserves and cumulative preference shares
+2
+(other than those which are compulsorily convertible into equity). Cumulative preferential shares shall be fully paid-up and shall not contain clauses which permit redemption by the holder.
+ii. Revaluation reserves, discounted at a rate of fifty five percent.
+iii. General provisions and loss reserves (to the extent these are not attributable to actual diminution in value or identifiable potential loss in any specific asset and are available to meet unexpected losses), up to a maximum of 1.25 percent of total risk weighted assets.
+iv. Hybrid debt capital instruments, which combine certain characteristics of equity and debt.
+v. Subordinated debt
+4.
+Words or expressions used but not defined herein and defined in the RBI Act shall have the same meaning as assigned to them in the RBI Act. Any other words or expressions not defined in the RBI Act or any of the Directions issued by the Bank, shall have the meanings respectively assigned to them under the Companies Act, 1956 or Companies Act, 2013 (Act 18 of 2013) as the case may be.
+Chapter III
+Registration
+5. In exercise of the powers conferred under clause (b) of sub-section (1) of section 45-IA of the Reserve Bank of India Act, 1934 (Act 2 of 1934) and all the powers enabling it in that behalf, the Bank, hereby specifies two hundred lakhs rupees as the net owned fund (NOF) required for a non-banking financial company to commence or carry on the business of non-banking financial institution, except wherever otherwise a specific requirement as to NOF is prescribed by the Bank. Authorisation to act as a Standalone Primary Dealer is subject to the NBFC fulfilling the eligibility conditions as prescribed by Internal Debt Management Department of the Bank from time to time.
+5A. Investment from FATF non-compliant jurisdictions
+3
+(i) Investments in SPDs from FATF non-compliant jurisdictions shall not be treated at par with that from the compliant
+4
+jurisdictions. New investors from or through non-compliant FATF jurisdictions, whether in existing SPDs or in companies seeking Certification of Registration (CoR), should not be allowed to directly or indirectly acquire ‘significant influence’ in the investee, as defined in the applicable accounting standards. In other words, fresh investors (directly or indirectly) from such jurisdictions in aggregate should be less than the threshold of 20 per cent of the voting power (including potential
+5
+voting power) of the SPD.
+(ii) Investors in existing SPDs holding their investments prior to the classification of the source or intermediate jurisdiction/s as FATF non-compliant, may continue with the investments or bring in additional investments as per extant regulations so as to support continuity of business in India.
+Section –II
+Prudential Issues
+Chapter IV
+Capital Funds and Capital Requirements
+6. Capital Funds
+Capital funds include Tier 1 and Tier 2 capital.
+7. Minimum CRAR Ratio
+SPDs are required to maintain a minimum Capital to Risk-Weighted Assets Ratio (CRAR) of 15 percent on an ongoing basis.
+8. Measurement of Risk Weighted Assets
+The details of credit risk weights for various on-balance sheet and off-balance sheet items and methodology of computing the risk weighted assets for the credit risk are listed in Annex II. The procedure for calculating capital charge for market risk is detailed in Annex III.
+9. Capital Adequacy requirements
+(i) The capital charge for credit risk and market risk as indicated in Annex II and Annex III, shall be maintained at all times.
+(ii) In calculating eligible capital, it will be necessary first to calculate the SPD's minimum capital requirement for credit risk, and thereafter its market risk requirement, to establish how much Tier 1 and Tier 2 capital is available to support market risk. Of the 15% capital charge for credit risk, at least 50% shall be met by Tier 1 capital, that is, the total of Tier 2 capital, if any, shall not exceed one hundred per cent of Tier 1 capital, at any point of time, for meeting the capital charge for credit risk.
+(iii) Subordinated debt as Tier 2 capital shall not exceed 50 per cent of Tier 1 capital.
+(iv) The total of Tier 2 capital shall not exceed 100% of Tier 1 capital.
+(v) Eligible capital will be the sum of the whole of the SPD's Tier 1 capital, plus all of its Tier 2 capital under the limits imposed, as summarized above.
+(vi) The overall capital adequacy ratio will be calculated by establishing an explicit numerical link between the credit risk and the market risk factors, by multiplying the market risk capital charge with 6.67 i.e. the reciprocal of the minimum credit risk capital charge of 15 per cent.
+(vii) The resultant figure shall be added to the sum of risk weighted assets worked out for credit risk purpose. The numerator for calculating the overall ratio will be the SPD's total capital funds (Tier 1 and Tier 2 capital, after applicable deductions, if any). The calculation of capital charge is illustrated in Annex IV.
+9A.
+6
+Internal Capital Adequacy Assessment Process (ICAAP)
+SPDs are required to make a thorough internal assessment of the need for capital, commensurate with the risks in their business. This internal assessment shall be on similar lines as ICAAP prescribed for commercial banks under Pillar 2 (
+Master Circular – Basel III Capital Regulations, dated May 12, 2023
+, as amended from time to time). While Pillar 2 capital will not be insisted upon, SPDs are required to make a realistic assessment of risks. Internal capital assessment shall factor in credit risk, market risk, operational risk and all other residual risks as per methodology to be determined internally. The methodology for internal assessment of capital shall be proportionate to the scale and complexity of operations as per their Board approved policy. The objective of ICAAP is to ensure availability of adequate capital to support all risks in business as also to encourage SPDs to develop and use better internal risk management techniques for monitoring and managing their risks. This will facilitate an active dialogue between the supervisors and SPDs on the assessment of risks and monitoring as well as mitigation of the same.
+10. Diversification of SPD Activities
+(i) The guidelines on diversification of activities by SPDs shall be as contained in the Operational Guidelines for Primary Dealers issued vide
+Master Direction IDMD.PDRD.01/03.64.00/2016-17 dated July 01, 2016
+in addition to that prescribed in these directions.
+(ii)
+7
+The capital charge for market risk
+(calculated as per provisions of these Directions)
+for the activities defined below shall not be more than 20 per cent of the Net Owned Fund
+8
+(NOF)
+of the SPD
+as per the last audited balance sheet:
+(a) Investment / trading in equity and equity derivatives
+(b) Investment in units of equity oriented mutual funds
+(c) Underwriting public issues of equity
+(d) Participation in Currency Futures Market
+(e) Offering foreign exchange market-making facilities to users, as currently permitted to Category-I Authorized Dealers.
+(iii) SPDs shall calculate the capital charge for market risk on the stock positions/ underlying stock positions/units of equity oriented mutual funds using Internal Models (VaR based) as per the directions contained in
+Annex VIII
+of the Operational Guidelines for Primary Dealers issued vide
+Master Direction IDMD.PDRD.01/03.64.00/2016-17 dated July 01, 2016
+. As regards credit risk arising out of exposure in equity, equity derivatives and equity oriented mutual funds, SPDs shall calculate the capital charge as per the guidelines prescribed in Annex II.
+Chapter V
+Sources and Application of Funds
+11. Sources of funds
+(1) SPDs are permitted to borrow funds from call/notice/term money market, repo (including CBLO) market, Inter-Corporate Deposits, FCNR (B) loans, Commercial Paper and Non-Convertible Debentures. They are also eligible for liquidity support from the Bank.
+(2) Call/Notice Market
+(i) SPDs are allowed to borrow from call/notice market, on an average in a ‘reporting fortnight’, up to 225 percent of their NOF as at the end March of the preceding financial year. They may lend up to 25 percent of their NOF in call/notice money market, on an average in a ‘reporting fortnight’. These limits on borrowing and lending are subject to periodic review by the Bank. SPDs are governed by the provisions of the
+RBI Master Circular FMRD.DIRD. 01/14.01.001/2015-16 dated July 1, 2015
+on “Call/Notice Money Market Operations” and as amended from time to time,
+(3) Inter-Corporate Deposits (ICDs)
+(i) ICDs may be raised by SPDs as per their funding needs. The SPDs shall put in place a Board approved policy for ICDs which takes due consideration of the associated risks and shall include the following general principles:
+The ICD borrowings shall in no case exceed 150 per cent of the NOF as at the end of March of the preceding financial year.
+ICDs accepted by SPD shall be for a minimum period of one week.
+ICDs accepted from parent/promoter/group companies or any other related party shall be on ‘arm’s length basis’ and disclosed in financial statements as "related party transactions".
+Funds raised through ICDs are subject to ALM discipline.
+(ii) SPDs are
+prohibited
+from placing funds in ICD market.
+(4) FCNR (B) loans / External Commercial Borrowing
+(i) SPDs may avail of FCNR(B) loans up to a maximum of 25 percent of the NOF as at the end of March of the preceding financial year and subject to the foreign exchange risk of such loans being hedged at all times at least to the extent of 50 percent of the exposure.
+SPDs are governed by the provisions of the
+RBI Circular IDMC.PDRS.No. 3820 /03.64.00/2002-03 dated March 24, 2003
+, as amended from time to time, on “Availment of FCNR (B) Loans by Primary Dealers (PDs)”.
+(ii) SPDs are
+not
+permitted to raise funds through External Commercial Borrowings.
+(5) Non-Convertible Debentures (NCDs):
+SPDs may issue NCDs of maturity up to one year, without the requirement of having a working capital limit with a bank. They shall be governed by the directions, “Issuance of Non-Convertible Debentures (Reserve Bank) Directions, 2010”, issued vide
+circular RBI/2009-10/505-IDMD.DOD.10/11.01.01(A)/2009-10 dated June 23, 2010
+, as amended from time to time.
+(6) Commercial Paper
+Issuance of Commercial Paper by SPDs shall be as per “Guidelines for Issue of Commercial Paper” issued vide
+RBI Master Circular FMRD.DIRD.02/14.01.002/2015-16 dated July 1, 2015
+and as amended from time to time.
+12. Application of Funds
+(1) SPDs are permitted to undertake a set of core and non-core activities. SPDs which undertake only the core activities shall maintain a minimum NOF of ₹150 crore. SPDs which also undertake non-core activities shall maintain a minimum NOF of ₹250 crore.
+(2) The investment in G-Sec must have predominance over the non-core activities in terms of investment pattern. SPDs shall ensure predominance by maintaining at least 50 percent of their total financial investments (both long term and short term) in G-Sec at any point of time. Investment in G-Sec shall include the SPD's Own Stock, Stock with the Bank under Liquidity Support/ Intra-day Liquidity (IDL)/ LAF, Stock with market for repo borrowings and G-Sec pledged with the CCIL.
+(3) An SPD's investment in G-Sec (including T-Bills and CMBs) and Corporate Bond (to the extent of 50 percent of NOF) on a daily basis shall be at least equal to its net call/notice/repo (including CBLO) borrowing plus net RBI borrowing (through LAF/ Intra-Day Liquidity/ Liquidity Support) plus the minimum prescribed NOF.
+(4) The following are permitted under core activities:
+Dealing and underwriting in G-Sec,
+Dealing in Interest Rate Derivatives,
+Providing broking services in G-Sec,
+Dealing and underwriting in Corporate/ PSU/ FI bonds/ debentures,
+Lending in Call/ Notice/ Term/ Repo/ CBLO market,
+Investment in Commercial Papers (CPs),
+Investment in Certificates of Deposit (CDs),
+Investment in Security Receipts issued by Asset Reconstruction Companies, Asset Backed Securities (ABS), Mortgage Backed Securities (MBS),
+Investment in debt mutual funds where entire corpus is invested in debt securities,
+Investments in NCDs, and
+Dealing in Credit Default Swaps.
+(5) SPDs are permitted to undertake the following non-core activities:
+(i) Activities which are expected to consume capital such as:
+Investment/ trading in equity and equity derivatives market,
+Investment in units of equity oriented mutual funds,
+Underwriting public issues of equity,
+-
+Participation in Currency Futures Market
+, and
+offer
+foreign exchange market-making facilities to users, as currently permitted to Category-I Authorized Dealers.
+(ii) Services which may not require significant capital outlay such as:
+Professional Clearing Services,
+Portfolio Management Services,
+Issue Management Services,
+Merger & Acquisition Advisory Services,
+Private Equity Management Services,
+Project Appraisal Services,
+Loan Syndication Services,
+Debt restructuring services,
+Consultancy Services,
+Distribution of mutual fund units, and
+Distribution of insurance products.
+(iii) For distribution of insurance products, SPDs are advised to make an application along with necessary particulars duly certified by their statutory auditors to the Regional Office of Department of Supervision under whose jurisdiction the registered office of the SPD is situated. SPDs may take up insurance agency business on fee basis and without risk participation, without the approval of the Bank subject to the certain eligibility conditions. The Detailed Guidelines are as provided for in
+Annex V
+.
+(iv) SPDs registered with the Bank are allowed to distribute mutual fund products subject to compliance with the SEBI guidelines/ regulations, including its code of conduct, for distribution of mutual fund products. The detailed guidelines are as provided in
+Annex VI
+.
+(v) Specific approvals of other regulators, if needed, shall be obtained for undertaking the activities detailed above.
+(vi) SPDs are
+not
+allowed to undertake broking in equity, trading / broking in commodities
+and
+gold.
+(vii) The exposure to non-core activities shall be subject to the regulatory and prudential norms for diversification of activities by SPD as provided for in the Directions.
+(viii) SPDs choosing to diversify into non-core business segments shall define internally the scope of diversification, organization structure and reporting levels for those segments. They shall clearly lay down exposure and risk limits for those segments in their Board approved investment policy.
+(6) The exposure to core and non-core activities of SPD shall be subject to risk capital allocation (credit risk and market risk) as prescribed in
+Chapter IV
+of these Directions.
+Chapter VI
+Prudential Regulations
+12A. Accounting Standards
+SPDs, that are required to implement Indian Accounting Standards (Ind AS) as per the Companies (Indian Accounting Standards) Rules, 2015 shall prepare their financial statements in accordance with Ind AS notified by the Government of India and shall comply with the regulatory guidance prescribed vide the
+circular DOR (NBFC).CC.PD No.109/22.10.106/2019-20 dated March 13, 2020
+and
+circular DOR (NBFC).CC.PD.No.116/22.10.106/2020-21 dated July 24, 2020
+on Implementation of Ind AS as amended from time to time. Other SPDs shall comply with the requirements of notified Accounting Standards (AS) insofar as they are not inconsistent with any of these directions.
+13. Accounting Standards for securities transactions
+(1) All securities in trading portfolio shall be marked to market, at appropriate intervals.
+(2) Costs such as brokerage fees, commission or taxes incurred at the time of acquisition of securities, are of revenue/deferred nature. The broken period interest received/paid also gets adjusted at the time of coupon payment. SPDs have to ensure that the accounting method as per applicable accounting standards shall be true and fair and shall not result in overstating the profits or assets value. It shall be followed consistently and be generally acceptable especially to the tax authorities.
+(3) Broken period interest paid to seller as part of cost on acquisition of Government and other securities shall not be capitalized but treated as an item of expenditure under Profit and Loss Account. The SPDs may maintain separate adjustment accounts for the broken period interest.
+(4) The valuation of the securities portfolio shall be independent of the dealing and operations functions and shall be done by obtaining the prices declared by FIMMDA/FBIL periodically.
+(5) SPDs shall publish their audited annual results in leading financial dailies and on their website in the format prescribed (Annex VII). The following minimum information shall be included by way of notes on accounts to the Balance Sheet:
+Net borrowings in call (average and peak during the period),
+Basis of valuation,
+Leverage Ratio (average and peak),
+CRAR (quarterly figures), and
+Details of the issuer composition of non-G-Sec investments.
+SPDs may also furnish more information by way of additional disclosures.
+14. Exposure Norms
+(1) The extant exposure norms for SPDs are as follows:
+The exposure shall not exceed 25 percent of Net Owned Funds (NOF) as per last audited accounts in case of a single borrower/counterparty and 40 percent of NOF in case of a group borrower/counterparty except for investments in AAA rated corporate bonds wherein exposure shall not exceed 50 percent of Net Owned Funds (NOF) as per last audited accounts in case of a single borrower/counterparty and 65 percent of NOF in case of a group borrower/counterparty.
+The ceilings on single/group exposure limit shall not be applicable where principal and interest are fully guaranteed by the Government of India.
+SPDs shall include credit risk exposures to all other categories of non-Government securities including investments in mutual funds, commercial papers, certificate of deposits, positions in OTC derivatives not settled through Qualifying CCP (QCCP) etc. to compute extent of credit exposure to adhere to the prescribed prudential limits.
+Clearing exposure to a QCCP shall be kept outside of the exposure ceiling of 25 per cent of its NOF applicable to a single counter party.
+Clearing exposure to QCCP shall include trade exposure and default fund exposure as defined in the guidelines on capital requirements for SPDs’ exposure to central counterparties issued vide
+Circular IDMD.PCD.11/14.03.05/2013-14 dated March 27, 2014
+and as amended from time to time.
+Other permissible exposures to QCCPs such as investments in the capital of CCP etc. shall continue to be within the existing exposure ceiling of 25 percent of NOF to a single borrower/counterparty. However, all exposures of SPD to a non-QCCP shall be within the exposure ceiling of 25 percent.
+Presently, there are four CCPs viz. Clearing Corporation of India Ltd. (CCIL), National Securities Clearing Corporation Ltd. (NSCCL), Indian Clearing Corporation Ltd. (ICCL), and MCX-SX Clearing Corporation Ltd. (MCX-SXCCL) that are subjected, on an ongoing basis, to rules and regulations that are consistent with CPSS-IOSCO Principles for Financial Market Infrastructures. While the CCIL has been granted the status of a QCCP by the Bank, the other three CCPs have been granted the status of QCCP by SEBI.
+(1A)
+9
+Sensitive Sector Exposure (SSE)
+Exposure to capital market (direct and indirect) and commercial real estate
+10
+shall be reckoned as sensitive exposure for SPDs. SPDs shall fix Board-approved internal limits for SSE separately for capital market and commercial real estate exposures. Dynamic vulnerability assessments of various sectors and their likely impact on business, as evaluated periodically, should help SPDs determine such internal exposure limits.
+(2) SPDs shall calculate exposure for various items as per the Directions contained in
+Chapter IV
+of these Directions.
+Section – III
+Governance Issues
+Chapter VII
+Corporate Governance
+14A.
+11
+Experience of the Board
+Considering the need for professional experience in managing the affairs of the SPDs, at least one of the directors shall have relevant experience of having worked in a bank/ NBFC.
+15. Constitution of Committees of the Board
+(1) Audit Committee
+(i) SPDs shall constitute an Audit Committee, consisting of not less than three members of its Board of Directors.
+Explanation I:
+If the SPD is required to constitute Audit Committee under section 177 of the Companies Act, 2013 the Audit Committee so constituted by it shall be treated as the Audit Committee for the purpose of this paragraph.
+Explanation II:
+The Audit Committee constituted under this paragraph shall have the same powers, functions and duties as laid down in Section 177 of the Companies Act, 2013.
+(ii) The Audit Committee must ensure that an Information System Audit of the internal systems and processes is conducted at least once in two years to assess operational risks faced by the SPDs.
+(2) Nomination and Remuneration Committee
+SPDs shall form a Nomination and Remuneration Committee (NRC) which shall have the constitution, powers, functions and duties as laid down in section 178 of the Companies Act, 2013.
+Explanation I:
+If the SPD is required to constitute NRC under section 178 of the Companies Act, 2013, the NRC so constituted by it shall be treated as the NRC for the purpose of this paragraph.
+(3) Risk Management Committee
+12
+In order that the Board is able to focus on risk management, SPDs shall constitute a Risk Management Committee (RMC) either at the Board or executive level. The RMC shall be responsible for evaluating the overall risks faced by the SPDs including liquidity risk and shall report to the Board.
+16. Fit and Proper Criteria
+(1) SPDs shall
+ensure that a policy is put in place with the approval of the Board of Directors for ascertaining the fit and proper criteria of the directors at the time of appointment, and on a continuing basis. The policy on the fit and proper criteria shall be on the lines of the Guidelines contained in
+Annex VIII
+;
+obtain a declaration and undertaking from the directors giving additional information on the directors. The declaration and undertaking shall be on the lines of the format given in Annex IX;
+obtain a Deed of Covenant signed by the directors, which shall be in the format as given in Annex X;
+furnish to the Bank a quarterly statement on change of directors, and a certificate from the Managing Director of the SPD that fit and proper criteria in selection of the directors has been followed. The statement must reach the Regional Office of the Department of Supervision of the Bank where the company is registered, within 15 days of the close of the respective quarter. The statement submitted by SPD for the quarter ending March 31, shall be certified by the auditors.
+Provided that the Bank, if it deems fit and in public interest, reserves the right to examine the fit and proper criteria of directors of any SPD.
+16A.
+13
+Key Managerial Personnel
+14
+Except for directorship in a subsidiary, Key Managerial Personnel of the SPDs shall not hold any office (including directorships) in any other NBFC-ML or NBFC-UL. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. It is clarified that they can assume directorship in NBFC-BL.
+16B.
+15
+Independent Director
+Within the permissible limits in terms of Companies Act, 2013 an independent director shall not be on the Board of more than three NBFCs (NBFC-ML or NBFC-UL) at the same time. Further, the Board of the SPD shall ensure that there is no conflict arising out of their independent directors being on the Board of another NBFC at the same time. A timeline of two years is provided with effect from October 01, 2022 to ensure compliance with these norms. There shall be no restriction to directorship on the Boards of NBFCs-BL, subject to provisions of Companies Act, 2013.
+16C.
+16
+Guidelines on Compensation of Key Managerial Personnel (KMP) and Senior Management
+17
+in SPDs
+(1) In order to address issues arising out of excessive risk taking caused by misaligned compensation packages, SPDs are required to put in place a Board approved compensation policy. The policy shall at the minimum include
+constitution of a Remuneration Committee,
+principles for fixed/variable pay structures, and
+malus/ clawback provisions.
+The Board of SPDs shall delineate the role of various committee, including Nomination and Remuneration Committee (NRC). Further, SPDs shall comply with the guidelines furnished in
+Annex X-A
+of these Directions.
+(2) The guidelines are intended only for providing broad guidance to SPDs and their NRCs in formulating their compensation policy. While formulating the compensation policy, it has to be ensured that all statutory mandates and the rules and directions issued under them are fully complied with.
+(3) These guidelines shall be for fixing the compensation policy of Key Managerial Personnel and members of senior management of SPDs.
+17. Disclosure and transparency
+(1) SPDs shall put up to the Board of Directors, at regular intervals, as may be prescribed by the Board in this regard, the following:
+the progress made in putting in place a progressive risk management system and risk management policy and strategy followed by the SPD;
+conformity with corporate governance standards viz., in composition of various committees, their role and functions, periodicity of the meetings and compliance with coverage and review functions, etc.
+(2) SPDs shall also disclose the following in their Annual Financial Statements:
+registration/ licence/ authorisation, by whatever name called, obtained from other financial sector regulators;
+ratings assigned by credit rating agencies and migration of ratings during the year;
+penalties, if any, levied by any regulator;
+information namely, area, country of operation and joint venture partners with regard to Joint ventures and overseas subsidiaries and
+Asset-Liability profile, extent of financing of parent company products, NPAs and movement of NPAs, details of all off-balance sheet exposures, structured products issued by them as also securitization/ assignment transactions and other disclosures, as given in Annex XI.
+(3) In respect of penalty levied by the Bank, a Press Release will be issued by the Bank, giving details of the circumstances under which the penalty is imposed on the SPD along with the communication on the imposition of penalty in public domain.
+18. Appointment of Statutory Central Auditors/Statutory Auditors
+SPDs shall adhere to the instructions contained in circular titled
+'Guidelines for Appointment of Statutory Central Auditors (SCAs)/ Statutory Auditors (SAs) of Commercial Banks (excluding RRBs), UCBs and NBFCs (including SPDs)' dated April 27, 2021
+, as amended from time to time.
+19. Framing of Internal Guidelines
+SPDs shall frame their internal guidelines on corporate governance with the approval of the Board of Directors, enhancing the scope of the guidelines without sacrificing the spirit underlying the above guidelines and it shall be published on the company's web-site, if any, for the information of various stakeholders.
+Section IV
+Miscellaneous Issues
+Chapter - VIII
+Miscellaneous Instructions
+20. Change in shareholding pattern
+Any change in the shareholding pattern / capital structure of a SPD shall need prior approval of the Bank. SPDs shall report any other material changes such as business profile, organization, etc. affecting the conditions of licensing as SPD to the Bank immediately. SPDs shall also ensure compliance to the instructions as specified in the paragraph 5A of these directions.
+21. Norms for Ready Forward transactions
+SPDs are permitted to participate in ready forward (Repo) market both as lenders and borrowers in corporate debt securities and Government securities subject to directions issued by FMRD and IDMD vide
+circulars FMRD.DIRD.03/14.03.002/2014-15 dated February 3, 2015
+,
+FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016
+and
+IDMD.PDRS.05/10.02.01/2003-04 dated March 29, 2004
+, respectively, as amended from time to time. Further, such SPDs participating in repo transactions shall comply with guidelines on uniform accounting for repo/ reverse repo transactions issued by IDMD vide
+circular IDMD/4135/11.08.43/2009-10 dated March 23, 2010
+and
+FMRD.DIRD.10/14.03.002/2015-16 dated May 19, 2016
+, as amended from time to time.
+(2) An SPD shall not enter into a repo in Corporate Debt Securities with its own constituent or facilitate a repo between two of its constituents
+(2) Listed companies can enter into repo transactions subject to the following condition:
+Where the listed company is a 'buyer' of securities in the first leg of the repo contract (i.e. lender of funds), the custodian through which the repo transaction is settled should block these securities in the gilt account and ensure that these securities are not further sold or re-repoed during the repo period but are held for delivery under the second leg.
+22. Portfolio Management Services by SPDs
+(1) SPDs may offer Portfolio Management Services (PMS) to their clients under the SEBI scheme of PMS, subject to the following conditions:
+Before undertaking PMS, the SPD must have obtained the Certificate of Registration as Portfolio Manager from the SEBI and also a specific approval from the Bank.
+PMS cannot be offered to any RBI regulated entity. However, advisory services can be provided to them with suitable disclaimers.
+Where applicable, the clients regulated by any other authority should obtain clearance from the regulatory or any other authority before entering into any PMS arrangement with the SPD.
+SPDs are required to comply with the SEBI (Portfolio Managers) Regulations, 1993 and any amendments issued thereto or instructions issued there under.
+(2) SPDs shall adhere to the under noted conditions:
+A clear mandate from the PMS clients shall be obtained and the same shall be strictly followed. In particular, there should be full understanding on risk disclosures, loss potential and the costs (fees and commissions) involved.
+PMS shall be entirely at the customer's risk without guaranteeing, either directly or indirectly, any return.
+Funds/securities, each time they are placed with the SPD for portfolio management, shall not be accepted for a period less than one year.
+Portfolio funds shall not be deployed for lending in call/notice/term money/Bills rediscounting markets, badla financing or lending to/placement with corporate/non-corporate bodies.
+Client-wise accounts/records of funds accepted for management and investments made there against shall be maintained and the clients shall be entitled to get statements of account at frequent intervals.
+Investments and funds belonging to PMS clients shall be kept segregated and distinct from each other and from those of the SPD. As far as possible, all client transactions shall be executed in the market and not off-set internally, either with the SPD or any other client. All transactions between the SPD and any PMS client or between two PMS clients shall be strictly at market rates.
+23. Guidelines on Interest Rate Derivatives
+(1) SPDs shall adhere to the guidelines applicable to interest rate derivatives as laid down in
+circular DBOD.No.BP.BC.86/21.04.157/2006-07 dated April 20, 2007
+and Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 05, 2013, as amended from time to time. SPDs are allowed to deal in Interest Rate Futures (IRFs) for both hedging and trading on own account and not on client’s account, as given in the
+circular IDMD.PDRD.No.1056/03.64.00/2009-10 dated September 1, 2009
+and as amended from time to time.
+(2) As per
+RBI circular IDMD/11.08.15/809/2007-08 dated August 23, 2007
+, SPDs shall report all their IRS/FRA trades, except with clients, on the CCIL reporting platform within 30 minutes from the deal time. Further, as per
+circular FMD.MSRG.No.94/02.05.002/2013-14 dated December 4, 2013
+, all transaction with clients in INR FRA/IRS shall be reported before 12 noon of the following business day.
+24. Guidelines on Credit Default Swaps
+SPDs shall adhere to the guidelines laid down in
+circular IDMD.PCD.No.10 /14.03.04/2012-13 dated January 07, 2013
+as applicable to Credit Default Swaps. SPDs intending to act as market makers in CDS shall fulfil the following criteria:
+Minimum Net Owned Funds of ₹500 crore
+Minimum CRAR of 15 percent
+Have robust risk management systems in place to deal with various risks
+The regulatory approval to SPDs to act as market makers in the CDS market would be accorded by the Chief General Manager, Internal Debt Management Department, Central office, RBI, Mumbai on a case by case basis, on application for the same.
+25. Guidelines on investments in non-G-Sec
+(1) SPDs shall adhere to guidelines on investments in non-G-Sec (including capital gain bonds, bonds eligible for priority sector status, bonds issued by Central or State public sector undertakings with or without Government guarantees and bonds issued by banks and financial companies) generally issued by corporate, banks, FIs and State and Central Government sponsored institutions, Special Purpose Vehicles (SPVs), etc. These guidelines will, however, not be applicable to
+(i) units of equity oriented mutual fund schemes where any part of the corpus can be invested in equity,
+(ii) venture capital funds,
+(iii) CPs,
+(iv) CDs, and
+(v) investments in equity shares.
+The guidelines will apply to investments both in the primary and secondary market.
+(2) SPDs are permitted to become members of SEBI approved Stock Exchanges for the purpose of undertaking proprietary transactions in corporate bonds. While doing so, SPDs shall comply with all the regulatory norms laid down by SEBI and all the eligibility criteria/rules of stock exchanges.
+(3) In terms of instructions contained in the Master Direction – Operational Guidelines for Primary Dealers issued vide
+Master Direction IDMD.PDRD.01/03.64.00/2016-17 dated July 01, 2016
+, SPDs are allowed a sub-limit of 50 percent of NOF for investment in corporate bonds within the overall permitted average fortnightly limit of 225 per cent of NOF as at the end of March of the preceding financial year for call /notice money market borrowing.
+(4) SPDs shall not invest in non-G-Sec of original maturity of less than one year, other than NCDs, CPs and CDs, as provided for in Master Direction on Money Market Instruments: Call/Notice Money Market, Commercial Paper, Certificates of Deposit and Non-Convertible Debentures (original maturity up to one year) vide
+FMRD.Master Direction No. 2/2016-17 dated July 07, 2016
+. SPDs are permitted to invest in NCDs with original or initial maturity up to one year issued by the corporates (including NBFCs). However, their investments in such unlisted NCDs shall not exceed 10 per cent of the size of their non-G-Sec portfolio on an on-going basis. While investing in such instruments, SPDs shall be guided by the extant prudential guidelines in force and instructions contained in the
+circulars IDMD.DOD.10/11.01.01(A)/2009-10 dated June 23, 2010
+,
+IDMD.PCD.No.24/ 14.03.03/2010-11 dated December 6, 2010
+and
+IDMD.PCD.08/14.03.03/2011-12 dated August 23, 2011
+as amended from time to time.
+(5) SPDs shall undertake usual due diligence in respect of investments in non-G-Sec.
+(6) SPDs shall not invest in unrated non-G-Sec.
+(7) SPDs shall abide by the requirements stipulated by SEBI in respect of corporate debt securities. Accordingly, while making fresh investments in non-Government debt securities, SPDs shall ensure that such investments are made only in listed debt securities, except to the extent indicated in (6) above.
+(8) SPD's investment in unlisted non-G-Sec shall not exceed 10% of the size of their non-G-Sec portfolio on an on-going basis. The ceiling of 10% shall be inclusive of investment in Security Receipts issued by Securitization Companies/Reconstruction Companies and also the investment in ABS and MBS. The unlisted non-Government debt securities in which SPDs shall invest up to the limits specified above, should comply with the disclosure requirements as prescribed by the SEBI for listed companies.
+(9) As per SEBI guidelines, all trades with the exception of the spot transactions, in a listed debt security, shall be executed only on the trading platform of a stock exchange. All entities regulated by the Reserve Bank shall report their secondary market OTC trades in Corporate Bonds and Securitized Debt Instruments within 15 minutes of the trade on any of the stock exchanges (NSE, BSE and MCX-SX). These trades may be cleared and settled through any of the clearing corporations (NSCCL, ICCL and MCX-SX CCL).
+(10) SPDs shall ensure that their investment policies are formulated after taking into account all the relevant issues specified in the guidelines on investment in non-G-Sec. They should put in place proper risk management systems for capturing and analysing the risk in respect of non-G-Sec before making investments and taking remedial measures in time. SPDs shall also put in place appropriate systems to ensure that investment in privately placed instruments is made in accordance with the systems and procedures prescribed under respective SPD’s investment policy.
+(11) Boards of the SPDs shall review the following aspects of investment in non-G-Sec at least at quarterly intervals:
+Total business (investment and divestment) during the reporting period.
+Compliance with the prudential limits as well as prudential guidelines prescribed by the Board for investment in non-G-Sec.
+Rating migration of the issuers/ issues held in the SPD’s books.
+(12) In order to help creation of a central database on private placement of debt, a copy of all offer documents shall be filed with the Credit Information Bureau (India) Ltd. (CIBIL) by the SPDs. Further, any default relating to interest/
+instalment
+in respect of any privately placed debt shall also be reported to CIBIL by the investing SPDs along with a copy of the offer document.
+25A. Investment / trading in equity and equity derivatives market
+18
+SPDs are permitted to take up trading and self-clearing membership with SEBI approved stock exchanges/ clearing corporations for undertaking proprietary transactions in equity and equity derivatives market as permitted under sub-clause (i)(a) of paragraph 12(5) of these Directions. While doing so, SPDs shall comply with all the regulatory norms laid down by SEBI and all the eligibility criteria/ rules of stock exchanges and clearing corporations.
+26. Trading of G-Sec on Stock Exchanges
+(1) With a view to encouraging wider participation of all classes of investors, including retail, in G-Sec, trading in G-Sec through a nationwide, anonymous, order driven screen based trading system on stock exchanges, in the same manner in which trading takes place in equities, has been permitted. Accordingly, trading of dated G-Sec in demat form is allowed on automated order driven system of the National Stock Exchange (NSE) of India, the Bombay Stock Exchange Ltd., Mumbai (BSE), the Over the Counter Exchange of India (OTCEI) and the MCX Stock Exchange. This trading facility is in addition to the reporting/trading facility in the NDS. Being a parallel system, the trades concluded on the exchanges will be cleared by their respective clearing corporations/clearing houses.
+(2) SPDs shall play an active role in providing liquidity to the G-Sec market and promote retailing. They shall, therefore, make full use of the facility to distribute G-Sec to all categories of investors through the process of placing and picking-up orders on the exchanges. SPDs may open demat accounts with a Depository Participant (DP) of NSDL/CDSL in addition to their accounts with RBI. Value free transfer of securities between SGL/CSGL and own demat account is enabled by PDO-Mumbai subject to guidelines issued by Department of Government and Bank Accounts (DGBA), RBI.
+(3) For trading of G-Sec on Stock Exchanges the following shall be adhered to by SPDs:
+SPDs shall take specific approval from their Board to enable them to trade in the Stock Exchanges.
+SPDs shall undertake transactions only on the basis of giving and taking delivery of securities.
+Brokers/trading members shall not be involved in the settlement process. All trades shall be settled either directly with clearing corporation/clearing house (in case they are clearing members) or else through clearing member custodians.
+The trades done through any single broker shall also be subject to the current regulations on transactions done through brokers.
+A standardized settlement on T+1 basis of all outright secondary market transactions in G-Sec has been adopted to provide the participants more processing time for transactions and to help in better funds as well as risk management.
+In the case of repo transactions in G-Sec, however, market participants will have the choice of settling the first leg on either T+0 basis or T+1 basis, as per their requirements.
+Any settlement failure on account of non-delivery of securities/ non-availability of clear funds will be treated as SGL bouncing and the current penalties in respect of SGL transactions will be applicable. Stock Exchanges will report such failures to the respective PDOs.
+SPDs who are trading members of the Stock Exchanges may have to put up margins on behalf of their non-institutional client trades. Such margins are required to be collected from the respective clients. SPDs shall not pay up margins on behalf of their client trades and incur overnight credit exposure to their clients. In so far as the intraday exposures on clients for margins are concerned, the SPDs shall be conscious of the underlying risks in such exposures.
+SPDs who intend to offer clearing /custodial services shall take specific approval from SEBI in this regard. Similarly, SPDs who intend to take trading membership of the Stock Exchanges shall satisfy the criteria laid down by SEBI and the Stock Exchanges.
+27. Participation of SPDs in Currency Futures Market
+SPDs are permitted to deal in currency futures contracts traded on recognized exchanges subject to the following conditions:
+(1) Eligibility:
+i. Exposure to currency futures shall be treated as a non-core activity for SPDs and only SPDs having a minimum Net Owned Fund of ₹250 crore or any amount as prescribed for undertaking diversified activity shall be allowed to participate in currency futures.
+ii. As prescribed in the Directions on capital requirements, the capital charge for market risk for the non-core activities (including currency futures) which are expected to consume capital shall not be more than 20 percent of the NOF as per last audited balance sheet
+(i.e., limit as specified in paragraph 10 of these Directions).
+iii. SPDs shall be guided by the instructions specified in
+Master Direction - Risk Management and Inter-Bank Dealings dated July 05, 2016
+(as amended from time to time), to the extent applicable to SPDs.
+(2) Membership:
+SPDs are permitted to participate in the currency futures market either as clients or direct trading / clearing members of the currency derivatives segment of the Stock Exchanges recognized by SEBI.
+(3) Position limits:
+i. SPDs are permitted to take long and short positions in the currency futures market with or without having an underlying exposure subject to the position limits specified by the exchanges. However, the aggregate gross open positions across all contracts in all the stock exchanges in the respective currency pairs shall not exceed the limits as mentioned below:
+Currency Pairs
+Position Limits
+USD-INR
+Gross open position across all contracts shall not exceed 15 percent of the total open interest or USD 50 million, whichever is higher.
+EUR-INR
+Gross open position across all contracts shall not exceed 15 percent of the total open interest or EUR 25 million, whichever is higher.
+GBP-INR
+Gross open position across all contracts shall not exceed 15 percent of the total open interest or GBP 25 million, whichever is higher.
+JPY-INR
+Gross open position across all contracts shall not exceed 15 percent of the total open interest or JPY 1000 million, whichever is higher.
+(4) Risk Management:
+i. SPDs shall lay down detailed guidelines on risk management including exposure, risk limits and reporting requirements with Board's approval for conduct of this activity and management of risks.
+ii. SPDs shall put in place appropriate system to ensure strict adherence to the above prescribed position limits.
+iii. SPDs shall maintain adequate infrastructure in terms of systems and manpower for participation in currency futures.
+(5) General:
+i. For capital adequacy purpose, SPDs shall adhere to the guidelines given in Annex II and III to these Directions and other instructions prescribed in these Directions for providing capital charge for various risks arising from outstanding contracts. Since currency futures contracts would be subject to CCP clearing of the authorised stock exchanges, capital charge for credit risk shall be calculated as per methodology prescribed for calculation of capital charge for exposure towards CCP in paragraph 5 of
+Annex II
+of these Directions. The Credit Conversion Factor to be used for exchange rate contracts shall be as per paragraph 6 of Annex II of these Directions. Further, as prescribed in the existing capital adequacy guidelines, the capital charge for market risk in foreign exchange shall be worked out by the standardised approach and the internal risk management framework-based Value at Risk (VaR) model, and the capital charge for market risk shall be higher of the two requirements. Under the standardised approach, SPDs shall calculate the capital charge for market risk in foreign exchange exposures as per instructions contained in paragraph A3 of Annex III. The capital charge for market risk shall be over and above the capital charge for credit risk, maintained as per instructions in these Directions.
+ii. In case of failure to meet the obligations of Primary Dealership business in the Government securities market or any other violations leading to supervisory concern, the Bank reserves the right to impose restrictions or withdraw permission to deal in currency futures contracts.
+28. Foreign exchange business
+(1)
+SPDs are permitted
+to offer all foreign exchange market-making facilities to users, as currently permitted to Category-I Authorized Dealers, subject to adherence to the following prudential and other regulations/ guidelines applicable to them.
+Such activities shall be part of their non-core activities. The SPDs shall adhere to the following prudential regulations:
+SPDs, while calculating the total risk weighted assets, shall include the forex exposures for maintenance of minimum Capital to Risk-Weighted Assets Ratio (CRAR) of 15 percent on an ongoing basis.
+The capital charge for credit risk shall be arrived as per the instructions contained in Annex II of these Directions.
+As prescribed in the existing capital adequacy guidelines, the capital charge for market risk in foreign exchange exposures shall be higher of the charges worked out by the standardised approach and the internal risk management framework-based Value at Risk (VaR) model. Further, under the standardised approach, SPDs shall maintain the capital charge for market risk in foreign exchange exposures as per instructions contained in paragraph A3 of Annex III of these Directions. The capital charge for market risk shall be over and above the capital charge for credit risk, maintained as per instructions in these Directions.
+In addition to the foreign exchange exposure limits prescribed under
+Master Direction – Risk Management & Inter-Bank Dealings dated July 05, 2016
+(as amended from time to time), the capital charge for market risk for all the permissible non-core activities, including foreign exchange activities, shall not be more than 20 percent of the Net Owned Fund of the SPD as per last audited balance sheet (i.e., limit as specified in paragraph 10 of these Directions).
+(2) With effect from January 01, 2023 all financial transactions involving the Rupee undertaken globally by related entities of the SPDs shall be reported to CCIL’s Trade Repository before 12:00 noon of the business day following the date of transaction.
+(3)
+SPDs desirous of
+undertaking foreign exchange market-making facilities may
+approach the Reserve Bank of India, Foreign Exchange Department, Central Office, Mumbai for the necessary
+authorization.
+(4)
+While offering
+foreign exchange market-making facilities to users,
+SPDs shall comply with the provisions of the Foreign Exchange Management Act 1999, and all rules, regulations and directions issued thereunder;
+and also, the following directions, to the extent applicable, in respect of foreign exchange products allowed to them:
+Master Direction on Risk Management and Inter-Bank Dealings (
+RBI/FMRD/2016-17/31 dated July 5, 2016
+), as amended from time to time.
+Master Direction – Reserve Bank of India (Market-makers in OTC Derivatives) Directions, 2021 (
+FMRD.FMD.07/02.03.247/2021-22 dated September 16, 2021
+), as amended from time to time, and
+Guidelines for Internal Control over Foreign Exchange Business (
+FE.CO.FMD.No.18380/02.03.137/2010-11 dated February 3, 2011
+), as amended from time to time.
+(5) SPDs shall frame a Board approved policy to undertake and monitor the foreign exchange business.
+(6) It may be noted that in case of failure of SPDs to meet the obligations of Primary Dealership (PD) business in the Government securities market or any other violations on regulations on conducting the PD business, the Reserve Bank reserves the right to impose restrictions or withdraw permission to undertake the foreign exchange business.
+29. Business through brokers
+(1) Business through brokers and limits for approved brokers
+SPDs may undertake securities transactions among themselves or with clients through the members of the BSE, NSE and OTCEI. However, if the SPDs undertake OTC interest rate derivative transactions through brokers, they shall ensure that these brokers are accredited by FIMMDA. SPDs shall fix aggregate contract limits for each of the approved brokers. A limit of 5 percent of total broker transactions (both purchase and sales) entered into by SPD during a year shall be treated as the aggregate upper limit for each of the approved brokers. However, if for any reason it becomes necessary to exceed the aggregate limit for any broker, the specific reasons thereof shall be recorded and the Board shall be informed of this, post facto.
+(2) With the approval of their top management, SPDs shall prepare a panel of approved brokers, which shall be reviewed annually or more often if so warranted. Clear-cut criteria shall be laid down for empanelment of brokers, including verification of their creditworthiness, market reputation, etc. A record of broker-wise details of deals put through and brokerage paid, shall be maintained.
+(3) Brokerage payable to the broker, if any (if the deal was put through with the help of a broker), shall be clearly indicated on the notes/memorandum put up seeking approval for putting through the transaction, and a separate account of brokerage paid, broker-wise, shall be maintained.
+(4) The role of the broker shall be restricted to that of bringing the two parties to the deal together. Settlement of deals between SPDs and counterparties shall be directly between the counterparties and the broker will have no role in the settlement process.
+(5) While negotiating the deal, the broker is not obliged to disclose the identity of the counterparty to the deal. On conclusion of the deal, he should disclose the counterparty and his contract note should clearly indicate the name of the counterparty.
+30. Guidelines on declaration of dividend
+19
+SPDs shall comply with the following guidelines to declare dividends.
+(1) The Board of Directors, while considering the proposals for dividend, shall take into account each of the following aspects:
+Supervisory findings of the Reserve Bank on divergence in classification and provisioning for Non-Performing Assets (NPAs).
+Qualifications in the Auditors Report to the financial statements.
+Long term growth plans of the SPD.
+(2) SPDs that meet the following minimum prudential requirements shall be eligible to declare dividend:
+SPDs should have maintained a minimum CRAR of 20 percent for the financial year (each of the four quarters) for which dividend is proposed.
+The net NPA ratio shall be less than six percent in each of the last three years, including as at the close of the financial year for which dividend is proposed to be declared.
+SPDs shall comply with the provisions of Section 45 IC of the Reserve Bank of India Act, 1934.
+SPDs shall be compliant with the prevailing regulations/ guidelines issued by the Reserve Bank. The Reserve Bank shall not have placed any explicit restrictions on declaration of dividend.
+(3) SPDs that meet the eligibility criteria specified in paragraph 30(2) above can declare dividend up to a dividend payout ratio of 60 percent.
+(4) SPDs having CRAR below the regulatory minimum of 15 percent in any of the four quarters of the financial year for which dividend is proposed shall not declare any dividend. For SPDs having CRAR at or above the regulatory minimum of 15 percent during all the four quarters of the financial year for which dividend is being considered, but lower than 20 percent in any of the four quarters, the dividend payout ratio shall not exceed 33.3 percent.
+(5) The Board shall ensure that the total dividend proposed for the financial year does not exceed the ceilings specified in these guidelines. The Reserve Bank shall not entertain any request for ad-hoc dispensation on declaration of dividend.
+(6) SPDs declaring dividend shall report details of dividend declared during the financial year as per the format prescribed in Annex XIII along with a copy of the resolution of the Board recommending the dividend. The report shall be furnished within a fortnight after declaration of dividend to the Internal Debt Management Department of the Reserve Bank.
+31. Applicability of Know Your Customer (KYC) Direction, 2016
+All SPDs having customer interface shall be required to follow the Know Your Customer (KYC) Direction, 2016, issued by the Department of Regulation and as amended from time to time.
+32
+. Managing Risks and Code of Conduct in Outsourcing of Financial Services by SPDs.
+SPDs shall conduct a self-assessment of their existing outsourcing arrangements and bring these in line with the directions as provided at
+Annex XIV
+.
+33. Technical Specifications for all participants of the Account Aggregator ecosystem
+The NBFC-Account Aggregator (AA) consolidates financial information, as defined in paragraph 3.(1)ix of
+Master Direction- Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+, of a customer held with different financial entities, spread across financial sector regulators adopting different IT systems and interfaces. In order to ensure that such movement of data is secured, duly authorised, smooth and seamless, it has been decided to put in place a set of core technical specifications for the participants of the AA ecosystem. Reserve Bank Information Technology Private Limited (ReBIT), has framed these specifications and published the same on its website (
+www.rebit.org.in
+).
+SPDs acting either as Financial Information Providers
+20
+or Financial Information Users are expected to adopt the technical specifications published by ReBIT, as updated from time to time.
+Chapter IX
+Reporting Requirements
+34.
+The reporting requirements as prescribed by Internal Debt Management Department and Department on Supervision shall be adhered to by the SPDs.
+35.
+All operational guidelines issued by Internal Debt Management Department shall also be adhered to by the SPDs.
+Chapter – X
+Interpretations
+36.
+For the purpose of giving effect to the provisions of these Directions, the Bank may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the Bank shall be final and binding on all the parties concerned. Any violation/circumvention of the above guidelines would be viewed seriously and such violation would attract penal action including the withdrawal of liquidity support, denial of access to the money market, withdrawal of authorization for carrying on the business as a SPD, and/or imposition of monetary penalty or liquidated damages, as the Bank may deem fit. Further, these provisions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+Chapter - XI
+Repeal Provisions
+37.
+With the issue of these directions, the instructions / guidelines contained in the following circulars issued by the Bank stand repealed (list as provided below). All approvals / acknowledgements given under these circulars shall be deemed as given under these directions. Notwithstanding such repeal, any action taken/purported to have been taken or initiated under the instructions/guidelines having repealed shall continue to be guided by the provisions of said instructions/guidelines.
+Sr.No.
+Circular no
+Date
+Subject
+1
+IDMC.PDRS.1532/03.64.00/1999-00
+November 2, 1999
+Primary Dealers – Leverage
+2
+IDMC.PDRS.2049A/03.64.00/1999-2000
+December 31,1999
+Guidelines on Securities transactions to be followed by Primary Dealers
+3
+IDMC.PDRS.5122/03.64.00/1999-00
+June 14, 2000
+Guidelines on Securities Transactions by Primary dealers
+4
+IDMC.PDRS.4135/03.64.00/2000-01
+April 19, 2001
+Scheme for Bidding, Underwriting and Liquidity support to Primary Dealers
+5
+IDMC.PDRS.87/03.64.00/2001-02
+July 5, 2001
+Liquidity support to Primary Dealers
+6
+IDMC.PDRS.1382/03.64.00/2000-01
+September 18, 2001
+Dematerialised holding of bonds and debentures
+7
+IDMC.PDRS.3369/03.64.00/2001-02
+January 17, 2002
+Guidelines on Counter party limits and Inter-corporate deposits
+8
+IDMC.PDRS.4881/03.64.00/2001-02
+May 8, 2002
+Guidelines to Primary Dealers
+9
+IDMC.PDRS.5018/03.64.00/2001-02
+May 17, 2002
+Scheme for Bidding, Underwriting and liquidity support to Primary dealers
+10
+IDMC.PDRS.5039/03.64.00/2001-02
+May 20, 2002
+Transactions in Government securities
+11
+IDMC.PDRS.5323/03.64.00/2001-02
+June 10, 2002
+Transactions in Government securities
+12
+IDMC.PDRS.418/03.64.00/2002-03
+July 26, 2002
+Publication of Financial results
+13
+IDMC.PDRS.1724/03.64.00/2002-03
+October 23, 2002
+Underwriting of Government dated securities by Primary Dealers
+14
+IDMC.PDRS.2269/03.64.00/2002-03
+November 28, 2002
+Publication of Financial results
+15
+IDMC.PDRS.2896/03.64.00/2002-03
+January 14, 2003
+Trading in Government securities on Stock Exchanges
+16
+IDMC.PDRS.3432/03.64.00/2002-03
+February 21, 2003
+Ready Forward Contracts
+17
+IDMC.PDRS.3820/03.64.00/2002-03
+March 24, 2003
+Availment of FCNR(B) loans by Primary Dealers
+18
+IDMC.PDRS.1/03.64.00/2002-03
+April 10, 2003
+Portfolio Management Services by Primary Dealers – Guidelines
+19
+IDMC.PDRS.4802/03.64.00/2002-03
+June 3, 2003
+Guidelines on Exchange Traded Interest Rate Derivatives
+20
+IDMC.PDRS.122/03.64.00/2002-03
+September 22, 2003
+Rationalisation of returns submitted by Primary Dealers
+21
+IDMD.1/(PDRS)03.64.00/2003-04
+January 07, 2004
+Capital Adequacy Standards and Risk Management Guidelines for Primary Dealers
+22
+IDMD.PDRS.No.3/03.64.00/2003-04
+March 08, 2004
+Prudential guidelines on investment in non-Government securities
+23
+IDMD.PDRS.05/10.02.01/2003-04
+March 29, 2004
+Transactions in Government Securities
+24
+IDMD.PDRS.06/03.64.00/2003-04
+June 03, 2004
+Declaration of dividend by Primary Dealers
+25
+IDMD.PDRS.01/10.02.01/2004-05
+July 23, 2004
+Transactions in Government securities
+26
+IDMD.PDRS.02/03.64.00/2004-05
+July 23, 2004
+Success Ratio in Treasury Bill auctions for Primary Dealers
+27
+IDMD.PDRS.No.03/10.02.16/2004-05
+August 24, 2004
+Dematerialization of Primary Dealer’s investment in equity
+28
+IDMD.PDRS.No.06/03.64.00/2004-05
+October 15, 2004
+Capital Adequacy Standards – Guidelines on Issue of Subordinated Debt Instruments – Tier- II and Tier-III Capital
+29
+IDMD.PDRS.4783/10.02.01/2004-05
+May 11, 2005
+Government Securities Transactions – T+1 settlement
+30
+IDMD.PDRS.4779/10.02.01/2004-05
+May 11, 2005
+Ready Forward Contracts
+31
+IDMD.PDRS/4907/03.64.00/2004-05
+May 19, 2005
+Conduct of Dated Government Securities Auction under Primary Market Operations (PMO) module of PDO-NDS – Payment of Underwriting Commission
+32
+IDMD.PDRS.337/10.02.01/2005-06
+July 20, 2005
+Transactions in Government Securities
+33
+IDMD.No.766/10.26.65A/2005-06
+August 22, 2005
+NDS-OM – Counterparty Confirmation
+34
+DBOD.FSD.BC.No.64/24.92.01/2005-06
+February 27, 2006
+Guidelines for banks’ undertaking PD business
+35
+IDMD.PDRS/26/03.64.00/2006-07
+July 4, 2006
+Diversification of activities by standalone Primary Dealers-Operational Guidelines
+36
+IDMD.PDRS.No.148/03.64.00/2006-07
+July 10, 2006
+Risk reporting of derivatives business
+37
+FMD.MOAG No.13/01.01.01/2006-07
+March 30, 2007
+Liquidity Adjustment Facility – Acceptance of State Development Loans under Repos
+38
+IDMD.530/03.64.00/2007-08
+July 31, 2007
+FIMMDA Reporting Platform for Corporate Bond Transactions
+39
+DBOD.FSD.BC.No.25/24.92.001/2006-07
+August 9, 2006
+Guidelines for banks undertaking PD business
+40
+IDMD.PDRS.1431/03.64.00/2006-07
+October 5, 2006
+Operational guidelines for banks undertaking/proposing to undertake PD business
+41
+IDMD/11.08.15/809/2007-08
+August 23, 2007
+Reporting platform for OTC Interest Rate Derivatives
+42
+IDMD.PDRS.No.2382/03.64.00/2007-08
+November 14, 2007
+Revised Scheme of Underwriting Commitment and Liquidity Support
+43
+IDMD.PDRD.1393/03.64.00/2008-09
+September 19, 2008
+Settlement of Primary Auctions – Shortage of Funds
+44
+IDMD.PDRD.No.4878/03.64.00/2008-09
+April 1, 2009
+Issue of Tier-II and Tier-III Capital
+45
+IDMD.PDRD.1050/03.64.00/2009-10
+August 31, 2009
+Investment Portfolio of Primary Dealers-Relaxation in the existing norms
+46
+IDMD.PDRD.1097/03.64.00/2009-10
+September 2, 2009
+Enhancement of Minimum Net Owned Funds
+47
+IDMD.PDRD.1096/03.64.00/2009-10
+September 2, 2009
+Increase in Call/Notice Money Borrowing Limit
+48
+IDMD.PDRD.2424/03.64.00/2009-10
+December 1, 2009
+Waiver of trade confirmation in Government Securities transactions in OTC market
+49
+IDMD.PDRD.3843/03.64.00/2009-10
+March 9, 2010
+Extension of HTM Category for PDs
+50
+IDMD.PDRD.No./03.64.00/2009-10
+April 9, 2010
+Mail box clarifications - on conversion factor for off-balance sheet items
+51
+IDMD.PDRD.4537/03.64.00/2009-10
+April 12, 2010
+Quantum of Government securities to be held in the HTM category by PDs
+52
+IDMD.PDRD.5533/03.64.00/2009-10
+June 15, 2010
+Primary Dealers – Imposition of Penalties – Disclosure
+53
+IDMD.PDRD.5573/03.64.00/2009-10
+June 17, 2010
+Cash Management Bills – Bidding Commitment and Success Ratio
+54
+IDMD.PDRD.No.19/03.64.00/2010-11
+July 27, 2010
+Applicability of Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 to Primary Dealers
+55
+IDMD.PCD.No.20/14.03.05/2010-11
+October 1, 2010
+Raising resources through Inter Corporate Deposits (ICDs)
+56
+IDMD.PCD.No.1652/14.03.05/2010-11
+November 11, 2010
+Exposure Norms: Applicability of Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 to standalone Primary Dealers
+57
+IDMD.PCD.No.26/14.03.05/2010-11
+February 10, 2011
+Investment in non-Government Securities- Non-Convertible Debentures (NCDs) of maturity up to one year by standalone Primary Dealers (PDs).
+58
+IDMD.PDRD.No.3961/03.64.00/2010-11
+March 18, 2011
+FIMMDA accredited brokers for transactions in OTC Interest Rate Derivatives Market.
+59
+IDMD.PCD.No./03.64.00/2009-10
+April 5, 2011
+Mail box clarifications- Tier-III bonds issued by standalone PDs
+60
+IDMD.PCD.9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+61
+IDMD.PCD.No.5053/14.03.04/2010-11
+May 23, 2011
+Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+62
+IDMD.PCD.06/14.03.07/2011-12
+July 06, 2011
+Transactions in Government Securities-Extension of DVP III facility to Gilt Account holders
+63
+IDMD.PDRD.No.3464/06.64.00/2011-12
+March 07, 2012
+Bidding in Primary Auctions-Clarification
+64
+IDMD.PCD.08/14.03.03/2011-12
+August 23, 2011
+Issuance of Non-Convertible Debentures (NCDs) - Minimum Rating of NCDs
+65
+IDMD.PCD.9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+66
+IDMD.PCD.No.2301/14.03.04/2011‐12
+November 30, 2011
+Guidelines on Capital Adequacy and Exposure Norms for Credit Default Swaps (CDS)
+67
+IDMD.PCD.14/14.03.07/2011-12
+December 28, 2011
+Secondary market transactions in Government Securities - Short Selling
+68
+IDMD.PCD.17/14.03.01/2011-12
+December 30, 2011
+Exchange-traded Interest Rate Futures
+69
+IDMD.PCD.15/ED (RG)-2011
+December 30, 2011
+Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2011
+70
+IDMD.PCD.19/14.03.07/2011-12
+February 06, 2012
+Transactions in Government Securities
+71
+IDMD.PCD.21/14.03.07/2011-12
+June 21, 2012
+Secondary market transactions in Government Securities-Short Selling
+72
+IDMD.PCD.No.4896/14.03.05/2011-12
+June 27, 2012
+Phasing out Tier-III capital for standalone PDs
+73
+IDMD.PDRD.188/03.64.00/2012-13
+July 16, 2012
+Sale of securities allotted in Primary issues on the same day
+74
+IDMD.PCD.No.718/14.03.05/2012-13
+September 3, 2012
+Applicability of credit exposure norms for bonds guaranteed by the Government of India
+75
+IDMD.PCD.No.2223/14.03.05/2012-13
+January 30, 2013
+Measures to enhance the role of standalone Primary Dealers in Corporate Bond Market
+76
+IDMD.PCD.No.2310/14.03.05/2012-13
+February 06, 2013
+Permission to standalone PDs for membership in SEBI approved Stock Exchanges for trading in corporate bonds
+77
+IDMD.PDRD.No.3089/03.64.027/2012-13
+May 08, 2013
+Submission of Undertaking: Renewal of Authorisation
+78
+IDMD.PCD.13/14.03.07/2012-13
+June 26, 2013
+Guidelines on Securities Transactions to be followed by Primary Dealers
+79
+IDMD.PDRD.No.346/10.02.23/2013-14
+July 31, 2013
+Revised PD returns for Primary Dealers
+80
+IDMD.PDRD.No.828/03.64.00/2013-14
+September 10, 2013
+Increase in HTTM limits for Standalone PDs
+81
+IDMD.PCD.12/14.03.05/2013-14
+March 27, 2014
+Exposure norms for standalone PDs
+82
+IDMD.PCD.11/14.03.05/2013-14
+March 27, 2014
+Capital requirements for standalone Primary Dealers’ exposure to interest rate derivative contracts, repo/reverse repo transactions and central counterparties
+83
+IDMD.PDRD.No.3404/03.64.000/2013-14
+June 5, 2014
+Annual Turnover Target on behalf of Mid-segment and Retail investors for Primary Dealers (PDs)
+84
+IDMD.PDRD.No.7/03.64.00/2014-15
+December 15, 2014
+Decrease in Held to Maturity (HTM) limits for Standalone PDs
+85
+IDMD Mailbox
+January 19, 2012
+Maintenance of Distinct PD Book
+86
+IDMD Mailbox
+February 06, 2012
+Secondary Market Transactions in Government Securities-Short Selling
+87
+IDMD Mailbox
+February 28, 2012
+Investment in Cash Management Bills by Foreign Institutional Investors
+88
+DNBR.(PD).CC.No.021/03.10.001/2014-15
+February 20, 2015
+Raising Money through Private Placement of Non-Convertible Debentures (NCDs) by NBFCs
+89
+DNBR.CO.PD.No.068/03.10.01/2015-16
+August 06, 2015
+Exposure Norms limit for the Standalone Primary Dealers (SPDs)
+90
+FMRD.FMD.No.02.03.183/7/2015-16
+March 17, 2016
+Participation of Standalone Primary Dealers in Currency Futures Market
+91
+DNBR.CO.PD.No.080/03.10.01/2015-16
+April 28, 2016
+Risk Weight in respect of investments in Corporate Bonds by Standalone Primary Dealers (SPDs)
+Annex I
+Guidelines on Subordinated Debt (SD) Bonds (Tier 2 capital)
+The amount to be raised may be decided by the Board of Directors of the SPD.
+The SPDs may fix coupon rates as decided by their Board.
+The instruments should be 'plain vanilla' with no special features like options, etc.
+The debt securities should carry a credit rating from a Credit Rating Agency registered with the Securities and Exchange Board of India (SEBI).
+The issue of SD instruments should comply with the guidelines issued by SEBI vide their circular SEBI/MRD/SE/AT/36/2003/30/09 dated September 30, 2003 (ref:
+www.sebi.gov.in/circulars
+), as amended from time to time, wherever applicable.
+In case of unlisted issues of SD, the disclosure requirements as prescribed by the SEBI for listed companies in terms of the above guidelines should be complied with.
+Necessary permission from the Foreign Exchange Department of the Bank should be obtained for issuing the instruments to Non-Resident Indians/Foreign Institutional Investors (FIIs). SPDs should comply with the terms and conditions, if any, prescribed by SEBI / other regulatory authorities with regard to issue of the instruments.
+Investments by SPDs in SD of other PDs/banks will be assigned 100% risk weight for capital adequacy purpose. Further, the SPD’s aggregate investments in Tier 2 bonds issued by other PDs, banks and financial institutions should be restricted to 10 percent of the investing SPD's total capital funds. The capital funds for this purpose will be the same as those reckoned for the purpose of capital adequacy.
+The SPDs should submit a report to the Chief General Manager, Department of Supervision (DOS), RBI, giving details of the capital raised, such as, amount raised, maturity of the instrument, rate of interest together with a copy of the offer document, soon after the issue is completed.
+Annex V
+Guidelines for Entry of NBFCs into Insurance
+1. NBFCs registered with the Bank are permitted to undertake insurance agency business on fee basis and without risk participation, without the approval of the Bank subject to the following conditions:
+(i) The NBFCs shall obtain requisite permission from IRDA and comply with the IRDA regulations for acting as ‘composite corporate agent’ with insurance companies.
+(ii) The NBFCs shall not adopt any restrictive practice of forcing its customers to go in only for a particular insurance company in respect of assets financed by the NBFC. The customers shall be allowed to exercise their own choice.
+(iii) As the participation by a NBFC's customer in insurance products is purely on a voluntary basis, it shall be stated in all publicity material distributed by the NBFC in a prominent way. There shall be no `linkage' either direct or indirect between the provision of financial services offered by the NBFC to its customers and use of the insurance products.
+(iv) The premium shall be paid by the insured directly to the insurance company without routing through the NBFC.
+(v) The risks, if any, involved in insurance agency shall not get transferred to the business of the NBFC.
+2. No NBFC would be allowed to conduct such business departmentally. A subsidiary or company in the same group of an NBFC or of another NBFC engaged in the business of a non-banking financial institution or banking business will not normally be allowed to join the insurance company on risk participation basis.
+3. All NBFCs registered with RBI which satisfy the eligibility criteria given below will be permitted to set up a joint venture company for undertaking insurance business with risk participation subject to safeguards. The maximum equity contribution such an NBFC can hold in the joint venture company will normally be 50 per cent of the paid-up capital of the insurance company. On a selective basis, the Bank may permit a higher equity contribution by a promoter NBFC initially, pending divestment of equity within the prescribed period [see Note (1) below].
+In case more than one company (irrespective of doing financial activity or not) in the same group of the NBFC wishes to take a stake in the insurance company, the contribution by all companies in the same group shall be counted for the limit of 50 percent prescribed for the NBFC in an insurance JV.
+In cases where IRDA issues calls for capital infusion into the Insurance JV company, the Bank may, on a case to case basis, consider need based relaxation of the 50% group limit as specified. The relaxation, if permitted, will be subject to compliance by the NBFC with all regulatory conditions as prescribed for in these Directions and such other conditions as may be necessary in the specific case. Application for such relaxation along with supporting documents is to be submitted by the NBFC to the Regional Office of the Bank under whose jurisdiction its registered office is situated.
+The eligibility criteria for joint venture participant will be as stated below:
+(i) The owned fund of the NBFC shall not be less than ₹500 crore,
+(ii) The level of net non-performing assets shall be not more than 5% of the total outstanding leased/hire purchase assets and advances taken together,
+(iii) The NBFC shall have net profit for the last three continuous years,
+(iv) The track record of the performance of the subsidiaries, if any, of the concerned NBFC shall be satisfactory,
+(v) Regulatory compliance and servicing public deposits, if held.
+The provisions of RBI Act shall be applicable for such investments while computing the net owned funds of the NBFC.
+4. In case where a foreign partner contributes 26 per cent of the equity with the approval of insurance Regulatory and Development Authority/Foreign Investment Promotion Board, more than one NBFC may be allowed to participate in the equity of the insurance joint venture. As such participants will also assume insurance risk, only those NBFCs which satisfy the criteria given in paragraph 2 above, would be eligible.
+5. NBFCs registered with RBI which are not eligible as joint venture participant, as above can make investments up to 10 per cent of the owned fund of the NBFC or ₹50 crore, whichever is lower, in the insurance company. Such participation shall be treated as an investment and should be without any contingent liability for the NBFC. The eligibility criteria for these NBFCs will be as under:
+(i) The level of net NPA shall be not more than 5 per cent of total outstanding leased/hire purchase assets and advances;
+(ii) The NBFC shall have net profit for the last three continuous years.
+Notes:
+(1) Holding of equity by a promoter NBFC in an insurance company or participation in any form in insurance business will be subject to compliance with any rules and regulations laid down by the IRDA/Central Government. This will include compliance with Section 6AA of the Insurance Act as amended by the IRDA Act, 1999, for divestment of equity in excess of 26 per cent of the paid-up capital within a prescribed period of time.
+(2) The eligibility criteria shall be reckoned with reference to the latest available audited balance sheet for the previous year.
+Annex VI
+Guidelines on Distribution of Mutual Fund Products by NBFCs
+1. NBFCs, which desire to distribute mutual funds, shall be required to adhere to the following stipulations:
+(i) Operational Aspects
+(a) The NBFC is required to comply with the SEBI guidelines / regulations, including its code of conduct, for distribution of mutual fund products;
+(b) the NBFC shall not adopt any restrictive practice of forcing its customers to go in for a particular mutual fund product sponsored by it. Its customers must be allowed to exercise their own choice;
+(c) the participation by the NBFCs customers in mutual fund products is purely on a voluntary basis and this information shall be stated in all publicity material distributed by it in a prominent way. There shall be no 'linkage' either direct or indirect between the provisions of financial services offered by the NBFC to its customers and distribution of the mutual fund products;
+(d) the NBFC shall only act as an agent of its customers, forwarding their applications for purchase / sale of MF units together with the payment instruments, to the Mutual Fund / the Registrars / the transfer agents. The purchase of units should be at the customers' risk and without the NBFC guaranteeing any assured return;
+(e) the NBFC shall neither acquire units of mutual funds from the secondary market for sale to its customers, nor shall it buy back units of mutual funds from its customers;
+(f) in case the NBFC is holding custody of MF units on behalf of its customers, it shall ensure that its own investments and the investments belonging to its customers are kept distinct from each other.
+(ii) Other Aspects
+(a) The NBFC shall have put in place a comprehensive Board approved policy regarding undertaking mutual funds distribution. The services relating to the same should be offered to its customers in accordance with this policy. The policy will also encompass issues of customer appropriateness and suitability as well as grievance redressal mechanism. The code of conduct prescribed by SEBI, as amended from time to time and as applicable, must be complied with by NBFCs undertaking these activities;
+(b) the NBFC shall be adhering to Know Your Customer (KYC) Guidelines and provisions of prevention of Money Laundering Act.
+2. NBFCs shall comply with other terms and conditions as the Bank may specify in this regard from time to time.
+Annex VIII
+‘Fit and Proper’ Criteria for directors of NBFCs
+Reserve Bank had issued a Directive in June 2004 to banks on undertaking due diligence on the persons before appointing them on the Boards of banks based on the ‘Report of the Consultative Group of directors of Banks / Financial Institutions’. Specific ‘fit and proper’ criteria to be fulfilled by the directors were also advised.
+2. The importance of due diligence of directors to ascertain suitability for the post by way of qualifications, technical expertise, track record, integrity, etc. needs no emphasis for any financial institution. It is proposed to follow the same guidelines mutatis mutandis in case of NBFCs also. While the Bank does carry out due diligence on directors before issuing Certificate of Registration to an NBFC, it is necessary that NBFCs put in place an internal supervisory process on a continuing basis. Further, in order to streamline and bring in uniformity in the process of due diligence, while appointing directors, NBFCs are advised to ensure that the procedures mentioned below are followed and minimum criteria fulfilled by the persons before they are appointed on the Boards:
+(a) NBFCs shall undertake a process of due diligence to determine the suitability of the person for appointment / continuing to hold appointment as a director on the Board, based upon qualification, expertise, track record, integrity and other ‘fit and proper’ criteria. NBFCs shall obtain necessary information and declaration from the proposed / existing directors for the purpose in the format given at Annex IX.
+(b) The process of due diligence shall be undertaken by the NBFCs at the time of appointment / renewal of appointment.
+(c) The boards of the NBFCs shall constitute Nomination and Remuneration Committees to scrutinize the declarations.
+(d) Based on the information provided in the signed declaration, Nomination and Remuneration Committees shall decide on the acceptance or otherwise of the directors, where considered necessary.
+(e) NBFCs shall obtain annually as on 31st March a simple declaration from the directors that the information already provided has not undergone change and where there is any change, requisite details are furnished by them forthwith.
+(f) The Board of the NBFC must ensure in public interest that the nominated/ elected directors execute the deeds of covenants in the format given in Annex X.
+Annex XIV
+Directions on Managing Risks and Code of Conduct in Outsourcing of Financial Services by SPDs
+1. Introduction
+1.1 'Outsourcing' is defined as the NBFC’s use of a third party (either an affiliated entity within a corporate group or an entity that is external to the corporate group) to perform activities on a continuing basis that would normally be undertaken by the NBFC itself, now or in the future.
+‘Continuing basis' includes agreements for a limited period.
+1.2 NBFCs have been outsourcing various activities and are hence exposed to various risks as detailed in paragraph 5.3. Further, the outsourced activities are to be brought within regulatory purview to a) protect the interest of the customers of NBFCs and b) to ensure that the NBFC concerned and the Reserve Bank of India have access to all relevant books, records and information available with service provider. Typically outsourced financial services include applications processing (loan origination, credit card), document processing, marketing and research, supervision of loans, data processing and back office related activities, besides others.
+1.3 Some key risks in outsourcing are Strategic Risk, Reputation Risk, Compliance Risk, Operational Risk, Legal Risk, Exit Strategy Risk, Counterparty Risk, Country Risk, Contractual Risk, Access Risk, Concentration and Systemic Risk. The failure of a service provider in providing a specified service, a breach in security/ confidentiality, or non-compliance with legal and regulatory requirements by the service provider can lead to financial losses or loss of reputation for the NBFC and could also lead to systemic risks.
+1.4 It is therefore imperative for the NBFC outsourcing its activities to ensure sound and responsive risk management practices for effective oversight, due diligence and management of risks arising from such outsourced activities. The directions are applicable to material outsourcing arrangements as explained in paragraph 3 which may be entered into by an NBFC with a service provider located in India or elsewhere. The service provider may either be a member of the group/ conglomerate to which the NBFC belongs, or an unrelated party.
+1.5 The underlying principles behind these directions are that the regulated entity shall ensure that outsourcing arrangements neither diminish its ability to fulfil its obligations to customers and RBI nor impede effective supervision by RBI. NBFCs, therefore, have to take steps to ensure that the service provider employs the same high standard of care in performing the services as is expected to be employed by the NBFCs, if the activities were conducted within the NBFCs and not outsourced. Accordingly, NBFCs shall not engage in outsourcing that would result in their internal control, business conduct or reputation being compromised or weakened.
+1.6 (i) These directions are concerned with managing risks in outsourcing of financial services and are not applicable to technology-related issues and activities not related to financial services, such as usage of courier, catering of staff, housekeeping and janitorial services, security of the premises, movement and archiving of records, etc. NBFCs which desire to outsource financial services would not require prior approval from RBI. However, such arrangements would be subject to on-site/ off- site monitoring and inspection/ scrutiny by RBI.
+(ii) In regard to outsourced services relating to credit cards, RBI's detailed instructions contained in its circular on credit card activities vide
+DBOD.FSD.BC.49/24.01.011/2005-06 dated November 21, 2005
+would be applicable.
+2. Activities that shall not be outsourced
+NBFCs which choose to outsource financial services shall, however, not outsource core management functions including Internal Audit, Strategic and Compliance functions and decision-making functions such as determining compliance with KYC norms for opening deposit accounts, according sanction for loans (including retail loans) and management of investment portfolio. However, for NBFCs in a group/conglomerate, these functions may be outsourced within the group subject to compliance with instructions in paragraph 6. Further, while internal audit function itself is a management process, the internal auditors can be on contract.
+3. Material Outsourcing
+For the purpose of these directions, material outsourcing arrangements are those which, if disrupted, have the potential to significantly impact the business operations, reputation, profitability or customer service. Materiality of outsourcing would be based on:
+the level of importance to the NBFC of the activity being outsourced as well as the significance of the risk posed by the same;
+the potential impact of the outsourcing on the NBFC on various parameters such as earnings, solvency, liquidity, funding capital and risk profile;
+the likely impact on the NBFC’s reputation and brand value, and ability to achieve its business objectives, strategy and plans, should the service provider fail to perform the service;
+the cost of the outsourcing as a proportion of total operating costs of the NBFC;
+the aggregate exposure to that particular service provider, in cases where the NBFC outsources various functions to the same service provider and
+the significance of activities outsourced in context of customer service and protection.
+4. NBFC's role and Regulatory and Supervisory Requirements
+4.1 The outsourcing of any activity by NBFC does not diminish its obligations, and those of its Board and senior management, who have the ultimate responsibility for the outsourced activity. NBFCs would therefore be responsible for the actions of their service provider including Direct Sales Agents/ Direct Marketing Agents and recovery agents and the confidentiality of information pertaining to the customers that is available with the service provider. NBFCs shall retain ultimate control of the outsourced activity.
+4.2 It is imperative for the NBFC, when performing its due diligence in relation to outsourcing, to consider all relevant laws, regulations, guidelines and conditions of approval, licensing or registration.
+4.3 Outsourcing arrangements shall not affect the rights of a customer against the NBFC, including the ability of the customer to obtain redress as applicable under relevant laws. In cases where the customers are required to deal with the service providers in the process of dealing with the NBFC, NBFCs shall incorporate a clause in the relative product literature/ brochures, etc., stating that they may use the services of agents in sales/ marketing etc. of the products. The role of agents may be indicated in broad terms.
+4.4 The service provider shall not impede or interfere with the ability of the NBFC to effectively oversee and manage its activities nor shall it impede the Reserve Bank of India in carrying out its supervisory functions and objectives.
+4.5 NBFCs need to have a robust grievance redress mechanism, which in no way shall be compromised on account of outsourcing.
+4.6 The service provider, if not a group company of the NBFC, shall not be owned or controlled by any director of the NBFC or their relatives; these terms have the same meaning as assigned under Companies Act, 2013.
+5. Risk Management practices for Outsourced Financial Services
+5.1 Outsourcing Policy
+An NBFC intending to outsource any of its financial activities shall put in place a comprehensive outsourcing policy, approved by its Board, which incorporates, inter alia, criteria for selection of such activities as well as service providers, delegation of authority depending on risks and materiality and systems to monitor and review the operations of these activities.
+5.2 Role of the Board and Senior Management
+5.2.1 Role of the Board
+The Board of the NBFC, or a Committee of the Board to which powers have been delegated shall be responsible
+inter alia
+for the following:
+i. approving a framework to evaluate the risks and materiality of all existing and prospective outsourcing and the policies that apply to such arrangements;
+ii. laying down appropriate approval authorities for outsourcing depending on risks and materiality;
+iii. setting up suitable administrative framework of senior management for the purpose of these directions;
+iv. undertaking regular review of outsourcing strategies and arrangements for their continued relevance, and safety and soundness and
+v. deciding on business activities of a material nature to be outsourced, and approving such arrangements.
+5.2.2 Responsibilities of the Senior Management
+i. Evaluating the risks and materiality of all existing and prospective outsourcing, based on the framework approved by the Board;
+ii. developing and implementing sound and prudent outsourcing policies and procedures commensurate with the nature, scope and complexity of the outsourcing activity;
+iii. reviewing periodically the effectiveness of policies and procedures;
+iv. communicating information pertaining to material outsourcing risks to the Board in a timely manner;
+v. ensuring that contingency plans, based on realistic and probable disruptive scenarios, are in place and tested;
+vi. ensuring that there is independent review and audit for compliance with set policies and
+vii. undertaking periodic review of outsourcing arrangements to identify new material outsourcing risks as they arise.
+5.3 Evaluation of the Risks
+The NBFCs shall evaluate and guard against the following risks in outsourcing:
+i. Strategic Risk – Where the service provider conducts business on its own behalf, inconsistent with the overall strategic goals of the NBFC.
+ii. Reputation Risk – Where the service provided is poor and customer interaction is not consistent with the overall standards expected of the NBFC.
+iii. Compliance Risk – Where privacy, consumer and prudential laws are not adequately complied with by the service provider.
+iv. Operational Risk- Arising out of technology failure, fraud, error, inadequate financial capacity to fulfil obligations and/ or to provide remedies.
+v. Legal Risk – Where the NBFC is subjected to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements due to omissions and commissions of the service provider.
+vi. Exit Strategy Risk – Where the NBFC is over-reliant on one firm, the loss of relevant skills in the NBFC itself preventing it from bringing the activity back in-house and where NBFC has entered into contracts that make speedy exits prohibitively expensive.
+vii. Counter party Risk – Where there is inappropriate underwriting or credit assessments.
+viii. Contractual Risk – Where the NBFC may not have the ability to enforce the contract.
+ix. Concentration and Systemic Risk – Where the overall industry has considerable exposure to one service provider and hence the NBFC may lack control over the service provider.
+x. Country Risk – Due to the political, social or legal climate creating added risk.
+5.4 Evaluating the Capability of the Service Provider
+5.4.1 In considering or renewing an outsourcing arrangement, appropriate due diligence shall be performed to assess the capability of the service provider to comply with obligations in the outsourcing agreement. Due diligence shall take into consideration qualitative and quantitative, financial, operational and reputational factors. NBFCs shall consider whether the service providers' systems are compatible with their own and also whether their standards of performance including in the area of customer service are acceptable to it. NBFCs shall also consider, while evaluating the capability of the service provider, issues relating to undue concentration of outsourcing arrangements with a single service provider. Where possible, the NBFC shall obtain independent reviews and market feedback on the service provider to supplement its own findings.
+5.4.2 Due diligence shall involve an evaluation of all available information about the service provider, including but not limited to the following:
+i. past experience and competence to implement and support the proposed activity over the contracted period;
+ii. financial soundness and ability to service commitments even under adverse conditions;
+iii. business reputation and culture, compliance, complaints and outstanding or potential litigation;
+iv. security and internal control, audit coverage, reporting and monitoring environment, business continuity management and
+v. ensuring due diligence by service provider of its employees.
+5.5 The Outsourcing Agreement
+The terms and conditions governing the contract between the NBFC and the service provider shall be carefully defined in written agreements and vetted by NBFC's legal counsel on their legal effect and enforceability. Every such agreement shall address the risks and risk mitigation strategies. The agreement shall be sufficiently flexible to allow the NBFC to retain an appropriate level of control over the outsourcing and the right to intervene with appropriate measures to meet legal and regulatory obligations. The agreement shall also bring out the nature of legal relationship between the parties - i.e. whether agent, principal or otherwise. Some of the key provisions of the contract shall be the following:
+i. the contract shall clearly define what activities are going to be outsourced including appropriate service and performance standards;
+ii. the NBFC must ensure it has the ability to access all books, records and information relevant to the outsourced activity available with the service provider;
+iii. the contract shall provide for continuous monitoring and assessment by the NBFC of the service provider so that any necessary corrective measure can be taken immediately;
+iv. a termination clause and minimum period to execute a termination provision, if deemed necessary, shall be included;
+v. controls to ensure customer data confidentiality and service providers' liability in case of breach of security and leakage of confidential customer related information shall be incorporated;
+vi. there must be contingency plans to ensure business continuity;
+vii. the contract shall provide for the prior approval/ consent by the NBFC of the use of subcontractors by the service provider for all or part of an outsourced activity;
+viii. it shall provide the NBFC with the right to conduct audits on the service provider whether by its internal or external auditors, or by agents appointed to act on its behalf and to obtain copies of any audit or review reports and findings made on the service provider in conjunction with the services performed for the NBFC;
+ix. outsourcing agreements shall include clauses to allow the Reserve Bank of India or persons authorised by it to access the NBFC's documents, records of transactions, and other necessary information given to, stored or processed by the service provider within a reasonable time;
+x. outsourcing agreement shall also include a clause to recognise the right of the Reserve Bank to cause an inspection to be made of a service provider of an NBFC and its books and account by one or more of its officers or employees or other persons;
+xi. the outsourcing agreement shall also provide that confidentiality of customer's information shall be maintained even after the contract expires or gets terminated and
+xii. the NBFC shall have necessary provisions to ensure that the service provider preserves documents as required by law and take suitable steps to ensure that its interests are protected in this regard even post termination of the services.
+5.6 Confidentiality and Security
+5.6.1 Public confidence and customer trust in the NBFC is a prerequisite for the stability and reputation of the NBFC. Hence the NBFC shall seek to ensure the preservation and protection of the security and confidentiality of customer information in the custody or possession of the service provider.
+5.6.2 Access to customer information by staff of the service provider shall be on 'need to know' basis i.e., limited to those areas where the information is required in order to perform the outsourced function.
+5.6.3 The NBFC shall ensure that the service provider is able to isolate and clearly identify the NBFC's customer information, documents, records and assets to protect the confidentiality of the information. In instances, where service provider acts as an outsourcing agent for multiple NBFCs, care shall be taken to build strong safeguards so that there is no comingling of information / documents, records and assets.
+5.6.4 The NBFC shall review and monitor the security practices and control processes of the service provider on a regular basis and require the service provider to disclose security breaches.
+5.6.5 The NBFC shall immediately notify RBI in the event of any breach of security and leakage of confidential customer related information. In these eventualities, the NBFC would be liable to its customers for any damages.
+5.7 Responsibilities of Direct Sales Agents (DSA)/ Direct Marketing Agents (DMA)/ Recovery Agents
+5.7.1 NBFCs shall ensure that the DSA/ DMA/ Recovery Agents are properly trained to handle their responsibilities with care and sensitivity, particularly aspects such as soliciting customers, hours of calling, privacy of customer information and conveying the correct terms and conditions of the products on offer, etc.
+5.7.2 NBFCs shall put in place a board approved Code of conduct for DSA/ DMA/ Recovery Agents, and obtain their undertaking to abide by the code. In addition, Recovery Agents shall adhere to extant instructions on Fair Practices Code for NBFCs as also their own code for collection of dues and repossession of security. It is essential that the Recovery Agents refrain from action that could damage the integrity and reputation of the NBFC and that they observe strict customer confidentiality.
+5.7.3 The NBFC and their agents shall not resort to intimidation or harassment of any kind, either verbal or physical, against any person in their debt collection efforts, including acts intended to humiliate publicly or intrude the privacy of the debtors' family members, referees and friends, making threatening and anonymous calls or making false and misleading representations.
+5.8 Business Continuity and Management of Disaster Recovery Plan
+5.8.1 An NBFC shall require its service providers to develop and establish a robust framework for documenting, maintaining and testing business continuity and recovery procedures. NBFCs need to ensure that the service provider periodically tests the Business Continuity and Recovery Plan and may also consider occasional joint testing and recovery exercises with its service provider.
+5.8.2 In order to mitigate the risk of unexpected termination of the outsourcing agreement or liquidation of the service provider, NBFCs shall retain an appropriate level of control over their outsourcing and the right to intervene with appropriate measures to continue its business operations in such cases without incurring prohibitive expenses and without any break in the operations of the NBFC and its services to the customers.
+5.8.3 In establishing a viable contingency plan, NBFCs shall consider the availability of alternative service providers or the possibility of bringing the outsourced activity back in-house in an emergency and the costs, time and resources that would be involved.
+5.8.4 Outsourcing often leads to the sharing of facilities operated by the service provider. The NBFC shall ensure that service providers are able to isolate the NBFC's information, documents and records, and other assets. This is to ensure that in appropriate situations, all documents, records of transactions and information given to the service provider, and assets of the NBFC, can be removed from the possession of the service provider in order to continue its business operations, or deleted, destroyed or rendered unusable.
+5.9 Monitoring and Control of Outsourced Activities
+5.9.1 The NBFC shall have in place a management structure to monitor and control its outsourcing activities. It shall ensure that outsourcing agreements with the service provider contain provisions to address their monitoring and control of outsourced activities.
+5.9.2 A central record of all material outsourcing that is readily accessible for review by the Board and senior management of the NBFC shall be maintained. The records shall be updated promptly and half yearly reviews shall be placed before the Board or Risk Management Committee.
+5.9.3 Regular audits by either the internal auditors or external auditors of the NBFC shall assess the adequacy of the risk management practices adopted in overseeing and managing the outsourcing arrangement, the NBFC's compliance with its risk management framework and the requirements of these directions.
+5.9.4 NBFCs shall at least on an annual basis, review the financial and operational condition of the service provider to assess its ability to continue to meet its outsourcing obligations. Such due diligence reviews, which can be based on all available information about the service provider shall highlight any deterioration or breach in performance standards, confidentiality and security, and in business continuity preparedness.
+5.9.5 In the event of termination of the outsourcing agreement for any reason in cases where the service provider deals with the customers, the same shall be publicized by displaying at a prominent place in the branch, posting it on the web-site, and informing the customers so as to ensure that the customers do not continue to deal with the service provider.
+5.9.6 Certain cases, like outsourcing of cash management, might involve reconciliation of transactions between the NBFC, the service provider and its sub-contractors. In such cases, NBFCs shall ensure that reconciliation of transactions between the NBFC and the service provider (and/ or its sub-contractor), are carried out in a timely manner. An ageing analysis of entries pending reconciliation with outsourced vendors shall be placed before the Audit Committee of the Board (ACB) and NBFCs shall make efforts to reduce the old outstanding items therein at the earliest.
+5.9.7 A robust system of internal audit of all outsourced activities shall also be put in place and monitored by the ACB of the NBFC.
+5.10 Redress of Grievances related to Outsourced Services
+i. NBFCs shall constitute Grievance Redressal Machinery as contained in RBI’s circular on Grievance Redressal Mechanism vide
+DNBS. CC. PD. No. 320/03.10. 01/2012-13 dated February 18, 2013
+. At the operational level, all NBFCs shall display the name and contact details (Telephone/ Mobile nos. as also email address) of the Grievance Redressal Officer prominently at their branches/ places where business is transacted. The designated officer shall ensure that genuine grievances of customers are redressed promptly without involving delay. It shall be clearly indicated that NBFCs' Grievance Redressal Machinery will also deal with the issue relating to services provided by the outsourced agency.
+ii. Generally, a time limit of 30 days may be given to the customers for preferring their complaints/ grievances. The grievance redressal procedure of the NBFC and the time frame fixed for responding to the complaints shall be placed on the NBFC's website.
+5.11 Reporting of transactions to FIU or other competent authorities
+NBFCs would be responsible for making Currency Transactions Reports and Suspicious Transactions Reports to FIU or any other competent authority in respect of the NBFCs' customer related activities carried out by the service providers.
+6. Outsourcing within a Group/ Conglomerate
+6.1 In a group structure, NBFCs may have back-office and service arrangements/ agreements with group entities e.g. sharing of premises, legal and other professional services, hardware and software applications, centralize back-office functions, outsourcing certain financial services to other group entities, etc. Before entering into such arrangements with group entities, NBFCs shall have a Board approved policy and also service level agreements/arrangements with their group entities, which shall also cover demarcation of sharing resources i.e. premises, personnel, etc. Moreover the customers shall be informed specifically about the company which is actually offering the product/service, wherever there are multiple group entities involved or any cross selling observed.
+6.2 While entering into such arrangements, NBFCs shall ensure that these:
+a. are appropriately documented in written agreements with details like scope of services, charges for the services and maintaining confidentiality of the customer's data;
+b. do not lead to any confusion to the customers on whose products/services they are availing by clear physical demarcation of the space where the activities of the NBFC and those of its other group entities are undertaken;
+c. do not compromise the ability to identify and manage risk of the NBFC on a stand-alone basis;
+d. do not prevent the RBI from being able to obtain information required for the supervision of the NBFC or pertaining to the group as a whole; and
+e. incorporate a clause under the written agreements that there is a clear obligation for any service provider to comply with directions given by the RBI in relation to the activities of the NBFC.
+6.3 NBFCs shall ensure that their ability to carry out their operations in a sound fashion would not be affected if premises or other services (such as IT systems, support staff) provided by the group entities become unavailable.
+6.4 If the premises of the NBFC are shared with the group entities for the purpose of cross-selling, NBFCs shall take measures to ensure that the entity's identification is distinctly visible and clear to the customers. The marketing brochure used by the group entity and verbal communication by its staff / agent in the NBFCs premises shall mention nature of arrangement of the entity with the NBFC so that the customers are clear on the seller of the product.
+6.5 NBFCs shall not publish any advertisement or enter into any agreement stating or suggesting or giving tacit impression that they are in any way responsible for the obligations of its group entities.
+6.6 The risk management practices expected to be adopted by an NBFC while outsourcing to a related party (i.e. party within the Group / Conglomerate) would be identical to those specified in paragraph 5 of this directions.
+7. Off-shore outsourcing of Financial Services
+7.1 The engagement of service providers in a foreign country exposes an NBFC to country risk -economic, social and political conditions and events in a foreign country that may adversely affect the NBFC. Such conditions and events could prevent the service provider from carrying out the terms of its agreement with the NBFC. To manage the country risk involved in such outsourcing activities, the NBFC shall take into account and closely monitor government policies and political, social, economic and legal conditions in countries where the service provider is based, both during the risk assessment process and on a continuous basis, and establish sound procedures for dealing with country risk problems. This includes having appropriate contingency and exit strategies. In principle, arrangements shall only be entered into with parties operating in jurisdictions generally upholding confidentiality clauses and agreements. The governing law of the arrangement shall also be clearly specified.
+7.2 The activities outsourced outside India shall be conducted in a manner so as not to hinder efforts to supervise or reconstruct the India activities of the NBFC in a timely manner.
+7.3 As regards the off-shore outsourcing of financial services relating to Indian Operations, NBFCs shall additionally ensure that
+a) Where the off-shore service provider is a regulated entity, the relevant off-shore regulator will neither obstruct the arrangement nor object to RBI inspection visits/ visits of NBFCs internal and external auditors.
+b) The availability of records to management and the RBI will withstand the liquidation of either the offshore custodian or the NBFC in India.
+c) The regulatory authority of the offshore location does not have access to the data relating to Indian operations of the NBFC simply on the ground that the processing is being undertaken there (not applicable if off shore processing is done in the home country of the NBFC).
+d) The jurisdiction of the courts in the off shore location where data is maintained does not extend to the operations of the NBFC in India on the strength of the fact that the data is being processed there even though the actual transactions are undertaken in India and
+e) All original records continue to be maintained in India.
+1
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+2
+Cumulative preference shares (prefs) will accumulate any dividend that is not paid when due and no dividends can be paid on ordinary shares until the entire backlog of unpaid dividends on cumulative prefs is cleared.
+3
+Vide
+circular DOR.CO.LIC.CC No.119/03.10.001/2020-21 dated February 12, 2021
+.
+4
+The Financial Action Task Force (FATF) periodically identifies jurisdictions with weak measures to combat money laundering and terrorist financing (AML/CFT) in its following publications: i) High-Risk Jurisdictions subject to a Call for Action, and ii) Jurisdictions under Increased Monitoring. A jurisdiction, whose name does not appear in the two aforementioned lists, shall be referred to as a FATF compliant jurisdiction.
+5
+Potential voting power could arise from instruments that are convertible into equity, other instruments with contingent voting rights, contractual arrangements, etc. that grant investors voting rights (including contingent voting rights) in the future. In such cases, it should be ensured that new investments from FATF non-compliant jurisdictions are less than both (i) 20 per cent of the existing voting powers and (ii) 20 per cent of existing and potential voting powers assuming those potential voting rights have materialised.
+6
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+7
+Vide
+circular DOR.FIN.REC.No.73/03.10.117/2022-23
+titled ‘Diversification of activities by SPDs – Review of permissible non-core activities – Prudential regulations and other instructions’ titled October 12, 2022.
+8
+In terms of the explanatory note to Section 45-IA of Chapter III-B of the RBI Act, 1934, NOF is calculated as (a) the aggregate of the paid-up equity capital and free reserves as disclosed in the latest balance-sheet of the company after deducting there from– (i) accumulated balance of loss; (ii) deferred revenue expenditure; and (iii) other intangible assets; and (b) further reduced by the amounts representing– (1) investments of such company in shares of– (i) its subsidiaries; (ii) companies in the same group; (iii) all other non-banking financial companies; and (2) the book value of debentures, bonds, outstanding loans and advances (including hire-purchase and lease finance) made to, and deposits with,– (i) subsidiaries of such company; and (ii) companies in the same group, to the extent such amount exceeds ten per cent of (a) above.
+9
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+10
+Sensitive Sector Exposure as enumerated in paragraph 3.6.1 and 3.6.2 of Annex XI of these Directions.
+11
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+12
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+13
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+14
+As defined in Section 2(51) of Companies Act, 2013, as amended from time to time.
+15
+Vide
+circular DOR.CRE.REC.No.60/03.10.001/2021-22 dated October 22, 2021
+.
+16
+Vide
+circular DOR.GOV.REC.No.29/18.10.002/2022-23 dated April 29, 2022
+.
+17
+As defined in 'Explanation' to Section 178 of the Companies Act, 2013.
+18
+Vide
+circular DOR.FIN.REC.No.73/03.10.117/2022-23
+titled ‘Diversification of activities by SPDs – Review of permissible non-core activities – Prudential regulations and other instructions’ titled October 12, 2022.
+19
+Vide
+Circular DOR.ACC.REC.No.23/21.02.067/2021-22 dated June 24, 2021
+20
+The definitions of Financial Information Providers and Financial Information Users are as per the
+Master Direction- Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+, as amended from time to time.

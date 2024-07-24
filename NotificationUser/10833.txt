@@ -1,0 +1,181 @@
+(1359 kb)
+Master Directions on Access Criteria for Payment Systems (Updated as on July 28, 2021)
+RBI/DPSS/2016-17/51
+Master Direction DPSS.CO.OD.No.1846/04.04.009/2016-17
+January 17, 2017
+(
+Updated as on July 28, 2021
+)
+The Chairman/ Managing Director/ Chief Executive Officer
+All Scheduled Commercial Banks including RRBs/
+Urban Co-operative Banks/ State Co-operative Banks/
+District Central Co-operative Banks/ Payment Banks/ Small Finance Banks/ Primary Dealers/
+Authorised Payment System Providers
+Dear Sir,
+Master Directions on Access Criteria for Payment Systems
+A reference is invited to our
+circular DPSS.CO.OD.494/04.04.009/2011-2012 dated September 21, 2011
+prescribing the Access Criteria for Payment Systems. These Master Directions, being issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007), consolidate and update all the instructions issued on the subject up to December 31, 2016 and placed on the web-site of the Reserve Bank of India (
+www.rbi.org.in
+).
+Yours faithfully
+(Nanda S. Dave)
+Chief General Manager
+Contents
+INTRODUCTION
+SECTION I
+1.1 Short Title and Commencement
+1.2 Applicability
+1.3 Purpose
+SECTION II
+2.1 General Guidelines
+2.2 Access Criteria
+SECTION III
+3.1 Guidelines for Membership to Centralised Payment Systems
+3.2 Guidelines for Membership to Decentralised Payment Systems
+SECTION IV
+4.1 Sub-membership Facility
+4.2 Sub-membership of Centralised Payment Systems
+4.3 Sub-membership of Decentralised Payment Systems
+SECTION V
+5. Review of Membership
+Appendix 1 - Covering letter & Application forms (Centralised Payment Systems)
+Covering Letter for Membership to Centralised Payment Systems
+Annex I – Application form for Current Account
+Annex II – Application form for SGL and IDL-SGL Account
+Annex III – Application form for NDS-OM and NDS-CALL membership
+Annex IV – Application form for INFINET membership
+Annex V – Application form for RTGS membership
+Annex VI – Application form for NEFT membership
+Appendix 2 - Covering letter & Application form (Decentralised Payment Systems)
+Covering Letter for Membership to Decentralised Payment Systems
+Annex I – Application form for Current Account
+ANNEX A
+List of Circulars repealed, as the contents of the same have been incorporated in the Master Direction
+INTRODUCTION
+In exercise of the powers conferred by Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007), the Reserve Bank of India being satisfied that for the purpose of enabling it to regulate the payment systems or in the management or operation of the payment systems and it is necessary and expedient in the public interest so to do, hereby, issues the directions hereinafter specified.
+SECTION I
+1.1 Short title and commencement
+1.1.1 These directions shall be called the Reserve Bank of India (Access Criteria for Payment Systems) directions 2017.
+1.1.2 These directions shall come into effect on the day they are placed on the official website of the Reserve Bank of India (RBI).
+1.2 Applicability
+The provisions of these directions shall apply to all scheduled/ licensed banks operating in India and authorised payment system providers (PSPs) who are desirous of participation in payment systems in India.
+1.3. Purpose
+These directions are issued with a view to providing a framework for scheduled/ licensed banks/ primary dealers /authorised PSPs enabling them to apply for membership of payment systems. These directions also aim to provide a set of consolidated requirements for the applicant for various requirements related to payment systems. To ensure the safety, security and integrity of payment services, such access is subject to certain minimum standards.
+SECTION II
+2.1 General Guidelines
+2.1.1 There will be two sets of access criteria viz., one for centralised payment systems and the other for decentralised payment systems. The centralised payment systems will include Real Time Gross Settlement (RTGS) System and National Electronic Fund Transfer (NEFT) system and any other system as may be decided by RBI from time to time. The decentralised payment systems will include clearing houses managed by RBI (Cheque Truncation System (CTS) centres)) as well as other banks (Express Cheque Clearing System (ECCS) centres)) and any other system as decided by RBI from time to time.
+2.1.2 Membership to the centralised and decentralised payment systems will be open to all scheduled / licensed banks. They will be eligible for Type A membership in RTGS with customer, inter-bank, Own Account Transfer (OAT) and Intra-Day Liquidity (IDL) transactions and NEFT. Unlicensed banks can continue to participate in the decentralised payment systems as sub-members. Co-operative societies cannot be either direct members or sub-members in any payment system.
+2.1.3 Notified institutions like Post Office Savings Bank will as hitherto be eligible for membership in decentralised payment systems.
+2.1.4 Primary Dealers will
+be eligible for Type B RTGS membership covering inter-bank, OAT and IDL transactions, subject to the extant regulations and recommendations of the regulatory department concerned. Among the authorised non-bank PSPs, while Prepaid Payment Instrument (PPI) Issuers and White Label ATM Operators will be eligible for Type-D membership in RTGS, covering customer / inter-bank transactions, Card Networks will be eligible for Type-C membership in RTGS enabling Multilateral Net Settlement Batch (MNSB) transactions and OAT. PPI issuers will be eligible for membership to NEFT also. Inter-bank transactions include transactions with non-banks also. For clearing organisations / other PSPs and other entities, the RBI would consider membership requests on a case-to-case basis.
+2.1.5 Access criteria for membership to the various payment systems will be reviewed once in two years.
+2.2 Access Criteria
+2.2.1 The uniform access criteria at the time of application for centralised payment systems is given below:
+A. Banks
+Minimum CRAR of 9% (as per the latest audited balance sheet);
+Net NPAs below 5% (as per the latest audited balance sheet);
+Minimum net-worth of ₹25 crore;
+Availability of Core Banking Solution / centralised processing system at applicant’s end;
+Adequate technical competence and system readiness including cyber resilience;
+Compliance to instructions on storage of payment system data; and
+Recommendation of the concerned regulatory / supervisory department.
+B. Authorised non-bank PSPs:
+Authorisation from the Reserve Bank of India under the Payment and Settlement Systems Act, 2007 (PSS Act) to set up and operate payment system;
+Minimum net-worth prescribed by RBI as per certificate of authorisation or ₹25 crore, whichever is higher;
+Incorporation in India under the Companies Act, 1956 / 2013. Entities not fulfilling this requirement shall empower their Indian subsidiary / associate to enter into valid agreements with RBI;
+Implementation of centralised processing systems;
+Adequate technical competence and system readiness including cyber resilience;
+Compliance to instructions on storage of payment system data; and
+Recommendation of the concerned regulatory / supervisory department.
+2.2.2 The uniform access criteria at the time of application for decentralised payment systems is given below:
+Minimum CRAR of 9% (as per the latest audited balance sheet);
+Net NPAs below 5% (as per the latest audited balance sheet);
+Availability of Core Banking Solution / centralised processing system at applicant’s end; and
+Recommendation of the concerned regulatory / supervisory department.
+2.2.3 The recommendations of the regulatory / supervisory department of the RBI will be obtained independently, and need not be furnished by the applicant entity at the time of submission of the application.
+2.2.4 Continuation of banks / primary dealers / authorised non-bank PSPs in payment systems may be allowed on the recommendation of the concerned regulatory / supervisory department in case of any deterioration in the financials of the bank / primary dealer / authorised non-bank PSPs below the thresholds indicated in para 2.2.1 and 2.2.2 above.
+2.2.5 For new banks licensed, no separate recommendation of the regulatory / supervisory department would be obtained, if the bank has submitted its application for centralised / decentralised payment system before starting to provide services as banks.
+SECTION III
+3.1. Guidelines for membership to Centralised Payment Systems
+3.1.1 All applications for membership to centralised payment systems should be submitted to the Chief General Manager, Department of Payment and Settlement Systems (DPSS), Reserve Bank of India Central Office, 14th floor, Central Office building, Shahid Bhagat Singh Marg, Fort, Mumbai-400 001.
+3.1.2 The application should be in the format prescribed in
+Appendix - 1 “Covering letter for membership to Centralised Payment System”
+, together with annexures.
+3.1.3 The entity on fulfilling the access criteria mentioned at para 2.2.1 would simultaneously be eligible for opening a current account, Subsidiary General Ledger (SGL), Intra-Day Liquidity SGL (IDL-SGL) account (other than authorised non-bank PSPs), Negotiated Dealing System-Order Matching (NDS-OM) membership facility with RBI without any other additional requirements / prescriptions. Entities which are already having such accounts / membership would need to mention the same while applying for membership of centralised payment systems. NEFT membership is linked with RTGS i.e. only RTGS members will be eligible to join NEFT.
+3.1.4 Entities which are not having aforesaid accounts / membership mentioned at para 3.1.3 would need to apply for the same at the time of application of centralised payment systems, as the same are pre-requisites for operationalisation of RTGS / NEFT membership. Non-bank PSPs shall not be eligible for availing IDL facility from Reserve Bank. Entities seeking access to CPS will be given a timeline, as specified in the initial approval of CPS membership, to operationalise CPS access. If the entity is unable to ensure participation in CPS in that period, it will need to apply for extension of approval. DPSS will ascertain genuineness of request and provide extension up to one year from date of issuance of initial approval letter.
+3.1.5 The operationalisation of the current account, SGL/IDL-SGL account, NDS-OM/CALL membership, Indian Financial Network (INFINET) membership will be subject to the entity fulfilling the documentation requirements and other formalities as prescribed by RBI from time to time.
+3.1.6 Entities not seeking specific access to centralised payment system but desirous of opening only a current account, SGL/Constituent SGL (CSGL) account, NDS-OM/CALL membership need not approach DPSS and can directly approach the concerned regional office of RBI/ central office department of RBI.
+3.1.7 The centralised payment systems would continue to be regulated / guided by RTGS System Regulations, NEFT Procedural Guidelines, instructions issued from time to time, which are generally placed on RBI website at following links –
+https://rbi.org.in/Scripts/Bs_viewRTGS.aspx
+https://rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2346
+https://rbi.org.in/scripts/FS_Notification.aspx?fn=9
+3.2. Guidelines for membership to Decentralised Payment Systems
+3.2.1 All applications for membership to decentralised payment systems should be submitted to the respective President of the clearing house where the entity desires to participate.
+3.2.2 The application should be submitted in the format prescribed in
+Appendix - 2 “Covering letter for membership to Decentralised Payment System”
+, together with annexures.
+3.2.3 The admission of an entity to a clearing house shall be subject to the entity fulfilling the requirements as laid down in the Uniform Regulations and Rules for Bankers' Clearing House (URRBCH), procedural guidelines and instructions issued in this regard, from time to time, which are placed on RBI website at following links –
+https://rbi.org.in/Scripts/OccasionalPublications.aspx?head=Uniform Regulations and Rules for Bankers Clearing Houses
+https://rbi.org.in/Scripts/OccasionalPublications.aspx?head=Procedural%20Guideline%20for%20Cheque%20Truncation%20System
+https://rbi.org.in/scripts/FS_Notification.aspx?fn=9
+3.2.4 President of the clearing house (not managed by the RBI) will seek the formal clearance of the Regional Office (RO) of the RBI before granting membership. The clearing house, based on the communication received from RBI, RO (DPSS/National Clearing Cell) and after considering other requirements as applicable to the payment system, shall admit the member bank to the clearing house.
+3.2.5 The entity on fulfilling the access criteria mentioned at para 2.2.2 would simultaneously be eligible for opening current account with RBI / current account with settlement bank, without any other additional requirements / prescriptions.
+3.2.6 Notwithstanding the above, the operationalisation of the current account with RBI/settlement bank will be subject to the entity fulfilling the documentation requirements and other formalities as prescribed from time to time.
+3.2.7 Scheduled/ licensed banks which have already been admitted as participants of the centralised payment systems (RTGS and NEFT) will be eligible for automatic membership of the decentralised payment systems across all clearing houses. However, such banks would have to apply to the President of Clearing House for operationalisation of membership of decentralised payment systems and will be subject to Regulation 8 of URRBCH.
+SECTION IV
+4. Sub-membership facility
+4.1
+Sub-membership is an alternate mechanism to all scheduled/ licensed banks which have the technological capabilities but are not participating in payment systems on account of either not meeting the access criteria or because of cost considerations.
+4.2 Sub-membership of Centralised Payment Systems:
+The sub-member/s would participate in the centralised payment systems through their sponsor bank which is a direct member of the centralised payment system. Non-bank PSPs cannot act as sponsor institutions in CPS.
+Sponsor bank has to ensure the following:
+(a) There are no restrictions on the number of sub-members a sponsor bank could sponsor. Aspects relating to operational feasibility, risk mitigation, fund settlement, collaterals, etc., have to be taken care of by the sponsor bank before sponsoring sub-member/s.
+(b) The sponsor bank should put in place a risk management framework and a system of continuous monitoring of the risk management practices of sub-member/s that they desire to sponsor. The risk management framework should be approved by the Board of the sponsor bank.
+(c) The sponsor bank would be responsible for sending/ receiving the transactions/ messages on behalf of their sub-member/s.
+(d) The settlement of transactions by/on the sub-members would take place in the settlement accounts of the sponsor bank maintained with RBI. The sponsor bank under this arrangement will assume complete responsibility for the settlement of all transactions by/on the sub-members.
+(e) The sponsor bank at all times should ensure that their sub-member/s adhere to and abide by the rules, regulations, operational requirements, instructions, orders, decisions, etc. of the centralised payment systems, as laid down by the RBI from time to time.
+(f) Redressal of all customer complaints/grievance would be the responsibility of the sponsor bank. To aid in this process, the sponsor bank should ensure that the sub-member/s have put in place a transparent and robust mechanism to resolve customer complaints in a quick and efficient manner, as laid down in the procedural guidelines, business rules and regulations of the centralised payment systems.
+(g) All disputes between the sponsor bank and the sub-member/s will be handled bi-laterally amongst them.
+(h) In order to ensure compliance with the timely credit and return disciplines which are of utmost importance in centralised payment systems, branches of sub-member/s that are not under core banking system shall be kept out of the centralised payment systems till such time they are brought under core banking.
+(i) The sponsor bank should bring to the immediate notice of the RBI:
+any involvement of its sub-member/s in any suspicious transactions, frauds, etc.;
+any of its sub-member/s resorting to any unfair practices relating to their participation in centralised payment systems;
+any of its sub-member/s not adhering to the rules, regulations, operational requirements, instructions etc. of centralised payment systems.
+(j) The sponsor bank is not required to take prior approval of the RBI for sponsoring a sub-member/s or cessation of its sub-member/s in the centralised payment systems. However, as and when a bank sponsors sub-member/s or cease to act as sponsor bank of sub-member/s, it should immediately inform the Regional Director, Mumbai Regional Office, Reserve Bank of India, the details of the sub-member/s, IFSC/MICR codes allotted to the branch/branches of sub-member/s, date of commencement/ discontinuation of sub-membership etc.
+(k) The charges for customer transactions of sub-member/s cannot exceed the charges applicable to customers of sponsor banks/direct members of the centralised payment systems viz., RTGS and NEFT.
+4.3 Sub-membership of Decentralised Payment Systems:
+The sub-member/s would participate in the decentralised payment systems through their sponsor bank subject to the regulation 10, 12, 15 and 16 of URRBCH which is available at the RBI website at following link-
+https://rbi.org.in/Scripts/OccasionalPublications.aspx?head=Uniform Regulations and Rules for Bankers Clearing Houses
+SECTION V
+5. Review of Membership
+5.1
+Once an entity is admitted as a member, it will generally continue to be a member so long as it is permitted to accept deposits or its participation in the payment system is not found to be detrimental to the smooth functioning of the product/ system in any manner or its membership is not suspended/ revoked/ terminated as per the rules, regulations and guidelines of the respective payment systems.
+5.2
+RBI will have the authority to determine if a member can continue to participate in payment systems. RBI will have the right to revoke, or suspend the access of an entity to any of the payment system, if its continuation is felt to be detrimental to the smooth functioning of the payment systems in any manner.
+5.3
+Where concerns have been expressed on the financial conditions of an entity, in such cases, RBI could initiate measures which may also include limits on presentations by such entities in the clearing house. The limits on presentations for such entities would be decided in consultation with the concerned regulatory/ supervisory department/s and/or the President of the clearing house.
+5.4
+In the event of an entity which has access to payment systems, (and has a current account, SGL/IDL-SGL/CSGL account, NDS-OM/CALL membership, INFINET membership), being subsequently debarred from the payment systems or downgraded in access to the payment systems, the continuation or otherwise of the other accounts/ membership will be decided by RBI separately.
+ANNEX A
+List of Circulars repealed, as the contents of the same have been incorporated in the Master Direction
+Sr. No.
+Circular No.
+Circular date
+Subject
+1
+DPSS.CO.OD.494/04.04.009/2011-2012
+September 21, 2011
+Access criteria for payment systems
+2
+DPSS (CO) EPPD No. 838/04.03.01/2011-12
+November 17, 2011
+NEFT – Access Criteria for Regional Rural Banks (RRBs)
+3
+DPSS (CO) CHD. No. 1691/03.01.14/2011-2012
+March 15, 2012
+Access Criteria for Payment Systems – Membership to Clearing Houses operating Decentralised Payment Systems
+4
+DPSS.CO.OD.1848 /06.07.003/2011-2012
+April 9, 2012
+Access criteria for payment systems – sub-membership to centralised payment systems

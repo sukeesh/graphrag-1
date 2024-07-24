@@ -1,0 +1,29 @@
+(25 kb)
+Guidelines on Stripping/Reconstitution of Government Securities
+RBI/2017-18/171
+IDMD.GBD.2783/08.08.016/2018-19
+May 3, 2018
+All Market Participants
+Dear Sir/Madam,
+Guidelines on Stripping/Reconstitution of Government Securities
+Please refer to paragraph 7 of the
+Statement on Regulatory and Developmental Policies announced on April 5, 2018
+regarding review of the mechanism of the Separate Trading of Registered Interest and Principal of Securities (STRIPS) which was introduced w.e.f. April 1, 2010.
+2. With a view to meeting the diverse needs of investors and making Separate Trading of Registered Interest and Principal of Securities (STRIPS) more aligned with market requirements, it has been decided to revise the existing guidelines. Accordingly, it is proposed to remove the restrictions on the securities eligible for Stripping/Reconstitution as well as the requirement of authorization of all requests for Stripping/Reconstitution by Primary Dealers (PDs).
+3. In view of the above, in partial modification of the existing instructions issued vide our Notification IDMD.1762/2009-10 dated October 16, 2009 read with our
+circular IDMD.DOD.07/11.01.09/2009-10 dated March 25, 2010
+, it is specified as under:
+Eligible Securities
+(a) All fixed coupon securities issued by Government of India, irrespective of the year of maturity, are eligible for Stripping/Reconstitution, provided that:
+(i) The securities are reckoned as eligible investment for the purpose of Statutory Liquidity Ratio (SLR).
+(ii) The securities are transferable.
+Placing of Requests
+(b) Market participants, having an SGL account with RBI can place requests directly in e-kuber for stripping/reconstitution.
+(c) Requests for stripping/reconstitution by Gilt Account Holders (GAH) shall be placed with the respective Custodian maintaining the CSGL account, who in turn, will place the requests on behalf of its constituents in e-kuber.
+4. The notification to the above effect dated April 25, 2018 is
+enclosed
+.
+Yours faithfully,
+(A.Mangalagiri)
+Chief General Manager
+Enc: As above

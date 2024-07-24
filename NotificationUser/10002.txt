@@ -1,0 +1,59 @@
+(209 kb)
+Detection of Counterfeit Notes
+RBI/2015-16/162
+DCM (FNVD) No. 776/16.01.05/2015-16
+August 27, 2015
+The Chairman / Managing Director /
+Chief Executive Officer
+All Banks
+Madam / Sir,
+Detection of Counterfeit Notes
+Please refer to our
+Circular DCM (FNVD) No. 5840/16.01.05/2012-13 dated June 27, 2013
+on “Detection and Reporting of Counterfeit Notes”. The procedure for detection of counterfeit notes has been reviewed in consultation with the Government and it has been observed that certain modifications are required for bringing improvement in reporting of counterfeit notes and facilitating maintenance of records by banks. Accordingly, the changes in the instructions are advised as under:
+2. Detection
+i. Over the Counter
+Banknotes tendered over the counter should be examined for authenticity through machines and such of these determined as a counterfeit one, shall be stamped as "COUNTERFEIT NOTE" and impounded as detailed in
+Annex I
+. Each such impounded note shall be recorded under authentication, in a separate register.
+ii. Bulk Receipts at Back Office / Currency Chest
+Procedure as at 2 (i) is to be followed where notes are received directly at the back office / currency chest through bulk tenders.
+3. When a banknote tendered at the counter of a bank branch or treasury is found to be counterfeit, an acknowledgement receipt in the format (
+Annex II
+) must be issued to the tenderer, after stamping the note as in Paragraph 2 ibid. The receipt, in running serial numbers, should be authenticated by the cashier and tenderer. Notice to this effect should be displayed prominently at the offices / branches for information of the public. The receipt is to be issued even in cases where the tenderer is unwilling to countersign it.
+4. No credit to customer’s account is to be given for counterfeit notes, if any, in the tender received over the counter or at the back-office / currency chest.
+5. In view of the revision in the system of detection of counterfeit notes by banks, the following changes may be noted with respect to existing compensation and penalty for non-detection of counterfeit notes:
+5.i. Compensation
+The instructions on compensation to banks at 25% of the notional value of counterfeit notes detected and reported and the system of lodging claims for compensation by Forged Note Vigilance Cell of banks stand withdrawn.
+5.ii. Penalty
+Penalty at 100% of the notional value of counterfeit notes, in addition to the recovery of loss to the extent of the notional value of such notes, will be imposed under the following circumstances:
+a) When counterfeit notes are detected in the soiled note remittance of the bank.
+b) If counterfeit notes are detected in the currency chest balance of a bank during Inspection / Audit by RBI.
+6. All other instructions relating to examination of notes before issuance over the counter, top up of ATMs, reporting to police and other authorities, infrastructure etc. to enable detection as well as liaison with the authorities, remain unchanged.
+7. These instructions come into immediate effect.
+Yours faithfully,
+(Uma Shankar)
+Principal Chief General Manager
+Encl: As above
+Annex I
+Format of the stamp for impounding
+A stamp with a uniform size of 5 cm x 5 cm with the following inscription may be used.
+COUNTERFEIT BANKNOTE IMPOUNDED
+COUNTERFEIT BANKNOTE IMPOUNDED
+BANK / TREASURY/ SUB-TREASURY
+BRANCH
+SIGNATURE
+DATE
+Annex II
+Format – Acknowledgement Receipt to be issued to the tenderer of counterfeit notes
+Name of the Bank / Treasury/ Sub-treasury:
+Address:
+Serial Number of the Receipt:
+Date:
+The note (s) described below received from…………………………….(Name and Address of the tenderer) is/are counterfeit and has/have therefore been impounded and stamped accordingly.
+Serial number of the note deemed as counterfeit
+Denomination
+Parameter on which the note is deemed as counterfeit
+Total number of counterfeit notes:
+(Signature of the Tenderer)
+(Signature of the counter staff)

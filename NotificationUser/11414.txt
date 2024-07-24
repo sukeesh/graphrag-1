@@ -1,0 +1,34 @@
+(245 kb)
+Real Time Gross Settlement (RTGS) System - Implementation of Positive Confirmation
+RBI/2018-19/76
+DPSS (CO) RTGS No.1049/04.04.016/2018-19
+November 15, 2018
+The Chairman / Managing Director / Chief Executive Officer
+of member banks participating in RTGS
+Madam / Dear Sir,
+Real Time Gross Settlement (RTGS) System - Implementation of Positive Confirmation
+Presently, the National Electronic Funds Transfer (NEFT) system provides for sending a positive confirmation to the remitter of the funds regarding completion of the funds transfer, thus giving an assurance to the remitter that the funds have been successfully credited to the beneficiary account. It has now been decided that banks will provide the same facility to the remitter of funds under the RTGS system as well.
+2. Initially, the positive confirmation feature in RTGS would be available for member banks wherein both remitter and beneficiary banks access RTGS through thick client interface / SFMS member interface. Member banks are expected to communicate the same to their customers. The positive confirmation feature would be subsequently enabled for member banks accessing RTGS through other channels as well.
+3. In this connection, a new message format (camt.059) is being introduced to communicate an acknowledgement to the remitting bank containing the date and time of credit to beneficiary account. This message would flow from the beneficiary bank to the remitter bank through the SFMS. After receiving the positive confirmation from the beneficiary bank, the remitter bank shall initiate an SMS and / or generate an e-mail to the remitter. The
+detailed process flow
+for the positive confirmation process is appended.
+4. All banks are required to put in place systems to ensure straight-through-processing (STP) based confirmation processing. The beneficiary bank shall ensure that such confirmation message is sent as soon as the amount is credited to the beneficiary account in CBS while the confirmation message from the remitting bank shall be necessarily sent on a real time basis and in any case not beyond one hour after receipt of credit message from the beneficiary bank.
+5. The system of sending positive confirmation to the customers shall be operationalised by banks at the earliest but not later than two months from the date of this circular.
+6. These directions are issued by Reserve Bank of India, in exercise of the powers conferred by section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully
+(P. Vasudevan)
+Chief General Manager
+Encl.: As above
+Annex
+Process flow on positive confirmation in RTGS
+(DPSS (CO) RTGS No.1049/04.04.016/2018-19 dated November 15, 2018)
+This document outlines the process flow for electronic credit acknowledgement message (camt.059) to the remitter bank by the beneficiary bank after successful credit to the beneficiary account.
+The process flow for successful credits shall be as under:-
+1. On successful credit to the beneficiary account, the beneficiary bank will send a credit acknowledgement message (camt.059) through SFMS in an automated manner.
+2. The information in the camt.059 message shall necessarily contain among others the date / time stamp of credit and the UTR number.
+3. On receipt of the camt.059 message from the beneficiary bank, SFMS will forward the same outward camt.059 message to the remitter bank as an inward camt.059 message.
+4. On receipt of the inward camt.059 message, the remitter bank will update the transaction status as "Credited to Customer" for the corresponding transaction.
+5. Remitter bank shall immediately forward the credit confirmation to the customer through SMS and / or e-mail according to the details provided. The message shall among others contain the RTGS transaction number ascribed by the bank and / or UTR number, the date / time stamp of credit confirmation, beneficiary bank account number and amount.
+Banks may approach officials of IFTAS on
+email
+for the new message format camt.059.

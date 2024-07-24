@@ -1,0 +1,30 @@
+(19 kb)
+Export of Goods and Services: Export Data Processing and Monitoring System (EDPMS)
+RBI/2013-14/481
+A.P. (DIR Series) Circular No.101
+February 4, 2014
+To
+All Category - I  Authorised Dealer Banks
+Madam / Sir,
+Export of Goods and  Services:
+Export Data Processing and  Monitoring System (EDPMS)
+Attention of Authorised  Dealers is invited to
+A. P. (DIR Series) Circular No. 12 dated September 9,  2000
+in terms of which AD Category –  I banks are required to furnish the various returns/statements relating  to export of Goods/Services as given under
+Part C- Authorised Dealer  obligation
+in the annexure of the  said circular. The mode/manner of submission of return has been amended from  time to time.
+2. As of now, AD banks  are submitting the various returns like XOS (export outstanding  statements), ENC (Export Bills Negotiated / sent for collection) for  acknowledgement of receipt of Export documents, Sch.3 to 6 (realization of  export proceeds), EBW (write-off of export bills), ETX (extension of  realization of export bills) relating to Export  transaction under FEMA to RBI. These various returns are being managed on a  different solo application or manually.
+3. With a view to simplify the procedure for  filling various returns and for better monitoring, a comprehensive IT- based  system called EDPMS has been developed which will facilitate the banks to  report all the above mentioned returns through a single platform. In the new  system, the primary data on exports transactions including offsite software  exports from all the sources viz. Customs/SEZ/STPI will flow to RBI secured  server and then the same will be shared with the respective banks for follow up  with the exporters. Subsequently, the document  submission and realization data will be reported back by the AD banks to RBI  through the same secured RBI server so as to update the RBI database on real  time basis to facilitate quicker follow up/ data generation. The AD banks are  required to download and upload the data on daily basis.
+4. The system will also facilitate the  Authorised Dealer to raise the Authorised Dealer (AD) transfer request in case  of Export document submitted to the Authorised Dealers other than declared in  the export document which will discontinue the paper based NOC issued by the AD  banks. AD banks have to approve/disapprove the AD transfer request within 7  days from date of request.
+5. The date of inception of the system along  with user credentials and web link for accessing the system would be  communicated to the AD banks shortly through e-mail. For user name and password, AD banks are advised to  submit a fill-in form (
+format annexed
+) through
+E-mail
+on or before February 10,  2014. Clarification required, if any,  may also be sent to the aforesaid email-id of Reserve Bank of India.
+6. A cut-off date for shipping documents to be reported in  the new system will be notified shortly which will be the commencement date of  the new system. The entire shipping  document should be reported in the new system after cut-off date and old  shipping documents would continue to be reported in the old system till  completion of the cycle.
+Both the old and new systems will run parallel to each other for some time before the old system is discontinued.
+7. Authorised Dealers may bring the contents of  this circular to the notice of their constituents concerned.
+8. The  directions contained in this circular have been issued under Section 10(4) and  Section 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to  permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(C.D Srinivasan)
+Chief General Manager

@@ -1,0 +1,62 @@
+(287 kb)
+Processing of e-mandate on cards for recurring transactions
+RBI/2019-20/47
+DPSS.CO.PD.No.447/02.14.003/2019-20
+August 21, 2019
+The Chairman / Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks, including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Payments Banks / Small Finance Banks /
+Card Payment Networks / Prepaid Payment Instrument Issuers
+Madam / Dear Sir,
+Processing of e-mandate on cards for recurring transactions
+The Reserve Bank of India (RBI) has, over the past decade, put in place various safety and security measures for card payments, including the requirement of Additional Factor of Authentication (AFA), especially for ‘card-not-present’ transactions. Recurring transactions based on standing instructions given to the merchants by the cardholders were brought within the ambit of AFA, vide
+RBI’s circular DPSS.PD.CO.No.223/02.14.003/2011-2012 dated August 4, 2011
+.
+2. The RBI has been receiving requests from industry stakeholders to allow processing of e-mandate on cards for recurring transactions with AFA during e-mandate registration and first transaction, and simple / automatic subsequent successive transactions. Keeping in view the changing payment needs and the requirement to balance the safety and security of card transactions with customer convenience, it has been decided to permit processing of e-mandate on cards for recurring transactions (merchant payments) with AFA during e-mandate registration, modification and revocation, as also for the first transaction, and simple / automatic subsequent successive transactions, subject to conditions listed in the
+Annex
+.
+3. This circular is applicable for transactions performed using all types of cards – debit, credit and Prepaid Payment Instruments (PPIs), including wallets.
+4. The maximum permissible limit for a transaction under this arrangement shall be ₹ 2,000/-.
+5. All other instructions related to card transactions shall be applicable on these e-mandate based recurring card transactions.
+6. No charges shall be levied or recovered from the cardholder for availing the e-mandate facility on cards for recurring transactions.
+7. This directive, issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007), will come into effect from September 1, 2019.
+8. This facility may be reviewed, in due course, for extension to other digital modes of payments.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Encl: As above
+Annex
+Conditions to be fulfilled for processing e-mandate on cards for recurring transactions
+(DPSS.CO.PD.No.447/02.14.003/2019-20 dated August 21, 2019)
+Applicability
+1. The e-mandate arrangement on cards shall be only for recurring transactions and not for a ‘once-only’ payment.
+Registration of card details for e-mandate based recurring transactions
+2. A cardholder desirous of opting for e-mandate facility on card shall undertake a one-time registration process, with AFA validation by the issuer. An e-mandate on card for recurring transactions shall be registered only after successful AFA validation, in addition to the normal process required by the issuer.
+3. Registration shall be completed only after all requisite information is obtained by the issuer, including the validity period of the e-mandate and other audit trail related requirements. The facility to modify the validity period of the e-mandate at a later stage, if required, shall also has to be provided for.
+4. During the registration process, the cardholder shall be given an option to provide the e-mandate for either a pre-specified fixed value of recurring transaction or for a variable value of the recurring transaction; in the case of the latter, the cardholder shall clearly specify the maximum value of recurring transactions, subject to the overall cap fixed by the RBI (currently ₹ 2,000/- per transaction).
+5. Any modification in existing e-mandate shall entail AFA validation by the issuer.
+Processing of first transaction and subsequent recurring transactions
+6. While processing the first transaction in e-mandate based recurring transaction series, AFA validation shall be performed. If the first transaction is being performed along with the registration of e-mandate, then AFA validation may be combined. All such AFA validation shall be as per extant instructions of the RBI.
+7. Subsequent recurring transactions shall be performed only for those cards which have been successfully registered and for which the first transaction was successfully authenticated and authorised. These subsequent transactions may be performed without AFA.
+Pre-transaction notification
+8. As a risk mitigant and customer facilitation measure, the issuer shall send a pre-transaction notification to the cardholder, at least 24 hours prior to the actual charge / debit to the card. While registering e-mandate on the card, the cardholder shall be given facility to choose a mode among available options (SMS, email, etc.) for receiving the pre-transaction notification from the issuer in a clear, unambiguous manner and in an understandable language. The facility for changing this mode of receiving pre-transaction notification, shall also be provided to the cardholder.
+9. The pre-transaction notification shall, at the minimum, inform the cardholder about the name of the merchant, transaction amount, date / time of debit, reference number of transaction/ e-mandate, reason for debit, i.e., e-mandate registered by the cardholder.
+10. On receipt of the pre-transaction notification, the cardholder shall have the facility to opt-out of that particular transaction or the e-mandate. Any such opt-out shall entail AFA validation by the issuer. On receipt of intimation of such an opt-out, the issuer shall ensure that the particular transaction is not effected / further recurring transactions are not effected (as the case may be). A confirmation intimation to this effect shall be sent to the cardholder.
+Post-transaction notification
+11. In line with the extant instructions, the issuer shall send post-transaction alert / notification to the cardholder. This notification shall, at the minimum, inform the cardholder about the name of the merchant, transaction amount, date / time of debit, reference number of transaction / e-mandate, reason for debit, i.e., e-mandate registered by the cardholder.
+Transaction limit and velocity check
+12. The cap / limit for e-mandate based recurring transactions without AFA will be ₹ 2,000/- per transaction. Transactions above this cap shall be subject to AFA as hitherto.
+13. The limit of ₹ 2,000/- per transaction is applicable for all categories of merchants who accept repetitive payments based on such e-mandates.
+14. Suitable velocity checks and other risk mitigation procedures shall be put in place by issuers.
+Withdrawal of e-mandate
+15. The issuer shall provide the cardholder an online facility to withdraw any e-mandate at any point of time following which no further recurring transactions shall be allowed for the withdrawn e-mandate. (Note: The exception to this will be a pipeline transaction for which pre-transaction notification has already been sent to the cardholder, but the debit has not been communicated to or received by the cardholder, and the e-mandate withdrawal happens during the interregnum.) Information about this facility to withdraw e-mandate at any point of time, shall be clearly communicated to the cardholder at the time of registration and later on whenever felt necessary.
+16. The withdrawal of any e-mandate by the cardholder shall entail AFA validation by the issuer.
+17. In respect of withdrawn e-mandate/s, the acquirers shall ensure that the merchants on-boarded by them, delete all details, including payment instrument information.
+Dispute resolution and grievance redressal
+18. An appropriate redress system shall be put in place by the issuer to facilitate the cardholder to lodge grievance/s. Card networks shall also put in place dispute resolution mechanism for resolving these disputes with clear Turn Around Time (TAT).
+19. The card networks shall make suitable arrangements to separately identify chargebacks / dispute requests in respect of e-mandate based recurring transactions.
+20. RBI instructions on limiting liability of customers in unauthorised transactions shall be applicable for such transactions as well.
+Miscellaneous
+21. It shall be the responsibility of acquirers to ensure compliance by merchants on-boarded by them in respect of all aspects of these instructions.
+---------------------------

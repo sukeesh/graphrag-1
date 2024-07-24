@@ -1,0 +1,21 @@
+(19 kb)
+Basel III Framework on Liquidity Standards - Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards
+RBI/2018-19/51
+DBR.BP.BC.No.4/21.04.098/2018-19
+September 27, 2018
+All Scheduled Commercial Banks
+(Excluding RRBs) & Small Finance
+Banks (SFBs)
+Dear Sir,
+Basel III Framework
+on Liquidity Standards - Liquidity Coverage Ratio (LCR),
+Liquidity Risk Monitoring Tools and LCR Disclosure Standards
+Please refer to our
+circular DBR.BP.BC.No.114/21.04.098/2017-18 dated June 15, 2018
+and other associated circulars on the captioned subject.
+2. Presently, the assets allowed as the Level 1 High Quality Liquid Assets (HQLAs) for the purpose of computing the LCR of banks, inter alia, include (a) Government securities in excess of the minimum SLR requirement and, (b) within the mandatory SLR requirement, (i) Government securities to the extent allowed by RBI under Marginal Standing Facility (MSF) [presently 2 per cent of the bank's NDTL] and (ii) under Facility to Avail Liquidity for Liquidity Coverage Ratio (FALLCR) [presently 11 per cent of the bank's NDTL].
+3. It has been decided to permit banks with effect from October 1, 2018, to reckon Government securities held by them up to another 2 per cent of their NDTL, under FALLCR within the mandatory SLR requirement, as Level 1 HQLA for the purpose of computing their LCR. Hence, the carve-out from SLR, under FALLCR will now be 13 per cent, taking the total carve out from SLR available to banks to 15 per cent of their NDTL.
+4. For the purpose of LCR, banks shall continue to value such government securities reckoned as HQLA at an amount not greater than their current market value (irrespective of the category under which the security is held, i.e., HTM, AFS or HFT).
+Yours faithfully,
+(Saurav Sinha)
+Chief General Manager-in-Charge

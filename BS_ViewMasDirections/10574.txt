@@ -1,0 +1,51 @@
+(157 kb)
+Guidelines on Enhancing Credit Supply for Large Borrowers through Market Mechanism
+RBI/2016-17/50
+DBR.BP.BC.No.8/21.01.003/2016-17
+August 25, 2016
+All Scheduled Commercial Banks
+(excluding RRBs)
+Guidelines on Enhancing Credit Supply for
+Large Borrowers through Market Mechanism
+Please refer to the
+Discussion Paper
+on the captioned subject issued on May 12, 2016 for comments of the stakeholders. The Discussion Paper proposed a framework for addressing the concentration risk of the banking system arising from its exposures towards a single counterparty.
+2. The comments received from stakeholders have been examined and taking into account the views of the stakeholders and prudential aspects of a sound regulation, the final guidelines have been prepared. The guidelines are given in the
+Annex
+to this circular and will be effective from April 1, 2017.
+3. In addition, clarifications on certain queries on the subject raised by the stakeholders subsequent to issuance of the Discussion Paper can be accessed under the link:
+https://rbi.org.in/scripts/FS_FAQs.aspx?fn=2
+.
+Yours faithfully,
+(Ajay Kumar Choudhary)
+Chief General Manager
+Annex
+Guidelines on Enhancing Credit Supply for
+Large Borrowers through Market Mechanism
+Definitions:
+1. For the purpose of this Framework, the following terms shall have the meaning assigned to them herein below:
+(i) Aggregate Sanctioned Credit Limit (ASCL) means the aggregate of the fund based credit limits sanctioned or outstanding, whichever is higher, to a borrower by the banking system. ASCL would also include unlisted privately placed debt with the banking system.
+(ii) ‘Specified borrower’, means a borrower having an ASCL of more than
+Rs.25,000 crore at any time during FY 2017-18;
+Rs.15,000 crore at any time during FY 2018-19;
+Rs.10,000 crore at any time from April 1, 2019 onwards;
+(iii) ‘Reference date’, means the date on which a borrower becomes a ‘specified borrower’.
+(iv) Normally permitted lending limit (NPLL), means 50 percent of the incremental funds raised by the specified borrower over and above its ASCL as on the reference date, in the financial years (FYs) succeeding the FY in which the reference date falls. For this purpose, any funds raised by way of equity shall be deemed to be part of incremental funds raised by the specified borrower (from outside the banking system) in the given year;
+Provided that where a specified borrower has already raised funds by way of market instruments and the amount outstanding in respect of such instruments as on the reference date is 15 per cent or more of ASCL on that date, the NPLL will mean 60 percent of the incremental funds raised by the specified borrower over and above its ASCL as on the reference date, in the financial years (FYs) succeeding the FY in which the reference date falls.
+(v) Banking system, means all banks in India including RRBs and co-operative banks and branches of Indian banks abroad.
+(vi) Market instruments, shall include bonds, debentures, redeemable preference shares and any other non-credit liability, other than equity.
+Scope:
+2. This guidelines will be applicable on all single counterparties of Scheduled Commercial Banks (SCBs), except other SCBs, NBFCs registered with RBI, AIFIs (NHB, SIDBI, EXIM Bank and NABARD) and HFCs registered with NHB. Banks should apply their due-diligence while deciding the NPLL for a single borrower in order that borrowers do not circumvent the cut-off ASCL criteria by borrowing through dummy/fictitious group companies.
+3. This will come into effect from the financial year 2017-18 onwards. The banking system shall ordinarily keep its future incremental exposures to the specified borrowers within the NPLL, else they will be subject to the prudential measures as detailed below.
+Prudential Measures:
+4. From 2017-18 onwards, incremental exposure of the banking system to a specified borrower beyond NPLL shall be deemed to carry higher risk which shall be recognised by way of additional provisioning and higher risk weights as under:
+(i) Additional provisions of 3 percentage points over and above the applicable provision on the incremental exposure of the banking system in excess of NPLL, which shall be distributed in proportion to each bank’s funded exposure to the specified borrower.
+(ii) Additional Risk weight of 75 percentage points over and above the applicable risk weight for the exposure to the specified borrower. The resultant additional risk weighted exposure, in terms of risk weighted assets (RWA), shall be distributed in proportion to each bank’s funded exposure to the specified borrower.
+Explanation:
+For the purpose of determining exposure beyond NPLL, subscription by the banking system to market instruments shall be included except any subscription made by the banking system to the market instruments issued by a specified borrower in 2017-18 and held within the permissible prudential limits by a bank, as derived from para 5 below.
+5. Banks may, at their discretion, subscribe to bonds issued by the specified borrowers (over and above NPLL) in the first year of this framework taking effect, i.e., 2017-18 subject to extant investment guidelines and these being divested in the subsequent three years as per the following milestones:
+(i) Not less than 30 percent by March 31, 2019
+(ii) Not less than 60 percent by March 31, 2020
+(iii) Not less than 100 percent by March 31, 2021.
+6. All holdings by a bank of market instruments issued by a 'specified borrower' after the ‘reference date’ shall be held in the AFS/HFT category and marked to market as applicable thereto. However, banks may, at their discretion, value their holdings of market instruments issued by the specified borrowers in 2017-18 at book value.
+7. RBI will review the entire guidelines including the ASCL limits after a year of the guidelines becoming fully implemented, i.e. during FY 2019-20.

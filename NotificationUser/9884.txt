@@ -1,0 +1,310 @@
+(286 kb)
+Notification as amended upto June 30, 2015 - "Mortgage Guarantee Companies (Reserve Bank) Guidelines, 2008" on Registration and Operations of Mortgage Guarantee Company
+RBI/2015-16/73
+DNBR.(PD-MGC).C.C.No.03/23.11.001/2015-16
+July 1, 2015
+The Chairman / CEOs of
+All Mortgage Guarantee Companies.
+Dear Sir,
+Notification as amended upto June 30, 2015 -
+"Mortgage Guarantee Companies (Reserve Bank) Guidelines, 2008"
+on Registration and Operations of Mortgage Guarantee Company
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India issues updated circulars / notifications. The instructions contained in the
+notification No. DNBS.(MGC)3/CGM.(PK)-2008 dated February 15, 2008
+updated as on June 30, 2015 are reproduced below. The updated Notification has also been placed on the RBI web-site (
+http://www.rbi.org.in
+).
+Yours faithfully,
+(C D Srinivasan)
+Chief General Manager
+Table of Contents
+Para No.
+Particulars
+1
+Short title, commencement and applicability of the directions
+2
+Scope
+3
+Definitions
+4
+Registration with the Reserve Bank of India
+5
+Essential features of the mortgage guarantee
+6
+Minimum Capital Requirement
+7
+Capital Adequacy
+8
+Prudential and Accounting norms
+9
+Funding options
+10
+Creation and maintenance of Contingency Reserves
+11
+Accounting of unearned Premium
+12
+Provision on losses of invoked guarantees
+13
+Provision for “Incurred but Not Reported (IBNR) losses”
+14
+Requirement of maintaining Register of Guarantees
+15
+Mortgage guarantees companies obligations
+16
+Due Diligence to be exercised by Mortgage guarantee companies
+17
+Prohibitions
+18
+No commissions, rebates or inducements
+19
+Prohibition on guaranteeing mortgage originations or Related party
+20
+Investments
+21
+Constitution of Audit Committee
+22
+Policy for grant of guarantee
+23
+Scheme of Mortgage Guarantee
+24
+Counter-guarantee
+25
+Exemptions
+Reserve Bank of India
+Department of Non-Banking Regulation
+Central Office, Centre I, World Trade Centre
+Cuffe Parade, Colaba
+Mumbai - 400 005
+Notification DNBS(PD)MGC No.3/CGM (PK)-2008 February 15, 2008
+Guidelines on Registration and Operations of
+Mortgage Guarantee Company under Section 45L(1)(b) of the Reserve Bank of India Act, 1934
+The Reserve Bank of India, in terms of
+Notification No.DNBS.(MGC)1/CGM (PK)-2008 dated January 15, 2008
+, issued in terms of Section 45I(f)(iii) of the Reserve Bank of India Act, 1934 (2 of 1934) and on being satisfied that it is necessary so to do, in exercise of the powers conferred under Section 45 L(1)(b) of the said Act, 1934 (2 of 1934) and of all the powers enabling it in this behalf, hereby issues these guidelines for compliance of the same by every non-banking financial company undertaking the business of Mortgage Guarantee as defined herein.
+1. Short title, commencement and applicability of the directions:
+(i) These guidelines shall be known as the "Mortgage Guarantee Company (Reserve Bank) Guidelines, 2008".
+(ii) These guidelines shall come into force with immediate effect.
+Scope
+(iii) These guidelines provide a framework for the registration and operation of mortgage guarantee companies in India.
+Definitions
+2. (1) In these guidelines unless the context otherwise requires,
+(a) "bank" means -
+(i) a banking company; or
+(ii) a corresponding new bank; or
+(iii) the State Bank of India; or
+(iv) a subsidiary bank; or
+(v) such other bank which the Reserve Bank may, by notification, specify for the purposes of these guidelines; and
+vi) a cooperative bank as defined under the Banking Regulation Act, 1949 (10 of 1949);
+(b) "banking company" means a banking company as defined in Section 5(c) of the Banking Regulation Act, 1949 (10 of 1949);
+(c) "borrower" means any person or any entity who has been granted a housing loan by any creditor institution or any other entity which may be specified by Reserve Bank of India from time to time;
+(d) "creditor institution" means a bank or housing finance company;
+(e) "company" means a company registered under Section 3 of the Companies Act, 1956;
+(f) "corresponding new bank" means as defined in clause (da) of Section 5 of the Banking Regulation Act, 1949;
+(g) "default" means non-payment on the due date of any principal debt or interest thereon payable by a borrower to any creditor institution ;
+(h) "guarantee" means a contract of guarantee as defined in the Indian Contract Act, 1872 (9 of 1872);
+(i) "housing finance company" means a company which primarily transacts or has as one of its principal objects, the transacting of the business of providing finance for housing, as defined in the National Housing Bank Act, 1987;
+(j) "housing loan" means any loan or advance granted to an individual or any other entity which may be specified by Reserve Bank of India from time to time for the purpose of construction / repairs / upgradation of a house or residential property or acquisition of a house or residential property or both i.e. house and residential property;
+Explanation:-
+'Other entities' would include housing societies and housing co-operatives in the above definition of “housing loan”.
+(k) "mortgage guarantee" means a guarantee provided by a mortgage guarantee company for the repayment of an outstanding housing loan and interest accrued thereon up to the guaranteed amount to a creditor institution, on the occurrence of a trigger event;
+(l) "mortgage guarantee company" means a company which primarily transacts the business of providing mortgage guarantee;
+(m) "mortgage guarantee contract" means a tri-partite contract among the borrower, the creditor institution and the mortgage guarantee company, which provides the mortgage guarantee;
+(n) "National Housing Bank" means the National Housing Bank established under the National Housing Bank Act, 1987 (53 of 1987);
+(o) "net owned fund" is as notified in the Prudential Norms for Mortgage Guarantee Companies;
+(p) "non-performing asset" means account of a borrower, which has been classified by a creditor institution as sub-standard, doubtful or loss asset, in accordance with the directions or guidelines relating to asset classification issued by the Reserve Bank or the National Housing Bank as the case may be;
+(q) "Reserve Bank" means the Reserve Bank of India constituted under the Reserve Bank of India Act, 1934 (2 of 1934);
+(r) "substantial interest" means holding of a beneficial interest by an individual or his spouse or minor child, whether singly or taken together in the shares of a company, the amount paid up on which exceeds ten percent of the paid up capital of the company; or the capital subscribed by all partners of a partnership firm;
+(s) "trigger event" means classification of the account of a borrower as non-performing asset in the books of the creditor institution;
+(t) 'turnover or business turnover' means the total mortgage guarantee contracts entered during the year together with the volume of business arising out of other activities (specially permitted by RBI), undertaken during the year;
+2. (2) Words or expressions used but not defined herein and defined in the Companies Act, 1956 (1 of 1956) or Accounting Standards issued by the Institute of Chartered Accountants of India, shall have the same meaning as assigned to them in that Act / Accounting standards.
+Registration with the Reserve Bank of India
+3. A mortgage guarantee company shall commence the business of providing mortgage guarantee after -
+(a) obtaining a certificate of registration from the Reserve Bank of India; and
+(b) having a net owned fund of one hundred crore rupees or such other higher amount, as the Reserve Bank of India may, by notification, specify.
+4. Every mortgage guarantee company shall make an application for registration to the Reserve Bank of India in such form as may be specified by the Reserve Bank of India for the purpose.
+5. The Reserve Bank of India, for the purpose of considering the application for registration, shall require to be satisfied that the following conditions are fulfilled:-
+(a) that the mortgage guarantee company shall primarily transact the business of providing mortgage guarantee. A mortgage guarantee company shall be deemed to comply with the above when at least 90% of the business turnover is mortgage guarantee business or at least 90% of the gross income is from mortgage guarantee business (which includes the income derived from reinvesting the income generated from mortgage guarantee business);
+(b) that the mortgage guarantee company is or shall be in a position to pay its liabilities arising from the contracts of guarantee it may enter into;
+(c) that the mortgage guarantee company has adequate capital structure as stipulated in paragraphs 11 to 13 below and adequate earning prospects from mortgage guarantee business;
+(d) that the general character of the management or the proposed management of the mortgage guarantee company shall not be prejudicial to the public interest;
+(e) that the Board of Directors of such mortgage guarantee company does not consist of more than half of its total number of directors who are either nominees of any shareholder with substantial interest or associated in any manner with the shareholder with substantial interest or any of the subsidiaries of the shareholder with substantial interest if such a shareholder is a company;
+(f) (i) Mortgage guarantee company shall have a well diversified shareholding;
+(ii) Mortgage guarantee company shall not be a subsidiary of any other company including a company registered or incorporated under any law in force outside India;
+(iii) No individual, association or body of individuals whether incorporated or not, partnership firm, company or company registered or incorporated under any law in force outside India shall, directly or indirectly, have any controlling interest in mortgage guarantee company;
+(g) the Foreign Direct Investment to be eligible for investment in the equity of a mortgage guarantee company should have prior approval of FIPB. If the foreign entity which has received FIPB / FED approval is having substantial interest in the applicant mortgage guarantee company, it should be regulated by a home country financial regulator and should itself preferably be a mortgage guarantee company and have a good track record of operating as a mortgage guarantee company. However, the above clauses would not be applicable if the investor in the equity of a mortgage guarantee company is international financial institution;
+(h) that the public interest shall be served by the grant of certificate of registration to the mortgage guarantee company to commence or to carry on the business in India;
+(i) that the grant of certificate of registration shall not be prejudicial to the operation and growth of the housing finance sector of the country;
+(j) that the mortgage guarantee company is compliant with the applicable norms for foreign investment in such companies; and
+(k) any other condition, fulfilment of which in the opinion of the Reserve Bank of India, shall be necessary to ensure that the commencement of or carrying on the business in India by a mortgage guarantee company shall not be prejudicial to the public interest and the housing finance sector in India.
+6. The Reserve Bank of India may, after being satisfied that the conditions specified in sub paragraphs of paragraph 5 are fulfilled, grant a certificate of registration subject to such conditions which it may consider fit to impose.
+7. The mortgage guarantee company shall be under the regulatory and supervisory jurisdiction of the Reserve Bank of India.
+8. The Reserve Bank of India may cancel a certificate of registration granted to a mortgage guarantee company, if such company -
+(a) ceases to carry on the business of providing mortgage guarantee in India; or
+(b) has failed to comply with any condition subject to which the certificate of registration has been issued to it; or
+(c) has failed to honour, in a timely manner, the claims arising from the contract of guarantee it has entered into or may enter into; or
+(d) at any time fails to fulfill any of the conditions referred to in paragraphs 5 and 6; or
+(e) fails to -
+i) comply with any direction issued by the Reserve Bank of India; or
+ii) maintain accounts, publish and disclose its financial position in accordance with the requirements of any law or any direction or order issued by the Reserve Bank of India; or
+iii) submit or offer for inspection its books of account or other relevant documents when so demanded by the Reserve Bank of India.
+Essential features of a mortgage guarantee
+9. The essential features of a mortgage guarantee contract shall be as follows:
+(a) it shall be a contract of guarantee under Section 126 of the Indian Contract Act, 1872;
+(b) the mortgage guarantee contract shall be unconditional and irrevocable and the guarantee obtained shall be free from coercion, undue influence, fraud, misrepresentation, and / or mistake under Indian Contract Act, 1872;
+(c) it shall guarantee the repayment of the principal and interest outstanding in the housing loan account of the borrower, up to the amount of guarantee;
+(d) the guarantor shall pay the guaranteed amount on invocation without any adjustment against the realisable value of the mortgage property;
+(e) it shall be a tri-partite contract among the borrower, the creditor institution and the mortgage guarantee company, which provides the mortgage guarantee.
+10. The mortgage guarantee company shall not carry on insurance business.
+Minimum Capital requirement
+11. A mortgage guarantee company shall have a minimum net owned fund of Rs.100 crore at the time of commencement of business, which shall be reviewed for enhancement after 3 years.
+Capital Adequacy
+12. A mortgage guarantee company shall maintain a capital adequacy ratio of ten percent (10%) of its aggregate risk weighted assets of on balance sheet and of risk adjusted value of off-balance sheet items or any other percentage that may be prescribed by the Reserve Bank of India for the purpose, from time to time.
+13. A mortgage guarantee company shall maintain at least six percent (6%) of its aggregate risk weighted assets of on balance sheet and of risk adjusted value of off-balance sheet items as Tier I capital.
+Prudential and accounting norms
+14. The mortgage guarantee company shall be required to comply with various prudential guidelines including those relating to income recognition, asset classification, provisioning, classification and valuation of investments and prudential exposures that are issued by the Reserve Bank of India from time to time.
+15. The mortgage guarantee company shall also comply with all the relevant Accounting Standards and Guidance Notes issued by the Institute of Chartered Accountants of India from time to time.
+16. No single guarantee shall exceed 10% of the company's Tier I and Tier II capital.
+Funding options
+17.
+(1) Acceptance of public deposits
+- Mortgage guarantee companies shall not accept public deposits.
+(2) External Commercial Borrowings
+- Mortgage guarantee companies shall not avail External Commercial Borrowings.
+Creation and maintenance of Reserves
+Contingency Reserves:
+18. A mortgage guarantee company shall create and maintain a "Contingency Reserve" on an ongoing basis. The mortgage guarantee company:
+(a) Shall appropriate each year at least forty percent (40%) of the premium or fee earned during that accounting year or twenty five percent (25%) of the profit (after provisions and tax), whichever is higher, to the Contingency Reserve;
+(b) In case of inadequate profits, such appropriation shall either result in or increase the amount of carry forward loss;
+1
+(c) May appropriate a lower percentage of the premium or fee earned during any accounting year subject to a minimum of at least 24 % of the premium or fee earned when the provisions made each year towards losses on account of settlement of mortgage guarantee claims exceeds thirty-five percent (35 %) of the premium or fee earned during that accounting year.
+(d) Shall ensure that the Contingency Reserve is built up to at least five percent (5%) of the total outstanding mortgage guarantee commitments;
+(e) Shall retain the amounts appropriated each year to the Contingency Reserve for a minimum period of seven (7) subsequent years which shall be eligible for reversal only in the eighth year subject to the condition in 18(d) above;
+2
+(f) Shall utilize the Contingency Reserve without the prior approval of the Reserve Bank of India solely for the purpose of meeting and making good the losses suffered by the mortgaged guarantee holders only after exhausting all other avenues and options to recoup the losses; in all other cases of utilization, prior approval of Reserve Bank of India shall be obtained.
+(g) Shall show the amount of 'Contingency Reserve' as a separate line item on the liability side of the balance sheet; however, Contingency Reserve may be treated as 'free reserve' for the purpose of net owned fund.
+Accounting of Unearned Premium
+19. A mortgage guarantee company shall account the premium or fee on the mortgage guarantee contracts as an income in the profit and loss account in accordance with the Accounting Standards issued by the Institute of Chartered Accountants of India. The amount of unearned premium shall be shown as a separate line on the liability side of the balance sheet.
+Provision for losses on invoked guarantees
+3
+20. A mortgage guarantee company is exposed to a potential loss when its guarantee is invoked. Mortgage guarantee companies shall hold provisions for losses in respect of such invoked guarantees pending recovery of assets. The amount of provisions required to be held shall be equal to the contract-wise aggregate of 'amount of invocation' after adjusting the realisable value of the assets held by the company in respect of each housing loan where the guarantee has been invoked. In case the realisable value of the assets held in respect of any invoked guarantee is more than the amount of invocation, the excess shall not be adjusted against the shortfall in other invoked guarantees. In case the amount of provisions already held is in excess of the amount as computed above, the excess provision may be reversed after full recovery or closure of the invoked guarantee amount or after the account becomes standard. The amount of provisions made each year shall be shown as a separate line item in the Profit and Loss Account. The amount of provision held for losses on settlement of invoked guarantees shall be shown as a separate line item on the liability side of the balance sheet.
+Provision for 'Incurred But-Not-Reported (IBNR) losses'
+21. A mortgage guarantee company is exposed to a potential loss when there is a default in a housing loan guaranteed by it. Mortgage guarantee companies shall hold provisions in respect of such defaulted housing loans where the trigger event is yet to occur or the guarantee is yet to be invoked. The potential loss to which the guarantee company is exposed to is referred to as 'Incurred-But-Not-Reported (IBNR) losses'. The amount of provisions required to be held shall be arrived at on an actuarial basis depending upon the estimates of loss frequency and loss severity for incurred but not reported losses which are derived from historic data, trends, economic factors and other statistical data in relation to paid claims, the provisions held for claims settled, risk statistics, etc. In case the amount of provisions already held is in excess of the amount as computed above, the excess shall not be reversed. The amount of provisions made each year shall be shown as a separate line item in the Profit and Loss Account. The amount of provision held for Incurred But-Not-Reported (IBNR) losses shall be shown as a separate line item on the liability side of the balance sheet.
+Requirement of maintaining Register of guarantees
+22. Every mortgage guarantee company shall keep one or more registers in which shall be entered the particulars of guarantee provided by the company, namely,
+(a) name and address of the borrower / co-borrower,
+(b) date and amount of loan sanctioned to the borrower,
+(c) brief description of the property including the site / location of the property,
+(d) the nature of security available for the loan,
+(e) tenure of the loan,
+(f) amount of each installment and due date for the payment of each installment,
+(g) name and address of the bank or housing finance company to whom the guarantee has been provided,
+(h) date and amount of the guarantee, and
+(i) duration of the guarantee.
+Mortgage guarantee company's obligations
+23. The liability of the mortgage guarantee company in respect of a secured housing loan granted by a creditor institution where the mortgage guarantee company has provided a guarantee shall be as stipulated in the contract of guarantee entered into by and between the mortgage guarantee company, the creditor institution and the borrower.
+24. On any day after a trigger event, the creditor institution, which has obtained a mortgage guarantee from a mortgage guarantee company, shall be entitled to invoke the guarantee against the mortgage guarantee company.
+25. The mortgage guarantee company shall make good the guarantee liability without demur as and when a notice of demand for the payment of the guarantee liability in respect of the mortgage guarantee provided by it in favour of a bank or a housing finance company is received by it.
+26. If a housing loan turns into a non-performing asset and the creditor institution prefers first to realize the loan by resorting to speedy recovery procedures prescribed in the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 and the creditor institution, realizes some amount of the loan from the borrower, the liability of the mortgage guarantee company in respect of the loan, will stand reduced to that extent.
+27. As scheduled commercial banks are expected to seek mortgage guarantee for their housing loans, it has been decided to align the regulatory prescription of LTV ratio for mortgage guarantee companies with that of commercial banks and revise it downwards from 90% to 80% for housing loans exceeding Rs.20 lakhs. However for small value housing loans i.e housing loans up to Rs.20 lakh (which get categorized as priority sector advances), LTV ratio should not exceed 90%.
+1
+Due diligence to be exercised by a mortgage guarantee company
+28. Before offering to provide a guarantee for the repayment of a housing loan, the mortgage guarantee company shall be required to be satisfied, amongst others, with the following;
+(a) that the loans are secured by a valid mortgage;
+(b) that the creditor institution has verified title to the property, marketability of the property and credit worthiness of the borrower;
+(c) that the creditor institution has verified the use of the land on which a house or residential property is constructed or proposed to be constructed out of the loan obtained from it;
+(d) that the creditor institution has verified and obtained a copy of the permission obtained by the borrower from the proper authorities for the purpose of construction of the house or residential property; and
+(e) that the loan granted by a creditor institution to a borrower is not more than 90% of the value of the property
+Prohibitions
+29. (1) A housing loan which is not secured by a valid mortgage of the house / residential property that is or is proposed to be acquired by such loan shall not be eligible for a mortgage guarantee from a mortgage guarantee company.
+No commissions, rebates or inducements
+(2) A mortgage guarantee company shall not pay commissions, rebates, or other inducements for referral of mortgage guarantee business to any person.
+Prohibition on guaranteeing mortgage originations of Related Party
+(3) A mortgage guarantee company shall not provide guarantees on mortgage originations of promoters, its / their subsidiaries, associates and related parties or subsidiaries, associates and related parties of mortgage guarantee company including companies where the mortgage guarantee company has a material investment or interest of five percent (5%) or more of the shareholding.
+Investments
+(4) A mortgage guarantee company shall not invest in notes or other evidences of indebtedness secured by a mortgage or other lien upon real property. This section shall not apply to obligations secured by real property, or contracts for the sale of real property, which obligations or contracts of sale are acquired in the course of the good faith settlement of claims under policies issued by the mortgage guarantee company, or in good faith disposition of real property so acquired.
+Constitution of Audit Committee
+30. A mortgage guarantee company shall constitute an Audit Committee consisting of not less than three non-executive Directors of the Board of the company, at least one of whom will be a Chartered Accountant.
+Policy for grant of guarantee
+31. The Board of Directors of a mortgage guarantee company shall frame a policy for the company for providing mortgage guarantee to creditor institutions. Such policy shall, inter alia, stipulate the following :-
+(a) the fee or premium chargeable for providing a mortgage guarantee based on specific identified criteria including the quantum of loan; LTV ratio; credit quality of the borrower; and credit appraisal / credit risk management skills of the bank or housing finance company,
+(b) delegation of power for providing a mortgage guarantee and to enter into a contract of guarantee,
+(c) delegation of power for taking a decision to make good the claims received from banks and housing finance companies, and
+(d) delegation of power for initiating proceedings for the recovery of its dues from the borrowers.
+Scheme of Mortgage Guarantee
+32. For the purpose of providing mortgage guarantee, the mortgage guarantee company shall prepare a detailed scheme duly approved by its Board of Directors. The scheme shall contain, amongst others, the following matters:
+(a) the quality of a housing loan,
+(b) the maximum portion of a housing loan granted by a bank or a housing finance company to a borrower, that may be covered under the contract of guarantee,
+(c) the minimum and the maximum LTV ratio of a housing loan proposed to be covered under the contract of guarantee,
+(d) the fee or premium or charge indicating the manner for the payment there of, payable by a borrower to the mortgage guarantee company in consideration for the contract of guarantee,
+(e) the liability of the mortgage guarantee company as to whether the liability will be co-extensive with that of the borrower or otherwise, and
+(f) the conditions governing the issue as to which party of the mortgage guarantee company or a bank / housing finance company will be required to effect recoveries from the borrower after the mortgage guarantee is invoked and the guarantee liability is made good by the mortgage guarantee company to the bank or housing finance company.
+Counter-guarantee
+33. Whenever a mortgage guarantee company obtains counter-guarantee cover in respect of the housing loans guaranteed by it from another mortgage guarantee company, the mortgage guarantee company and the counter-guarantee company shall establish and maintain the reserves required for a mortgage guarantee company in India in appropriate proportions in relation to the risk retained by the original mortgage guarantee company and ceded to the assuming counter-guarantee company so that the total reserves established shall not be less than the reserves required under Indian law for a mortgage guarantee company. In case the counter-guarantee company is not regulated by the regulator(s) in India, the mortgage guarantee company guaranteeing the claim shall hold relevant reserves and provisions in respect of all outstanding mortgage guarantee contracts issued by it.
+Exemptions
+34. The Reserve Bank of India may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, grant extension of time to comply with or exempt any mortgage guarantee company or class of mortgage guarantee companies or all mortgage guarantee companies, from all or any of the provisions of these guidelines either generally or for any specified period, subject to such conditions as the Reserve Bank of India may impose.
+35. The Reserve Bank of India can give any clarification in respect of the above guidelines and such clarification shall be treated as part of these guidelines. The guidelines can be amended by the Bank from time to time.
+Appendix
+List of Circulars
+Sr No.
+Subject
+Date
+1
+DNBS (PD-MGC) C.C. No. 8/23.11.01/2011-12
+July 01, 2011
+2
+DNBS (PD-MGC) C.C. No. 9/23.11.01/2011-12
+July 01, 2011
+3
+DNBS (PD-MGC) C.C. No. 10/23.11.01/2011-12
+July 01, 2011
+4
+DNBS(PD-MGC) CC.No.10/03.11.01/2011-12
+December 16, 2011
+5
+DNBS (PD-MGC) C.C. No. 11/23.11.001/2012-13
+July 02, 2012
+6
+DNBS (PD-MGC) C.C. No. 12/23.11.001/2012-13
+July 02, 2012
+7
+DNBS (PD-MGC) C.C. No. 13/23.11.001/2012-13
+July 02, 2012
+8
+DNBS (PD-MGC) C.C. No. 14/23.11.001/2013-14
+July 01, 2013
+9
+DNBS (PD-MGC) C.C. No. 15/23.11.001/2013-14
+July 01, 2013
+10
+DNBS (PD-MGC) C.C. No. 16/23.11.001/2013-14
+July 01, 2013
+11
+DNBS (PD-MGC) C.C. No. 17/23.11.001/2014-15
+July 01, 2014
+12
+DNBS (PD-MGC) C.C. No. 18/23.11.001/2014-15
+July 01, 2014
+13
+DNBS (PD-MGC) C.C. No. 19/23.11.001/2014-15
+July 01, 2014
+14
+DNBS (PD-MGC) C.C. No. 20/03.11.001/2014-15
+August 08, 2014
+15
+Notification DNBS(PD)MGC No.7/PCGM(KKV)-2014
+August 08, 2014
+16
+Notification DNBS(PD)MGC No.8/PCGM(KKV)-2014
+August 08, 2014
+17
+Notification DNBS(PD)MGC No.9/PCGM(KKV)-2014
+August 08, 2014
+1
+Inserted vide
+Notification DNBS (PD) MGC No.7/PCMG(KKV)-2014 dated August 08, 2014
+2
+Inserted vide
+Notification DNBS (PD) MGC No.7/PCMG(KKV)-2014 dated August 08, 2014
+3
+Inserted vide
+Notification DNBS (PD) MGC No.7/PCMG(KKV)-2014 dated August 08, 2014

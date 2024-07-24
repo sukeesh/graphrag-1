@@ -1,0 +1,67 @@
+(95 kb)
+Gold Monetization Scheme, 2015
+RBI/2017-18/192
+DBR.IBD.BC.109/23.67.001/2017-18
+June 7, 2018
+All Scheduled Commercial Banks (excluding RRBs)
+Dear Sir/Madam
+Gold Monetization Scheme, 2015
+In exercise of the powers conferred on the Reserve Bank of India under Section 35A of the Banking Regulation Act, 1949, the RBI makes the following amendments in the
+Reserve Bank of India (
+Gold Monetization Scheme, 2015)
+Master Direction No.DBR.IBD.No.45/23.67.003/2015-16 dated October 22, 2015
+, with immediate effect.
+1. The existing sub-paragraph 2.2.1 (ii) shall be amended to read as follows:
+“The short term deposits shall be treated as bank’s on-balance sheet liability. These deposits will be made with the designated banks for a short period of 1-3 years (with a facility of roll over). Deposits can also be allowed for broken periods (e.g. 1 year 3 months; 2 years 4 months 5 days; etc.). The rate of interest payable in the case of deposits for maturities with broken periods shall be calculated as the sum of interest for the completed year plus interest for the number of remaining days at the rate of D/360*ARI”
+Where, ARI= Annual Rate of Interest
+D= Number of days
+2. The existing sub-paragraph 2.2.2 (iv) shall be amended to read as follows:
+“(iv) Other features of the Medium and Long Term Government Deposit (MLTGD) shall be as under:
+(a) Maturity
+The Medium Term Government Deposit (MTGD) can be made for 5-7 years and Long Term Government Deposit (LTGD) for 12-15 years or for such period as may be decided by the Central Government from time to time. Deposits can also be allowed for broken periods (e.g. 5 years 7 months; 13 years 4 months 15 days; etc.).
+(b) Rate of interest:
+• The rate of interest on such deposits will be decided by Central Government and will be notified by Reserve Bank of India from time to time. The current rate of interest as notified by the Central Government are as under:
+(i) On medium term deposit – 2.25% p.a.
+(ii) On long term deposit – 2.50% p.a.
+• The rate of interest payable in the case of deposits for maturities with broken periods shall be calculated as the sum of interest for the complete year plus interest for the number of remaining days at the rate of D/360*ARI
+Where, ARI= Annual Rate of Interest
+D= Number of days
+(c) The periodicity of interest payment
+The periodicity of interest payment on these deposits is annual and shall be paid on 31st March every year. A depositor will have an option to receive payment of simple interest annually or cumulative interest at the time of maturity, in which case it will be compounded annually. This option shall be exercised at the time of deposit.
+(d) Minimum lock-in period
+A Medium Term Government Deposit (MTGD) is allowed to be withdrawn any time after 3 years and a Long Term Government Deposit (LTGD) after 5 years.
+(e) Interest on premature withdrawal
+The amount payable to the depositor on premature withdrawal after lock-in period shall be calculated as a sum of (A) and (B), as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold at the time of deposit as under.”
+Type of deposit
+Lock-in period
+(years)
+Actual period for which the deposit has run (years)
+>3 and < 5
+≥5 and < 7
+MTGD
+3
+Applicable rate for MTGD at the time of deposit - 0.375%
+Applicable rate for MTGD at the time of deposit - 0.25%
+Type of deposit
+Lock-in period (years)
+Actual period for which the deposit has run (years)
+>5 and < 7
+≥ 7 and < 12
+≥12 and < 15
+LTGD
+5
+Applicable rate for MTGD at the time of deposit - 0.25%
+Applicable rate for LTGD at the time of deposit - 0.375%
+Applicable rate for LTGD at the time of deposit - 0.25%
+3. The existing sub-paragraph 2.2.2 (v) shall be amended as under:
+“In the case of MLTGD, the redemption of principal at maturity shall, at the option of the depositor, be either in Indian Rupee equivalent of the value of deposited gold at the time of redemption, or in gold. However, any pre-mature redemption of MLTGD shall be only in INR. Where the redemption of the deposit is in gold, an administrative charge at a rate of 0.2% of the notional redemption amount in terms of INR shall be collected from the depositor. However, the interest accrued on MLTGD shall be calculated with reference to the value of gold in terms of Indian Rupees at the time of deposit and will be paid only in cash.”
+4. The existing sub-paragraph 2.2.2 (ix) shall be amended as under:
+“Central Government has decided that with effect from November 5, 2016, designated banks will be paid handling charges (including gold purity testing, refining, transportation, storage and any other relevant costs) for MLTGD at a flat rate of 1.5% and commission at the rate of 1% of the rupee equivalent of the amount of gold mobilized under the scheme until further notice.”
+5. The Reserve Bank of India
+Master Direction No.DBR.IBD.No.45/23.67.003/ 2015-16 dated October 22, 2015
+on Gold Monetization Scheme, 2015 has been updated incorporating the above changes.
+Yours faithfully
+(Prakash Baliarsingh)
+Chief General Manager

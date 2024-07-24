@@ -1,0 +1,29 @@
+(65 kb)
+Prepaid Payment Instrument (PPI) guidelines – Introduction of New Category of PPI for Mass Transit Systems (PPI-MTS)
+RBI/2015-16/123
+DPSS.CO.PD.No. 58/02.14.006/2015-16
+July 09, 2015
+All Prepaid Payment Instrument Issuers, System Providers, System Participants
+and all other Prospective Prepaid Payment Instrument Issuers
+Madam / Dear Sir
+Prepaid Payment Instrument (PPI) guidelines – Introduction of New Category of PPI for Mass Transit Systems (PPI-MTS)
+A reference is invited to the Master Circular on Policy Guidelines on Issuance and Operation of Pre-Paid Payment Instruments in India issued vide
+RBI/2014-2015/105 DPSS.CO.PD.PPI.No. 3/02.14.006/2014-15 dated July 1, 2014 (updated as on December 03, 2014)
+outlining the features as well as the requirements for issuance and operations of PPIs.
+2. In the process of moving from cash based payments to electronic payments, the migration of micro and small value cash payments can play a significant role in achieving the vision of less-cash society. One such area where a large number of small value cash payments take place relates to mass transit systems. Therefore, based on a review, a new category of semi-closed Prepaid Payment Instruments (PPI) is being introduced with the following features:
+The semi-closed PPIs will be issued by the mass transit system operator (PPI-MTS) after authorisation under the Payment and Settlement Systems Act, 2007 to issue and operate such semi-closed PPIs;
+The PPI-MTS will necessarily contain the Automated Fare Collection application related to the transit service to qualify as PPI-MTS;
+Apart from the mass transit system, such PPI-MTS can be used only at other merchants whose activities are allied to or are carried on within the premises of the transit system ;
+The PPI-MTS issuer will ensure on-boarding of merchants (only those permissible as under (iii) above) following due procedure applicable to any other PPI issuer;
+The PPI-MTS will have minimum validity of six months from the date of issue;
+The issuer may decide upon the desired level of KYC, if any, for such PPIs;
+The PPI-MTS issued may be reloadable in nature and at no point of time the value / balance in PPI can exceed the limit of Rs. 2,000/- (Rupees Two Thousand Only);
+No cash-out or refund will be permitted from these PPIs;
+Funds transfer under the Domestic Money Transfer (DMT) guidelines will also not be applicable to these PPIs;
+All other extant guidelines for escrow arrangement, customer grievance redressal mechanism, agent / merchant due diligence, reporting and MIS requirements etc. applicable to issue of PPIs would continue to be applicable in respect of PPI-MTS.
+3. Based on experience the guidelines will be reviewed taking into account both convenience and security aspects.
+4. The above guidelines will come into effect from the date of issue of circular. The other provisions of Master Circular dated July 1, 2015 (as amended from time to time) will remain unchanged.
+5. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully
+(Nilima Ramteke)
+General Manager

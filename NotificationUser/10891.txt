@@ -1,0 +1,93 @@
+(90 kb)
+Risk Management and Inter-bank Dealings: Operational flexibility for Indian subsidiaries of Non-resident Companies
+RBI/2016-17/254
+A.P. (DIR Series) Circular No. 41
+March 21, 2017
+To,
+All Authorised Dealer Category - I Banks
+Madam / Sir,
+Risk Management and Inter-bank Dealings: Operational flexibility for Indian subsidiaries of Non-resident Companies
+Attention of Authorised Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (
+Notification No. FEMA. 25/RB-2000 dated May 3, 2000
+) issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (Act 42 of 1999), as amended from time to time and
+Master Direction on Risk Management and Inter-Bank Dealings dated July 5, 2016
+, as amended from time to time.
+2. With a view to providing operational flexibility to multinational entities and their Indian subsidiaries exposed to currency risk arising out of current account transactions emanating in India, the extant hedging guidelines have been amended as per the terms and conditions in the
+Annex I
+to this circular. An announcement to this effect was made in the Statement on Developmental and Regulatory Policies of Reserve Bank of India dated October 4th, 2016 (para. 9).
+3. Necessary amendments (
+Notification No.FEMA No.384/2017-RB dated March 17, 2017
+) to Foreign Exchange Management (Foreign Exchange Derivatives Contracts) Regulations, 2000 (
+Notification No. FEMA.25/RB-2000 dated May 3, 2000
+) (Regulations) have been notified in the Official Gazette vide G.S.R.No.260 (E) dated March 17, 2017 a copy of which is given in the
+Annex II
+to this circular. These regulations have been issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (42 of 1999).
+4. AD Cat-I banks may bring the contents of this circular to the notice of their constituents and customers.
+5. The directions contained in this circular have been issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully
+(T Rabi Sankar)
+Chief General Manager
+[Annex I to A.P. (DIR Series) Circular No. 41 dated March 21, 2017]
+Operational flexibility for Indian subsidiaries of Non-resident Companies
+1. Purpose
+To provide operational flexibility for booking derivative contracts to hedge the currency risk arising out of current account transactions of Indian subsidiaries of Multi-National Companies (MNCs).
+2. Users
+Non-resident parent of an Indian subsidiary or its centralised treasury or its regional treasury outside India.
+3. Products
+All FCY-INR derivatives, OTC as well exchange traded that the Indian subsidiary is eligible to undertake as per FEMA, 1999 and Regulations and Directions issued thereunder.
+4. Operational Guidelines, Terms and Conditions for hedging
+The transactions under this facility will be covered under a tri-partite agreement involving the Indian subsidiary, its non-resident parent / treasury and the AD bank. This agreement will include the exact relationship of the Indian subsidiary or entity with its overseas related entity, relative roles and responsibilities of the parties and the procedure for the transactions, including settlement. The ISDA agreement between the AD bank and the non-resident entity will be distinct from this agreement.
+The non-resident entity should be incorporated in a country that is member of the Financial Action Task Force (FATF) or member of a FATF-Style Regional body.
+The AD Bank may obtain KYC/ AML certification on the lines of the format in Annex XVIII of the Master Direction on Risk Management and Inter Bank Dealings, as amended from time to time.
+The non-resident entity may approach an AD Cat-I bank directly which handles the foreign exchange transactions of its subsidiary for booking derivative contracts to hedge the currency risk of and on the latter’s behalf.
+The non-resident entity may contract any product either under the contracted route or on past performance basis, which the Indian subsidiary is eligible to use.
+The Indian subsidiary shall be responsible for compliance with the rules, regulations and directions issued under FEMA 1999 and any other laws/rules/regulations applicable to these transactions in India.
+The profit/ loss of the hedge transactions shall be settled in the bank account and books of accounts of the Indian subsidiary. The AD bank shall obtain from the Indian subsidiary an annual certificate by its Statutory Auditors to this effect.
+The concerned AD Bank shall be responsible for monitoring all hedge transactions (OTC as well as exchange traded) booked by the non-resident entity and ensuring that the Indian subsidiary has the necessary underlying exposure for the hedge transactions.
+AD banks shall report hedge contracts booked under this facility by the non-resident related entity to CCIL’s trade repository with a special identification tag.
+[Annex II to A.P. (DIR Series) Circular No. 41 dated March 21, 2017]
+RESERVE BANK OF INDIA
+Financial Markets Regulation Department
+Central Office
+Mumbai
+Notification No.FEMA.384/RB-2017
+March 17, 2017
+Foreign Exchange Management (Foreign Exchange Derivative Contracts)
+(Amendment) Regulations, 2017
+In exercise of the powers conferred by clause (h) of sub-section (2) of section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank hereby makes the following amendments in the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (
+Notification No. FEMA 25/RB-2000 dated May 3, 2000
+), namely:-
+1. Short Title and Commencement
+(i) These regulations may be called the Foreign Exchange Management (Foreign Exchange Derivative Contracts) (Amendment) Regulations, 2017.
+(ii) They shall come in to force from the date of their publication in the Official Gazette.
+2. Amendment under Schedule II:
+In the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 (
+Notification No. FEMA 25/RB-2000 dated May 3, 2000
+), in Schedule II, after the existing para 6, the following shall be added, namely:
+A non-resident may enter into a foreign exchange derivative contract with an Authorised Dealer bank in India to hedge an exposure to exchange risk of and on behalf of its Indian subsidiary in respect of the said subsidiary’s transactions subject to such terms and conditions as may be stipulated by the Reserve Bank from time to time.
+(T Rabi Sankar)
+Chief General Manager
+Footnote:-
+The principal regulations were published in the Official Gazette vide GSR No. 411(E) dated May 8, 2000 in Part II, Section 3, sub-section (i) and subsequently amended vide–
+GSR No. 756(E) dt. 28.09.2000,
+GSR No. 264(E) dt. 09.04.2002,
+GSR No. 579(E) dt. 19.08.2002,
+GSR No. 222(E) dt. 18.03.2003,
+GSR No. 532(E) dt. 09.07.2003,
+GSR No. 880(E) dt. 11.11.2003,
+GSR No. 881(E) dt. 11.11.2003,
+GSR No. 750(E) dt. 28.12.2005,
+GSR No. 222(E) dt. 19.04.2006,
+GSR No. 223(E) dt. 19.04.2006,
+GSR No. 760(E) dt. 07.12.2007,
+GSR No. 577(E) dt. 05.08.2008,
+GSR No. 440(E) dt. 23.06.2009,
+GSR No. 895(E) dt. 14.12.2009,
+GSR No. 635(E) dt. 27.07.2010,
+GSR No. 608(E) dt. 03.08.2012,
+GSR No. 799(E) dt. 30.10.2012,
+G.S.R.No. 330(E) dated 23.05.2013,
+G.S.R.No. 374(E) dated 02.06.2014,
+G.S.R.No. 365(E) dated 01.06.2016 and
+G.S.R.No. 378(E) dated 25.10.2016.
+Published in the Official Gazette of Government of India – Extraordinary – Part-II, Section 3, Sub-Section (i) dated March 17, 2017- G.S.R.No. 260 (E).

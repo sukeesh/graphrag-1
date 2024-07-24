@@ -1,0 +1,15 @@
+(34 kb)
+End of Support for Windows XP
+RBI/2013-14/525
+DIT CO No.1971/07.71.099/2013-14
+March  19, 2014
+The  Chairmen/Chief Executive Officers,
+All  Scheduled Commercial Banks (excluding RRBs)
+Dear Sir/Madam,
+End of Support for Windows XP
+It is learnt that Microsoft will stop  issuing updates and patches for bugs in its Windows XP operating system  (released in 2001) from April 8, 2014. The probability of attacks on such a  system may increase and it may be difficult to defend such attacks in the  absence of Microsoft support.
+2. As some of your systems, including  ATMs, may still be working on Windows XP, you are advised to take immediate  steps to implement appropriate systems and controls in this regard.
+3. Please acknowledge the receipt of  this circular.
+Yours faithfully
+(A S  Ramasastri)
+CGM-in-Charge

@@ -1,0 +1,35 @@
+(855 kb)
+Technical Specifications for all participants of the Account Aggregator (AA) ecosystem
+RBI/2019-20/96
+DOR NBFC (PD) CC.No.104/03.10.001/2019-20
+November 08, 2019
+To All Regulated Entities of the Bank
+Madam/ Sir,
+Technical Specifications for all participants of the Account Aggregator (AA) ecosystem
+Please refer to the
+Master Direction – Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016 dated September 02, 2016
+.
+2. The NBFC-AA consolidates financial information of a customer held with different financial entities, spread across financial sector regulators adopting different IT systems and interfaces. In order to ensure that such movement of data is secured, duly authorised, smooth and seamless, it has been decided to put in place a set of core technical specifications for the participants of the AA ecosystem.
+3. Reserve Bank Information Technology Private Limited (ReBIT), has framed these specifications and published the same on its website (
+www.rebit.org.in
+).
+4. All regulated entities of the Bank, acting either as NBFC-AA or Financial Information Providers (FIP) or Financial Information Users (FIU) are expected to adopt the technical specifications published by ReBIT, as updated from time to time.
+5. Please note that the document referred to in para 3 only provides specifications for Application Programming Interface (API). It shall be the responsibility of the NBFC-AA to ensure that its IT systems have all features necessary to carry out its functions strictly in conformity with the NBFC-AA Master Directions, as updated from time to time.
+6.
+Master Directions on Non-Banking Financial Company - Account Aggregator (Reserve Bank) Directions, 2016
+,
+Master Direction - Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company (Reserve Bank) Directions, 2016
+,
+Master Direction - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016
+,
+Master Direction - Standalone Primary Dealers (Reserve Bank) Directions, 2016
+,
+Master Direction - Core Investment Companies (Reserve Bank) Directions, 2016
+,
+Master Directions - Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions, 2017
+and
+Master Directions - Mortgage Guarantee Companies (Reserve Bank) Directions, 2016
+are being modified accordingly.
+Yours faithfully,
+(Manoranjan Mishra)
+Chief General Manager

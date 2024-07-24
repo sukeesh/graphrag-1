@@ -1,0 +1,40 @@
+(88 kb)
+Annual Return on Foreign Liabilities and Assets Reporting by Indian Companies
+RBI/2018-19/226
+A.P. (DIR Series) Circular No. 37
+June 28, 2019
+To
+All Category - I Authorised Dealer Banks
+Madam/Sir,
+Annual Return on
+Foreign Liabilities and Assets
+Reporting by Indian Companies
+Attention of Authorised Dealer Category – I banks is invited to
+A.P. (DIR Series) Circular No.133 dated June 20, 2012
+which stipulated that all Indian companies which have received FDI and/or made FDI abroad (i.e. overseas investment) in the previous year(s) including the current year, should file the annual return on Foreign Liabilities and Assets (FLA) in the soft form which can be duly filled-in, validated and sent by e-mail to the Reserve Bank by July 15 of every year. The coverage was enhanced to reporting of inward and outward foreign affiliate trade statistics (FATS) and reporting by the limited liability partnerships (LLPs) through the subsequent circulars {
+A .P. (DIR Series) Circular No. 145 dated June 18, 2014
+,
+A.P. (DIR Series) Circular No.22, dated October 21, 2015
+, and
+A.P. (DIR Series) Circular No. 29, dated February 02, 2017
+}.
+2. With the objective to enhance the security-level in data submission and further improve the data quality, the present email-based reporting system for submission of the FLA return will be replaced by the web-based system online reporting portal. It would facilitate data submission by eligible entities {including the alternative investment funds (AIF) registered with the Securities and Exchange Board of India (SEBI) as also the reporting of foreign investment in the form of capital/profit share contribution received/transferred in case of LLPs and investment by persons resident outside India in an investment vehicle and as defined in
+Foreign Exchange Management (Transfer or issue of security by a person resident outside India) Regulations 2017, dated November 7, 2017
+}.
+3. Following are the main features of the revised Foreign Liabilities and Assets Information Reporting (FLAIR) system:
+Reserve Bank would provide a web-portal interface
+https://flair.rbi.org.in
+to the reporting entities for submitting “User Registration Form” (containing entity identification and business user details, where LLPs and AIFs will no longer required to use dummy CIN). The successful registration on web-portal will enable users to generate RBI-provided login-name and password for using FLA submission gateway and would include system-driven validation checks on submitted data.
+The form will seek investor-wise direct investment and other financial details on fiscal year basis as hitherto, where all reporting entities are required to provide information on FATS related variables (it was mandatory only for subsidiary companies earlier). In addition, the revised form seeks information on first year of receipt of FDI/ODI and disinvestment.
+Reporting entities will get system-generated acknowledgement receipt upon successful submission of the form.
+They can revise the data, if required, and view/download the information submitted.
+Entities can submit FLA information for earlier year/s after receiving RBI confirmation on their request
+email
+.
+The existing mechanism of email-based submission of FLA forms will be discontinued.
+5. Indian entities not complying with above, will be treated as non-compliant with Foreign Exchange Management Act, 1999 and regulations made thereunder.
+6. These directions will come into force with immediate effect and would be applicable for reporting of information for the year 2018-19. AD Category-I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+7. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(R K Moolchandani)
+Chief General Manager

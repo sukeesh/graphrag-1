@@ -1,0 +1,51 @@
+(54 kb)
+Issuance and Operation of Pre-paid Payment Instruments (PPIs) in India- Relaxations
+RBI/2014-15/333
+DPSS.CO.PD.No.980/02.14.006/2014-15
+December 03, 2014
+All Prepaid Payment Instrument Issuers,
+System Providers, System Participants
+and all other Prospective Prepaid Payment
+Instrument Issuers
+Madam  / Dear Sir
+Issuance and Operation of Pre-paid Payment  Instruments (PPIs) in India-  Relaxations
+A  reference is invited to the
+circular issued vide RBI/2014-2015/105  DPSS.CO.PD.PPI.No. 3/02.14.006/2014-15 July 1, 2014
+on the Master Circular –  Policy Guidelines on Issuance and Operation of Pre-paid Payment Instruments in India.
+2. Based on a comprehensive internal  review and the feedback received from the entities currently authorized to  issue prepaid payment instruments, it has been considered necessary to amend  certain provisions of the existing guidelines/issue additional guidelines for  ensuring growth of the prepaid payment industry.
+3.  Amendments to existing guidelines
+3.1 PPIs issued with full KYC- enhanced  value
+Attention  is invited to Para 7.1 of the aforesaid  guidelines wherein it was stated that the maximum value of any pre-paid payment  instruments (where specific limits have not been prescribed including the  amount transferred as per paragraph 10.2) shall not exceed Rs. 50,000/-. Para  7.2 of the guidelines highlighted that the following types of semi closed  pre-paid payment instruments can be issued on carrying out Customer Due  Diligence as detailed below:-
+upto Rs.10,000/- by accepting minimum details of the  customer provided the amount outstanding at any point of time does not exceed  Rs 10,000/- and the total value of reloads during any given month also does not  exceed Rs 10,000/-. These can be issued only in electronic form;
+from Rs.10,001/- to Rs.50,000/- by accepting any  ‘officially valid document’ defined under Rule 2(d) of the PML Rules 2005, as  amended from time to time. Such PPIs can be issued only in electronic form and  should be non-reloadable in nature;
+upto Rs.50,000/- with full KYC and can be reloadable  in nature. The balance in the PPI should not exceed Rs.50,000/- at any point of  time.
+The limit of PPI that can be  issued under Para 7.2 (iii) has now been  enhanced from Rs. 50,000 to Rs.1,00,000/- The balance in the PPI should not  exceed Rs. 1,00,000/- at any point of  time.
+3.2 Gift Cards
+The maximum validity of the gift cards  has been enhanced from one year to three years. Other provisions of PPI guidelines  with respect to Gift Cards will continue to be applicable.
+4.  Additional guidelines - introduction of new categories of PPIs issued by banks
+4.1 Issue of multiple PPIs by banks from fully-KYC  compliant bank accounts for dependent/family members
+It has been decided to introduce a new category of  open system prepaid payment instrument subject to following conditions:
+Such PPIs may be  issued only by loading the value from fully KYC-compliant bank account of the purchasers.  Beneficiary has to be a dependent/family member.
+The account  holders purchasing the PPIs need to provide the minimum details (such as name,  address and contact details) of the intended beneficiary/ies who are his/her  dependents and family members.
+Only one card  can be issued to one beneficiary.
+The transaction and monthly  limits as applicable for cash pay-out arrangements under DMT guidelines issued from time to time (currently Rs  10,000/- per transaction with a monthly ceiling of Rs 25,000/-) will be  applicable for such PPIs.
+The bank may put  in place mechanisms to monitor and report suspicious transactions on these PPIs  to Financial Intelligence Unit India  (FIU IND).
+The other  guidelines as applicable to open system PPIs will also be applicable to these  cards.
+Such PPIs shall  be issued only in electronic form.
+4.2 Rupee denominated  PPIs issued by banks for visiting foreign nationals and NRIs
+Banks  are permitted to issue open system rupee denominated non-reloadable (a) PPIs to  NRIs  and foreign nationals visiting India & (b) PPIs co-branded with exchange  houses/money transmitters (approved by RBI) to NRIs and foreign nationals visiting India subject to the following  conditions:
+The cards can be  issued by overseas branches of banks in India directly or by cobranding  with the exchange houses/money transmitters upto a maximum amount of Rs.2 lakhs  by loading from a KYC compliant bank account.
+Such PPIs should  be activated by the bank only after the traveller arrives in India.
+Cash withdrawal  from such PPIs will be restricted to Rs 50,000/- per month.
+The cards should  be issued strictly for use in India  and transactions settled in INR.
+The banks should  ensure compliance to relevant KYC/AML/CFT requirements issued from time to  time.
+An individual  can hold only one card at a time and the card should be non- transferable. The  issuing bank has to put in place necessary arrangements to ensure the same.
+These PPIs may  be used only for transactions permissible under the extant foreign exchange  regulations.
+Transaction  history have to be maintained by the banks.
+The process put in place by the bank for  refund of unutilised portion of the PPI amount in India has to adhere to the extant  foreign exchange regulations.
+Such PPIs shall  be issued only in electronic form.
+5. The  above changes will come into effect from the date of issue of circular. The  other provisions of Master Circular dated July 1, 2014 will remain unchanged.
+6. This directive is issued under Section 10(2) read  with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully
+(Vijay Chugh)
+Principal Chief General Manager

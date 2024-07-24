@@ -1,0 +1,89 @@
+(137 kb)
+Foreign Direct Investment (FDI) – Reporting under FDI Scheme on the e-Biz platform
+RBI/2014-15/561
+A.P. (DIR Series) Circular No. 95
+April 17, 2015
+To
+All Category – I Authorised Dealer Banks
+Madam/Sir
+Foreign Direct Investment (FDI) –
+Reporting under FDI Scheme on the e-Biz platform
+Attention of Authorised Dealers Category-I (AD Category - I) banks is invited to the provisions of the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations 2000, notified by the Reserve Bank vide
+Notification No.FEMA 20/2000-RB, dated 3rd May 2000
+, as amended from time to time. Attention of AD Category – I banks is also invited to
+A.P. (DIR Series) Circular No.77 dated February 12, 2015
+, advising the enabling of reporting of Advanced Remittance Form and FCGPR Form under the FDI scheme on the e-Biz platform of the Government of India.
+2. With reference to paragraph 5 of the said A.P. (DIR Series) circular, it is advised that financial aspects for using the Virtual Private Network (VPN) accounts obtained from National Informatics Centre (NIC) for accessing the e-Biz portal have now been finalised in consultation with Government of India, Department of Industrial Policy and Promotion (DIPP) and NIC. The details are as follows:
+i. The VPN account will be in the name of the individual users and will be coterminous with the lifetime of the Digital Signing (Class 2) certificates (which is for a maximum period of two years) issued by Institute for Development and Research in Banking Technology (IDRBT), Hyderabad;
+ii. AD Category-I banks will be required to credit (through NEFT/RTGS) the payment
+in advance
+for the VPN accounts (@ Rs.9,654/- per account for a block of two years) directly to National Informatics Centre Services Inc’s (NICSI) bank account as under:
+Name of Bank  : ICICI Bank
+Branch            : ICICI Bank CMS
+Account No     : NICSIPPCDL141571
+IFSC Code      : ICIC0000104
+iii. After making the payment, the AD bank may fill up the details in the 'Payment Reference Form' and forward the same to the
+email
+. A copy of the form is
+annexed
+to this circular.
+iv. AD banks may kindly note to maintain appropriate records pertaining to the number of connections, amounts remitted to NICSI, etc. Reconciliation issues, if any, may be resolved by writing to NICSI at the above mentioned email address.
+3. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999).
+Yours faithfully,
+(B.P. Kanungo)
+Principal Chief General Manager
+ANNEXURE
+National Informatics Centre Services Inc.
+(A Government of India Enterprise under NIC)
+Ministry of communication & Information Technology
+New Delhi
+Payment  Reference Form
+(Requires for issuing PO)                                                                                                       Date :
+PI Date :
+Performa Invoice No.
+S.No.
+Particulars
+1.
+Project Name/
+PID (in case of existing Project)
+VPN SERVICES FOR E-BIZ PROJECT
+2.
+Department Name :
+(Department/Ministry/Org/Institute etc.)
+Department of Industrial Policy and Promotion
+3.
+Amount of Advance Provided :
+@ Rs 4827/- per account per year
+4.
+Payment to be made in NICSI Account in ICICI Bank
+IFSC CODE : ICIC0000104
+A/C NO, NICSIPPCDL 141571
+BRANCH CODE : ICICI BANK CMS
+5.
+Payment Mode
+(NEFT-RTGS)
+6.
+UTR No.
+7.
+Transaction Date
+8,
+User Department :
+9.
+Contract Person Name :
+10.
+Contact Person Phone Number :
+11.
+Contact Person E-mail ID :
+12.
+No. of VPN Accounts
+13.
+Billing Address :
+14.
+Period of Services
+2 years
+15.
+Remarks (If any)
+The payment reference form to be send to
+email
+. Also enclosed copy of completely filled and verified VPN application forms or list of users :
+(Signature & Stamp)

@@ -1,0 +1,62 @@
+(642 kb)
+Framework for imposing monetary penalty on Authorised Payment Systems Operators / banks under Payment and Settlement Systems Act, 2007
+RBI/2016-17/97
+DPSS.CO.OD. No.1082/06.08.005/2016-17
+October 20, 2016
+To,
+Authorised Payment system operators / banks
+Dear Sir/Madam,
+Framework for imposing monetary penalty on Authorised Payment Systems Operators / banks under Payment and Settlement Systems Act, 2007
+The Payment and Settlement Systems Act, 2007 (PSS Act) has designated the Reserve Bank of India (Reserve Bank) as the authority for regulation and supervision of payment systems. Under the said Act, certain powers have been conferred upon the Reserve Bank.
+2. Section 30 of the PSS Act deals with ‘Power of Reserve Bank to impose fines’. In terms of this section, certain powers have been conferred upon the Reserve Bank to impose penalties/fines for certain contraventions/offences more particularly described in section 26 (2) and 26 (6) of the PSS Act.
+3. Section 31 of the PSS Act deals with ‘Power to compound offences’. Subject to the provisions of this section, power has been conferred upon the Reserve Bank to compound contraventions/offences committed by the entity.
+4. Now, it has been decided to put in place a framework for imposition of penalty/fine under section 30 of the PSS Act and compounding of contraventions/offences under section 31 of the PSS Act. The details of the framework are as under:
+(i) Nature of offences:
+This framework for imposition of penalty/fine/compounding, inter alia, includes the following types of contraventions/offences that would be considered for levy of penalty/fine/compounding, as the case may be, in payment systems;
+Contravention of provisions of the Act.
+Non-compliance of directions or order made there under.
+Violations of terms and conditions of authorisation.
+(ii) Compounding:
+‘Compounding’ is a voluntary process. The contravener may apply for the compounding of an offence by way of submitting an application as per the
+Annex I
+. The application for compounding of contravention/violation may be submitted to the Chief General Manager, Department of Payment and Settlement Systems, 14th floor, Central Office Building, SBS Road, Fort, Mumbai 400001. The application would be considered provided it is complete in all respects and the applicant admits to the contravention.
+(iii) Operational procedure to be followed:
+The Reserve Bank will follow the following procedure before imposing the penalty/fine or compounding of the offence on the payment system operators / banks (entity/ies);
+Issue of letter to the entity calling for explanation citing the offence.
+Based on the explanation and information/evidence submitted by the entity, the Reserve Bank will examine whether the contravention/offences can be considered for compounding or levy of penalty/fine.
+Issue of show cause notice for imposing penalty/fine/compounding, in case Reserve Bank is not satisfied by the explanation.
+Personal hearing to the entity to be given, if requested in writing, before taking any penal action.
+Imposition of penalty/fine or compounding of contravention/offences.
+(iv) Amount of Penalty/fine:
+The amount of penalty/fine for the various payment system operators / banks would be based on the nature of contravention/offences with a minimum penalty of ₹ 5 lakh. Where the contravention/violation is not quantifiable, a penalty of minimum ₹ 5 lakh with a maximum of ₹ 1 crore would be levied.
+(v) Disclosure:
+The entities, on whom penalty/fine has been levied, shall disclose the penalties/fines in their Annual Financial Statements for the year in which the penalty is levied. Reserve Bank shall also make the penalty levied public by disclosing the same on its website.
+(vi) Method of payment of penalty/fine:
+In respect of the entities maintaining current accounts with the Reserve Bank, the Reserve Bank will directly debit their current account (after obtaining a mandate to that effect). The entities which are not maintaining current account with Reserve Bank, would deposit the amount in the designated account of the RBI within one week of the issue of written order.
+(vii) Non-payment of penalty/fine:
+In the event of non-payment of penalty /fine, the provisions of Section 8 of the PSS Act would be applicable and necessary action under PSS Act would be initiated accordingly.
+5. These directions are issued by the Reserve Bank, in exercise of the powers conferred by section 18 of the Payment and Settlement Systems Act, 2007 (Act 51/2007)
+Yours faithfully
+(Nilima Ramteke)
+General Manager
+Encl-Annex I
+Annex I
+On Company Letter head
+Format of Application for Compounding of Contravention under Payment and Settlement Systems Act
+1
+Name of the applicant (in BLOCK LETTERS)
+:
+2
+Full address of the applicant (including Phone/ Fax Number and email id)
+:
+3
+Brief facts of the case clearly indicating the nature of the contravention, period and amount involved in the contravention
+:
+4
+Any other information relevant to the case
+:
+I / We declare that the particulars given above are true and correct to the best of my / our knowledge and belief and that I / We am / are willing to accept any direction / order of the Compounding Authority in connection with compounding of my / our case.
+(Signature of the Applicant)
+Name :
+Designation:
+Dated :

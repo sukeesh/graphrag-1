@@ -1,0 +1,204 @@
+(236 kb)
+Master Direction - Monitoring of Frauds in NBFCs (Reserve Bank) Directions, 2016
+RBI/DNBS/2016-17/49
+Master Direction DNBS. PPD.01/66.15.001/2016-17
+September 29, 2016
+NOTIFICATION
+Master Direction - Monitoring of Frauds in NBFCs (Reserve Bank) Directions, 2016.
+In exercise of the powers conferred by sections 45K, 45L and 45M of the Reserve Bank of India Act, 1934 (Act 2 of 1934), and of all the powers enabling it in this behalf, the Reserve Bank of India (the Bank) being satisfied that it is necessary and expedient in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country to do so, and in supersession of the Master Circular Frauds – Future Approach Towards Monitoring of Frauds in Non Banking Financial Companies (NBFCs), hereby, issues Master Directions - Monitoring of Frauds in NBFCs (Reserve Bank) Directions, 2016 (
+the Directions
+) hereinafter specified.
+Index
+Chapter I – Preliminary
+Chapter II – Introduction
+Chapter III – Classification of Frauds
+Chapter IV – Reporting of Frauds to Reserve Bank of India
+Chapter V – Quarterly Returns
+Chapter VI – Reports to the Board
+Chapter VII – Guidelines for Reporting Frauds to Police
+Chapter VIII – Interpretations
+Chapter IX – Repeal Provisions
+Annex
+Annex I - FMR – 1 : Report on Actual or Suspected Frauds in NBFCs
+Annex II - FMR – 2 : Quarterly Report on Frauds Outstanding
+Annex III - FMR – 3 : Quarterly Progress Report on Frauds of ₹ 1.00 lakh & above
+Chapter – I
+Preliminary
+1 Short Title and Commencement.
+a) These Directions shall be called Monitoring of frauds in NBFCs
+1
+, (Reserve Bank) Directions, 2016.
+b) These directions shall come into force with immediate effect.
+2 Applicability
+These Directions shall apply to all deposit taking non-banking financial companies and ‘systemically important non-deposit taking non-banking financial companies' (NBFC-ND-SI
+2
+) hereinafter called as ‘Applicable NBFCs’.
+Chapter – II
+Introduction
+1. Applicable NBFCs shall put in place a reporting system for recording frauds without any delay. They should fix staff accountability in respect of delays in reporting of fraud cases to the Bank.
+2. Applicable NBFCs shall strictly adhere to the timeframe fixed in this Direction for reporting fraud) failing which, applicable NBFCs would be liable for penal action as prescribed under the provisions of Chapter V of the Reserve Bank of India Act, 1934 ( the RBI Act).
+3. Applicable NBFCs should specifically nominate an official of the rank of General Manager or equivalent who will be responsible for submitting all the returns to the Bank and reporting referred to in this Directions.
+4. In case no frauds are detected, applicable NBFCs are not required to submit ‘Nil’ report to Frauds Monitoring Cell/Regional Offices of Department of Non-Banking Supervision of the Bank. At the same time enough precautions should be taken by applicable NBFCs to ensure that the cases reported by them are duly received by Frauds Monitoring Cell/Regional Offices of Department of Non-Banking Supervision as the case may be.
+5. Applicable NBFCs shall disclose the amount related to fraud, reported in the company for the year in their balance sheets.
+Chapter – III
+Classification of Frauds
+1. In order to have uniformity in reporting, frauds have been classified as under mainly based on the provisions of the Indian Penal Code:
+Misappropriation and criminal breach of trust
+Fraudulent encashment through forged instruments, manipulation of books of account or through fictitious accounts and conversion of property
+Unauthorised credit facilities extended for reward or for illegal gratification.
+Negligence and cash shortages
+Cheating and forgery
+Irregularities in foreign exchange transactions
+Any other type of fraud not coming under the specific heads as above.
+2. Cases of ‘negligence and cash shortages’ and ‘irregularities in foreign exchange transactions’ referred to in items (d) and (f) above are to be reported as fraud if the intention to cheat / defraud is suspected / proved. However, the following cases where fraudulent intention is not suspected / proved, at the time of detection, will be treated as fraud and reported accordingly:
+(a) Cases of cash shortages more than ₹ 10,000/- and
+(b) Cases of cash shortages more than ₹ 5000/- if detected by management /auditor / inspecting officer and not reported on the occurrence by the persons handling cash.
+3. Applicable NBFCs having overseas branches/offices should report all frauds perpetrated at such branches/offices also to the Bank as per the format and procedure detailed under
+Chapter IV
+.
+Chapter – IV
+Reporting of Frauds to Reserve Bank of India
+1. Frauds involving ₹ 1 lakh and above
+(i) Fraud reports should be submitted in all cases of fraud of ₹ 1 lakh and above perpetrated through misrepresentation, breach of trust, manipulation of books of account, fraudulent encashment of FDRs, unauthorised handling of securities charged to the applicable NBFC, misfeasance, embezzlement, misappropriation of funds, conversion of property, cheating, shortages, irregularities, etc.
+(ii) Fraud reports should also be submitted in cases where central investigating agencies have initiated criminal proceedings suo moto and/or where the Bank has directed that they be reported as frauds.
+(iii) Applicable NBFCs should also report frauds perpetrated in their subsidiaries and affiliates/joint ventures. Such frauds should, however, not be included in the report on outstanding frauds and the quarterly progress reports referred to in Paragraph (vi) below.
+(iv) Where the amount involved in fraud is ₹ 1 crore and above, the reports in the prescribed format shall be sent within three weeks from the date of detection of the fraud to:
+Central Fraud Monitoring Cell
+Department of Banking Supervision,
+Reserve Bank of India, 10/3/8, Nrupathunga Road,
+P.B. No. 5467
+Bengaluru – 560001
+and to the Regional Office of the Department of Non Banking Supervision of the Bank under whose jurisdiction the Registered Office of the applicable NBFC falls.
+(v) Where the amount involved in fraud is less than ₹ 1 crore, reports in the format given in FMR – 1 shall be sent to the Regional Office of the Department of Non Banking Supervision of the Bank under whose jurisdiction the Registered Office of the applicable NBFC falls, within three weeks (21 days) form the date of detection of the fraud.
+(vi) Applicable NBFCs are advised to furnish case-wise quarterly progress reports on frauds involving ₹ 1 lakh and above in the format given in FMR – 3 only to Regional Office of the Bank, Department of Non-Banking Supervision under whose jurisdiction the Registered Office of the applicable NBFC falls within 15 days of the end of the quarter to which it relates.
+(vii) Applicable NBFCs are permitted to close the fraud cases only where the actions are complete and prior approval is obtained from the respective Regional Offices of DNBS. The action would be considered complete when
+the fraud cases pending with CBI/Police/Court are finally disposed of;
+the examination of staff accountability has been completed;
+the amount of fraud has been recovered or written off;
+insurance claim wherever applicable has been settled; and
+the applicable NBFC has reviewed the systems and procedures, identified as the causative factors and plugged the lacunae and the fact of which has been certified by the appropriate authority (Board / Audit Committee of the Board).
+(viii) Applicable NBFCs should pursue vigorously with CBI for final disposal of pending fraud cases especially where they have completed staff side action. All possible assistance should be extended by the applicable NBFCs to the Police/CBI/Court for investigation/trial and vigorous follow up with the police authorities and / or court for final disposal of fraud cases shall be undertaken by the applicable NBFCs.
+For limited statistical / reporting purposes, applicable NBFCs are advised to close those fraud cases involving amounts upto ₹ 25.00 lakh, where:
+(a) the investigation is on or challan / charge sheet not filed in the Court for more than three years from the date of filing of First Information Report (FIR) by the CBI / Police; or
+(b) the trial in the courts, after filing of charge sheet / challan by CBI / Police, has not started, or is in progress.
+2. Frauds committed by unscrupulous borrowers
+(i) Frauds committed by unscrupulous borrowers including companies, partnership firms/proprietary concerns and/or their directors/partners by various methods including the following:
+(a) Fraudulent discount of instruments;
+(b) Fraudulent removal of pledged stocks/disposing of hypothecated stocks without the NBFC’s knowledge/inflating the value of stocks in the stock statement and drawing excess finance;
+(c) Diversion of funds outside the borrowing units, lack of interest or criminal neglect on the part of borrowers, their partners, etc. and also due to managerial failure leading to the unit becoming sick and due to laxity in effective supervision over the operations in borrowal accounts on the part of the NBFC functionaries rendering the advance difficult of recovery;
+(ii) In respect of frauds in borrowal accounts, additional information as prescribed under Part B of FMR – 1 should be furnished.
+3. Frauds involving ₹ 1 crore and above
+In respect of frauds involving ₹ 1 crore and above, in addition to the requirements given above, applicable NBFCs shall report the fraud by means of a D.O. letter addressed to the Chief General Manager-in-charge of the Department of Banking Supervision, Reserve Bank of India, Frauds Monitoring Cell, Central Office Bengaluru and a copy endorsed to the Chief General Manager-in-charge of the Department of Non-Banking Supervision, Reserve Bank of India, Central Office within a week of such frauds coming to the notice of the applicable NBFC. The letter shall contain brief particulars of the fraud such as amount involved, nature of fraud, modus operandi in brief, name of the branch/office, names of parties involved (if they are proprietorship/ partnership concerns or private limited companies, the names of proprietors, partners and directors), names of officials involved, and whether the complaint has been lodged with the Police. A copy of the D.O. letter should be endorsed to the Regional Office of the Bank, Department of Non-Banking Supervision under whose jurisdiction the Registered Office of the applicable NBFC is functioning.
+4. Cases of attempted fraud
+(a) All individual cases involving ₹ 25 lakh or more should be continued to be placed before the Audit Committee of applicable NBFC’s Board. The report containing attempted frauds which is to be placed before the Audit Committee of the Board should cover inter alia the following viz;
+• The modus operandi of the attempted fraud;
+• How the attempt did not materialize in the fraud or how the attempt failed / was foiled;
+• The measures taken by the applicable NBFC to strengthen the existing systems and controls;
+• New systems and controls put in place in the area where fraud was attempted;
+• In addition to the above, yearly consolidated review of such cases detected during the year containing information regarding area of operations where such attempts were made, effectiveness of new process and procedures put in place during the year, trend of such cases during the last three years, need for further change in process and procedures, if any, etc. as on March 31 every year (starting from the year ending March 31, 2013) within three months of the end of the relative year.
+Chapter – V
+Quarterly Returns
+1. Report on Frauds Outstanding
+(i) Applicable NBFCs should submit a copy of the Quarterly Report on Frauds Outstanding in the format given in FMR – 2 to the Regional Office of the Bank , Department of Non-Banking Supervision under whose jurisdiction the Registered Office of the NBFC falls irrespective of amount within 15 days of the end of the quarter to which it relates.
+(ii) Part ­­­– A of the report covers details of frauds outstanding as at the end of the quarter. Parts ­B and C of the report give category-wise and perpetrator-wise details of frauds reported during the quarter respectively. The total number and amount of fraud cases reported during the quarter as shown in Parts B and C should tally with the totals of columns 4 and 5 in Part – A of the report.
+(iii) Applicable NBFCs should furnish a certificate, as part of the above report, to the effect that all individual fraud cases of ₹ 1 lakh and above reported to the Bank in FMR – 1 during the quarter have also been put up to the applicable NBFC’s Board and have been incorporated in Part – A (columns 4 and 5) and Parts B and C of FMR – 2.
+2. Progress Report on Frauds
+(i) Applicable NBFCs should furnish case-wise quarterly progress reports on frauds involving ₹ 1 lakh and above in the format given in FMR – 3 to the Central Office of the Department of Banking Supervision of the Bank, Fraud Monitoring Cell, Bengaluru where the amount involved in fraud is ₹ 1 crore and above and to Regional Office of the, Department of Non-Banking Supervision of the Bank under whose jurisdiction the Registered Office of the applicable NBFC falls where the fraud amount involved in fraud is less than ₹ 1 crore within 15 days of the end of the quarter to which it relates.
+(ii) In the case of frauds where there are no developments during a quarter, a list of such cases with a brief description including name of branch and date of reporting shall be furnished in FMR – 3 as mentioned in item (i) above
+Chapter – VI
+Reports to the Board
+1. Reporting of Frauds
+(i) Applicable NBFCs should ensure that all frauds of ₹ 1 lakh and above are reported to their Boards promptly on their detection.
+(ii) Such reports should, among other things, take note of the failure on the part of the concerned officials, and consider initiation of appropriate action against the officials responsible for the fraud.
+2. Quarterly Review of Frauds
+(i) Information relating to frauds for the quarters ending March, June and September shall be placed before the Board of Directors during the month following the quarter to which it pertains.
+(ii) These should be accompanied by supplementary material analysing statistical information and details of each fraud so that the Board would have adequate material to contribute effectively in regard to the punitive or preventive aspects of frauds.
+(iii) All the frauds involving an amount of ₹ 1 crore and above should be monitored and reviewed by the Audit Committee of the Board (ACB) of NBFCs. The periodicity of the meetings of the Committee may be decided according to the number of cases involved. However, the Committee should meet and review as and when a fraud involving an amount of ₹ 1 crore and above comes to light.
+3. Annual Review of Frauds
+(i) Applicable NBFCs should conduct an annual review of the frauds and place a note before the Board of Directors for information. The reviews for the year-ended December should be put up to the Board before the end of March the following year. Such reviews need not be sent to the Bank. These shall be preserved for verification by the Bank’s inspecting officers.
+(ii) The main aspects which shall be taken into account while making such a review may include the following:
+(a) Whether the systems in the NBFC are adequate to detect frauds, once they have taken place, within the shortest possible time;
+(b) Whether frauds are examined from staff angle;
+(c) Whether deterrent punishment is meted out, wherever warranted, to the persons found responsible;
+(d) Whether frauds have taken place because of laxity in following the systems and procedures and, if so, whether effective action has been taken to ensure that the systems and procedures are scrupulously followed by the staff concerned;
+(e) Whether frauds are reported to local Police, as the case may be, for investigation.
+(iii) The annual reviews should also, among other things, include the following details:
+(a) Total number of frauds detected during the year and the amount involved as compared to the previous two years;
+(b) Analysis of frauds according to different categories detailed in
+Chapter IV
+and also the different business areas indicated in the Quarterly Report on Frauds Outstanding (vide FMR – 2);
+(c) Modus operandi of major frauds reported during the year along with their present position;
+(d) Detailed analyses of frauds of ₹ 1 lakh and above;
+(e) Estimated loss to the NBFC during the year on account of frauds, amount recovered and provisions made;
+(f) Number of cases (with amounts) where staff are involved and the action taken against staff;
+(g) Time taken to detect frauds (number of cases detected within three months, six months and one year of their taking place);
+(h) Position with regard to frauds reported to Police;
+(i) Number of frauds where final action has been taken by the NBFC and cases disposed of;
+(j) Preventive/punitive steps taken by the NBFC during the year to reduce/minimise the incidence of frauds;
+(k) Timely reporting of frauds to the concerned authorities.
+Chapter – VII
+Guidelines for Reporting Frauds to Police
+1. Guidelines for Reporting Frauds to Police
+Applicable NBFCs should follow the following guidelines for reporting of frauds such as unauthorised credit facilities extended by the applicable NBFC for illegal gratification, negligence and cash shortages, cheating, forgery, etc. to the State Police authorities:
+(a) In dealing with cases of fraud/embezzlement, applicable NBFCs should not merely be actuated by the necessity of recovering expeditiously the amount involved, but should also be motivated by public interest and the need for ensuring that the guilty persons do not go unpunished;
+(b) Therefore, as a general rule, the following cases should invariably be referred to the State Police:
+Cases of fraud involving an amount of ₹ 1 lakh and above, committed by outsiders on their own and/or with the connivance of applicable NBFCs staff/officers;
+Cases of fraud committed by employees of applicable NBFCs, when it involves the NBFC funds exceeding ₹ 10,000/-.
+Chapter VIII
+Interpretations
+For the purpose of giving effect to the provisions of these Directions, the Bank may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these Directions given by the Bank shall be final and binding on all the parties concerned. Violation of these Directions shall invite penal action under the provisions of RBI Act. Further, these provisions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or Directions, for the time being in force.
+Chapter IX
+Repeal Provisions
+1. With the issue of these directions, the instructions / guidelines contained in the circulars mentioned in the
+Appendix
+(below), issued by the Reserve Bank stand repealed.
+2. All approvals / acknowledgements given under the above circulars shall be deemed as given under these directions.
+3. All the repealed circulars are deemed to have been in force prior to the coming into effect of these directions.
+Appendix
+List of Circulars or part thereof repealed with the issuance of Master Direction
+Sr No.
+Circular No
+Date
+1
+DNBS PD CC No. 121/03.10.42/2008-09
+July 01, 2008
+2
+DNBS PD CC No. 127/03.10.42/2008-09
+August 14, 2008
+3
+DNBS PD CC No. 149/03.10.42/2009-10
+July 01, 2009
+4
+DNBS PD CC No. 182/03.10.42/2010-11
+July 01, 2010
+5
+DNBS PD CC No. 127/03.10.42/2011-12
+July 01, 2011
+6
+DNBS PD CC No. 256/03.10.42/2011-12
+March 02, 2012
+7
+DNBS.PD.CC. No. 283/03.10.042/2012-13
+July 02, 2013
+8
+DNBS.PD.CC. No. 314/03.10.042/2012-13
+December 13, 2012
+9
+DNBS (PD).CC. No. 315/03.10.42/2012-13
+December 13, 2012
+10
+DNBS(PD)CC.No. 329/03.10.42/2012-13
+June 13, 2013
+11
+DNBS(PD)CC.No. 337/03.10.42/2013-14
+July 01, 2013
+12
+DNBS(PD)CC.No. 385/03.10.42/2014-15
+July 01, 2014
+13
+DNBR (PD) CC.No. 075/03.10.001/2015-16
+February 18, 2016
+1
+non-banking financial company as defined in Section 45 I(f) of the Reserve Bank of India Act, 1934 (Act 2 of 1934) hereinafter referred to as non-banking financial company (NBFC).
+2
+Currently NBFC not accepting / holding public deposits and having total assets of Rs. 500 crore and above as shown in the last audited balance sheet;

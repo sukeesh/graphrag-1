@@ -1,0 +1,19 @@
+(52 kb)
+Internet Banking (View Only) Facility for Customers of UCBs
+RBI/2014-15/262
+UBD.BPD. (PCB). Cir No. 21/09.18.300/2014-15
+October 13, 2014
+The Chief Executive Officers
+All Primary (Urban) Co-operative Banks
+Madam/Dear Sir,
+Internet Banking (View Only) Facility for  Customers of UCBs
+Please refer to
+circular  UBD.BPD. (SCB). Cir. No. 1/09.18.300/2011-12 dated September 26, 2011
+on  Internet Banking for Customers of UCBs, in terms of which scheduled UCBs  satisfying certain criteria such as minimum networth of Rs.100 crores, CRAR of  at least 10%, net NPA less than 5% and continuous profit during the last three years, were permitted to  provide internet banking facility to their customers with prior approval of Reserve  Bank of India.
+2. Some UCBs, not fulfilling the above criteria, have requested  that they may be permitted to offer Internet Banking (View Only) facility i.e.  non-fund based online services to their customers. With a view to offering  value added services to their customers, it has been decided to permit all UCBs  which have implemented Core Banking Solution (CBS) fully and migrated from  Internet Protocol Version 4 (IPv4) to Internet Protocol Version 6 (IPv6) to offer  Internet Banking (View Only) facility to their customers subject to compliance  to security features prescribed in
+Annex II
+to the circular dated  September 26, 2011. UCBs, offering Internet Banking (View Only) facility to  their customers may ensure that online facility offered is strictly non-fund  based service such as balance enquiry, balance viewing, account statement  download, request for supply of cheque-books etc. and no online fund-based  transactions are allowed.
+3. UCBs commencing internet banking (view only)  facility should report to our Regional Office within one month of  operationalisation of the facility.
+Yours faithfully
+(A K Bera)
+Principal Chief General Manager

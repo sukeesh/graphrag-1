@@ -1,0 +1,24 @@
+(103 kb)
+Separate limit of Interest Rate Futures (IRFs) for Foreign Portfolio Investors (FPIs)
+RBI/2017-18/137
+FMRD.DIRD.6/14.03.001/2017-18
+March 1, 2018
+All market participants
+Madam/Sir,
+Separate limit of Interest Rate Futures (IRFs) for Foreign Portfolio Investors (FPIs)
+Please refer to Paragraph 8 of the statement on Developmental and Regulatory Policies, issued as part of the
+third Bi-monthly Monetary Policy Statement for 2017- 18 dated August 02, 2017
+, wherein a separate limit of Interest Rate Futures for Foreign Portfolio Investors was proposed.
+2. Currently, the FPI limit for Government Securities (G-secs) is fungible between investments in G-secs and investment in IRF. FPI long positions in IRF are not allowed on G-sec limit utilisation reaching 90%. To facilitate further market development and to ensure that access of FPIs to IRFs remains uninterrupted, it has been decided to allocate FPIs a separate limit of ₹ 5,000 crore for long position in IRFs. Accordingly, para 4.2 of the
+RBI Directions No. IDMD.PCD.07/ED(RG)-2013 dated December 05, 2013
+is amended to read as follows:
+“Foreign Portfolio Investors, registered with Securities and Exchange Board of India, are permitted to purchase or sell Interest Rate Futures subject to the following conditions:
+(i) the aggregate long position of all FPIs, each of whom has a net long position in any IRF instrument, shall not exceed ₹ 5000 crore, aggregated across all IRF instruments,
+and
+(ii) the total gross short (sold) position of any Foreign Portfolio Investor shall not exceed its consolidated long position in Government securities and Interest Rate Futures, at any point in time”.
+3. The limits prescribed for investment by FPIs in G-secs (currently ₹ 3,01,500 crore) will be exclusively available for investment in G-secs. All other terms and conditions of the extant IRF directions will remain unchanged.
+4. The detailed operational guidelines in this regard will be issued separately by SEBI.
+5. The above directions are issued under section 45 (W) of the RBI Act, 1934.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager

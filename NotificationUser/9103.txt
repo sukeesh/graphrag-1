@@ -1,0 +1,140 @@
+(87 kb)
+Issue of Long Term Bonds by Banks – Financing of Infrastructure and Affordable Housing
+RBI/2014-15/127
+DBOD.BP.BC.No.25/08.12.014/2014-15
+July 15, 2014
+All Scheduled  Commercial Banks
+(excluding RRBs)
+Dear  Sir,
+Issue of Long Term Bonds by  Banks – Financing of Infrastructure and Affordable Housing
+In the  Union Budget 2014-15, presented on July 10, 2014, the Hon’ble Finance Minister announced  that:
+“131.
+Long term financing for infrastructure has  been a major constraint in encouraging larger private sector participation in  this sector. On the asset side, banks will be encouraged to extend long term  loans to infrastructure sector with flexible structuring to absorb potential  adverse contingencies, sometimes known as the 5/25 structure. On the liability  side, banks will be permitted to raise long term funds for lending to  infrastructure sector with minimum regulatory pre-emption such as CRR, SLR and  Priority Sector Lending (PSL).”
+2. While flexible structuring for long term loans to  infrastructure sector on the asset side of the banks’ balance sheets is dealt  with separately vide our
+circular DBOD.BP.BC.No.24 /21.04.132/2014-15 dated July 15, 2014
+, this  circular addresses the liability side of the banks’ balance sheets; raising long  term funds for lending to key infrastructure.
+3. Apart from what is technically defined as infrastructure,  affordable housing is another segment of the economy which both requires long  term funding and is of critical importance. Government has stressed the  importance of availability of cheap credit to make housing affordable for the Economically  Weaker Sections (EWS), Lower Income Group (LIG) and Medium Income Group (MIG)  segments of the population. Accordingly, the Reserve Bank intends to ease the  way for banks to raise long term resources to finance their long term loans to  infrastructure as well as affordable housing. This will help promote both  growth and stability, as well as improve the supply side.
+4. In this context, a reference is invited to our
+circular  DBOD.No.BP.BC.90/21.01.002/2003-04 dated June 11, 2004
+on ‘Issue of Long-term  Bonds by Banks’, whereby banks were allowed to issue long term bonds (other  than which qualify as Tier II capital) with a minimum maturity of 5 years to  the extent of their exposure of residual maturity of more than 5 years to the  infrastructure sector, in order to facilitate banks to raise long-term  resources for funding their long-term commitments and concurrently to assist  banks in reducing asset-liability mismatches in the longer term maturities.
+5. While banks have been raising resources in a significant  way by way of issuance of Tier II capital bonds, it is, however, observed that  issuance of long term bonds for funding loans to infrastructure sector, has not  picked up at all, even though both are similar in terms of minimum tenor and application  of reserve requirements.
+6. In view of the above observations and in order to ensure  adequate credit flow to infrastructure sector as also towards the affordable  housing needs of the country by encouraging banks to optimally utilize the  long-term financing avenues already available to them to finance their lending  to these sectors, the prudential guidelines on this issue have been reviewed  with a view to minimize certain regulatory pre-emptions. Accordingly,  instructions given in the above-mentioned circular dated June 11, 2004 have  been modified and the revised guidelines for issue of long-term bonds are given  in the
+Annex
+to this circular.
+Yours  faithfully,
+(Sudarshan Sen)
+Chief General Manager-in-Charge
+Annex
+Issue of Long Term Bonds by  Banks – Financing of Infrastructure and Affordable Housing
+Banks can issue long-term bonds with a minimum maturity of seven  years to raise resources for lending to (i) long term projects in infrastructure  sub-sectors, and (ii) affordable housing.
+2. Definitions
+(i) Infrastructure  Sub-sectors:
+Sub-sectors as defined in our
+circular DBOD.BP.BC.No.66/08.12.014/2013-14  dated November 25, 2013
+on Financing  of Infrastructure - Definition of 'Infrastructure Lending' updated from time to  time
+(ii) Affordable Housing:
+For the purpose of this circular, lending to affordable housing is defined as  housing loans eligible under priority sector lending by the RBI (please see the
+Appendix
+and as updated from time to time), and also housing loans to  individuals upto Rs. 50 lakhs for houses of values upto Rs. 65 lakhs located in  the six metropolitan centres viz. Mumbai, New Delhi, Chennai, Kolkata,  Bengaluru and Hyderabad and Rs. 40 lakhs for houses of values  upto Rs. 50 lakhs in other centres for purchase/construction of dwelling unit  per family. RBI will periodically review the definition of affordable housing  on account of inflation.
+3.  Type of bond
+The instrument shall be fully paid, redeemable and unsecured  and would rank pari-passu along with other uninsured, unsecured creditors.
+4.  Currency of issue
+The bonds shall be denominated in Indian Rupees.
+5. Maturity period
+The minimum maturity period of the long-term bonds shall be seven  years.
+6. Amount
+There will not be any restriction on the quantum of such  bonds to be issued by banks; however, the regulatory incentives will be  restricted to the bonds that are used to incrementally finance long term  projects in infrastructure and loans for affordable housing. Any incremental  infrastructure and affordable housing loans acquired from other banks and  financial institutions to be reckoned for regulatory incentives will require  prior approval of RBI.
+Recognizing that current outstanding lending to  infrastructure and affordable housing will mature steadily (the regulations  below assume 6 years), the
+eligible  credit
+to infrastructure and affordable housing will be computed as per the  schedule and formulae given in paragraph 7 below.
+7. Credit eligible for regulatory incentives
+Period
+Eligible Credit = EC
+From the date of circular till March 31, 2015
+B - 0.84A
+April 1, 2015 – March 31, 2016
+B - 0.7A
+April 1, 2016 – March 31, 2017
+B - 0.56A
+April 1, 2017 – March 31, 2018
+B - 0.42A
+April 1, 2018 – March 31, 2019
+B - 0.28A
+April 1, 2019 – March 31, 2020
+B - 0.14A
+April 1, 2020 onwards
+B
+Where,
+A =
+Outstanding ‘Standard’ loans
+1
+to Infrastructure    sector (project loans) and affordable housing on the date of this circular
+B =
+Outstanding ‘Standard’ loans
+1
+to    Infrastructure sector (project loans) and affordable housing on the date of issuance    of the bonds
+Regulatory Incentives
+8. Compliance with reserve requirements
+These bonds will be exempted from computation of net demand  and time liabilities (NDTL) and would therefore not be subjected to CRR/SLR  requirements. However, this exemption will be subject to a ceiling of the eligible  credit mentioned in
+paragraph 7
+above. Therefore, DTL for the bank which has issued  long term bonds in terms of this circular will be computed as given below:
+Demand and Time    Liabilities (DTL) for the purpose of maintaining CRR & SLR calculated in    terms of
+Master Circular DBOD.No.Ret.BC.11/12.01.001/2014-15 dated July 1,    2014
+on ‘Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR)’ as    updated from time to time.
+I
+Amount of long-term credit eligible for regulatory    incentives as per paragraph 7 above.
+EC
+Outstanding long term bonds issued to finance    infrastructure loans and affordable housing loans, in terms of this circular
+LB
+DTL for the bank which has issued long term bonds in terms    of this circular
+I – Min (EC and LB)
+9. Relaxation in priority sector  lending norms
+Eligible bonds will also get exemption in  computation of Adjusted Net Bank Credit (ANBC) for the purpose of Priority  Sector Lending (PSL), as per the computation given below:
+Bank    Credit in India (As prescribed in item No.VI of Form ‘A’ (Special Return as    on March 31st ) under Section 42 (2) of the RBI Act, 1934.
+II
+Bills    Rediscounted with RBI and other approved Financial Institutions + Advances    extended in India against the incremental FCNR (B)/NRE deposits, qualifying    for exemption from CRR/SLR requirements, till their maturity.
+III
+Net    Bank Credit (NBC)*
+IV    = (II-III)
+Bonds/debentures    in Non-SLR categories under HTM category + other investments eligible to be    treated as priority sector + Outstanding Deposits, as on preceding March 31st,    under RIDF, Warehouse Infrastructure Fund, Short term Co-operative Rural    Credit Refinance Fund and Short Term RRB Fund with NABARD
+V
+ANBC    (Computation as given in
+Master Circular RPCD.CO.Plan.BC 10/04.09.01/2014-15    dated July 1, 2014
+on Priority Sector Lending- Targets and Classification)
+VI    = IV+V
+ANBC    after issuance of long-term bonds for infrastructure and affordable housing
+VI    - Min (EC and LB)
+*    For the purpose of priority sector only. Banks should not deduct / net any    amount like provisions, accrued interest, etc. from NBC.
+Note -
+It has been observed that  some banks are subtracting prudential write off at Corporate/Head Office level  while reporting Bank Credit as above. In such cases it must be ensured that  bank
+credit to priority sector and all other sub-sectors  so written off should also be subtracted category wise from priority sector and  sub-target achievement.
+All types of loans,  investments or any other item which are treated as eligible for classifications  under priority sector target/sub-target achievement should also form part of  Adjusted Net Bank Credit.
+Other requirements
+10. Options
+The  bonds should be issued in plain vanilla form without call or put option.
+11. Rate of interest
+The bonds may be issued with a fixed or floating rate of  interest. The floating rate of interest shall be referenced to market  determined benchmark rates.
+12. Method of issue
+The bonds may be issued through a public issue or private  placement in full compliance with SEBI guidelines / norms including mandatory  rating and listing.
+13. Cross-holding
+Cross-holding  of such bonds among the banks will not be permitted.
+14. Eligibility for deposit insurance
+The  bonds will not be eligible for deposit insurance.
+15. Regulatory/Statutory compliance
+Banks issuing long-term bonds shall be required to comply  with all relevant statutory and regulatory requirements.
+16. FEMA requirement
+Banks  shall comply with the FEMA requirements, if applicable.
+17. Reporting requirements
+The banks issuing long term bonds shall submit a report to Department  of Banking Supervision (DBS), Reserve Bank of India giving details of the bonds  issued, such as amount raised, maturity of the instrument, rate of interest,  together with a copy of the offer document, soon after the issue is completed.
+18. Review
+The RBI will review these  instructions periodically, particularly those relating to computation of DTL  for the purpose of exemption from CRR/SLR as also computation of ANBC for the  purpose of PSL.
+Appendix
+Housing  Loans Eligible under Priority Sector Lending
+(i) Loans to  individuals up to Rs.25 lakh in metropolitan centres with population above ten  lakh and Rs.15 lakh in other centres for purchase/construction of a dwelling  unit per family excluding loans sanctioned to bank’s own employees.
+(ii) Loans for  repairs to the damaged dwelling units of families up to Rs.2 lakh in rural and  semi- urban areas and up to Rs.5 lakh in urban and metropolitan areas.
+(iii) Bank loans  to any governmental agency for construction of dwelling units or for slum  clearance and rehabilitation of slum dwellers subject to a ceiling of Rs.10  lakh per dwelling unit.
+(iv) The loans  sanctioned by banks for housing projects exclusively for the purpose of construction  of houses only to economically weaker sections and low income groups, the total  cost of which do not exceed Rs.10 lakh per dwelling unit. For the purpose of  identifying the economically weaker sections and low income groups, the family  income limit of Rs.1,20,000 per annum, irrespective of the location, is  prescribed.
+(v) Bank loans  to Housing Finance Companies (HFCs), approved by NHB for their refinance, for  on-lending for the purpose of purchase/construction/reconstruction of  individual dwelling units or for slum clearance and rehabilitation of slum  dwellers, subject to an aggregate loan limit of Rs.10 lakh per borrower,  provided the all inclusive interest rate charged to the ultimate borrower is  not exceeding lowest lending rate of the lending bank for housing loans plus  two percent per annum.
+The eligibility  under priority sector loans to HFCs is restricted to five percent of the  individual bank’s total priority sector lending, on an ongoing basis. The  maturity of bank loans should be co-terminus with average maturity of loans  extended by HFCs. Banks should maintain necessary borrower-wise details  of the underlying portfolio.
+1
+Loans of original maturities  of more than seven years and net of Bills rediscounted with RBI and other  approved financial institutions

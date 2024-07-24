@@ -1,0 +1,82 @@
+(1034 kb)
+Overseas Direct Investment (ODI) – Rationalization and reporting of ODI Forms
+RBI//2015-16/374
+A.P. (DIR Series) Circular No.62
+April 13, 2016
+To
+All Category-I Authorised Dealer Banks
+Madam / Sir,
+Overseas Direct Investment (ODI) – Rationalization and reporting of ODI Forms
+Attention of the Authorised Dealer (AD - Category I) banks is invited to the
+Notification No. FEMA 120/RB-2004 dated July 7, 2004
+[Foreign Exchange Management (Transfer or Issue of any Foreign Security) (Amendment) Regulations, 2004] (the Notification), as amended from time to time. Attention of AD Category – I banks is also invited to
+A. P. (DIR Series) Circular No. 68 dated June 01, 2007
+and
+A. P. (DIR Series) Circular No. 15 dated August 21, 2012
+on rationalisation of ODI Forms and instructions issued vide
+A. P. (DIR Series) Circular No. 24 dated August 14, 2013
+wherein Resident Individuals (RI) were allowed to set up overseas JV/WOS within the Liberalised Remittance Scheme (LRS) limit. Attention of AD Category – I banks is also invited to
+A.P. (DIR Series) Circular No. 36 dated February 24, 2010
+,
+A.P. (DIR Series) Circular No.131 dated May 31, 2012
+on the operationalization of the online reporting system of ODI, Para B.7 and Part II of
+FED Master Direction No. 15/2015-16 dated January 1, 2016
+and Part VIII of
+FED Master Direction No. 18/2015-16 dated January 1, 2016
+.
+2. At present, application for ODI is required to be made in Form ODI – Part I (comprising six sections) for direct investments in Joint Venture (JV) / Wholly Owned Subsidiary (WOS) under automatic route / approval route. Further, remittances and other forms of financial commitment undertaken by the Indian Party (IP) are reported in Form ODI Part II. Annual Performance Report (APR) on the functioning of overseas JV / WOS in Form ODI Part III and details of disinvestment in Form ODI Part IV are currently required to be submitted through the designated Authorised Dealer Bank (AD bank). While Form ODI Part I and Part III are required to be submitted by the applicant undertaking ODI, the Form ODI Part II and Part IV are to be submitted by the AD bank on behalf of the applicant. In order to capture all data pertaining to the IP undertaking ODI as well as the related transaction, it has been decided to subsume Form ODI Part II within Form ODI Part I. Thus the Form ODI will have five sections instead of six.
+3. The rationalised and revised Form ODI (
+Annex I
+) will now comprise the following parts:
+Part I – Application for allotment of Unique Identification Number (UIN) and reporting of Remittances / Transactions:
+Section A – Details of the IP / RI.
+Section B – Capital Structure and other details of JV/ WOS/ SDS.
+Section C - Details of Transaction/ Remittance/ Financial Commitment of IP/ RI.
+Section D – Declaration by the IP/ RI.
+Section E – Certificate by the statutory auditors of the IP/ self-certification by RI.
+Part II - Annual Performance Report (APR)
+Part III – Report on Disinvestment by way of
+Closure / Voluntary Liquidation / Winding up/ Merger/ Amalgamation of overseas JV / WOS;
+Sale/ Transfer of the shares of the overseas JV/ WOS to another eligible resident or non-resident;
+Closure / Voluntary Liquidation / Winding up/ Merger/ Amalgamation of IP; and
+Buy back of shares by the overseas JV/ WOS of the IP / RI.
+4. Further, a new reporting format has also been introduced for Venture Capital Fund (VCF) / Alternate Investment Fund (AIF), Portfolio Investment and overseas investment by Mutual Funds as per the format in
+Annex II
+and
+Annex III
+. In case of reporting purchase and repurchase of ESOPs, the AD banks may continue to report the same in the existing format (
+Annex IV
+).
+5. It is further advised that any post investment changes subsequent to the allotment of the UIN are required to be reported as indicated in the operational instructions on submission of Form ODI Part I (Annex I).
+6. AD banks before executing any ODI transaction must obtain the Form ODI Part I from the applicant in terms of Regulation 6 (2) (vi) of the Notification,
+ibid
+. Further, the AD bank should report the relevant Form ODI in the online OID application and obtain UIN while executing the remittance.
+7. In case of RI undertaking ODI, certification of Form ODI Part I by statutory auditor or chartered accountant need not be insisted upon. Self-certification by the RI concerned may be accepted.
+8. The revised ODI forms and instructions for filling up the forms will come into effect immediately.
+9. Reserve Bank reserves the right to place the information received through the forms in the public domain.
+10. As hitherto, the AD banks would continue to receive the ODI forms as also documents related to the post investment changes in the physical form. These should be preserved UIN wise for submission to the Reserve Bank, if and when specifically required.
+11. AD banks should put in place proper processes and systems and issue necessary instructions to all the dealing officials at the bank / branch level to ensure compliance with these guidelines.
+Online Reporting of Form ODI
+12. Online OID application has been revamped to further reduce the traditional paper based filing system, to provide the AD banks fast and easy accessibility to data for reference purpose, to improve the coverage and ensure proper monitoring of the flows in a dynamic environment. Accordingly, modules in online OID application have been added, wherein all the ODI forms as mentioned in this circular may be reported.
+13. A concept of AD Maker, AD Checker and AD Authorizer has now been introduced in the online application process. The AD Maker shall initiate the transaction and submit to the AD Checker for verification of the transaction before submission to Reserve Bank. The AD Authorizer shall have the authority to ratify these ODI transaction which are pending due to various reasons, such as, delay arising on account of seeking further clarification from the IP / RI, technical difficulty in reporting the transaction in the online OID application and on account of delay in completing the due diligence process.
+14. The AD bank may identify an official in the middle management level who may be assigned the responsibility of the AD Authorizer. The Authorizer shall be entrusted with the following responsibilities:
+Examining the genuineness of the reason/s behind late submission of the ODI Forms.
+Ratifying those online transaction which are reported with a delay owing to operational difficulties after recording the facts in the online OID application under the Remarks column.
+15. The Centralized Unit / Nodal Office of the AD bank should ensure online reporting of Overseas Investments in the application hosted on the website
+https://oid.rbi.org.in
+16. The AD Maker, AD Checker and AD Authoriser identified by the AD Bank may obtain a user-id for accessing the online OID application by submitting a request in the prescribed format (
+Annex V
+).
+17. Any non-compliance with respect to the instruction for submission of Form ODI Part I, Part II and Part III shall be treated as contravention of Regulation 6 (2) (vi), Regulation 15 and Regulation 16 respectively, of the
+FEMA Notification No 120/RB-2004 dated July 07, 2004
+as amended. The Reserve Bank will take a serious view on non-compliance with the guidelines / instructions and initiate penal action as considered necessary.
+18. AD Category – I banks may bring the contents of this circular to the notice of their constituents and customers concerned.
+19.
+Master Direction No. 15/2015-16 dated January 1, 2016
+and
+Master Direction No. 18/ 2015-16 dated January 1, 2016
+are being updated to reflect the changes.
+20. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(A. K. Pandey)
+Chief General Manager

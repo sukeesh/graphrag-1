@@ -1,0 +1,28 @@
+(640 kb)
+Migration of Post-dated cheques (PDC)/Equated Monthly Installment (EMI) Cheques to Electronic Clearing Service (Debit)
+RBI/2013-14/359
+DNBS.PD/ CC.NO.359 /03.10.001/2013-14
+November 06, 2013
+All NBFCs
+Dear Sirs,
+Migration of Post-dated cheques (PDC)/Equated Monthly Installment (EMI) Cheques to Electronic Clearing Service (Debit)
+A reference is invited to our
+Circular No DNBS.PD/ CC.NO.316 /03.10.001/2012-13 December 20, 2012
+advising all NBFCs to ensure replacement of all Non-CTS-2010 standard compliant cheques received from their customers for future EMI payments by March 31, 2013.
+2. Reference is also invited to the circular issued by our Department of Payment and Settlement System (
+DPSS.CO.CHD.No 133/04.07.05/2013-14 dated July 16, 2013
+) wherein it has been indicated that cheques not complying with CTS-2010 standard will be cleared at less frequent intervals with effect from January 1, 2014 (thrice a week up to
+April 30, 2014,
+twice a week up to
+October 31, 2014 and
+weekly once from
+November 1, 2014
+onwards).
+3. Considering the above and with a view to avoid delays in realization of non-CTS-2010 cheques, all NBFCs have been advised
+a) to migrate towards accepting only CTS-2010 standard cheques
+b) Not to accept fresh/ additional Post Dated Cheques (PDC)/Equated Monthly Installment (EMI) cheques (either in old format or new CTS-2010 format) in locations where the facility of ECS/RECS (Debit) is available. The existing PDCs/EMI cheques in such locations may be converted into ECS/RECS (Debit) by obtaining fresh ECS (Debit) mandates. This exercise shall be completed not later than December 31, 2013.
+4. Considering the protection available under Section 25 of the Payment and Settlement Systems Act, 2007 which accords the same rights and remedies to the payee (beneficiary) against dishonor of electronic funds transfer instructions under insufficiency of funds as are available under Section 138 of the Negotiable Instruments Act, 1881, there is no need for NBFCs to take additional cheques, if any, from customers in addition to ECS (Debit) mandates. Cheques complying with CTS-2010 standard formats shall alone be obtained in locations, where the facility of ECS/RECS is not available.
+5. The above instructions are issued in terms of Section 45 JA and 45K of the Reserve Bank of India Act, 1934 (Act 2 of 1934).
+Yours faithfully
+(N. S. Vishwanathan)
+Principal Chief General Manager

@@ -1,0 +1,145 @@
+(324 kb)
+The Electronic Trading Platforms (Reserve Bank) Directions, 2018
+RBI/2018-2019/55
+FMRD.FMID.07/14.03.027/2018-19
+October 05, 2018
+To
+All operators of Electronic Trading Platforms
+Dear Sir/Madam
+The Electronic Trading Platforms (Reserve Bank) Directions, 2018
+Please refer to Paragraph 9 of the
+Statement on Developmental and Regulatory Policies
+, Reserve Bank of India issued as part of the
+Fourth Bi-monthly Monetary Policy Statement for 2017-18 dated October 04, 2017
+, wherein it was stated that the Reserve Bank shall put in place a framework for authorization of electronic trading platforms (ETPs) for financial market instruments regulated by the Bank.
+2. The draft ETP directions were released for public comments on
+October 12, 2017
+. Based on the feedback received the directions have been finalized. The Directions are
+enclosed
+herewith.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE (MAIN BUILDING), FORT
+MUMBAI 400 001
+Notification No.FMRD.FMID.08/2018 dated October 05, 2018
+The Electronic Trading Platforms (Reserve Bank) Directions, 2018
+The Reserve Bank of India (herein after called ‘the Reserve Bank’) having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934, (herein after called ‘the Act’) read with section 45U of the Act and of all the powers enabling it in this behalf, hereby issues the following Directions to the entities operating Electronic Trading Platforms (ETPs) to transact trade in eligible instruments.
+1. Short title and commencement of the directions
+These directions shall be called ‘The Electronic Trading Platforms (Reserve Bank) Directions, 2018’.
+These Directions are issued to the entities operating Electronic Trading Platforms (ETPs) to transact trade in eligible instruments under the Directions.
+They shall come into force with effect from October 05, 2018.
+2. Definitions
+(1) For the purpose of these directions, unless the context otherwise requires,
+‘Algorithmic trading’ or ‘Algo trading’ shall mean any trade originated by a software programme using automated execution logic.
+‘Approved’ shall mean approved by the Reserve Bank, either in the authorisation document at the time of authorisation or at any later point of time when conditions of authorisation are altered.
+Electronic Trading Platform (ETP) shall mean any electronic system, other than a recognised stock exchange, on which transactions in eligible instruments as defined in paragraph 2(iv) below are contracted.
+‘Eligible Instruments’ shall mean securities, money market instruments, foreign exchange instruments, derivatives, or other instruments of like nature, as may be specified by the Reserve Bank from time to time under section 45 W of Chapter III-D of the Reserve Bank of India Act, 1934.
+In these Directions, unless the subject or the context otherwise requires, ‘Entity’ shall mean and include an agency formed as a ‘company’ and incorporated under the provisions of the Companies Act, 2013 or under any of the previous enactments in India.”
+‘ETP Operator’ shall mean an entity authorised by the Reserve Bank to operate an ETP under these Directions.
+‘Foreign exchange’ shall have the meaning assigned in section 2(n) of the Foreign Exchange Management Act, 1999.
+‘Recognised stock exchange’ shall have the meaning assigned in section 2(f) of the Securities Contracts (Regulations) Act, 1956.
+3. (1) No entity shall operate an ETP without obtaining prior authorisation of the Reserve Bank under these directions.
+(2) ETPs existing and operating on or before the commencement of these directions shall make an application for authorisation within a period of six months from the date of issue of these directions. Notwithstanding anything contained in Para 3 (1) herein above, an existing ETP Operator may continue to carry on the operations till disposal of its application by the Reserve Bank granting or rejecting the letter of authorisation.
+(3) ETPs authorised by the Reserve Bank shall host transactions only in instruments approved by the Reserve Bank.
+4. Electronic trading platforms operated by banks for their customers (acting as users) on a bilateral basis are exempt from the provisions of these Directions provided that such platforms do not extend direct or indirect access to market makers in any market for eligible instruments, which would include, for the purpose of foreign exchange transactions, authorized dealers.
+5. Eligibility Criteria for authorization of ETPs
+(1) An entity seeking authorisation as an ETP operator to commence or carry on ETP operation shall fulfil the following criteria:
+a. General Criteria
+The entity shall be a company incorporated in India.
+The existing entities operating ETPs, without being incorporated in India, shall conform with the requirement of incorporation in India within a period of one year from the date of issue of authorisation of the ETP by the Reserve Bank under these directions.
+Shareholding by non-residents, if any, in the entity seeking authorisation as an ETP operator shall conform to all applicable laws and regulations, including the Foreign Exchange Management Act, 1999.
+The entity seeking authorisation as an ETP operator or its key managerial personnel shall have experience of at least three years in operating trading infrastructure in financial markets.
+Explanation: ‘Key managerial personnel’ shall have the same meaning as assigned to it in the Companies Act, 2013.
+b. Financial Criteria
+An entity seeking authorisation as an ETP operator under these Directions shall maintain a minimum net-worth of Rs.5 crore (Rupees five crore only) and shall continue to maintain the minimum net-worth prescribed herein at all times.
+The existing entities operating ETPs with a net-worth lower than the prescribed net-worth requirement shall achieve the minimum net-worth of Rs.5 crores (Rupees five crore only) within one year from the date of authorisation by the Reserve Bank.
+Banks seeking authorisation to operate ETP shall earmark a minimum capital of Rs.5 crore (Rupees five crore only) for the purpose.
+c. Technological Criteria
+The entity seeking authorisation as an ETP operator shall, at the minimum, fulfil the following technological requirements:
+Obtain and maintain robust technology infrastructure with a high degree of reliability, availability, scalability and security in respect of its systems, data and network, appropriate to support its operations and manage the associated risks.
+Ensure capability to disseminate trade information on a real-time basis or near real-time basis.
+(2) The eligibility criteria, prescribed in paragraph 5(1) (a) herein above, shall not apply to ETPs operated by Scheduled Commercial Banks.
+6. Grant of Authorisation to operate ETP and cancellation of Authorisation
+(1) Entities satisfying the eligibility criteria prescribed under these Directions may submit an application in the prescribed format given in
+Annex
+to the Chief General Manager, Financial Markets Regulation Department, Reserve Bank of India, 1st Floor, Main Building, Shaheed Bhagat Singh Marg, Mumbai – 400001, for grant of authorisation to operate an ETP.
+(2) The Reserve Bank may call for any additional information or seek any clarification from the applicant which in the opinion of the Reserve Bank is relevant and the applicant shall furnish such additional information and clarification.
+(3) The Reserve Bank may also obtain any additional information from other regulators or Government departments/agencies or any other authority, which in the opinion of the Reserve Bank is relevant for disposal of the application.
+(4) The Reserve Bank may, after being satisfied that the applicant fulfils the eligibility criteria, grant authorisation to operate an ETP subject to the terms and conditions stipulated therein.
+(5) The authorisation granted to an entity to operate an ETP is not transferrable and the Reserve Bank may impose additional conditions if the ETP operator is found to violate the provisions of these Directions or any other rules or regulations or conditions of authorisation.
+(6) The Reserve Bank may cancel an authorisation issued to an entity to operate an ETP, after affording a reasonable opportunity to represent its version, if it is satisfied that:
+the ETP Operator has violated a statutory provision or any rule or regulation or direction or order or instruction issued by the Reserve Bank; or
+the ETP Operator has violated any of the terms or conditions stipulated by the Reserve Bank while granting authorisation; or
+the continuance of authorisation is prejudicial to public interest or financial system of the country.
+(7) The decision of the Reserve Bank, to grant or reject the letter of authorisation to operate ETP or to cancel the letter of authorisation to commence or carry on ETP operations, would be final.
+(8) In case of rejection of the application received from the existing operators or cancellation of letter of authorisation by the Reserve Bank, the concerned ETP Operator shall stop the ETP operations with immediate effect unless the Reserve Bank has indicated any other specific date in the written communication to stop the ETP operations.
+(9) In case of cancellation of authorisation of an ETP Operator, the letter of authorisation in original shall be surrendered to the Reserve Bank.
+7. Operating Framework
+(1) An ETP operator shall adhere to the following requirements.
+a. Access and participation:
+An ETP operator shall:
+Have objective, fair and transparent membership criteria;
+Undertake due diligence at the time of on-boarding of all members and maintain all relevant information about the member;
+Identify its members uniquely using Legal Entity Identifier (LEI) and/or Permanent Account Number (PAN);
+Have well documented rules and regulations regarding, but not limited to, on-boarding, suspension and cessation of membership, roles and responsibilities of members and operator, liability framework for ETP and users in case of breach of rules and regulations, restrictions or other requirements that may apply for using the ETP, processing and execution of orders, risk management and control;
+Make available pre-trade information such as bid/offer prices, related quantities, depth of trading interest, or such other information, to its members in a fair and non-discriminatory basis consistent with the rules governing transactions;
+Make available post-trade information such as the price, volume and time of transactions or such other information, to its members, in a fair and non-discriminatory basis consistent with the rules governing transactions;
+Ensure that all documents, rules or regulations referred to in paragraph 7(1) a (iv) herein above are freely available to the members.
+b. Risk Management
+(i) An ETP operator shall put in place a comprehensive risk management framework covering all aspects of its operations. It shall ensure that risks associated with its operations are identified properly and managed prudently.
+(ii)
+Trading integrity
+:
+An ETP operator shall:
+Ensure access control for its members and prevent unauthorised access to the platform;
+Segregate the ETP from other financial services or infrastructure to prevent unfair access to the ETP;
+Ensure that all trades on the system, without exception, are dealt within a fair, non-discretionary and orderly manner, and as per established procedure;
+Prevent transactions that are not in compliance with the conditions of authorisation or with the prevailing legal or regulatory requirements.
+(iii)
+Algorithmic systems
+:
+An ETP operator that provides/facilitates participation by algorithmic trading systems (algo systems) shall:
+Put in place a framework for testing and on-boarding of algo systems;
+Ensure that such facilities are offered in a transparent and non-discriminatory manner;
+Ensure that their systems and controls are adequate and effective for monitoring and managing risks arising from algo systems;
+(iv) An ETP operator shall put in place appropriate controls to reduce the likelihood of erroneous transactions such as off-market quotes or trades, fat finger errors, unintended or uncontrolled trading activity by members, etc.
+(v)
+Handling exigencies
+:
+An ETP operator shall put in place rules and regulations in transparent manner to deal with exigencies like suspension/cessation of trading or cancellation of orders/trades, malfunctions in its systems or erroneous use by members, or any other unforeseen situation. Such exigencies should be dealt with in accordance with clearly laid down rules and regulations.
+(vi)
+Dispute resolution
+:
+An ETP operator shall put in place an arrangement to address any dispute that may arise or likely to arise between its members.
+8. Surveillance:
+An ETP operator shall implement systems and controls to ensure fair and orderly trading to maintain market integrity and monitor trading activity on a real time and post facto basis.
+9. Transparency:
+(1) An ETP operator shall
+Identify and disclose conflict of interest, if any, arising from participation of related parties or group agencies to the Reserve Bank; and
+Implement a fair, non-discriminatory and transparent fee structure for its members.
+10. Outsourcing of operations:
+(1) An ETP operator outsourcing its operations/technology/activities, partially or fully, shall ensure that:
+It has an effective governance and risk management mechanism for managing all risks inherent in such outsourcing relationships;
+Such outsourcing arrangements do not impede or interfere with or hinder such ETP operator from compliance with these Directions or any other regulations/directions/instructions/guidelines issued by the Reserve Bank from time to time.
+The requirements relating to preservation, access, use of data and reporting as given in paragraph 12 and paragraph 13 below are adhered to, even if the agreement/arrangement between the ETP operator and its outsourced entity is rescinded or expired.
+11. Technology and Information security (IS)
+Business Continuity and Disaster recovery: The ETP operator shall have in place a suitable Business Continuity Plan (BCP) including contingency and disaster recovery arrangements that are appropriate to the nature, scale, and complexity of its business to ensure continuity and availability of its operation.
+An ETP operator shall put in place adequate information and data security infrastructure. It should adhere to Information Technology (IT) and Information Security (IS) norms/guidelines, if any, prescribed by the Reserve Bank or any other regulator or public authority from time to time, as applicable to it.
+An ETP operator shall carry out IT/IS audit, at least once in a year, by auditors with Certified Information System Auditor (CISA) certificates or auditors empanelled by Indian Computer Emergency Response Team (CERT-In) or such other professional bodies.
+Notwithstanding anything contained in Para 11 (iii) herein above, the Reserve Bank may, at its discretion order an IT/IS audit of the ETP by an independent auditor(s), selected by the Reserve Bank.
+12. Preservation, access and use of data
+All data relating to activities on the ETP (henceforth, ETP data) shall be maintained in easily retrievable media for at least 10 years. Without prejudice to the minimum requirement for storage of data, the data sought for any investigation by the Reserve Bank or any other authority as required under Indian laws or regulations shall be maintained for three years from the date of completion of the investigation.
+An ETP operator shall maintain confidentiality and security of all ETP data. Access to such data should be strictly under the control of the ETP operator.
+13. Reporting requirements
+An ETP shall provide any data and/or information as required by the Reserve Bank in the format and within the timeframe prescribed.
+An ETP operator shall report transaction information to any trade repository or reporting platform, in the format and in the manner, as specified by the Reserve Bank.
+An ETP shall provide data/information to any other agencies/authorities as may be required under the Indian laws.
+An ETP shall keep the Reserve Bank informed of events resulting in disruption of activities or market abuse without undue delay.
+14. Termination of operation
+An ETP operator, who is holding a letter of authorisation to commence or carry on ETP operations, may terminate its operation with prior approval of the Reserve Bank with regard to timing and date of termination of operations, and shall comply with the terms and conditions stipulated by the Reserve Bank.
+In the event of early termination of its operations, the ETP operator shall surrender to the Reserve Bank the letter of Authorisation in original granted to it to commence or carry on the ETP operations.
+15. Exemption from provisions of these directions
+The Reserve Bank, on being satisfied that it is necessary to do so, may exempt any ETP Operator or class of ETP Operators either generally or for such period as may be specified, from any or all of the provisions of these Directions, subject to such terms or conditions or limitations or restrictions as it may think fit and proper to impose, in the interest of public or financial system of the country.

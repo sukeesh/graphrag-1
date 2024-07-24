@@ -1,0 +1,72 @@
+(115 kb)
+Guidelines on Loan System for Delivery of Bank Credit
+RBI/2018-19/87
+DBR.BP.BC.No.12/21.04.048/2018-19
+December 5, 2018
+All Scheduled Commercial Banks
+Small Finance Banks
+Dear Sir/ Madam,
+Guidelines on Loan System for Delivery of Bank Credit
+Please refer to the
+Draft Guidelines
+on the captioned subject issued on June 11, 2018 for comments of the stakeholders.
+2. Taking into account the views of the stakeholders, the final guidelines are
+annexed
+.
+Yours faithfully,
+(Saurav Sinha)
+Chief General Manager in-Charge
+Annex
+Guidelines on Loan System for Delivery of Bank Credit
+With a view to enhance credit discipline among the larger borrowers enjoying working capital facility from the banking system, delivery of bank credit for such borrowers shall be as under:
+1. Minimum level of ‘loan component’ and Effective date
+In respect of borrowers having aggregate fund based working capital limit of ₹1500 million and above from the banking system, a minimum level of ‘loan component’ of 40 percent shall be effective from April 1, 2019. Accordingly, for such borrowers, the outstanding ‘loan component’ (Working Capital Loan) must be equal to at least 40 percent of the sanctioned fund based working capital limit, including ad hoc limits and TODs. Hence, for such borrowers, drawings up to 40 percent of the total fund based working capital limits shall only be allowed from the ‘loan component’. Drawings in excess of the minimum ‘loan component’ threshold may be allowed in the form of cash credit facility. Working examples for bifurcation of working capital limit are provided in
+Appendix I
+. The bifurcation of the working capital limit into loan and cash credit components shall be effected after excluding the export credit limits (pre-shipment and post-shipment) and bills limit for inland sales from the working capital limit. Investment by the bank in the commercial papers issued by the borrower shall form part of the loan component, provided the investment is sanctioned as part of the working capital limit.
+2. Sharing of Working Capital Finance
+The ground rules for sharing of cash credit and loan components may be laid down by the consortium, wherever formed, subject to guidelines on bifurcation as stated in paragraph 1 above. All lenders in the consortium shall be individually and jointly responsible to make sure that at the aggregate level, the ‘loan component’ meets the above mentioned requirements. Under Multiple Banking Arrangements (MBAs), each bank shall ensure adherence to these guidelines at individual bank level.
+3. Amount and tenor of the loan
+The amount and tenor of the loan component may be fixed by banks in consultation with the borrowers, subject to the tenor being not less than seven days. Banks may decide to split the loan component into WCLs with different maturity periods as per the needs of the borrowers.
+4. Repayment/Renewal/Rollover of Loan Component
+Banks/consortia/syndicates will have the discretion to stipulate repayment of the WCLs in instalments or by way of a "bullet" repayment, subject to IRAC norms. Banks may consider rollover of the WCLs at the request of the borrower, subject to compliance with the extant IRAC norms.
+5. Risk weights for undrawn portion of cash credit limits
+Effective from April 1, 2019, the undrawn portion of cash credit/ overdraft limits sanctioned to the aforesaid large borrowers, irrespective of whether unconditionally cancellable or not, shall attract a credit conversion factor of 20 percent.
+6.
+The guidelines will be effective from April 1, 2019 covering both existing as well as new relationships. The 40 percent loan component will be revised to 60 percent, with effect from July 1, 2019.
+Appendix I
+Working Example for Bifurcation of Working Capital Limits
+(After adjustment as at paragraph 1 of the circular)
+(₹ in mn)
+S. No.
+Sanctioned Aggregate Fund based Working Capital Limit
+Current Outstanding
+40% of column 2 is to be drawn as WCL
+(1)
+(2)
+(3)
+(4)
+Scenario 1
+₹2100
+₹780
+WCL - ₹780
+CC - Nil
+Scenario 2
+₹2100
+₹1700
+WCL - ₹840
+CC - ₹860
+Scenario 3
+₹2100
+₹1600
+WCL - ₹840
+CC - ₹760
+Scenario 4
+₹2100
+₹2000
+WCL - ₹840
+CC - ₹1160
+Scenario 5
+₹2100
+₹2050
+WCL - ₹840
+CC - ₹1210

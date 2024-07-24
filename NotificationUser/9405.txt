@@ -1,0 +1,42 @@
+(700 kb)
+Extension of RTGS time window
+RBI/2014–15/352
+DPSS (CO) RTGS No. 1064 / 04.04.002 / 2014-15
+December 15, 2014
+The Chairman / Managing Director / Chief
+Executive Officer of participants of RTGS
+Madam / Sir,
+Extension of RTGS time window
+It has been the endeavour of the Reserve Bank of India to keep enhancing the systems, procedures, etc. to meet the growing needs of the markets/ customers. The launch of the new RTGS system in October 2013 was one of the steps taken by the Bank for catering to the growing volume and to provide liquidity saving and other features of the new system to the members.
+2. Of late there has been a market demand for extending business hours of the RTGS system to facilitate customer and inter-bank transactions as also to facilitate other market obligations to settle in the RTGS system. Accordingly, the RTGS business hours are being revised to meet the market expectation.
+3. It has hence been decided to advance RTGS business hours to 8:00 hours from 9.00 hours and extend closing time of RTGS to 20.00 hours on week days. RTGS business window will be open from 8.00 hours to 15.30 hours on Saturdays.
+4. In view of the above, the RTGS time window will be modified as under with effect from December 29, 2014:
+S. No.
+Daily Events
+Timing on Weekdays / Regular Days
+Timing on Saturdays / Short Days
+1.
+Open for Business
+08:00 hours
+08:00 hours
+2.
+Initial Cut-off
+16:30 hours
+14:00 hours
+3.
+Final Cut-off
+19:45 hours
+15:00 hours
+4.
+IDL Reversal
+19:45 hours – 20:00 hours
+-
+5.
+End of Day
+20:00 hours
+15:30 hours
+5. This circular is issued under Section 10 (2) of Payment & Settlement Systems Act, 2007.
+6. Please acknowledge receipt.
+Yours faithfully,
+Vijay Chugh
+Principal Chief General Manager

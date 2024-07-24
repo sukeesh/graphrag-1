@@ -1,0 +1,45 @@
+(94 kb)
+Basel III Liquidity Returns
+RBI/2014-15/213
+DBS.No.OSMOS.2915/33.01.001/2014-15
+September 5, 2014
+The Chairman / Chairman & Managing  Director/
+Managing Director / Chief Executive  Officer
+of Public Sector Banks, Private Sector  Banks /
+Foreign Banks (excluding RRBs)
+Dear Sir/Madam
+Basel III Liquidity Returns
+Please refer to the ‘Basel  III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR),  Liquidity Risk Monitoring Tools and LCR Disclosure Standards’ dated June 9,  2014 (
+Circular  Ref No. RBI/2012-13/635/DBOD.BP.BC.No.120/21.04.098 /2013-14
+). The circular  has, inter-alia, prescribed certain liquidity returns to be submitted by banks  to monitor their resilience to potential liquidity disruptions under stress  scenarios. These returns, covering global operations and effective from
+September 2014
+, are listed below.
+Sr. No.
+Name of the Basel III Liquidity    Return (BLR)
+Frequency of Submission
+Submission Deadline
+1
+Statement    on Liquidity Coverage Ratio (LCR)- BLR-1
+Monthly
+within    15 days
+2
+Statement    of Funding Concentration - BLR-2
+Monthly
+within    15 days
+3
+Statement    of Available Unencumbered Assets - BLR-3
+Quarterly
+within 21    days
+4
+LCR by    Significant Currency - BLR-4
+Monthly
+within    15 days
+5
+Statement    on Other Information on Liquidity - BLR-5
+Monthly
+within    15 days
+2. The above returns are required to be  submitted in XBRL platform. Submission of XBRL returns assume generation of  required instance documents (XML files) from source data. It is therefore  emphasized that banks may take necessary steps to fine tune their systems, controls  and MIS to generate the required instance documents from own data source.  However, as a temporary measure, excel based installers will also be made  available for compilation and generation of instance documents for banks which  are not ready to create instance documents on their own. Separate communication  will be issued as and when the XBRL site and installers are ready for submitting  the returns. However, banks are advised to compile and keep the data ready for  September 2014 onwards, for submission at short notice.
+3. It  is reiterated that the returns are being called for in exercise of powers under  section 27(2) of the Banking Regulation Act, 1949 and failure to adhere to  instructions on timely submission and data integrity may invite penal provisions  of the Act.
+Yours  faithfully,
+(Indrani Banerjee)
+Chief General Manager

@@ -1,0 +1,153 @@
+(361 kb)
+Reserve Bank of India (Government Securities Lending) Directions, 2023
+RBI/2023-24/97
+FMRD.DIRD.No.05/14.03.061/2023-2024
+December 27, 2023
+All participants in Government Securities market
+Madam/Sir,
+Reserve Bank of India (Government Securities Lending) Directions, 2023
+Please refer to paragraph 1 of the
+Statement on Developmental and Regulatory Policies
+, issued as a part of the
+Bi-monthly Monetary Policy Statement for 2022-23 dated February 08, 2023
+on introduction of Securities Lending and Borrowing in Government Securities. In pursuance of the announcement, the
+Draft Reserve Bank of India (Government Securities Lending) Directions, 2023
+were placed on the Reserve Bank’s website, on February 17, 2023, to invite comments from banks, market participants and other interested parties.
+2. Based on the comments received,
+the Directions
+have been finalized and are being issued herewith.
+3. These Directions have been issued in exercise of the powers conferred under section 45W of the Reserve Bank of India Act, 1934 read with section 45U of the Act and of all the powers enabling it in this behalf.
+4. These Directions shall come into immediate effect.
+Yours faithfully,
+(Dimple Bhandia)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+9th FLOOR, CENTRAL OFFICE, FORT
+MUMBAI – 400 001
+Notification No: FMRD.DIRD.No.06/14.03.061/2023-2024 dated December 27, 2023
+Reserve Bank of India (Government Securities Lending) Directions, 2023
+In exercise of the powers conferred under section 45-W of the Reserve Bank of India Act, 1934 (hereinafter called ‘the Act’) read with section 45-U of the Act, the Reserve Bank of India (hereinafter called the ‘Reserve Bank’) hereby issues the following Directions to all agencies dealing in Government securities.
+1. Short title, commencement and applicability of the directions
+(1) These Directions shall be called as the Reserve Bank of India (Government Securities Lending) Directions, 2023 and shall come into effect from December 27, 2023
+(2) These Directions shall be applicable to all Government securities lending transactions, undertaken in Over-the-Counter markets.
+2. Definitions
+(1) In these Directions, unless the context otherwise requires:
+“Central Counterparty”
+means a system provider, who by way of novation interposes between system participants in the transactions admitted for settlement, thereby becoming the buyer to every seller and the seller to every buyer, for the purpose of effecting settlement of their transactions.
+“Delivery versus Delivery”
+means a settlement mechanism which stipulates that transfer of securities from the borrower of securities is made simultaneously with the transfer of securities by the lender of securities.
+“Electronic Trading Platform (ETP)”
+means an electronic system as defined under section 2(1)(iii) of
+the Electronic Trading Platform (Reserve Bank) Directions, 2018
+.
+“Exchange”
+means a recognized stock exchange as defined under section 2(f) of the Securities Contracts (Regulation) Act, 1956.
+“Government Security”
+means a security as defined under section 2(f) of the Government Securities Act, 2006.
+“Government Securities Lending (GSL) transaction”
+refers to dealing in Government securities involving lending of eligible Government securities, for a fee, by the owner of those securities (the lender) to a borrower, on the collateral of other Government securities, for a specified period of time, with an agreement that the borrower shall return to the lender the security borrowed and the latter shall return the security received as collateral to the former at the end of the agreed period.
+“Government Security Lending Fee (GSL Fee)”
+means the fee paid by the borrower to the lender of the Government security as mutually agreed between them for undertaking the transaction.
+“Over-the-Counter (OTC) Markets”
+refers to markets where transactions are undertaken in any manner other than on exchanges and shall include those executed on ETPs.
+(2) Words and expressions used but not defined in these Directions, shall have the meaning assigned to them in the Reserve Bank of India Act, 1934.
+3. Eligible securities
+(1) Government securities issued by the Central Government excluding Treasury Bills shall be eligible for lending/borrowing under a GSL transaction. Securities obtained under a repo transaction, including through Reserve Bank’s Liquidity Adjustment Facility, or borrowed under another GSL transaction shall also be eligible to be lent under a GSL transaction.
+(2) Government securities issued by the Central Government (including Treasury Bills) and the State Governments shall be eligible for placing as collateral under a GSL transaction. Securities obtained under a repo transaction, including through Reserve Bank’s Liquidity Adjustment Facility, or borrowed under another GSL transaction shall also be eligible to be placed as collateral under a GSL transaction.
+4. Eligible participants
+(1) The following entities are eligible to participate in GSL transactions as lenders of securities:
+An entity eligible to undertake repo transactions in Government securities in terms of the
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 dated July 24, 2018
+, as amended from time to time.
+Any other entity approved by the Reserve Bank for this purpose.
+(2) Entities that are eligible to undertake short sale transactions in terms of
+Short Sale (Reserve Bank) Directions, 2018 dated July 25, 2018
+, as amended from time to time, shall be eligible to borrow securities under a GSL transaction.
+5. Tenor
+The minimum tenor of a GSL transaction shall be one day and the maximum tenor shall be the maximum period prescribed to cover short sales in terms of the Directions on ‘
+Secondary Market Transactions in Government Securities – Short Selling’ dated July 25, 2018
+, as amended from time to time.
+6. Trading process/platform
+GSL transactions may be contracted using any mutually agreed trading process/platform, including but not limited to, bilateral or multilateral, quote driven or order driven process, anonymous or otherwise.
+7. Settlement of trades
+(1) All GSL transactions shall settle on a Delivery versus Delivery basis.
+(2) The first leg of all GSL transactions shall settle either on a T+0 or T+1 basis.
+(3) All GSL transactions shall settle through Clearing Corporation of India Ltd. (CCIL) or any other central counterparty or clearing arrangement approved by the Reserve Bank for the purpose.
+8. Pricing of securities/collateral, haircut and margining
+(1) Securities/collateral under a GSL transaction shall be valued transparently at prevailing market prices in the first leg of the transaction.
+(2) Haircut/ margins relating to GSL transactions shall be decided by the central counterparty settling the transactions.
+9. Use of security borrowed and substitution of collateral
+(1) Securities borrowed under a GSL transaction may be:
+Sold either through an outright or a repo transaction or used for meeting a delivery obligation in a short sale; or
+Used for availing Reserve Bank’s Liquidity Adjustment Facility; or
+Lent under another GSL transaction; or
+Placed as collateral under another GSL transaction.
+(2) Securities placed as collateral may be substituted by the borrower with other eligible securities in terms of the rules of the central counterparty.
+10. Reporting of trades
+(1) All GSL transactions shall be reported to the CCIL, or any other agency approved by the Reserve Bank for the purpose, within 15 minutes of execution, by both counterparties to the transaction or by the ETP operator concerned, as the case may be.
+(2) Any misreporting or multiple reporting of the same OTC market deal by a counterparty shall be immediately brought to the notice of CCIL or the agency referred to in para 10(1) above, as the case may be.
+11. Obligation to provide information sought by the Reserve Bank
+The Reserve Bank may call for any information or statement or seek any clarification, which in the opinion of the Reserve Bank is necessary, from persons or agencies dealing in GSL transactions, including eligible participants and ETP operators, and such persons/agencies shall furnish such information, statement or clarification within such time as specified by the Reserve Bank.
+12. Dissemination of data
+The Reserve Bank or any other person authorised by the Reserve Bank, may publish any anonymised data related to GSL transactions.
+13. Accounting and disclosure
+(1) GSL transactions shall be accounted for by entities regulated by the Reserve Bank as per the guidelines contained in
+Annex
+.
+(2) Other eligible participants may account for GSL transactions as per applicable accounting standards.
+14. Computation of Statutory Liquidity Ratio (SLR)
+(1) SLR eligible securities borrowed under a GSL transaction shall be eligible to be reckoned for SLR by the borrower. Accordingly, such securities lent under a GSL transaction shall not be eligible to be reckoned for SLR by the lender.
+(2) SLR eligible securities received as collateral under a GSL transaction shall be eligible to be reckoned for SLR by the lender. Accordingly, such securities placed as collateral under a GSL transaction shall not be eligible to be reckoned for SLR by the borrower.
+15. Documentation:
+Participants undertaking GSL transactions shall enter into a standard bilateral master GSL agreement, with their counterparty, as per the documentation finalized by FIMMDA. In case of GSL transactions traded on ETPs authorized in terms of
+the Electronic Trading Platform (Reserve Bank) Directions, 2018
+, participants shall be governed by the rules and regulations of the platform, where it is traded.
+16. Violation of Directions
+In the event of any person or agency violating any provision of these Directions or the provisions of any other applicable law, the Reserve Bank may, in addition to taking any penal or regulatory action in accordance with law, disallow that person or agency from dealing in GSL transactions for a period not exceeding one month at a time, after providing reasonable opportunity to such person or agency to be heard, and such action may be made public by the Reserve Bank.
+(Dimple Bhandia)
+Chief General Manager
+Annex
+Accounting guidelines for Government Securities Lending (GSL) transactions for entities
+regulated by the Reserve Bank
+The following accounting guidelines will apply to Government Securities Lending transactions:
+1) Eligible portfolio:
+Market participants may lend eligible securities from any category of investments.
+2) Treatment of securities:
+The economic essence of a GSL transaction, viz., borrowing of eligible securities by placing other eligible securities, with the lender, as collateral shall be reflected in the books of the transacting parties, by accounting the same as collateralized lending and borrowing transaction, on the agreed terms. Accordingly,
+the security lender shall not exclude the securities lent under a GSL transaction but continue to carry the same in its investment account reflecting its continued economic interest in the securities during the loan period. On the other hand, the security borrower shall not include the securities borrowed under a GSL transaction in its balance sheet;
+the security borrower shall carry the securities placed as collateral with the lender under a GSL transaction in its investment account during the loan period; and the security lender shall not include the securities received as collateral under a GSL transaction in its balance sheet; and
+securities lent would be transferred from the security lender to the security borrower and securities placed as collateral would be transferred from the security borrower to security lender as in the case of normal outright sale/purchase transactions and such movement of securities shall be reflected using the memorandum accounts.
+3) Accounts:
+The following accounts may be maintained:
+GSL fee Income Account;
+GSL fee Expenditure Account;
+GSL fee Receivable Account; and
+GSL fee Payable Account.
+In addition to the above, the following memorandum accounts may also be maintained:
+GSL-Lent Securities Account;
+GSL-Borrowed Securities Account;
+GSL-Receivable Securities Account;
+GSL-Repayable Securities Account;
+GSL-Collateral Placed Account;
+GSL-Collateral Received Account;
+GSL-Collateral Receivable Account; and
+GSL-Collateral Repayable Account.
+These memorandum accounts shall be used to track securities lent/borrowed or placed as collateral and shall have no bearing on the presentation of the balance sheet.
+4) Pricing of security and recording of income and expenditure:
+In a GSL transaction, the securities should be lent (placed as collateral) in the first leg at market related prices and received in the second leg at the same prices. The second leg would involve a consideration amount viz. the GSL fee to be paid by the borrower to the lender of the security.
+The GSL income/expenditure shall be reckoned on accrual basis. The balance outstanding in the GSL fee Income Account and GSL fee Expenditure Account should be transferred to the Profit and Loss account. As regards GSL transactions outstanding on the balance sheet date, only the accrued income / expenditure till the balance sheet date should be taken to the Profit and Loss account. Any GSL income / expenditure for the remaining period should be reckoned in the next accounting period. To reflect the accrual of income in respect of the outstanding GSL transactions at the end of the accounting period, appropriate entries should be passed in the Profit and Loss account, with corresponding entries in GSL fee receivable account and GSL fee payable account, to reflect GSL fee Income / Expenditure in the books of the lender / borrower respectively. Such entries passed should be reversed on the first working day of the next accounting period.
+(An illustrative example is set out in
+Appendix – 1
+)
+5) Treatment of coupon/discount:
+The lender shall continue to accrue the coupon/discount on the securities lent during the loan period. Similarly, the borrower shall continue to accrue the coupon/discount on the securities placed as collateral during the loan period.
+In case the interest payment date of the securities lent (paced as collateral) under a GSL transaction falls within the loan period, the coupon received by the borrower (lender) of the security should be passed on to the lender (borrower) on the date of receipt, on value date basis, as the cash consideration payable by the borrower in the second leg does not include any intervening cash flows.
+6) Marking to market:
+The transacting parties shall continue to mark to market / value the securities lent or placed as collateral under GSL transactions as per applicable regulations / accounting standards.
+7) Classification of Accounts:
+Commercial banks shall classify balances in GSL fee Income A/c and GSL fee Expenditure A/c under Schedule 14 (item I) and under Schedule 16 (item XII) to their Profit and Loss Account statement respectively. The balance sheet classification for other participants shall be governed by applicable statutory provisions / guidelines.
+8) Disclosure:
+Entities regulated by the Reserve Bank shall make the disclosures set out in
+Appendix – 2
+in the “Notes on Accounts” to the Balance Sheet:

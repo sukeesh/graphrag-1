@@ -1,0 +1,21 @@
+(43 kb)
+Liberalised Remittance Scheme (LRS) for Resident Individuals – daily reporting of transactions
+RBI/2017-18/161
+A.P. (DIR Series) Circular No. 23
+April 12, 2018
+To
+All Category - I Authorised Dealer Banks
+Madam / Sir
+Liberalised Remittance Scheme (LRS) for Resident Individuals – daily reporting of transactions
+Please refer to the announcement made in para 10 of Part II of the
+First Bi Monthly Monetary Policy Statement 2018-19 dated April 05, 2018
+.
+2. Currently, transactions under Liberalised Remittance Scheme (LRS) are being permitted by AD banks based on the declaration made by the remitter. The monitoring of adherence to the limit is confined to obtaining such a declaration without independent verification, in the absence of a reliable source of information.
+3. In order to improve monitoring and also to ensure compliance with the LRS limits, it has been decided to put in place a daily reporting system by AD banks of transactions undertaken by individuals under LRS, which will be accessible to all the other ADs.
+4. Accordingly, from the date of issue of this circular, all AD Category-I banks are required to upload daily transaction-wise information undertaken by them under LRS at the close of business of the next working day. In case no data is to be furnished, AD banks shall upload a ‘Nil’ report. AD banks can upload the LRS data as CSV file (comma delimited), by accessing XBRL site through the URL
+https://secweb.rbi.org.in/orfsxbrl/
+as hitherto.
+5. The directions contained in this circular have been issued under Sections 10(4), 11(1) and 11(2) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/approvals, if any, required under any other law.
+Yours faithfully,
+(R K Moolchandani)
+Chief General Manager

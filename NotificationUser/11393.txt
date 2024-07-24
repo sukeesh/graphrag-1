@@ -1,0 +1,63 @@
+(297 kb)
+Prepaid Payment Instruments (PPIs) – Guidelines for Interoperability
+RBI/2018-19/61
+DPSS.CO.PD.No.808/02.14.006/2018-19
+October 16, 2018
+All Prepaid Payment Instrument Issuers, System Providers and System Participants
+Madam / Dear Sir,
+Prepaid Payment Instruments (PPIs) – Guidelines for Interoperability
+A reference is invited to the
+Master Direction DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017
+(updated as on December 29, 2017) on Issuance and Operation of PPIs (M.D.). As per the road-map laid down therein, interoperability of all KYC-compliant PPIs was to be enabled in three phases - (i) interoperability of PPIs issued in the form of wallets through Unified Payments Interface (UPI), (ii) interoperability between wallets and bank accounts through UPI, and (iii) interoperability for PPIs issued in the form of cards through card networks.
+2. In order to prepare better for implementation of interoperability, consolidated guidelines for enabling all phases are
+enclosed
+. Participating PPI issuers, who choose to adopt interoperability shall ensure adherence to the enclosed guidelines, in addition to the instructions on KYC, security for transactions and application life cycle, cyber security, fraud prevention and risk management as in the M.D.
+3. Banks shall also be guided by the RBI
+circulars DBS.CO/CSITE/BC.11/33.01.001/2015-16 dated June 2, 2016
+on ‘Cyber Security Framework in Banks’ and
+DBS.CO.ITC.BC.No.6/31.02.008/2010-11 dated April 29, 2011
+on ‘Working Group on Information Security, Electronic Banking, Technology Risk Management and Cyber Frauds - Implementation of Recommendations’, as applicable.
+4. Furthermore, all participating PPI issuers shall be guided by the technical specifications / standards / requirements for achieving interoperability through UPI and card networks as per the requirements of National Payments Corporation of India (NPCI) and the respective card networks. NPCI and card networks shall facilitate participation by PPI issuers in UPI and card networks.
+5. These guidelines are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Encl.: As above
+Prepaid Payment Instruments (PPIs) – Operational Guidelines for Interoperability
+(DPSS.CO.PD.No.808/02.14.006/2018-19 dated October 16, 2018)
+1. Introduction
+1.1 Interoperability is the technical compatibility that enables a payment system to be used in conjunction with other payment systems. Interoperability allows PPI Issuers, System Providers and System Participants in different systems to undertake, clear and settle payment transactions across systems without participating in multiple systems.
+2. Requirements
+2.1 The requirements mentioned herein, with respect to interoperability, are in addition to the provisions of Master Direction on PPIs.
+2.2 PPI issuers shall have a Board approved policy for achieving PPI interoperability.
+3. Requirements for achieving interoperability: Common to Wallets and Cards
+3.1 Where PPIs are issued in the form of wallets, interoperability across PPIs shall be enabled through UPI.
+3.2 Where PPIs are issued in the form of cards, the cards shall be affiliated to the authorised card networks.
+3.3 All PPI issuers intending to implement interoperability through UPI and / or card networks shall adhere to the instructions contained in these guidelines. PPI issuers operating exclusively in specific segments like Meal, Gift and MTS may also implement interoperability.
+3.4 The interoperability shall be facilitated to all KYC compliant PPI accounts and entire acceptance infrastructure.
+3.5
+Technical requirements:
+PPI issuers shall adhere to all the requirements of card networks / UPI including membership type and criteria, merchant on-boarding, adherence to various standards, rules and regulations applicable to the specific payment system such as technical requirements, certifications and audit requirements, governance, etc.
+3.6
+Reconciliation, customer protection and grievance redressal:
+PPI issuers shall ensure adherence to all guidelines / requirements of card networks / UPI in terms of reconciliation of positions at daily / weekly / monthly or more frequent basis, as the case may be.
+PPI issuers shall adhere to all dispute resolution and customer grievance redressal mechanisms as prescribed by the card networks / UPI.
+4. Requirements for achieving interoperability through card networks
+4.1 Card networks are allowed to onboard PPI issuers to join their network. Non-bank PPI issuers are permitted to participate as members / associate members of authorised card networks.
+4.2
+Settlement:
+For the purpose of settlement, a non-bank PPI issuer can participate directly or through a sponsor bank arrangement as the case may be. Non-bank PPI issuers shall adhere to the requirements of respective card network’s settlement system.
+4.3
+Safety and security:
+As non-bank PPI issuers will issue interoperable cards in association with card networks for the first time, the cards issued by these entities shall ab initio be EMV Chip and PIN compliant.
+Banks shall ensure that all new PPIs issued in the form of cards are EMV Chip and PIN compliant.
+Banks shall ensure that all reissuance / renewal of PPIs in the form of cards are EMV Chip and PIN compliant.
+PPI issuers operating exclusively in Meal segment shall issue EMV Chip and PIN compliant cards, if they opt for interoperability. Gift cards and MTS, may however, be issued with or without EMV Chip and PIN enablement.
+5. Requirements for achieving interoperability through UPI
+5.1 PPI issuers shall facilitate all basic / standard features of interoperability of UPI.
+5.2 PPI issuers shall act as Payment System Providers (PSP) in the UPI. NPCI will issue handle to the PPI issuers as per its policy / guidelines taking risk management aspects into consideration. Since *99# USSD is part of UPI, non-bank PPI issuers are also allowed to participate in the same.
+5.3 PPI holders shall be on-boarded for UPI by their own PPI issuer only. PPI issuers shall only link their customer wallets to the handle issued to them. PPI issuers as PSP shall not on-board customers of any bank or any other PPI issuer.
+5.4 Authentication will be completed by the PPI holder as per his / her existing wallet credentials. In other words, a transaction will be pre-approved before it reaches the UPI.
+5.5
+Settlement:
+For the purposes of settlement, a non-bank PPI issuer shall participate through a sponsor bank. Non-bank PPI issuers shall adhere to the requirements of sponsor bank arrangement in UPI as also meet all requirements of NPCI in this regard.

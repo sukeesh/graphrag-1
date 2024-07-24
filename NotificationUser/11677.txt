@@ -1,0 +1,69 @@
+(93 kb)
+External Benchmark Based Lending
+RBI/2019-20/53
+DBR.DIR.BC.No.14/13.03.00/2019-20
+September 04, 2019
+All Scheduled Commercial Banks (excluding RRBs)
+All Small Finance Banks
+All Local Area Banks
+Madam / Dear Sir,
+External Benchmark Based Lending
+As you are aware, Reserve Bank had constituted an Internal Study Group (ISG) to examine various aspects of the marginal cost of funds-based lending rate (MCLR) system. The final report of the ISG was published in
+October 2017
+for public feedback. The ISG observed that internal benchmarks such as the Base rate/MCLR have not delivered effective transmission of monetary policy. The Study Group had, therefore, recommended a switchover to an external benchmark in a time-bound manner.
+2. As a step in that direction, it was announced in the fifth bi-monthly Monetary Policy Statement for 2018-19 under
+‘Statement on Developmental and Regulatory Policies’ dated December 05, 2018
+, that all new floating rate personal or retail loans and floating rate loans to Micro and Small Enterprises extended by banks from April 1, 2019 shall be linked to external benchmarks. Subsequently, it was announced in the first bi-monthly Monetary Policy Statement for 2019-20 under
+‘Statement on Developmental and Regulatory Policies’ dated April 04, 2019
+to hold further consultations with stakeholders and work out an effective mechanism for transmission of rates. Based on the consultations with stakeholders, it has now been decided to link all new floating rate personal or retail loans (housing, auto, etc.) and floating rate loans to Micro and Small Enterprises extended by banks with effect from October 01, 2019 to external benchmarks.
+3. Accordingly, RBI instructions contained in Master Direction on Interest Rate on Advances issued vide
+DBR.Dir.No.85/13.03.00/2015-16 dated March 03, 2016
+are amended as under:
+3.1 The existing paragraph No. 7 of the aforesaid Master Direction stands replaced as under:
+(a) All new floating rate personal or retail loans (housing, auto, etc.) and floating rate loans to Micro and Small Enterprises extended by banks from October 01, 2019 shall be benchmarked to one of the following:
+- Reserve Bank of India policy repo rate
+- Government of India 3-Months Treasury Bill yield published by the Financial Benchmarks India Private Ltd (FBIL)
+- Government of India 6-Months Treasury Bill yield published by the FBIL
+- Any other benchmark market interest rate published by the FBIL.
+(b) Banks are free to offer such external benchmark linked loans to other types of borrowers as well.
+(c) In order to ensure transparency, standardisation, and ease of understanding of loan products by borrowers, a bank must adopt a uniform external benchmark within a loan category; in other words, the adoption of multiple benchmarks by the same bank is not allowed within a loan category.
+3.2 A new paragraph No.8(e) is added to the aforesaid Master Direction as given below:
+Spread under External Benchmark
+Banks are free to decide the spread over the external benchmark. However, credit risk premium may undergo change only when borrower’s credit assessment undergoes a substantial change, as agreed upon in the loan contract. Further, other components of spread including operating cost could be altered once in three years.
+3.3 A new paragraph No. 9(ii) is added to the aforesaid Master Direction as given below:
+Reset of Interest Rates under External Benchmark
+The interest rate under external benchmark shall be reset at least once in three months.
+3.4 A new paragraph No. 11(ii) is added to the aforesaid Master Direction as given below:
+Transition to External Benchmark from MCLR/Base Rate/BPLR
+Existing loans and credit limits linked to the MCLR/Base Rate/BPLR shall continue till repayment or renewal, as the case may be.
+Provided
+that floating rate term loans sanctioned to borrowers who, in terms of extant guidelines, are eligible to prepay a floating rate loan without pre-payment charges, shall be eligible for switchover to External Benchmark without any charges/fees, except reasonable administrative/ legal costs. The final rate charged to this category of borrowers, post switchover to external benchmark, shall be same as the rate charged for a new loan of the same category, type, tenor and amount, at the time of origination of the loan.
+Provided
+that other existing borrowers shall have the option to move to External Benchmark at mutually acceptable terms.
+Provided
+that the switch-over shall not be treated as a foreclosure of existing facility.
+4. The existing paragraph No. 2 of the aforesaid Master Direction is applicable for Small Finance Banks and Local Area Banks and the para is amended accordingly.
+5. The existing paragraph No. 3(a)(iv) of the aforesaid Master Direction stands amended as under:
+External benchmark rate means the reference rate which includes:
+Reserve Bank of India policy Repo Rate
+Government of India 3-Months and 6-Months Treasury Bill yields published by Financial Benchmarks India Private Ltd (FBIL)
+Any other benchmark market interest rate published by FBIL.
+6. Some of the sub-paragraphs of para 4(a) of the aforesaid Master Direction stands amended as given hereunder:
+(ii) All floating rate loans, except those mentioned in Section 13, shall be priced with reference to the benchmark indicated in chapter III.
+(iv) When the floating rate advances are linked to an internal benchmark rate, banks shall determine their actual lending rates by adding the components of spread to the internal benchmark rate.
+(vi) Interest rates on fixed rate loans of tenor below 3 years shall not be less than the benchmark rate for similar tenor and shall be as per directions contained in Section 13(d)(v).
+7. A new paragraph No. 4(a)(xi) is added to the aforesaid Master Direction as indicated below:
+There shall be no lending below the benchmark rate for a particular maturity for all loans linked to that benchmark.
+8. The existing paragraph No. 6(a)(i) of the aforesaid Master Direction stands amended as under:
+All floating rate rupee loans sanctioned and renewed between July 1, 2010 and March 31, 2016 shall be priced with reference to the Base Rate which will be the internal benchmark for such purposes.
+9. The existing paragraph No. 6(b)(i) of the aforesaid Master Direction stands amended as under:
+All floating rate rupee loans sanctioned and renewed w.e.f. April 1, 2016 shall be priced with reference to the Marginal Cost of Funds based Lending Rate (MCLR) which will be the internal benchmark for such purposes subject to the provisions contained in paragraph 7 of this Master Direction.
+10. A new paragraph No. 9 (i)(d) is added to the aforesaid Master Direction as indicated below:
+The periodicity of the reset under MCLR shall correspond to the tenor/maturity of the MCLR to which the loan is linked.
+11. The following part of the sub-paragraphs (a), (b), (c) of para 13 of the aforesaid Master Direction as indicated hereunder stands deleted:
+“shall be exempted from being linked to Base rate/MCLR as the benchmark for determining interest rate’’
+12. The following part of the paragraph 13(d) of the aforesaid Master Direction as indicated hereunder stands deleted:
+“shall be priced without being linked to Base rate/MCLR as the benchmark for determining interest rate’’
+Yours faithfully,
+(Dr. S. K. Kar)
+Chief General Manager

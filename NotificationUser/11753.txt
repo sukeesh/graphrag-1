@@ -1,0 +1,18 @@
+(79 kb)
+Operational Risk Management: Price / Yield range setting in e-Kuber
+RBI/2019-20/114
+Ref. No. IDMD/1615/08.02.032/2019-20
+December 12, 2019
+All Scheduled Commercial Banks
+All State Co-operative Banks/All Scheduled Primary
+(Urban) Co-operative Banks /All Financial Institutions/
+All Primary Dealers.
+Dear Sir / Madam
+Operational Risk Management: Price / Yield range setting in e-Kuber
+In the recent past there have been a few instances of Fat Finger, Big Figure errors on the part of market participants in G Sec auctions. Realizing that such errors can cause financial loss to the bidders, Reserve Bank of India has developed a “Price / Yield range setting” facility on its Core Banking Solution (CBS) platform, viz. e-Kuber.
+2. The facility allows a participant to define a range i.e. a maximum and a minimum value for bids they intend to submit. The range can be set in either price or yield terms, for each security, for every auction which can be set before the auction and can also be modified during the auction. Once the limits are set by the participating entity, auction bids will be automatically validated against the set limits. As a risk management measure, all participant entities should start using the facility and put it to good use.
+3. a. The path for configuring the facility is: “Home> Primary Auctions/OMO Issues> Issue Price Yield Configuration”.
+b. The path for viewing the limits is: “Home> Primary Auctions/OMO Issues> View of Price/yield band for Issue reference”.
+Yours faithfully,
+(Arvind Kumar)
+General Manager

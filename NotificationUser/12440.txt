@@ -1,0 +1,103 @@
+(236 kb)
+Guidelines on Acquisition and Holding of Shares or Voting Rights in Banking Companies
+The contents of these Guidelines shall be read along with
+Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023
+, and applicable provisions of the Banking Regulation Act, 1949.
+Prior approval for acquisition of shares or voting rights in a banking company
+2. In terms of sub-section (1) of Section 12B of Banking Regulation Act, 1949, every person, who intends to acquire shares or voting rights and intends to be a major shareholder
+1
+of a banking company, is required to obtain previous approval of the Reserve Bank.
+3. The person, who intends to be a major shareholder of a banking company, is required to make an application to the Reserve Bank along with the declaration in
+Form A
+. The Reserve Bank would undertake a due diligence to assess the ‘fit and proper’ status of the applicant. It will be open to the Reserve Bank to seek additional information / documents from the applicant / concerned banking company and make such enquiries with regulators, revenue authorities, investigation agencies, credit rating agencies or any other persons as considered appropriate.
+4. While granting approvals, the Reserve Bank may specify conditions under sub-section (4) of Section 12B of B R Act,1949, including a validity period for completing such acquisition. Subsequent to such acquisition, if at any point in time the aggregate holding
+2
+of the person falls below five per cent, as per sub-section (1) of Section 12B of B R Act, 1949, the person will be required to again obtain prior approval from the Reserve Bank to raise the aggregate holding to five per cent or more of total paid-up share capital or voting rights of the banking company.
+5. Any person who intends to acquire shares or voting rights in a banking company beyond the limit for which approval was obtained from the Reserve Bank, is required to apply to the Reserve Bank for prior approval to increase their aggregate holding in the banking company.
+6. The persons from
+3
+Financial Action Task Force (FATF) non-compliant jurisdictions
+4
+shall not be permitted to acquire major shareholding in the banking company. However, the existing major shareholders from such FATF non-compliant jurisdictions would be allowed to continue with their investment, provided that there shall not be any further acquisition without prior approval of the Reserve Bank. The Reserve Bank may, however, review the ‘fit and proper’ status of such holders of shares or voting rights at any point of time and may take steps to limit their voting rights in accordance with law.
+Information to be provided for continuous monitoring
+7. In addition to furnishing the information sought by the banking company, major shareholders who have completed the approved
+5
+acquisition or applicants who have obtained the approval to have major shareholding or applicants who have submitted the application for obtaining the prior approval shall inform the banking company of any change in the information provided in
+Form A
+or any other development which may have a bearing on the ‘fit and proper’ status.
+Limits on shareholding
+8. Permission of the Reserve Bank to acquire shares or voting rights in a banking company shall be subject to the following limits:
+(a) Non-promoter:
+10 per cent of the paid-up share capital or voting rights of the banking company in case of natural persons, non-financial institutions, financial institutions directly or indirectly connected with Large Industrial Houses
+6
+and financial institutions that are owned to the extent of 50 per cent or more or controlled by individuals (including the relatives and persons acting in concert)
+7
+, or
+15 per cent of the paid-up share capital or voting rights of the banking company in case of financial institutions (excluding those mentioned in paragraph 8(a)(i) above), supranational institutions, public sector undertaking and central/state government.
+(b) Promoter: 26 per cent of the paid-up share capital or voting rights of the banking company after the completion of 15 years
+8
+from commencement of business of the banking company.
+9. During the period prior to the completion of the 15 years, the promoters of banking companies may be allowed to hold a higher percentage of shareholding as part of the licensing conditions or as part of the shareholding dilution plan
+9
+submitted by the banking company and approved by the Reserve Bank with such conditions as deemed fit.
+10. Reserve Bank may also permit higher shareholding [than the limits prescribed in paragraph 8 above] on a case-to-case basis under circumstances such as relinquishment by existing promoters, supervisory intervention including under Prompt Corrective Action, reconstruction/restructuring of banks, entrenchment of existing promoters or any other action in the interest of the banking company and its depositors or in the interest of consolidation in the banking sector, etc. While allowing such higher shareholding, Reserve Bank may impose conditions as deemed fit (including dilution of such higher shareholding within a timeline).
+11. In specific cases where State Government / Central Government / Union Territory / Public Sector Undertaking / Public Financial Institution / specifically permitted investors are promoters of banking companies or have been specifically permitted by Reserve Bank to hold a higher shareholding as promoter/non-promoter in certain special circumstances
+10
+, Reserve Bank may prescribe a differentiated shareholding dilution plan for such holdings.
+Lock-in requirement
+12. In case of a person permitted by the Reserve Bank to have a shareholding of 10 per cent or more of the paid-up equity share capital
+11
+of the banking company but less than 40 per cent of the paid-up equity share capital, the shares acquired shall remain under lock-in for first five years from the date of completion of acquisition. In case of any person permitted to have a shareholding of 40 per cent or more of the paid-up equity share capital of the banking company, only 40 per cent of paid-up equity share capital shall remain under lock-in for first five years from the date of completion of acquisition.
+13. The shares which are under lock-in, shall not be encumbered under any circumstances. Promoter(s) and promoter group are required to report details of creation/invocation/release of encumbrance on shares which are not under lock-in to the banking company within two working days of such an event in the format specified in
+Form B
+as given in these Guidelines.
+14. After the end of the lock-in period, there is no requirement for any minimum shareholding.
+Ceiling on voting rights
+15. As per the provisions of sub-section (2) of Section 12 of B R Act, 1949, read with gazette notification DBR.PSBD.No.1084/16.13.100/2016-17 dated July 21, 2016, no shareholder in a banking company can exercise voting rights on poll in excess of 26 per cent of total voting rights
+12
+of all the shareholders of the banking company.
+16. A Depository can exercise voting rights on behalf of the Depository Receipts (DR) holder only in cases where it can be demonstrated that their holdings on behalf of DR holder is in conformity with Section 12B of B R Act, 1949, and the Depository exercises voting rights pursuant to voting instructions from the DR holder. The changes in the depository agreements shall require the prior approval of the Reserve Bank.
+17. In case of person(s) holding beneficial interest
+13
+attached to shares, the voting rights can be exercised only in cases where it can be demonstrated that the aggregate holding is in conformity with Section 12B of B R Act, 1949.
+18. A person can exercise voting rights on behalf of registered shareholders only in cases where it can be demonstrated that their aggregate voting rights is in conformity with Section 12B of B R Act, 1949.
+19. Any major shareholder
+14
+who is covered by sub-section (3) of section 12B of the B R Act, 1949, and has not obtained prior approval of the Reserve Bank, can exercise voting rights only after obtaining the approval of Reserve Bank for major shareholding.
+Related Links
+January 16, 2023
+Master Direction – Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023
+November 26, 2021
+Recommendations of the Internal Working Group to Review Extant Ownership Guidelines and Corporate Structure for Indian Private Sector Banks
+1
+‘Major shareholder’ shall have the same meaning as under the
+Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023
+2
+‘Aggregate holding’ shall have the same meaning as under the
+Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights in Banking Companies) Directions, 2023
+3
+This shall also be applicable to various jurisdictions through which the funds for investments are routed.
+4
+i) High-Risk Jurisdictions subject to a Call for Action, and ii) Jurisdictions under Increased Monitoring.
+5
+The usage of the word ‘approved’ shall mean approved by the Reserve bank.
+6
+The Guidelines for ‘on tap’ Licensing of Universal Banks and Guidelines for ‘on tap’ Licensing of Small Finance Banks in the Private Sector issued by the Reserve Bank may be referred to.
+7
+The shareholding in banks by such financial institutions would be deemed to be by a natural person for the purpose of these Guidelines
+8
+In case of SFBs which already transited from UCBs the period of 15 years will begin from reaching the net-worth of ₹200 crores.
+9
+to ensure diversified shareholding and is not just limited to promoters but also include non-promoter with shareholding higher than the limits prescribed in paragraph 8(a) of these Guidelines.
+10
+Including a scheduled commercial bank which has been specifically permitted to hold equity stake as per the “
+Guidelines for Licensing of Payments Banks, 2014
+”
+11
+Paid-up voting equity share capital is nothing but ‘paid up equity share capital’ as preference share capital in banking companies cannot have voting rights as per the BR Act.
+12
+This shall include voting rights against all shares issued by the banking company and is not restricted to ‘exercisable’ voting rights arrived at after cutting off the rights beyond the maximum limit that can be exercised by a single holder. Thus, the percentage of voting rights exercisable has to be worked out in relation to the total number of shares carrying voting rights assuming that there are no restrictions.
+13
+Beneficial interest has the same meaning as stated in Section 89 of the Companies Act, 2013 and rules framed thereunder.
+14
+Includes acquisition of shares or entitlement to exercise voting rights in cases involving invocation of encumbrance of shares.

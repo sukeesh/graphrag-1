@@ -1,0 +1,33 @@
+(199 kb)
+Basel III Framework on Liquidity Standards – Monitoring tools for Intraday Liquidity Management
+RBI/2014-15/293
+DBR.BP.BC.No.46/21.04.098/2014-15
+November 3, 2014
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear Sir,
+Basel III Framework on Liquidity Standards – Monitoring  tools for Intraday Liquidity Management
+Please refer to the  ‘
+Fourth Bi-Monthly Monetary Policy Statement’ announced on September 30, 2014
+,  wherein it was proposed to issue final guidelines for  monitoring tools for intra-day liquidity management in October 2014, consistent  with the quantitative tools finalised by the Basel Committee on Banking  Supervision (BCBS).
+2. In this regard, please also refer to
+paragraphs 35-38
+under the  sub-heading
+Intra-day  Liquidity Position Management
+of our circular DBOD.BP.No.56/21.04.098/  2012-13 dated November 7, 2012 on
+‘Liquidity Risk  Management by Banks’
+, wherein banks were advised to develop and adopt an intra-day liquidity  strategy that allows them to monitor and measure expected daily gross liquidity  inflows and outflows and ensure that arrangements to acquire sufficient  intraday funding to meet their intraday needs are in place and they have the  ability to deal with unexpected disruptions to their liquidity flows. They were also advised to put in place at the earliest the intra-day  liquidity risk management requirements and the same were made applicable for  banks with effect from December 31, 2012 in respect of rupee liquidity and with  effect from June 30, 2013 in respect of any significant foreign currencies.
+3.  Further, in  terms of paragraph 36 of the circular, banks were advised to be guided by the consultative  document of Basel Committee on Banking Supervision on ‘Monitoring indicators  for intraday liquidity management’ issued in July 2012 (available at
+http://www.bis.org/publ/bcbs225.pdf
+) and  thereafter, the final document, as and when it is issued.
+4. The BCBS has since issued  the final document in this regard in April 2013. The document is a set of  quantitative tools developed by the BCBS in consultation with the Committee on  Payment and Settlement Systems (CPSS), to enable banking supervisors to monitor  banks’ intraday liquidity risk and their ability to meet payment and settlement  obligations on a timely basis under both normal and stressed conditions.  Accordingly, RBI’s final guidelines on Monitoring Tools for intraday liquidity  management are enclosed in the
+Annex
+. Banks will be required to report the  monitoring tools, as given in this circular, to the RBI on a monthly basis from  1 January 2015 to coincide with the implementation of the LCR reporting  requirements as advised vide our
+circular DBOD.BP.BC.No.120/21.04.098/2013-14  dated June 9, 2014
+on “Basel III Framework on Liquidity Standards –  Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR  Disclosure Standards”.
+5. It will be pertinent to mention here that  while the objective of the Liquidity  Coverage Ratio (LCR) is to promote the short-term resilience of the liquidity  risk profile of banks, it does not include intraday liquidity within its  calibrationand the LCR stress scenario does not cover expected or  unexpected intraday liquidity needs.
+6. Besides forming a  key element of a bank’s overall liquidity risk management, management of  intraday liquidity risk has a close relationship with the smooth functioning of  payment and settlement systems. Considering the critical importance, the  imperatives of having a robust liquidity governance structure to ensure  integrity of the intraday liquidity monitoring tools hardly require to be overemphasised. Boards through their senior  management should develop suitable strategy, risk management policies and  practices to monitor intraday liquidity, ensure integrity of regulatory  reporting and review the efficacy of the monitoring tools.
+Yours faithfully,
+(Sudarshan Sen)
+Chief General Manager
+Encls: as above

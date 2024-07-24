@@ -1,0 +1,24 @@
+(241 kb)
+Central KYC Records Registry (CKYCR) - template for Know Your Customer (KYC) and reporting requirements under Foreign Account Tax Compliance Act (FATCA)/ Common Reporting Standards (CRS)
+RBI/2015-16/251
+DBR.AML.BC.No.60/14.01.001/2015-16
+November 26, 2015
+The Chairpersons/ CEOs of all Scheduled Commercial Banks/ Regional Rural Banks/ Local Area Banks/ All India Financial Institutions/ all NBFCs/ All Primary (Urban) Co-operative Banks /State and Central Co-operative Banks (SCBs / CCBs) /All Payment System Providers/ System Participants and Prepaid Payment Instrument Issuers/ All authorised persons
+Dear Sir/ Madam
+Central KYC Records Registry (CKYCR) - template for Know Your Customer (KYC) and reporting requirements under Foreign Account Tax Compliance Act (FATCA)/ Common Reporting Standards (CRS)
+The Government has vide a notification dated July 7, 2015 (
+copy enclosed
+), amended the Prevention of Money Laundering (Maintenance of Records) Rules, 2005, (Rules), for setting up of the Central KYC Records Registry (CKYCR). In terms of the notification, the proposed CKYCR would receive, store, safeguard and retrieve the KYC records in digital form of a client, for which necessary amendments to the Rules have been made. The KYC records received and stored by the CKYCR could be retrieved online by any reporting entity across the financial sector for the purpose of establishing an account based relationship in terms clause (a) and (b) of Rule 9. A formal announcement by the Government naming the entity which will function as the CKYCR is expected shortly. In order to facilitate collating and reporting the KYC data to the proposed CKYCR, templates finalised in consultation with other regulators and CBDT (separate for
+individuals
+and
+legal entity
+) are enclosed. It may also be noted that in case of opening of ‘Small Accounts’, only personal details in section 1 of the template together with the photograph, signature/thumb impression and self-certification document should be obtained. You are advised to be in readiness to share the KYC data with the CKYCR once the CKYCR is notified by the Government.
+2. As the KYC data captured by the template also fulfil the reporting requirement under FATCA and CRS, your attention is invited to our
+circular DBR.AML.BC.No.36/14.01.001/2015-16
+and
+DBR.AML.No.3074/14.01.001/2015-16
+dated August 28, 2015 and August 31, 2015, respectively, forwarding the Rules and Guidance Note on the reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standards (CRS). In order to enable reporting entities to comply with the FATCA and CRS reporting requirement, reporting entities are advised to take all necessary steps to ensure compliance with the reporting requirements within the timelines mentioned in the Rules and Guidance Note, expeditiously.
+Yours faithfully
+(Lily Vadera)
+Chief General Manager
+Encl: as above

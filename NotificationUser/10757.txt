@@ -1,0 +1,254 @@
+(138 kb)
+Large Exposures Framework
+RBI/2016-17/167
+DBR.No.BP.BC.43/21.01.003/2016-17
+December 01, 2016
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Madam/Dear Sir,
+Large Exposures Framework
+Please refer to the paragraph 3 of the Statement on Developmental and Regulatory Policies issued by RBI on October 4, 2016 (
+extract enclosed
+). It was indicated therein that RBI will issue final guidelines on Large Exposures Framework (LEF) by end-October, 2016. Accordingly, the final guidelines are
+annexed
+.
+2. The LEF will be effective from April 1, 2019.
+Yours faithfully,
+(S. S. Barik)
+Chief General Manager-in-Charge
+Extracts from Statement on Developmental and Regulatory Policies
+dated October 4, 2016
+3. Large Exposure Framework -
+In order to align the exposure norms for Indian banks with the BCBS standards, and based on comments and feedback received on the Discussion Paper on the Large Exposures Framework, a Draft Large Exposures (LE) Framework was issued on August 25, 2016 for public comments. The comments/feedback received from stakeholders on the draft proposals will be examined and the final guidelines will be issued by end-October 2016 for full implementation by March 31, 2019.
+Annex
+Large Exposures Framework
+1. Introduction
+1.1 A bank’s exposures to its counterparties may result in concentration of its assets to a single counterparty or a group of connected counterparties. As a first step to address the concentration risk, the Reserve Bank, in March 1989, fixed limits on bank exposures to an individual business concern and to business concerns of a group. RBI’s prudential exposure norms have evolved since then and a bank’s exposure to a single borrower and a borrower group is currently restricted to 15 percent and 40 percent of capital funds respectively. A comprehensive policy framework on the subject is consolidated in the Master Circular – Exposure Norms/Master Direction - Prudential Norms on Banks’ Exposures.
+1.2 In January 1991, the Basel Committee on Banking Supervision (BCBS) issued supervisory guidance on large exposures, viz., Measuring and Controlling Large Credit Exposures. Further, the Core Principles for Effective Banking Supervision (Core Principle 19), published by BCBS in October 2006 (since revised in September 2012) prescribed that local laws and bank regulations set prudent limits on large exposures to a single borrower or a closely related group of borrowers. In order to foster a convergence among widely divergent national regulations on dealing with large exposures, the BCBS issued the Standards on ‘Supervisory framework for measuring and controlling large exposures’ in April 2014. The Reserve Bank has decided to suitably adopt these standards for banks in India and, accordingly, the instructions on banks' Large Exposures (LE) is described in the following paragraphs.
+2. Scope of application
+2.1 Banks must apply LEF at the same level as the risk-based capital requirements are applied, that is, a bank shall comply with the LEF norms at two levels: (a) consolidated (Group
+1
+) level and (b) Solo
+2
+level.
+2.2 The application of the LEF at the consolidated level implies that a bank must consider exposures of all the banking group entities (including overseas operations through branches and subsidiaries), which are under regulatory scope of consolidation, to counterparties and compare the aggregate of those exposures with the banking group’s eligible consolidated capital base.
+3. Scope of counterparties and exemptions
+3.1 Under the LEF, a bank’s exposure to all its counterparties and groups of connected counterparties, excluding the exposures listed below
+3
+, will be considered for exposure limits. The exposures that will be exempted from the LEF are listed below:
+a. Exposures to the Government of India and State Governments which are eligible for zero percent Risk Weight under the Basel III – Capital Regulation framework of the Reserve Bank of India;
+b. Exposures to Reserve Bank of India;
+c. Exposures where the principal and interest are fully guaranteed by the Government of India;
+d. Exposures secured by financial instruments issued by the Government of India, to the extent that the eligibility criteria for recognition of the credit risk mitigation (CRM) are met in terms of paragraph 7.III of this circular;
+e. Intra-day interbank exposures;
+f. Intra-group exposures
+4
+;
+g. Borrowers, to whom limits are authorised by the Reserve Bank for food credit;
+h. Banks’ clearing activities related exposures to Qualifying Central Counterparties (QCCPs), as detailed in paragraph 10.I of this circular;
+i. Rural Infrastructure Development Fund (RIDF) deposits placed with NABARD.
+3.2 However, a bank’s exposure to an exempted entity which is hedged by a credit derivative shall be treated as an exposure to the counterparty providing the credit protection notwithstanding the fact that the original exposure is exempted.
+3.3 All exempted exposures must be reported by a bank as required under regulatory reporting specified in paragraph 4.2 below, if these exposures meet the criteria for definition of a ‘Large Exposure’ as per para 4.1 below.
+4. Definition of a large exposure and regulatory reporting
+4.1. Under the LEF, the sum of all exposure values of a bank (measured as specified in paragraphs 7, 8, 9 and 10 of this framework) to a counterparty or a group of connected counterparties (as defined in paragraph 6 below) is defined as a ‘Large Exposure(LE)’, if it is equal to or above 10 percent of the bank’s eligible capital base (i.e., Tier 1 capital as specified in paragraph 5.3 below).
+4.2. Banks shall report their Large Exposures to the Reserve Bank of India (RBI), Department of Banking Supervision, Central Office, (DBS, CO), as per the reporting template given in
+Appendix 2
+. The reporting, inter-alia, will include the following:
+(i) all exposures, measured as specified in paragraphs 7, 8, 9 and 10 of this framework, with values equal to or above 10 percent of the bank’s eligible capital (i.e., meeting the definition of a large exposure as per para 4.1 above);
+(ii) all other exposures, measured as specified in paragraphs 7, 8, 9 and 10 of this framework without the effect of credit risk mitigation (CRM), with values equal to or above 10 percent of the bank’s eligible capital base;
+(iii) all the exempted exposures (except intraday inter-bank exposures) with values equal to or above 10 percent of the bank’s eligible capital base;
+(iv) 20 largest exposures included in the scope of application, irrespective of the values of these exposures relative to the bank’s eligible capital base.
+5. The Large Exposure limits
+5.1 Single Counterparty:
+The sum of all the exposure values of a bank to a single counterparty must not be higher than 20 percent of the bank’s available eligible capital base at all times. In exceptional cases, Board of banks may allow an additional 5 percent exposure of the bank’s available eligible capital base. Banks shall lay down a Board approved policy in this regard.
+5.2 Groups of Connected Counterparties:
+The sum of all the exposure values of a bank to a group of connected counterparties (as defined in paragraph 6 of this circular) must not be higher than 25 percent of the bank’s available eligible capital base at all times.
+5.3 The eligible capital base for this purpose is the effective amount of Tier 1 capital fulfilling the criteria defined in Master Circular on Basel III – Capital Regulation / Master Direction on ‘Basel III Capital Regulations’ as per the last audited balance sheet.. Further, the exposures must be measured as specified in paragraphs 7 -10 ibid.
+5.4 However, the above LE limits will be modulated in cases of certain counterparties as mentioned in paragraph 10 ibid.
+5.5 Any breach of the above LE limits shall be under exceptional conditions only and shall be reported to RBI (DBS, CO) immediately and rectified at the earliest but not later than a period of 30 days from the date of the breach.
+6. Definition of connected counterparties
+6.1 In some cases, a bank may have exposures to a group of counterparties with specific relationships or dependencies such that, were one of the counterparties to fail, all of the counterparties would very likely fail. A group of this sort, referred to in this framework as a group of connected counterparties, must be treated as a single counterparty. In this case, the sum of the bank’s exposures to all the individual entities included within a group of connected counterparties is subject to the large exposure limit and to the regulatory reporting requirements as specified above.
+6.2 Two or more natural or legal persons shall be deemed to be a group of connected counterparties if the control criteria is satisfied i.e., one of the counterparties, directly or indirectly, has control over the other(s).
+6.3 Banks must assess the relationship amongst counterparties with reference to the above criteria in order to establish the existence of a group of connected counterparties. In assessing whether there is a control relationship between counterparties, banks must automatically consider that the control relationship criterion (paragraph 6.2 above) is satisfied if one entity owns more than 50 percent of the voting rights of the other entity. In addition, banks must assess connectedness between counterparties based on control using the following evidences:
+a. Voting agreements (e.g., control of a majority of voting rights pursuant to an agreement with other shareholders);
+b. Significant influence on the appointment or dismissal of an entity’s administrative, management or supervisory body, such as the right to appoint or remove a majority of members in those bodies, or the fact that a majority of members have been appointed solely as a result of the exercise of an individual entity’s voting rights;
+c. Significant influence on senior management, e.g., an entity has the power, pursuant to a contract or otherwise, to exercise a controlling influence over the management or policies of another entity (e.g., through consent rights over key decisions).
+6.4 Banks are also expected to refer to criteria specified in the extant accounting standards for further qualitative guidance when determining control.
+6.5 Where control has been established based on any of the above criteria, a bank may still demonstrate to the RBI in exceptional cases, e.g., existence of control between counterparties due to specific circumstances and corporate governance safeguards, that such control does not necessarily result in the entities concerned constituting a group of connected counterparties.
+7. Values of exposures
+7.I General measurement principles
+7.1 Under the proposed LE Framework, an exposure to a counterparty will constitute both on and off-balance sheet exposures included in either the banking or trading book and instruments with counterparty credit risk. Definitions and measurements of such exposures are given in this section.
+7.II Definitions of exposure values under the LE Framework
+7.2 Banking book on-balance sheet non-derivative assets:
+The exposure value is defined as the accounting value of the exposure
+5
+. As an alternative, a bank may consider the exposure value gross of specific provisions and value adjustments.
+7.3 Banking book and trading book OTC derivatives (and any other instrument with counterparty credit risk):
+The exposure value for instruments which give rise to counterparty credit risk and are not securities financing transactions, should be determined as per the extant instructions as prescribed by the Reserve Bank (on exposure at default) for the counterparty credit risk
+6
+.
+7.4 Securities financing transactions (SFTs):
+Banks should use the method they currently use for calculating their risk-based capital requirements against SFTs.
+7.5 Banking book “traditional” off-balance sheet commitments:
+For the purpose of the LEF, off-balance sheet items will be converted into credit exposure equivalents through the use of credit conversion factors (CCFs) by applying the CCFs set out for the Standardised Approach for credit risk for risk-based capital requirements, with a floor of 10 percent.
+7.III Eligible credit risk mitigation (CRM) techniques
+7.6 Eligible credit risk mitigation techniques for LE Framework purposes are those that meet the minimum requirements and eligibility criteria for the recognition of unfunded credit protection
+7
+and financial collateral that qualify as eligible financial collateral under the Standardised Approach for credit risk for risk-based capital requirement purposes.
+7.7 Other forms of collaterals that are only eligible under the Internal-Ratings based (IRB) Approach (receivables, commercial and residential real estate and other collateral) are not eligible to reduce exposure values for LEF purposes.
+7.8 A bank must recognise an eligible CRM technique in the calculation of an exposure whenever it has used this technique to calculate the risk-based capital requirements, provided it meets the conditions for recognition under the LEF.
+7.9 Treatment of maturity mismatches in CRM:
+In accordance with provisions set out in the paragraphs 5.17 and 7 of ‘Master Circular – Basel III Capital Regulations’, hedges with maturity mismatches will be recognised only when their original maturities are equal to or greater than one year and the residual maturity of a hedge is not less than three months.
+7.10 If there is a maturity mismatch in respect of credit risk mitigants (collateral, on-balance sheet netting, guarantees and credit derivatives) recognised in the risk-based capital requirement, the adjustment of the credit protection for the purpose of calculating large exposures will be determined using the same approach as in the risk-based capital requirement
+8
+.
+7.11 On-balance sheet netting:
+Where a bank has in place legally enforceable netting arrangements for loans and deposits, it may calculate the exposure values for LE purposes according to the calculation it uses for capital requirements purposes – i.e., on the basis of net credit exposures subject to the conditions set out in the approach to on-balance sheet netting in the risk-based capital requirement
+9
+.
+7.IV. Recognition of CRM techniques in reduction of original exposure
+7.12. Under the LEF, a bank may reduce the value of the exposure to the original counterparty by the amount of the eligible CRM technique (except for cases mentioned in paragraph 7.14 below) recognised for risk-based capital requirements purposes. This recognised amount is:
+the value of the protected portion in the case of unfunded credit protection;
+the value of the collateral as recognized in calculation of the counterparty credit risk exposure value for any instruments with counterparty credit risk, such as OTC derivatives;
+the value of the collateral adjusted after applying the required haircuts, in the case of financial collateral. The haircuts used to reduce the collateral amount are the supervisory haircuts under the comprehensive approach
+10
+as specified under risk based capital requirements.
+7.V Recognition of exposures to CRM providers
+7.13 Where a bank reduces its exposure to the original counterparty on account of an eligible CRM instrument provided by another counterparty (CRM provider) with respect to that exposure, it must also recognise an exposure to the CRM provider. The amount assigned to the CRM provider will be the amount by which the exposure to the original counterparty is reduced (except in the cases defined in paragraph 7.14 below).
+7.14 When the credit protection takes the form of a credit default swap (CDS) and either the CDS provider or the referenced entity is not a financial entity, the amount to be assigned to the credit protection provider is not the amount by which the exposure to the original counterparty is reduced but will be equal to the counterparty credit risk exposure value calculated according to the Standardised Approach – Counterparty Credit Risk (SA-CCR), once the guidelines in the matter are finalised by the RBI. Till such time, the banks may follow the extant method as prescribed by the RBI for the counterparty credit risk in the Master Circular – Basel III Capital Regulation.
+For the purpose of this paragraph, financial entities comprise:
+Regulated financial institutions, defined as a parent and its subsidiaries where any substantial legal entity in the consolidated group is supervised by a regulator that imposes prudential requirements consistent with international norms. These include, but are not limited to, prudentially regulated insurance companies, broker/dealers, banks,;
+and
+Unregulated financial institutions, defined as legal entities whose main business includes: the management of financial assets, lending, factoring, leasing, provision of credit enhancements, securitisation, investments, financial custody, central counterparty services, proprietary trading and other financial services activities identified by supervisors.
+7.VI Calculation of exposure value for Trading Book positions
+7.15 A bank must add any exposures to a counterparty arising in the trading book to any other exposures to that counterparty that lie in the banking book to calculate its total exposure to that counterparty. The exposures considered here correspond to concentration risk associated with the default of a single counterparty for exposures included in the trading book. Therefore, a bank’s exposures to financial instruments issued by counterparties not exempted under this Framework will be governed by the LE limit, but concentrations in a particular commodity or currency will not be.
+7.16 The exposure value of straight debt instruments and equities will be equal to the market value of the exposure
+11
+.
+7.17 Instruments such as swaps, futures, forwards and credit derivatives
+12
+must be converted into positions following the risk-based capital requirements
+13
+. These instruments should be decomposed into their individual legs. Only transaction legs representing a bank’s exposures to the counterparty within the scope of the large exposures framework should be considered
+14
+for calculating a bank’s total exposure to that counterparty.
+7.18 In the case of credit derivatives that represent sold protection, the exposure will be to the referenced name, and it will be the amount due in case the respective referenced name triggers the instrument, minus the absolute value of the credit protection
+15
+. For credit-linked notes (CLNs)
+16
+, the protection seller bank will be required to consider its positions both in the bond of the note issuer and in the underlying referenced by the note.
+7.19 The measures of exposure values of options (primarily meant for credit and equity options, where permitted) under this framework differ from the exposure values used for risk-based capital requirements. The exposure value of option under this framework will be based on the change(s) in option prices that would result from a default of the respective underlying instrument. The exposure value for a simple long call option would therefore be its market value and for a short put option would be equal to the strike price of the option minus its market value. In the case of short call or long put options, a default of the underlying would lead to a profit (i.e., a negative exposure) instead of a loss, resulting in an exposure of the option’s market value in the former case and equal the strike price of the option minus its market value in the latter case. The resulting positions in all cases should be aggregated with those from other exposures. After aggregation, negative net exposures shall be treated as zero.
+7.20 Exposure values of banks’ investments in transactions (i.e., index positions, securitisations, hedge funds or investment funds) must be calculated applying the same rules as for similar instruments in the banking book (see paragraphs under 8.3 to 8.4).
+7.VII Offsetting long and short positions in the trading book
+7.21 Offsetting between long and short positions in the same issue:
+Banks may offset long and short positions in the same issue (two issues are defined as the same if the issuer, coupon, currency and maturity are identical). Consequently, banks may consider a net position in a specific issue for the purpose of calculating a bank’s exposure to a particular counterparty.
+7.22 Offsetting between long and short positions in different issues:
+Positions in different issues from the same counterparty may be offset only when the short position is junior to the long position, or if the positions are of the same seniority.
+7.23 Similarly, for positions hedged by credit derivatives, the hedge may be recognised provided the underlying of the hedge and the position hedged fulfil the provision of paragraph 7.22 above (the short position is junior or of equivalent security to the long position).
+7.24 In order to determine the relative seniority of positions, securities may be allocated into broad buckets of degrees of seniority (for example, “Equity”, “Subordinated Debt” and “Senior Debt”).
+7.25 The banks that find it excessively burdensome to allocate securities to different buckets based on relative seniority, should not recognise offsetting of long and short positions in different issues relating to the same counterparty in calculating exposures.
+7.26 Offsetting short positions in the trading book against long positions in the banking book:
+Netting across the banking and trading books is not permitted.
+7.27 Net short positions after offsetting:
+When the result of the offsetting is a net short position with a single counterparty, this net exposure need not be considered as an exposure for the purpose of LEF.
+8. Treatment of specific exposure types
+8.1 This section covers exposures for which a specific treatment is deemed necessary.
+Interbank Exposures
+8.2 The interbank exposures, except intra-day interbank exposures, will be subject to the large exposure limit of 25% of a bank’s Tier 1 capital (also refer to paragraph 10.III). In stressed circumstances, RBI may accept a breach of an interbank limit ex post, in order to help ensure stability in the interbank market.
+Collective Investment Undertakings (CIUs), securitisation vehicles and other structures - adoption of “Look Through Approach” (LTA)
+8.3 There are cases when a structure lies between the bank and its exposures, that is, the bank invests in structures through an entity which itself has exposures to assets underlying the structures (hereafter referred to as the “underlying assets”). In such cases, where the total amount of a bank’s such exposures to a structure does not exceed 0.25 per cent of its eligible capital base, it may assign the total exposure amount to the structure itself, defined as a distinct counterparty. Otherwise, it should assign this total exposure amount to the unknown client. The LE limit will apply on the aggregate of all such unknown exposures as if they related to a single counterparty (the unknown client).
+8.4 In cases where a bank uses Look Through Approach (LTA) as described in
+Appendix 1
+, it may, choose to assign such exposure amount, i.e., the amount invested in a particular structure, to specific counterparties of the underlying assets following the LTA. Such structures include funds, securitisations and other structures with underlying assets.
+where the total amount of its exposure does not exceed 0.25 percent of its eligible capital base, the bank must assign the total exposure amount of its investment to the structure;
+otherwise, it must assign this total exposure amount to a single counterparty. The bank must aggregate all such exposures where it cannot apply LTE as if they related to one single counterparty, to which the LE limit would apply.
+9. Identification of additional risks
+9.1 While taking exposures to structures, banks should identify such third parties which may constitute an additional risk factor and which are inherent in the structure itself rather than in the underlying assets. Such a third party could be a risk factor for more than one structure that a bank invests in. Examples of roles played by third parties include originator, fund manager, liquidity provider and credit protection provider. RBI as a part of its pillar 2 supervisory review and evaluation process will look into this aspect and if required specify a specific course of action which may either include reduction in exposure or raising of additional capital.
+9.2 It is conceivable that a bank may consider multiple third parties to be potential drivers of additional risk. In this case, the bank must assign the exposure resulting from the investment in the relevant structures to each of the third parties.
+10. Exposures to and among certain specific counterparties
+10.I Exposures to Central Counterparties
+10.1 Banks’ exposures to QCCPs
+17
+related to clearing activities will be exempted from the LE framework. However, these exposures will be subject to the regulatory reporting requirements as defined in paragraph 4.2.
+10.2 The definition of QCCP for the purpose of this Framework is the same as that used for risk-based capital requirement purposes. A QCCP is an entity that is licensed to operate as a CCP (including a license granted by way of confirming an exemption), and is permitted by the appropriate regulator/overseer to operate as such with respect to the products offered. This is subject to the provision that the CCP is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the CCP on an ongoing basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures.
+10.3 In the case of non-QCCPs, banks must measure their exposure as a sum of both the clearing exposures described in paragraph 10.5 and the non-clearing exposures described in paragraph 10.7, and the same will be subject to the general LE limit of 25 percent of the eligible capital base.
+10.4 The concept of connected counterparties described in paragraph 6 does not apply in the context of exposures to CCPs that are specifically related to clearing activities.
+10.5 Calculation of exposures related to clearing activities:
+Banks must identify exposures to a CCP related to clearing activities and sum together these exposures. Exposures related to clearing activities are listed in the table below together with the exposure value to be used:
+Trade exposures
+The exposure value of trade exposures must be calculated using the exposure measures prescribed in other parts of this framework for the respective type of exposures.
+Segregated initial margin
+The exposure value is 0
+18
+.
+Non-segregated initial margin
+The exposure value is the nominal amount of initial margin posted.
+Pre-funded default fund contributions
+Nominal amount of the funded contribution
+Unfunded default fund contributions
+The exposure value is 0
+10.6 Regarding exposures subject to clearing services (the bank acting as a clearing member or being a client of a clearing member), the bank must determine the counterparty to which exposures must be assigned by applying the provisions of the risk-based capital requirements.
+10.7 Other exposures:
+Other types of exposures that are not directly related to clearing services provided by the CCP, such as equity stake
+19
+, funding facilities, credit facilities, guarantees etc., must be measured according to the rules set out in this framework, as for any other type of counterparty. These exposures will be added together and be subjected to the LE limit.
+10. II. Exposures to NBFCs
+10.8 Exposure Ceilings proposed under LE Framework
+(i) Exposures to NBFCs: Banks’ exposures to a single NBFC will be restricted to 15 percent of their eligible capital base. However, based on the risk perception, more stringent exposure limits in respect of certain categories of NBFCs may be considered.
+(ii) Banks’ exposures to a group of connected NBFCs or groups of connected counterparties having NBFCs in the group will be restricted to 25 percent of their Tier I Capital.
+10.9 The above exposure limits are subject to all other instructions in relation to banks’ exposures to NBFCs.
+20
+10.III Large exposures rules for global systemically important banks (G-SIBs) and domestic systemically important banks (D-SIBs)
+10.10 The LE limit applied to a G-SIB’s exposure to another G-SIB is set at 15 percent of the eligible capital base. The limit applies to G-SIBs as identified by the Basel Committee and published annually by the FSB and have presence in India whether in branch format or in a subsidiary format. When a bank becomes a G-SIB, it must apply the 15 percent exposure limit to another G-SIB within 12 months from the date of becoming G-SIB, which is the same time frame within which a bank that has become a G-SIB would need to satisfy its higher loss absorbency capital requirement.
+10.11 The LE limit of a non-G-SIB bank in India to a G-SIB (including branch) and a non-bank G-SIFI will be 20 percent of the eligible capital base.
+10.12 The Reserve Bank has issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, 2014, and discloses names of the banks classified as D-SIBs on an annual basis. There is no specific exposure limit applicable to D-SIBs and they will continue to be governed by interbank exposure limits under the LEF.
+11. Implementation date and transitional arrangements
+All aspects of the LE Framework must be implemented in full by April 1, 2019 and the extant exposure norms applicable to single/group of connected counterparties will no longer be applicable from that date
+21
+. Banks must gradually adjust their exposures so as to comply with the LE limit with respect to their eligible capital base by that date. Accordingly, prior to this date, banks should avoid taking any additional exposure/reduce exposure in cases where their exposure is at or above the exposure limit prescribed under this Framework.
+12. The Reserve Bank will review the entire large exposures framework within two years from the issue of this guidelines on the large exposures framework.
+1
+This requires that banks shall apply LE framework at the consolidated group level, after consolidating the assets and liabilities of its subsidiaries / joint ventures / associates (including overseas operations through bank’s branches) etc., except those engaged in insurance and any non-financial activities
+2
+Banks shall apply LE framework at the standalone level also (including overseas operations through branches), which should measure the exposures to a counterparty based on its standalone capital strength and risk profile
+3
+The exemptions currently available to exposures not listed herein will cease to exist under the LE Framework.
+4
+Intra-group exposures will continue to be governed by the Guidelines on Management of Intra-Group Transactions and Exposures’ contained in the Master Circular – Exposure Norms / Master Direction - Prudential Norms on Banks’ Exposures.
+5
+Net of specific provisions and value adjustments.
+6
+Refer to Master Direction – Basel III Capital Regulation, as amended from time to time
+7
+Unfunded credit protection refers collectively to guarantees and credit derivatives the treatment of which is described in paragraphs 5.17 & 7.5 respectively (The standardised approach – credit risk mitigation) of the
+Master Circular – Basel III Capital Regulations dated July 1, 2015
+8
+Refer to the Master Circular on Basel III Capital Regulations
+9
+Paragraph 7.4 of the Master Circular on Basel III Capital Regulation.
+10
+Paragraph 7.3.4 of Master Circular on Basel III Capital Regulations.
+11
+As provided in terms of our RBI Master Circular – Exposure norms / Master Direction on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by Banks.
+12
+CDS is the only credit derivative allowed under our extant guidelines and banks do not have direct exposures to the equity derivatives. It is clarified that restrictions on dealing with certain type of instruments, assets and derivatives etc., which are currently in place shall continue to be applicable even if the guidelines contained in this circular contains references to the same.
+13
+Refer Master Circular/Direction - Basel III Capital Regulations
+14
+At present, banks are not permitted to have exposures to equity derivatives, however, for the sake illustration, a future on stock X, for example, is decomposed into a long position in stock X and a short position in a risk-free interest rate exposure in the respective funding currency, or a typical interest rate swap is represented by a long position in a fixed and a short position in a floating interest rate exposure or vice versa.
+15
+In the case that the market value of the credit derivative is positive from the perspective of the protection seller, such a positive market value would also have to be added to the exposure of the protection seller to the protection buyer (counterparty credit risk; see paragraph 7.3 of this circular). Such a situation could typically occur if the present value of already agreed but not yet paid periodic premiums exceeds the absolute market value of the credit protection.
+16
+CLNs are not permitted to be issued by banks in India under the extant RBI guidelines.
+17
+For designation of CCPs as QCCPs please refer to
+circular DBOD.No.BP.BC.82/21.06.217/2013-14 dated January 7, 2014
+on Banks' Exposure to Central Counterparties (CCPs) - Interim Arrangements,
+18
+When the initial margin (IM) posted is bankruptcy-remote from the CCP – in the sense that it is segregated from the CCP’s own accounts, eg when the IM is held by a third-party custodian – this amount cannot be lost by the bank if the CCP defaults; therefore, the IM posted by the bank can be exempted from the large exposure limit.
+19
+If equity stakes in a CCP are deducted from the capital on which the large exposure limit is based, these must not be included as exposure to the CCP.
+20
+As contained in Master Circular – Exposure Norms / Chapter ---- of Master Direction - Prudential Norms on Banks’ Exposures
+21
+The LE Framework is applicable to a bank’s counterparties and does not address other types of concentration risks such as sectoral exposures. As such, the extant instructions contained in the RBI Master Circular – Exposure norms / Master Direction - Prudential Norms on Banks’ Exposures, will continue to be applicable, except to the extent superseded by the provisions of this Framework.

@@ -1,0 +1,65 @@
+(137 kb)
+Foreign Exchange Management (Deposit) (Amendment) Regulations, 2018
+RESERVE BANK OF INDIA
+FOREIGN EXCHANGE DEPARTMENT
+CENTRAL OFFICE
+Mumbai 400 001
+Notification No. FEMA 5 (R)(1)/2018-RB
+November 09, 2018
+Foreign Exchange Management (Deposit) (Amendment) Regulations, 2018
+In exercise of the powers conferred by clause (f) of sub section (3) of Section 6 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank makes the following amendments to the Foreign Exchange Management (Deposit) Regulations, 2016,
+Notification No. FEMA 5(R)/2016-RB dated April 1, 2016
+, namely:
+1. Short Title and Commencement:-
+(i) These regulations may be called the Foreign Exchange Management (Deposit) (Amendment) Regulations, 2018.
+(ii) These regulations shall come into force from the date of their publication in the Official Gazette.
+2. Amendment to Regulation 7:
+In Regulation 7, after the existing sub-regulation (4), the following shall be added, namely:
+“5. An Authorized Dealer in India may allow a Foreign Portfolio Investor and a Foreign Venture Capital Investor, both registered with the Securities and Exchange Board of India (SEBI) under the relevant SEBI regulations to open and maintain a non-interest bearing foreign currency account for the purpose of making investment in accordance with Foreign Exchange Management (Transfer or issue of security by a person resident outside India) Regulations, 2017, as amended from time to time.
+3. Amendment to Schedule 3:
+In Schedule 3, in para 1, under the heading, ‘Notes’, after existing para ‘D’, the following shall be added, namely:
+“E. A person being a citizen of, Bangladesh or Pakistan belonging to minority communities in those countries, namely, Hindus, Sikhs, Buddhists, Jains, Parsis and Christians who is residing in India and has been granted a Long Term Visa (LTV) by the Central Government is permitted to open with an authorized dealer only one NRO Account. The said NRO account shall be converted to a resident account once the person becomes a citizen of India within the meaning of the Citizenship Act, 1955. Such accounts can be opened by Authorised Dealers only,
+F. A person being a citizen of Bangladesh or Pakistan belonging to minority communities in those countries, namely, Hindus, Sikhs, Buddhists, Jains, Parsis and Christians who is residing in India and has applied for a Long Term Visa (LTV) which is under consideration of the Central Government is permitted to open with an authorised dealer only one NRO Account which will be opened for a period of six months and may be renewed at six monthly intervals subject to the condition that the individual holds a valid visa and valid residential permit issued by Foreigner Registration Office (FRO)/ Foreigner Regional Registration Office (FRRO) concerned. Such accounts can be opened by Authorised Dealers only,”
+4. Amendment to Schedule 4:
+In Schedule 4, for the existing paragraph 8, the following shall be substituted, namely:
+“The tenure of the SNRR account should be concurrent to the tenure of the contract/ period of operation/ the business of the account holder and in no case should exceed seven years. Approval of the Reserve Bank shall be obtained in cases requiring renewal.
+Provided the restriction of seven years shall not be applicable to SNRR accounts opened by a person resident outside India for the purpose of making investment in India in accordance with Foreign Exchange Management (Transfer or issue of security by a person resident outside India) Regulations, 2017, as amended from time to time.”
+5. Amendment to Schedule 5:
+In the Foreign Exchange Management (Deposit) Regulations, 2016 (
+Notification No.FEMA.5(R)/2016-RB dated April 1, 2016
+), for the existing Schedule 5, the following shall be substituted, namely:
+Schedule 5
+(See Regulation 5(5))
+Terms and conditions for opening of Escrow Account
+An Escrow account in INR can be opened jointly and severally with an Authorised Dealer in India as an Escrow Agent in the following cases subject to the terms and conditions specified in this schedule.
+1. By non-resident corporates for acquisition/ transfer of capital instruments/convertible notes through open offers/ delisting/ exit offers.
+a. Permitted Credits in the Escrow account are:
+Foreign Inward remittance through banking channels
+by way of a guarantee issued by an authorised dealer bank subject to terms and conditions as specified in the Foreign Exchange Management (Guarantee) Regulations 2000, as amended from time to time.
+b. Permitted debits in the Escrow account are:
+As per SEBI (SAST) Regulations or any other regulations issued by the Security Exchange Board of India (SEBI).
+c. The resident mandatee empowered by the overseas acquirer for this purpose, may operate the Escrow account in accordance with SEBI (SAST) Regulations or any other regulations issued by the SEBI.
+d. The Escrow account shall be closed immediately after completing the requirements as outlined above.
+2. By resident and non-resident acquirers for acquisition/ transfer of capital instruments/convertible notes
+a. Permitted Credits in the Escrow account are:
+Foreign Inward remittance through banking channels;
+Receipt of rupee consideration through banking channels by the resident acquirer of capital instruments/convertible notes who proposes to acquire from non-resident holders by way of transfer.
+by way of a guarantee issued by an authorised dealer bank subject to terms and conditions as specified in the Foreign Exchange Management (Guarantee) Regulations 2000, as amended from time to time.
+b. Permitted debits in the Escrow account are:
+Remittance of consideration for issue/ transfer of capital instruments/convertible notes directly into the bank account of the beneficiary (issuer in India or transferor of capital instruments/convertible notes in India or abroad);
+Remittance of consideration for refund to the initial remitter of funds in case of failure/ non-materialisation of FDI transaction for which the Escrow account was opened.
+c. The securities kept/ linked with the Escrow account may be linked with demat account maintained with SEBI authorised Depositary Participants as Escrow agents.
+d. The Escrow account shall remain operational for a maximum period of six months only and the account shall be closed immediately after completing the requirements as outlined above or on completion of six months from the date of opening of such account, whichever is earlier. In case the Escrow account is required to be maintained beyond six months, specific permission from the Reserve Bank has to be sought.
+e. Notwithstanding what has been stated in paragraph d. above, in case of transfer of capital instruments between a resident buyer and a non-resident seller or vice-versa, if so agreed between the buyer and the seller, an escrow arrangement may be made between the buyer and the seller for an amount not more than twenty five per cent of the total consideration for a period not exceeding eighteen months from the date of the transfer agreement.
+3. Acquisition/ transfer shall be in accordance with the provisions of Foreign Exchange Management (Transfer or Issue of Security by a person resident Outside India) Regulation 2017, as amended from time to time and Security Exchange Board of India (Substantial Acquisition of Shares and Takeover) Regulations, 1997 [SEBI (SAST) Regulations] or other relevant regulations issued by the SEBI.
+4. The Escrow account shall be non-interest bearing.
+5. No fund or non-fund based facilities would be permitted against the balances in the Escrow account.
+6. Requirement of compliance with KYC guidelines issued by the Reserve Bank shall rest with the Authorised Dealer.
+7. Balance in the Escrow account, if any, may be repatriated at the then prevailing exchange rate (i.e., the exchange rate risk will be borne by the person resident outside India acquiring the capital instruments/convertible notes), after all the formalities in respect of the said acquisition are completed.
+8. In cases, where proposed acquisition/ transfer does not materialise, the authorised dealer may allow repatriation/ refund of the entire amount lying to the credit of the Escrow account on being satisfied with the bonafides of such remittances.
+9. For the purpose of FDI reporting, date of transfer of funds into the bank account of the issuer or transferor of capital instruments/convertible notes, as the case may be, shall be the relevant date of remittance.
+(R K Moolchandani)
+Chief General Manager
+The Principal Regulations were published in the Official Gazette of Government of India – Extraordinary – Part-II, Section 3, Sub-Section (i) dated 01.04.2016- G.S.R.No.389(E)
+G.S.R. No. 1093 (E) dated 09.11.2018
+.

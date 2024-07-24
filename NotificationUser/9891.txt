@@ -1,0 +1,1755 @@
+(554 kb)
+Master Circular on Risk Management and Inter-Bank Dealings
+RBI/2015-16/84
+Master Circular No. 5/2015-16
+July 1, 2015
+(Updated till October 8, 2015)
+To,
+All Authorised Dealers - Category I Banks
+Madam / Sir,
+Master Circular on Risk Management and Inter-Bank Dealings
+Foreign Exchange Derivative Contracts, Overseas Commodity & Freight Hedging, Rupee Accounts of Non-Resident Banks, Inter-Bank Foreign Exchange Dealings, etc. are governed by the provisions in
+Notification No. FEMA 1/2000-RB
+, Regulation 4(2) of
+Notification No. FEMA 3/RB-2000
+and
+Notification No. FEMA 25/RB-2000
+dated May 3, 2000 and subsequent amendments thereto.
+2. This
+Master Circular
+is being updated from time to time as and when the fresh instructions are issued. The date up to which the Master Circular has been updated is suitably indicated.
+3. This Master Circular may be referred to for general guidance. The Authorised Persons and the Authorised Dealer Category – I banks may refer to respective circulars/ notifications for detailed information, if so needed.
+Yours faithfully,
+(R Subramanian)
+Chief General Manager
+INDEX
+PART –A
+RISK MANAGEMENT
+SECTION I
+Facilities for Persons Resident in India other than Authorised Dealers Category-I
+SECTION II
+Facilities for Persons Resident outside India
+SECTION III
+Facilities for Authorised Dealers Category-I
+PART-B
+ACCOUNTS OF NON-RESIDENT BANKS
+PART-C
+INTER-BANK FOREIGN EXCHANGE DEALINGS
+PART-D
+REPORTS TO THE RESERVE BANK
+Annex I
+Annex II
+Annex III
+Annex IV
+Annex V
+Annex VI
+Annex VII
+Annex VIII
+Annex IX
+Annex X
+Annex XI
+Annex XII
+Annex XIII
+Annex XIV
+Annex XV
+Annex XVI
+Annex XVII
+Annex XVIII
+Annex XIX
+Annex XX
+Appendix
+PART – A
+RISK MANAGEMENT
+SECTION I
+Facilities for Persons Resident in India other than Authorised Dealers Category-I
+The facilities for persons resident in India (other than AD Category I banks) are elaborated under paragraphs A and B.
+Paragraph A
+describes the products and operational guidelines for the respective product. In addition to the operational guidelines under A, the general instructions that are applicable across all products for residents (other than AD Category I banks) are detailed under
+Paragraph B
+.
+A. Products and Operational Guidelines
+The product/purpose-wise facilities for persons resident in India (other than AD Category I banks) are detailed under the following subheads:
+Contracted Exposure
+Probable Exposure
+Special Dispensation
+1) Contracted Exposures
+AD Category I banks have to evidence the underlying documents so that the existence of underlying foreign currency exposure can be clearly established. AD Category I banks, through verification of documentary evidence, should be satisfied about the genuineness of the underlying exposure, irrespective of the transaction being a current or a capital account. Full particulars of the contracts should be marked on the original documents under proper authentication and retained for verification. However, in cases where the submission of original documents is not possible, a copy of the original documents, duly certified by an authorized official of the user, may be obtained. In either of the cases, before offering the contract, the AD Category I banks should obtain an undertaking from the customer and also certificates from the statutory auditor (for details refer para B (b) for General Instructions). While details of the underlying have to be recorded at the time of booking the contract, in the view of logistic issues, a maximum period of 15 days may be allowed for production of the documents. If the documents are not submitted by the customer within 15 days, the contract may be cancelled, and the exchange gain, if any, should not be passed on to the customer. In the event of non-submission of the documents by the customer within 15 days on more than three occasions in a financial year, booking of permissible derivative contracts in future may be allowed only against production of the underlying documents, at the time of booking the contract.
+The products available under this facility are as follows:
+i) Forward Foreign Exchange Contracts
+Participants
+Market-makers -
+AD Category I banks
+Users -
+Persons resident in India
+Purpose
+a) To hedge exchange rate risk in respect of transactions for which sale and /or purchase of foreign exchange is permitted under the FEMA 1999, or in terms of the rules/ regulations/directions/orders made or issued there under.
+b) To hedge exchange rate risk in respect of the market value of overseas direct investments (in equity and loan).
+Contracts covering overseas direct investment (ODI) can be cancelled or rolled over on due dates. If a hedge becomes naked in part or full owing to contraction (due to price movement/impairment) of the market value of the ODI, the hedge may be allowed to continue until maturity, if the customer so desires. Rollovers on due date shall be permitted up to the extent of the market value as on that date.
+c) To hedge exchange rate risk of transactions denominated in foreign currency but settled in INR, including hedging the economic (currency indexed) exposure of importers in respect of customs duty payable on imports.
+Forward foreign exchange contracts covering such transactions will be settled in cash on maturity.
+These contracts once cancelled, are not eligible to be rebooked.
+In the event of any change in the rate(s) of customs duties, due to Government notifications subsequent to the date of the forward contracts, importers may be allowed to cancel and/or rebook the contracts before maturity.
+Operational Guidelines, Terms and Conditions
+General principles to be observed for forward foreign exchange contracts.
+a) The maturity of the hedge should not exceed the maturity of the underlying transaction. The currency of hedge and tenor, subject to the above restrictions, are left to the customer. Where the currency of hedge is different from the currency of the underlying exposure, the risk management policy of the corporate, approved by the Board of the Directors, should permit such type of hedging.
+b) Where the exact amount of the underlying transaction is not ascertainable, the contract may be booked on the basis of reasonable estimates. However, there should be periodical review of the estimates.
+c) Foreign currency loans/bonds will be eligible for hedge only after final approval is accorded by the Reserve Bank, where such approval is necessary or Loan Registration Number is allotted by the Reserve Bank.
+d) Global Depository Receipts (GDRs)/American Depository Receipts (ADRs) will be eligible for hedge only after the issue price has been finalized.
+e) Balances in the Exchange Earner's Foreign Currency (EEFC) accounts sold forward by the account holders shall remain earmarked for delivery and such contracts shall not be cancelled. They are, however, eligible for rollover, on maturity.
+f) In case of contracted exposures, forward contracts, involving Rupee as one of the currencies, in respect of all current account transactions as well as capital account transactions with a residual maturity of one year or less may be freely cancelled and rebooked.
+g) In case of forward contracts involving Rupee as one of the currencies, booked by residents in respect of all hedge transactions, if cancelled with one AD Category I bank can be rebooked with another AD Category I bank subject to the following conditions:
+the switch is warranted by competitive rates on offer, termination of banking relationship with the AD Category I bank with whom the contract was originally booked;
+the cancellation and rebooking are done simultaneously on the maturity date of the contract; and
+the responsibility of ensuring that the original contract has been cancelled rests with the AD Category I bank who undertakes rebooking of the contract.
+h) Forward contracts can be rebooked on cancellation subject to condition (i) below.
+i) The facility of rebooking should not be permitted unless the corporate has submitted the exposure information as prescribed in
+Annex V
+.
+j) Substitution of contracts for hedging trade transactions may be permitted by an AD Category I bank on being satisfied with the circumstances under which such substitution has become necessary. The AD Category I bank may also verify the amount and tenor of the underlying substituted.
+ii) Cross Currency Options (not involving Rupee)
+Participants
+Market-makers -
+AD Category I banks as approved for this purpose by the Reserve Bank
+Users –
+Persons resident in India
+Purpose
+To hedge exchange rate risk arising out of trade transactions.
+To hedge the contingent foreign exchange exposure arising out of submission of a tender bid in foreign exchange.
+Operational Guidelines, Terms and Conditions
+AD Category I banks can only offer plain vanilla European options
+1
+.
+Customers can buy call or put options.
+These transactions may be freely booked and/ or cancelled subject to verification of the underlying.
+All guidelines applicable for cross currency forward contracts are applicable to cross currency option contracts also.
+Cross currency options should be written by AD Category I banks on a fully covered back-to-back basis. The cover transaction may be undertaken with a bank outside India, an Off-shore Banking Unit situated in a Special Economic Zone or an internationally recognized option exchange or another AD Category I bank in India. AD Category I banks desirous of writing options, should obtain a one-time approval from the Chief General Manager, Reserve Bank of India, Financial Markets Regulation Department,, Central Office, 23rd Floor, Mumbai, 400001, before undertaking the business.
+iii) Foreign Currency - INR Options
+Participants
+Market-makers -
+AD Category I banks, as approved for this purpose by the Reserve Bank.
+Users –
+Persons resident in India
+Purpose
+To hedge foreign currency exposures in accordance with Schedule I of
+Notification No. FEMA 25/2000-RB dated May 3, 2000
+, as amended from time to time.
+To hedge the contingent foreign exchange exposure arising out of submission of a tender bid in foreign exchange.
+Operational Guidelines, Terms and Conditions
+a) AD Category I banks having a minimum CRAR of 9 per cent, can offer foreign currency– INR options on a back-to-back basis.
+b) For the present, AD category I banks can offer only plain vanilla European options.
+c) Customers can buy call or put options.
+d) All guidelines applicable for foreign currency-INR foreign exchange forward contracts are applicable to foreign currency-INR option contracts also.
+e) AD Category I banks having adequate internal control, risk monitoring/ management systems, mark to market mechanism, etc. are permitted to run a foreign currency– INR options book on prior approval from the Reserve Bank, subject to conditions. AD Category I banks desirous of running a foreign currency-INR options book and fulfilling minimum eligibility criteria listed below, may apply to the Reserve Bank with copies of approval from the competent authority (Board/ Risk Committee/ ALCO), detailed memorandum in this regard, specific approval of the Board for the type of option writing and permissible limits. The memorandum put up to the Board should clearly mention the downside risks, among other matters.
+Minimum Eligibility Criteria:
+Net worth not less than Rs 300 crore
+CRAR of 10 per cent
+Net NPAs not exceeding 3 per cent of the net advances
+Continuous profitability for at least three years
+The Reserve Bank will consider the application and accord a one-time approval at its discretion. AD Category I banks are expected to manage the option portfolio within the Reserve Bank approved risk management limits.
+f) AD banks may quote the option premium in Rupees or as a percentage of the Rupee/foreign currency notional.
+g) Option contracts may be settled on maturity either by delivery on spot basis or by net cash settlement in Rupees on spot basis as specified in the contract. In case of unwinding of a transaction prior to the maturity, the contract may be cash settled based on market value of an identical off-setting option.
+h) Market makers are allowed to hedge the ‘Delta’ of their option portfolio by accessing the spot and forward markets. Other ‘Greeks’ may be hedged by entering into option transactions in the inter-bank market.
+i) The ‘Delta’ of the option contract would form part of the overnight open position.
+j) The ‘Delta’ equivalent as at the end of each maturity shall be taken into account for the purpose of AGL. The residual maturity (life) of each outstanding option contract can be taken as the basis for the purpose of grouping under various maturity buckets.
+k) AD banks running an option book are permitted to initiate plain vanilla cross currency option positions to cover risks arising out of market making in foreign currency-INR options.
+l) Banks should put in place necessary systems for marking to market the portfolio on a daily basis. FEDAI will publish daily a matrix of polled implied volatility estimates, which market participants can use for marking to market their portfolio.
+m) The accounting framework for option contracts will be as per FEDAI circular No.SPL-24/FC-Rupee Options/2003 dated May 29, 2003.
+iv) Foreign Currency-INR Swaps
+Participants
+Market-makers –
+AD Category I banks in India.
+Users –
+Residents having a foreign currency liability and undertaking a foreign currency-INR swap to move from a foreign currency liability to a Rupee liability.
+Incorporated resident entities having a rupee liability and undertaking an INR – foreign currency swap (INR-FCY) to move from rupee liability to a foreign currency liability, subject to certain minimum prudential requirements, such as risk management systems and natural hedges or economic exposures. In the absence of natural hedges or economic exposures, the INR-foreign currency swap (to move from rupee liability to a foreign currency liability) may be restricted to listed companies or unlisted companies with a minimum net worth of Rs 200 crore. Further, the AD Category I bank is required to examine the suitability and appropriateness of the swap and be satisfied about the financial soundness of the corporate.
+Purpose
+To hedge exchange rate and/or interest rate risk exposure for those having long-term foreign currency borrowing or to transform long-term INR borrowing into foreign currency liability.
+Operational Guidelines, Terms and Conditions
+No swap transactions involving upfront payment of Rupees or its equivalent in any form shall be undertaken.
+The term “long-term exposure” means exposures with residual maturity of one year or more.
+The swap transactions, once cancelled, shall not be rebooked or re-entered, by whichever mechanism or by whatever name called. In
+2
+case of FCY-INR swaps however, where the underlying is still surviving, the client, on cancellation of the swap contract, may be permitted to re‐enter into a fresh swap, to hedge the underlying but only after the expiry of the tenor of the original swap contract that had been cancelled. This flexibility is not permitted for INR-FCY swaps.
+AD Category I banks should not offer leveraged swap structures. Typically, in leveraged swap structures, a multiplicative factor other than unity is attached to the benchmark rate(s), which alters the payables or receivables vis-à-vis the situation in the absence of such a factor.
+The notional principal amount of the swap should not exceed the outstanding amount of the underlying loan.
+The maturity of the swap should not exceed the remaining maturity of the underlying loan.
+v) Cost Reduction Structures
+i.e. cross currency option cost reduction structures and foreign currency –INR option cost reduction structures.
+Participants
+Market-makers -
+AD Category I banks
+Users –
+Listed companies and their subsidiaries/joint ventures/associates having common treasury and consolidated balance sheet or unlisted companies with a minimum net worth of Rs. 200 crore
+provided
+All such products are fair valued on each reporting date;
+The companies follow the Accounting Standards notified under section 211 of the Companies Act, 1956 and other applicable Guidance of the Institute of Chartered Accountants of India (ICAI) for such products/ contracts as also the principle of prudence which requires recognition of expected losses and non-recognition of unrealized gains;
+Disclosures are made in the financial statements as prescribed in ICAI press release dated 2nd December 2005; and
+The companies have a risk management policy with a specific clause in the policy that allows using the type/s of cost reduction structures.
+(Note: The above accounting treatment is a transitional arrangement till AS 30 / 32 or equivalent standards are notified.)”
+Purpose
+To hedge exchange rate risk arising out of trade transactions, External Commercial Borrowings (ECBs) and foreign currency loans availed of domestically against FCNR (B) deposits.
+Operational Guidelines, Terms and Conditions
+Writing of options by the users, on a standalone basis, is not permitted.
+Users can enter into option strategies of simultaneous buy and sell of plain vanilla European options, provided there is no net receipt of premium.
+Leveraged structures, digital options, barrier options, range accruals and any other exotic products are not permitted.
+The portion of the structure with the largest notional, computed over the tenor of the structure, should be reckoned for the purpose of underlying.
+The delta of the options should be explicitly indicated in the term sheet.
+AD Category I banks may, stipulate additional safeguards, such as, continuous profitability, higher net worth, turnover, etc depending on the scale of forex operations and risk profile of the users.
+The maturity of the hedge should not exceed the maturity of the underlying transaction and subject to the same the users may choose the tenor of the hedge. In case of trade transactions being the underlying, the tenor of the structure shall not exceed two years.
+The MTM position should be intimated to the users on a periodical basis.
+vi) Hedging of Borrowings in foreign exchange,
+which are in accordance with the provisions of Foreign Exchange Management (Borrowing and Lending in Foreign Exchange) Regulations, 2000.
+Products –
+Interest rate swap, Cross currency swap, Coupon swap, Cross currency option, Interest rate cap or collar (purchases), Forward rate agreement (FRA)
+Participants
+Market-makers –
+a) AD Category I banks in India
+b) Branch outside India of an Indian bank authorized to deal in foreign exchange in India
+c) Offshore banking unit in a SEZ in India.
+Users –
+Persons resident in India who have borrowed foreign exchange in accordance with the provisions of Foreign Exchange Management (Borrowing and Lending in Foreign Exchange) Regulations, 2000.
+Purpose
+For hedging interest rate risk and currency risk on loan exposure and unwinding from such hedges.
+Operational Guidelines, Terms and Conditions
+The products, as detailed above should not involve the rupee under any circumstances.
+Final approval has been accorded or Loan Registration Number allotted by the Reserve Bank for borrowing in foreign currency.
+The notional principal amount of the product should not exceed the outstanding amount of the foreign currency loan.
+The maturity of the product should not exceed the unexpired maturity of the underlying loan.
+The contracts may be cancelled and rebooked freely.
+2) Probable exposures based on past performance
+Participants
+Market-makers –
+AD Category I banks in India.
+Users –
+Importers and exporters of goods and services
+Purpose
+To hedge currency risk on the basis of a declaration of an exposure and based on past performance up to the average of the previous three financial years’ (April to March) actual import/export turnover or the previous year’s actual import/export turnover, whichever is higher. Probable exposure based on past performance can be hedged only in respect of trades in merchandise goods as well as services.
+Products
+Forward foreign exchange contracts, cross currency options (not involving the rupee), foreign currency-INR options and cost reduction structures [as mentioned in section B para I 1(v)].
+Operational Guidelines, Terms and Conditions
+a) Corporates having a minimum net worth of Rs 200 crores and an annual export and import turnover exceeding Rs 1000 crores and satisfying all other conditions as stipulated in section B para I 1(v) may be allowed to use cost reduction structures.
+b) The contracts booked during the current financial year (April-March) and the outstanding contracts at any point of time should not exceed
+The eligible limit i.e. the average of the previous three financial years’ actual export turnover or the previous year’s actual export turnover, whichever is higher for exports.
+Hundred percent of the eligible limit i.e. the average of the previous three financial years’ actual import turnover or the previous year’s actual import turnover, whichever is higher for imports. Importers, who have already booked contracts up to previous limit of fifty per cent in the current financial year, shall be eligible for difference arising out of the enhanced limit.
+c) Contracts booked up to 75 percent of the eligible limit mentioned at paragraph (b) (i) and (b) (ii) above may be cancelled with the exporter/importer bearing/being entitled to the loss or gain as the case may be. Contracts booked in excess of 75 percent of the eligible limit mentioned at paragraph (b) (i) and (b) (ii) above shall be on a deliverable basis and cannot be cancelled, implying that in the event of cancellation, the exporter/importer shall have to bear the loss but will not be entitled to receive the gain.
+d) These limits shall be computed separately for import/export transactions.
+e) Higher limits will be permitted on a case-by-case basis on application to the Financial Markets Regulation Department, Central Office, Reserve Bank of India. The additional limits, if sanctioned, shall be on a deliverable basis.
+f) Any contract booked without producing documentary evidence will be marked off against this limit. These contracts once cancelled, are not eligible to be rebooked. Rollovers are also not permitted.
+g) AD banks should permit their clients to use the past performance facility only after satisfying themselves that the following conditions are complied with:
+An undertaking may be taken from the customer that supporting documentary evidence will be produced before the maturity of all the contracts booked.
+Importers and exporters should furnish a quarterly declaration to the AD Category I banks, signed by the Chief Financial Officer (CFO) and the Company Secretary (CS), regarding amounts booked with other AD Category I banks under this facility, as per
+Annex VI
+. In the absence of a CS, the Chief Executive Officer (CEO) or the Chief Operating Officer (COO) shall co-sign the undertaking along with the CFO.
+For an exporter customer to be eligible for this facility, the aggregate of overdue bills shall not exceed 10 per cent of the turnover.
+Aggregate outstanding contracts in excess of 50 per cent of the eligible limit may be permitted by the AD Category I bank on being satisfied about the genuine requirements of their customers after examination of a document as per the format in
+Annex VII
+, signed by the CFO and CS, containing the following:
+A declaration that all guidelines have been adhered to while utilizing this facility; and.
+A certificate of import/export turnover of the customer during the past three years.
+In the absence of a CS, the CEO or the CFO shall co-sign the undertaking along with the CFO.
+h) The past performance limits once utilised are not to be reinstated either on cancellation or on maturity of the contracts.
+i) AD Category I banks must arrive at the past performance limits at the beginning of every financial year. The drawing up of the audited figures (previous year) may require some time at the commencement of the financial year. However, if the statements are not submitted within three months from the last date of the financial year, the facility should not be provided until submission of the audited figures.
+j) As part of the annual audit exercise, the Statutory Auditor shall certify the following:
+The amounts booked with AD Category-I banks under this facility; and
+All guidelines have been adhered to while utilizing this facility over the past financial year.
+k) AD Category I banks must institute appropriate systems for validating the past performance limits at pre-deal stage. In addition to the customer declarations, AD Category I banks should also assess the past transactions with the customers, turnover, etc.
+l) AD Category I banks are required to submit a monthly report (as on the last Friday of every month) on the limits granted and utilised by their constituents under this facility as prescribed in Annex X.
+3) Special Dispensation
+i) Small and Medium Enterprises (SMEs)
+Participants
+Market-makers –
+AD Category I.
+Users –
+Small and Medium Enterprises (SMEs)
+3
+Purpose
+To hedge direct and / or indirect exposures of SMEs to foreign exchange risk
+Product
+Forward foreign exchange contracts
+Operational Guidelines:
+Small and Medium Enterprises (SMEs) having direct and / or indirect exposures to foreign exchange risk are permitted to book / cancel / / roll over forward contracts without production of underlying documents to manage their exposures effectively, subject to the following conditions:
+Such contracts may be booked through AD Category I banks with whom the SMEs have credit facilities and the total forward contracts booked should be in alignment with the credit facilities availed by them for their foreign exchange requirements or their working capital requirements or capital expenditure.
+AD Category I bank should carry out due diligence regarding “user appropriateness” and “suitability” of the forward contracts to the SME customers as per Para 8.3 of 'Comprehensive Guidelines on Derivatives' issued vide
+DBOD.No.BP.BC.44/21.04.157/2011-12 dated November 2, 2011
+.
+The SMEs availing this facility should furnish a declaration to the AD Category I bank regarding the amounts of forward contracts already booked, if any, with other AD Category I banks under this facility.
+ii) Resident Individuals, Firms and Companies
+Participants
+Market-makers –
+AD Category I banks
+Users:
+Resident Individuals, Firms and Companies
+Purpose
+To hedge their foreign exchange exposures arising out of actual or anticipated remittances, both inward and outward, can book forward contracts, without production of underlying documents, up to a limit of USD 1,000,000 (USD one million), based on self declaration.
+Product
+Forward foreign exchange contracts and FCY-INR options
+Operational Guidelines, Terms and Conditions
+While the contracts booked under this facility would normally be on a deliverable basis, cancellation and rebooking of contracts are permitted. Based on the track record of the entity, the concerned AD Cat-I bank may, however, call for underlying documents, if considered necessary, at the time of rebooking of cancelled contracts.  The notional value of the outstanding contracts should not exceed USD  1,000,000 at any time.
+The contracts may be permitted to be booked up to tenors of one year only.
+Such contracts may be booked through AD Category I banks with whom the resident individual / firm / company has banking relationship, on the basis of an application-cum-declaration in the format given in Annex XV. The AD Category I banks should satisfy themselves that the hedging entities  understand the nature of risk inherent in booking of forward contracts or FCY-INR options and should carry out due diligence regarding “
+user appropriateness
+” and
+“suitability
+” of the forward contracts / FCY-INR options to such customer.
+B. General Instructions for OTC forex derivative contracts entered by Residents in India
+While the guidelines indicated above govern specific foreign exchange derivatives, certain general principles and safeguards for prudential considerations that are applicable across the OTC foreign exchange derivatives, are detailed below. In addition to the guidelines under the specific foreign exchange derivative product, the general instructions should be followed scrupulously by the users (residents in India other than AD Category I banks) and the market makers (AD Category I banks).
+a) In case of all forex derivative transactions [except INR- foreign currency swaps i.e. moving from INR liability to foreign currency liability as in section B para I(1)(iv)] is undertaken, AD Category I banks must take a declaration from the clients that the exposure is unhedged and has not been hedged with another AD Category I bank. The corporates should provide an annual certificate to the AD Category I bank certifying that the derivative transactions are authorized and that the Board (or the equivalent forum in case of partnership or proprietary firms) is aware of the same.
+b) In the case of
+contracted exposure
+, AD Category I banks must obtain:
+An undertaking from the customer that the same underlying exposure has not been covered with any other AD Category I bank/s. Where hedging of the same exposure is undertaken in parts, with more than one AD Category I bank, the details of amounts already booked with other AD Category I bank/s should be clearly indicated in the declaration. This undertaking can also be obtained as a part of the deal confirmation.
+An annual certificate from the statutory auditors to the effect that the contracts outstanding with all AD category I banks at any time during the year did not exceed the value of the underlying exposures at that time. It is reiterated, however, that that the AD bank, while entering into any derivative transaction with a client, shall have to obtain an undertaking from the client to the effect that the contracted exposure against which the derivative transaction is being booked has not been used for any derivative transaction with any other AD bank.
+c) Derived foreign exchange exposures are not permitted to be hedged. However, in case of INR- foreign currency swaps, at the inception, the user can enter into one time plain vanilla cross currency option (not involving Rupee) to cap the currency risk.
+d) In any derivative contract, the notional amount should not exceed the actual underlying exposure at any point in time. Similarly, the tenor of the derivative contracts should not exceed the tenor of the underlying exposure. The notional amount for the entire transaction over its complete tenor must be calculated and the underlying exposure being hedged must be commensurate with the notional amount of the derivative contract.
+e) Only one hedge transaction can be booked against a particular exposure/ part thereof for a given time period.
+f) The term sheet for the derivative transactions (except forward contracts) should also necessarily and clearly mention the following:
+the purpose for the transaction detailing how the product and each of its components help the client in hedging;
+the spot rate prevailing at the time of executing the transaction; and
+quantified maximum loss/ worst downside in various scenarios.
+g) AD Category I banks can offer only those products that they can price independently. This is also applicable to the products offered even on back to back basis. The pricing of all forex derivative products should be locally demonstrable at all times.
+h) The market-makers should carry out proper due diligence regarding ‘user appropriateness’ and ‘suitability’ of products before offering derivative products (except forward contracts) to users as detailed in.
+No.BP.BC.44 /21.04.157/2011-12 dated November 2, 2011
+.
+i) AD Category I may share with the user the various scenario analysis encompassing both the possible upside as well as the downsides and sensitivity analysis identifying the various market parameters that affect the product.
+j) The provisions of comprehensive guidelines on Derivatives issued vide
+DBOD.No.BP.BC.86/21.04.157/2006-07 dated April 20, 2007
+and as amended from time to time are also applicable to forex derivatives.
+k) Sharing of information on derivatives between banks is mandatory and as detailed vide
+circular DBOD.No.BP.BC.46/08.12.001/2008-09 dated September 19, 2008
+and
+DBOD.No.BP.BC.94/08.12.001/2008-09 dated December 8, 2008
+.
+4. Currency Futures on recognised Stock /New Exchanges
+As part of further developing the derivatives market in India and adding to the existing menu of foreign exchange hedging tools available to the residents and non-residents, currency futures contracts have been permitted to be traded in recognized stock exchanges or new exchanges, recognized by the Securities and Exchange Board of India (SEBI) in the country. The currency futures market would function subject to the directions, guidelines, instructions issued by the Reserve Bank and the SEBI, from time to time.
+Persons resident in India are permitted to participate in the currency futures market in India subject to directions contained in the Currency Futures (Reserve Bank) Directions, 2008 [
+Notification No.FED.1/DG(SG)-2008 dated August 6, 2008
+] (Directions) and
+Notification No.FED.2/ED (HRK)-2009 dated January 19, 2010
+issued by the Reserve Bank of India, which have been issued under Section 45W of the Reserve Bank of India Act, 1934.
+Currency futures are subject to following conditions:
+Permission
+(i) Currency futures are permitted in US Dollar (USD) - Indian Rupee (INR), Euro (EUR)-INR, Japanese Yen (JPY)-INR and Pound Sterling (GBP)-INR.
+(ii) ‘Persons resident in India’ may purchase or sell currency futures contracts subject to the terms and conditions laid down in paragraph 6 below.
+(iii) Foreign Portfolio Investors (FPIs) are permitted to enter into currency futures contracts subject to the terms and conditions laid down in Part A, Section II, paragraph no. 2.
+Features of currency futures
+Standardized currency futures shall have the following features:
+a. USD-INR, EUR-INR, GBP-INR and JPY-INR contracts are allowed to be traded.
+b. The size of each contract shall be USD 1000 for USD-INR contracts, Euro 1000 for Euro-INR contracts, GBP 1000 for GBP-INR contracts and JPY 100,000 for JPY-INR contracts.
+c. The contracts shall be quoted and settled in Indian Rupees.
+d. The maturity of the contracts shall not exceed 12 months.
+e. The settlement price for USD-INR and Euro-INR contracts shall be the Reserve Bank’s Reference Rates and for GBP-INR and JPY-INR contracts shall be the exchange rates published by the Reserve Bank in its press release on the last trading day.
+Membership
+(i) The membership of the currency futures market of a recognised stock exchange shall be separate from the membership of the equity derivative segment or the cash segment. Membership for both trading and clearing, in the currency futures market shall be subject to the guidelines issued by the SEBI.
+(ii) Banks authorized by the Reserve Bank under section 10 of the Foreign Exchange Management Act, 1999 as ‘AD Category - I bank’ are permitted to become trading and clearing members of the currency futures market of the recognized stock exchanges, on their own account and on behalf of their clients, subject to fulfilling the minimum prudential requirements.
+(iii) AD Category - I banks which do not meet the above minimum prudential requirements and AD Category - I banks which are Urban Co-operative banks or State Co-operative banks can participate in the currency futures market only as clients, subject to approval therefore from the respective regulatory Departments of the Reserve Bank.
+Position limits
+i. The position limits for various classes of participants in the currency futures market shall be subject to the guidelines issued by the SEBI.
+ii. The AD Category - I banks, shall operate within prudential limits, such as Net Open Position (NOP) and Aggregate Gap (AG) limits.
+Risk Management measures
+The trading of currency futures shall be subject to maintaining initial, extreme loss and calendar spread margins and the Clearing Corporations / Clearing Houses of the exchanges should ensure maintenance of such margins by the participants on the basis of the guidelines issued by the SEBI from time to time.
+Surveillance and disclosures
+The surveillance and disclosures of transactions in the currency futures market shall be carried out in accordance with the guidelines issued by the SEBI.
+Authorisation to Currency Futures Exchanges / Clearing Corporations
+Recognized stock exchanges and their respective Clearing Corporations / Clearing Houses shall not deal in or otherwise undertake the business relating to currency futures unless they hold an authorization issued by the Reserve Bank under section 10(1) of the Foreign Exchange Management Act, 1999.
+5. Currency Options on recognised Stock /New Exchanges
+In order to expand the existing menu of exchange traded hedging tools available to the residents and non residents, plain vanilla currency options contracts have been permitted to be traded in recognized stock exchanges or new exchanges, recognized by the Securities and Exchange Board of India (SEBI) in the country.
+Exchange traded Currency options are subject to following conditions:
+Permission
+(i) Exchange traded Currency option contracts are permitted in US Dollar (USD) - Indian Rupee (INR).
+(ii) ‘Persons resident in India’ may purchase or sell exchange traded currency options contracts subject to the terms and conditions laid down in paragraph 6 below.
+(iii) Foreign Portfolio Investors (FPIs) are permitted to enter into exchange traded currency options contracts subject to the terms and conditions laid down in Part A, Section II, paragraph no. 2.
+Features of exchange traded currency options
+Standardized exchange traded currency options shall have the following features:
+The underlying for the currency option shall be US Dollar – Indian Rupee (USD-INR) spot rate.
+The options shall be premium styled European call and put options.
+The size of each contract shall be USD 1000.
+The premium shall be quoted in Rupee terms. The outstanding position shall be in USD.
+The maturity of the contracts shall not exceed twelve months.
+The contracts shall be settled in cash in Indian Rupees.
+The settlement price shall be the Reserve Bank’s Reference Rate on the date of expiry of the contracts.
+Membership
+i) Members registered with the SEBI for trading in currency futures market shall be eligible to trade in the exchange traded currency options market of a recognised stock exchange. Membership for both trading and clearing, in the exchange traded currency options market shall be subject to the guidelines issued by the SEBI.
+ii) Banks authorized by the Reserve Bank under section 10 of the Foreign Exchange Management Act, 1999 as ‘AD Category - I bank’ are permitted to become trading and clearing members of the exchange traded currency options market of the recognized stock exchanges, on their own account and on behalf of their clients, subject to fulfilling the following minimum prudential requirements:
+Minimum net worth of Rs. 500 crores.
+Minimum CRAR of 10 per cent.
+Net NPA should not exceed 3 per cent.
+Made net profit for last 3 years.
+The AD Category - I banks, which fulfil the prudential requirements, should lay down detailed guidelines with the approval of their Boards for trading and clearing of the exchange traded currency options contracts and management of risks.
+iii) AD Category - I banks, which do not meet the above minimum prudential requirements and AD Category - I banks, which are Urban Co-operative banks or State Co-operative banks, can participate in the exchange traded currency options market only as clients, subject to approval therefor from the respective regulatory Departments of the Reserve Bank.
+Position limits
+i) The position limits for various classes of participants for the currency options shall be subject to the guidelines issued by the SEBI.
+ii) The AD Category - I banks shall operate within prudential limits, such as Net Open Position (NOP) and Aggregate Gap (AG) limits.
+Risk Management measures
+The trading of exchange traded currency options shall be subject to maintaining initial, extreme loss and calendar spread margins and the Clearing Corporations / Clearing Houses of the exchanges should ensure maintenance of such margins by the participants on the basis of the guidelines issued by the SEBI from time to time.
+Surveillance and disclosures
+The surveillance and disclosures of transactions, in the exchange traded currency options market, shall be carried out in accordance with the guidelines issued by the SEBI.
+Authorisation to the Exchanges / the Clearing Corporations for dealing in Currency Options
+Recognized stock exchanges and their respective Clearing Corporations / Clearing Houses shall not deal in or otherwise undertake the business relating to the exchange traded currency options unless they hold an authorisation issued by the Reserve Bank under section 10 (1) of the Foreign Exchange Management Act, 1999.
+6. Terms and conditions for residents participating in the Exchange Traded Currency Derivatives(ETCD)
+a. Domestic participants shall be allowed to take a long (bought) as well as short (sold) position in USD-INR pair upto USD 15 million per exchange without having to establish the existence of any underlying exposure. In addition, domestic participants shall be allowed to take long as well as short positions in EUR-INR, GBP-INR and JPY-INR pairs, all put together, upto USD 5 million equivalent per exchange without having to establish the existence of any underlying exposure. For the convenience of monitoring, exchanges may prescribe fixed limits for the contracts in currencies other than USD such that these limits are within the equivalent of USD 5 million. These limits shall be monitored by the exchanges and breaches, if any, may be reported to Financial Markets Regulation Department, Reserve Bank of India.
+b. Domestic participants who want to take a position in excess of limits mentioned at paragraph (a) above in the ETCD market will have to establish the existence of an underlying exposure. The procedure for the same shall be as under:
+For participants who are exporters or importers of goods and services, the eligible limit up to which they can take appropriate hedging positions in ETCDs will be determined as higher of the (I) average of the last three years’ export or import turnover, or (II) previous year’s export or import turnover.
+The participants shall furnish, to the trading member of the exchange, a certificate(s) from their statutory auditors regarding the limit(s) mentioned above along with an undertaking signed by the Chief Financial Officer (CFO) to the effect that at all time, the sum total of the outstanding OTC derivative contracts and the outstanding ETCD contracts shall be corresponding to the actual exports or imports contracted, as the case may be.
+Based on the above certificate, a trading member can book ETCD contracts upto fifty per cent of the eligible limit [as at paragraph (i) above] on behalf of the concerned customer. If a participant wishes to take position beyond the fifty per cent of the eligible limit in the ETCD, it has to produce a signed undertaking from the Chief Financial Officer (CFO) or the senior most functionary responsible for company's finance and accounts and the Company Secretary (CS) to the effect that the sum total of the outstanding OTC derivative contracts and outstanding ETCD contracts has been in correspondence with the eligible limits. In the absence of a CS, the Chief Executive Officer (CEO) or the Chief Operating Officer (COO) shall co-sign the undertaking along with the CFO or the senior most functionary responsible for company's finance and accounts. Based on such an undertaking, the trading member can book ETCD contracts beyond fifty per cent of the limit and up to limit mentioned in paragraph (i) above.
+For all other participants having an underlying foreign currency exposure in respect of both current and capital account transactions as also exporters and importers who wish to access the ETCD market on the basis of contracted exposure, they will have to undertake the transaction through AD Category-I bank/s who are operating as trading members. In such cases, the responsibility for verification of the underlying exposures and ensuring that the ETCD bought/sold is in conformity with the underlying exposure and that no OTC contract has been booked against the same underlying exposure shall rest with the concerned (AD Category I bank) trading member.
+All participants in the ETCD market, except those covered by paragraph (iv) above, will be required to submit to the concerned trading member of the exchange a half-yearly signed undertaking from the Chief Financial Officer (CFO) or the senior most functionary responsible for company's finance and accounts and the Company Secretary (CS) to the effect that the sum total of the outstanding OTC derivative contracts and outstanding ETCD contracts has been in correspondence with the eligible limits. In the absence of a CS, the Chief Executive Officer (CEO) or the Chief Operating Officer (COO) shall co-sign the undertaking along with the CFO or the senior most functionary responsible for company's finance and accounts.
+c. It may be noted that the onus of complying with the provisions of this circular rests with the participant and in case of any contravention the participant shall render itself liable to any action that may be warranted as per the provisions of Foreign Exchange Management Act, 1999 and those of the Regulations, Directions, etc. framed thereunder.
+7. Commodity Hedging
+Residents in India, engaged in import and export trade or as otherwise approved by the Reserve Bank from time to time, are permitted to hedge the price risk of permitted commodities in the international commodity exchanges/ markets. This facility must not be used in conjunction with any other derivative product. It may be noted that the role of Authorized Dealer banks here is primarily to provide facilities for remitting foreign currency amounts towards margin requirements from time to time, subject to verification of the underlying exposure. In lieu of making a direct remittance towards payment obligations arising out of commodity derivative transactions entered into by customers with overseas counterparties, AD Category I banks may issue guarantees/standby letters of credit to cover these specific payment obligations related to commodity derivatives, subject to the conditions/guidelines in
+Annex XV
+. It is clarified that the term Board, wherever used refers to Board of Directors or the equivalent forum in case of partnership or proprietary firms. The facility is divided into following categories:
+I) Delegated Route
+a. Hedging of price risk on actual Import/Export of commodities
+Participants
+Users:
+Companies in India engaged in import and export of commodities
+Facilitators:
+AD Category I banks.
+Purpose:
+To hedge price risk of the imported/exported commodity
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants –may use OTC contracts overseas.
+Operational Guidelines
+AD Category I banks satisfying certain minimum norms, and authorized by the Reserve Bank may grant permission to companies to hedge price risk on import/ export in respect of any commodity (except gold, silver, platinum) in the international commodity exchanges/ markets. The guidelines are given in
+Annex XI
+(A & B).
+b. Hedging of anticipated imports of crude oil
+Participants
+Users:
+Domestic companies engaged in refining crude oil.
+Facilitators:
+AD Category I banks.
+Purpose:
+To hedge the price risk on crude oil imports on the basis of past performance.
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants – may use OTC contracts overseas.
+Operational Guidelines:
+a) Hedging to be permitted up to 50 per cent of the volume of actual imports during the previous year or 50 per cent of the average volume of imports during the previous three financial years, whichever is higher.
+b) Contracts booked under this facility will have to be regularized by production of supporting import orders during the currency of the hedge. An undertaking may be obtained from the companies to this effect.
+c) All other conditions and guidelines as per
+Annex XI
+should be complied with.
+c. Hedging of price risk on domestic purchase and sales
+(i) Select Metals
+Participants
+Users:
+Domestic producers/ users of aluminium, copper, lead, nickel and zinc listed on a recognized stock exchange.
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge the price risk on aluminium, copper, lead, nickel and zinc based on their underlying economic exposures
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges.
+Operational Guidelines:
+a) Hedging may be permitted up to the average of previous three financial years’ (April to March) actual purchases / sales or the previous year’s actual purchases / sales turnover, whichever is higher, of the above commodities.
+b) AD Category I banks would require the user to submit a Board resolution certifying Board approved policies which define the overall framework within which derivatives activities should be conducted and the risks controlled.
+c) All other conditions and guidelines as per
+Annex XI
+(A & B) should be complied with.
+(ii) ATF (Aviation Turbine Fuel)
+Participants
+Users:
+Actual domestic users of ATF.
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge economic exposures in respect of ATF based on domestic purchases.
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants – may use OTC contracts overseas.
+Operational Guidelines:
+a) AD Category I banks should ensure that permission for hedging ATF is granted only against firm orders.
+b) AD Category I banks should retain necessary documentary evidence.
+c) AD Category I banks would require the user to submit a Board resolution certifying Board approved policies which define the overall framework within which derivatives activities should be conducted and the risks controlled.
+d) All other conditions and guidelines as per
+Annex XI
+(A & B) should be complied with.
+(iii) Domestic purchases of crude oil and sales of petro-products
+Participants
+Users:
+Domestic crude oil refining companies.
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge commodity price risk on domestic purchases of crude oil and domestic sales of petroleum products, which are linked to international prices.
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants – may use OTC contracts overseas.
+Operational Guidelines:
+a) The hedging will be allowed strictly on the basis of underlying contracts.
+b) AD Category I banks should retain necessary documentary evidence.
+c) All other conditions and guidelines as per
+Annex XI
+(A & B) should be complied with.
+d. Hedging of price risk on Inventory
+Participants
+Users:
+Domestic oil marketing and refining companies.
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge commodity price risk on Inventory.
+Products:
+Over-the-counter (OTC) / exchange traded derivatives overseas with tenor restricted to a maximum of one-year forward.
+Operational Guidelines:
+a) Hedge is allowed to the extent of 50 per cent of their inventory based on the volumes in the quarter proceeding the previous quarter.
+b) All other conditions and guidelines as per
+Annex XI
+(A & B) should be complied with.
+II) Approval Route
+Participants
+Users:
+Residents in India, who are exposed to systemic international price risk in commodities.
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge systemic international price risk in commodities.
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants – may use OTC contracts overseas.
+Operational Guidelines:
+Applications of companies/ firms which are not covered by the delegated authority of AD Category I may be forwarded to the Reserve Bank for consideration through the International Banking Division of an AD Category I bank concerned along with the latter’s specific recommendations. The details of the application are given in
+Annex XII
+.
+III) Entities in Special Economic Zones (SEZ)
+Participants
+Users:
+Entities in Special Economic Zones (SEZ)
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge price risk of the imported/exported commodity
+Products:
+Standard exchange traded futures and options (purchases only) in international commodity exchanges. If risk profile warrants – may use OTC contracts overseas.
+Operational Guidelines:
+AD banks may allow entities in the Special Economic Zones (SEZ) to undertake hedging transactions in the overseas commodity exchanges/markets to hedge their commodity prices on export/import, subject to the condition that such contract is entered into on a stand-alone basis. (The term ''standalone'' means the unit in SEZ is completely isolated from financial contacts with its parent or subsidiary in the mainland or within the SEZs as far as its import/export transactions are concerned.)
+NOTE: The detailed guidelines in respect of Delegated Route and Approval Route are given in the
+Annex XI
+and
+XII
+respectively.
+8. Freight hedging
+Domestic oil refining companies and shipping companies exposed to freight risk, are permitted to hedge their freight risk by the AD Category I banks authorized by the Reserve Bank. Other companies exposed to freight risk can seek prior permission from the Reserve Bank through their AD Category I bank.
+It may be noted that the role of Authorized Dealer banks here is primarily to provide facilities for remitting foreign currency amounts towards margin requirements from time to time, subject to verification of the underlying exposure. This facility must not be used in conjunction with any other derivative product. The facility is divided into following categories:
+I) Delegated Route
+Participant:
+Users:
+Domestic oil-refining companies and shipping companies.
+Facilitators:
+AD Category I banks, specifically authorized by the Reserve Bank i.e. those who have been delegated the authority to grant permission to listed companies to hedge commodity price risk in the international commodity exchanges / markets, subject to the conditions mentioned therein.
+Purpose:
+To hedge freight risk.
+Products:
+Plain vanilla Over the Counter (OTC) or exchange traded products in the international market / exchange.
+Operational Guidelines:
+i) The maximum tenor permissible will be one year forward.
+ii) The exchanges on which the products are purchased must be a regulated entity in the host country.
+iii) AD Category I banks should ensure that the entities hedging their freight exposures have Board Resolutions which certify that the Board approved Risk Management policies, defines the overall framework within which derivative transactions should be undertaken and the risks contained therein.
+AD Category I banks should approve this facility only after ensuring that the sanction of the company's Board has been obtained for the specific activity and also for dealing in overseas exchanges / markets. The Board approval must include explicitly the authority/ies permitted to undertake the transactions, the mark-to-market policy, the counterparties permitted for OTC derivatives, etc. and a list of transactions undertaken should be put up to the Board on a half-yearly basis.
+iv) The AD Category I bank must obtain a copy of a Board resolution that certifies that the corporate has a Risk Management Policy, incorporating the above details at the time of permitting the transaction itself and as and when changes made therein.
+v) The underlying exposure for the users is detailed under (a) and (b) below:
+(a) For Domestic oil refining companies:
+The freight hedging will be on the basis of underlying contracts i.e., import/export orders for crude oil/petroleum products.
+Additionally, domestic oil refining companies may hedge their freight risk on anticipated imports of crude oil on the basis of their past performance up to 50 per cent of the volume of actual imports of crude oil during the previous year or 50 per cent of the average volume of imports during the previous three financial years, whichever is higher.
+Contracts booked under the past performance facility will have to be regularized by production of underlying documents during the currency of the hedge. An undertaking may be obtained from the company to this effect.
+(b) For shipping companies:
+The hedging will be on the basis of owned / controlled ships of the shipping company which have no committed employment. The quantum of hedge will be determined by the number and capacity of these ships. The same may be certified by the statutory auditor and submitted to the AD Category I bank.
+Contracts booked will have to be regularized by production of underlying documents i.e. employment of the ship during the currency of the hedge. An undertaking may be obtained from the company to this effect.
+AD Category I banks may also ensure that the freight derivatives being entered into by the shipping companies are reflective of the underlying business of the shipping companies.
+II) Approval Route
+Participants
+Users:
+Companies (other than domestic oil-refining companies and shipping companies) who are exposed to freight risk
+Facilitators:
+AD Category I banks
+Purpose:
+To hedge freight risk
+Products:
+Plain vanilla Over the Counter (OTC) or exchange traded products in the international market / exchange.
+Operational Guidelines
+The maximum tenor permissible will be one year forward.
+The exchanges on which the products are purchased must be a regulated entity in the host country.
+Applications of companies/ firms which are not covered by the delegated authority of AD Category I may be forwarded to the Reserve Bank for consideration through the International Banking Division of their AD Category I bank concerned along with the latter’s specific recommendations.
+SECTION II
+Facilities for Persons Resident outside India
+Participants
+Market-makers –
+AD Category I banks.
+Users –
+Foreign Portfolio Investors(FPIs), Investors having Foreign Direct Investments (FDI), Non Resident Indians (NRIs), Non Resident exporters and importers, Non Residents lenders having ECBs designated in INR.
+The purpose, products and operational guidelines of each of the users is detailed below:
+1. Facilities for Foreign Portfolio Investors (FPIs)
+Purpose
+i) To hedge currency risk on the market value of entire investment in equity and/or debt in India as on a particular date.
+ii) To hedge the coupon receipts arising out of investments in debt securities falling due during the following twelve months.
+iii) To hedge Initial Public Offers (IPO) related transient capital flows under the Application Supported by Blocked Amount (ASBA) mechanism.
+Products
+Forward foreign exchange contracts with rupee as one of the currencies and foreign currency-INR options. Foreign Currency – INR swaps for IPO related flows.
+Operational Guidelines, Terms and Conditions
+a) FPIs may approach any AD Category I bank for hedging their currency risk on the market value of entire investment in equity and/or debt in India as on a particular date subject to the following conditions:
+The eligibility for cover may be determined on the basis of a valuation certificate provided by the designated AD category bank along with a declaration by the FPI to the effect that its global outstanding hedges plus the derivatives contracts cancelled across all AD category banks is within the market value of its investments.
+The FPI should also provide a quarterly declaration to the custodian bank that the total amount of derivatives contract booked across AD Category banks are within the market value of its investments.
+The hedges taken with AD banks other than designated AD banks have to be settled through the Special Non-Resident Rupee A/c maintained with the designated bank through RTGS/NEFT.
+If an FPI wishes to enter into a hedge contract for the exposure relating to that part of the securities held by it against which it has issued any PN/ODI, it must have a mandate from the PN/ODI holder for the purpose. Further, while AD Category bank is expected to verify such mandates, in cases where this is rendered difficult, they may obtain a declaration from the FPI regarding the nature/structure of the PN/ODI establishing the need for a hedge operation and that such operations are being undertaken against specific mandates obtained from their clients.
+b) AD Category I banks may undertake periodic reviews, at least at quarterly intervals, on the basis of market price movements, fresh inflows, amounts repatriated and other relevant parameters to ensure that the forward cover outstanding is supported by underlying exposures. In this context, it is clarified that in case an FPI intends to hedge the exposure of one of its sub-account holders, (cf paragraph 4 of schedule 2 to Notification No. FEMA 20 /2000-RB dated 3rd May 2000) it will be required to produce a clear mandate from the sub-account holder in respect of the latter’s intention to enter into the derivative transaction. Further, the AD Category I banks shall have to verify the mandate as well as the eligibility of the contract vis-a-vis the market value of the securities held in the concerned sub-account.
+c) If a hedge becomes naked in part or in full owing to contraction of the market value of the portfolio, for reasons other than sale of securities, the hedge may be allowed to continue till the original maturity, if so desired.
+d) Forward contracts booked by FPIs, once cancelled, can be rebooked up to the extent of 10 per cent of the value of the contracts cancelled. The forward contracts booked may, however, be rolled over on or before maturity.
+e) Forward contracts booked for hedging coupon receipts as indicated in para. (1)(ii) above shall not be eligible for rebooking on cancellation. They may however be rolled over on maturity provided the relative coupon amount is yet to be received.
+f) The cost of hedge should be met out of repatriable funds and /or inward remittance through normal banking channel.
+g) All outward remittances incidental to the hedge are net of applicable taxes.
+h) For IPO related transient capital flows
+FPIs can undertake foreign currency- rupee swaps only for hedging the flows relating to the IPO under the ASBA mechanism.
+The amount of the swap should not exceed the amount proposed to be invested in the IPO.
+The tenor of the swap should not exceed 30 days.
+The contracts, once cancelled, cannot be rebooked. Rollovers under this scheme will also not be permitted.
+i) FPIs and other foreign investor are free to remit funds through any bank of its choice for any transaction permitted under FEMA, 1999 or the Regulations / Directions framed thereunder. The funds thus remitted can be transferred to the designated AD Category -I custodian bank through the banking channel. Note should, however, be taken that KYC in respect of the remitter, wherever required, is a joint responsibility of the bank that has received the remittance as well as the bank that ultimately receives the proceeds of the remittance. While the first bank will be privy to the details of the remitter and the purpose of the remittance, the second bank, will have access to complete information from the recipient's perspective. Besides, the remittance receiving bank is required to issue FIRC to the bank receiving the proceeds to establish the fact the funds had been remitted in foreign currency.
+2. Terms and conditions for Foreign Portfolio Investors participating in the Exchange Traded Currency Derivatives (ETCD)
+[Refer Part A, sub-paragraphs (4) & (5)]
+Foreign portfolio investors (FPIs) eligible to invest in securities as laid down in Schedules 2, 5, 7 and 8 of the Foreign Exchange Management (Transfer or Issue of Security by a person resident outside India) Regulations, 2000 (FEMA 20/2000-RB dated May 3, 2000 (GSR 406 (E) dated May 3, 2000)) as amended from time to time may enter into currency futures or exchange traded currency options contracts subject to the following terms and conditions:
+FPIs will be allowed access to the currency futures or exchange traded currency options for the purpose of hedging the currency risk arising out of the market value of their exposure to Indian debt and equity securities.
+Such investors can participate in the currency futures / exchange traded options market through any registered / recognised trading member of the exchange concerned.
+FPIs can take position – both long (bought) as well as short(sold) – in USD-INR pair upto USD 15 million per exchange. In addition, they shall be allowed to take long as well as short positions in EUR-INR, GBP-INR and JPY-INR pairs, all put together, upto USD 5 million equivalent per exchange. For the convenience of monitoring, exchanges may prescribe fixed limits for the contracts in currencies other than USD such that these limits are within the equivalent of USD 5 million. These limits shall be monitored by the exchanges and breaches, if any, may be reported to Financial Markets Regulation Department, Reserve Bank of India.
+An FPI cannot take a short position beyond USD 15 million in USD-INR pair and USD 5 million in all other currency pairs put together at any time. In order to take a long position in excess of these limits in any exchange, it will be required to have an underlying exposure. The onus of ensuring the existence of an underlying exposure shall rest with the FPI concerned.
+The exchange will, however, be free to impose additional restrictions as prescribed by the Securities and Exchange Board of India (SEBI) for the purpose of risk management and fair trading.
+The exchange/ clearing corporation will provide FPI wise information on day-end open position as well as intra-day highest position to the respective custodian banks. The custodian banks will aggregate the position of each FPI on the exchanges as well as the OTC contracts booked with them (i.e. the custodian banks) and other AD banks. If the total value of the contracts exceeds the market value of the holdings on any day, the concerned FPI shall be liable to such penal action as may be laid down by the SEBI in this regard and action as may be taken by Reserve Bank of India under the Foreign Exchange Management Act (FEMA), 1999. The designated custodian bank will be required to monitor this and bring transgressions, if any, to the notice of RBI / SEBI.
+3. Facilities for Non-resident Indians (NRIs)
+Purpose
+To hedge the exchange rate risk on the market value of investment made under the portfolio scheme in accordance with provisions of FERA, 1973 or under notifications issued there under or in accordance with provisions of FEMA, 1999.
+To hedge the exchange rate risk on the amount of dividend due on shares held in Indian companies.
+To hedge the exchange rate risk on the amounts held in FCNR (B) deposits.
+To hedge the exchange rate risk on balances held in NRE account.
+Products
+a) Forward foreign exchange contracts with rupee as one of the currencies, and foreign currency-INR options.
+b) Additionally, for balances in FCNR (B) accounts – Cross currency (not involving the rupee) forward contracts to convert the balances in one foreign currency to other foreign currencies in which FCNR (B) deposits are permitted to be maintained.
+4. Facilities for Hedging Foreign Direct Investment in India
+Purpose
+To hedge exchange rate risk on the market value of investments made in India since January 1, 1993, subject to verification of the exposure in India
+To hedge exchange rate risk on dividend receivable on the investments in Indian companies
+To hedge exchange rate risk on proposed investment in India
+Products
+Forward foreign exchange contracts with rupee as one of the currencies and foreign currency-INR options.
+Operational Guidelines, Terms and Conditions
+a) In respect of contracts to hedge exchange rate risk on the market value of investments made in India, contracts once cancelled are not eligible to be rebooked. The contracts may, however, be rolled over.
+b) In respect of proposed foreign direct investments, following conditions would apply:
+Contracts to hedge exchange rate risk arising out of proposed investment in Indian companies may be allowed to be booked only after ensuring that the overseas entities have completed all the necessary formalities and obtained necessary approvals (wherever applicable) for the investment.
+The tenor of the contracts should not exceed six months at a time beyond which permission of the Reserve Bank would be required to continue with the contract.
+These contracts, if cancelled, shall not be eligible to be rebooked for the same inflows.
+Exchange gains, if any, on cancellation shall not be passed on to the overseas investor.
+5. Facilities for Hedging Trade Exposures, invoiced in Indian Rupees in India
+Purpose
+To hedge the currency risk arising out of genuine trade transactions involving exports from and imports to India, invoiced in Indian Rupees, with AD Category I banks in India.
+Products
+Forward foreign exchange contracts with rupee as one of the currencies and foreign currency-INR options.
+Operational Guidelines, Terms and Conditions
+The AD Category I banks can opt for either Model I or Model II as given below:
+Model I
+Non-resident exporter / importer dealing through their overseas bank (including overseas branches of AD banks in India)
+Non-resident exporter / importer approaches his banker overseas with appropriate documents with a request for hedging their Rupee exposure arising out of a confirmed import or export order invoiced in Rupees.
+The overseas bank in turn approaches its correspondent in India (i.e. the AD bank in India) for a price to hedge the exposure of its customer along with documentation furnished by the customer that will enable the AD bank in India to satisfy itself that there is an underlying trade transaction (scanned copies would be acceptable). The following undertakings also need to be taken from the customer:
+That the same underlying exposure has not been hedged with any other AD Category I bank/s in India.
+If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately.
+A certification on the end client KYC may also be taken as a one time document from the overseas bank by the AD bank in India.
+The AD bank in India based on documents received from the overseas correspondent should satisfy itself about the existence of the underlying trade transaction and offer a forward price (no two-way quotes should be given) to the overseas bank who, in turn, will offer the same to its customer. The AD bank, therefore, will ‘not be’ dealing directly with the overseas importer / exporter.
+The amount and tenor of the hedge should not exceed that of the underlying transaction and should be in consonance with the extant regulations regarding tenor of payment / realization of the proceeds.
+On due date, settlement is to be done through the correspondent bank’s Vostro or the AD bank’s Nostro accounts.
+The contracts, once cancelled, cannot be rebooked.
+The contracts may, however, be rolled over on or before maturity subject to maturity of the underlying exposure.
+On cancellation of the contracts, gains may be passed on to the customer subject to the customer providing a declaration that he is not going to rebook the contract or that the contract has been cancelled on account of cancellation of the underlying exposure.
+In case the underlying trade transaction is extended, rollover can be permitted once based on the extension of the underlying trade transaction for which suitable documentation is to be provided by the overseas bank and the same procedure followed as in case of the original contract.
+Model II
+Non-resident exporter / importer dealing directly with the AD bank in India
+The overseas exporter / importer approaches the AD bank in India with a request for forward cover in respect of underlying transaction for which he furnishes appropriate documentation (scanned copies would be acceptable), on a pre-deal basis to enable the AD bank in India to satisfy itself that there is an underlying trade transaction, and details of his overseas banker, address etc. The following undertakings also need to be taken from the customer
+That the same underlying exposure has not been hedged with any other AD Category I bank/s in India.
+If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately.
+The AD bank may obtain certification of KYC/AML in the format in
+Annex XVIII
+. The format can be obtained through the overseas correspondent / bank through SWIFT authenticated message. In case the AD bank has a presence outside India, the AD may take care of the KYC/AML through its bank’s offshore branch.
+AD banks should evolve appropriate arrangements to mitigate credit risk. Credit limits can be granted based on the credit analysis done by self / the overseas branch.
+The amount and tenor of the hedge should not exceed that of the underlying transaction and should be in consonance with the extant regulations regarding tenor of payment / realization of the proceeds.
+On due date, settlement is to be done through the correspondent bank’s Vostro or the AD bank’s Nostro accounts. AD banks in India may release funds to the beneficiaries only after sighting funds in Nostro / Vostro accounts.
+The contracts, once cancelled, cannot be rebooked.
+The contracts may, however, be rolled over on or before maturity subject to maturity of the underlying exposure.
+On cancellation of the contracts, gains may be passed on to the customer subject to the customer providing a declaration that he is not going to rebook the contract or that the contract has been cancelled on account of cancellation of the underlying exposure.
+In case the underlying trade transaction is extended, rollover can be permitted once based on the extension of the underlying trade transaction for which suitable documentation is to be provided by the overseas bank and the same procedure followed as in case of the original contract.
+6. Facilities for Hedging of ECBs, designated in Indian Rupees, in India
+I) Purpose:
+To hedge the currency risk arising out of ECBs designated in INR either directly with AD Category- I banks in India or through their overseas banks on a back to back basis as per operational guidelines, terms and conditions given under (II) below
+Products
+Forward foreign exchange contracts with rupee as one of the currencies, foreign currency-INR options and foreign currency-INR swaps.
+Operational Guidelines, Terms and Conditions
+The foreign equity holder / overseas organisation or individual approaches the AD bank in India with a request for forward cover in respect of underlying transaction for which he needs to furnish appropriate documentation (scanned copies would be acceptable), on a pre-deal basis to enable the AD bank in India to satisfy itself that there is an underlying ECB transaction, and details of his overseas banker, address, etc. The following undertakings also need to be taken from the customer –
+That the same underlying exposure has not been hedged with any other AD Category- I bank/s in India.
+If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately.
+The amount and tenor of the hedge should not exceed that of the underlying transaction and should be in consonance with the extant regulations regarding tenor of payment / realization of the proceeds.
+On due date, settlement is to be done through the correspondent bank’s Vostro or the AD bank’s Nostro accounts. AD banks in India may release funds to the beneficiaries only after sighting funds in Nostro / Vostro accounts.
+The contracts, once cancelled, cannot be rebooked.
+The contracts may, however, be rolled over on or before maturity subject to maturity of the underlying exposure.
+On cancellation of the contracts, gains may be passed on to the customer subject to the customer providing a declaration that he is not going to rebook the contract or that the contract has been cancelled on account of cancellation of the underlying exposure.
+II) Purpose:
+To hedge the currency risk arising out of ECBs designated in INR extended by recognised non-resident lenders
+4
+with AD Category- I banks in India through their overseas banks on a back to back basis.
+Products:
+Foreign currency-INR swaps
+Operational Guidelines, Terms and Conditions
+The recognised non-resident lender approaches his overseas bank with appropriate documentation as evidence of an underlying ECB denominated in INR with a request for a swap rate for mobilising INR for onward lending to the Indian borrower.
+The overseas bank, in turn, approaches an AD Cat-I bank for a swap rate along with documentation furnished by the customer that will enable the AD bank in India to satisfy itself that there is an underlying ECB in INR (scanned copies would be acceptable). The following undertakings also need to be taken from the customer –
+That the same underlying exposure has not been hedged with any other AD Category- I bank/s in India.
+If the underlying exposure is cancelled, the customer will cancel the hedge contract immediately.
+KYC certification on the end client shall also be taken by the AD bank in India as a one-time document from the overseas bank.
+Based on the documents received from the overseas bank, the AD bank in India should satisfy itself about the existence of the underlying ECB in INR and offer an indicative swap rate to the overseas bank which, in turn, will offer the same to the non-resident lender on a back-to-back basis.
+The continuation of the swap shall be subject to the existence of the underlying ECB at all times.
+On the due date, settlement may be done through the Vostro account of the overseas bank maintained with its correspondent bank in India.
+The concerned AD Cat-I bank shall keep on record all related documentation for verification by Reserve Bank.
+Operational Guidelines, Terms and Conditions
+The operational guidelines as outlined for FPIs would be applicable, with the exception of the provision relating to rebooking of cancelled contracts. All foreign exchange derivative contracts permissible for a resident outside India other than a FPI, once cancelled,are not eligible to be rebooked.
+SECTION III
+Facilities for Authorised Dealers Category-I
+1. Management of Banks’ Assets-Liabilities
+Users –
+AD Category I banks
+Purpose -
+Hedging of interest rate and currency risks of foreign exchange asset-liability portfolio
+Products -
+Interest Rate Swap, Interest Rate Cap/Collar, Currency Swap, Forward Rate Agreement. AD banks may also purchase call or put options to hedge their cross currency proprietary trading positions.
+Operational Guidelines, Terms and Conditions
+The use of these instruments is subject to the following conditions:
+An appropriate policy in this regard is approved by the Top Management.
+The value and maturity of the hedge should not exceed those of the underlying.
+No ‘stand alone’ transactions can be initiated. If a hedge becomes naked, in part or full, owing to the contraction of the value of portfolio, it may be allowed to continue till the original maturity and should be marked to market at regular intervals.
+The net cash flows arising out of these transactions are booked as income/ expenditure and reckoned toward foreign exchange position, wherever applicable.
+2. Hedging of Gold Prices
+Users –
+Banks authorised by the Reserve Bank to operate the Gold Deposit Scheme
+Banks, which are allowed to enter into forward gold contracts in India in terms of the guidelines issued by the Department of Banking Regulation (including the positions arising out of inter-bank gold deals)
+Purpose –
+To hedge price risk of gold
+Products -
+Exchange-traded and over-the-counter hedging products available overseas.
+Operational Guidelines, Terms and Conditions
+While using products involving options, it may be ensured that there is no net receipt of premium, either direct or implied.
+Authorised banks are permitted to enter into forward contracts with their constituents (exporters of gold products, jewellery manufacturers, trading houses, etc.) in respect of the underlying sale, purchase and loan transactions in gold with them, subject to the conditions specified by the Reserve Bank in this regard. The tenor of such contracts should not exceed six months.
+3. Hedging of Capital
+Users –
+Foreign banks operating in India
+Product –
+Forward foreign exchange contracts
+Operational Guidelines, Terms and Conditions
+a) Tier I capital -
+The capital funds should be available in India to meet local regulatory and CRAR requirements and, hence, these should not be parked in nostro accounts. Foreign currency funds accruing out of hedging should not be parked in Nostro accounts but should remain swapped with banks in India at all times.
+The forward contracts should be for tenors of one or more years and may be rolled over on maturity. Rebooking of cancelled hedges will require prior approval of the Reserve Bank.
+b) Tier II capital -
+Foreign banks are permitted to hedge their Tier II capital in the form of Head Office borrowing as subordinated debt, by keeping it swapped into rupees at all times in terms of
+DBOD circular No.IBS.BC.65/23.10.015/2001-02 dated February 14, 2002
+.
+Banks are not permitted to enter into foreign currency-INR swap transactions involving conversion of fixed rate rupee liabilities in respect of Innovative Tier I/Tier II bonds into floating rate foreign currency liabilities.
+4. Participation in the currency futures market in India
+Please refer to Part-A Section I, paragraph 4. In continuation of the same:
+a) AD Category I Banks may be guided by the DBOD instructions vide
+DBOD.No.FSD.BC.29/24.01.001/2008-09 dated August 6, 2008
+.
+b) AD Category I Banks are permitted to become trading and clearing members of the currency futures market of recognised stock exchanges, on their own account and on behalf of their clients, subject to fulfilling the following minimum prudential requirements:
+Minimum net worth of Rs. 500 crores.
+Minimum CRAR of 10 per cent.
+Net NPA should not exceed 3 per cent.
+Net profit for last 3 years.
+The AD Category - I banks which fulfill the prudential requirements should lay down detailed guidelines with the approval of their Boards for trading and clearing of currency futures contracts and management of risks.
+(c). AD Category - I banks which do not meet the above minimum prudential requirements and AD Category - I banks which are Urban Co-operative banks or State Co-operative banks can participate in the currency futures market only as clients, subject to approval and directions from the respective regulatory Departments of the Reserve Bank.
+(d) The AD Category - I banks, shall operate within prudential limits, such as Net Open Position (NOP) and Aggregate Gap (AG) limits. The exposure of the banks, on their own account, in the currency futures market shall form part of their NOP and AG limits.
+(e) AD Category-I banks may undertake proprietary trading in the ETCD market within their Net Open Position Limit (NOPL) and any limit that may be imposed by the exchanges for the purpose of risk management and preserving market integrity.
+(f) AD Category-I banks may also net / offset their positions in the ETCD market against the positions in the OTC derivatives markets. Keeping in view the volatility in the foreign exchange market, Reserve Bank may however stipulate a separate sub-limit of the NOPL (as a percentage thereof) exclusively for the OTC market as and when required.
+5. Participation in the exchange traded currency options market in India
+Please refer to Part-A Section I, paragraph 5. In continuation of the same:
+a) AD Category - I banks are permitted to become trading and clearing members of the exchange traded currency options market of the recognized stock exchanges, on their own account and on behalf of their clients, subject to fulfilling the following minimum prudential requirements:
+Minimum net worth of Rs. 500 crores.
+Minimum CRAR of 10 per cent.
+Net NPA should not exceed 3 per cent.
+Made net profit for last 3 years.
+The AD Category - I banks, which fulfil the prudential requirements, should lay down detailed guidelines with the approval of their Boards for trading and clearing of the exchange traded currency options contracts and management of risks.
+b) AD Category - I banks, which do not meet the above minimum prudential requirements and AD Category - I banks, which are Urban Co-operative banks or State Co-operative banks, can participate in the exchange traded currency options market only as clients, subject to approval therefor from the respective regulatory Departments of the Reserve Bank.
+c) The AD Category - I banks shall operate within prudential limits, such as Net Open Position (NOP) and Aggregate Gap (AG) limits. The option position of the banks, on their own account, in the exchange traded currency options shall form part of their NOP and AG limits
+PART B
+ACCOUNTS OF NON-RESIDENT BANKS
+1. General
+(i) Credit to the account of a non-resident bank is a permitted method of payment to non-residents and is, therefore, subject to the regulations applicable to transfers in foreign currency.
+(ii) Debit to the account of a non-resident bank is in effect an inward remittance in foreign currency.
+2. Rupee Accounts of Non-Resident Banks
+AD Category I banks may open/close Rupee accounts (non-interest bearing) in the names of their overseas branches or correspondents without prior reference to the Reserve Bank. Opening of Rupee accounts in the names of branches of Pakistani banks operating outside Pakistan requires specific approval of the Reserve Bank.
+3. Funding of Accounts of Non-resident Banks
+(i) AD Category I banks may freely purchase foreign currency from their overseas correspondents/branches at on-going market rates to lay down funds in their accounts for meeting their bonafide needs in India.
+(ii) Transactions in the accounts should be closely monitored to ensure that overseas banks do not take a speculative view on the Rupee. Any such instances should be notified to the Reserve Bank.
+NOTE: Forward purchase or sale of foreign currencies against Rupees for funding is prohibited. Offer of two-way quotes in Rupees to non-resident banks is also prohibited.
+4. Transfers from other Accounts
+Transfer of funds between the accounts of the same bank or different banks is freely permitted.
+5. Conversion of Rupees into Foreign Currencies
+Balances held in Rupee accounts of non-resident banks may be freely converted into foreign currency. All such transactions should be recorded in Form A2 and the corresponding debit to the account should be in form A3 under the relevant Returns.
+6. Responsibilities of Paying and Receiving Banks
+In the case of credit to accounts the paying banker should ensure that all regulatory requirements are met and are correctly furnished in form A1/A2 as the case may be.
+7. Refund of Rupee Remittances
+Requests for cancellation or refund of inward remittances may be complied with without reference to Reserve Bank after satisfying themselves that the refunds are not being made in cover of transactions of compensatory nature.
+8. Overdrafts / Loans to Overseas Branches/ Correspondents
+(i) AD Category I banks may permit their overseas branches/ correspondents temporary overdrawals not exceeding Rs.500 lakhs in aggregate, for meeting normal business requirements. This limit applies to the amount outstanding against all overseas branches and correspondents in the books of all the branches of the authorised AD Category I bank in India. This facility should not be used to postpone funding of accounts. If overdrafts in excess of the above limit are not adjusted within five days a report should be submitted to the Reserve Bank of India, Financial Markets Regulation Department, Central Office, Mumbai 400001 within 15 days from the close of the month, stating the reasons thereof. Such a report is not necessary if arrangements exist for value dating.
+(ii) AD Category I bank wishing to extend any other credit facility in excess of (i) above to overseas banks should seek prior approval from the Chief General Manager, Reserve Bank of India, Financial Markets Regulation Department, Central Office, 23rd Floor, Mumbai, 400001.
+9. Rupee Accounts of Exchange Houses
+Opening of Rupee accounts in the names of Exchange Houses for facilitating private remittances into India requires approval of the Reserve Bank. Remittances through Exchange Houses for financing trade transactions are permitted upto Rs.15,00,000 per transaction
+5
+.
+PART C
+INTER-BANK FOREIGN EXCHANGE DEALINGS
+1. General
+The Board of Directors of AD Category I banks should frame an appropriate policy and fix suitable limits for various Treasury functions.
+2. Position and Gaps
+The net overnight open exchange position (
+Annex-I
+) and the aggregate gap limits should be communicated to the Reserve Bank soon after the approval of the Board / Management Committee.
+3. Inter-bank Transactions
+Subject to compliance with the provisions of paragraphs 1 and 2, AD Category I banks may freely undertake foreign exchange transactions as under:
+a) With AD Category I banks in India:
+(i) Buying/Selling/Swapping foreign currency against Rupees or another foreign currency.
+(ii) Placing/Accepting deposits and Borrowing/Lending in foreign currency.
+b). With banks overseas and Off-shore Banking Units in Special Economic Zones
+(i) Buying/Selling/Swapping foreign currency against another foreign currency to cover client transactions or for adjustment of own position,
+(ii) Initiating trading positions in the overseas markets.
+NOTE :
+A. Funding of accounts of Non-resident banks - please refer to paragraph 3 of Part B.
+B. Form A2 need not be completed for sales in the inter-bank market, but all such transactions shall be reported to Reserve Bank in R Returns.
+4. Foreign Currency Accounts/ Investments in Overseas Markets
+(i) Inflows into foreign currency accounts arise primarily from client-related transactions, swap deals, deposits, borrowings, etc. AD Category I banks may maintain balances in foreign currencies up to the levels approved by the Board. They are free to manage the surplus in these accounts through overnight placement and investments with their overseas branches/correspondents subject to adherence to the gap limits approved by the Reserve Bank.
+(ii) AD Category I banks are free to undertake investments in overseas markets up to the limits approved by their Board. Such investments may be made in overseas money market instruments and/or debt instruments issued by a foreign state with a residual maturity of less than one year and rated at least as AA (-) by Standard & Poor / FITCH IBCA or Aa3 by Moody's. For the purpose of investments in debt instruments other than the money market instruments of any foreign state, bank's Board may lay down country ratings and country - wise limits separately wherever necessary.
+NOTE:
+For the purpose of this clause, 'money market instrument' would include any debt instrument whose life to maturity does not exceed one year as on the date of purchase.
+(iii) AD Category I banks may also invest the un-deployed FCNR (B) funds in overseas markets in long-term fixed income securities subject to the condition that the maturity of the securities invested in do not exceed the maturity of the underlying FCNR (B) deposits.
+(iv) Foreign currency funds representing surpluses in the nostro accounts may be utilised for:
+a) making loans to resident constituents for meeting their foreign exchange requirements or for the Rupee working capital/capital expenditure needs of exporters/ corporates who have a natural hedge or a risk management policy for managing the exchange risk subject to the prudential/interest-rate norms, credit discipline and credit monitoring guidelines in force.
+b) extending credit facilities to Indian wholly owned subsidiaries/ joint ventures abroad in which at least 51 per cent equity is held by a resident company, subject to the guidelines issued by Reserve Bank (Department of Banking Regulation).
+(v) AD Category I banks may write-off/transfer to unclaimed balances account, un-reconciled debit/credit entries as per instructions issued by Department of Banking Regulation, from time to time.
+5. Loans/Overdrafts
+a) All categories of overseas foreign currency borrowings of AD Category I banks, (except for borrowings at (c) below), including existing External Commercial Borrowings and loans/overdrafts from their Head Office, overseas branches and correspondents outside India, International / Multilateral Financial Institutions [see (e) below] or any other entity as permitted by Reserve Bank of India and overdrafts in nostro accounts (not adjusted within five days), shall not exceed 100 per cent of their unimpaired Tier I capital or USD 10 million (or its equivalent), whichever is higher subject to conditions laid down in (f) below. The aforesaid limit applies to the aggregate amount availed of by all the offices and branches in India from all their branches/correspondents abroad and also includes overseas borrowings in gold for funding domestic gold loans (cf.
+DBOD circular No.IBD.BC. 33/23.67.001/2005-06 dated September 5, 2005
+). If drawals in excess of the above limit are not adjusted within five days, a report, as per the format in
+Annex-VIII
+, should be submitted to the Chief General Manager, Reserve Bank of India, Financial Markets Regulation Department Central Office, Mumbai 400001, within 15 days from the close of the month in which the limit was exceeded. Such a report is not necessary if arrangements exist for value dating.
+b) The funds so raised may be used for purposes other than lending in foreign currency to constituents in India and repaid without reference to the Reserve Bank. As an exception to this rule, AD Category I banks are permitted to use borrowed funds as also foreign currency funds received through swaps for granting foreign currency loans for export credit in terms of
+IECD Circular No 12/04.02.02/2002-03 dated January 31, 2003
+. Any fresh borrowing above this limit shall be made only with the prior approval of the Reserve Bank. Applications for fresh ECBs should be made as per the current ECB Policy.
+c) The following borrowings would continue to be outside the limit of 100 per cent of unimpaired Tier I capital or USD 10 million (or its equivalent), whichever is higher:
+Overseas borrowings by AD Category I banks for the purpose of financing export credit subject to the conditions prescribed in DBOD Master Circular dated July 2, 2015 on Rupee / Foreign Currency Export Credit & Customer Service To Exporters.
+Subordinated debt placed by head offices of foreign banks with their branches in India as Tier II capital.
+Capital funds raised/augmented by the issue of Innovative Perpetual Debt Instruments and Debt Capital Instruments, in foreign currency, in terms of Circulars
+DBOD. No. BP.BC.57/21.01.002/2005-06 dated January 25, 2006
+,
+DBOD.No.BP.BC.23/21.01.002/2006-07 dated July 21, 2006
+and Perpetual Debt Instruments and Debt Capital Instruments in foreign currency issued in terms of
+circular DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012
+.
+Any other overseas borrowing with the specific approval of the Reserve Bank.
+d) Interest on loans/overdrafts may be remitted (net of taxes) without the prior approval of Reserve Bank.
+e)
+6
+AD category-I banks may borrow only from International / Multilateral Financial Institutions in which Government of India is a shareholding member or which have been established by more than one government or have shareholding by more than one government and other international organizations.
+f) The borrowings beyond 50 per cent of unimpaired Tier I capital of AD Category – I banks will be subject to the following conditions:
+The bank should have a Board approved policy on overseas borrowings which shall contain the risk management practices that the bank would adhere to while borrowing abroad in foreign currency.
+The bank should maintain a CRAR of 12.0 per cent.
+The borrowings beyond the existing ceiling shall be with a minimum maturity of three years.
+All other existing norms (FEMA regulations, NOPL norms, etc) shall continue to be applicable.
+PART D
+REPORTS TO THE RESERVE BANK
+i) The Head/Principal Office of each AD Category-I banks should submit daily statements of Foreign Exchange Turnover in Form FTD and Gaps, Position and Cash Balances in Form GPB through the Online Returns Filing System (ORFS) as per format given in
+Annex-II
+.
+ii) The Head/Principal Office of each authorised dealer category-I should forward a statement of Nostro / Vostro Account balances on a monthly basis in the format given in
+Annex-III
+to the Director, Division of International Finance, Department of Economic Analysis and Policy, Reserve Bank of India, Central Office Building, 8th Floor, Fort, Mumbai-400 001. The data may also be transmitted by fax or e-mail at the numbers/addresses given in the format.
+iii) AD Category-I banks should consolidate the data on cross currency derivative transactions undertaken by residents and submit half-yearly reports (June and December) as per the format indicated in the
+Annex-IV
+. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+iv) AD Category-I banks should forward details of exposures in foreign exchange as at the end of every quarter as per the format indicated in
+Annex-V
+. ADs should submit this report as per the revised format online only from quarter ended September 2013 through the Extensible Business Reporting Language (XBRL) system which may be accessed at
+https://secweb.rbi.org.in/orfsxbrl/
+. AD Category – I banks which require login ID / passwords for accessing XBRL system may submit their e-mail addresses and contact numbers to
+e-mail
+. Please note that details of exposures of all corporate clients who meet the prescribed criteria have to be included in the report. The AD banks should submit this report based on bank's books and not based on corporate returns.
+v) Authorised Dealers Category I should forward details of option transactions (FCY-INR) undertaken on a weekly basis as per the format indicated in
+Annex VIII
+. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+vi) AD Category-I banks have to report their total outstanding foreign currency borrowings under all categories as on the last Friday of every month as per the format in
+Annex-IX
+. The report should be received by the 10th of the following month. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+vii) AD Category-I banks are required to submit a monthly report (as on the last Friday of every month) on the limits granted and utilized by their constituents under the facility of booking forward contracts on past performance basis, as per the format in Annex-X. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+viii) The Head/Principal Office of each AD Category-I banks should submit a statement in form BAL giving details of their holdings of all foreign currencies on fortnightly basis through Online Returns Filing System (ORFS) within seven calendar days from the close of the reporting period to which it relates.
+ix) A monthly statement should be furnished before the 10th of the succeeding month, in respect of cover taken by FPI, indicating the name of the FPI / fund, the eligible amount of cover, the actual cover taken, etc. as per the format in
+Annex XIII
+. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+x) The Head/Principal Office of each AD Category-I banks should furnish an up-to-date list (in triplicate) of all its offices/branches, which are maintaining Rupee accounts of non-resident banks as at the end of December every year giving their code numbers allotted by Reserve Bank. The list should be submitted before 15th January of the following year. The offices/branches should be classified according to area of jurisdiction of Reserve Bank Offices within which they are situated. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+xi) AD Category – I banks are required to submit a quarterly report on the forward contracts booked & cancelled by SMEs and Resident Individuals, Firms and Companies within the first week of the following month, as per format given in Annex XIV. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+xii) Authorised Dealers should consolidate the data on the transactions undertaken by non-residents under the scheme and submit quarterly reports as per the format indicated in the
+Annex XIX
+. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+xiii) Authorised Dealers should report on a quarterly basis, doubtful transactions involving frequent cancellation of hedge transactions and / or the underlying trade transactions by non-residents under the scheme as per the format indicated in the
+Annex XX
+. The report may also be forwarded by
+e-mail
+so as to reach the Department by the 10th of the following month.
+The reports are to be sent to the Chief General Manager, Reserve Bank of India, Financial Markets Regulation Department, Central Office 23rd Floor, Mumbai - 400 001 unless otherwise specified. Reports may be sent preferably through
+e-mail
+.
+Annex I
+[See Part C, Paragraph 2]
+A. Guidelines for Foreign Exchange Exposure Limits of Authorised Dealers Category – I
+The Foreign Exchange Exposure Limits of Authorised Dealers would be dual in nature.
+Net Overnight Open Position Limit (NOOPL) for calculation of capital charge on forex risk.
+Limit for positions involving Rupee as one of the currencies (NOP-INR) for exchange rate management.
+For banks incorporated in India, the exposure limits fixed by the Board should be the aggregate for all branches including their overseas branches and Off-shore Banking Units. For foreign banks, the limits will cover only their branches in India.
+i. Net Overnight Open Position Limit (NOOPL) for calculation of capital charge on forex risk
+NOOPL may be fixed by the boards of the respective banks and communicated to the Reserve Bank immediately. However, such limits should not exceed 25 percent of the total capital (Tier I and Tier II capital) of the bank.
+The Net Open position may be calculated as per the method given below:
+1. Calculation of the Net Open Position in a Single Currency
+The open position must first be measured separately for each foreign currency. The open position in a currency is the sum of (a) the net spot position, (b) the net forward position and (c) the net options position.
+a) Net Spot Position
+The net spot position is the difference between foreign currency assets and the liabilities in the balance sheet. This should include all accrued income/expenses.
+b) Net Forward Position
+This represents the net of all amounts to be received less all amounts to be paid in the future as a result of foreign exchange transactions which have been concluded. These transactions, which are recorded as off-balance sheet items in the bank's books, would include:
+spot transactions which are not yet settled;
+forward transactions;
+Guarantees and similar commitments denominated in foreign currencies which are certain to be called;
+Net future income/expenses not yet accrued but already fully hedged (at the discretion of the reporting bank);
+Net of amounts to be received/paid in respect of currency futures, and the principal on currency futures/swaps.
+c) Net Options Position
+The options position is the "delta-equivalent" spot currency position as reflected in the authorized dealer's options risk management system, and includes any delta hedges in place which have not already been included under 1(a) or 1(b) (i) and (ii) above.
+2. Calculation of the Overall Net Open Position
+This involves measurement of risks inherent in a bank's mix of long and short position in different currencies. It has been decided to adopt the "shorthand method" which is accepted internationally for arriving at the overall net open position. Banks may, therefore, calculate the overall net open position as follows:
+i. Calculate the net open position in each currency (paragraph 1 above).
+ii. Calculate the net open position in gold.
+iii. Convert the net position in various currencies and gold into Rupees in terms of existing RBI / FEDAI Guidelines. All derivative transactions including forward exchange contracts should be reported on the basis of Present Value (PV) adjustment.
+iv. Arrive at the sum of all the net short positions.
+v. Arrive at the sum of all the net long positions.
+Overall net foreign exchange position is the higher of (iv) or (v). The overall net foreign exchange position arrived at as above must be kept within the limit approved by the bank’s Board.
+Note:
+Authorised Dealer banks should report all derivative transactions including forward exchange contracts on the basis of PV adjustment for the purpose of calculation of the net open position. Authorised Dealer banks may select their own yield curve for the purpose of PV adjustments. The banks however should have an internal policy approved by its ALCO regarding the yield curve/(s) to be used and apply it on a consistent basis.
+3. Offshore exposures
+For banks with overseas presence, the offshore exposures should be calculated on a standalone basis as per the above method and should not be netted with onshore exposures. The aggregate limit (on-shore + off-shore) may be termed Net Overnight open Position (NOOP) and will be subjected to capital charge. Accumulated surplus of foreign branches need not be reckoned for calculation of open position. An illustrative example is as follows:
+If a bank has, let us say three foreign branches and the three branches have open position as below-
+Branch A: + Rs 15 crores
+Branch B: + Rs 5 crores
+Branch C: - Rs 12 crores
+The open position for the overseas branches taken together would be Rs 20 crores.
+4. Capital
+7
+Requirement
+As prescribed by the Reserve Bank from time to time
+5. Other Guidelines
+i. ALCO / Internal Audit Committee of the Authorized Dealers should monitor the utilization of and adherence to the limits.
+ii. Authorized Dealers should also have a system in place to demonstrate, whenever required, the various components of the NOOP as prescribed in the guidelines for verification by Reserve Bank.
+iii. Transactions undertaken by Authorized Dealers till the end of business day may be computed for calculation of Foreign Exchange Exposure Limits. The transactions undertaken after the end of business day may be taken into the positions for the next day. The end of day time may be approved by the bank’s Board.
+ii. Limit for positions involving Rupee as one of the currencies (NOP-INR) for exchange rate management
+NOP-INR may be prescribed to Authorised Dealers at the discretion of the Reserve Bank of India depending on the market conditions.
+The NOP-INR positions may be calculated by netting off the long & short onshore positions (as arrived at by the short hand method) plus the net INR positions of offshore branches.
+Positions undertaken by banks in currency futures / options traded in exchanges will form part of the NOP-INR.
+As regards option position, any excesses on account of large option Greeks during volatile market closing / revaluations may be treated as technical breaches. However, such breaches are to be monitored by the banks with proper audit trail. Such breaches should also be regularized and ratified by appropriate authorities (ALCO / Internal Audit Committee).
+B. Aggregate Gap Limits (AGL)
+i. AGL may be fixed by the boards of the respective banks and communicated to the Reserve Bank immediately. However, such limits should not exceed 6 times the total capital (Tier I and Tier II capital) of the bank.
+ii. However, Authorised Dealers which have instituted superior measures such as tenor wise PV01 limits and VaR to aggregate foreign exchange gap risks are allowed to fix their own PV01 and VaR limits based on their capital, risk bearing capacity etc. in place of AGL and communicate the same to the Reserve Bank. The procedure and calculation of the limit should be clearly documented as an internal policy and strictly adhered to.
+Annex II
+[see Part D, paragraph (i)]
+Reporting of Forex Turnover Data - FTD and GPB
+The guidelines and formats for preparation of the FTD and GPB reports are given below. AD Category-I banks may ensure that the reports are properly compiled on the basis of these guidelines: The data for a particular date has to reach us by the close of business of the following working day.
+FTD
+1. SPOT - Cash and tom transactions are to be included under ‘Spot’ transactions.
+2. SWAP - Only foreign exchange swaps between authorised dealers category-I should be reported under swap transactions. Long term swaps (both cross currency and foreign currency-Rupee swaps) should not be included in this report. Swap transactions should be reported only once and should not be included under either the ‘spot’ or ‘forward’ transactions. Buy/Sell swaps should be included in the ‘Purchase’ side under ‘Swaps’ while Sell/buy swaps should figure on the ‘Sale’ side.
+3. Cancellation of forwards - The amount required to be reported under cancellation of forward contracts against purchases from merchants should be the aggregate of cancelled forward merchant sale contracts by authorised dealers category-I (adding to the supply in the market). On the sale side of cancelled forward contracts, aggregate of the cancelled forward purchase contracts should be indicated (adding to the demand in the market).
+4 ‘FCY/FCY’ transactions - Both the legs of the transactions should be reported in the respective columns. For example in a EUR/USD purchase contract, the EUR amount should be included in the purchase side while the USD amount should be included in the sale side.
+5. Transactions with RBI should be included in inter-bank transactions. Transactions with financial institutions other than banks authorised to deal in foreign exchange should be included under merchant transactions.
+GPB
+1. Foreign Currency Balances - Cash balances and investments in all foreign currencies should be converted into US dollars and reported under this head.
+2. Net open exchange position- This should indicate the overall overnight net open exchange position of the authorised dealer category-I in Rs. Crore. The net overnight open position should be calculated on the basis of the instructions given in
+Annex I
+.
+3. Of the above FCY/INR- The amount to be reported is the position against the Rupee- i.e. the net overnight open exchange position less cross currency position, if any.
+Formats of FTD and GPB Statements
+FTD
+Statement showing daily turnover of foreign exchange dated………
+Merchant
+Inter bank
+Spot, Cash, Ready, T.T. etc.
+Forwards
+Cancellation of Forwards
+Spot
+Swap
+Forwards
+FCY/INR
+Purchase from
+Sales to
+FCY/FCY
+Purchase from
+Sales to
+GPB
+Statement showing gaps, position and cash balances as on………..
+Foreign Currency Balances
+(Cash Balance + All Investments)
+:
+IN USD MILLION
+Net Open Exchange Position (Rs.)
+:
+O/B (+)/O/S (-) IN INR CRORE
+Of the above FCY/INR
+:
+IN INR CRORE
+AGL maintained (In USD mio)
+:
+VaR maintained(In INR):
+FOREIGN CURRENCY MATURITY MISMATCH (IN USD MILLION)
+I month
+II months
+III months
+IV months
+V months
+VI months
+>VI months
+Annex III
+[see Part D ,paragraph (ii)]
+Statement of Nostro/Vostro Balances for the month of
+Name & address of the Authorised Dealer Category-I bank……..
+Sr. No.
+Currency
+Net balance in Nostro Account
+Net balance in Vostro Account.
+1
+USD
+2
+EUR
+3
+JPY
+4
+GBP
+5
+INR
+6
+Other currencies (in US $ million)
+Note: In case the variation in each item above (given at 1 to 5) exceeds 10% in a month, the reason may be given briefly, as a footnote.
+This statement should be addressed to The Director, Division of International Finance, Department of Economic Analysis and Policy, Reserve Bank of India, Central Office Building, 8th Floor, Mumbai- 400 001. Phone: 022- 2266 3791. Fax- 022 2262 2993, 2266 0792.
+Annex IV
+[see Part D , paragraph (iii)]
+Cross- currency derivative transactions - statement for the half-year ended….
+Product
+No. of transactions
+Notional principal amount in USD
+Interest rate swaps
+Currency swaps
+Coupon swaps
+Foreign currency options
+Interest rate caps or collars (Purchases)
+Forward rate agreements
+Any other product as permitted by Reserve Bank from time to time
+Annex V
+[see Part D , paragraph (iv)]
+Information relating to exposures in foreign currency as on …………………..
+Information relating to exposures in Foreign Currency as on.......
+Name of the bank.........
+Information relating to exposures in Foreign Currency as on.........
+Name of the bank.....................
+C. INR/FCY currency swaps based on Rupee Liability (above USD 25 million equivalent be reported)
+A. Exposures and Hedges based on
+Underlying Transactions (USD Million)
+B. Exposures and Hedges based on
+Past Performance (USD Million)
+Sr. No.
+Name of Corp orate
+Trade Related
+Non - Trade
+Exports
+Imports
+Short Term Finance Outstanding
+Expo sures
+Amount hedged
+Exports
+Imports
+Expo sures
+Amount hedged
+Expo sures
+Amount hedged
+Expo sures
+Amount hedged
+Eligible limits
+Cum. Amount hedged
+Amount O/S
+Eligible limits
+Cum. Amount hedged
+Amount O/S
+1
+2
+3
+4
+5
+Notes:
+a. Export Bills purchased /discounted/negotiated not to be included
+b. L/Cs established/bills under LCs to be retired/ outstanding import collection bills to be included
+c. Data to be submitted based on banks' books and not based on corporate's return
+d. Short term Finance to include Trade Credit (Buyers credit/ supplier's credit) approved by the Bank /PCFC
+e. Non trade exposures to include ECBs, FCCB cases handled by the bank/ FCNR (B) loans etc.
+f. Corporate wise data where the exposures or the hedges undertaken are above USD 25 million or equivalent shall be reported.
+g. All hedges with rupee as one of the legs shall be reported
+h. In the case of option structures, the trade with highest notional amount shall be reported.
+i. Corporate wise data where the eligible limits computed as per RBI guidelines are above USD 25 Million or equivalent shall be reported, in Part B
+j. Under amounts hedged in Part B report the cumulative total of the hedges booked during the financial year
+k. The amount of contracts booked during the previous year and outstanding shall not be included under the amount hedged and amount O/S in Part B.
+l. Only the cases where the bank has sanctioned some PP limits for the corporate shall be reported in Part B
+Note:
+AD Category – I banks should submit the above quarterly report as per the revised format
+online only
+from quarter ended September 2013 through the Extensible Business Reporting Language (XBRL) system which may be accessed at
+https://secweb.rbi.org.in/orfsxbrl/
+.
+Annex VI
+[See Part A Section 1 paragraph 2(g)(ii)]
+Format of Declaration of amounts booked/cancelled under Past Performance facility
+[On letterhead of the Company]
+Date :
+To,
+(Name and address of the Bank)
+Dear Sir,
+Sub : Declaration of amounts booked/cancelled under Past Performance facility
+We refer to the facility of booking of Forward or Option Contracts involving Foreign Exchange, based on the past performance facility with Authorised Dealer Category I Banks (AD Category I Banks), more specifically in relation to the undertaking submitted by us to you, dated [ ] in this regard ("Undertaking").
+In accordance with the said Undertaking, we hereby furnish a declaration regarding the amounts of the transactions booked by us with all AD Category I banks.
+We are availing the past performance limit with the following AD Category I banks :
+………………………………….
+Please find below the information regarding amounts booked / cancelled with all AD Category I Banks under the said past performance facility as permitted under the FEMA Regulations :
+(Amount in US dollar)
+Eligible limit under past performance
+Aggregate amount of contracts booked with all the ADs from April till date
+Amount of contracts cancelled with all ADs from April till date _______
+Amount of contracts o/s with all ADs as on date
+Amount utilised (by delivery of documents) as on date
+Available limits under past performance as on date
+Thanking you,
+Yours faithfully,
+For XXXXXX
+(Chief Financial Officer) (Company Secretary)
+Annex VII
+[See Part A, Section I, paragraph 2(g)(iv)]
+Format for Declaration for utilization of past performance limits in excess of 50 per cent and details of import / export turnover, overdues, etc.
+[On letterhead of the Company]
+To,
+(Name and address of the Bank)
+Dear Sir,
+Sub: Declaration for utilisation of past performance limits in excess of 50 per cent and details of import / export turnover, overdues, etc.
+The value of the outstanding forward cover availed by us under the past performance route as on [date] is [ ] per cent of our eligibility for our imports [exports].
+We certify that all guidelines in respect of hedging of probable exposures under the past performance route have been complied with while utilizing this facility.
+We declare that the information in the table below is true to the best of our knowledge and is provided in support of our application to hedge our currency risk under the past performance route using permitted foreign exchange derivative contracts in terms of Regulations and Guidelines issued under FEMA, 1999 (Act 42 of 1999).
+(Amount in USD million)
+Financial Year
+(April-March)
+Turnover
+Percentage of overdue bills to turnover
+Existing limit for booking of forward cover based on past performance
+Export
+Import
+Export
+Import
+Export
+Import
+Year 1
+Year 2
+Year 3
+Yours faithfully,
+For XXXXXX
+(Chief Financial Officer) (Company Secretary)
+Annex VIII
+[see Part D , paragraph (v)]
+FCY/Rupee Option transactions
+[For the week ended__________________]
+A. Option Transaction Report
+Sr. no
+Trade date
+Client/ C-party Name
+Notional
+Option Call/ Put
+Strike
+Maturity
+Premium
+Purpose*
+*Mention balance sheet, trading or client related.
+II. Option Positions Report
+Currency Pair
+Notional Outstanding
+Net Portfolio Delta
+Net Portfolio Gamma
+Net Portfolio Vega
+calls
+puts
+USD-INR
+USD
+USD
+USD
+EUR-INR
+EUR
+EUR
+EUR
+JPY-INR
+JPY
+JPY
+JPY
+(Similarly for other currency pairs)
+Total Net Open Options Position (INR):
+The total net open options position can be arrived using the methodology prescribed in A. P. (DIR Series) Circular No. 92 dated April 4, 2003.
+III. Change in Portfolio Delta Report
+Change in USD-INR delta for a 0.25% change in spot ($-appreciation) in INR terms =
+Change in USD-INR delta for a 0.25% change in spot ($-depreciation) in INR terms =
+Similarly, Change in delta for a 0.25% change in spot (FCY appreciation & depreciation separately) in INR terms for other currency pairs, such as EUR-INR, JPY-INR etc.
+IV. Strike Concentration Report
+Maturity Buckets
+Strike Price
+1 week
+2 weeks
+1 month
+2 months
+3 months
+> 3 months
+This report should be prepared for a range of 150 paise around current spot level. Cumulative positions to be given.
+All amounts in USD million.
+When the bank owns an option, the amount should be shown as positive. When the bank has sold an option, the amount should be shown as negative.
+All reports may be sent via
+e-mail
+by market-makers. Reports may be prepared as of every Friday and sent by the following Monday.
+Annex IX
+[See Part C, paragraph 5 (a)]
+Overseas foreign currency borrowings –Report as on ………..
+Amount (in equivalent USD* Million)
+Bank (SWIFT code)
+Unimpaired Tier-I capital as at the close of previous quarter.
+Borrowings in terms of PartC para 5 (a) of Master Circular on Risk Mgmt. and Inter-Bank Dealings dated July 1, 2009
+Borrowings in excess of the above limit for replenishment. Of Rupee resources @
+External Commercial Borrowings
+Borrowings under following scheme as per IECD Master Circular on Export Credit in Foreign Currency dated July 1, 2003 & Regulation 4.2(iv) of Notification No. FEMA 3/2000-RB dated May 3, 2000
+(a) Lines of Credit for extending Pre-Shipment Credit in Foreign Currency (PCFC)
+(b) Bankers Acceptance Facility (BAF) / Loan from overseas for extending Redisctg. Of Export Bills Abroad Scheme (EBR)
+A
+1
+2
+3
+4a
+4b
+Subord. Debt in foreign currency for inclusion in Tier-II capital
+Any other category (please specify here in this cell )
+Total of (1+2+3+6)
+Total of (1+2+3+4+6)
+Borrowings under categories (1+2+3+6) expressed as a percentage of Tier-I capital at A
+Borrowings under categories (1+2+3+4+6) expressed as a percentage of Tier-I capital at A
+5
+6
+7
+8
+9
+10
+Note:*1. RBI reference rate and New York closing rates on the date of report may be used for conversion purpose.
+@ 2. Facility since withdrawn vide para 4 of
+AP(DIR Series) Circular No. 81 dated March 24, 2004
+.
+Annex XI
+[See Part A, Section I, paragraph 5 A (i)]
+A. Hedging of Commodity Price Risk in the International Commodity Exchanges/ Markets
+1. AD Category I banks can grant permission to companies to hedge the price risk in respect of any commodity (except gold, platinum and silver) in the international commodity exchanges/ markets.
+Reserve Bank retains the right to withdraw the permission granted to any bank, if considered necessary.
+2. Before permitting corporates to undertake hedge transactions, authorized dealer would require them to submit a Board resolution indicating (i) that the Board understands the risks involved in these transactions, (ii) nature of hedge transactions that the corporate would undertake during the ensuing year, and (iii) the company would undertake hedge transaction only where it is exposed to price risk.
+3. Before permitting unlisted companies to undertake hedge transactions in respect of price risk on import/ export of commodities, Authorized Dealer would require them to submit a brief description of the hedging strategy proposed, namely:
+description of business activity and nature of risk,
+instruments proposed to be used for hedging,
+the names of the commodity exchanges and brokers through whom the risk is proposed to be hedged and the credit lines proposed to be availed. The name and address of the regulatory authority in the country concerned may also be given,
+size / average tenure of exposure and/or total turnover in a year, together with expected peak positions thereof and the basis of calculation.
+along with a copy of the Board Risk Management Policy approved by its Management covering;
+risk identification
+risk measurements
+guidelines and procedures to be followed with respect to revaluation and/or monitoring of positions
+names and designations of officials authorized to undertake transactions and limits
+4. Authorised Dealers may refuse to undertake any hedge transaction if it has a doubt about the bonafides of the transaction or the corporate is not exposed to price risk. The conditions subject to which ADs would grant permission to hedge and the guidelines for monitoring of the transactions are given below. It is clarified that hedging the price risk on domestic sale/purchase transactions in the international exchanges/markets, even if the domestic price is linked to the international price of the commodity, is not permitted, except certain specified transactions as approved/may be approved by the Reserve Bank. Necessary advice may be given to the customers before they start their hedging activity.
+5. AD Banks may submit an annual report to the Chief General Manager, Reserve Bank of India, Financial Markets Regulation Department, Central Office, Mumbai – 400 001 as on March 31 every year, within one month, giving the names of the corporates to whom they have granted permission for commodity hedging and the name of the commodity hedged.
+6. Applications from customers to undertake hedge transactions not covered under the delegated authority may continue to be forwarded to the Reserve Bank by the Authorised Dealers Category I, for approval.
+Conditions/ Guidelines for undertaking hedging transactions in the international commodity exchanges/ markets
+1. The focus of hedge transactions shall be on risk containment. Only off-set hedge is permitted.
+2. All standard exchange traded futures and options (purchases only) are permitted. If the risk profile warrants, the corporate/firm may also use OTC contracts. It is also open to the Corporate/firm to use combinations of option strategies involving a simultaneous purchase and sale of options as long as there is no net inflow of premium direct or implied, subject to the guidelines detailed in
+Annex XVII
+. Corporates/firms are allowed to cancel an option position with an opposite transaction with the same broker.
+3. The corporate/firm should open a Special Account with the Authorised Dealer Category-I bank. All payments/receipts incidental to hedging may be effected by the Authorised Dealer Category-I through this account without further reference to the Reserve Bank.
+4. A copy of the Broker’s Month-end Report(s), duly confirmed/countersigned by the corporate’s Financial Controller should be verified by the bank to ensure that all off-shore positions are/were backed by physical exposures.
+5. The periodic statements submitted by Brokers, particularly those furnishing details of transactions booked and contracts closed out and the amount due/payable in settlement should be checked by the corporate/firm. Un-reconciled items should be followed up with the Broker and reconciliation completed within three months.
+6. The corporate/firm should not undertake any arbitrage/speculative transactions. The responsibility of monitoring transactions in this regard will be that of the Authorised Dealer Category I.
+7. An annual certificate from Statutory Auditors should be submitted by the company/firm to the Authorised Dealer Category I. The certificate should confirm that the prescribed terms and conditions have been complied with and that the corporate/firm’s internal controls are satisfactory. These certificates may be kept on record for internal audit/inspection.
+B. Hedging of commodity price risk on petroleum & petroleum Products by domestic crude oil refining companies
+1. The hedging has to be undertaken only through AD Category I banks, subject to conditions and guidelines as also given in (a) and (b) of this Annex.
+2. While extending the above hedging facilities, AD Category I banks should ensure that the domestic crude oil refining companies hedging their exposures should comply with the following:
+to have Board approved policies which define the overall framework within which derivatives activities are undertaken and the risks contained;
+sanction of the company's Board has been obtained for the specific activity and also for dealing in OTC markets;
+the Board approval must include explicitly the mark-to-market policy, the counterparties permitted for OTC derivatives, etc.; and
+domestic crude oil companies should have put up the list of OTC transactions to the Board on a half yearly basis, which must be evidenced by the AD Category I bank before permitting continuation of hedging facilities under this scheme.
+3. The AD Category I banks should also ensure “user appropriateness” and “suitability” of the hedging products used by the customer as laid down in Para 8.3 of 'Comprehensive Guidelines on Derivatives' issued vide our
+circular No.BP.BC.44/21.04.157/2011-12 dated November 2, 2011
+.
+Annex XII
+Approval Route
+Residents in India, engaged in import and export trade or as otherwise approved by Reserve Bank from time to time, may hedge the price risk of all commodities in the international commodity exchanges/markets. Applications for commodity hedging of companies/ firms which are not covered by the delegated authority of Authorised Dealers Category I may be forwarded to the Reserve Bank for consideration through the International Banking Division of an AD bank along with specific recommendation giving the following details:
+1. A brief description of the hedging strategy proposed, namely:
+description of business activity and nature of risk,
+instruments proposed to be used for hedging,
+names of commodity exchanges and brokers through whom risk is proposed to be hedged and credit lines proposed to be availed. The name and address of the regulatory authority in the country concerned may also be given,
+size/average tenure of exposure and/or total turnover in a year, together with expected peak positions thereof and the basis of calculation.
+2. A copy of the Board Risk Management Policy approved by the Management covering;
+risk identification
+risk measurements
+guidelines and procedures to be followed with respect to revaluation and/or monitoring of positions
+names and designations of officials authorized to undertake transactions and limits
+3. Any other relevant information.
+A one-time approval will be given by Reserve Bank along with the guidelines for undertaking this activity.
+Annex XIII
+[see Part A ,Section II, paragraph 1]
+Statement – Details of Forward cover undertaken by FPI clients
+Month –
+Part A – Details of forward cover (without rebooking) outstanding
+Name of FPI
+Current Market Value (USD mio)
+Eligibility for Forward cover
+Forward Contracts Booked
+Forward Contracts Cancelled
+Total forward cover outstanding
+During the month
+Cumulative Total – Year to Date
+During the month
+Cumulative total – Year to date
+Part B – Details of transactions permitted to be cancelled and rebooked
+Name of FPI
+Market Value as determined at start of year (USD mio)
+Eligibility for Forward cover
+Forward Contracts Booked
+Forward Contracts Cancelled
+Total forward cover outstanding
+During the month
+Cumulative Total – Year to Date
+During the month
+Cumulative total – Year to date
+Name of the AD Category – I bank:
+Signature of the Authorised official:
+Date :
+Stamp :
+Annex XV
+[
+A. P. (DIR Series) Circular No. 15, dated October 29, 2007
+&
+A.P. (DIR Series) Circular No. 20, dated October 8, 2015
+]
+[see Part A, Section I, para 3(ii)(c)]
+Application cum Declaration for booking of forward contracts / options up to USD 1,000,000 by Resident Individuals, Firms and Companies
+(To be completed by the applicant)
+I. Details of the applicant
+a. Name …………………………..
+b. Address…………………………
+c. Account No……………………..
+d. PAN No………………………….
+II. Details of the foreign exchange forward / FCY-INR options contracts required
+1. Amount (Specify currency pair) ………………………………
+2. Tenor ………………………………………………….
+III. Notional value of forward / FCY-INR contracts outstanding as on date ……….
+IV. Details of actual / anticipated remittances
+1. Amount:
+2. Remittance Schedule:
+3. Purpose:
+Declaration
+I, ………………. …………(Name of the applicant), hereby declare that the total amount of foreign exchange forward / FCY-INR options contracts booked with the ---------------(designated branch) of ------------------(bank) in India is within the limit of USD 1,000,000/- (US Dollar One Million only) and certify that the above derivative contracts are meant for undertaking permitted current and / or capital account transactions. I also certify that I have not booked foreign exchange forward / FCY-INR options contracts with any other bank / branch. I have understood the risks inherent in booking of foreign exchange forward contracts / FCY-INR options contracts.
+Signature of the applicant
+(Name)
+Place:
+Date:
+Certificate by the Authorised Dealer Category – I bank
+This is to certify that the customer …………(Name of the applicant) having PAN No.……. has been maintaining an account ……..(no.) with us since ……..* We certify that the customer meets the AML / KYC guidelines laid down by RBI and confirm having carried out requisite suitability and appropriateness test.
+Name and designation of the authorized official:
+Place:
+Signature:
+Date: Stamp and seal
+* month / year
+Annex XVI
+[
+A. P. (DIR Series) Circular No. 35, dated November 10, 2008
+]
+[see Part A, Section I, paragraph 5]
+Conditions / Guidelines for issuance of standby letter of credit /bank guarantee - commodity hedging transactions
+1. AD Category I banks may issue guarantees/standby letters of credit only where the remittance is covered under the delegated authority or under the specific approval granted for overseas commodity hedging by Reserve Bank.
+2. The issuing bank shall have a Board approved policy on the nature and extent of exposures that the bank can take for such transactions and should be part of the credit exposure of the customers. The exposure should also be assigned risk weights, for capital adequacy purposes as per the extant provisions.
+3. The standby letter of credit / bank guarantee may be issued for the specific purpose of payment of margin money in respect of approved commodity hedging activities of the company.
+4. The standby letter of credit / bank guarantee may be issued for an amount not exceeding the margin payments made to the specific counterparty during the previous financial year.
+5. The standby letter of credit / bank guarantee may be issued for a maximum period of one year, after marking a lien on the non-funded facility available to the customer (letter of credit / bank guarantee limit).
+6. The bank shall ensure that the guidelines for overseas commodity hedging have been duly complied with.
+7. The bank shall ensure that broker's month-end reports duly confirmed /countersigned by corporate's financial controller have been submitted.
+8. Brokers' month end reports shall be regularly verified by the bank to ensure that all off-shore positions are / were backed by physical exposures.
+Annex XVII
+Conditions for allowing users to enter into a combination of OTC option strategies involving a simultaneous purchase and sale of options for overseas Commodity hedging
+Users –
+Listed companies and their subsidiaries/joint ventures/associates having common treasury and consolidated balance sheet or unlisted companies with a minimum net worth of Rs. 200 crore
+provided
+All such products are fair valued on each reporting date;
+The companies follow the Accounting Standards notified under section 211 of the Companies Act, 1956 and other applicable Guidance of the Institute of Chartered Accountants of India (ICAI) for such products/ contracts as also the principle of prudence which requires recognition of expected losses and non-recognition of unrealized gains;
+Disclosures are made in the financial statements as prescribed in ICAI press release dated 2nd December 2005; and
+The companies have a risk management policy with a specific clause in the policy that allows using the type/s of cost reduction structures.
+(Note: The above accounting treatment is a transitional arrangement till AS 30 / 32 or equivalent standards are notified.)”
+Operational Guidelines, Terms and Conditions
+Writing of options by the users, on a standalone basis is not permitted. Users can however, write options as part of cost reduction structures, provided, there is no net receipt of premium.
+Leveraged structures, Digital options, Barrier options and any other exotic products are not permitted.
+The delta of the options should be explicitly indicated in the term sheet.
+The portion of the structure with the largest notional should be reckoned for the purpose of underlying.
+AD Category I banks may, stipulate additional safeguards, such as continuous profitability, etc. depending on the scale of operations and risk profile of the users.
+Annex XVIII
+Know Your Customer (KYC) Form in respect of the non-resident exporter/importer
+Registered Name of the non-resident exporter/importer (Name, if the non-resident exporter/importer is an Individual)
+Registration Number (Unique Identification Number* in case non-resident exporter/importer is an Individual)
+Registered Address (Permanent Address if non-resident exporter / importer is an Individual)
+Name of the non-resident exporter’s/importer’s Bank
+Non-resident exporter’s / importer’s Bank Account No.
+Period of banking relationship with the non-resident exporter/importer
+* Passport No., Social Security No, or any Unique No. certifying the bonafides of the non-resident exporter/importer as prevalent in the Non-resident exporter’s/ importer’s country
+We confirm that all the information furnished above is true and accurate as provided by the overseas remitting bank of the non-resident exporter/importer.
+(Signature of the Authorised
+Official of the AD bank)
+Date :
+Place:
+Stamp :
+Annex XIX
+Reporting of Derivative transactions undertaken by non-resident importer / exporter – for the quarter ended.
+Name of the AD Category I Bank –
+No. of non-resident importers / exporters availing the facility.
+Total amount of derivative transactions undertaken
+(INR crores)
+Importers
+Exporters
+Forwards
+FCY-INR options
+Annex XX
+Reporting of suspicious transactions undertaken by non-resident importer / exporter – for the quarter ended.
+Name of the AD Category I Bank –
+Sl No
+Name of the non-resident exporter / importer
+Name of the overseas bank
+(in case of Model I)
+No. of derivative transactions cancelled along with cancellation of the underlying trade transaction and amount involved
+Action taken by the AD Cat I bank
+Appendix
+List of Circulars/Notifications which have been consolidated in the Master Circular on Risk Management and Inter-Bank Dealings
+Sr. No.
+Notification / Circular
+Date
+1.
+Notification No. FEMA 25/2000-RB
+May 3, 2000
+2.
+Notification No. FEMA 28/2000-RB
+September 5, 2000
+3.
+Notification No. FEMA 54/2002-RB
+March 5, 2002
+4.
+Notification No. FEMA 66/2002-RB
+July 27, 2002
+5.
+Notification No. FEMA 70/2002-RB
+August 26, 2002
+6.
+Notification No. FEMA 81/2003-RB
+January 8, 2003
+7.
+Notification No. FEMA 101/2003-RB
+October 3, 2003
+8.
+Notification No. FEMA 104/2003-RB
+October 21, 2003
+9.
+Notification No. FEMA 105/2003-RB
+October 21, 2003
+10.
+Notification No. FEMA 127/2005-RB
+January 5, 2005
+11.
+Notification No. FEMA 143/2005-RB
+December 19, 2005
+12.
+Notification No. FEMA 147/2006-RB
+March 16, 2006
+13.
+Notification No. FEMA 148/2006-RB
+March 16, 2006
+14.
+Notification No. FEMA 159/2007-RB
+September 17, 2007
+15.
+Notification No. FEMA 177/2008-RB
+August 1, 2008
+16.
+Notification No. FEMA 191/2009-RB
+May 20, 2009
+17.
+Notification No. FEMA 201/2009-RB
+November 5, 2009
+18.
+Notification No. FEMA 210/2010-RB
+July 19, 2010
+19.
+Notification No. FEMA 226/2010-RB
+March 16, 2012
+20.
+Notification No. FEMA 240/2010-RB
+September 25, 2012
+21
+Notification No. FEMA 286/2013-RB
+September 5, 2013
+22
+Notification No. FEMA 288/2013-RB
+September 26, 2013
+23
+Notification No. FEMA 303/2014-RB
+May 21, 2014
+1.
+A.P (DIR Series) Circular No. 92
+April 4, 2003
+2.
+A.P (DIR Series) Circular No. 93
+April 5, 2003
+3.
+A.P (DIR Series) Circular No. 98
+April 29, 2003
+4.
+A.P (DIR Series) Circular No.108
+June 21, 2003
+5.
+A.P.(DIR Series) Circular No. 28
+October 17, 2003
+6.
+A.P.(DIR Series) Circular No. 46
+December 9, 2003
+7.
+A.P.(DIR Series) Circular No. 47
+December 12, 2003
+8.
+A.P.(DIR Series) Circular No. 81
+March 24, 2004.
+9.
+A.P.(DIR Series) Circular No 26
+November 1, 2004
+10.
+A.P.(DIR Series) Circular No 47
+June 23, 2005
+11.
+A.P.(DIR Series) Circular No 03
+July 23, 2005
+12.
+A.P.(DIR Series) Circular No 25
+March 6, 2006
+13.
+EC.CO.FMD. No.8/02.03.75/2002-03
+February 4, 2003
+14.
+EC.CO.FMD. No.14/02.03.75/2002-03
+May 9, 2003
+15.
+EC.CO.FMD.No. 345/02.03.129(Policy)/2003-04
+November 5, 2003
+16.
+FE.CO.FMD.1072/02.03.89/2004-05
+February 8, 2005
+17.
+FE.CO.FMD. 2/02.03.129(Policy)/2005-06
+November 7, 2005
+18.
+FE.CO.FMD 21921/02.03.75/2005-06
+April 17, 2006
+19
+A.P.(DIR Series) Circular No.21
+December 13, 2006
+20
+A.P.(DIR Series) Circular No.22
+December 13, 2006
+21
+A.P.(DIR Series) Circular No.32
+February 8, 2007
+22
+A.P.(DIR Series) Circular No.52
+May 08, 2007
+23
+A.P.(DIR Series) Circular No.66
+May 31, 2007
+24
+A.P.(DIR Series) Circular No.76
+June 19,2007
+25
+A.P.(DIR Series) Circular No.15
+October 29 ,2007
+26
+A.P.(DIR Series) Circular No.17
+November 6, 2007
+27
+A.P.(DIR Series) Circular No.47
+June 3, 2008
+28
+A.P.(DIR Series) Circular No.05
+August 6, 2008
+29
+A.P.(DIR Series) Circular No.23
+October 15, 2008
+30
+A.P.(DIR Series) Circular No.35
+November 10, 2008
+31
+A.P.(DIR Series) Circular No.50
+February 4, 2009
+32
+A.P.(DIR Series) Circular No.27
+January 19, 2010
+33
+A.P.(DIR Series) Circular No.05
+July 30, 2010
+34
+A.P.(DIR Series) Circular No.32
+December 28, 2010
+35
+A.P.(DIR Series) Circular No.60
+May 16, 2011
+36
+A.P.(DIR Series) Circular No.67
+May 20, 2011
+37
+A.P.(DIR Series) Circular No.68
+May 20, 2011
+38
+A.P.(DIR Series) Circular No.3
+July 21, 2011
+39
+A.P.(DIR Series) Circular No.50
+November 23, 2011
+40
+A.P.(DIR Series) Circular No.58
+December 15, 2011
+41
+A.P.(DIR Series) Circular No.63
+December 29, 2011
+42
+A.P.(DIR Series) Circular No.68
+January 17, 2012
+43
+A.P.(DIR Series) Circular No.122
+May 09, 2012
+44
+A.P.(DIR Series) Circular No.3
+July 11, 2012
+45
+A.P.(DIR Series) Circular No.13
+July 31, 2012
+46
+A.P.(DIR Series) Circular No.21
+August 31, 2012
+47
+A.P.(DIR Series) Circular No.30
+September 12, 2012
+48
+A.P.(DIR Series) Circular No.45
+October 22, 2012
+49
+A.P.(DIR Series) Circular No.86
+March 1, 2013
+50
+A.P. (DIR Series) Circular No.121
+June 26, 2013
+51
+A.P. (DIR Series) Circular No.2
+July 4, 2013
+52
+A.P. (DIR Series) Circular No.7
+July 8, 2013
+53
+A.P. (DIR Series) Circular No.17
+July 23, 2013
+54
+A.P. (DIR Series) Circular No.18
+August 1, 2013
+55
+A.P. (DIR Series) Circular No. 36
+September 4, 2013
+56
+A.P. (DIR Series) Circular No. 40
+September 10, 2013
+57
+A.P. (DIR Series) Circular No. 61
+October 10, 2013
+58
+A.P. (DIR Series) Circular No. 92
+January 13, 2014
+59
+A.P. (DIR Series) Circular No. 96
+January 20, 2014
+60
+A.P. (DIR Series) Circular No. 114
+March 27, 2014
+61
+A.P. (DIR Series) Circular No. 119
+April 7, 2014
+62
+A.P. (DIR Series) Circular No. 135
+May 27, 2014
+63
+A.P. (DIR Series) Circular No. 147
+June 20, 2014
+64
+A.P. (DIR Series) Circular No. 148
+June 20, 2014
+65
+A.P. (DIR Series) Circular No. 28
+September 8, 2014
+66
+A.P. (DIR Series) Circular No. 34
+September 30, 2014
+67
+A.P. (DIR Series) Circular No.58
+January 14, 2015
+68
+A.P. (DIR Series) Circular No.78
+February 13, 2015
+69
+A.P. (DIR Series) Circular No. 90
+March 31, 2015
+70
+A.P. (DIR Series) Circular No. 91
+March 31, 2015
+71
+A.P. (DIR Series) Circular No. 103
+May 21, 2015
+72
+A.P. (DIR Series) Circular No. 112
+June 25, 2015
+73
+A.P. (DIR Series) Circular No. 20
+October 8, 2015
+This circular should be read in conjunction with FEMA, 1999 and the Rules/ Regulations / Directions / Orders/ Notifications issued thereunder.
+1
+A European option may be exercised only at the expiry date of the option, i.e. at a single pre-defined point in time.
+2
+A.P. (DIR Series) Circular No. 78 dated February 13, 2015
+3
+SME as defined by the Rural Planning and Credit Department, Reserve Bank of India vide circular
+RPCD.PLNS.BC.No.63/06.02.31/2006-07 dated April 4, 2007
+.
+4
+In terms of
+A.P. (DIR Series) Circular No. 25 dated September 3, 2014
+and
+A.P. (DIR Series) Circular No. 103 dated May 21, 2015
+5
+A. P. (DIR Series) Circular No. 102 May 21, 2015
+6
+A.P. (DIR Series) Circular No. 112 dated June 25, 2015
+7
+Capital refers to Tier I capital as per instructions issued by Reserve Bank of India (Department of Banking Operations and Development).

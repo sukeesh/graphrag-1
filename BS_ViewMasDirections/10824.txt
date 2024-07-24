@@ -1,0 +1,39 @@
+(24 kb)
+Evidence of Import under Import Data Processing and Monitoring System (IDPMS)
+RBI/2016-17/212
+A.P. (DIR Series) Circular No. 27
+January 12, 2017
+To
+All Category - I Authorised Dealer Banks
+Madam / Sir,
+Evidence of Import under Import Data Processing and Monitoring System (IDPMS)
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to
+A.P. (DIR Series) Circular No. 05 dated October 06, 2016
+read with Section 5 and Section 10 of the Foreign Exchange Management Act 1999 (42 of 1999), Government of India Notification No. G.S.R. 381(E) dated May 3, 2000 viz., Foreign Exchange Management (Current Account Transaction) Rules, 2000 on import of goods,
+FED Master Direction No. 17 dated January 1, 2016
+on Import of Goods and Services and
+A.P. (DIR Series) Circular No. 9 dated August 24, 2000
+which outlines the procedure, mode/manner of payment for imports and submission of related returns. Within the contours of the extant instructions on import of goods, specific attention is invited to the directions on Obligation of Purchaser of Foreign Exchange and submission of document as Evidence of Import.
+2. Bill of Entry (BoE) data is received in IDPMS from Customs Department for EDI ports and from NSDL for SEZ on daily basis. BoE data for non-EDI ports are entered by AD Category – I bank of the importer on receipt of BoE (importer’s copy) and then the bank uploads the data in IDPMS through “Manual BOE reporting” process. In order to enhance ease of doing business and reduce transaction costs, it has been decided to discontinue submission of hardcopy of Evidence of Import documents i.e. BoE, with effect from December 01, 2016, as it is available in IDPMS. The revised procedures are as set out below:
+i. AD Category – I bank will enter BoE details (BoE number, port code and date) as received from the importer and download the BoE message data from “BOE Master” in IDPMS. Thereafter, match and settle the BoE data with Outward Remittance Message (ORM) associated with the payment for import as per the message format “BOE Settlement” in IDPMS. Multiple ORMs can be settled against single BoE and also multiple BoE(s) can be settled against one ORM.
+ii. In respect of imports on ‘Delivery against Acceptance’ basis, on request of importer, AD Category – I bank shall verify the evidence of import from IDPMS at the time of effecting remittance of import bill.
+iii. On settlement of ORM with evidence of import AD Category – I bank shall in all cases issue an acknowledgement slip to the importer containing the following particulars:
+importer's full name and address with code number ;
+number and date of BoE and the amount of import; and
+a recap advice on number and amount of BoE and ORM not settled for the importer.
+iv. The importer needs to preserve the printed ‘Importer copy’ of BoE as evidence of import and acknowledgement slip for future use.
+3. The extant instructions and guidelines for
+Evidence of Import in Lieu of Bill of Entry
+will apply mutatis mutandis. The evidence of import in lieu of BoE in permitted/approved conditions will be created and uploaded by AD Category – I bank of the importer in the form of BoE data as per message format “Manual BOE reporting” in IDPMS.
+4. Follow-up for Evidence of Import : AD Category – I banks shall continue to follow up for outward remittance made for import (i.e. unsettled ORM) in terms of extant guidelines and instructions on the subject. In cases where relevant evidence of import data is not available in IDPMS on due dates against the ORM, AD Category – I bank shall follow up with the importer for submission of documentary evidence of import. Similarly, if BoE data is not settled against ORM within the prescribed period AD Category – I banks shall follow up with the importer in terms of extant instructions.
+5.
+Verification and Preservation:
+Internal inspectors and IS auditors (including external auditors appointed by AD Category – I bank) should carry out verification and IS audit and assurance of the “BOE Settlement” process in IDPMS. Data and process followed by AD Category –I bank for “BOE Settlement” should be preserved in terms of the guidelines under Cyber Security Framework in the bank. However, in respect of cases which are under investigation by investigating agencies, the data, process and/or documents may be destroyed only after obtaining clearance from the investigating agency concerned.
+6. Authorised Dealers may bring the contents of this circular to the notice of their constituents and customers concerned.
+7.
+Master Direction No. 17 dated January 1, 2016
+is being updated to reflect the changes.
+8. The directions contained in this circular have been issued under Section 10(4) and 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Shekhar Bhatnagar)
+Chief General Manager-In-Charge

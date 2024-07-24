@@ -1,0 +1,998 @@
+(1135 kb)
+Master Circular on Know Your Customer (KYC) Norms/Anti-Money Laundering (AML) Measures/Combating of Financing of Terrorism (CFT) / Obligations of banks under Prevention of Money Laundering Act (PMLA), 2002
+RBI/2014-15/27
+UBD.BPD. (PCB).MC.No.16/12.05.001/2014-15
+July 1, 2014
+Chief Executive Officers
+All Primary (Urban) Co-operative Banks
+Madam/ Dear Sir,
+Master Circular on Know Your Customer (KYC) Norms/Anti-Money Laundering  (AML) Measures/Combating of Financing of Terrorism (CFT) / Obligations of banks  under Prevention of Money Laundering Act (PMLA), 2002
+Please refer to our
+Master  Circular UBD.BPD. (PCB).MC.No.16/12.05.001/2013-14 dated July 1, 2013
+on  the captioned subject (available at RBI  website
+www.rbi.org.in
+). The enclosed
+Master  Circular
+consolidates and updates all the instructions / guidelines on the  subject issued up to June 30, 2014 and circulars mentioned in the Appendix.
+Yours faithfully,
+(A. K. Bera)
+Principal Chief General Manager
+Encls.: As above
+Paragraph No.
+Particulars
+1
+Introduction
+1.1
+Definition of    Customer
+2
+Guidelines
+2.1
+General
+2.2
+KYC policy
+2.3
+Customer    Acceptance Policy
+2.4
+Customer    Identification Procedure
+2.5
+Customer    Identification Requirements – Indicative Guidelines
+2.6
+Small deposit    accounts
+2.7
+Monitoring of    transactions
+2.8
+Closure of    accounts
+2.9
+Risk    Management
+2.10
+Introduction    of new technology – credit/debit/smart/gift card
+2.11
+Usage of ‘At    par’ Cheque facility extended to Cooperative Banks by Scheduled Commercial    Banks
+2.12
+Combating    Financing of Terrorism
+2.13
+Correspondent    banking
+2.14
+Wire    Transfers
+2.15
+Principal    Officer
+2.16
+Designated    Director
+2.17
+Maintenance    of records of transactions/information to be preserved/maintenance and    preservation of records/Cash and Suspicious Transactions reporting to    Financial Intelligence Unit – India
+2.18
+Cash and    Suspicious Transaction Report
+2.19
+Maintenance    of Records in respect of Non-Profit Organisations and filing of Non-Profit    Organisation Transaction Report (NTRs) to FIU-IND
+2.20
+Maintenance    of Records and filing of Suspicious Transaction Reports (STRs) to FIU-IND in    respect of Walk-in Customers
+2.21
+Customer    Education/Employees’ Training/Employees’ Hiring
+Annex I –    Indicative list of documents required for opening of accounts
+Annex II –    List of reporting formats
+Annex III –    UAPA Orders dated August 27, 2009
+Annex IV –    Government of India Notification dated December 16, 2010
+Annex V - Operational    Procedure to be followed by UCBs for e-KYC exercise
+Annex VI –    Category of Eligible Foreign Investors
+Annex VII - KYC    documents for eligible FPIs under PIS
+Appendix –    List of circulars consolidated in the Master Circular
+Master  Circular on
+Know  Your Customer (KYC) Norms/Anti-Money Laundering (AML) Measures/Combating of  Financing of Terrorism (CFT) / Obligations of banks under Prevention of Money  Laundering Act (PMLA), 2002
+1.  Introduction
+The  objective of KYC/AML/CFT guidelines is to prevent banks from being used,  intentionally or unintentionally, by criminal elements for money laundering or  terrorist financing activities. KYC procedures also enable banks to  know/understand their customers and their financial dealings better which in  turn help them manage their risks prudently. Banks were advised to follow  certain customer identification procedure for opening of accounts and  monitoring transactions of a suspicious nature for the purpose of reporting it  to appropriate authority. These ‘Know Your Customer’ guidelines have been  revisited in the context of the Recommendations made by the Financial Action  Task Force (FATF) on Anti Money Laundering (AML) standards and on Combating  Financing of Terrorism (CFT). Detailed guidelines based on the Recommendations  of the Financial Action Task Force and the paper issued on Customer Due  Diligence (CDD) for banks by the Basel Committee on Banking Supervision, with  indicative suggestions wherever considered necessary, have been issued. Banks  are advised to ensure that a proper policy framework on ‘Know Your Customer’  and Anti-Money Laundering measures with the approval of the Board is formulated  and put in place. The guidelines issued by the Reserve Bank are under Section  35 A of Banking Regulation Act, 1949 (As Applicable to Co-operative Societies)  and any contravention of or non- compliance with the same may attract penalties  under the relevant provisions of the Act.
+1.1 Definition  of Customer
+For  the purpose of KYC policy, a ‘Customer’ is defined as:
+a person or entity that maintains       an account and/or has a business relationship with the bank;
+one on whose behalf the account is       maintained (i.e. the beneficial owner);
+beneficiaries of transactions       conducted by professional intermediaries, such as Stock Brokers, Chartered       Accountants, Solicitors etc. as permitted under the law, and
+any person or entity connected with a financial  transaction which can pose significant reputational or other risks to the bank,  say, a wire transfer or issue of a high value demand draft as a single  transaction.
+2.  Guidelines
+2.1  General
+Banks should collect only ‘mandatory’ information  required for KYC purpose which the customer is obliged to give while opening an  account at the time of opening the account / during periodic updation. Other  'optional' customer details / additional information, if required, may be  obtained separately only after the account is opened with the explicit consent  of the customer. The customer has a right to know what is the information  required for KYC that she / he is obliged to give and what is the additional  information sought by the bank that is optional.
+Banks should keep in mind that the information (both  'mandatory' - before opening the account as well as 'optional'- after opening  the account with the explicit consent of the customer) collected from the  customer for the purpose of opening of account is to be treated as confidential  and details thereof are not to be divulged for cross selling or any other like  purposes. Banks should, therefore, ensure that information sought from the  customer is relevant to the perceived risk, is not intrusive, and is in conformity  with the guidelines issued in this regard.
+Banks should ensure that any remittance of funds by way  of demand draft, mail/telegraphic transfer or any other mode and issue of  travellers’ cheques for value of Rupees fifty thousand and above is effected by  debit to the customer’s account or against cheques and not against cash  payment.
+Banks should ensure that the provisions of Foreign  Contribution (Regulation) Act, 1976 as amended from time to time, wherever  applicable, are strictly adhered to.
+2.2 KYC  Policy
+Banks  should frame their KYC policies incorporating the following four key elements:
+Customer  Acceptance Policy;
+Customer  Identification Procedures;
+Monitoring of  Transactions; and
+Risk Management.
+2.3  Customer Acceptance Policy (CAP)
+a) Every  bank should develop a clear Customer Acceptance Policy laying down explicit  criteria for acceptance of customers. The Customer Acceptance Policy must  ensure that explicit guidelines are in place on the following aspects of  customer relationship in the bank:
+No account is opened in anonymous or fictitious/benami  name(s);
+Parameters of  risk perception are clearly defined in terms of the nature of business activity  , location of customer and his clients, mode of payments, volume of turnover,  social and financial status etc. to enable categorisation of customers into  low, medium and high risk (banks may choose any suitable nomenclature viz.  level I, level II and level III). Customers requiring very high level of  monitoring, e.g. Politically Exposed Persons (PEPs) may, if considered  necessary, be categorised even higher;
+Documentation  requirements and other information to be collected in respect of different  categories of customers depending on perceived risk and keeping in mind the  requirements of PML Act, 2002 and instructions/guidelines issued by Reserve  Bank from time to time;
+Not to open an  account or close an existing account where the bank is unable to apply  appropriate customer due diligence measures i.e. bank is unable to verify the  identity and /or obtain documents required as per the risk categorisation due  to non cooperation of the customer or non reliability of the data/information  furnished to the bank. It is, however, necessary to have suitable built in  safeguards to avoid harassment of the customer. For example, decision by a bank  to close an account should be taken at a reasonably high level after giving due  notice to the customer explaining the reasons for such a decision;
+Circumstances,  in which a customer is permitted to act on behalf of another person/entity,  should be clearly spelt out in conformity with the established law and practice  of banking as there could be occasions when an account is operated by a mandate  holder or where an account is opened by an intermediary in fiduciary capacity  and
+Necessary  checks before opening a new account so as to ensure that the identity of the  customer does not match with any person with known criminal background or with  banned entities such as individual terrorists or terrorist organisations etc.
+b) The increasing complexity and volume of financial  transactions necessitate that customers do not have multiple identities within  a bank, across the banking system and across the financial system. This can be  achieved by introducing a unique identification code for each customer. In this  regard, a Working Group constituted by the Government of India has proposed the  introduction of unique identifiers for customers across different banks and  Financial Institutions for setting up a centralized KYC Registry. Banks should  allot Unique Customer Identification Code (UCIC) to all their customers while  entering into any new relationships for individual customers. Similarly,  existing individual customers should be allotted unique customer identification  code by March 31, 2014. The UCIC will help banks to identify customers, track  the facilities availed, monitor financial transactions in a holistic manner and  enable banks to have a better approach to risk profiling of customers. It would  also smoothen banking operations for the customers.
+c) Banks  should prepare a profile for each new customer based on risk categorisation.  The customer profile may contain information relating to customer’s identity,  social/financial status, nature of business activity, information about his  clients’ business and their location etc. The nature and extent of due  diligence will depend on the risk perceived by the bank. However, while  preparing customer profile banks should take care to seek only such information  from the customer, which is relevant to the risk category and is not intrusive.  The customer profile is a confidential document and details contained therein  should not be divulged for cross selling or any other purposes.
+d) For  the purpose of risk categorisation, individuals (other than High Net Worth) and  entities whose identities and sources of wealth can be easily identified and  transactions in whose accounts by and large conform to the known profile, may  be categorised as low risk. Illustrative examples of low risk customers could  be salaried employees whose salary structures are well defined, people  belonging to lower economic strata of the society whose accounts show small  balances and low turnover, Government Departments and Government owned  companies, regulators and statutory bodies etc. In such cases, the policy may  require that only the basic requirements of verifying the identity and location  of the customer are to be met. Customers that are likely to pose a higher than  average risk to the bank should be categorised as medium or high risk depending  on customer's background, nature and location of activity, country of origin,  sources of funds and his client profile etc. Banks should apply enhanced due  diligence measures based on the risk assessment, thereby requiring intensive  ‘due diligence’ for higher risk customers, especially those for whom the  sources of funds are not clear. Examples of customers requiring higher due  diligence include (a) non­resident customers; (b) high net worth individuals;  (c) trusts, charities, NGOs and organizations receiving donations; (d)  companies having close family shareholding or beneficial ownership; (e) firms  with ‘sleeping partners’; (f) politically exposed persons (PEPs) of foreign  origin; (g) non-face to face customers and (h) those with dubious reputation as  per public information available etc. However only NPOs/NGOs promoted by United  Nations or its agencies may be classified as low risk customer.
+e) It is  important to bear in mind that the adoption of customer  acceptance policy and its implementation should not become too  restrictive and must not result in denial of banking services to general  public, especially to those, who are financially or socially disadvantaged.
+2.4 Customer  Identification Procedure (CIP)
+(a) The  policy approved by the Board of banks should clearly spell out the Customer  Identification Procedure to be carried out at different stages i.e. while  establishing a banking relationship; carrying out a financial transaction or  when the bank has a doubt about the authenticity/veracity or the adequacy of  the previously obtained customer identification data. Customer identification  means identifying the customer and verifying his/her identity by using  reliable, independent source documents, data or information. Banks need to  obtain sufficient information necessary to establish, to their satisfaction,  the identity of each new customer, whether regular or occasional, and the  purpose of the intended nature of banking relationship. Being satisfied means  that the bank must be able to satisfy the competent authorities that due  diligence was observed based on the risk profile of the customer in compliance  with the extant guidelines in place. Such risk based approach is considered  necessary to avoid disproportionate cost to banks and a burdensome regime for  the customers. Besides risk perception, the nature of information/documents  required would also depend on the type of customer (individual, corporate  etc.). For customers that are natural persons, the banks should obtain sufficient  identification data to verify the identity of the customer, his  address/location, and also his recent photograph. For customers that are legal  persons or entities, the bank should (i) verify the legal status of the legal  person/entity through proper and relevant documents; (ii) verify that any  person purporting to act on behalf of the legal person/entity is so authorised  and identify and verify the identity of that person; (iii) understand the  ownership and control structure of the customer and determine who are the  natural persons who ultimately control the legal person. Customer  identification requirements in respect of a few typical cases, especially,  legal persons requiring an extra element of caution are given in paragraph 2.5  below for guidance of banks. Banks may, however, frame their own internal  guidelines based on their experience of dealing with such persons/entities,  normal bankers’ prudence and the legal requirements as per established  practices. If the bank decides to accept such accounts in terms of the Customer  Acceptance Policy, the bank should take reasonable measures to identify  the beneficial owner(s) and verify his/her/their identity in a manner so that  it is satisfied that it knows who the beneficial owner(s) is/are.
+(b) Rule 9(1A) of the Prevention of Money Laundering  Rules, 2005 requires that every banking company, and financial institution, as  the case may be, shall identify the beneficial owner and take all reasonable  steps to verify his identity. The term "beneficial owner" has been  defined as the natural person who ultimately owns or controls a client and / or  the person on whose behalf the transaction is being conducted, and includes a  person who exercises ultimate effective control over a juridical person. Government of India has since examined the  issue and has specified the procedure for determination of Beneficial  Ownership. The procedure as advised by the Government of India is as under:
+A. Where the client is a person other than an  individual or trust, the banking company and financial institution, as the case  may be, shall identify the beneficial owners of the client and take reasonable  measures to verify the identity of such persons, through the following information:
+(i) The identity of the natural person, who, whether  acting alone or together, or through one or more juridical person, exercises  control through ownership or who ultimately has a controlling ownership  interest.
+Explanation : Controlling ownership interest means  ownership of / entitlement to more than 25 percent of shares or capital or  profits of the juridical person, where the juridical person is a company;  ownership of / entitlement to more than 15% of the capital or profits of the  juridical person where the juridical person is a partnership; or, ownership of  / entitlement to more than 15% of the property or capital or profits of the  juridical person where the juridical person is an unincorporated association or  body of individuals.
+(ii) In cases where there exists doubt under (i) as  to whether the person with the controlling ownership interest is the beneficial  owner or where no natural person exerts control through ownership interests,  the identity of the natural person exercising control over the juridical person  through other means.
+Explanation: Control through other means can be  exercised through voting rights, agreement, arrangements, etc.
+(iii) Where no natural person is identified under  (i) or (ii) above, the identity of the relevant natural person who holds the  position of senior managing official.
+B. Where the client is a trust, the banking company  and financial institution, as the case may be, shall identify the beneficial  owners of the client and take reasonable measures to verify the identity of  such persons, through the identity of the settler of the trust, the trustee,  the protector, the beneficiaries with 15% or more interest in the trust and any  other natural person exercising ultimate effective control over the trust  through a chain of control or ownership.
+C. Where the client or the owner of the controlling  interest is a company listed on a stock exchange, or is a majority-owned  subsidiary of such a company, it is not necessary to identify and verify the  identity of any shareholder or beneficial owner of such companies.
+(c)  It has been observed that some close relatives, e.g. wife, son,  daughter and daughter and parents etc. who live with their husband,  father/mother and son, as the case may be, are finding it difficult to open  account in some banks as the utility bills required for address verification  are not in their name. It is clarified, that in such cases, banks can obtain an  identity document and a utility bill of the relative with whom the prospective  customer is living along with a declaration from the relative that the said person  (prospective customer) wanting to open an account is a relative and is staying  with him/her. Banks can use any supplementary evidence such as a letter  received through post for further verification of the address. While issuing  operational instructions to the branches on the subject, banks should keep in  mind the spirit of instructions issued by the Reserve Bank and avoid undue  hardships to individuals who are, otherwise, classified as low risk customers.
+(d) Banks  should introduce a system of periodical updation of customer identification  data (including photograph/s) after the account is opened. The periodicity of  such updation should be as follows
+Full  KYC exercise will be required to be done at least every two years for high risk  individuals and entities.
+Full KYC  exercise will be required to be done at least every eight years for medium risk  and at least every ten years for low risk individuals and entities.
+Positive  confirmation (obtaining KYC related updates through e-mail / letter /  telephonic conversation / forms / interviews / visits, etc.), will be required  to be completed at least every two years for medium risk and at least every  three years for low risk individuals and entities.
+Fresh photographs will be required to be obtained  from minor customers on their becoming major.
+Primary  (Urban) Co-operative Banks (UCBs) would need to continue to carry out on-going  due diligence with respect to the business relationship with every client and  closely examine the transactions in order to ensure that they are consistent  with their knowledge of the client, his business and risk profile and, wherever  necessary, the source of funds.
+As  advised earlier, the process of risk categorization and compiling / updating  profiles of all of the existing customers should be completed by Primary  (Urban) Co-operative banks in all respects by now.
+(e) An  indicative list of the nature and type of documents/information that may be  relied upon for customer identification is given in Annex I to this Master  Circular. It is clarified that permanent correct address, as referred to in  Annex I, means the address at which a person usually resides and can be taken  as the address as mentioned in a utility bill or any other document accepted by  the bank for verification of the address of the customer. It is clarified that  while opening accounts based on Aadhaar also banks must satisfy themselves  about the current address of the customer by obtaining required proof of the same  as per extant instructions.
+(f) It has  been brought to our notice that the said indicative list  furnished in Annex I is being treated by some banks as an exhaustive  list as a result of which a section of public is being denied access to banking  services. Banks are, therefore, advised to take a review of their extant internal  instructions in this regard.
+2.5 Customer  Identification Requirements – Indicative Guidelines
+(i)  Trust/Nominee or Fiduciary Accounts
+There  exists the possibility that trust/nominee or fiduciary accounts can be used to  circumvent the customer identification procedures. Banks should determine  whether the customer is acting on behalf of another person as trustee/nominee  or any other intermediary. If so, banks should insist on receipt of  satisfactory evidence of the identity of the intermediaries and of the persons  on whose behalf they are acting, as also obtain details of the nature of the  trust or other arrangements in place. While opening an account for a trust,  banks should take reasonable precautions to verify the identity of the trustees  and the settlers of trust (including any person settling assets into the  trust), grantors, protectors, beneficiaries and signatories. Beneficiaries  should be identified when they are defined. In the case of a 'foundation',  steps should be taken to verify the founder managers/ directors and the  beneficiaries, if defined.
+(ii)  Accounts of companies and firms
+Banks need to  be vigilant against business entities being used by individuals as a ‘front’  for maintaining accounts with banks. Banks should examine the control structure  of the entity, determine the source of funds and identify the natural persons  who have a controlling interest and who comprise the management. These  requirements may be moderated according to the risk perception e.g. in the case  of a public company it will not be necessary to identify all the shareholders.
+Certain firms posing as Multi Level Marketing (MLM)  agencies for consumer goods and services have been mobilizing large deposits  from the public (with promise of high return) by opening accounts at various  bank branches. These funds running into crores of rupees were being pooled at  the principal accounts of the MLM Firms and were eventually flowing out of the  accounts for purpose appearing illegal or highly risky. Accordingly, while  opening agency accounts in the name of a proprietary concern the following  documents need to be obtained and verified.
+Identity as also the address proof of the proprietor,  such as passport, PAN card, Voter ID card, Driving Licence, Ration Card with  photo, etc. – any one of the document is obtained.
+Proof of the name, address and activity of the  concern, like registration certificate(in the case of a registered concern),  certificate / licence issued by the Municipal authorities under Shop and  Establishment act, sales and income tax returns, CST / VAT certificate, Licence  issued by the registering authority like Certificate of Practice issued by the  Institute of Chartered Accountants of India, Institute of Companies Secretaries  of India, Indian Medical Council, Food and Drug Control Authorities, any  certificate / registration document issued by Sales Tax / Service Tax /  Professional Tax authorities, etc. any two of the documents are to be obtained.  These documents should be in the name of the proprietary concern. Further, the  complete Income Tax Return (not just the acknowledgement) in the name of the  sole proprietor where the firm’s income is reflected, duly authenticated  /acknowledged by the Income Tax Authorities and utility bills such as  electricity, water and landline telephone bills in the name of the proprietary  concern are also included in the indicative list of required documents for  opening accounts of proprietary concerns.
+(iii)  Client accounts opened by professional intermediaries
+When  the bank has knowledge or reason to believe that the client account opened by a  professional intermediary is on behalf of a single client, the client must be identified.  Banks may hold ‘pooled’ accounts managed by professional intermediaries on  behalf of entities like mutual funds, pension funds or other types of funds.  Banks also maintain ‘pooled’ accounts managed by lawyers/chartered accountants  or stockbrokers for funds held ‘on deposit’ or ‘in escrow’ for a range of  clients. Where funds held by the intermediaries are not co-mingled at the bank  and there are ‘sub-accounts’, each of them attributable to a beneficial owner,  all the beneficial owners must be identified. Where such funds are co-mingled  at the bank, the bank should still look through to the beneficial owners. Where  the banks rely on the ‘customer due diligence’ (CDD) done by an intermediary,  they should satisfy themselves that the intermediary is regulated and  supervised and has adequate systems in place to comply with the KYC  requirements. It should be understood that the ultimate responsibility for  knowing the customer lies with the bank.
+Under  the extant AML/CFT framework, it is not possible for professional  intermediaries like Lawyers and Chartered Accountants, etc. who are bound by  client confidentiality that prohibits disclosure of the client details, to hold  an account on behalf of their clients. It is, therefore, reiterated that any  professional intermediary who under any obligation that inhibits bank’s ability  to know and verify the true identity of the client on whose behalf the account  is held or beneficial ownership of the account or understand true nature and  purpose of transaction/s, should not be allowed to open an account on behalf of  a client.
+(iv)  Accounts of Politically Exposed Persons (PEPs) resident outside India
+Politically  exposed persons are individuals who are or have been entrusted with prominent  public functions in a foreign country, e.g., Heads of States or of Governments,  senior politicians, senior government/judicial/military officers, senior  executives of state-owned corporations, important political party officials,  etc. Banks should gather sufficient information on any person/customer of this  category intending to establish a relationship and check all the information  available on the person in the public domain. Banks should verify the identity  of the person and seek information about the sources of funds before accepting  the PEP as a customer. The decision to open an account for PEP should be taken  at a senior level which should be clearly spelt out in Customer Acceptance  Policy. Banks should also subject such accounts to enhanced monitoring on an  ongoing basis. The above norms may also be applied to the accounts of the  family members or close relatives of PEPs and accounts where PEP is the  ultimate beneficial owner. In the event of an existing customer or the  beneficial owner of an existing account, subsequently becoming a PEP, Banks  should obtain senior management approval to continue the business relationship  and subject the account to the CDD measures as applicable to the customers of  PEP category including enhanced monitoring on an ongoing basis.
+(v)  Accounts of non-face-to-face customers
+With  the introduction of telephone and electronic banking, increasingly accounts are  being opened by banks for customers without the need for the customer to visit  the bank branch. In the case of non-face-to-face customers, apart from applying  the usual customer identification procedures, there must be specific and  adequate procedures to mitigate the higher risk involved. Certification of all  the documents presented should be insisted upon and, if necessary, additional  documents may be called for. In such cases, banks may also require the first  payment to be effected through the customer's account with another bank which,  in turn, adheres to similar KYC standards. In the case of cross-border  customers, there is the additional difficulty of matching the customer with the  documentation and the bank may have to rely on third party certification/introduction.  In such cases, it must be ensured that the third party is a regulated and  supervised entity and has adequate KYC systems in place.
+(vi) Opening  of bank accounts – Salaried Employees
+It has  been brought to our notice that for opening bank accounts of salaried employees  some banks rely on a certificate / letter issued by the employer as the only  KYC document for the purposes of certification of identity as well as address  proof. Such a practice is open to misuse and fraught with risk. It is, therefore,  clarified that with a view to containing the risk of fraud, banks need to rely  on such certification only from corporates and other entities of repute and  should be aware of the competent authority designated by the concerned employer  to issue such certificate/letter. Further,
+in addition
+to the  certificate from employer, banks should insist on at least one of the  officially valid documents as provided in the Prevention of Money Laundering  Rules (viz. passport, driving licence, PAN Card, Voter’s Identity card etc.) or  utility bills for KYC purposes for opening bank account of salaried employees  of corporates and other entities.
+(vii) Opening of new accounts - Proof of identity and  address
+Banks  have been calling for separate documents for verification of identity and  address even though the documents for identity proof (Passport, Drivers'  Licence etc.) also carry the address of the individual concerned. In view of this, customers frequently  complain about the requirement of producing two sets of documents, one each for  identity and address proof. To ease the  burden on the prospective customers in complying with KYC requirements for  opening new accounts, it is therefore clarified that
+(a) If the address on the document submitted for identity  proof by the prospective customer is same as that declared by him / her in the  account opening form, the document may be accepted as a valid proof of both  identity and address.
+(b) If the address indicated on the document  submitted for identity proof differs from the current address mentioned in the  account opening form, a separate proof of address should be obtained. For this  purpose, apart from the indicative documents listed in Annex I of this Master  Circular, a rent agreement indicating the address of the customer duly  registered with State Government or similar registration authority may also be  accepted as a proof of address.
+(viii) Introduction not Mandatory for opening accounts
+Before  implementation of the system of document-based verification of identity, as  laid down in PML Act / Rules, introduction from an existing customer of the  bank was considered necessary for opening of bank accounts. In many banks,  obtaining of introduction for opening of accounts is still a mandatory part of  customer acceptance policy even though documents of identity and address as  required under our instructions are provided. This poses difficulties for prospective customers in opening accounts as  they find it difficult to obtain introduction from an existing account  holder. Since introduction is not  necessary for opening of accounts under PML Act and Rules or Reserve Bank's  extant KYC instructions, banks should not insist on introduction for opening  bank accounts of customers.
+(ix) Acceptance of Aadhaar letter / e-KYC service  (on-line Aadhaar authentication) of UIDAI for KYC purposes
+Physical  Aadhaar card / letter issued by UIDAI containing details of name, address and  Aadhaar number received through post should be accepted as an 'Officially Valid  Document'. Unique Identification Authority  of India (UIDAI) has advised Reserve Bank that banks are accepting Aadhaar  letter issued by it as a proof of identity but not of address, for opening  accounts. As indicated at paragraph 2.5 (vii) above, if the address provided by  the account holder is the same as that on Aadhaar letter, it may be accepted as  a proof of both identity and address.
+Further, in  order to reduce the risk of identity fraud, document forgery and have paperless  KYC verification, UIDAI has launched its e-KYC service. Accordingly, it has  been decided to accept e-KYC service as a valid process for KYC verification  under Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The information containing demographic  details and photographs made available from UIDAI as a result of e-KYC process  ("which is in an electronic form and accessible so as to be usable for a  subsequent reference") may be treated as an 'Officially Valid Document'  under PML Rules. In this connection, it is advised that while using e-KYC service  of UIDAI, the individual user has to authorize the UIDAI, by explicit consent,  to release her or his identity / address through biometric authentication to  the bank branches / business correspondents (BCs). The UIDAI then transfers the  data of the individual comprising name, age, gender, and photograph of the  individual, electronically to the bank / BCs, which may be accepted as a valid  process for KYC verification. The broad  operational instructions to banks on Aadhaar e-KYC service are enclosed as Annex  V. UCBs are advised to have proper infrastructure (as specified in Annex V) in  place to enable biometric authentication for e-KYC.
+Alternatively, UCBs may accept e-Aadhaar downloaded  from UIDAI website as an officially valid document subject to the following
+i) If the  prospective customer knows only his / her Aadhaar number, the UCB may print the  prospective customer's e-Aadhaar letter in the UCB directly from the UIDAI  portal; or adopt e-KYC procedure as mentioned in the paragraph 2.5 (ix) (b)  above.
+ii) If the  prospective customer carries a copy of the e-Aadhaar downloaded elsewhere, the  UCB may print the prospective customer's e-Aadhaar letter in the UCB directly  from the UIDAI portal; or adopt e-KYC procedure as mentioned in the paragraph 2.5  (ix) (b) above; or confirm identity and address of the resident through simple  authentication service of UIDAI.
+(x)
+Acceptance of NREGA Job Card as KYC for normal  accounts
+In  order to avoid inconvenience to customers from rural areas, banks are advised  that they may now accept NREGA Job Card as an 'officially valid document' for  opening of bank accounts without the limitations applicable to 'Small  Accounts'.
+(xi)
+Shifting  of bank accounts to another centre - Proof of address
+KYC once done by one branch of the bank should be  valid for transfer of the account within the bank as long as full KYC procedure  had been done for the concerned account. The customer should be allowed to transfer his account from one branch  to another branch without restrictions. However, it has been brought to our notice that a large number of  customers with transferable jobs or those who migrate for jobs are unable to  produce a proof of current / permanent address while opening a bank account immediately  after relocating. In view of this, it is  clarified that
+(a) Henceforth,  customers may submit only one documentary proof of address (either current or  permanent) while opening a bank account or while undergoing periodic updation.  In case the address mentioned as per 'proof of address' undergoes a change,  fresh proof of address may be submitted to the branch within a period of six  months.
+(b) In case the  proof of address furnished by the customer is not the local address or address  where the customer is currently residing, the UCB may take a declaration of the  local address on which all correspondence will be made by them with the  customer. No proof is required to be submitted for such address for the purpose  of correspondence. This address may be verified by the bank through 'positive  confirmation' such as acknowledgment of receipt of (i) letters, cheque books,  ATM card, (ii) telephonic conversation, (iii) visits etc. In the event of  change in this address due to relocation or any other reason/s, customers may  intimate the new address for correspondence to the UCB within two weeks of such  a change.
+While opening new accounts and while periodically  updating KYC data as required in terms of paragraph 2.4 (d) of this Master  Circular, an undertaking to this effect should be obtained. In all these cases customers will have to  produce proof of address as mentioned at (a) and (b) above.
+(xii) Opening of Savings Bank Accounts and Credit  Linking of account for Self Help Groups (SHGs)
+In order to address the difficulties faced by Self  Help Groups (SHGs) in complying with KYC norms while opening savings bank  accounts and credit linking of their accounts, it is clarified that KYC  verification of all the members of SHG need not be done while opening the  savings bank account of the SHG and KYC verification of all the office bearers  would suffice. As regards KYC  verification at the time of credit linking of SHGs, it is clarified that since  KYC would have already been verified while opening the savings bank account and  the account continues to be in operation and is to be used for credit linkage,  no separate KYC verification of the members or office bearers is necessary.
+(xiii) Opening of Bank Accounts for foreign students studying in India
+The following are the procedures for opening bank  accounts of foreign students who are not able to provide an immediate address  proof while approaching a bank for opening bank account.
+a) UCBs may open a Non Resident Ordinary (NRO)  bank account of a foreign student on the basis of his / her passport (with  appropriate visa & immigration endorsement) which contains the proof of  identity and address in the home country along with a photograph and a letter  offering admission from the educational institution.
+b) Within a period of 30 days of opening the  account, the foreign student should submit to the branch where the account is  opened, a valid address proof giving local address, in the form of a rent  agreement or a letter from the educational institution as a proof of living in  a facility provided by the educational institution. UCBs should not insist on  the landlord visiting the branch for verification of rent documents and  alternative means of verification of local address may be adopted by banks.
+c) During the 30-day period, the account should  be operated with a condition of allowing foreign remittances not exceeding USD  1,000.00 into the account and a cap of monthly withdrawal to Rs.50,000.00  pending verification of address.
+d) On submission of the proof of current address,  the account would be treated as a normal NRO account, and will be operated in  terms of instructions contained in RBI's Master Circular on Non-Resident  Ordinary Rupee (NRO) Account No.
+RBI/2013-14/2  Master Circular No.2/2013-14 dated July 1, 2013
+issued by our Foreign  Exchange Department, Central Office and the provisions of Schedule 3 of FEMA  Notification 5/2000 RB dated May 3, 2000 may also be kept in view.
+e)  Students with Pakistani nationality will need prior approval of Reserve Bank of  India for opening the account.
+(xiv) KYC norms for Foreign Portfolio Investors  (FPIs) for purpose of investment in Portfolio Investment Scheme (PIS) only
+FPIs have been categorized by SEBI based on their perceived risk profile as  detailed in Annex VI. In terms of Rule 9 (14) (i) of the Prevention of Money  Laundering (Maintenance of Records) Rules, 2005 (Rules), simplified norms have  been prescribed for those FPIs who have been duly registered in accordance with  SEBI guidelines and have undergone the required KYC due diligence /  verification prescribed by SEBI through a Custodian / Intermediary regulated by  SEBI. Such eligible / registered FPIs may approach a bank for opening a bank  account for the purpose of investment under Portfolio Investment Scheme (PIS)  for which KYC documents prescribed by the Reserve Bank of India (as detailed in  Annex VII) would be required. For this purpose, banks may rely on the KYC  verification done by the third party (i.e. the Custodian / SEBI Regulated  Intermediary) subject to the conditions laid down in Rule 9(2) [(a) to (e)] of  the Rules.
+In this regard, SEBI has been requested to advise  Custodians / Intermediaries regulated by them to share the relevant KYC  documents with the banks concerned based on written authorization from the  FPIs. Accordingly, a set of hard copies  of the relevant KYC documents furnished by the FPIs to the Custodians /  Regulated Intermediaries may be transferred to the concerned bank through their  authorised representative. While transferring such documents, the Custodian /  Regulated Intermediary shall certify that the documents have been duly verified  with the original or notarised documents have been obtained, where applicable.  In this regard, a proper record of transfer of documents, both at the level of  the Custodian / Regulated Intermediary as well as at the bank, under signatures  of the officials of the transferor and transferee entities, may be kept. While  opening bank accounts for FPIs in terms of the above procedure, banks may bear  in mind that they are ultimately responsible for the customer due diligence  done by the third party (i.e. the Custodian / Regulated Intermediary) and may  need to take enhanced due diligence measures, as applicable, if required.  Further, banks are required to obtain undertaking from FPIs or a Global  Custodian acting on behalf of the FPI to the effect that as and when required,  the exempted documents as detailed in Annex VII will be submitted.
+It is further advised that to facilitate secondary  market transactions, the bank may share the KYC documents received from the FPI  or certified copies received from a Custodian / Regulated Intermediary with  other banks / regulated market intermediaries based on written authorization  from the FPI. The provisions as detailed  above are applicable for both new and existing FPI clients. These provisions  are applicable only for PIS by FPIs.
+Note:
+In case the FPIs intend to use the bank account  opened under the above procedure for any other approved activities (i.e. other  than PIS), they would have to undergo KYC drill as prescribed under various  paragraphs of this Master Circular.
+2.6 Small  Deposit Accounts
+(i) Although flexibility in the requirements of documents of identity and  proof of address has been provided in the above mentioned KYC guidelines, it  has been observed that a large number of persons, especially, those belonging  to low income group both in urban and rural areas are not able to produce such  documents to satisfy the bank about their identity and address. This would lead  to their inability to access the banking services and result in their financial  exclusion. Accordingly, the KYC procedure also provides for opening accounts  for those persons who intend to keep balances not exceeding Rupees Fifty Thousand  (Rs. 50,000.00) in all their accounts taken together and the total credit in  all the accounts taken together is not expected to exceed Rupees One Lakh (Rs.  1,00,000.00) in a year. In such cases, if a person who wants to open an account  and is not able to produce documents mentioned in Annex I of this Master Circular,  banks should open an account for him, subject to any evidence as to the  identity and address of the customer to the satisfaction of the bank.
+(ii) While opening accounts as described above, the customer  should be made aware that if at any point of time, the balances in all his/her  accounts with the bank (taken together) exceeds Rupees Fifty Thousand (Rs. 50,000.00) or total credit in the account  exceeds Rupees One Lakh (Rs. 1,00,000.00) in a year, no further transactions  will be permitted until the full KYC procedure is completed. In order not to  inconvenience the customer, the bank must notify the customer when the balance  reaches Rupees Forty Thousand (Rs. 40,000.00) or the total credit in a year  reaches Rupees Eighty thousand (Rs. 80,000.00) that appropriate documents for  conducting the KYC must be submitted otherwise operations in the account will  be stopped.
+Further, banks  were advised to open accounts with reduced KYC standards in respect of persons  affected by floods to enable them to credit the grant received from the  Government. These accounts shall also be treated at par with the accounts  opened as per above instructions. However, the maximum balance in such accounts  may be permitted as the amount of grant received from the Government or Rs. 50,000 whichever is more and the initial  credit of the grant amount shall not be counted towards the total credit.
+(iii) In  terms of Government of India, Notification No. 14/2010/F.No.6/2/2007-E.S dated  December 16, 2010, the Prevention  of Money-laundering (Maintenance of Records of the Nature and Value of  Transactions, the Procedure and Manner of Maintaining and Time for Furnishing  Information and Verification and Maintenance of Records of the Identity of the  Clients of the Banking Companies, Financial Institutions and Intermediaries)  Rules, 2005 has been amended. The notification is reproduced at Annex IV of  this circular.
+A.  Small Accounts
+a) In terms of Rule 2 clause (fb) of the  Notification 'small account' means a savings account in a banking company  where-
+(i)  The aggregate of all credits in a financial year does not exceed rupees one  lakh;
+(ii)  The aggregate of all withdrawals and transfers in a month does not exceed  rupees ten thousand; and
+(iii) The balance at any point of time does not  exceed rupees fifty thousand.
+b) Rule  (2A) of the Notification lays down the detailed procedure for opening 'small  accounts'. Banks are advised to ensure adherence to the procedure provided in  the Rules for opening of small accounts.
+c) It has been brought to  our notice that banks are not promoting opening of 'Small Accounts' for greater  financial inclusion. Banks are, therefore, advised to open 'Small Accounts' for  all persons who so desire. It is reiterated that all limitations applicable to  'Small Accounts' should be strictly observed.
+B.  Officially valid documents
+The Notification has  also expanded the definition of 'officially valid document' as contained in  clause (d) of Rule 2(1) of the PML Rules to include job card issued by NREGA  duly signed by an officer of the State Government or the letters issued by the  Unique Identification Authority of India containing details of name, address  and Aadhaar number. In addition,  documents obtained through e-KYC service of UIDAI as detailed in para 2.5 (ix)  above may also be accepted as an ‘officially valid document’.
+2.7 Monitoring  of Transactions
+(i) Ongoing  monitoring is an essential element of effective KYC procedures. Banks can  effectively control and reduce their risk only if they have an understanding of  the normal and reasonable activity of the customer so that they have the means  of identifying transactions that fall outside the regular pattern of activity.  However, the extent of monitoring will depend on the risk sensitivity of the  account. Banks should pay special attention to all complex, unusually large  transactions and all unusual patterns which have no apparent economic or  visible lawful purpose. Banks may prescribe threshold limits for a particular  category of accounts and pay particular attention to the transactions which  exceed these limits. Transactions that involve large amounts of cash  inconsistent with the normal and expected activity of the customer should  particularly attract the attention of the bank. Very high account turnover  inconsistent with the size of the balance maintained may indicate that funds  are being 'washed' through the account. High-risk accounts have to be subjected  to intensified monitoring. Every bank should set key indicators for such  accounts, taking note of the background of the customer, such as the country of  origin, sources of funds, the type of transactions involved and other risk  factors. Banks should put in place a system of periodical review of risk  categorization of accounts and the need for applying enhanced due diligence  measures. Such review of risk categorisation of customers should be carried out  at a periodicity of
+not less
+than once in six months. Banks are  also required to put in place an appropriate software application to throw  alerts when the transactions are inconsistent with risk categorisation and  updated profile of customers. It is needless to add that a robust software  throwing alerts is essential for effective identification and reporting of suspicious  transactions.
+(ii) In view of  the risks involved in cash intensive businesses, accounts of bullion dealers  (including sub-dealers) & Jewellers should also be categorised by banks as  “high risk” requiring enhanced due diligence.
+(iii) It is advised that high risk associated  accounts should be taken into account by banks to identify Suspicious  Transactions Reports.
+2.8 Closure  of accounts
+Where  the bank is unable to apply appropriate KYC measures due to non-furnishing of  information and /or non-cooperation by the customer, the bank should consider  closing the account or terminating the banking/business relationship after  issuing due notice to the customer explaining the reasons for taking such a  decision. Such decisions need to be taken at a reasonably senior level.
+2.9 Risk  Management
+(a) The Board of Directors of the bank should ensure that an  effective KYC programme is put in place by establishing appropriate procedures  and ensuring their effective implementation. It should cover proper management  oversight, systems and controls, segregation of duties, training and other  related matters. Responsibility should be explicitly allocated within the bank  for ensuring that the bank’s policies and procedures are implemented  effectively. Banks should, in consultation with their boards, devise procedures  for creating risk profiles of their existing and new customers and apply  various anti money laundering measures keeping in view the risks involved in a  transaction, account or banking/business relationship.
+(b) The Government of India had constituted a  National Money Laundering / Financing of Terror Risk Assessment Committee to  assess money laundering and terror financing risks, a national AML / CFT  strategy and institutional framework for AML / CFT in India. The recommendations  of the Committee have since been accepted by the Government of India and need  to be implemented. The Committee has made recommendations regarding adoption of  a risk-based approach, assessment of risk and putting in place a system which  would use that assessment to take steps to effectively counter ML/FT.
+(c) Accordingly, banks should take steps to  identify and assess their ML / FT risk for customers, countries and  geographical areas as also for products / services / transactions / delivery channels,  in addition to what has been prescribed in the circulars issued by the Reserve  Bank on KYC/AML/CFT/Obligation of banks under PMLA from time to time. Banks  should have policies, controls and procedures, duly approved by their boards in  place, to effectively manage and mitigate their risk adopting a risk-based  approach as discussed above. As a corollary, banks would be required to adopt  enhanced measures for products, services and customers with a medium or high  risk rating.
+(d) In this regard, Indian Banks' Association  (IBA) has taken initiative in assessment of ML / FT risk in the banking sector  and prepared a guidance note on Know Your Customer (KYC) norms / Anti-Money  Laundering (AML) standards in July 2009. The guidance note is available on the  IBA website. The IBA guidance also provides an indicative list of high risk  customers, products, services and geographies. Banks may use the same as  guidance in their own risk assessment.
+(e) Banks’ internal audit and compliance functions have  an important role in evaluating and ensuring adherence to the KYC policies and  procedures. As a general rule, the compliance function should provide an  independent evaluation of the bank’s own policies and procedures, including  legal and regulatory requirements. Banks should ensure that their audit  machinery is staffed adequately with individuals who are well-versed in such  policies and procedures. Concurrent/ Internal Auditors should specifically  check and verify the application of KYC procedures at the branches and comment  on the lapses observed in this regard. The compliance in this regard should be  put up before the Audit Committee of the Board on quarterly intervals.
+2.10 Introduction  of New Technologies – Credit cards/ debit cards/ smart cards/ gift cards
+Banks  should pay special attention to any money laundering threats that may arise  from new or developing technologies including internet banking that might  favour anonymity, and take measures, if needed, to prevent their use in money  laundering schemes. Many banks are engaged in the business of issuing a variety  of Electronic Cards that are used by customers for buying goods and services,  drawing cash from ATMs, and can be used for electronic transfer of funds. Banks  are required to ensure full compliance with all KYC/AML/CFT guidelines issued  from time to time, in respect of add-on/ supplementary cardholders also.  Further, marketing of credit cards is generally done through the services  of agents. Banks should ensure that appropriate KYC procedures are duly applied  before issuing the cards to the customers. It is also desirable that agents are  also subjected to KYC measures.
+2.11 Usage  of ‘At par’ Cheque facility extended to Cooperative Banks by Scheduled  Commercial Banks
+UCBs  are advised to utilize the 'at par' cheque facility only for the following  purposes:
+i) for their own use.
+ii) for their account holders who are KYC compliant provided that all transactions  of
+`
+50,000.00 or more should be strictly by debit to the  customer's account.
+iii) for walk-in customers  against cash for less than
+`
+50,000.00  per individual.
+In  order to utilise the 'at par' cheque facility in the above manner, UCBs should  maintain
+i) records pertaining to issuance of 'at par' cheques covering inter alia  applicant's name and account number, beneficiary's details and date of issuance  of the 'at par' cheque.
+ii) sufficient balances / drawing  arrangements with the commercial bank extending such facility for purpose of  honouring such instruments.
+UCBs  should also ensure that all 'at par' cheques issued by them are crossed  'account payee' irrespective of the amount involved.
+UCBs  are advised to make use of more efficient means of remittances for the  customers like NEFT or RTGS by providing such services directly or by becoming  sub-members of banks providing such services as per regulations in this regard  issued by RBI from time to time
+2.12 Combating  Financing of Terrorism
+(a) In terms  of PMLA Rules, suspicious transaction should include
+inter alia
+transactions  which give rise to a reasonable ground of suspicion that these may involve  financing of the activities relating to terrorism. Banks are, therefore,  advised to develop suitable mechanism through appropriate policy framework for  enhanced monitoring of accounts suspected of having terrorist links and swift  identification of the transactions and making suitable reports to the Financial  Intelligence Unit – India (FIU-IND) on priority.
+(b) As and when list of  individuals and entities, approved by Security Council Committee established pursuant  to various United Nations' Security Council Resolutions (UNSCRs), are received  from Government of India, Reserve Bank circulates these to all banks and  financial institutions. Banks should ensure to update the consolidated list of  individuals and entities as circulated by the Reserve Bank. Further, the  updated list of such individuals/entities can be accessed in the United Nations  website at
+http://www.un.org/sc/committees/1267/consolist.shtml
+. The UN  Security Council has adopted Resolutions 1988 (2011) and 1989 (2011) which have  resulted in splitting of the Consolidated List into two separate lists,  namely:
+‘Al-Qaida Sanctions  List’, which is maintained by the 1267 / 1989 Committee. This  List shall include only the names of those individuals, groups, undertakings  and entities associated with Al-Qaida. General information on the work of the  committee is available at
+http://www.un.org/sc/committees/1267/information.shtml
+.  The Updated Al-Qaida Sanctions List is available at
+http://www.un.org/sc/committees/1267/aq_sanctions_list.shtml
+‘1988 Sanctions List’, which is maintained  by the 1988 Committee. This list consists of names previously included in  Sections A (“Individuals associated with the Taliban”) and B (“Entities and  other groups and undertakings associated with the Taliban”) of the Consolidated  List. The Updated 1988 Sanctions list is available at
+http://www.un.org/sc/committees/  1988/list.shtml
+It may be noted that  both ‘Al-Qaida Sanctions List’ and ‘1988 Sanctions List’ are to be taken into  account for the purpose of implementation of Section 51A of the Unlawful  Activities (Prevention) Act, 1967. Banks are required to update the lists of  individuals/entities as circulated by Reserve Bank and before opening any new  account, it should be ensured that the name/s of the proposed customer does not  appear in either list. Further, banks should scan all existing accounts to  ensure that no account is held by or linked to any of the entities or  individuals included in the two lists. Full details of accounts bearing  resemblance with any of the individuals/entities in the list should immediately  be intimated to the Reserve Bank and FIU-IND.
+(c) The  Unlawful Activities (Prevention) Act, 1967 (UAPA) has been amended by the  Unlawful Activities (Prevention) Amendment Act, 2008. Government has since  issued an Order dated August 27, 2009 detailing the procedure for implementation  of Section 51 A of the UAPA relating to the purposes of prevention of, and for  coping with terrorist activities. In terms of Section 51 A, the Central  Government is empowered to freeze, seize or attach funds and other financial  assets or economic resources held by, on behalf of or at the direction of the  individuals or entities listed in the Schedule to the Order, or any other  person engaged in or suspected to be engaged in terrorism and prohibit any  individual or entity from making any funds, financial assets or economic  resources or related services available for the benefit of the individuals or  entities listed in the Schedule to the Order or any other person engaged in or  suspected to be engaged in terrorism.
+Banks  are advised to strictly follow the procedure laid down in the UAPA Order dated  August 27, 2009 (Annex III) and ensure meticulous compliance to the Order  issued by the Government.
+Banks  are advised that on receipt of the list of individuals and entities subject to  UN sanctions (referred to as designated lists) from the Reserve Bank, they  should ensure expeditious and effective implementation of the procedure  prescribed under Section 51 A of UAPA in regard to freezing /unfreezing of  financial assets of the designated individuals/entities enlisted in the UNSCRs  and especially in regard to funds, financial assets or economic resources or  related services held in the form of bank accounts.
+In  terms of paragraph 4 of the Order, in regard to funds, financial assets or  economic resources or related services held in the form of bank accounts, the Reserve  Bank would forward the designated lists to the banks requiring them to:
+Maintain  updated designated lists in electronic form and run a check on the given  parameters on a regular basis to verify whether individuals or entities listed  in the Schedule to the Order (referred to as designated individuals/entities)  are holding any funds, financial assets or economic resources or related  services held in the form of bank accounts with them.
+In case, the  particulars of any of their customers match with the particulars of designated  individuals/entities, the banks shall immediately, not later than 24 hours from  the time of finding out such customer, inform full particulars of the funds,  financial assets or economic resources or related services held in the form of  bank accounts, held by such customer on their books to the Joint Secretary  (IS-I), Ministry of Home Affairs (MHA) at FAX No. 011 – 23092569 and also  convey over telephone on 011-23092736. The particulars apart from being sent by  post should necessarily be conveyed on e-mail.
+Banks shall  also send by post a copy of the communication mentioned in (ii) above to the  UAPA nodal officer of the Reserve Bank, Chief General Manager, Department of  Banking Operations and Development, Anti Money Laundering Division, World Trade  Centre, 4th Floor, Centre 1, Cuffe Parade, Colaba, Mumbai - 400 005 and also by  FAX at No. 022-22185792. The particulars apart from being sent by post/FAX  should necessarily be conveyed on e-mail.
+Banks shall  also send a copy of the communication mentioned in (ii) above to the UAPA nodal  officer of the State/Union Territory where the account is held as the case may  be and to FIU-IND.
+In case, the  match of any of the customers with the particulars of designated  individuals/entities is
+beyond doubt
+, the banks would prevent  designated persons from conducting financial transactions, under intimation to  Joint Secretary (IS-I), MHA at Fax No. 011 – 23092569 and also convey over  telephone over 011-23092736. The particulars apart from being sent by post  should necessarily be conveyed on e-mail.
+Banks shall also file a Suspicious Transaction  Report (STR) with FIU-IND covering all transactions in the accounts covered by  paragraph (ii) above, carried through or attempted, as per the prescribed  format.
+(d)  Freezing of financial assets
+On receipt of  the particulars as mentioned in paragraph c (ii) above, IS-I Division of MHA  would cause a verification to be conducted by the State Police and/or the  Central Agencies so as to ensure that the individuals/entities identified by  the banks are the ones listed as designated individuals/entities and the funds,  financial assets or economic resources or related services, reported by banks  are held by the designated individuals/entities. This verification would be  completed within a period not exceeding five working days from the date of  receipt of such particulars.
+In case, the  results of the verification indicate that the properties are owned by or held  for the benefit of the designated individuals/entities, an order to freeze  these assets under Section 51 A of the UAPA would be issued within 24 hours of  such verification and conveyed electronically to the bank branch concerned  under intimation to the Reserve Bank and FIU-IND.
+The Order shall take place without prior notice to  the designated individuals/entities.
+(e)  Implementation of requests received from foreign countries under UNSCR 1373 of  2001
+UNSCR 1373  obligates countries to freeze without delay the funds or other assets of  persons who commit, or attempt to commit, terrorist acts or participate in or  facilitate the commission of terrorist acts; of entities or controlled directly  or indirectly by such persons; and of persons and entities acting on behalf of,  or at the direction of such persons and entities, including funds or other  assets derived or generated from property owned or controlled, directly or  indirectly by such persons and associated persons and entities.
+To give effect  to the requests of foreign countries under UNSCR 1373, the Ministry of External  Affairs shall examine the requests made by the foreign countries and forward it  electronically, with their comments, to the UAPA nodal officer for IS-I  Division for freezing of funds or other assets.
+The UAPA nodal  officer of IS-I Division of MHA, shall cause the request to be examined, within  five working days so as to satisfy itself that on the basis of applicable legal  principles, the requested designation is supported by reasonable grounds, or a  reasonable basis, to suspect or believe that the proposed designee is a  terrorist, one who finances terrorism or a terrorist organization, and upon his  satisfaction, request would be electronically forwarded to the nodal officers  in the Reserve Bank. The proposed designee, as mentioned above would be treated  as designated individuals/entities.
+Upon receipt of  the requests from the UAPA nodal officer of IS-I Division, the list would be  forwarded to banks and the procedure as enumerated at paragraphs 2.12(c), (d)  shall be followed.
+The freezing orders shall take place without prior  notice to the designated persons involved.
+(f)  Procedure for unfreezing of funds, financial assets or economic resources or  related services of individuals/entities inadvertently affected by the freezing  mechanism upon verification that the person or entity is not a designated  person
+Any  individual or entity, if it has evidence to prove that the freezing of funds,  financial assets or economic resources or related services, owned /held by them  has been inadvertently frozen, they shall move an application giving the  requisite evidence , in writing, to the bank concerned. The banks shall inform  and forward a copy of the application together with full details of the asset  frozen given by any individual or entity informing of the funds, financial  assets or economic resources or related services have been frozen  inadvertently, to the nodal officer of IS-I Division of MHA as per the contact  details given in paragraph c (ii) above within two working days. The Joint  Secretary, IS-I, MHA being the nodal officer for IS-I Division of MHA, shall  cause such verification as may be required on the basis of the evidence  furnished by the individual/entity and if he is satisfied, he shall pass an  order, within fifteen working days, unfreezing the funds, financial assets or  economic resources or related services, owned/held by such applicant under  intimation to the bank concerned. However, if it is not possible for any reason  to pass an order unfreezing the assets within fifteen working days, the nodal  officer of IS-I Division shall inform the applicant.
+(g)  Communication of Orders under Section 51A of Unlawful Activities (Prevention)  Act, 1967
+All  Orders under Section 51 A of Unlawful Activities (Prevention) Act, 1967,  relating to funds, financial assets or economic resources or related service,  would be communicated to all banks through the Reserve Bank. Banks are advised  to bring the provisions of the Unlawful Activities (Prevention) Act, 1967 to  the notice of the staff concerned and ensure strict compliance.
+(h)  Deficiencies in AML / CFT regime in certain countries
+Banks  are also advised to take into account risks arising from the deficiencies in  AML/CFT regime of certain jurisdictions as identified in FATF Statement issued  from time to time.
+2.13 Correspondent  Banking
+(a)
+Correspondent  banking is the provision of banking services by one bank (the “correspondent  bank”) to another bank (the “respondent bank”). These services may include  cash/funds management, international wire transfers, drawing arrangements for  demand drafts and mail transfers, payable-through-accounts, cheques clearing  etc. Banks should gather sufficient information to understand fully the nature  of the business of the correspondent/respondent bank. Information on the other  bank’s management, major business activities, level of AML/CFT compliance,  purpose of opening the account, identity of any third party entities that will  use the correspondent banking services, and regulatory/supervisory framework in  the correspondent's/respondent’s country may be of special relevance.  Similarly, banks should try to ascertain from publicly available information  whether the other bank has been subject to any money laundering or terrorist  financing investigation or regulatory action. While it is desirable that such  relationships should be established only with the approval of the Board, in  case the Boards of some banks wish to delegate the power to an administrative  authority, they may delegate the power to a committee headed by the  Chairman/CEO of the bank while laying down clear parameters for approving such  relationships. Proposals approved by the Committee should invariably be put up  to the Board at its next meeting for post facto approval. The responsibilities  of each bank with whom correspondent banking relationship is established should  be clearly documented. In the case of payable-through-accounts, the  correspondent bank should be satisfied that the respondent bank has verified  the identity of the customers having direct access to the accounts and is  undertaking ongoing 'due diligence' on them. The correspondent bank should also  ensure that the respondent bank is able to provide the relevant customer  identification data immediately on request.
+(b)
+Correspondent relationship with a ‘Shell Bank’
+Banks should refuse to enter into a correspondent  relationship with a ‘shell bank’ (i.e. a bank which is incorporated in a  country where it has no physical presence and is unaffiliated to any regulated  financial group). Shell banks are not permitted to operate in India. Banks  should also guard against establishing relationships with respondent foreign  financial institutions that permit their accounts to be used by shell banks. Before establishing correspondent relationship with any foreign  institution, banks should take appropriate measures to satisfy themselves that  the foreign respondent institution does not permit its accounts to be used by  shell banks. Banks should be extremely cautious while continuing relationships with  respondent banks located in countries with poor KYC standards and countries  identified as 'non-cooperative' in the fight against money laundering and  terrorist financing. Banks should ensure that their respondent banks have anti  money laundering policies and procedures in place and apply enhanced 'due  diligence' procedures for transactions carried out through the correspondent  accounts.
+2.14 Wire  Transfer
+Banks  use wire transfers as an expeditious method for transferring funds between bank  accounts. Wire transfers include transactions occurring within the national  boundaries of a country or from one country to another. As wire transfers do  not involve actual movement of currency, they are considered as a rapid and  secure method for transferring value from one location to another.
+(i) The  salient features of a wire transfer transaction are as under:
+Wire transfer  is a transaction carried out on behalf of an originator person (both natural  and legal) through a bank by electronic means with a view to making an amount  of money available to a beneficiary person at a bank. The originator and the  beneficiary may be the same person.
+Cross-border  transfer means any wire transfer where the originator and the beneficiary bank  or financial institutions are located in different countries. It may include  any chain of wire transfers that has at least one cross-border element.
+Domestic wire  transfer means any wire transfer where the originator and receiver are located  in the same country. It may also include a chain of wire transfers that takes  place entirely within the borders of a single country even though the system  used to effect the wire transfer may be located in another country.
+The originator is the account holder, or where  there is no account, the person (natural or legal) that places the order with  the bank to perform the wire transfer.
+(ii) Wire  transfer is an instantaneous and most preferred route for transfer of funds  across the globe and hence, there is a need for preventing terrorists and other  criminals from having unfettered access to wire transfers for moving their  funds and for detecting any misuse when it occurs. This can be achieved if  basic information on the originator of wire transfers is immediately available  to appropriate law enforcement and/or prosecutorial authorities in order to  assist them in detecting, investigating, prosecuting terrorists or other  criminals and tracing their assets. The information can be used by Financial  Intelligence Unit - India (FIU-IND) for analysing suspicious or unusual  activity and disseminating it as necessary. The originator information can also  be put to use by the beneficiary bank to facilitate identification and  reporting of suspicious transactions to FIU­-IND. Owing to the potential  terrorist financing threat posed by small wire transfers, the objective is to  be in a position to trace all wire transfers with minimum threshold limits.  Accordingly, banks must ensure that all wire transfers are accompanied by the  following information:
+(A)  Cross-border wire transfers
+All  cross-border wire transfers must be accompanied by accurate and meaningful  originator information.
+Information  accompanying cross-border wire transfers must contain the name and address of  the originator and where an account exists, the number of that account. In the  absence of an account, a unique reference number, as prevalent in the country  concerned, must be included
+Where several individual transfers from a single  originator are bundled in a batch file for transmission to beneficiaries in  another country, they may be exempted from including full originator  information, provided they include the originator’s account number or unique  reference number as at (ii) above.
+Reporting  of Cross Border Wire Transfer Report on FINnet Gateway
+With  the amendments to Prevention of Money Laundering (PML) Rules, notified by the  Government of India vide Notification No. 12 of 2013 dated August 27, 2013 and  in terms of amended Rule 3, every reporting entity is required to maintain a  record of all transactions including the record of all cross border wire  transfers of more than Rs. 5 lakh or its equivalent in foreign currency, where  the place of either origin or destination of the fund is in India. FIU-IND has  advised that the information of all such transactions may be furnished to  Director, FIU-IND by 15th of the succeeding month. It is advised that the ‘Transaction Based  Reporting Format’ (TRF) already developed by FIU-IND and being used for  reporting Cash Transaction Reports (CTRs), Suspicious Transaction Reports  (STRs) and Non-Profit Organizations Transaction Reports (NTRs) may be used for  reporting the Cross Border Wire Transfers. The information may be furnished  electronically in the FIN-Net module developed by FIU-IND. All UCBs are  accordingly advised to take action as required by FIU-IND and ensure that  reports are submitted in time as per the schedule. The format along with sample data filled in  as an illustration is available in the ‘Downloads’ section of the FIU-IND  website (
+http://fiuindia.gov.in
+).
+(B) Domestic  wire transfers
+Information  accompanying all domestic wire transfers of Rs. 50000/- (Rupees Fifty Thousand) and above must  include complete originator information i.e. name, address and account number  etc., unless full originator information can be made available to the  beneficiary bank by other means.
+If a bank has  reason to believe that a customer is intentionally structuring wire transfer to  below Rs. 50,000.00 (Rupees Fifty Thousand) to several beneficiaries in order  to avoid reporting or monitoring, the bank must insist on complete customer  identification before effecting the transfer. In case of non-cooperation from  the customer, efforts should be made to establish his identity and Suspicious  Transaction Report (STR) should be made to FIU­-IND.
+When a credit or debit card is used to effect money  transfer, necessary information as (i) above should be included in the message.
+iii) Exemptions
+Interbank  transfers and settlements where both the originator and beneficiary are banks  or financial institutions would be exempted from the above requirements.
+(iv)  Role of Ordering, Intermediary and Beneficiary banks
+(a)  Ordering Bank
+An  ordering bank is the one that originates a wire transfer as per the order  placed by its customer. The ordering bank must ensure that qualifying wire  transfers contain complete originator information. The bank must also verify  and preserve the information at least for a period of ten years.
+(b) Intermediary  bank
+For  both cross-border and domestic wire transfers, a bank processing an  intermediary element of a chain of wire transfers must ensure that all  originator information accompanying a wire transfer is retained with the  transfer. Where technical limitations prevent full originator information  accompanying a cross-border wire transfer from remaining with a related  domestic wire transfer, a record must be kept at least for ten years (as  required under Prevention of Money Laundering Act, 2002) by the receiving  intermediary bank of all the information received from the ordering bank.
+(c)  Beneficiary bank
+A  beneficiary bank should have effective risk-based procedures in place to  identify wire transfers lacking complete originator information. The lack of  complete originator information may be considered as a factor in assessing  whether a wire transfer or related transactions are suspicious and whether they  should be reported to the Financial Intelligence Unit-India. The beneficiary  bank should also take up the matter with the ordering bank if a transaction is  not accompanied by detailed information of the fund remitter. If the ordering  bank fails to furnish information on the remitter, the beneficiary bank should  consider restricting or even terminating its business relationship with the  ordering bank.
+2.15 Principal  Officer
+(a) Banks should appoint a senior management officer to be designated as  Principal Officer. Principal Officer shall be located at the head/corporate  office of the bank and shall be responsible for monitoring and reporting of all  transactions and sharing of information as required under the law. He will  maintain close liaison with enforcement agencies, banks and any other  institution which are involved in the fight against money laundering and  combating financing of terrorism. With a view to enable the Principal Officer  to discharge his responsibilities, it is advised that the Principal Officer and  other appropriate staff should have timely access to customer identification  data and other CDD information, transaction records and other relevant  information. Further, banks should ensure that the Principal Officer is able to  act independently and report directly to the senior management or to the Board  of Directors.
+(b) The Principal Officer will be responsible for timely submission of CTR,  STR and reporting of counterfeit notes to FIU-IND.
+(c) The Principal Officer will also oversee and ensure  overall compliance with regulatory guidelines on KYC / AML / CFT issued from  time to time and obligations under the Prevention of Money Laundering Act,  2002, rules and regulations made there under, as amended from time to time.
+2.16  Designated Director
+UCBs  should nominate a Director on their Boards as "Designated Director"  to ensure compliance with the obligations under the Prevention of Money  Laundering (Amendment) Act, 2012. The  amendment made to Section 13 of the Prevention of Money Laundering (Amendment)  Act, 2012 provides for "Powers of Director to impose fine", As per Section 13 (2) of the Act, if the  Director, in the course of any inquiry, finds that a reporting entity or its  designated director on the Board or any of its employees has failed to comply  with the obligations under this Chapter, then, without prejudice to any other  action that may be taken under any other provisions of this Act, he may
+(a) issue a warning in writing; or
+(b) direct such reporting entity or its designated director on the Board or any of  its employees, to comply with specific instructions; or
+(c) direct such reporting entity or its designated director on the Board or any of  its employees, to send reports at such interval as may be prescribed on the  measures it is taking; or
+(d) by an order, levy a fine on  such reporting entity or its designated director on the Board or any of its  employees, which shall not be less than ten thousand rupees but may extend to  one lakh rupees for each failure."
+2.17 Maintenance  of records of transactions/Information to be preserved/Maintenance and  preservation of records/Cash and Suspicious transactions reporting to Financial  Intelligence Unit- India (FIU-IND)
+Government  of India, Ministry of Finance, Department of Revenue, vide its notification  dated July 1, 2005 in the Gazette of India, has notified the Rules under the  Prevention of Money Laundering Act (PMLA), 2002. In terms of the said Rules,  the provisions of PMLA, 2002 came into effect from July 1, 2005. Section 12 of  the PMLA, 2002 casts certain obligations on the banking companies in regard to  preservation and reporting of customer account information. Banks are,  therefore, advised to go through the provisions of PMLA, 2002 (as amended from  time to time) and the Rules notified there under and take all steps considered  necessary to ensure compliance with the requirements of Section 12 of the Act ibid
+.
+(i)  Maintenance of records of transactions
+Banks  should introduce a system of maintaining proper record of transactions  prescribed under Rule 3, as mentioned below:
+all cash  transactions of the value of more than Rupees Ten Lakh or its equivalent in  foreign currency;
+all series of  cash transactions integrally connected to each other which have been valued  below Rupees Ten lakh or its equivalent in foreign currency where such series  of transactions have taken place within a month and the aggregate value of such  transactions exceeds Rupees Ten lakh;
+all cash  transactions where forged or counterfeit currency notes or bank notes have been  used as genuine and where any forgery of a valuable security or a document has  taken place facilitating the transaction and
+all suspicious transactions whether or not made in  cash and by way of as mentioned in the Rules.
+Explanation  - Integrally connected cash transactions referred to at (b) above
+The  following transactions have taken place in a branch during the month of April  2008:
+Date
+Mode
+Dr (Rs.)
+Cr (Rs.)
+Balance (Rs.) BF – 8,00,000.00
+02/04/2008
+Cash
+5,00,000.00
+3,00,000.00
+6,00,000.00
+07/04/2008
+Cash
+40,000.00
+2,00,000.00
+7,60,000.00
+08/04/2008
+Cash
+4,70,000.00
+1,00,000.00
+3,90,000.00
+Monthly summation
+10,10,000.00
+6,00,000.00
+As per  above clarification, the debit transactions in the above example are integrally  connected cash transactions because total cash debits during the calendar month  exceeds Rs. 10 lakh. However, the bank should report only the debit transaction  taken place on 02/04 and 08/04/2008. The debit transaction dated 07/04/2008  should not be separately reported by the bank, which is less than Rs. 50, 000.00  (Rupees Fifty Thousand). All the credit  transactions in the above example would not be treated as integrally connected,  as the sum total of the credit transactions during the month does not exceed Rs.  10 lakh and hence credit transaction dated 02, 07 & 08/04/2008 should not  be reported by banks.
+(ii)  Information to be maintained
+Banks  are required to maintain the following information, including necessary  information required for reconstruction of the transactions referred to in Rule  3:
+the nature of  the transactions;
+the amount of  the transaction and the currency in which it was denominated;
+the date on  which the transaction was conducted; and
+the parties to the transaction
+(iii)  Maintenance and Preservation of record
+(a) Banks are required to maintain the records (hard and soft copies)  containing information in respect of transactions referred to in Rule 3 above.  Banks should take appropriate steps to evolve a system for proper maintenance  and preservation of account information in a manner that allows data to be  retrieved easily and quickly whenever required or when requested by the  competent authorities. Further, banks should maintain for at least ten years  from the date of transaction between the bank and the client, all necessary  records of transactions, both domestic or international, which will permit  reconstruction of individual transactions (including the amounts and types of  currency involved if any) so as to provide, if necessary, evidence for  prosecution of persons involved in criminal activity.
+(b) Banks should ensure that records pertaining to the  identification of the customer and his address (e.g. copies of documents like  passports, identity cards, driving licenses, PAN card, utility bills etc.)  obtained while opening the account and during the course of business  relationship, are properly preserved for at least ten years
+after the  business relationship is ended
+. The identification records and  transaction data should be made available to the competent authorities upon  request.
+(c) In paragraph 2.7 of this Master Circular, banks  have been advised to pay special attention to all complex, unusual large  transactions and all unusual patterns of transactions, which have no apparent  economic or visible lawful purpose. It is further clarified that the background  including all documents/office records/memorandums pertaining to such  transactions and purpose thereof should, as far as possible, be examined and  the findings at branch as well as Principal Officer level should be properly  recorded. Such records and related documents should be made available to help  auditors in their day-to-day work relating to scrutiny of transactions and also  to Reserve Bank/other relevant authorities. These records are required to be  preserved for ten years as is required under PMLA, 2002.
+(iv) Reporting  to Financial Intelligence Unit – India
+(a)  In  terms of the PMLA rules, banks are required to report information relating to  cash and suspicious transactions to the Director, Financial Intelligence  Unit-India (FIU-IND) in respect of transactions referred to in Rule 3 at the  following address:
+Director,  FIU-IND,
+Financial Intelligence Unit-India,
+6th Floor, Hotel Samrat,
+Chanakyapuri,
+New Delhi-110021.
+Website -
+http://fiuindia.gov.in/
+(b) Banks should carefully go  through all the reporting formats. There are altogether eight reporting  formats, as detailed in Annex II, viz. i) Cash Transactions Report (CTR); ii) Summary  of CTR iii) Electronic File Structure-CTR; iv) Suspicious Transactions Report  (STR); v) Electronic File Structure-STR; vi) Counterfeit Currency Report (CCR);  vii) Summary of CCR and viii) Electronic File Structure-CCR.
+The reporting formats  contain detailed guidelines on the compilation and manner/procedure of  submission of the reports to FIU-IND. It would be necessary for banks to  initiate urgent steps to ensure electronic filing of all types of reports to  FIU-IND. The related hardware and technical requirement for preparing reports  in an electronic format, the related data files and data structures thereof are  furnished in the instructions part of the concerned formats.
+(c) FIU-IND have placed on  their website editable electronic utilities to enable banks to file electronic  CTR/STR who are yet to install/adopt suitable technological tools for  extracting CTR/STR from their live transaction data base. It is, therefore,  advised that in cases of banks, where all the branches are not fully  computerized, the Principal Officer of the bank should cull out the transaction  details from branches which are not yet computerized and suitably arrange to  feed the data into an electronic file with the help of the editable electronic  utilities of CTR/STR as have been made available by FIU-IND in their website
+http://fiuindia.gov.in
+(d) The FIU-India has advised that the  above mentioned multiple data files/reporting format is being replaced by a new  single XML file format and prepared a comprehensive reporting format guide  giving the specifications of the prescribed reports to be furnished to  FIU-India.
+The reporting formats specified in the reporting  format guide are: (i) Account based reporting format (ARF) for reporting of  account based CTRs, STRs and NTRs (ii) Transactions based reporting format  (TRF) for reporting of transaction based CTRs, STRs and NTRs and (iii) CCR  reporting format (CRF) for reporting of counterfeit currency reports (CCRs)
+(e)  FIU-IND has developed a Report Generation Utility and Report Validation Utility  to assist reporting entities in the preparation of the prescribed reports.  Reporting entities, which have necessary technical capabilities, may generate  XML reports directly from their systems. Reporting entities are encouraged to  shift to the fixed width data structure version 2.0 before generating XML  reports at their end.
+The following documents have been placed in the  ‘Downloads’ section of the FIU-IND website (
+http://fiuindia.gov.in
+).
+Reporting  Format Guide
+XML Schemas: AccountBasedReport.xsd,  TransactionBasedReport.xsd,
+CCRBasedReport.xsd, FIU-INDSchemaLibrary.xsd and DataQualityReport.xsd
+User Guides: Report Generation Utility User  Guide and Report Validation Utility User Guid
+Banks are advised to  carefully go through the reporting formats and initiate urgent steps to build  capacity to generate reports, which are compliant with the XML format  specifications. The date of transition from the old reporting format to the new  reporting format will be communicated to the reporting entities separately.
+(v) In  terms of instructions contained in paragraph 2.3 (c) of this Master Circular,  banks are required to prepare a profile for each customer based on risk  categorisation. Further, vide paragraph 2.7, the need for periodical review of  risk categorisation has been emphasized. It is, therefore, reiterated that  banks, as a part of transaction monitoring mechanism, are required to put in  place an appropriate software application to throw alerts when the transactions  are inconsistent with risk categorization and updated profile of customers. It  is needless to add that a robust software throwing alerts is essential for  effective identification and reporting of suspicious transaction.
+(vi) The  CEOs of banks are advised to personally monitor the adherence by the bank  officials to the provisions of the AML/ PMLA guidelines and ensure that systems  and procedures are put in place and instructions percolated to the operational  levels. It should also be ensured that there is a proper system of fixing  accountability for serious lapses and intentional circumvention of prescribed  procedures and guidelines.
+2.18  Cash and Suspicious Transaction Reports
+1. Cash  Transaction Report (CTR)
+While  detailed instructions for filing all types of reports are given in the  instructions part of the related formats, banks should scrupulously adhere to  the following:
+(i) The Cash Transaction Report (CTR) for each month should be submitted  to FIU‑IND by 15th of the succeeding month. Cash transaction reporting by  branches to their Principal Officer / controlling offices should, therefore,  invariably be submitted on monthly basis
+(not on fortnightly basis)
+and  banks should ensure to submit CTR for every month to FIU-IND within the  prescribed time schedule. In regard to CTR the cut off limit of Rs. 10 lakh is  applicable to integrally connected cash transactions also.
+(ii) All cash transactions, where forged or counterfeit Indian currency notes  have been used as genuine should be reported by the Principal Officer to  FIU-IND immediately in the specified format (Counterfeit Currency Report –  CCR). These cash transactions should also include transactions where forgery of  valuable security or documents has taken place and may be reported to FIU-IND  in plain text form.
+(iii) While filing CTR, details of individual transactions  below Rupees Fifty thousand need not be furnished.
+(iv) CTR should contain only the transactions carried out by the bank on behalf  of their clients/customers excluding transactions between the internal accounts  of the bank.
+(v) A summary of cash transaction report for the bank as a whole should be  compiled by the Principal Officer of the bank every month in physical form as  per the format specified. The summary should be signed by the Principal Officer  and submitted to FIU-India.
+(vi) In case of Cash Transaction Reports (CTR) compiled  centrally by banks for the branches having Core Banking Solution (CBS) at their  central data centre level, banks may generate centralised Cash Transaction  Reports (CTR) in respect of branches under core banking solution at one point  for onward transmission to FIU-IND, provided:
+The CTR is  generated in the format prescribed by Reserve Bank in Para 2.17 (iv) (b) of  this Master Circular.
+A copy of the  monthly CTR submitted on its behalf to FIU-India is available at the concerned  branch for production to auditors/inspectors, when asked for; and
+The instruction on ‘Maintenance of records of  transactions’; ‘Information to be preserved’ and ‘Maintenance and  Preservation of records’ as contained above in this master circular at paragraph  2.17 (i), (ii) and (iii) respectively are scrupulously followed by the branch. However,  in respect of branches not under CBS, the monthly CTR should continue to be  compiled and forwarded by the branch to the Principal Officer for onward  transmission to FIU-IND.
+2. Suspicious  Transaction Reports (STR)
+While  determining suspicious transactions, banks should be guided by definition of  suspicious transaction contained in PMLA Rules as amended from time to time.
+It is likely  that in some cases transactions are abandoned / aborted by customers on being  asked to give some details or to provide documents. It is clarified that banks  should report all such attempted transactions in STRs, even if not completed by  customers, irrespective of the amount of the transaction.
+Banks should  make STRs if they have reasonable ground to believe that the transaction  involve proceeds of crime generally irrespective of the amount of transaction  and/or the threshold limit envisaged for predicate offences in part B of  Schedule of PMLA, 2002.
+As per extant  instructions, a bank should not open an account (or should consider closing an  existing account) when it is unable to apply appropriate CDD measures. It is  clarified that in the circumstances when a bank believes that it would no  longer be satisfied that it knows the true identity of the account holder, the  bank should also file an STR with FIU-IND.
+The Suspicious  Transaction Report (STR) should be furnished within 7 days of arriving at a  conclusion that any transaction, whether cash or non-cash, or a series of  transactions integrally connected are of suspicious nature. The Principal  Officer should record his reasons for treating any transaction or a series of  transactions as suspicious. It should be ensured that there is no undue delay  in arriving at such a conclusion once a suspicious transaction report is  received from a branch or any other office. Such report should be made  available to the competent authorities on request.
+In the context  of creating KYC/AML awareness among the staff and for generating alerts for  suspicious transactions, banks may consider the indicative list of suspicious  activities contained in Annex E of the 'IBA's Guidance Note for Banks, 2005'.
+Banks should not put any restrictions on operations  in the accounts where an STR has been made. Moreover, it should be ensured that  there is no
+tipping off to
+the customer at any level.
+2.19  Maintenance of Records in respect of Non-Profit Organisations and filing of  Non-Profit Organisation Transaction Reports (NTRs) to FIU-IND
+In  view of the Government of India Notification No.13/2009/F.No.6/8/2009-ES dated  November 12, 2009 amending the Prevention of Money-laundering (Maintenance of  Records of the Nature and Value of Transactions, the Procedure and Manner of  Maintaining and Time for Furnishing Information and Verification and  Maintenance of Records of the Identity of the Clients of the Banking Companies,  Financial Institutions and Intermediaries) Rules, 2005, UCBs should maintain  proper record of all transactions involving receipts by non- profit  organizations of value more than rupees ten lakh or its equivalent in  foreign currency and to forward a report to FIU-IND of all such  transactions in the prescribed format every month by the 15th of  the succeeding month. UCBs should  maintain these records for a period of ten years from the date of transactions.
+2.20  Maintenance of Records and filing of Suspicious Transaction Reports (STRs) to  FIU-IND in respect of Walk-in Customers
+Transactions  carried out by a non-account based customer, that is a walk-in customer, where  the amount of transaction is equal to or exceeds rupees fifty thousand, whether  conducted as a single transaction or several transactions that appear to be  connected, the customer's identity and address should be verified. Further, if a bank has reason to believe that a customer is intentionally  structuring a transaction into a series of transactions below the threshold of  Rs.50,000.00 (Rupees Fifty Thousand) the bank should verify identity and  address of the customer and also consider filing a suspicious transaction  report (STR) to FIU-IND.
+2.21  Customer Education/Employee's Training/Employee's Hiring
+(a) Customer  Education
+Implementation  of KYC procedures requires banks to demand certain information from customers  which may be of personal nature or which have hitherto never been called for.  This can sometimes lead to a lot of questioning by the customer as to the  motive and purpose of collecting such information. There is, therefore, a need  for banks to prepare specific literature/ pamphlets etc. so as to educate the  customer of the objectives of the KYC programme. The front desk staff needs to  be specially trained to handle such situations while dealing with customers.
+(b) Employee's  Training
+Banks  must have an ongoing employee training programme so that the members of the  staff are adequately trained in KYC procedures. Training requirements should  have different focuses for frontline staff, compliance staff and staff dealing  with new customers. It is crucial that all those concerned fully understand the  rationale behind the KYC policies and implement them consistently.
+(c) Hiring  of Employees
+It may  be appreciated that KYC norms/AML standards/CFT measures have been prescribed  to ensure that criminals are not allowed to misuse the banking channels. It  would, therefore, be necessary that adequate screening mechanism is put in  place by banks as an integral part of their recruitment/hiring process of  personnel.
+Annex I
+(Paragraphs No. 2.4, 2.5 & 2.6)
+Customer  Identification Procedure
+Features to be verified and documents that may be obtained from customers
+Features
+Documents
+Accounts of    individuals
+Legal name and any other names         used
+Correct permanent address
+(i) Passport    (ii) PAN card (iii) Voter’s Identity Card (iv) Driving licence(v) Identity    card (subject to the bank’s satisfaction) (vi) Letter from a recognized    public authority or public servant verifying the identity and residence of    the customer to the satisfaction of bank (vii) Job cards issued by NREGA duly    signed by an officer of the State Government (viii) The Letter issued by the    Unique Identification Authority of India (UIDAI) or documents obtained    through e-KYC service of UIDAI containing details of name, address and Aadhaar    number or any other document as notified by the Central Government in    consultation with the Reserve Bank of India or any other document as may be    required by the banking companies or financial institution or intermediary
+(i) Telephone    bill (ii) Bank account statement (iii) Letter from any recognized public    authority(iv) Electricity bill (v) Ration card(vi) Letter from employer    (subject to satisfaction of the bank)
+[(1) Any one document which provides    customer information to the satisfaction of the bank will suffice.
+(2) If the address on the document    submitted for identity proof by the prospective customer is same as that    declared by him/her in the account opening form, the document may be accepted    as a valid proof of both identity and address.]
+Accounts of    companies
+Name of         the company
+Principal         place of business
+Mailing         address of the company
+Telephone/Fax         Number
+(i)    Certificate of incorporation and Memorandum & Articles of Association    (ii) Resolution of the Board of Directors to open an account and    identification of those who have authority to operate the account (iii) Power    of Attorney granted to its managers, officers or employees to transact business    on its behalf (iv) Copy of PAN allotment letter (v) Copy of the telephone    bill
+Accounts of    partnership firms
+Legal         name
+Address
+Names of         all partners and their addresses
+Telephone         numbers of the firm and partners
+(i)    Registration certificate, if registered(ii) Partnership deed (iii) Power of    Attorney granted to a partner or an employee of the firm to transact business    on its behalf (iv) Any officially valid document identifying the partners and    the persons holding the Power of Attorney and their addresses (v) Telephone    bill in the name of firm/partners
+Accounts of    trusts & foundations
+Names of         trustees, settlers, beneficiaries and signatories
+Names         and addresses of the founder, the managers/directors and the         beneficiaries
+Telephone/fax         numbers
+(i) Certificate    of registration, if registered (ii) Power of Attorney granted to transact    business on its behalf (iii) Any officially valid document to identify the    trustees, settlers, beneficiaries and those holding Power of Attorney,    founders/managers/ directors and their addresses(iv) Resolution of the    managing body of the foundation/association(v) Telephone bill
+Annex II
+(Paragraph No. 2.17 (iv) (b))
+(List of various reports)
+Cash  Transaction Report(CTR)
+Summary of CTR
+electronic File  Structure – CTR
+Suspicious  Transactions Report(STR)
+Electronic File  Structure – STR
+Counterfeit  Currency Report (CCR)
+Summary of CCR
+Electronic File  Structure - CCR
+Annex III
+(Paragraph No. 2.12 (c))
+File  No.17015/10/2002-IS-VI
+Government of India
+Ministry of Home Affairs
+Internal Security-I Division
+*****
+New Delhi, dated 27th August, 2009
+ORDER
+Subject:  Procedure for implementation of Section 51A of the Unlawful Activities  (Prevention) Act, 1967
+The Unlawful  Activities (Prevention) Act, 1967 (UAPA) has been amended and notified on  31.12.2008, which, inter-alia, inserted Section 51A to the Act. Section 51A  reads as under:-
+"51A. For  the prevention of, and for coping with terrorist activities, the Central  Government shall have power to –
+freeze,       seize or attach funds and other financial assets or economic resources       held by, on behalf of or at the direction of the individuals or entities       Listed in the Schedule to the Order, or any other person engaged in or       suspected to be engaged in terrorism;
+prohibit       any individual or entity from making any funds, financial assets or       economic resources or related services available for the benefit of the       individuals or entities Listed in the Schedule to the Order or any other       person engaged in or suspected to be engaged in terrorism;
+prevent       the entry into or the transit through India of individuals Listed in the       Schedule to the Order or any other person engaged in or suspected to be       engaged in terrorism",
+The Unlawful  Activities (Prevention) Act define "Order" as under:-
+"Order"  means the Prevention and Suppression of Terrorism (Implementation of Security  Council Resolutions) Order, 2007, as may be amended from time to time.  In order to expeditiously and effectively  implement the provisions of Section 51A, the following procedures shall be  followed:-
+Appointment and  Communication of details of UAPA nodal officers
+2. As regards  appointment and communication of details of UAPA nodal officers –
+The UAPA       nodal officer for IS-I division would be the Joint Secretary (IS.I),       Ministry of Home Affairs. His contact details are 011-23092736(Tel),       011-23092569(Fax) and (e-mail).
+The       Ministry of External Affairs, Department of Economic Affairs, Foreigners       Division of MHA, FIU-IND; and RBI, SEBI, IRDA (hereinafter referred to as       Regulators) shall appoint a UAPA nodal officer and communicate the name       and contact details to the IS-I Division in MHA.
+The States       and UTs should appoint a UAPA nodal officer preferably of the rank of the       Principal Secretary/Secretary, Home Department and communicate the name       and contact details to the IS-I Division in MHA.
+The IS-I       Division in MHA would maintain the consolidated list of all UAPA nodal       officers and forward the list to all other UAPA nodal officers.
+The RBI,       SEBI, IRDA should forward the consolidated list of UAPA nodal officers to       the banks, stock exchanges/depositories, intermediaries regulated by SEBI       and insurance companies respectively.
+The       consolidated list of the UAPA nodal officers should be circulated to the       nodal officer of IS-I Division of MHA in July every year and on every       change. Joint Secretary(IS-I), being the nodal officer of IS-I Division of       MHA, shall cause the amended list of UAPA nodal officers to be circulated       to the nodal officers of Ministry of External Affairs, Department of Economic       Affairs, Foreigners Division of MHA, RBI, SEBI, IRDA and FIU-IND.
+Communication  of the list of designated individuals/entities
+3. As regards  communication of the list of designated individuals/entities-
+The       Ministry of External Affairs shall update the list of individuals and       entities subject to UN sanction measures on a regular basis. On any       revision, the Ministry of External Affairs would electronically forward       this list to the Nodal Officers in Regulators, FIU-IND, IS-I Division and       Foreigners' Division in MHA.
+The       Regulators would forward the list mentioned in (i) above (referred to as       designated lists) to the banks, stock exchanges/depositories,       intermediaries regulated by SEBI and insurance companies respectively.
+The IS-I       Division of MHA would forward the designated lists to the UAPA nodal       officer of all States and UTs.
+The       Foreigners Division of MHA would forward the designated lists to the       immigration authorities and security agencies.
+Regarding  funds, financial assets or economic resources or related services held in the  form of bank accounts, stocks or insurance policies etc.
+4. As regards  funds, financial assets or economic resources or related services held in the  form of bank accounts, stocks or insurance policies etc., the Regulators would  forward the designated lists to the banks, stock exchanges/depositories,  intermediaries regulated by SEBI and insurance companies respectively. The RBI,  SEBI and IRDA would issue necessary guidelines to banks, stock  exchanges/depositories, intermediaries regulated by SEBI and insurance  companies requiring them to –
+Maintain       updated designated lists in electronic form and run a check on the given       parameters on a regular basis to verify whether individuals or entities       listed in the schedule to the Order (referred to as designated       individuals/entities) are holding any funds, financial assets or economic       resources or related services held in the form of bank accounts, stocks or       insurance policies etc. with them.
+In case,       the particulars of any of their customers match with the particulars of       designated individuals/entities, the banks, stock exchanges/ depositories,       intermediaries regulated by SEBI and insurance companies shall       immediately, not later than 24 hours from the time of finding out such customer,       inform full particulars of the funds, financial assets or economic       resources or related services held in the form of bank accounts, stocks or       insurance policies etc. held by such customer on their books to the Joint       Secretary (IS.I), Ministry of Home Affairs, at Fax No.011-23092569 and       also convey over telephone on 011-23092736. The particulars apart from       being sent by post should necessarily be conveyed on
+e-mail
+.
+The banks,       stock exchanges/ depositories, intermediaries regulated by SEBI and       insurance companies shall also send by post a copy of the communication       mentioned in (ii) above to the UAPA nodal officer of the state/ UT where       the account is held and Regulators and FIU0IND, as the case may be.
+In case,       the match of any of the customers with the particulars of designated       individuals/entities is beyond doubt
+,
+the banks stock exchanges /       depositories, intermediaries regulated by SEBI and insurance companies       would prevent designated persons from conducting financial transactions,       under intimation to Joint Secretary (IS.I), Ministry of Home Affairs, at       Fax No. 011-23092569 and also convey over telephone on 011-23092736. The       particulars apart from being sent by post should necessarily be conveyed       on e-mail.
+The banks,       stock exchanges/depositories, intermediaries regulated by SEBI and       insurance companies shall file a Suspicious Transaction Report (STR) with       FIU-IND covering all transactions in the accounts covered by paragraph       (ii) above, carried through or attempted, as per the prescribed format.
+5. On receipt  of the particulars referred to in paragraph 3(ii) above, IS-I Division of MHA  would cause a verification to be conducted by the State Police and/or the  Central Agencies so as to ensure that the individuals/entities identified by  the banks, stock exchanges/depositories, intermediaries regulated by SEBI and  Insurance Companies are the ones listed as designated individuals/entities and  the funds, financial assets or economic resources or related services, reported  by banks, stock exchanges/depositories, intermediaries regulated by SEBI and  insurance companies are held by the designated individuals/entities. This  verification would be completed within a period not exceeding 5 working days  from the date of receipt of such particulars.
+6. In case, the  results of the verification indicate that the properties are owned by or held  for the benefit of the designated individuals/entities, an order to freeze  these assets under section 51A of the UAPA would be issued within 24 hours of  such verification and conveyed electronically to the concerned bank branch,  depository, branch of insurance company branch under intimation to respective  Regulators and FIU-IND. The UAPA nodal officer of IS-I Division of MHA shall  also forward a copy thereof to all the Principal Secretary/Secretary, Home  Department of the States or UTs, so that any individual or entity may be  prohibited from making any funds, financial assets or economic assets or  economic resources or related services available for the benefit of the  designated individuals/entities or any other person engaged in or suspected to  be engaged in terrorism. The UAPA nodal officer of IS-I Division of MHA shall  also forward a copy of the order under Section 51A, to all Directors General of  Police/Commissioners of Police of all states/UTs for initiating action under  the provisions of Unlawful Activities (Prevention) Act.
+The order shall  take place without prior notice to the designated individuals/entities.
+Regarding  financial assets or economic resources of the nature of immovable properties.
+7. IS-I  Division of MHA would electronically forward the designated lists to the UAPA  nodal officer of all States and UTs with the request to have the names of the  designated individuals/entities, on the given parameters, verified from the  records of the office of the Registrar performing the work of registration of  immovable properties in their respective jurisdiction.
+8. In case, the  designated individuals/entities are holding financial assets or economic  resources of the nature of immovable property and if any match with the  designated individuals/entities is found, the UAPA nodal officer of the  State/UT would cause communication of the complete particulars of such  individual/entity along with complete details of the financial assets or  economic resources of the nature of immovable property to the Joint Secretary  (IS.I), Ministry of Home Affairs, immediately within 24 hours at Fax  No.011-23092569 and also convey over telephone on 011-23092736. The particulars  apart from being sent by post should necessarily be conveyed on e-mail.
+9. The UAPA  nodal officer of the State/UT may cause such inquiry to be conducted by the  State Police so as to ensure that the particulars sent by the Registrar  performing the work of registering immovable properties are indeed of these  designated individuals/entities. This verification would be completed within a  maximum of 5 working days and should be conveyed within 24 hours of the  verification, if it matches with the particulars of the designated  individual/entity to Joint Secretary(IS-I), Ministry of Home Affairs at the Fax  telephone numbers and also on the e-mail id given below.
+10. A copy of  this reference should be sent to the Joint Secretary (IS.I), Ministry of Home  Affairs, at Fax No.011-23092569 and also convey over telephone on 011-23092736.  The particulars apart from being sent by post would necessarily be conveyed on e-mail.
+MHA may have the verification also conducted by the Central Agencies. This  verification would be completed within a maximum of 5 working days.
+11. In case,  the results of the verification indicate that the particulars match with those  of designated individuals/entities, an order under Section 51A of the UAPA  would be issued within 24 hours, by the nodal officer of IS-I Division of MHA  and conveyed to the concerned Registrar performing the work of registering  immovable properties and to FIU-IND under intimation to the concerned UAPA  nodal officer of the State/UT.
+The order shall take place without prior notice, to the  designated individuals/entities.
+12. Further,  the UAPA nodal officer of the State/UT shall cause to monitor the  transactions/accounts of the designated individual/entity so as to prohibit any  individual or entity from making any funds, financial assets or economic  resources or related services available for the benefit of the individuals or  entities listed in the schedule to the order or any other person engaged in or  suspected to be engaged in terrorism. The UAPA nodal officer of the State/UT  shall upon coming to his notice, transactions and attempts by third party  immediately bring to the notice of the DGP/Commissioner of Police of the  State/UT for also initiating action under the provisions of Unlawful Activities  (Prevention) Act.
+Implementation  of requests received from foreign countries under U.N. Security Council  Resolution 1373 of 2001.
+13. U.N.  Security Council Resolution 1373 obligates countries to freeze without delay  the funds or other assets of persons who commit, or attempt to commit,  terrorist acts or participate in or facilitate the commission of terrorist  acts; of entities owned or controlled directly or indirectly by such persons;  and of persons and entities acting on behalf of, or at the direction of such  persons and entities, including funds or other assets derived or generated from  property owned or controlled, directly or indirectly, by such persons and  associated persons and entities. Each individual country has the authority to  designate the persons and entities that should have their funds or other assets  frozen. Additionally, to ensure that effective cooperation is developed among  countries, countries should examine and give effect to, if appropriate, the  actions initiated under the freezing mechanisms of other countries.
+14. To give  effect to the requests of foreign countries under U.N. Security Council  Resolution 1373, the Ministry of External Affairs shall examine the requests  made by the foreign countries and forward it electronically, with their comments,  to the UAPA nodal officer for IS-I Division for freezing of funds or other  assets.
+15.
+The  UAPA nodal officer of IS-I Division of MHA, shall cause the request to be  examined, within 5 working days so as to satisfy itself that on the basis of  applicable legal principles, the requested designation is supported by  reasonable grounds, or a reasonable basis, to suspect or believe that the  proposed designee is a terrorist, one who finances terrorism or a terrorist  organization, and upon his satisfaction, request would be electronically  forwarded to the nodal officers in Regulators. FIU-IND and to the nodal  officers of the States/UTs. The proposed designee, as mentioned above would be  treated as designated individuals/entities.
+16. Upon  receipt of the requests by these nodal officers from the UAPA nodal officer of  IS-I Division, the procedure as enumerated at paragraphs 4 to 12 above shall be  followed.
+The freezing  orders shall take place without prior notice to the designated persons  involved.
+Procedure for  unfreezing of funds, financial assets or economic resources or related services  of individuals/entities inadvertently affected by the freezing mechanism upon  verification that the person or entity is not a designated person
+17. Any  individual or entity, if it has evidence to prove that the freezing of funds,  financial assets or economic resources or related services, owned/held by them  has been inadvertently frozen, they shall move an application giving the  requisite evidence, in writing, to the concerned bank, stock  exchanges/depositories, intermediaries regulated by SEBI, insurance companies,  Registrar of Immovable Properties and the State/UT nodal officers.
+18. The banks  stock exchanges/depositories, intermediaries regulated by SEBI, insurance  companies, Registrar of Immovable Properties and the State/UT nodal officers  shall inform and forward a copy of the application together with full details  of the asset frozen given by any individual or entity informing of the funds,  financial assets or economic resources or related services have been frozen  inadvertently, to the nodal officer of IS-I Division of MHA as per the contact  details given in paragraph 4(ii) above within two working days.
+19. The Joint  Secretary (IS-I), MHA, being the nodal officer for (IS-I) Division of MHA,  shall cause such verification as may be required on the basis of the evidence  furnished by the individual/entity and if he is satisfied, he shall pass an  order, within 15 working days, unfreezing the funds, financial assets or economic  resources or related services, owned/held by such applicant under intimation to  the concerned bank, stock exchanges/depositories, intermediaries regulated by  SEBI, insurance company and the nodal officers of States/UTs. However, if it is  not possible for any reason to pass an order unfreezing the assets within  fifteen working days, the nodal officer of IS-I Division shall inform the  applicant.
+Communication  of Orders under section 51A of Unlawful Activities (Prevention) Act.
+20. All Orders  under section 51A of Unlawful Activities (Prevention) Act, relating to funds,  financial assets or economic resources or related services, would be  communicated to all banks, depositories/stock exchanges, intermediaries  regulated by SEBI, insurance companies through respective Regulators, and to  all the Registrars performing the work of registering immovable properties,  through the State/UT nodal officer by IS-I Division of MHA.
+Regarding  prevention of entry into or transit through India
+21. As regards  prevention of entry into or transit through India of the designated  individuals, the Foreigners Division of MHA, shall forward the designated lists  to the immigration authorities and security agencies with a request to prevent  the entry into or the transit through India. The order shall take place without  prior notice to the designated individuals/entities.
+22. The  immigration authorities shall ensure strict compliance of the Orders and also  communicate the details of entry or transit through India of the designated  individuals as prevented by them to the Foreigners' Division of MHA.
+Procedure for  communication of compliance of action taken under Section 51A.
+23. The nodal  officers of IS-I Division and Foreigners Division of MHA shall furnish the  details of funds, financial assets or economic resources or related services of  designated individuals/entities frozen by an order, and details of the  individuals whose entry into India or transit through India was prevented,  respectively, to the Ministry of External Affairs for onward communication to  the United Nations.
+24. All  concerned are requested to ensure strict compliance of this order.
+(D .Diptivilasa)
+Joint Secretary to Government of India
+Annex IV
+(Paragraph No. 2.6 (iii))
+{to be published in the Gazette of India Extraordinary,  Part II,
+Section 3, Sub-Section (i)}
+Government of India
+Ministry of Finance
+(Department of Revenue)
+Notification
+New Delhi, the 16th December, 2010
+GSR (E) – In exercise of the powers  conferred by sub-section (1) read with clauses (h) (i), (j) and (k) of  sub-section (2) of Section 73 of the Prevention of Money-laundering Act, 2002  (15 of 2003), the Central Government hereby makes the following amendments to  the Prevention of Money-laundering (Maintenance of Records of the Nature and  Value of Transactions, the Procedure and Manner of Maintaining and Time for  Furnishing Information and Verification and Maintenance of Records of the  Identity of the Clients of the Banking Companies, Financial Institutions and  Intermediaries) Rules, 2005, namely:-
+(1) (1)These rules may be called the  Prevention of Money-laundering (Maintenance of Records of the Nature and Value  of Transactions, the Procedure and Manner of Maintaining and Time for  Furnishing Information and Verification and Maintenance of Records of the  Identity of the Clients of the Banking Companies, Financial Institutions and  Intermediaries) Third Amendment Rules, 2010.
+(2) They shall come into force on the  date of their publication in the Official Gazette.
+2. In the Prevention of  Money-laundering (Maintenance of Records of the Nature and Value of  Transactions, the Procedure and Manner of Maintaining and Time for Furnishing  Information and Verification and Maintenance of Records of the Identity of the  Clients of the Banking Companies, Financial Institutions and Intermediaries)  Rules, 2005,-
+(a) in rule 2,-
+(i) after clause (b), the following  clause shall be inserted, namely:-
+“(bb) “Designated Officer” means any officer or a class of officers authorized  by a banking company, either by name or by designation, for the purpose of  opening small accounts”.
+(ii) in clause (d), for the words “the  Election Commission of India or any other document as may be required by the  banking company or financial institution or intermediary”, the words “Election  Commission of India, job card issued by NREGA duly signed by an officer of the  State Government, the letter issued by the Unique Identification Authority of  India containing details of name, address and Aadhaar number or any other  document as notified by the Central Government in consultation with the Reserve  Bank of India or any other document as may be required by the banking  companies, or financial institution or intermediary” shall be substituted;
+(iii) after clause (fa), the following  clause shall be inserted, namely:-
+“(fb) “small account” means a savings  account in a banking company where-
+(i) the aggregate of all credits in a financial year does not exceed rupees one  lakh,
+(ii)  the aggregate of all  withdrawals and transfers in a month does not exceed rupees ten thousand, and;
+(iii) the balance at any point of time  does not exceed rupees fifty thousand”.
+(b) In rule 9, after sub-rule (2), the  following sub-rule shall be inserted, namely:-
+“(2A) Notwithstanding anything  contained in sub-rule (2), an individual who desires to open a small account in  a banking company may be allowed to open such an account on production of a  self-attested photograph and affixation of signature or thumb print, as the  case may be, on the form for opening the account.
+Provided that –
+(i) the designated officer of the  banking company, while opening the small account, certifies under his signature  that the person opening the account has affixed his signature or thumb print,  as the case may be, in his presence;
+(ii) a small account shall be opened  only at Core Banking Solution linked banking company branches or in a branch  where it is possible to manually monitor and ensure that foreign remittances  are not credited to a small account and that the stipulated limits on monthly  and annual aggregate of transactions and balance in such accounts are not  breached, before a transaction is allowed to take place;
+(iii) a small account shall remain  operational initially for a period of twelve months, and thereafter for a  further period of twelve months if the holder of such an account provides  evidence before the banking company of having applied for any of the officially  valid documents within twelve months of the opening of the said account, with the  entire relaxation provisions to be reviewed in respect of the said account  after twenty four months.
+(iv) a small account shall be  monitored and when there is suspicion of money laundering or financing of  terrorism or other high risk scenarios, the identity of client shall be  established through the production of officially valid documents, as referred  to in sub rule ( 2) of rule 9"; and
+(v) foreign remittance shall not be  allowed to be credited into a small account unless the identity of the client is  fully established through the production of officially valid documents, as  referred to in sub-rule (2) of rule 9.”
+(Notification  No.14/2010/F.No.6/2/2007-ES)
+(S.R. Meena)
+Under Secretary
+Note
+: The principal rules were published  in Gazette of India, Extraordinary, Part-II, Section 3, Sib-Section (i) vide  number G.S.R.444 (E), dated the 1st July, 2005 and subsequently amended by  number G.S.R.717 (E), dated the 13th December, 2005, number G.S.R. 389(E),  dated the 24th May, 2007, number G.S.R. 816(E), dated the 12th November, 2009,  number G.S.R.76 (E), dated the 12th February, 2010 and number G.S.R. 508(E),  dated the 16th June, 2010.
+Annex V
+(Paragraph 2.5 (ix) (b) & (c) and 2.6 (B))
+Operational    Procedure to be followed by UCBs for e-KYC exercise
+The e-KYC service of the UIDAI is to be leveraged by    UCBs through a secured network. Any UCB willing to use the UIDAI e-KYC    service is required to sign an agreement with the UIDAI. The process flow to    be followed is as follows :
+1.
+Sign KYC User Agency (KUA) agreement with UIDAI to    enable the UCB to specifically access e-KYC service.
+2.
+UCBs to deploy hardware and software for deployment of    e-KYC service across various delivery channels. These should be    Standardisation Testing and Quality Certification (STQC) Institute,    Department of Electronics & Information Technology, Government of India    certified biometric scanners at bank branches / micro ATMs / BC points as per    UIDAI standards. The current list of certified biometric scanners is given in    the link below :
+http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613.pdf
+3.
+Develop a software application to enable the use of    e-KYC across various Customer Service Points (CSP) (including bank branches,    BCs etc.) as per UIDAI defined Application Programming Interface (API)    protocols. For this purpose UCBs will have to develop their own software    under the broad guidelines of UIDAI. Therefore, the software may differ from    UCB to UCB.
+4.
+Define a procedure for obtaining customer authorization    to UIDAI for sharing e-KYC data with the UCB. This authorization can be in    physical (by way of a written explicit consent authorising UIDAI to share his    / her Aadhaar data with the UCB / BC for the purpose of opening bank account)    / electronic form as defined by UIDAI from time to time.
+5.
+Sample process flow would be as follows :
+a.
+Customer walks into CSP of a UCB with his / her    12-digit Aadhaar number and explicit consent and requests to open a bank    account with Aadhaar based e-KYC.
+b.
+UCB representative manning the CSP enters the number    into bank's e-KYC application software.
+c.
+The customer inputs his / her biometrics via a UIDAI    compliant biometric reader (e.g. fingerprints on a biometric reader).
+d.
+The software application captures the Aadhaar number    along with biometric data, encrypts this data and sends it to UIDAI's Central    Identities Data Repository (CIDR).
+e.
+The Aadhaar KYC service authenticates customer data. If    the Aadhar number does not match with the biometrics, UIDAI server responds    with an error with various reason codes depending on type of error (as    defined by UIDAI).
+f.
+If the Aadhaar number matches with the biometrics,    UIDAI responds with digitally signed and encrypted demographic information    [Name, year / date of birth, Gender, Address, Phone and email (if available)]    and photograph. This information is captured by UCB's e-KYC application and    processed as needed.
+g.
+UCB's servers auto populate the demographic data and    photograph in relevant fields. It also records the full audit trail of e-KYC    viz. source of information, digital signatures, reference number, original    request generation number, machine ID for device used to generate the    request, date and time stamp with full trail of message routing, UIDAI encryption    date and time stamp, UCB's decryption date and time stamp, etc.
+h.
+The photograph and demographics of the customer can be    seen on the screen of computer at bank branches or on a hand held device of    BCs for reference.
+i.
+The customer can open bank account subject to    satisfying other account opening requirements.
+Annex VI
+(Paragraph No. 2.5 (xiv))
+Category
+Eligible Foreign    Investors
+I
+Government and    Government related foreign investors such as Foreign Central Banks,    Governmental Agencies, Sovereign Wealth Funds, International/ Multilateral    Organizations/ Agencies.
+II
+Appropriately         regulated broad based funds such as Mutual Funds, Investment Trusts,         Insurance /Reinsurance Companies, Other Broad Based Funds etc.
+Appropriately         regulated entities such as Banks, Asset Management Companies, Investment         Managers/ Advisors, Portfolio Managers etc.
+Broad based funds         whose investment manager is appropriately regulated.
+University Funds         and Pension Funds.
+University         related Endowments already registered with SEBI as FII/Sub Account.
+III
+All other eligible    foreign investors investing in India under PIS route not eligible under    Category I and II such as Endowments, Charitable Societies/Trust,    Foundations, Corporate Bodies, Trusts, Individuals, Family Offices, etc.
+Annex VII
+(Paragraph No. 2.5 (xiv))
+KYC documents  for eligible FPIs under PIS
+FPI Type
+Document Type
+Category I
+Category II
+Category III
+Entity Level
+Constitutive    Documents (Memorandum and Articles of Association, Certificate of    Incorporation etc.)
+Mandatory
+Mandatory
+Mandatory
+Proof of    Address
+Mandatory    (Power of Attorney {PoA} mentioning the address is acceptable as address    proof)
+Mandatory    (Power of Attorney mentioning the address is acceptable as address proof)
+Mandatory    other than Power of Attorney
+PAN Card
+Mandatory
+Mandatory
+Mandatory
+Financial    Data
+Exempted *
+Exempted *
+Mandatory
+SEBI    Registration Certificate
+Mandatory
+Mandatory
+Mandatory
+Board    Resolution
+Exempted *
+Mandatory
+Mandatory
+Senior    Management
+(Whole Time Directors/ Partners/ Trustees/ etc.)
+List
+Mandatory
+Mandatory
+Mandatory
+Proof of    Identity
+Exempted *
+Exempted *
+Entity    declares* on letter head full name, nationality, date of birth or submits    photo identity proof
+Proof of    Address
+Exempted *
+Exempted *
+Declaration    on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+Authorized
+Signatories
+List and    Signatures
+Mandatory –    list of Global Custodian signatories can be given in case of PoA to Global    Custodian
+Mandatory -    list of Global Custodian signatories can be given in case of PoA to Global    Custodian
+Mandatory
+Proof of    Identity
+Exempted *
+Exempted *
+Mandatory
+Proof of    Address
+Exempted *
+Exempted *
+Declaration    on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+Ultimate    Beneficial Owner (UBO)
+List
+Exempted *
+Mandatory    (can declare “no UBO over 25%”)
+Mandatory
+Proof of    Identity
+Exempted *
+Exempted *
+Mandatory
+Proof of    Address
+Exempted *
+Exempted *
+Declaration    on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+* Not required while opening    the bank account. However, FPIs concerned may submit an undertaking that upon    demand by Regulators/Law Enforcement Agencies the relative document/s would    be submitted to the bank.
+APPENDIX
+Master  Circular – Know Your Customer (KYC) norms / Anti-Money Laundering (AML)
+Standards/Combating of Financing of Terrorism (CFT)/Obligation of banks under  PMLA, 2002
+List  of Circulars consolidated in the Master Circular
+No.
+Circular No
+Date
+Subject
+1
+UBD.BPD    (PCB) Cir. No. 69 /14.01.062/2013-14
+10.06.2014
+Know    Your Customer (KYC) Norms/Anti-Money Laundering (AML) Standards/ Combating of    Financing of Terrorism (CFT) /Obligation of banks under Prevention of Money    Laundering Act (PMLA), 2002 – Clarification on Proof of Address - Primary (Urban) Co-operative Banks
+2
+UBD.BPD.(PCB).Cir.No.9/14.01.062/2013-14
+26.05.2014
+Know    Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards /
+          Combating of Financing of Terrorism (CFT) / Obligation of banks under    Prevention of
+          Money Laundering Act (PMLA), 2002 - Harmonization of KYC Norms for
+          Foreign Portfolio Investors (FPIs) -    Primary (Urban) Co-operative Banks
+3
+UBD.BPD    (PCB) Cir.No. 54/14.01.062/2013-14
+07.04.2014
+Reporting    of Cross Border Wire Transfer Report on FINnet Gateway - Primary (Urban) Co-operative Banks
+4
+UBD.BPD.(PCB).Cir.No.50/14.01.062/2013-14
+06.03.2014
+Know    Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating
+          Financing of Terrorism (CFT) / Obligation of banks under Prevention of Money    Laundering Act
+          (PMLA), 2002 - Recognising e-Aadhaar as an 'Officially Valid Document' under
+PML Rules - Primary (Urban)    Co-operative Banks
+5
+UBD.BPD.(PCB).Cir.No.48/14.01.062/2013-14
+18.02.2014
+Know    Your Customer (KYC) Norms / Anti-Money Laundering (AML)
+          Standards / Combating of Financing of Terrorism (CFT) / Obligation of
+          Banks under Prevention of Money Laundering Act (PMLA), 2002 -
+          Amendment to Section 13(2) - Primary    (Urban) Co-operative Banks
+6
+UBD.BPD.(PCB).Cir.No.32/14.01.062/2013-14
+22.10.2013
+Know    Your Customer (KYC) / Anti Money Laundering (AML) Standards /
+          Combating Financing of Terrorism (CFT) / Obligation of 
+          Banks under Prevention of Money Laundering Act (PMLA), 2002 -
+          'At par' Cheque Facility extended to Cooperative Banks by Scheduled    Commercial Banks
+7
+UBD.BPD.(PCB).Cir.No.15/14.01.062/2013-14
+17.09.2013
+Know    Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards /
+          Combating Financing of Terrorism (CFT) / Obligation of Banks under Prevention    of
+          Money Laundering Act (PMLA), 2002 - e-KYC Service of UIDAI - Recognising
+          on-line Aadhaar Authentication (Electronic Verification Process) to be    accepted as an
+          'Officially Valid Document' under PML Rules - Primary (Urban) Co-operative Banks
+8
+UBD.BPD(AD).Cir.No.4/14.01.062/2013-14
+10.09.2013
+KYC    Procedure for
+          Opening of Bank Accounts - Foreign    Students Studying in India - Primary    (Urban) Co-operative Banks - Primary (Urban) Co-operative Banks
+9
+UBD.BPD.(PCB).Cir.No.11/14.01.062/2013-14
+05.09.2013
+Know    Your Customer (KYC) / Anti Money Laundering (AML) 
+          Standards / Combating Financing of Terrorism (CFT) / Obligation of 
+          Banks under Prevention of Money Laundering Act (PMLA), 2002 - Information
+          Sought by Banks from Customers -    Primary (Urban) Co-operative Banks
+10
+UBD.BPD.(PCB).Cir.No.2/14.01.062/2013-14
+31.07.2013
+Know    Your Customer (KYC) / Anti Money Laundering (AML) Standards /
+          Combating Financing of Terrorism (CFT) / Obligation of Banks under Prevention    of Money
+          Laundering Act (PMLA), 2002 - Simplifying Norms for Periodical Updation of
+          KYC - Primary (Urban) Co-operative    Banks
+11
+UBD.BPD(PCB)Cir.No.54/14.01.062/2012-13
+06.06.2013
+Know Your Customer (KYC) / Anti-Money Laundering    (AML) / Combating of
+          Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code 
+          (UCIC) for Banks' Customers in India - Primary (Urban) Co-operative Banks
+12
+UBD.BPD(PCB)Cir.No.46/14.01.062/2012-13
+03.04.2013
+Know Your Customer (KYC) Norms /    Anti-Money Laundering (AML)
+          Measures / Combating of Financing of Terrorism (CFT) / Obligations of 
+          Banks under Prevention of Money Laundering Act (PMLA), 2002
+          Simplifying Norms for Self Help Groups - Primary (Urban) Co-operative Banks
+13
+UBD.BPD(PCB)Cir.No.39/14.01.062/2012-13
+07.03.2013
+Know Your Customer (KYC) Norms / Anti-Money    Laundering (AML) Measures / 
+          Combating of Financing of Terrorism (CFT) / Obligations of Banks under 
+          Prevention of Money Laundering Act (PMLA), 2002 - Primary (Urban)    Co-operative Banks
+14
+UBD.CO.PCB.Cir.No.37/14.01.062/2012-13
+25.02.2013
+Know Your Customer (KYC) Norms / Anti-Money    Laundering (AML) 
+          Measures - Combating of Financing of Terrorism (CFT) / Obligations of
+          Banks under Prevention of Money Laundering Act (PMLA), 2002
+15
+UBD.BPD(PCB)Cir.No.34/14.01.062/2012-13
+28.01.2013
+Know Your Customer (KYC) Norms / Anti-Money    Laundering (AML) 
+          Measures / Combating of Financing of Terrorism (CFT) / Obligations of 
+          Banks under Prevention of Money Laundering Act (PMLA), 2002
+16
+UBD.BPD(PCB)Cir.No.28/14.01.062/2012-13
+19.12.2012
+Know Your Customer (KYC) norms / Anti-Money    Laundering (AML) Standards / 
+          Combating of Financing of Terrorism (CFT) / Obligation of banks under 
+          Prevention of Money Laundering Act    (PMLA), 2002
+17
+UBD.BPD.(PCB).Cir.No.14/14.01.062/2012-13
+09.10.2012
+Know Your Customer (KYC) / Anti-Money Laundering    (AML) / Combating of 
+          Financing of Terrorism (CFT) Guidelines - Unique Customer Identification Code 
+          (UCIC) for banks' customers in India    - Primary (Urban) Co-operative Banks
+18
+UBD.BPD.(PCB).Cir.No.8/14.01.062/2012-13
+13.09.2012
+Know Your Customer (KYC) / Anti-Money Laundering    (AML) /
+Combating of Financing of Terrorism (CFT) - Risk Categorization and
+Updation of Customer Profiles - Primary (Urban) Co-operative Banks
+19
+UBD.CO.BPD(PCB).No.    34/12.05.001/2011-12
+11.05.2012
+Know Your    Customer (KYC) Guidelines – Accounts of Proprietary Concerns
+20
+UBD.CO.BPD.No.24/12.05.001/2011-12
+05.03.2012
+Know Your    Customer (KYC) norms/Anti Money Laundering Standards/Combating of Financing    of Terrorism (CFT)/Obligation of banks under Prevention of Money Laundering    Act (PMLA), 2002- Assessment and monitoring of risk
+21
+UBD.BPD.(PCB).Cir.No.20/14.01.062/2011-12
+01.03.2012
+Implementation    of Section 51A of UAPA, 1967 – Splitting of UNSC 1267 Committee’s list of    individuals and entities linked to Al Qaida and Taliban
+22
+UBD.CO.BPD.No.    10/12.05.001/2011-12
+09.11.2011
+Prevention of    Money Laundering Act, 2002 (PMLA) and Rules there under – Reporting of CTR,    STR etc. to FIU-India- Reporting format under project FINnet
+23
+UBD.BPD.PCB.No.    8/12.05.001/2011-12
+09.11.2011
+Know Your    Customer Norms – Letter issued by Unique Identification Authority of India    (UIDAI) containing details of name, address and Aadhaar number
+24
+UBD.    CO. BPD. (PCB). Cir. No.9 /14.01.062/2010-11
+02.05.2011
+Anti-Money    Laundering (AML) Standards / Combating Financing of Terrorism (CFT)    –Standards – Primary (Urban) Co-operative Banks
+25
+UBD.    CO. BPD.(PCB). Cir. No. 8/14.01.062/2010-11
+02.05.2011
+Anti-Money    Laundering (AML) Standards / Combating Financing of Terrorism (CFT)    –Standards – Primary (Urban) Co-operative Banks
+26
+UBD.    CO. BPD.(PCB). Cir. No. 7 /14.01.062/2010-11
+17.03.2011
+Anti-Money    Laundering (AML) Standards / Combating Financing of Terrorism (CFT)
+27
+UBD.    CO. BPD. (PCB) Cir. No. 6/14.01.062/2010-11
+17.03.2011
+Anti-Money    Laundering (AML) Standards / Combating Financing of Terrorism (CFT) -    Standards
+28
+UBD.BPD    (PCB) No. 38/12.05.001/2010-11
+15.03.2011
+Amendments to    Prevention of Money Laundering Rules, 2005
+29
+UBD.    BPD.(PCB). No. 37/12.05.001/2010-11
+18.02.2011
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002
+30
+UBD.    CO. BPD. No. 35/12.05.001/2010-11
+10.01.2011
+Opening of    bank accounts – Salaried employees
+31
+UBD.    BPD. (PCB).No. 32/12.05.001/2010-11
+28.12.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002
+32
+UBD.    BPD. (PCB). Cir. No. 17 / 14.01.062/2010-11
+25.10.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering Standards (AML) / Combating    Financing of Terrorism
+33
+UBD.    BPD. (PCB). Cir. No.12/12.05.001/2010-11
+15.09.2010
+Prevention of    Money Laundering ( Maintenance of the Records of the Nature and Value of    Transactions, the Procedure and Manner of Maintaining and Time for Furnishing    information and Verification and Maintenance of records of the identity of    the Clients of the Banking companies, Financial Institutions and    Intermediaries) Second Amendment Rules, 2010 – Obligation of banks
+34
+UBD.    BPD. (PCB) No. 11 /12.05.001/2010-11
+25.08.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002
+35
+UBD.    BPD. (PCB) No. 10/12.05.001/2010-11
+23.08.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002
+36
+UBD.    BPD. (PCB) No. 9 / 12.05.001/2010-11
+23.08.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002
+37
+UBD.    BPD. (PCB) Cir. No. 7/14.01.062/2010-11
+12.08.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering Standards (AML) / Combating    Financing of Terrorism
+38
+UBD.BPD.(PCB).Cir.No.    71/12.05.001/2009-10
+15.06.2010
+Prevention of    Money Laundering ( Maintenance of the Records of the Nature and Value of    Transactions, the Procedure and Manner of Maintaining and Time for Furnishing    information and Verification and Maintenance of records of the identity of    the Clients of the Banking companies, Financial Institutions and    Intermediaries)Amendment Rules, 2010 – Obligation of banks / All India    Financial Institutions
+39
+UBD.BPD.    CO.53/14.01.062/2009-2010
+01.04.2010
+Know Your    Customer (KYC) Norms / Anti-Money Laundering Standards (AML) / Combating    Financing of Terrorism
+40
+UBD.    BPD. (PCB).Cir. No. 41/12.05.001/2009-10
+03.02.2010
+Prevention    of Money-laundering (Maintenance of Records of the Nature and Value of    Transactions, the Procedure and Manner of Maintaining and Time for Furnishing    Information and Verification and Maintenance of Records of the Identity of    the Clients of the Banking Companies, Financial Institutions and    Intermediaries) Amendment Rules, 2009 - Obligation of banks / Financial    institutions
+41
+UBD.    BPD.CO.NSB 1/38/1203.000/2009-10
+23.12.2009
+Know Your    Customer (KYC) Guidelines – Accounts of Proprietary Concern
+42
+UBD.(PCB) CO.    BPD.Cir.No.36/14.01.062/2009-10
+18.12.2009
+Know Your    Customer (KYC) Norms / Anti Money Laundering (AML) Standards / Combating of    Financing of Terrorism (CFT)
+43
+UBD.(PCB) CO.    BPD.Cir.No. 35/14.01.062/2009-10
+17.12.2009
+Know Your    Customer (KYC) Norms / Anti Money Laundering (AML) Standards / Combating of    Financing of Terrorism (CFT)
+44
+UBD.(PCB).    CO. BPD.Cir. No.33 /14.01.062/2009-10
+17.12.2009
+Know Your    Customer (KYC) Norms /Anti-Money Laundering (AML) Standards / Combating of    Financing of Terrorism (CFT)
+45
+UBD.CO.BPD.PCB.Cir.No.    23/12.05.001/2009-10
+16.11.2009
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating    Financing of Terrorism (CFT) / Obligation of Banks under Prevention of Money    Laundering Act, 2002 – Urban Cooperative Banks
+46
+UBD.CO.BPD.PCB.Cir.No.21/12.05.001/2009-10
+16.11.2009
+Combating    Financing of Terrorism – Unlawful Activities (Prevention) Act, 1967 –    Obligation of Banks – Urban Cooperative Banks
+47
+UBD.    BPD.CO./NSB1/11/12.03.000/2009-10
+29.09.2009
+Know Your    Customer (KYC) Guidelines – Accounts of Proprietary Concern
+48
+UBD.CO.    BPD.PCB.Cir.No. 9/12.05.001/2009-10
+16.09.2009
+Adherence to    KYC/AML guidelines while opening and conduct of the accounts of Multi Level    Marketing Firms
+49
+UBD.    CO. BPD (PCB) No. 1/12.05.001/2008-09
+02.07.2008
+Prevention of    Money Laundering Act, 2002 – Obligation of banks in terms of Rules notified    there under – UCBs
+50
+UBD.CO.BPD.(PCB).    No. 32 /09.39.000/2007-08
+25.02.2008
+Know Your    Customer (KYC) Norms / Ant-Money Laundering (AML) Standards / Combating of    Financing of Terrorism
+51
+UBD.    CO. BPD. (PCB) No. 45/12.05.001/2006-07
+25.05.2007
+Know Your    Customer (KYC) Norms / Anti-Money Laundering (AML) Standards / Combating of    Financing of Terrorism (CFT) Wire Transfers
+52
+UBD.BPD.    Cir. No.38 /09.16.100/2005-06
+21.03.2006
+Prevention of    Money Laundering Act, 2002 – Obligation of banks in terms of Rules notified    there under – UCBs
+53
+UBD.BPD.PCB.Cir.11    /09.161.00/2005-06
+23.08.2005
+Know Your    Customer Guidelines – Anti-Money laundering Standards – UCBs
+54
+UBD.PCB.Cir.No.6    /09.161.00/2005-06 dated August 3, 2005
+03.08.2005
+Facilitating    opening of bank accounts for flood affected persons
+55
+UBD.PCB.Cir.    30/09.161.00/2004-05
+15.12.2004
+Know Your    Customer (KYC) Guidelines – Anti-Money Laundering Standards – UCBs
+56
+UBD.BPD.PCB.Cir.02/09.161.00/2004-05
+09.07.2004
+‘Know Your    Customer’ Guidelines - Compliance
+57
+UBD.BPD.PCB.Cir.    48/09.161.00/2003-04
+29.05.2004
+‘Know Your    Customer’ Guidelines – Compliance
+58
+UBD.No.BPD.PCB.Cir.    41/09.161.00/2003-04
+26.03.2004
+‘Know Your    Customer’ Guidelines – Compliance
+59
+UBD.No.DS.PCB.Cir.17/13.01.00/2002-03
+18.09.2002
+Guidelines on    ‘Know Your Customer ‘Norms and ‘Cash Transactions’

@@ -1,0 +1,36 @@
+(1332 kb)
+Data Quality Index for Commercial and Microfinance Segments by Credit Information Companies
+RBI/2023-24/62
+DoR.FIN.REC.39/20.16.056/2023-24
+September 20, 2023
+All Commercial Banks (including Small Finance Banks, Local Area Banks and Regional Rural Banks)
+All Primary (Urban) Co-operative Banks/State Co-operative Banks/ Central Co-operative Banks
+All-India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NaBFID)
+All Non-Banking Financial Companies (including Housing Finance Companies)
+All Asset Reconstruction Companies
+All Credit Information Companies
+Dear Sir/ Madam,
+Data Quality Index for Commercial and Microfinance Segments by Credit Information Companies
+Please refer to our
+circular DBOD.No.CID.BC.127/20.16.056/2013-14 dated June 27, 2014
+, inter alia setting out a common Data Quality Index (DQI) for assessing the quality of data submissions by Credit Institutions (CIs) to Credit Information Companies (CICs) and improving the same over a period of time. Currently, the DQI is being used for data submitted under the consumer segment.
+2. With a view to enable further implementation of DQI, it has been decided that CICs shall prepare DQIs for Commercial and Microfinance segments also as per
+Annex I
+and
+II
+, respectively. CICs shall provide the DQIs for Commercial and Microfinance segments to all CIs latest by March 31, 2024.
+3. Further, CICs are advised as under:
+CICs shall provide DQIs for Commercial and Microfinance segments in the form of numeric scores on a monthly basis to all member credit institutions.
+DQI scores for Commercial and Microfinance segments shall be provided at CI and file level. The DQI scores for Commercial and Microfinance segments at CI level shall be computed as weighted average of file level DQI scores of commercial and microfinance segment respectively of that CI.
+CICs shall compute industry level DQIs for each of the three reporting segments
+1
+as weighted average of the CI level DQI in their respective category (e.g. Public Sector Banks, Private Sector Banks, Foreign Banks, Co-operative Banks, RRBs, NBFCs etc.) on monthly basis. Further, a half yearly Industry Benchmark shall be calculated as a rolling average of preceding six months Industry level DQI score of respective category of CIs.
+CICs shall provide reasons for decline in score to each CI, if its (a) CI level score has declined over the previous month or (b) CI level score is lower than the half yearly industry benchmark.
+CICs shall provide monthly data of CI level DQI and industry level DQI of all segments to Department of Supervision, Reserve Bank of India, Central Office at half yearly intervals as on September 30 and March 31 each year, for information and monitoring purposes.
+4. CIs are advised to undertake half yearly review of the DQI for all segments to improve the quality of the data being submitted to CICs. Corrective steps taken on the above issues along with a report on the same shall be placed before its top management by each CI for review within two months from the end of that half-year.
+Yours faithfully
+(J. P. Sharma)
+Chief General Manager
+Encl: Annex I and II
+1
+Viz. Consumer, Commercial and Microfinance segments

@@ -1,0 +1,22 @@
+(123 kb)
+RRBs/StCBs/CCBs - Reporting of Cross Border Wire Transfer Report on FINnet Gateway
+RBI/2013-14/572
+RPCD.RRB.RCB.AML.BC.No.97/07.51.018/2013-14
+April 25,  2014
+The  Chairmen/CEOs
+All  Regional Rural Banks (RRBs) and
+State/Central  Cooperative Banks (StCBs/CCBs)
+Madam/Dear Sir,
+Reporting  of Cross Border Wire Transfer Report on FINnet Gateway
+Please refer to our  circular
+RPCD.CO.RRB.RCB.AML.BC.No.36/03.05.33(E)/2012-13  dated October 15, 2012
+on ‘Uploading of Reports on FINnet Gateway’ wherein Regional Rural  Banks (RRBs) and State/Central Cooperative Banks (StCBs/CCBs) and financial institutions were advised to upload  reports as required by FIU-IND using only FINnet gateway.
+2. With  the amendments to Prevention of Money Laundering (PML) Rules, notified by the  Government of India vide Notification No. 12 of 2013 dated August 27, 2013 and  in terms of amended Rule 3, every reporting entity is required to maintain the  record of all transactions including the record of all cross border wire  transfers of more than Rs. 5 lakh or its equivalent in foreign currency, where  either the origin or destination of the fund is in India. FIU-IND has advised that the  information of all such transactions may be furnished to Director, FIU-IND by  15th of the succeeding month.
+3. In this  regard, it is advised that the ‘Transaction Based Reporting Format’ (TRF)  already developed by FIU-IND and being used for reporting Cash Transaction  Reports (CTRs), Suspicious Transaction Reports (STRs) and Non-Profit  Organizations Transaction Reports (NTRs) may be used for reporting the Cross  Border Wire Transfers. The information may be furnished electronically in the  FINnet module developed by FIU-IND. All RRBs and StCBs/CCBs are accordingly advised to take  action as required by FIU-IND and ensure that reports are submitted in time as  per the schedule.
+4. The format along with  sample data filled in as an illustration is available in the ‘Downloads’  section of the FIU-IND website (
+http://fiuindia.gov.in
+).
+5. The Compliance Officer /  Principal Officer may acknowledge receipt of this circular to our Regional  Office concerned.
+Yours faithfully,
+(A. Udgata)
+Principal Chief General Manager

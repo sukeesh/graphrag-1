@@ -1,0 +1,53 @@
+(46 kb)
+Setting up of IFSC Banking Units (IBUs) – Permissible activities
+RBI/2016-17/273
+DBR.IBD.BC.59/23.13.004/2016-17
+April 10, 2017
+All Scheduled Commercial Banks
+(excluding Regional Rural Banks)
+Dear Sir/Madam,
+Setting up of IFSC Banking Units (IBUs) – Permissible activities
+Please refer to
+RBI circular DBR.IBD.BC.14570/23.13.004/2014-15 dated April 01, 2015
+, as modified from time to time, setting out RBI directions relating to IFSC Banking Units (IBUs). We have received a few suggestions and queries from the stakeholders regarding operations of the IBUs and financial institutions in IFSCs. These issues have been examined and the directions stand further modified as follows:
+2. The existing paragraph No.2.6 (vii) of Annex I and II of the aforesaid
+circular dated April 1, 2015
+is amended to read as follows:
+“With the prior approval of their board of directors, IBUs may undertake derivative transactions including structured products that the banks operating in India have been allowed to undertake as per the extant RBI directions. However, IBUs shall obtain RBI’s prior approval for offering any other derivative products. Before seeking RBI’s approval, banks shall ensure that their IBUs have necessary expertise to price, value and compute the capital charge and manage the risks associated with the products / transactions intended to be offered and should also obtain their Board’s approval for undertaking such transactions.”
+3. A new paragraph No.2.6 (x) is added to the Annex I and II of the aforesaid
+circular dated April 1, 2015
+, which reads as under:
+“The fixed deposits accepted from non-banks by the IBUs cannot be repaid pre-maturely within the first year. However, fixed deposits accepted as collateral from non-banks for availing credit facilities from IBUs or deposited as margin in favour of an exchange, can be adjusted prematurely in the event of default in repayment of the loan or meeting a margin call.”
+4. New paragraphs No.2.6 (xi) and (xii) are added to the Annex I and II of the aforesaid
+circular dated April 1, 2015
+, which read as under:
+“(xi) An IBU can be a
+Trading Member
+of an exchange in the IFSC for trading in interest rate and currency derivatives segments that the banks operating in India have been allowed to undertake as per the extant RBI directions.
+(xii) An IBU can become a
+Professional Clearing Member (PCM)
+of the exchange in the IFSC for clearing and settlements in any derivatives segments. This shall be subject to the following conditions:
+The parent bank of the IBU (“the bank”) shall fulfil the prudential requirements as set out in Para 21 of the
+Master Direction/DBR.FSD.No.101/ 24.01.041/2015-16 dated May 26, 2016
+.
+The IBU shall, with the approval of the bank’s Board, put in place effective risk control measures, prudential limits on risk exposure in respect of each of its trading clients, taking into account their net worth, business turnover, etc.
+The IBU may, as a PCM of derivatives segments, guarantee trades executed by its clients as trading members of the exchanges subject to the condition that the total exposure which the bank would take on its registered clients should be determined by the Board in relation to the net worth of the bank and monitored regularly. However, the IBU should not guarantee any transaction other than what is required in its role as a PCM.
+The IBU shall ensure strict compliance with various margin requirements as may be prescribed by the bank’s Board as also the extant RBI guidelines regarding guarantees issued on behalf of commodity brokers.
+The IBU shall comply with all the conditions, if any, stipulated by other regulatory bodies that may be relevant for their role as a PCM.”
+5. A new paragraph No.2.6 (xiii) is added to the Annex I and II of the aforesaid
+circular dated April 1, 2015
+, which reads as under:
+“IBUs are allowed to extend facility of bank guarantees and short term loans to IFSC stock broking/commodity broking entities, subject to the terms and conditions contained in paragraph 2.3.1.2 of the Master Circular on Statutory Restrictions on Loans and Advances dated July 1, 2015.”
+6. The following text is added at the end of paragraph 2.11 of Annex I and II of the aforesaid
+circular dated April 1, 2015
+:
+“As per
+FEMA Notification No.339/2015-RB dated March 02, 2015
+, a financial institution or a branch of a financial institution set up in the IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority shall be treated as a person resident outside India. Further, under
+FEMA Notification No.5(R)/2016-RB (schedule-4) dated April 01, 2016
+, any person resident outside India, having business interest in India, may maintain Special Non-Resident Rupee Account(s) (SNRRA) with an Authorised Dealer in the domestic sector for meeting their administrative expenses in INR. Accordingly, any financial institution (as defined under
+FEMA Notification No.339/2015-RB dated March 02, 2015
+) or a branch of a financial institution including an IBU operating in an IFSC and permitted/recognised as such by the Government of India or a Regulatory Authority, can maintain SNRRA with a bank (Authorised Dealer) in the domestic sector for meeting its administrative expenses in INR. These accounts must be funded only by foreign currency remittances through a channel appropriate for international remittances which would be subject to the extant FEMA regulations. The financial institution can make payments, permissible under FEMA regulations, from its SNRRA, in its capacity as a customer, by suitably instructing the domestic bank with whom the SNRRA is maintained.
+Yours faithfully,
+(Rajinder Kumar)
+Chief General Manager

@@ -1,0 +1,185 @@
+(280 kb)
+Operating Guidelines for Small Finance Banks
+RBI/2016-17/81
+DBR.NBD.No.26/16.13.218/2016-17
+October 6, 2016
+Chief Executive Officers of Small Finance Banks
+Madam / Dear Sir,
+Operating Guidelines for Small Finance Banks
+Please refer to the
+Guidelines for Licensing of Small Finance Banks (‘Licensing Guidelines’) dated November 27, 2014
+, under which in-principle approvals / licences were issued to the applicants for setting up of the small finance banks.
+2. The need for separate Operating Guidelines for small finance banks was examined, considering the differentiated nature of business and financial inclusion focus of these banks. Accordingly, the Operating Guidelines for small finance banks are given in the
+Annex
+.
+3. The prudential frameworks for market risk and operational risk are being examined and the instructions in this regard will be issued separately.
+4. These Operating Guidelines are supplementary to the Licensing Guidelines and take immediate effect.
+Yours faithfully,
+(S S Barik)
+Chief General Manager-in-Charge
+Annex
+Operating Guidelines for Small Finance Banks
+1. Prudential regulation
+The prudential regulatory framework for the small finance banks (SFBs) will largely be drawn from the Basel standards. However, given the financial inclusion focus of these banks, it will be suitably calibrated.
+1.1 Capital adequacy framework
+Minimum Capital Requirement
+15%
+Common Equity Tier 1
+6%
+Additional Tier I
+1.5%
+Minimum Tier I capital
+7.5%
+Tier 2 capital
+7.5%
+Capital Conservation Buffer
+Not Applicable
+Counter-cyclical capital buffer
+Not applicable
+Pre-specified Trigger for conversion of AT1
+CET1 at 6% up to March 31, 2019, and 7% thereafter
+1.2 Leverage Ratio
+Leverage Ratio
+4.5%
+Calculated as percentage of Tier I capital to Total Exposure
+1.3 Liquidity Coverage Ratio and Net Stable Funding Ratio
+LCR, as applicable to scheduled commercial banks, will be applicable to small finance banks. The transition period for the SFBs for achieving the prescribed level of LCR would be as follows:
+Till Dec. 31, 2017
+By Jan 1, 2018
+By Jan 1, 2019
+By Jan 1, 2020
+By Jan 1, 2021
+Min LCR
+60%
+70%
+80%
+90%
+100%
+NSFR will be applicable to small finance banks on par with scheduled commercial banks as and when finalised.
+1.4 Capital measurement approaches
+Credit Risk
+Basel II Standardized Approach for credit risk. In this connection, it is clarified that the use of external rating based risk weight for rated exposure and regulatory retail approach for small retail loans is permitted.
+1.5 Inter-bank borrowings
+SFBs will be allowed exemption from the existing regulatory ceiling on inter-bank borrowings till the existing loans mature or up to three years, whichever is earlier. Afterwards, it will be on par with scheduled commercial banks. In this context, it is clarified that the borrowings made by the SFB after the commencement of operations will be subject to inter-bank borrowing limits. The above exemption is only applicable to the legacy borrowings that are migrated to the opening balance sheet of the SFB on the day of commencement of operations.
+1.6 Investment classification and valuation norms
+The extant provisions in this regard as applicable to scheduled commercial banks (see the
+Master Circular RBI/2015-16/97 DBR No BP.BC.6/21.04.141/2015-16 dated July 1, 2015
+and circulars issued thereafter) shall be applicable to SFBs as well.
+1.7 Restrictions on loans and advances (including lending to NBFCs) including regulatory limits
+The extant provisions in this regard as applicable to scheduled commercial banks (see the
+Master Circulars RBI/2015-16/95 DBR.No.Dir.BC.10/13.03.00/2015-16
+and
+RBI/2015-16/36 DBR.BP.BC.No.5/21.04.172/2015-16 dated July 1, 2015
+and circulars issued thereafter) shall be applicable to SFBs as well.
+1.8 Income recognition, asset classification and provisioning norms on advances including that for restructuring of credit facilities
+The extant provisions in this regard as applicable to scheduled commercial banks (see the
+Master Circular RBI/2015-16/101 DBR.No.BP.BC.2/21.04.048/2015-16 dated July 1, 2015
+and circulars issued thereafter) shall be applicable to SFBs as well.
+1.9 Credit risk transfer and portfolio sales/purchases: Securitisation, assignment and direct sale of loan portfolios, sale of NPAs, guarantees, LCs, SBLCs, co-acceptances, credit derivatives and inter-bank participation certificates, take-out finance
+SFBs will be permitted to participate in securitization market only as originators and providers of associated credit enhancements and liquidity supports.
+Other credit risk transfer transactions as below will be allowed for SFBs:
+Acquiring credit risk
+Permissibility
+Transferring credit risk
+Permissibility
+Purchase of portfolios of loans classified as standard assets
+Permitted only from banks and NBFCs for the specific purpose of meeting the sub-targets within the 40% PSL target as applicable to commercial banks.
+Sale of individual loans/portfolios of loans classified as standard assets
+Permitted
+Purchase of NPAs
+Not Permitted
+Sale of NPAs
+Permitted
+Issuing bank guarantees /LCs/SLBCs/co-acceptances
+Permitted
+Receiving bank guarantees/LCs/SLBCs/co-acceptances
+Permitted
+Investing in inter-bank participation certificates and PSL Certificates
+Permitted for the specific purpose of meeting the sub-targets within the 40% PSL target as applicable to commercial banks.
+Issuing inter-bank participation certificates and PSL certificates
+Permitted
+Investing in credit derivatives
+Not permitted
+Issuing credit derivatives
+Not permitted
+Taking out of loans of other banks by the SFBs
+Not permitted
+Taking out of SFBs loans by the banks and term lending institutions
+Permitted
+In this connection, it is clarified that if the customer who has availed of a loan from any bank desires to shift his/her loan to a SFB, the same will be permitted.
+1.10 Para-banking activities
+(i) SFBs will not be permitted to undertake any para-banking activity except that allowed as per the Licensing Guidelines and the related FAQs issued.
+(ii) SFBs will be permitted to use Interest Rate Futures (IRF) for the purpose of proprietary hedging. Further, as regards the foreign exchange business, SFBs would be permitted to use derivatives for proprietary hedging only, as applicable to AD Category II licence holder. Also, any forward cover taken on existing External Commercial Borrowings (ECBs) would be permitted to be grandfathered. No other derivatives and structured products will be allowed for SFBs.
+2. Risk management
+As the risks and risk management techniques for SFBs will be on par with the scheduled commercial banks, the extant provisions in this regard as applicable to scheduled commercial banks, shall be applicable to SFBs as well.
+3. CRR, SLR, disclosures and statutory/regulatory reports
+The extant provisions in this regard as applicable to scheduled commercial banks (see the
+Master Circular RBI/2015-16/98 DBR.No.Ret.BC.24/12.01.001/2015-16 dated July 1, 2015
+and circulars issued thereafter) shall be applicable to SFBs as well.
+4. Ownership and control regulations
+The extant provisions in this regard as applicable to private sector banks, as covered in the Master Directions on Issue and Pricing of shares by Private Sector Banks
+DBR.PSBD.No.95/16.13.100/2015-16 dated April 21, 2016
+and Master Directions on Ownership in Private Sector Banks
+DBR.PSBD.No.97/16.13.100/2015-16 dated May 12, 2016
+, shall be applicable to SFBs as well except what is provided in the existing regulation contained in the Licensing Guidelines.
+5. Corporate governance
+5.1 Constitution and functioning of board of directors
+The extant provisions as applicable to banking companies shall be applicable to SFBs as well. Specifically in the case of converting entities, the existing terms and conditions of appointment of Directors will be grandfathered till completion of their present term.
+5.2 Constitution and functioning of committees of the board, management level committees, remuneration policies
+The extant provisions in this regard as applicable to private sector banks, shall be applicable to SFBs as well.
+6. Banking Operations
+6.1 Branch authorization policy
+(i) SFBs should follow the extant instructions pertaining to the branch authorization policy as applicable to scheduled commercial banks (see the
+Master Circular RBI/2014-15/77 DBOD. No. BAPD.BC. 7/22.01.001/2014-15 dated July 1, 2014
+and circulars issued thereafter) in all respects.
+(ii) SFBs are required to have 25% of their branches in unbanked rural centres within one year from the date of commencement of operations.
+6.2 Regulation of Business Correspondents
+(i) The SFBs may engage all permitted entities including the companies owned by their business partners and own group companies on an arm’s length basis as “BCs”. These companies can have their own branches managed by their employees operating as “access points” or may engage other entities/persons to manage the “access points” which could be managed by the latter’s staff.
+(ii) In the above cases, from the regulatory perspective, the bank will be responsible for the business carried out at the ‘access points’ and the conduct of all the parties in the chain regardless of the organizational structure including any other intermediaries inserted in the chain to manage the BC network.
+(iii) Inter-operability of the BCs will be allowed except for opening of deposit accounts
+(iv) Offline BCs will not be allowed; that is, BCs who would be doing online transactions/using PoS terminals for transactions only will be allowed.
+(v) The SFBs will be exempted from the requirement of having a base branch for a certain number of BCs/access points managed by BCs as currently stipulated in the RBI guidelines to scheduled commercial banks.
+6.3 Bank charges, lockers, nominations, facilities to disabled persons, etc.
+The extant provisions as applicable to scheduled commercial banks shall be applicable to SFBs as well.
+6.4 Marginal Cost of Funds based Lending Rate (MCLR), other related regulations on interest rates and fair practice code for lenders
+The extant provisions as applicable to scheduled commercial banks shall be applicable to SFBs as well.
+6.5 Financial inclusion and development
+(i) SFBs are encouraged to lend to SHGs.
+(ii) The provisions in Paragraph 10 of the Licensing Guidelines pertaining to grandfathering of borrowings will apply to cases where existing NBFCs/MFIs set up a small finance bank (SFB) and transfer its business to the SFB as well, apart from conversion cases. In this context, the applicants may approach RBI separately with the details of liabilities to be grandfathered, after obtaining the final banking licence, so that the additional capital charge to be imposed can be finalised.
+(iii) The lending banks will be permitted to avail the priority sector lending (PSL) classification for the loans made to such NBFCs, as long as the assets financed out of such loans are PSL eligible assets. This dispensation to the lending banks would be extended only up to the extent of actual outstanding balance supported by existing underlying assets as on the opening balance sheet of the SFB, and only till repayment of underlying loans.
+(iv) The assets financed out of the above loans from the banks would not be reckoned for the ‘Adjusted Net Bank Credit (ANBC)’ for priority sector calculation for the SFB, to the extent the lending bank enjoys PSL status on such grandfathered loans.
+(v) Any fresh assets created out of such outstanding grandfathered lending or any fresh assets created by the SFB post commencement of operations, in general, would be reckoned in the ANBC of the SFBs and the PSL norms as applicable to SFBs would kick in.
+(vi) The above treatment would be applicable for grandfathered borrowings in the cases of converting entities as well.
+(vii) The first audited balance sheet as on March 31st post commencement of operations of the SFB would form the basis for the first PSL target for the SFB (for the subsequent year).
+(viii) The extant provisions relating to export and import credit, as applicable to scheduled commercial banks, shall be applicable to SFBs as well, from within the framework of being a holder of an AD Cat II licence.
+7. Bank deposits
+(i) All RBI and BR Act provisions and RBI directions relating to minimum balance, inoperative accounts, unclaimed deposits including transfer of such deposits to the Depositors Education and Awareness Fund maintained by RBI on regular basis, nominations, cheques/drafts, etc., will be applicable to the SFBs.
+(ii) Small Finance Banks
+may at their discretion, issue passbooks for the deposit accounts;
+should give written/printed proof of the first time deposit, in addition to the electronic confirmation of the deposit;
+should send statement of accounts once in six months to the registered address free of cost, if passbooks have not been issued;
+may provide statement of account in paper form on request on chargeable basis or otherwise, if passbooks have not been issued;
+may provide account information through multiple user friendly modes such as SMS and/or internet banking; and
+should provide electronic confirmation through SMS/e-mail/printed proof for each account transaction.
+8. KYC requirements
+At their discretion, SFBs may (like all other banks) decide not to take the wet signature while opening accounts, and instead rely upon the electronic authentication/confirmation of the terms and conditions of the banking relationship/account relationship keeping in view their confidence in the legal validity of such authentications/confirmations. However, all the extant regulations concerning KYC including those covering the Central KYC Registry, and any subsequent instructions in this regard, as applicable to commercial banks, would be applicable to SFBs.
+9. Foreign exchange business
+Small Finance Banks shall:
+(i) comply with all the conditions attached with the AD Cat II licence that will be issued by the Foreign Exchange Department, RBI. SFBs may conduct some additional foreign exchange businesses as may be specifically permitted by the Reserve Bank.
+(ii) implement the provisions of Foreign Contribution (Regulation) Act, 2010 (as applicable to scheduled commercial banks.
+10. Other banking services
+10.1 Currency distribution (covering detection of forged and counterfeit notes, currency chest facilities, facilities for exchange of notes)
+SFBs may, at their option, exchange mutilated and defective notes at their branches. All extant regulations concerning currency chests, as applicable to commercial banks, will be applicable to SFBs.
+10.2 Customer education and protection
+(i) All customer grievance issues related to a particular satellite office/door-step customer service centre should be addressed both at the centres and the base branches.
+(ii) SFBs will be covered by the Banking Ombudsman (BO) Scheme.
+(iii) The mechanism put in place by SFBs to effectively resolve customer complaints and its communication to customers, and role of different levels (door-step customer service centre/satellite office, branch, controlling office, head office) in grievance redress should be clearly communicated to RBI along with the application for licence.
+(iv) The customer service policy approved by the boards of the SFBs should provide for continuous and intensive monitoring of customer grievance redressal by the SFBs.
+(v) RBI will closely supervise the grievance redress system of the bank through both onsite and off-site surveillance system.
+10.3 Credit information reporting
+(i) SFBs should become members of all the four credit information companies (CICs) and report all credit data to them as per current RBI directions.
+(ii) SFBs should also follow the RBI directions regarding declaration and reporting of large defaulters’ and wilful defaulters’ data to the CICs.
+11. Outsourcing of operations, internet banking and mobile banking
+The extant provisions as applicable to scheduled commercial banks shall be applicable to SFBs as well.
+12. Implementation of Ind AS
+Implementation of Ind AS would be applicable to SFBs once they become scheduled banks. In view of the same, it is recommended that the SFBs start adoption of the same in order to avoid transition costs subsequently.

@@ -1,0 +1,16 @@
+(54 kb)
+Settlement of Agency transactions in certain cases (for Funds and Agency Commission) directly from Reserve Bank of India
+RBI/2017-18/107
+DGBA.GBD.No-1498/31.02.007/2017-18
+December 7, 2017
+The Chairman/ Managing Director/ Chief Executive Officer/
+Agency Banks
+Dear Sir/ Madam
+Settlement of Agency transactions in certain cases (for Funds and Agency Commission) directly from Reserve Bank of India
+As per the existing arrangements in certain states, in certain cases, some agency banks are routing their agency transactions of state governments through another agency bank, that acts as an aggregator, that in turn settles these agency transactions with concerned Regional Office of RBI for both receipts and payments. In such scenario, both agency bank acting as aggregator and other agency bank share the eligible agency commission on such transactions.
+2. In the age of prevailing Core Banking Solutions/e-banking systems in all the agency banks, Reserve Bank is committed to provide fast, efficient and secure banking facility to the State Governments by implementation of standardised e-receipts and e-payments with its CBS (e-Kuber), enabling RBI to act as single point of contact for settling state government funds (receipts/payment). This will also facilitate better cash management by the State Governments.
+3. Therefore, on review, it has been decided that all agency banks should settle their agency transactions for both funds and agency commission directly with the concerned Regional Office of Reserve Bank instead of routing them through any other agency bank that acts as aggregator in certain cases. It effectively makes all agency banks to report government receipts directly to RBI instead of reporting them through any other agency bank. So also for payments made by all agency banks on behalf of state government/s get directly settled with the concerned Regional Office of RBI. Agency Transaction details/scrolls may be sent directly by individual agency bank to the concerned State Government/Treasury. This arrangement is expected to improve management of State Government funds apart from reducing inefficiencies in the system.
+4. Agency Banks that are already settling their state government transactions with RBI directly may continue to do so. Agency Banks that are hither to settling their transactions with other aggregator agency bank may stop such reporting. Such banks should settle their agency transaction hereafter with RBI directly. The new arrangement for settlement of state government funds on day to day basis (receipts and payments) directly with Reserve Bank will be with effect from January 1, 2018. Thereby, all agency commission claims beginning with the quarter ending March 31, 2018 will be settled directly with the concerned Regional Office of Reserve Bank of India.
+Yours faithfully
+(D. J. Babu)
+Deputy General Manager

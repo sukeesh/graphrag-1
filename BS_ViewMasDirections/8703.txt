@@ -1,0 +1,45 @@
+(41 kb)
+NEFT – Customer Service and Charges – Adherence to Procedural Guidelines and Circulars
+RBI/2013-14/457
+DPSS.CO.EPPD No.1583/04.03.01/2013-14
+January 21, 2014
+The Chairman and Managing Director / Chief Executive Officer
+of member banks participating in NEFT
+Madam / Dear Sir,
+NEFT – Customer Service and Charges – Adherence to Procedural Guidelines and Circulars
+The National Electronic Fund Transfer (NEFT) System, operational since November 2005 has seen an exponential growth in terms of volumes handled by the system, with a vast number of customers (individuals, corporates and Governments) using NEFT to meet their funds transfer requirements. Over a period of time, the Reserve Bank of India has introduced many efficiency enhancement features and customer service requirements in the system so as to meet the expectations of the growing number of users of NEFT.
+2. Some of the above measures include (i) the facilitation of walk-in customers (those not having an account with that bank) to initiate NEFT transactions to any bank account vide our Circular DPSS (CO) No. 1591/04.03.01/2007-08 dated April 03, 2008; (ii) providing positive confirmation through SMS or e-mail to the remitting customer after the funds have been credited to the account of the beneficiary vide our
+circular DPSS CO EPPD No.168/04.03.01/2009-2010 dated February 5, 2010
+; (iii) payment of penal interest by banks for delays in credit to beneficiary’s account or return of uncredited funds to the remitter vide our
+circular DPSS (CO) EPPD No.477/04.03.01/2010-11 dated September 1, 2010
+; (iv) furnishing appropriate details in pass book / account statement for credits sent / received by the customers through NEFT vide our
+circular DPSS (CO) EPPD No.788/04.03.01/2010-11 dated October 8, 2010
+; (v) rationalisation of charges levied to customers for NEFT transactions and indicating the maximum that can be recovered by banks from their customers vide our
+circular DPSS CO (EPPD) /98/04.03.01/2012-13 dated July 13, 2012
+.
+3. However, in recent times, we have been receiving customer complaints on many of these issues. Further, various surveys conducted by RBI and incognito visits to the bank branches at different places revealed that many of bank branches do not adhere to the above guidelines. It was also observed that, in many cases the officers/staff dealing with the NEFT desk at different branches were not aware of many of the above features of NEFT and customers were not guided properly.
+4. As regards the applicable charges for NEFT transactions, it was observed that in many branches the dealing officials / staff were unaware of the actual charges for NEFT and there was no board or material displaying the NEFT charges for customers wanting to remit funds. It was also observed that few large banks were diverting the walk-in customers / non-account holders / non-home branch customers to customer service points/agents for undertaking such transactions where the customers were being levied charges far higher than those mandated for NEFT transactions.
+5. Such non-adherence to instructions, including those on transaction charges, issued by the RBI under the Payment and Settlement Systems Act, 2007, will be viewed seriously as it brings disrepute to the NEFT system. Hence, it is reiterated that the instructions issued by the Reserve Bank should be adhered to by direct as well as sub-member banks in the NEFT, in both letter and spirit.
+6. In this context, banks are advised to:
+Educate all their staff / officials about the NEFT process in general and extension of the facility to walk-in customers and customer charges applicable on NEFT, in particular, as outlined in the Procedural Guidelines for NEFT and instructions issued by the Reserve Bank from time to time on NEFT.
+Ensure NEFT applications forms with proper instructions are made available at all branches. The extant charges applicable on NEFT transactions should be displayed at all branches / locations of the bank where NEFT transactions can be conducted. A printed “charges card” in appropriate vernacular language should invariably be carried by agents / business correspondents of the banks.
+Ensure that the charges levied on customers for inter-bank NEFT transactions at both branch locations and CSP/BC/agent locations are at par. Further, it should be ensured that the customers should not be forcibly diverted to BC/CSP/agent locations from the branches for conducting NEFT transactions.
+Ensure that positive confirmation of credit to beneficiary account is invariably sent for all inward transactions received by them. Similarly, banks originating the NEFT transactions may ensure that such positive confirmation is relayed to all remitting customers, including walk-in customers who provide their mobile number / e-mail id, in accordance with our guidelines on the matter. Intimation of failed / returned transactions should also be brought to the notice of the remitting customer and funds credited to the account immediately / returned to the remitted at the earliest.
+Ensure that in case of delayed credits or delayed returns, the penal interest as applicable is paid suo-moto to the customer without necessitating a request for the same by the customer. Banks resorting to back-dating or value-dating such delayed transactions are not excused from paying the penal interest for the delayed period and adoption of such practices will be viewed seriously.
+7. Banks may arrange to intimate to this Department, data pertaining to NEFT transactions by walk-in customers (those not having an account with the bank) in the
+format attached
+, on a quarterly basis for the next one year, starting from quarter ended 31st March 2014.
+8. These directions are issued by the Reserve Bank of India, in exercise of the powers conferred by Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+9. Please acknowledge receipt and ensure compliance.
+Yours faithfully,
+(Vijay Chugh)
+Chief General Manager
+Report showing the number of walk-in NEFT transactions processed by the bank for the quarter ended …………….
+(Consolidated report to be submitted by the corporate/head office of all NEFT member banks to the Department of Payment and Settlement Systems, Central Office, Reserve Bank of India, Mumbai before 10th of the following month at the end of each quarter)
+1. Name of the Bank                                                                           :
+Total number of outward NEFT transactions processed
+by the bank during the quarter                                                              :
+2. Of these, the number of walk-in NEFT (customers not having
+account at the bank) transactions
+a) Processed at bank’s branches                                                           :
+b) Processed at BC/CSP/Agent locations                                               :

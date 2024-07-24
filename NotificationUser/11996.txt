@@ -1,0 +1,105 @@
+(903 kb)
+Maintenance of Escrow Account with a Scheduled Commercial Bank
+RBI/2020-21/68
+DPSS.CO.PD.No.660/02.14.008/2020-21
+November 17, 2020
+All Scheduled Commercial Banks / Authorised Prepaid Payment Instrument Issuers /
+Payment Aggregators / Payment System Providers / System Participants
+Madam / Dear Sir,
+Maintenance of Escrow Account with a Scheduled Commercial Bank
+A reference is invited to the instructions issued by Reserve Bank of India vide (a)
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017
+(updated as on February 28, 2020) on ‘Issuance and Operation of Prepaid Payment Instruments (PPIs)’; and (b)
+DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020
+on ‘Regulation of Payment Aggregators (PAs) and Payment Gateways (PGs)’.
+2. An authorised PPI Issuer or a PA is required to maintain an escrow account with a scheduled commercial bank on an ongoing basis. With a view to diversify risk and address business continuity concerns, it has been decided to allow one additional escrow account in a different scheduled commercial bank. The relevant instructions are being modified as per
+Annex 1
+and
+2
+to this circular.
+3. These directions are issued under Section 18 read with Section 10(2) of the Payment and Settlement Systems Act, 2007.
+Yours faithfully,
+(P. Vasudevan)
+Chief General Manager
+Annex 1
+Modifications to Master Direction on Issuance and Operation of PPIs (PPI-MD)
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017
+(updated as on February 28, 2020)
+Para No.
+Extant Instructions
+Modified Instructions
+12.3
+Non-bank PPI issuers are required to maintain their outstanding balance in an escrow account with any scheduled commercial bank. For the purpose of maintenance of the Escrow account, payment systems operated by non-bank entities for issuance of PPIs shall be deemed to be ‘designated payment systems’ under Section 23A of the PSS Act, 2007 (as amended in 2015). Maintenance of escrow balance shall be subject to the following conditions –
+Non-bank PPI issuers are required to maintain their outstanding balance in an escrow account with any scheduled commercial bank.
+An additional escrow account may be maintained with a different scheduled commercial bank at the discretion of the PPI issuer
+. For the purpose of maintenance of escrow account, payment systems operated by non-bank entities for issuance of PPIs shall be deemed to be ‘designated payment systems’ under Section 23A of the PSS Act, 2007 (as amended in 2015). Maintenance of escrow balance shall be subject to the following conditions –
+12.3 (i)
+The escrow balance shall be maintained with only one scheduled commercial bank at any point of time.
+Deleted
+12.3 (ii)
+In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without unduly impacting the payment cycle to the merchants. The migration shall be completed in the minimum possible time and with the prior approval of RBI.
+In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without unduly impacting the payment cycle to merchants. Migration shall be completed in the minimum possible time with prior
+intimation
+to RBI.
+12.3 (iv)
+Only the following debits and credits shall be permitted in the escrow account:
+Only the following debits and credits shall be permitted in the escrow account;
+in case where an additional escrow account is being maintained, credit and debit from one escrow account to the other shall also be permitted. However, inter-escrow transfers shall be avoided as far as possible and if resorted to, auditor’s certification shall clearly mention such transactions:
+12.3 (v)
+The agreement between the issuer / operator and the bank maintaining escrow account shall include an exclusive clause enabling the bank to use the money in the escrow account only for making payment to the merchants / PPI holders.
+The agreement between the issuer / operator and the bank maintaining escrow account shall include a clause enabling the bank to use the money in the escrow account only for
+purposes mentioned in these Directions
+.
+12.3 (x)
+A certificate (format enclosed Annex-5) signed by the auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI on a quarterly basis certifying that the entity has been maintaining adequate balance in the escrow account to cover the outstanding value of PPIs issued and payments due to merchants. The certificate shall be submitted within a fortnight from the end of the quarter to which it pertains. The entities shall also submit an annual certificate (Annex-5), signed by the auditor(s), coinciding with the accounting year of the entity to RBI.
+A certificate (format enclosed Annex-5) signed by the auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI on a quarterly basis certifying that the entity has been maintaining adequate balance
+(s)
+in the escrow
+account(s)
+to cover outstanding value of PPIs issued and payments due to merchants.
+In case, an additional escrow account is being maintained, it shall be ensured that balances in both accounts are considered for the above certification. This shall also be indicated in the certificate. The same auditor shall be employed to audit both escrow accounts
+. The certificate shall be submitted within a fortnight from
+the
+end of quarter to which it pertains. Entities shall also submit an annual certificate (Annex-5), signed by the auditor, coinciding with accounting year of the entity to RBI.
+12.4 (e)
+Core portion as calculated below will remain linked to the escrow account. The escrow balance and core portion maintained shall be clearly disclosed in the auditors’ certificates submitted to RBI on quarterly and annual basis.
+Core portion
+shall be calculated separately for each of the escrow accounts
+and will remain linked to
+the respective escrow account
+. Escrow balance and core portion maintained shall be clearly disclosed in the auditors’ certificates submitted to RBI on quarterly and annual basis.
+Annex 2
+Modifications to Guidelines for Regulation of Payment Aggregators (PAs)
+and Payment Gateways (PGs)
+DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020
+Para No.
+Extant Instructions
+Modified instructions
+8.1
+Non-bank PAs shall maintain the amount collected by them in an escrow account with any scheduled commercial bank. For the purpose of maintenance of the escrow account, the operations of PAs shall be deemed to be ‘designated payment systems’ under Section 23A of the PSSA (as amended in 2015).
+Non-bank PAs shall maintain the amount collected by them in an escrow account with any scheduled commercial bank.
+An additional escrow account may be maintained with a different scheduled commercial bank at the discretion of the PA.
+For the purpose of maintenance of escrow account, operations of PAs shall be deemed to be ‘designated payment systems’ under Section 23A of the PSSA (as amended in 2015).
+8.2
+Escrow account balance shall be maintained with only one scheduled commercial bank at any point of time. In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without impacting the payment cycle to the merchants under advise to RBI.
+In case there is a need to shift the escrow account from one bank to another, the same shall be effected in a time-bound manner without impacting the payment cycle to merchants, under advice to RBI.
+8.9
+Permitted credits / debits to the escrow account shall be as set out below:
+Permitted credits / debits to the escrow account shall be as set out below;
+where an additional escrow account is maintained, credit and debit from one escrow account to the other shall also be permitted. However, inter-escrow transfers should be avoided as far as possible and if resorted to, auditor’s certification shall clearly mention such transactions.
+8.13
+A certificate signed by the auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI, where the registered office of the PA is situated, certifying that the entity has been maintaining balance in the escrow account in compliance with these instructions, as per the periodicity prescribed in Annex 3.
+A certificate signed by the auditor(s), shall be submitted by the authorised entities to the respective Regional Office of DPSS, RBI, where registered office of PA is situated, certifying that the entity has been maintaining balance
+(s)
+in the escrow
+account(s)
+in compliance with these instructions, as per periodicity prescribed in Annex 3.
+In case, an additional escrow account is being maintained, it shall be ensured that balances in both accounts are considered for the above certification. This shall also be indicated in the certificate. The same auditor shall be employed to audit both escrow accounts.
+8.15.5
+Core portion as calculated below shall remain linked to the escrow account. The escrow account balance and core portion maintained shall be clearly disclosed in the auditors’ certificates submitted to RBI on quarterly and annual basis.
+The
+core portion
+shall be calculated separately for each of the escrow accounts
+and will remain linked to
+the respective escrow account
+. The escrow balance and core portion maintained shall be clearly disclosed in the auditors’ certificates submitted to RBI on quarterly and annual basis.

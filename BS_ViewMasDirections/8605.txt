@@ -1,0 +1,26 @@
+(552 kb)
+Guidelines on Stress Testing
+RBI/2013-14/390
+DBOD.BP.BC.No.75/21.04.103/2013-14
+December 2, 2013
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear Sir,
+Guidelines on  Stress Testing
+Please refer to the guidelines on stress testing issued vide
+circular DBOD.No.BP.BC. 101/21.04.103/2006-07 dated June 26, 2007
+. Banks were  required to operationalise their formal stress testing framework in accordance  with these guidelines from March 31, 2008. It was expected that the stress  testing framework being set up would help banks in building a sound and forward  looking risk management framework.
+2. The  depth and duration of the recent global financial crisis has led many banks and  supervisory authorities across the world to question whether the existing stress  testing practices were sufficient and robust to cope with rapidly changing  circumstances. In particular,  the crisis  was far more severe in many respects than was assumed by banks for their stress  testing and consequently the weaknesses in stress testing practices impaired  their resilience. Against this backdrop, the Basel Committee on Banking  Supervision (BCBS) issued the Principles for Sound Stress Testing Practices and  Supervision in May 2009. In tune with these principles, the extant  guidelines on stress testing have been updated.
+Annex 1
+contains guidelines on  overall objectives, governance, design and implementation of stress testing  programmes.
+3. All banks are required to carry out  the stress tests involving shocks prescribed in
+Annex 2
+, at a minimum. Though a bank should assess its resilience to  withstand shocks of all levels of severity indicated therein, the bank should  be able to survive, at least the baseline shocks.
+4. Further, RBI would expect the degree of sophistication adopted by  banks in their stress testing programmes to be commensurate with the nature,  scope, scale and the degree of complexity in the bank’s business operations and  the risks associated with those operations. The broad approach which could be  considered by banks in formulating their stress testing programmes is  enumerated in
+Annex 3
+which classifies banks into three groups based on the  size.
+5. Banks  are expected to adopt these guidelines on stress testing from April 1, 2014.
+Yours faithfully,
+(Chandan  Sinha)
+Principal  Chief General Manager
+Encl: a/a

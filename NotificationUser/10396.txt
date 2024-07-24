@@ -1,0 +1,47 @@
+(201 kb)
+Guidelines for Voluntary surrender of Certificate of Authorisation (COA) by Payment System Operators (PSOs) authorised under PSS Act 2007
+RBI/2015-16/396
+DPSS.CO.AD.No.2627/02.27.005/2015-16
+May 12, 2016
+To,
+All entities authorised under the Payment & Settlement Systems Act, 2007 (PSS Act)
+Dear Sir/Madam,
+Guidelines for Voluntary surrender of Certificate of Authorisation (COA) by Payment System Operators (PSOs) authorised under PSS Act 2007
+As you are aware, in terms of section 4 of the Payment and Settlement Systems Act, 2007 (PSS Act) it is mandatory to seek authorisation from the Reserve Bank of India (the Bank) to commence or operate a payment system in the country. Section 8 of the PSS Act empowers the Bank to revoke such authorisation under circumstances as provided therein.
+2. We have been receiving requests from PSOs namely Pre-paid Payment Instrument (PPI) Issuers and Money Transfer Service Scheme (MTSS) – Overseas Principals, for surrendering and consequent cancellation of the COA on voluntary basis. Based on the experience gained so far, the Bank is issuing these Guidelines for voluntary surrender of CoA by such entities authorised under the PSS Act, 2007.
+3. Applicability
+These guidelines for voluntary surrender of CoA are applicable to Payment System Operators, namely PPI issuers, MTSS- Overseas Principal, authorised under PSS Act 2007. This option of voluntary surrender of COA is available only to those entities which have either,
+not commenced Payment System operations, or
+intend to discontinue such operations.
+4. Process to be followed by the PSO:
+I. Entity has commenced PSO operations:
+1. Such an entity needs to submit the following documents to Department of Payment and Settlement Systems, Central Office, Reserve Bank of India, Mumbai :
+A request in writing by its authorised signatory, along with a copy of its recent Board Resolution, indicating its intent and the reason for such voluntary surrender of COA.
+A statement certified by its Chartered Accountant in respect of number and amount of outstanding PPIs. Such statement should also indicate the name of its Escrow account details, outstanding Escrow amount, and liabilities to merchants.
+A ‘Memorandum of Procedure (MoP)’ interalia, indicating the process to be adopted for extinguishing/ repaying the liabilities to the customer/merchants. This should also include the processes and time-line for extinguishing the liabilities outstanding to the customer/merchants.
+In case of MTSS - Overseas Principals, the above process should be followed in respect of liabilities to customers and Indian Agents.
+An undertaking duly signed, by its authorised signatory, and clearly stating that it would not incur any fresh liability during this process of drawing down of Payment system operations.
+2. Based on the merits of the case, the Bank will process such requests and advise the entity to initiate the following process as applicable:
+i. Issue a public notice in English, Hindi and a vernacular language, in print/visual media, on three different occasions, informing the customer/merchants about its intent to close its payment systems operations. Such public notice, shall interalia indicate,
+That the customers can either use the balances on PPI or obtain refund, by credit to a bank account, within a stipulated time-line by making a request to the company.
+The mode of receipt of such requests for redemption.
+Name, contact address, phone number and email id of a Nodal officer to whom such requests can be sent by the customer.
+Time-line within which the company would redeem the balance after receipt of request from the customer.
+ii. Submit monthly progress report to the Bank regarding the progress in extinguishing the customer/merchant liabilities. The format of such report shall be as per format prescribed in circular DPSS.CO.OSD.No. 1381/06.08.001/2010-11, dated December 27, 2010.
+3. In case of authorised MTSS- Overseas Principals, the above process, as applicable, should be followed in respect of liabilities to customers and Indian Agents.
+4. For refund to the customers of a PPI issuer, the Bank would also advise the respective Escrow account bank for allowing one time refund of the balance to the PPI holder’s bank accounts.
+5. On completing the process of extinguishing the liability to customers/merchants the entity would be required to submit a ‘No liability’ certificate from its chartered accountant to the Bank.
+6. Based on the information submitted, the Bank will process the request for cancellation of such COA.
+7. On receipt of the advice from the Bank about acceptance of the request for voluntary surrender of COA, the entity shall submit the original COA to CGM, DPSS, CO, Mumbai for cancellation.
+II. Entity has not commenced operations as a PSO:
+1. Such an entity needs to submit the following documents to Department of Payment and Settlement Systems, Central Office, Reserve Bank of India, Mumbai:
+A request in writing by its authorised signatory, along with a copy of its recent Board Resolution, indicating its intent and the reason for such voluntary surrender of COA.
+Any other documents (like cancellation of the associated project, etc.) in support of its intent for such voluntary surrender.
+A certificate from its chartered accountant in respect of non-commencement of any payment system operations by the entity
+A copy of the latest audited balance sheet of the entity.
+2. Based on the information submitted, the Bank will process the request for cancellation of such COA.
+3. On receipt of the advice from the Bank about acceptance of the request for voluntary surrender of COA, the entity shall submit the original COA to CGM, DPSS, CO, Mumbai for cancellation.
+5. These directions are issued by the Bank, in exercise of the powers conferred by section 18 of the Payment and Settlement Systems Act, 2007 (Act 51/2007)
+Yours faithfully
+(Nanda S. Dave)
+Chief General Manager

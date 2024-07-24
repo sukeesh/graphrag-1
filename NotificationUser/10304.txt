@@ -1,0 +1,202 @@
+(288 kb)
+Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises (MSMEs)
+RBI/2015-16/338
+FIDD.MSME & NFS.BC.No.21/06.02.31/2015-16
+March 17, 2016
+All Scheduled Commercial Banks
+(Excluding RRBs)
+Madam / Sir,
+Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises (MSMEs)
+In order to provide a simpler and faster mechanism to address the stress in the accounts of MSMEs and to facilitate the promotion and development of MSMEs, the Ministry of Micro, Small and Medium Enterprises, Government of India, vide their Gazette Notification dated May 29, 2015 had notified a ‘Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises’. However, certain changes in the captioned framework have been carried out in consultation with the Government of India, Ministry of MSME in order to make it compatible with the existing regulatory guidelines on ‘Income Recognition, Asset Classification and provisioning pertaining to Advances’ issued to banks by RBI. Accordingly, a revised Framework along with operating instructions is furnished in the
+Annex
+. The Board approved policy to operationalize the Framework may be put in place by the banks
+not later than June 30, 2016
+.
+2. While the prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances will continue to be as per the instructions consolidated in the Master Circular on IRAC Norms dated July 1, 2015 and as updated from time to time, the revival and rehabilitation of MSMEs having loan limits up to Rs.25 crore will be in terms of these operating instructions. Restructuring of loan accounts with exposure of above Rs.25 crore will continue to be governed by the extant guidelines on Corporate Debt Restructuring (CDR) / Joint Lenders’ Forum (JLF) mechanism.
+3. The revised Framework supersedes our earlier Guidelines on Rehabilitation of Sick Micro and Small Enterprises issued vide our
+circular RPCD. CO. MSME & NFS.BC.40/06.02.31/2012-2013 dated November 1, 2012
+, except those relating to Reliefs and Concessions for Rehabilitation of Potentially Viable Units and One Time Settlement, mentioned in the said circular.
+4. Banks should continue to report credit information and SMA status of all accounts above the cut-off exposure of Rs.5 crore and above to the Central Repository for Information on Large Credit (CRILC), as per extant instructions.
+5. Please acknowledge receipt and furnish Action Taken Report
+by July 31, 2016
+.
+Yours faithfully
+(Uma Shankar)
+Chief General Manager
+Encl: As above
+Annex
+Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises
+1. Eligibility:
+The provisions made in this framework shall be applicable to MSMEs having loan limits up to Rs.25 crore, including accounts under consortium or multiple banking arrangement (MBA).
+2. Identification of incipient stress
+2.1 Identification by banks or creditors
+– Before a loan account of a Micro, Small and Medium Enterprise turns into a Non-Performing Asset (NPA), banks or creditors should identify incipient stress in the account by creating three sub-categories under the Special Mention Account (SMA) category as given in the Table below:
+SMA Sub-categories
+Basis for classification
+SMA-0
+Principal or interest payment not overdue for more than 30 days but account showing signs of incipient stress (Please see
+Annex - I
+)
+SMA-1
+Principal or interest payment overdue between 31-60 days
+SMA-2
+Principal or interest payment overdue between 61-90 days
+On the basis of the above early warning signals, the branch maintaining the account should consider forwarding the stressed accounts with aggregate loan limits above Rs.10 lakh to the Committee as referred in para 3.3
+within five working days
+for a suitable corrective action plan (CAP). Forwarding the account to the Committee for CAP will be mandatory in cases of accounts reported as SMA-2.
+2.2
+As regards accounts with aggregate loan limits up to Rs.10 lakh identified as SMA-2, the account should be mandatorily examined for CAP by the branch itself under the authority of the branch manager / such other official (hereinafter referred to as ‘designated official’) as decided by the bank in terms of their Board approved policy.
+Other terms and conditions, such as time limits, procedures to be followed, etc., as applicable to the cases referred to the Committee as referred in para 3.3, should be followed by the branch manager / designated official.
+However, the cases, where the branch manager / designated official has decided the option of recovery under CAP instead of rectification or restructuring as mentioned in para 5.3 (a) or (b), should be referred to the Committee for their concurrence. Banks, with the approval of their Boards should frame a suitable policy in this regard as given in para 3.4. The branch manager / designated official should also examine the accounts reported as SMA-0 and SMA-1, if it is deemed necessary.
+2.3 Identification by the Borrower Enterprise
+- Any MSME borrower may voluntarily initiate proceedings under this Framework, if the enterprise reasonably apprehends failure of its business or its inability or likely inability to pay debts or there is erosion in the net worth due to accumulated losses to the extent of 50% of its net worth during the previous accounting year, by making an application to the branch or directly to the Committee as referred in para 3.3, wherever applicable.. When such a request is received by lender, the account with aggregate loan limits above Rs.10 lakh should be referred to the Committee. The Committee should convene its meeting at the earliest
+but not later than five working days
+from the receipt of the application, to examine the account for a suitable CAP. The accounts with aggregate loan limit up to Rs.10 lakh may be dealt with by the branch manager / designated official for a suitable CAP.
+3. Committees for Stressed Micro, Small and Medium Enterprises:
+In order to enable faster resolution of stress in an MSME account, every bank shall form Committees for Stressed Micro, Small and Medium Enterprises as per the following arrangements:
+3.1
+All banks having exposure towards MSME sector shall constitute a Committee at each District where they are present or at Division level or Regional Office level, depending upon the number of MSME units financed in the region. These Committees will be Standing Committees and will resolve the reported stress of MSME accounts of the branches falling under their jurisdiction.
+3.2
+For MSME borrowers having credit facilities under a consortium of banks or multiple banking arrangement (MBA), the consortium leader, or the bank having the largest exposure to the borrower under MBA, as the case may be, shall refer the case to its Committee, if the account is reported as stressed either by the borrower or any of the lenders under this Framework. This Committee will also coordinate between the different lenders.
+3.3
+The Composition of the Committee shall be as under:
+(a) The regional or zonal head of the convener bank, shall be the Chairperson of the Committee;
+(b) Officer-in-charge of the Micro, Small and Medium Enterprises Credit Department of the convener bank at the regional or zonal office level, shall be the member and convener of the Committee;
+(c) One independent external expert with expertise in Micro, Small and Medium Enterprises related matters to be nominated by bank.
+(d) One representative from the concerned State Government. Endeavour should be made to bring representative from the respective State Government in the Committee. In case State Government does not nominate any member, then the convening bank should proceed to include an independent expert in the Committee, namely a retired executive of another bank of the rank of AGM and above.
+(e) When handling accounts under consortium or MBA, senior representatives of all banks / lenders having exposure to the borrower.
+3.4
+Banks, with the approval of their Boards, should frame a policy, based on these instructions, on the composition of the Committee, the terms of appointment of its members, the manner of filling vacancies, and the procedure to be followed in the discharge of the Committee’s functions. While decisions of the Committee will be by simple majority, the Chairperson shall have the casting vote, in case of a tie. In case of accounts under consortium / MBA, lenders should sign an Inter-Creditor Agreement (ICA) on the lines of Joint Lenders’ Forum (JLF) Agreement. Banks may put in place suitable arrangements, including dedicated manpower, to ensure smooth functioning of the Committee and adherence to the stipulated timelines.
+3.5
+All eligible stressed MSMEs shall have access to the Committee for resolving the stress in these accounts in accordance with regulations prescribed in this Framework.
+3.6
+Provided that where the Committee decides that recovery is to be made as part of the CAP, the manner and method of recovery shall be in accordance with the existing policies approved by the board of directors of the bank which has extended credit facilities to the enterprise, subject to any regulations prescribed by the Reserve Bank of India and extant statutory requirements.
+4. Application to the Committee for a Corrective Action Plan
+4.1
+Any lender on identifying an MSME account as SMA-2 or suitable for consideration under the Framework or on receipt of an application from the stressed enterprise, shall forward the cases having aggregate loan limits above Rs.10 lakh to the Committee for immediate convening of meeting and deciding on a CAP. Stressed enterprises having aggregate loan limits above Rs.10 lakh can also directly file an application for CAP to the Committee or to the largest lender for onward submission under advice to all its lenders. The Indian Banks’ Association (IBA) may prescribe suitable application formats for aggregate loan limits above Rs.10 lakh, for this purpose, which, inter-alia, should include the following:
+(a) Latest audited accounts of the Enterprise including its Net worth;
+(b) Details of all liabilities of the enterprise, including the liabilities owed to the State or Central Government and unsecured creditors, if any;
+(c) Nature of stress faced by the Enterprise; and
+(d) Suggested remedial actions
+The Indian Banks’ Association (IBA) may also prescribe suitable formats for aggregate loan limits up to Rs.10 lakh.
+4.2
+Where an application is filed by a bank / lender and admitted by the Committee, the Committee shall notify the concerned enterprise about such application within five working days and require the enterprise to:
+(a) respond to the application or make a representation before the Committee; and
+(b) disclose the details of all its liabilities, including the liabilities owed to the State or Central Government and unsecured creditors, if any, within fifteen working days of receipt of such notice;
+Provided that if the enterprise does not respond within the above period, the Committee may proceed ex-parte.
+4.3
+On receipt of information relating to the liabilities of the enterprise, the Committee may send notice to such statutory creditors as disclosed by the enterprise as it may deem fit, informing them about the application under the Framework and permit them to make a representation regarding their claims before the Committee within
+fifteen working days
+of receipt of such notice. It is mentioned here that these information are required for determining the total liability of the Enterprise in order to arrive at a suitable CAP and not for payments of the same by the lenders.
+4.4
+Within
+30 days
+of convening its first meeting for a specific enterprise, the Committee shall take a decision on the option to be adopted under the corrective action plan as given in subsequent paragraphs and notify the enterprise about such a decision, within
+five working days
+from the date of such decision.
+4.5
+If the corrective action plan decided by the Committee envisages restructuring of the debt of the enterprise, the Committee shall conduct the detailed Techno-Economic Viability (TEV) study (also refer para 5.1) and finalise the terms of such a restructuring in accordance with the extant prudential norms for restructuring, within
+20 working days
+(for accounts having aggregate exposure up to Rs.10 crore) and within
+30 working days
+(for accounts having aggregate exposure above Rs.10 crore and up to Rs.25 crore) and notify the enterprise about such terms, within
+five working days
+.
+4.6
+Upon finalisation of the terms of the corrective action plan, the implementation of that plan shall be completed by the concerned bank within 30 days (if the CAP is Rectification) and within 90 days (if the CAP is restructuring). In case recovery is considered as CAP, the recovery measures should be initiated at the earliest.
+4.7
+Where an application has been admitted by the Committee in respect of an MSME, the enterprise shall continue to perform contracts essential to its survival but the Committee may impose such restrictions, as it may deem fit, for future revival of the enterprise.
+4.8
+The Committee shall make suitable provisions for payment of tax or any other statutory dues in the corrective action plan and the enterprise shall take necessary steps to submit such plan to the concerned taxation or statutory authority and obtain approval of such payment plan.
+5. Corrective Action Plan by the Committee
+5.1
+The Committee may explore various options to resolve the stress in the account. The Committee shall not endeavour to encourage a particular resolution option and may decide the CAP as per the specific requirements and position of each case. While Techno-Economic viability of each account is to be decided by the concerned lender/s before considering restructuring as CAPs, for accounts with aggregate exposure of Rs.10 crore and above, the Committee should conduct a detailed Techno-Economic Viability study before finalising the CAP.
+5.2
+During the period of operation of CAP, the enterprise shall be allowed to avail both secured and unsecured credit for its business operations as envisaged under the terms of CAP.
+5.3
+The options under CAP by the Committee may include:
+(
+a) Rectification:
+– Obtaining a commitment, specifying actions and timelines, from the borrower to regularise the account so that the account comes out of Special Mention Account status or does not slip into the Non-Performing Asset category and the commitment should be supported with identifiable cash flows within the required time period and without involving any loss or sacrifice on the part of the existing lenders. The rectification process should primarily be borrower driven. However, the Committee may also consider providing need based additional finance to the borrower, if considered necessary, as part of the rectification process. It should however be ensured that this need based additional finance is intended only for meeting, in exceptional cases, unavoidable increased working capital requirement. In all cases of additional finance for working capital, any diversion of funds will render the account as NPA. Further, such additional finance should ordinarily be an ad-hoc facility to be repaid or regularised within a maximum period of six months. Additional finance for any other purpose, as also any roll-over of existing facilities, or funding not in compliance with the above conditions, will tantamount to restructuring. Further, repeated rectification with funding, within the space of one year, will be treated as a restructuring and no additional finance should be sanctioned under CAP, in cases where the account has been reported as fraud by any lender.
+(b) Restructuring:
+– Consider the possibility of restructuring the account, if it is prima facie viable and the borrower is not a wilful defaulter, i.e., there is no diversion of funds, fraud or malfeasance, etc. Commitment from promoters for extending their personal guarantee along with their net worth statement supported by copies of legal titles to assets may be obtained along with a declaration that they would not undertake any transaction that would alienate assets without the permission of the Committee. Any deviation from the commitment by the borrowers affecting the security or recoverability of the loan may be treated as a valid factor for initiating recovery process. The lenders in the Committee may sign an Inter-Creditor Agreement and also require the borrower to sign the Debtor-Creditor Agreement which would provide the legal basis for any restructuring process. The IBA may prepare formats for this purpose on the lines of formats used by the Corporate Debt Restructuring mechanism for Inter-Creditor Agreement and Debtor-Creditor Agreement. Further, a stand-still clause (as defined in extant guidelines on Restructuring of Advances) may be stipulated in the Debtor-Creditor Agreement to enable a smooth process of restructuring. The stand-still clause does not mean that the borrower is precluded from making payments to the lenders. The Inter-Creditor Agreement may also stipulate that both secured and unsecured creditors need to agree to the final resolution.
+(c) Recovery:
+– Once the first two options at (a) and (b) above are seen as not feasible, due recovery process may be resorted to. The Committee may decide the best recovery process to be followed, among the various legal and other recovery options available, with a view to optimizing the efforts and results.
+6.
+The decisions agreed upon by a majority of the creditors (75% by value and 50% by number) in the Committee would be considered as the basis for proceeding with the restructuring of the account, and will be binding on all lenders under the terms of the Inter-Creditor Agreement. If the Committee decides to proceed with recovery, the minimum criteria for binding decision, if any, under any relevant laws or Acts shall be applicable.
+7. Time-lines
+Detailed time-lines are given for carrying out various activities under the Framework. If the Committee is not able to decide on CAP and restructuring package due to non-availability of information on statutory dues of the borrower, the Committee may take additional time not exceeding 30 days for deciding CAP and preparing the restructuring package. However, they should not wait beyond this period and proceed with CAP.
+8. Additional Finance
+8.1
+If the Committee decides that the enterprise requires financial resources to restructure or revive, it may draw up a plan for provision of such finance. Any additional finance should be matched by contribution by the promoters in appropriate proportion, and this should not be less than the proportion at the time of original sanction of loans. Additional funding provided under restructuring / rectification as part of the CAP will have priority in repayment over repayment of existing debts. Therefore, instalments of the additional funding which fall due for repayment will have priority over the repayment obligations of the existing debt.
+8.2
+If the existing promoters are not in a position to bring in additional funds the Committee may allow the enterprise to raise secured or unsecured loans.
+8.3
+Provided further, that the Committee may, with the consent of all creditors recognized, provide such loans higher priority than any existing debt.
+9.
+If the Committee decides on options of either ‘Rectification’ or ‘Restructuring’, but the account fails to perform as per the agreed terms under these options, the Committee shall initiate recovery under option 5.3(c).
+10. Restructuring by the Committee
+10.1 Eligibility
+(a) Restructuring cases shall be taken up by the Committee only in respect of assets reported as Standard, Special Mention Account or Sub-Standard by one or more lenders of the Committee.
+(b) However, the Committee may consider restructuring of the debt, where the account is doubtful with one or two lender/s but it is Standard or Sub-Standard in the books of majority of other lenders (by value).
+(c) Wilful defaulters shall not be eligible for restructuring. However, the Committee may review the reasons for classification of the borrower as a wilful defaulter and satisfy itself that the borrower is in a position to rectify the wilful default. The decision to restructure such cases shall have the approval of the Board of concerned bank within the Committee who has classified the borrower as wilful defaulter.
+(d) Cases of Frauds and Malfeasance remain ineligible for restructuring. However, in cases of fraud / malfeasance where the existing promoters are replaced by new promoters and the borrower company is totally delinked from such erstwhile promoters / management, banks and the Committee may take a view on restructuring of such accounts based on their viability, without prejudice to the continuance of criminal action against the erstwhile promoters / management. Further, such accounts may also be eligible for asset classification benefits available on refinancing after change in ownership, if such change in ownership is carried out under guidelines contained in
+circular DBR.BP.BC.No.41/21.04.048/2015-16 dated September 24, 2015
+on “Prudential Norms on Change in Ownership of Borrowing Entities (Outside Strategic Debt Restructuring Scheme)”. Each bank may formulate its policy and requirements as approved by the Board, on restructuring of such assets.
+10.2. Viability
+(a) The viability of the account shall be determined by the Committee based on acceptable viability benchmarks determined by them.
+(b) The parameters may, inter-alia, include the Debt Equity Ratio, Debt Service Coverage Ratio, Liquidity or Current Ratio, etc.
+10.3. Conditions relating to Restructuring under the Framework
+(1)
+Under this Framework, the restructuring package shall stipulate the timeline during which certain viability milestones such as improvement in certain financial ratios after a period of
+6 months
+may be achieved.
+(2)
+The Committee shall periodically review the account for achievement / non-achievement of milestones and shall consider initiating suitable measures including recovery measures as deemed appropriate.
+(3)
+Any restructuring under this Framework shall be completed within the specified time periods.
+(4)
+The Committee shall optimally utilize the specified time periods so that the aggregate time limit is not breached under any mode of restructuring.
+(5)
+If the Committee takes a shorter time for an activity as against the prescribed limit, then it can have the discretion to utilize the saved time for other activities provided the aggregate time limit is not breached.
+(6)
+The general principle of restructuring shall be that the stakeholders bear the first loss of the enterprise rather than the lenders. In the case of a company, the Committee may consider the following options, when a loan is restructured:
+(a) Possibility of transferring equity of the company by promoters to the lenders to compensate for their sacrifices;
+(b) Promoters infusing more equity into their companies;
+(c) Transfer of the promoters’ holdings to a security trustee or an escrow arrangement till turnaround of enterprise to enable a change in management control, if lenders favour it.
+(7)
+In case a borrower has undertaken diversification or expansion of the activities which has resulted in the stress on the core-business of the group, a clause for sale of non-core assets or other assets may be stipulated as a condition for restructuring the account, if under the Techno-Economic Viability study, the account is likely to become viable on hiving off of non-core activities and other assets.
+(8)
+For restructuring of dues in respect of listed companies, lenders may be, ab-initio, compensated for their loss or sacrifice (diminution in fair value of account in net present value terms) by way of issuance of equities of the company upfront, subject to the extant regulations and statutory requirements.
+(9)
+If the lenders’ sacrifice is not fully compensated by way of issuance of equities, the right of recompense clause may be incorporated to the extent of shortfall.
+(10)
+In order to distinguish the differential security interest available to secured lenders, partially secured lenders and unsecured lenders, the Committee may consider various options, such as:
+(a) prior agreement in the Inter-Creditor Agreement among the above classes of lenders regarding repayments;
+(b) a structured agreement stipulating priority of secured creditors;
+(c) appropriation of repayment proceeds among secured, partially secured and unsecured lenders in certain pre-agreed proportion.
+(11)
+The Committee shall, on request by the enterprise or any creditor recognised under paragraph 4.3, provide information relating to the proceeding as requested by the enterprise or such creditor.
+10.4 Prudential Norms on Asset Classification and Provisioning
+The extant asset classification and provisioning norms will be applicable for restructuring of accounts under this Framework.
+11. Review
+(1) In case the Committee decides that recovery action is to be initiated against an enterprise, such enterprise may request for a review of the decision by the Committee within a period of
+ten working days
+from the date of receipt of the decision of the Committee.
+(2) The request for review shall be on the following grounds:
+(a) a mistake or error apparent on the face of the record; or
+(b) discovery of new and relevant fact or information which could not be produced before the Committee earlier despite the exercise of due diligence by the enterprise.
+(3) A review application shall be decided by the Committee within a period of
+thirty days
+from the date of filing and if as a consequence of such review, the Committee decides to pursue a fresh corrective action plan, it may do so.
+Annex - I
+SMA-0 Signs of Stress
+Illustrative list of signs of stress for categorising an account as SMA-0:
+1. Delay of 90 days or more in (a) submission of stock statement / other stipulated operating control statements or (b) credit monitoring or financial statements or (c) non-renewal of facilities based on audited financials.
+2. Actual sales / operating profits falling short of projections accepted for loan sanction by 40% or more; or a single event of non-cooperation / prevention from conduct of stock audits by banks; or reduction of Drawing Power (DP) by 20% or more after a stock audit; or evidence of diversion of funds for unapproved purpose; or drop in internal risk rating by 2 or more notches in a single review.
+3. Return of 3 or more cheques (or electronic debit instructions) issued by borrowers in 30 days on grounds of non-availability of balance/DP in the account or return of 3 or more bills / cheques discounted or sent under collection by the borrower.
+4. Devolvement of Deferred Payment Guarantee (DPG) instalments or Letters of Credit (LCs) or invocation of Bank Guarantees (BGs) and its non-payment within 30 days.
+5. Third request for extension of time either for creation or perfection of securities as against time specified in original sanction terms or for compliance with any other terms and conditions of sanction.
+6. Increase in frequency of overdrafts in current accounts.
+7. The borrower reporting stress in the business and financials.
+8. Promoter(s) pledging/selling their shares in the borrower company due to financial stress

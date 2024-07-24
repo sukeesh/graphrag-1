@@ -1,0 +1,88 @@
+(179 kb)
+Interest Rate Options in India
+RBI/2017-18/198
+FMRD.DIRD.9 /14.01.020/2017-18
+June 14, 2018
+To
+All Eligible market participants
+Dear Sir/Madam,
+Interest Rate Options in India
+Please refer to
+FMRD circular FMRD.DIRD.12/14.01.011/2016-17 dated December 29, 2016
+on introduction of Interest Rate Options in India. As announced in the
+first bi-monthly Monetary Policy Statement 2018-19 dated April 05, 2018
+, it has now been decided to permit Interest Rate Swaptions in Rupees so as to enable better timing flexibility for the market participants seeking to hedge their interest rate risk.
+2. The Reserve Bank of India has accordingly issued a
+Notification No.FMRD.DIRD.8/2018 dated June 14, 2018
+enabling the introduction of swaptions.
+3. These directions have been issued under Section 45 W of Chapter III D of the Reserve Bank of India Act, 1934.
+4. A copy of the Interest Rate Options (Reserve Bank) Directions, 2018 which is placed on the RBI Website, is enclosed. This will supersede the Interest Rate Options (Reserve Bank) Directions, 2016 dated December 28, 2016.
+5. These directions shall come into force with effect from June 15, 2018.
+Yours faithfully,
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE, FORT
+MUMBAI 400 001
+Notification No. FMRD.DIRD.8/2018 dated June 14, 2018
+Interest Rate Options (Reserve Bank) Directions, 2018
+The Reserve Bank of India, having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf and in supersession of the directions issued, vide Notification No.FMRD.DIRD.11/2016 dated December 28, 2016, hereby issues the following directions.
+1. Short title, commencement and applicability of directions:
+1.1 These directions shall be called the Interest Rate Options (Reserve Bank) Directions, 2018 and replace the directions issued under Notification No. FMRD.DIRD.11/2016 dated December 28, 2016. Transactions, if any, undertaken in terms of the directions issued under the Notification dated December 28, 2016 referred above shall continue to remain valid and not be affected by any provision in these directions.
+1.2 These directions shall come into force with effect from June 15, 2018.
+1.3 These directions shall be applicable to exchange traded Interest Rate Options and Over-the-Counter (OTC) Interest Rate Options to the extent stated herein. In case of exchange traded Interest Rate Options, procedure for execution and settlement of trade shall be in accordance with the rules and regulations prescribed by the stock exchange concerned.
+2. Definitions
+For the purpose of these directions:-
+2.1 (i) An interest rate option is a financial derivative contract whose value is based on Rupee interest rates.
+(ii) An interest rate call option is an interest rate derivative in which the holder (or buyer) has the right but not the obligation to receive an interest payment based on a variable interest rate, and simultaneously pay an interest payment based on a fixed interest rate.
+(iii) An interest rate put option is an interest rate derivative in which the holder (or buyer) has the right but not the obligation to pay an interest payment based on a variable interest rate, and simultaneously receive an interest payment based on a fixed interest rate.
+(iv) An option which could be exercised by the buyer on the expiration date is called a European option.
+(v) An interest rate cap is a series of interest rate call options (called caplets) in which the buyer of the option receives a payment at the end of each period when the underlying interest rate is above a rate agreed in advance (strike rate).
+(vi) An interest rate floor is a series of interest rate put options in which the buyer of the option receives a payment at the end of each period when the underlying interest rate is below the strike rate.
+(vii) An interest rate collar is a derivative contract where a market participant simultaneously purchases an interest rate cap and sells an interest rate floor on the same interest rate for the same maturity and notional principal amount.
+(viii) A reverse interest rate collar is a derivative contract which involves simultaneous purchase of an interest rate floor and sale of an interest rate cap on the same interest rate for the same maturity and notional principal amount.
+(ix) An interest rate swap is a financial contract between two parties exchanging or swapping a stream of interest payments for a `notional principal’ amount on multiple occasions during a specified period. Such contracts generally involve exchange of `fixed to floating’ or `floating to floating’ rates of interest.
+(x) Interest rate swaptions are options on interest rate swaps. A swaption gives the buyer the right, but not the obligation, to enter into an interest rate swap.
+2.2 Recognized stock exchanges shall have the meaning assigned under Section 4 of the Securities Contract Regulation Act, 1956.
+2.3 A market-maker provides bid and offer prices to users and other market-makers. A market-maker need not have an underlying risk.
+2.4 A user participates in the derivatives market to manage an underlying risk.
+2.5 The words and expressions used, but not defined in these directions, shall have the meaning assigned to them in the Reserve Bank of India Act, 1934, or in any other Master Circular/Notification/Direction issued by the Reserve Bank.
+3. Permissible Venues
+3.1 Contracts in Interest Rate Options permitted under Paragraph 4 of these directions, may be entered into Over the Counter (OTC) or on a recognized stock exchange in India.
+3.2 Introduction of a contract in an Interest Rate Option on a recognized stock exchange shall be subject to obtaining prior approval of the Reserve Bank by the exchange.
+4. Products permitted
+An entity eligible under these directions (as specified under Paragraph 6 below) may transact in the following European Interest Rate Options:
+4.1 Interest Rate Call and Put Options
+4.2 Interest Rate Caps
+4.3 Interest Rate Floors
+4.4 Interest Rate Collars or Reverse Collars
+4.5 Interest Rate Swaptions
+5. Underlying
+For orderly market development, Fixed Income Money Market and Derivatives Association of India (FIMMDA), in consultation with market participants, shall publish a list of objective and transparent Rupee money or debt market rates or instruments that may be used as underlying for Interest Rate Option contracts in the OTC market and recognized stock exchanges.
+6. Eligible Entities
+6.1 Participation in the OTC market for Interest Rate Options shall be limited to (a) Users and (b) Market Makers.
+6.2 Market Makers: The following entities may offer Interest Rate Options in the OTC market as market makers:-
+(i) Banks, subject to meeting the following criteria: - (a) net worth of not less than ₹ 500 crore, and (b) CRAR of not less than 9%.
+(ii) Standalone Primary Dealers.
+(iii) Other regulated institutional entities subject to the prior approval of their respective regulators.
+Explanation:
+(a) ‘Net worth’ would have the meaning as defined in para no. 2.3.3 of
+DBR Master Circular no.Dir.BC.12/13.03.00/2015-16 dated July 01, 2015
+on Exposure Norms, as updated from time to time.
+(b) ‘Capital to Risk-weighted Asset Ratio (CRAR)’ would have the meaning as defined in
+DBR Master Circular no. BP.BC.1/21.06.201/2015-16 dated July 01, 2015
+on Basel III Capital Regulations, as updated from time to time.
+6.3 Users: All entities with underlying interest rate risk may participate as ‘users’ i.e., they may enter into Interest Rate Option contracts for hedging underlying risk. ‘Users’ shall not be permitted to run net short position in Interest Rate Options.
+6.4 Directions in paragraphs 6.2 and 6.3 above are not applicable to exchange traded Interest Rate Options as they are governed by rules and regulations of recognized stock exchanges.
+7. Reporting of OTC transactions
+A market maker shall report all OTC transactions in Interest Rate Options, within 30 minutes of entering into the transaction, to the Trade Repository of Clearing Corporation of India Ltd. (CCIL).
+8. Settlement of transactions in OTC
+8.1 OTC transactions executed among market makers shall be settled bilaterally or through any clearing arrangement approved by the Reserve Bank for the purpose.
+8.2 Settlement basis and other market conventions for OTC transactions in Interest Rate Options will be specified by FIMMDA, in consultation with market participants.
+9. Other Conditions
+The Comprehensive Guidelines on Derivatives issued by the Reserve Bank, vide
+circular DBOD No.BP.BC.86/21.04.157/2006-07 dated April 20, 2007
+, as updated from time to time, including the requirement for a Board approved ‘Suitability and Appropriateness Policy’ shall be complied with, mutatis mutandis, by all market makers.
+(T. Rabi Sankar)
+Chief General Manager

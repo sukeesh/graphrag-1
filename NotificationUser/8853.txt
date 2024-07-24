@@ -1,0 +1,20 @@
+(666 kb)
+Usage of Transaction Type Code (TTC) in RTGS
+RBI / 2013 – 14/575
+DPSS (CO) RTGS No.
+2232
+/04.04.002/2013 - 2014
+April 28, 2014
+The Chairman / Managing Director / Chief
+Executive Officer of participants of RTGS
+Madam / Dear Sir,
+Usage of Transaction Type Code (TTC) in RTGS
+We invite a reference to the RTGS System Regulations 2013, detailing the guidelines for RTGS transactions.
+2. In terms of para 6.4 of RTGS System Regulations 2013, different Transaction Type Code (TTC) Values are prescribed for different types of RTGS transactions. For example, TTC Value “1000” is allotted for customer transactions and TTC Value “1800” is allotted for Own Account Transfer.
+3. It has been brought to our notice that some of the RTGS participants are initiating Own Account Transfers (OAT) from RTGS settlement account to their current account maintained with RBI using the customer transaction code, i.e., using the TTC value “1000” allotted for customer transactions instead of “1800” allotted for OAT. The usage of wrong TTC value for transaction in RTGS leads to unintended consequences.
+4. All RTGS participants are, therefore, advised to strictly adhere to the RTGS System Regulations 2013 and use appropriate TTC Value while originating RTGS transactions.
+5. This Circular is issued under Section 10 (2) of Payment and Settlement Systems Act, 2007.
+6. Please acknowledge receipt of the circular.
+Yours faithfully,
+(Vijay Chugh)
+Chief General Manager

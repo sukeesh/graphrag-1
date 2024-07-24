@@ -1,0 +1,30 @@
+(210 kb)
+Implementation of Indian Accounting Standards (Ind AS)
+RBI/2015-16/315
+DBR.BP.BC.No.76/21.07.001/2015-16
+February 11, 2016
+All Scheduled Commercial Banks
+(excluding Regional Rural Banks)
+Madam / Dear Sir,
+Implementation of Indian Accounting Standards (Ind AS)
+The Ministry of Corporate Affairs (MCA), Government of India has notified the Companies (Indian Accounting Standards) Rules, 2015 on February 16, 2015. A reference is also invited to the Press Release dated January 18, 2016 issued by the MCA outlining the roadmap for implementation of International Financial Reporting Standards (IFRS) converged Indian Accounting Standards for banks, non-banking financial companies, select All India Term Lending and Refinancing Institutions and insurance entities.
+2. In this connection, it is advised that scheduled commercial banks (excluding RRBs) shall follow the Indian Accounting Standards as notified under the Companies (Indian Accounting Standards) Rules, 2015, subject to any guideline or direction issued by the Reserve Bank in this regard, in the following manner:
+Banks shall comply with the Indian Accounting Standards (Ind AS) for financial statements for accounting periods beginning from April 1, 2018 onwards, with comparatives for the periods ending March 31, 2018 or thereafter. Ind AS shall be applicable to both standalone financial statements and consolidated financial statements. “Comparatives” shall mean comparative figures for the preceding accounting period.
+Banks shall apply Ind AS only as per the above timelines and shall not be permitted to adopt Ind AS earlier.
+3. Banks are advised to take note of the Press Release dated January 18, 2016 issued by the MCA which states that notwithstanding the roadmap for companies, the holding, subsidiary, joint venture or associate companies of banks shall be required to prepare Ind AS based financial statements for accounting periods beginning from April 1, 2018 onwards, with comparatives for the periods ending March 31, 2018 and thereafter.
+4. Ind AS implementation is likely to significantly impact the financial reporting systems and processes and, as such, these changes need to be planned, managed, tested and executed in advance of the implementation date. Banks are advised to set up a Steering Committee headed by an official of the rank of an Executive Director (or equivalent) comprising members from cross-functional areas of the bank to immediately initiate the implementation process. The name and details of the designated official and the team shall be forwarded by
+email
+. The Audit Committee of the Board shall oversee the progress of the Ind AS implementation process and report to the Board at quarterly intervals. The critical issues which need to be factored in the Ind AS implementation plan include the following:
+Ind AS Technical Requirements: Diagnostic analysis of differences between the current accounting framework and Ind AS, significant accounting policy decisions impacting financials, drafting accounting policies, preparation of disclosures, documentation, preparation of proforma Ind AS financial statements, timing the changeover to Ind AS, and dry-run of accounting systems and end-to-end reporting process before the actual conversion.
+Systems and processes: Evaluate system changes - assessment of processes requiring changes, issues having significant impact on information systems (including IT systems), and develop/strengthen data capture system, where required.
+Business Impact: Profit planning and budgeting, taxation, capital planning, and impact on capital adequacy.
+People - Evaluation of resources: Adequate and fully dedicated internal staff for implementation, comprehensive training strategy and program.
+Project management: Managing the entire process-holistic approach to planning and execution by ensuring that all linkages are established between accounting, systems, people and business, besides effective communication strategies to stakeholders.
+5. Banks shall assess the impact of the Ind AS implementation on their financial position including the adequacy of capital, taking into account the Basel III capital requirements and place quarterly progress reports to their Boards. Banks also need to be in preparedness to submit proforma Ind AS financial statements to the Reserve Bank from the half-year ended September 30, 2016, onwards.
+6. The Reserve Bank shall also take steps to facilitate the implementation process. To begin with, from April 2016, the Reserve Bank shall hold periodic meetings with banks in this regard. The Reserve Bank shall issue necessary instructions/guidance/clarifications on relevant aspects as and when required.
+7. Banks shall disclose in the Annual Report, the strategy for Ind AS implementation, including the progress made in this regard. These disclosures shall be made from the financial year 2016-17 until implementation.
+8. The Boards of the banks shall have the ultimate responsibility in determining the Ind AS direction and strategy and in overseeing the development and execution of the Ind AS implementation plan.
+9. The directions contained herein are issued under Section 35A of the Banking Regulation Act, 1949 and banks shall ensure strict compliance of the same.
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager

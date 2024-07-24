@@ -1,0 +1,591 @@
+(958 kb)
+Master Circular – Collection of Direct Taxes- OLTAS
+RBI/2015-16/90
+DGBA.GAD.No.3/42.01.034/2015-16
+July 1, 2015
+To
+All Agency Banks
+Dear Sir / Madam
+Master Circular – Collection of Direct Taxes- OLTAS
+Please refer to our
+master circular RBI/2014-15/108 dated July 1, 2014
+on the above subject. We have now revised and updated the Master Circular which consolidates important instructions on the subject issued by Reserve Bank of India till June 30, 2015.
+2. A copy of the revised
+Master Circular
+is enclosed for your information. This circular may also be downloaded from our website
+www.mastercirculars.rbi.org.in
+.
+Yours faithfully
+(G. Sreekumar)
+Chief General Manager
+Encl: As above
+Master Circular on Collection of Direct Taxes
+Introduction
+The Central Board of Direct Taxes (CBDT) is responsible for administering various direct taxes through the Commissioners of Income Tax located in different parts of the country. The Commissioners of Income Tax are entrusted with the task of collection as well as refund of Income Tax and Corporation Tax, etc. under the Income Tax Act, 1961.
+2. The Principal Chief Controller of Accounts (Pr.CCA) is the apex authority of the accounting organisation of the Central Board of Direct Taxes. Under the Departmentalised set up, the Pr.CCA, CBDT has been assigned the functions relating to accounting of all receipts and refunds pertaining to the Direct Taxes. The Pr.CCA sits at New Delhi and operates through Zonal Accounts Offices (ZAOs) across the country. Presently there are 52 ZAOs located at various places.
+3. Major Heads of Account
+The various types of direct taxes collected by the Income Tax Department are classified under the following Major Heads:
+i)
+Corporation Tax (C.T)
+0020
+Corporation Tax
+ii)
+Income Tax (I.T.)
+0021
+Taxes on Income other than Corporation Tax
+iii)
+Wealth Tax (W.T.)
+0032
+Taxes on Wealth
+iv)
+Gift Tax (G.T.)
+0033
+Gift Tax
+4. Prior to 1st April 1976, Income and other Direct taxes were accepted by the Offices of Reserve Bank of India (RBI), the branches of State Bank of India (SBI), its associates conducting government business, treasuries and sub-treasuries. With a view to increasing the number of points at which these taxes could be deposited conveniently by the members of the public, a scheme for collection of income tax and other direct taxes through the branches of public sector banks was introduced with effect from 1st April 1976.
+5. 'Accounting System for Direct Taxes' - Revised procedure
+After studying the issues relating to Accounting and reporting, delays in remittance and in dispatch of documents etc., the 'Working Group on Government Accounts' suggested the revised procedure which came into effect from 1st October 1988. Reserve Bank has issued comprehensive instructions on acceptance of CBDT dues and its accounting and reporting vide its publication "Accounting System for Direct Taxes" which came to be known as the Pink Booklet.
+6. With a view to improving customer service to direct taxpayers, special attention was drawn to the following provisions of 'Accounting System for Direct Taxes':
+(i) Issue of Token:
+While instructions issued by Reserve Bank regarding the issue of paper token as an acknowledgement of payments are very clear, it is observed that a large number of authorised branches do not issue such tokens. In many places, there are informal arrangements wherein the taxpayer is asked to collect the challan after a specific date from the bank branches. In some cases, the receipted challans are not kept securely and are placed in an open box. The customers are allowed to freely pick up their challans without any identification. In the case of challans deposited with cheque or draft, the receipted challans will be issued on realisation of the amount of cheque or draft and hence the paper token should indicate the date on which the receipted copies of the challans would be kept ready so that the assessee makes an arrangement to collect the receipted challan on the date given in the token.
+(ii) Receipted Challan:
+The receipted challan should be made available to the assessee within 4-5 days, based on the local clearing arrangements. The branches should ensure that this stipulated waiting period must not be exceeded and any deviation in this regard will be viewed seriously by Reserve Bank. The receipted challans should be handled with care and in a secured manner till they are handed over to the assessee across the counter on presentation of the relevant paper token. Under no circumstance, the receipted challan should be kept in open box accessible to customers.
+(iii) Double Date Stamp on Receipted Challan:
+It is reiterated that the challan should bear two dates i.e. the 'Date of tender' of challans and instruments and the 'Date of realisation' of proceeds of the instruments as specified in Annexure-V of the Pink Booklet published by the Reserve Bank of India.
+(iv) Acceptance of Clearing Cheques:
+It is observed that some of the banks are reluctant to accept cheques drawn on other banks while receiving taxes resulting in practice of Chartered Accountants/Tax Consultants tendering their own cheques on behalf of their clients. As accepting cheques drawn on other banks will greatly facilitate the customers, banks are advised not to turn back customers who tender challans with cheques drawn on other banks.
+(v) Do's and Don'ts:
+A list of Do's and Don'ts as given in the
+Annexure-IV
+of the Pink Booklet were not being supplied to the bank staff dealing with the Direct Tax collection work as required. The same may be issued to the branches.
+7. Online Tax Accounting System (OLTAS)
+7.1 A High Powered Committee (HPC) was constituted by Reserve Bank for setting up OLTAS in January 2003. The HPC set up a Sub-Committee to suggest the Accounting Procedure for Online Tax Accounting System. The Accounting procedure duly approved by CGA and CAG was introduced for OLTAS w.e.f June 01, 2004. The salient features of the new accounting procedure are the introduction of a single copy challan with tear-off taxpayer's counterfoil, branding of acknowledgement stamp with unique serial number known as Challan Identification Number (CIN) on the single copy challan and on taxpayer's counterfoil. Tax payers are now able to view the tax paid by them by logging on to
+http://tin-nsdl.com
+. Further, the new file structure required by Income Tax Department was also forwarded to Agency banks for developing suitable software for OLTAS.
+7.2 Under the new procedure, banks were advised to issue acknowledgement in respect of challans tendered with clearing cheques/drafts (i.e. other than cash and transfer cheques/drafts) only after the realization of such cheques/drafts. Banks were further advised to issue paper token in respect of such challans indicating the date of tender and the date on which the counterfoil will be kept for delivery. The receiving banker was advised to return the tear-off portion of taxpayers' counterfoil on realization of such cheques/drafts after branding with the rubber stamp acknowledging the payment with Challan Identification Number (CIN) comprising of the following:
+BSR Code number of the bank branch (7 digits)
+Date of presentation of the challan (DD/MM/YY)
+Serial number of the challan in that branch on that day (5 digits)
+7.3 The tear off portion of the challans accompanied with cash or cheques drawn on the same receiving branch may be returned to the taxpayer on the same day with necessary acknowledgement by branding with the rubber stamp prescribed above.
+7.4 All the non-computerised/non-networked branches were advised to ensure that data pertaining to those branches be transmitted from its nearest computerised/ networked branch to the Nodal branch and from Nodal branch to Link Cell electronically so that complete data pertaining to all the authorised branches of a bank throughout India are seamlessly transmitted to the Tax Information Network (TIN) hosted by NSDL e-Governance Infrastructure Limited.
+7.5 The new accounting procedure under OLTAS will replace the existing procedure in so far as the sending of scrolls and challans to the Income Tax Department is concerned. Except for the changes proposed in the OLTAS Accounting Procedure forwarded to banks, the instructions contained in the Pink booklet "Accounting System for Direct Taxes" (Updated upto June 30, 1999) will continue to be in force.
+7.6 Further, need for transmitting data online to TIN in addition to the normal practice of sending paper scrolls and challans to the ZAO and Income Tax Department was also emphasised.
+7.7 Agency banks were advised to connect their Link Cells to TIN (NSDL e-Governance Infrastructure Limited) at Mumbai with a dedicated leased line to ensure secure two way communication.
+8. Transmission of data to NSDL e-Governance Infrastructure Limited - Validation Checks
+8.1 Various types of errors noticed by NSDL e-Governance Infrastructure Limited / Income Tax Department in the data uploaded by banks have been advised to the banks. In particular, data entry errors noticed in respect of PAN/TAN Number, incorrect nodal scroll branch data, assessment year, absence of or incorrect tax-payer's name, CIN Numbers, major head codes and amounts were brought to the notice of banks.
+8.2 To counter the lacunae observed, agency banks may incorporate the following validation checks in the OLTAS software for all Record Types:
+Value for the field NOD_BR_COL_SC_DT and NOD_BR_PYMT_SC_DT in RT01 and RT06 respectively should be between 01-06-04 and date of transmission (i.e. filename).
+PAN/TAN cannot be of lesser than 10 alphanumeric characters. If its length is 10 then in case of PAN first five and tenth character of PAN should be alpha only, and sixth to ninth i.e. next four should be numeric. In case of TAN first three characters should be CTU code and fourth, tenth must be alpha and next five (fifth to ninth) should be numeric. Quoting of PAN/TAN is made compulsory w.e.f January 1, 2005.
+Name field is always mandatory and it should have a combination of alphanumeric and dots only and it should be of more than one character (the name string should not be of dots and numeric or both. Alphabets must be there in main string). It is mandatory to transmit the
+full name
+of tax payer irrespective of the fact that PAN/TAN has been mentioned on the challan.
+ZAO code number of a collecting branch is permanent and details of ZAO code numbers are available in the pink booklet published by the Reserve Bank. Nodal Branches must ensure that this ZAO code number is correctly mentioned in Record Type 01 and is not altered under any circumstances. It is advised that all the banks should save the code in the ZAO field in their OLTAS software as instances have been brought to the notice of RBI / Government where the same branch is mentioning different ZAO code on different dates of transmission.
+8.3 In addition to the above validation checks, the following supervisory steps have to be taken by banks:
+(i) Branch Managers of the collecting branches must ensure correctness of the name and amount captured from the challans. For this 'maker-checker' system of data entry must be adopted in all the bank branches.
+(ii) All collecting branches must compulsorily transmit Record Type 01 and Record Type 02 (Summary Record), if there is collection on that day. In branches where there has been no collection during the day, Record Type 02 (NIL statement) is to be transmitted to the Nodal Branch. This would enable the TIN to accurately monitor the implementation of OLTAS.
+(iii) At the Nodal Branch level supervision has to be made to ensure that all the collecting branches are transmitting the Record Type 01 and Record Type 02. They should also ensure that those collecting branches that have no collection transmit only Record Type 02 (NIL Statement) with MAJ_HD_CD=0 and TOT_AMT=0 to their respective Nodal Branch.
+(iv) Branch Manager of Nodal Branch must ensure that the Major Head wise collection shown in the Nodal Branch Scroll of a particular date submitted to the ZAO, tallies with the corresponding totals in the OLTAS data transmitted to the Link Cell for submission to TIN. This exercise should be done in respect of all payments from June 1, 2004.
+(v) All the banks at Link Cell level should maintain an error record of action taken on error records transmitted to TIN. This would ensure that all records which had initially been rejected by TIN due to some deficiencies are compulsorily retransmitted to TIN after removal of lacunae within 48 hours.
+(vi) It is observed that the banks are entering wrong major head codes i.e. interchanging payments received under Major Head 020 for Corporation Tax or Major Head 021 for Income tax other than Corporation Tax. This leads to avoidable misclassification of payments and affects the reconciliation of accounts between the Income Tax Department and ZAO. In case of a valid PAN, the above validation can be implemented in the OLTAS software i.e. if 4th character (from the left) is 'C' then Major Head code must be 020.
+8.4 Income Tax Department has also informed us that while transmitting assessment year data, banks were required to transmit the first part for normal as well as block assessment years; for example for the normal assessment year 2005-2006 the bank is required to transmit 2005 and for a block assessment year like 1997-2005, the year 1997 should be transmitted.
+9. Sending daily scrolls by e-mail to ZAOs
+Banks were advised of the revised format of electronic Nodal Branch Daily Main Scroll for Direct Tax Collection. The revised format (
+Annex III
+) is to be used to send the Daily Main Scroll electronically to all ZAOs pending receipt of physical challans/scrolls from all receiving branches.
+10. Abolition of Sub-Agency Arrangements for Collection of CBDT Dues
+It was observed that one of the major reasons for non-uploading of data under OLTAS is the existence of Sub-Agency arrangements with another prominent bank in the locality where the Sub-Agency bank concerned does not have sufficient number of branches for having its own Nodal Branch as per the norm then prescribed by CBDT. Due to non-compatibility or for other reasons, the data in respect of challans received by collecting branches under sub agency arrangements were not uploaded to TIN by the Principal Agency banks in many cases. With a view to avoiding delay and problems arising out of the sub-agency arrangements, it has been decided in consultation with Directorate of Income Tax (Systems), New Delhi to discontinue the Sub-Agency arrangement altogether. Banks were advised to designate their own Nodal branches wherever their branches were functioning under sub-agency arrangements.
+11. Funds Settlement - Reporting to RBI, CAS Nagpur
+11.1 Keeping in view the decision to switch over to settlement of funds on the basis of on-line data uploaded to TIN with effect from April 1, 2005, the existing system of reporting CBDT transactions to RBI, CAS, Nagpur has been reviewed. Accordingly, it was decided that agency banks will submit the CBDT figures to RBI, CAS, Nagpur separately through digitally signed e-mail (to be signed by a class II certificate holder). The CBDT figures reported to TIN as at 13.15 hours on week days and 12.30 p.m. on Saturdays would simultaneously be reported to CAS, Nagpur for funds settlement through digitally signed e-mail. The data mailed after the cut-off time would not be accepted by CAS, Nagpur under any circumstances.
+11.2 Banks were advised that any rejections by the system at RBI, CAS will not be accounted for on the same day as it is presently being done after obtaining corrected revised advices from the Link Cells. The figures accepted by the system at CAS would be accounted for. The rejection report would be passed on to the Link Cell along with the daily input statement on the same day. Banks were advised to issue necessary instructions to their branches and the Link Cell in this regard.
+11.3 It was clarified that the financial data file uploaded to CAS, Nagpur on any given date for funds settlement and the challan data relating to that particular settlement date uploaded to TIN should exactly match.
+Files rejected subsequently by NSDL e-Governance Infrastructure Limited, if any, due to validation errors etc. should be processed separately and re-uploaded. Banks were advised to ensure that challan data in respect of each and every challan deposited by the assessee is uploaded and duly accepted by TIN. Such re-uploading of files to TIN would not affect the funds settlement data. The requirement of complete reporting to TIN would be achieved if the data going from Link Cells to CAS, Nagpur and the relative challan data going to TIN are uploaded
+simultaneously
+.
+11.4 Link Cells were advised to ensure that there is no mismatch in figures uploaded to CAS and TIN for a given uploading date.
+11.5 Nodal Branches were advised to follow the instructions contained in paragraph 6 of the 'Accounting Procedure Relating to On-line Tax Accounting System (OLTAS)' meticulously and were advised to dispatch the Scrolls and Challans etc. on a day-to-day basis to Zonal Accounts Offices concerned.
+12. Clarifications on OLTAS
+Certain clarifications issued by the RBI for guidance to banks as regards OLTAS are reproduced below:
+12.1 Challan Identification Number (CIN)
+It was clarified that as per paragraph 1.3.3 of OLTAS Accounting Procedure (Annexure) running serial number would have to be given for all the challans tendered with cash, transfer cheques
+as well as clearing cheques
+on a particular day across all types of direct taxes. While the tear-off portion of the challan tendered with cash and transfer cheques (i.e. the cheque drawn on the collecting branch) needs to be returned to the tenderer with the prescribed rubber stamp indicating the date of tender, BSR code and CIN etc., the challans tendered with
+clearing cheques
+(i.e. drawn on other branches/banks) would have to be returned only on realisation of the instruments. The authorised official of the receiving bank branch was also required to sign the tear-off portion of the challan as well as original challan.
+12.2 Banks were requested to visit Income Tax website
+www.incometaxindia.gov.in
+for Frequently Asked Questions (FAQs) on OLTAS.
+13. Further, banks were advised to ensure full participation of authorised branches and ensure that every challan record is transmitted to TIN by every branch where tax collection has been made. It was reiterated that a NIL statement (Record type 02) may be transmitted to the nodal branch when there had been no tax collection during the day to enable TIN to monitor OLTAS properly. It was also emphasized that the data transmitted to TIN should be correct and complete and conforms to the stipulated procedures.
+14. Banks were advised of the following critical shortcomings which were brought to the notice of RBI by Directorate of Income Tax:
+a) Non capture of PAN/TAN by banks -
+It had been reported from many centres that even where the taxpayer has correctly quoted his PAN in full, certain bank branches were either not entering it or were entering it in an incomplete manner. In this connection, banks were advised that under the On-line Tax Accounting System (OLTAS) procedure/rules, it had been laid down that wherever the 10 digit PAN/TAN in the proper alpha numeric structure is quoted by the taxpayer the banks would only have to capture the PAN and the name of the taxpayer and not the address.
+b) Non capture of the full name of the taxpayer -
+Perusal of the data uploaded to TIN indicated that many bank branches are still putting one or two characters in the name column of the taxpayer. In some cases even symbols and dots were used. Banks may please ensure capture of taxpayer's full name in OLTAS data.
+c) Incorrect address field -
+The data analysed also reveals that the address field was not being captured properly by many bank branches. In many cases, just a few random alphabets or numbers were being entered which again indicated that the bank branches were not taking adequate care for full data capture. Banks were advised to take necessary corrective action.
+d) Wrong reporting of Challan Identification Number (CIN) –
+Some bank branches were allotting a particular Challan Identification Number (CIN) on the taxpayer's counterfoil but entering a different CIN on the OLTAS data sent. As per OLTAS procedure/rules, CIN was to be allotted on date of presentation only. The CIN Number stamped on the taxpayer's counterfoil as well as on the main body of the challan should be transmitted to TIN.
+e) Non uniform scroll data -
+As per the On-line Tax Accounting procedure/rules, the scroll of a Nodal Branch for a particular day is to be identical for both the ZAO as well as for the data transmitted on OLTAS to TIN. It was clarified that all collection data being sent to ZAO and TIN for a particular day must
+match
+both in respect of number of challans and major heads. Further banks were advised to ensure that
+each and every
+challan record is sent to TIN by every branch where collection has been made.
+15. De-authorisation of bank branches for collection of Direct Taxes
+15.1 With a view to streamlining the procedure for delisting of authorised bank branches under OLTAS, it has been decided in consultation with the office of Principal Chief Controller of Accounts (Pr.CCA), CBDT, New Delhi that any proposal for de-authorisation of branches should be submitted by the Head Offices of the Agency banks to RBI, Central Office keeping in view the following parameters / guidelines:
+The existing branch has not received any Direct Tax in the previous year (April-March)
+The proposal for delisting of authorised branch has the approval of the Top Management of the concerned bank.
+15.2 After the proposal is approved by RBI/Office of Pr.CCA, CBDT the concerned bank should give wide publicity to the effect that the specific branch will discontinue acceptance of taxes with effect from a specific prospective date and advise us accordingly.
+16. File Segregation Utility developed by Tax Information Network
+Requests have been received from some banks that Tax Information Network (TIN) should not reject the entire file of OLTAS data received from a bank's Link Cell because of a few erroneous records. The banks have desired that TIN should accept the records which are with correct validations while rejecting the erroneous records. On the basis of the discussions CBDT had with NSDL e-Governance Infrastructure Limited (TIN) and banks, TIN had developed a File Segregation Utility which was advised to banks. (
+Annex II
+)
+17. Accounting Procedure relating to crediting of CBDT collections to Govt. Account – Public Sector Agency Banks
+17.1 It has been decided in consultation with Government of India to amend the instructions relating to the maximum number of days allowed for crediting tax collections to
+T+3 working days
+(where T is the day when money is available to the bank branch) instead of T+3 days (including Sunday and Holidays) with effect from
+April 1, 2005
+. For calculating working days holiday list of CAS, Nagpur will be reckoned.
+17.2 It has been decided that the put through date, i.e. the date of settlement with the CAS, RBI shall be kept outside this existing time limit of T+3 working days.
+17.3 Delayed period interest shall be imposed on banks for the delayed period and not from the date of transaction. In other words, the ‘delay period’ calculation will start from the day following the put through date.
+17.4 The period of delay in a transaction of Rs.1 lakh and above shall attract delayed period Interest at Bank Rate + 2%. The Bank rate will be the rate as being notified by the RBI from time to time.
+17.5 For transactions below Rs.1 lakh, delayed period interest shall be levied at the Bank Rate for delays up to 5 calendar days and above 5 calendar days at the Bank Rate + 2 %
+for the full period of delay
+. The Bank Rate will be the rate notified by the RBI as applicable at the time of transaction.
+17.6 The Principal Chief Controller of Accounts (Pr.CCAs), Chief Controller of Accounts (CCAs) and Controller of Accounts (CAs) in Ministries/Departments do a Quarterly Review of all remittances made by banks. If the delay is found to be 5% and more with the bank as a whole or with any of its branches in two successive quarters, authorisation for the concerned bank or the branch will be forwarded to the CGA for review with the recommendations of Pr.CCA/CCA/CA. The banks are expected to build their own internal control mechanism so that the preventive and corrective actions are taken by the bank for its branches well in time.
+18. Accounting Procedure relating to crediting of CBDT collections to Govt. Account – Private Sector Agency Banks.
+18.1 In the case of private sector agency banks the time limit for settling the transactions with CAS, Nagpur will continue to be
+T+3 days (including Sundays and Holidays)
+. The period of delay will be counted from the date of receipt of the collection at the receiving branch (actual realisation of the money in the bank) till it is reported to Reserve Bank of India, CAS, Nagpur for credit to Government account. Delayed period interest will be recoverable from the banks regardless of the amount involved. Delayed period interest shall be levied at the prevailing Bank Rate + 2%. (Bank Rate shall be notified by RBI from time to time).
+18.2 Further, the instructions given at Para 17.6 above will also be applicable to private sector agency banks.
+19. Drawing of Cheques by Assessees- Payees Name
+With a view to obtaining uniformity in the Payee's name while drawing cheque/DD by assessees for depositing challans for Direct Tax Payment under OLTAS, it has been decided by the Income Tax Department to print the following instructions on the reverse of the Income Tax Challan:
+"Tax payer may please draw/issue cheque/DDs towards payment of Income Tax as under:
+"Pay….. (Name of the Bank where the challan is being deposited)- A/c Income Tax".
+Banks should bring the change to the notice of all their authorised branches.
+20. Major Heads/Challans
+Banks were advised of the revised challan formats introduced by Government of India which were necessitated by the introductions of two new taxes i.e.
+Fringe Benefit Tax
+and
+Banking Cash Transactions Tax
+. Consequent changes/ rationalisation made to Major Heads and Sub-Minor Heads of Account by Income Tax Department are given below:
+CHALLAN NO. ITNS – 280
+The Challan is for the payment under the two Major Heads i.e. (a) 0020 Income Tax on Companies (Corporation Tax) and (b) 0021 Income Tax (other than Companies). It should now be possible for taxpayers to pay taxes for assessment years other than consecutive assessment years. For example, in the case of assessments for block period (more than one consecutive assessment year), the assessment year field in the bank's software may be modified to accept payments for a period other than consecutive assessment year for example payments for A.Y.1991-97, 1992-99, 1993-99 etc.
+CHALLAN No. 281
+The challan is meant for payment of TDS (tax deducted at source)/TCS (tax collected at source). It has two Major Heads i.e. (a) 0020 for company deductees and (b) 0021 for non-company deductees. The challan has two Minor Head Codes which are to be ticked by the tax payer (a) TDS/TCS payable by tax payer (Minor Head-200) (b) TDS/TCS on regular assessment (raised by Income Tax Department) (Minor-Head-400).
+The new three digit codes Sub-Minor Heads now introduced in the challan are as under:
+Section
+Nature of Payment
+Code
+206C
+Collection at source from Alcoholic Liquor for Human Consumption
+6 C A
+206C
+Collection at source from Timber obtained under Forest lease
+6 C B
+206C
+Collection at source from Timber obtained by any Mode other than a Forest Lease
+6 C C
+206C
+Collection at source from any other Forest Produce (not being Tendu Leaves)
+6 C D
+206C
+Collection at source from Scrap
+6 C E
+206C
+Collection at source from contractors or licensee or lease relating to Parking lots
+6 C F
+206C
+Collection at source from contractors or licensee or lease relating to Toll Plaza
+6 C G
+206C
+Collection at source from contractors or licensee or lease relating to mine or quarry
+6 C H
+206C
+Collection at source from Tendu leaves
+6 C I
+CHALLAN NO. 282
+This challan is for the payment of a number of taxes. The changes introduced in this challan are as under:
+Securities Transaction Tax has been renumbered as Major Head 0034 in place of the earlier Major Head 0025.
+Wealth-Tax - Major Head 0032 has been included in this Challan. Earlier this Major Head was in Challan No.280.
+CHALLAN NO. 283
+Consequent to the abolition of Fringe Benefit Tax w.e.f assessment year 2010-11 and withdrawal of Banking Cash Transaction Tax w.e.f. April 1, 2009, this challan is presently not in use.
+Banks may please arrange necessary modification in OLTAS software and bring the above changes to the notice of all the branches collecting direct taxes to enable the branches to accept payment of these taxes with immediate effect.
+21. Verification of PAN/TAN
+The Income Tax Department through their Regional Computer Centre would provide a CD, containing the PAN/TAN master, and the name of tax payers of that region to the nodal branches of all agency banks which will be updated on a quarterly basis. Banks were advised to replicate the copies of the CD for internal distribution to their branches along with a simple data retrieval software which may be used for cross verifying the PAN/TAN quoted by the tax payer in the challan tendered. Banks were also advised to explore the possibility of developing a software whereby the PAN/TAN and the name provided in the CD gets captured by their data entry system automatically thereby eliminating separate data entry of PAN/TAN. If the tax payer's PAN/TAN is not available in the CD, the customer may be requested to produce a copy of the relevant PAN/TAN card or any other document to indicate the correctness of the PAN/TAN. Banks are not required to retain these documents used for the purpose of verification in cases where the PAN/TAN of the tax payer is not available in the CD supplied by Regional Computer Centre. Most importantly, banks were advised not to accept challans without a visual check by the receiving official concerned to ensure that the challan contains PAN/TAN in the valid 10 digit character.
+22. Compulsory Quoting of Permanent Account Number (PAN)/Tax Deduction Account Number (TAN) on Challans from 1/1/2005
+With a view to ensuring correct and prompt credit to tax payers, Central Board of Direct Taxes (CBDT), Government of India have decided to implement the provisions for mandatory quoting of PAN/TAN on Challans from January 1, 2005. Accordingly, no payment of taxes will be accepted by bank branches unless the PAN of the tax payers is quoted on Challans ITNS 280 & 282 or TAN of the deductor on Challan ITNS 281, as the case may be. The branches may display a notice prominently stating that
+'Quoting of PAN/TAN on Challans is compulsory from 1/1/2005'
+in the branches and not to accept challans without PAN/TAN from that date. The procedure for obtaining PAN/TAN is available in the website of Income Tax Department (
+http://www.incometaxindia.gov.in
+or
+http://www.tin-nsdl.com
+). The branches may guide the assessees to obtain PAN/TAN before depositing the tax. The facility of downloading the challan form No. 280 & 281 with pre-printed PAN/TAN number may also be given wide publicity through your designated branches.
+23. On-line Tax Accounting System (OLTAS) - Improvement in Data Quality
+23.1 Discrepancies in challan details uploaded to TIN
+The OLTAS data uploaded to TIN by agency banks do not often match with the relative data submitted through TDS/TCS returns submitted by deductors. Common irregularities observed were:
+Date of Realisation is digitised as Challan Tender Date in the data uploaded through OLTAS.
+Uploading of incorrect Challan Serial Number, Major Head, PAN/TAN etc.
+Challan Serial No. not Stamped on challan counterfoil.
+Amount indicated against single challan bifurcated into two amounts and reported in two challans.
+Banks were advised to avoid the above errors and be more careful while capturing and uploading OLTAS data.
+23.2 Data Quality Concerns
+In order to achieve accuracy in reporting PAN & CIN to TIN the agency banks were advised to:
+use bulk PAN verification facility from TIN - NSDL e-Governance Infrastructure Limited site;
+insist on proof of PAN whenever necessary and
+ensure CIN given to the customer is the one uploaded to OLTAS. Care to be taken especially with reference to 'date of tender'.
+24. Introduction of Computerised Receipts and Improvement in Data Quality
+The Agency banks were advised to issue computerized receipts for challan payments of OLTAS transactions comprising of relevant data as per prescribed proforma i.e.
+Annexure A-IV-I
+&
+II
+w.e.f June 01, 2008. The agency banks further advised to follow additional guidelines as under:
+Maker Checker System of Data Entry:
+Maker Checker System in which the data entry by one is checked by another to exclude the possibility of wrong data entry, may be strictly followed.
+Software Alert:
+To minimize the data entry error, the data entry software in the collecting branches should provide alert message where PAN/TAN is not entered or structurally invalid data is entered or PAN is entered in the column meant for TAN or where there is mismatch between minor head and assessment year etc.
+Software validation:
+You may ensure that the software validations issued by Income Tax Department have been incorporated in your system.
+Quality assurance at Bank level:
+Quality assurance in respect of collection of Government Tax is expected from all agency banks.
+Re-upload of rejected file:
+The OLTAS data file may be validated through the file validation utility (FVU) before uploading the same to TIN to eliminate rejection of data file at NSDL e-Governance Infrastructure Limited.
+25. Cut off time for e-Payment transactions pertaining to Government Revenue
+Payment under OLTAS received up to 8.00 p.m. by agency banks may be treated as received on the same day and those received thereafter be treated as received on next working day.
+26. Mandatory Electronic Payment of Tax by Certain Categories of Taxpayers
+CBDT has made electronic payment of taxes mandatory for the following categories of taxpayers:
+A Company
+A person (other than a company) to whom provisions of Section 44AB are applicable
+Banks may, therefore, instruct their branches:
+to identify the status of the corporate taxpayers from the name. The 4th digit of PAN of all corporate asseessee would be "C". Hence physical challans from such asseessee should not be accepted across the counter.
+to accept physical challans at the bank counters from taxpayers under Section 44AB of IT Act as the responsibility of making e-payment rests primarily with the taxpayers.
+to make available acknowledgement for e-payment immediately on the screen.
+to ensure that the transaction id of e-payment is reflected in the bank's statement.
+to display on its e-payment gateway page, the official/s to be contacted in case the taxpayer faces any difficulty in making the payment, completing the e-payment transaction, generating the counterfoil etc.
+to give ITD and NSDL e-Governance Infrastructure Limited, a list of officials with contact particulars to be contacted if required for any problems faced by ITD or tax payers.
+The agency banks were supplied a CD containing area-wise PAN and names of taxpayers coming under Section 44AB of IT Act for the financial year 2007- 08 and advised to take following action in case of submission of challan with cheque by taxpayers covered under Section 44AB of IT Act, which can be verified from the CD containing area wise PAN and names of the taxpayers coming under Section 44AB:
+Request the taxpayer to route his payment through e-payment mode.
+If he asserts his inability to do so, accept the cheque with a warning that it will not be accepted for the next payment and he may be liable for proceeding under the Act.
+Help the taxpayer to open net - banking account in the branch.
+A short write up and steps to be followed to make e-payment (as per Annex IV) for the knowledge of tax payers was also provided to the banks.
+27. Permissible Period of Remittance
+a) The remittance period in respect of Private Sector Banks and Public Sector Banks for all Government transactions including EASIEST and OLTAS received through e-payments is T+1 working day (including put through date) w.e.f. August 1, 2008 and November 1, 2010 respectively where “T “is the day when money is available with the receiving bank branch.
+Applicability of exclusion of put through date for the transactions (relating to revenue receipts) affected during the period 1/5/2005 to 31/12/2006 for the cases in which penal interest has already been paid:
+As per the instructions, the 'Put Through Date' was excluded from the prescribed remittance norms for calculating delayed period interest for remittance of Government revenues and these instructions were made applicable in pending delayed period interest cases where the banks had not paid the interest. The excess payment of penal interest paid by the banks will be adjusted against the subsequent claims of delayed period penal interest against them.
+b) A maximum period of T+5 working days (excluding put through date) for outstation transactions will be allowed for remittance of Govt. revenues into Govt. account under Electronic Accounting System in Excise and Service Tax (EASIEST). This dispensation will not be applicable on e-payments (payment made through internet) for which separate instructions have been issued vide circulars RBI/2008-09/97 and RBI/2014-15/416 dated July 18, 2008 and January 21, 2015 respectively.
+c) A period of T+12 working days (excluding put through date, where T is the day when money is available to the branch), is allowed with effect from 01.01.2010 to
+Public Sector Banks
+for manual remittance of Government receipts to CAS, RBI, Nagpur in respect of branches located in Jammu & Kashmir, Leh, Uttarakhand, Himachal Pradesh, Sikkim, North Eastern Region (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura), Jharkhand and Chhattisgarh.
+The above norms for remote, difficult and hilly areas will not be applicable to remittance of funds under the deposit schemes viz. PPF / SCSS etc. of Ministry of Finance
+28. Recovery of Interest from Agency Banks on delayed remittances of Government Receipts into Government Account
+a) Agency banks are required to adhere to the following additional norms for payment of government revenue through Debit / Credit cards and Net banking:
+Penal interest will be levied on delayed remittances of e-receipt into government account, i.e., on delay beyond T+1 working day, if any, and the settlement should conform to the provisions contained in the Payment and Settlement Systems Act 2007 and the rules and regulations framed there under.
+b) Levy of petty amount of penal interest on delayed remittances of government receipts:
+It has been decided that petty claims of delayed period penal interest involving amount of Rs.500/- or below, will be ignored and excluded from the purview of penal interest w.e.f. January 1, 2008.
+Annex I
+ACCOUNTING PROCEDURE RELATING TO ON-LINE TAX
+ACCOUNTING SYSTEM (OLTAS)
+1. Procedure for acceptance of taxes at the receiving branches
+1.1 A taxpayer can pay direct taxes at any authorised branch of the authorised bank either in cash, direct debit to account or by a cheque/draft drawn on the same bank or another bank/branch at the same centre where the payment is made. The payment of tax by outstation cheques/drafts can also be made at any authorised bank, or through an electronic means of remittance to the authorized bank/branch. For every payment there should be a challan in the prescribed format. The challan format is a single copy challan with the main challan at the top and the taxpayer's counterfoil at the bottom of the challan (Specimen at Annexure 'A').
+1.2 At the counter of Receiving Bank Branch
+The receiving clerk/teller of the receiving branch will have to check up the following points while accepting the payment: -
+a. Whether main portion of the challan and the taxpayer's counterfoil form have been filled in properly and the amount and major head of account to which the amount is to be accounted/credited is correctly recorded therein;
+b. Whether details of the Permanent Account Number (PAN) or Tax Deduction Account Number (TAN), name and address of the taxpayer, assessment year and nature and type of payment are properly filled in. The amount should be written correctly both in words and figures.
+c. Whether the Permanent Account Number (PAN)/Tax Deduction Account number (TAN) has been quoted in the challan at the prescribed place. U/s 139 A (5) (b) of the Income Tax Act, quoting of PAN is mandatory. Similarly, u/s 203A of the Act, quoting of TAN is mandatory. This number, as quoted by the taxpayer should be validated (checked to see whether it is in conformity with the valid PAN/TAN structure) and the designated banks accepting tax payment should ensure that the challans for payment are accepted only when a valid PAN is quoted in the challan. However, where the taxpayer indicates that he has already applied for allotment of PAN or TAN but has not yet been allotted the same, the tax payment challans may be accepted by the bank provided the tax payer indicates PAN/TAN application number in the challan. In such cases, it should invariably be ensured that the
+full address of the taxpayer has been mentioned in the challan
+.
+1.3 After scrutinizing the challan and satisfying himself that the amount of cash, cheque or draft tendered agrees with the amount shown in the challan, and also that the cheque is not post dated/stale, the receiving teller or counter-clerk of the branch will issue a paper token to the tenderer to facilitate delivery of the counterfoil receipt to him. In the case of challans deposited with cheque or draft drawn on other bank branches, the counterfoil receipt will be issued only on realization of the amount of the cheque or draft and hence the paper token should bear the date on which the same will be available.
+1.3.1 Challans tendered with Cash
+A challan tendered with cash, if found in order after scrutiny, will be stamped 'CASH RECEIVED'. The bank will also stamp both the main portion and the taxpayer's counterfoil of the challan with a stamp mentioning the name of the bank & branch, the BSR code of the branch (7 digits), date of deposit (DDMMYY) of the amount and unique serial number of the challan (5 digits). The stamp will be impressed on both the main portion as well as the taxpayer's counterfoil of the challan. Care must be taken to ensure that the impression of the receipt stamp is clear and legible.
+An authorized official of the branch will sign in full the taxpayer's counterfoil of the challan and initial the main copy of the challan having received the amount. In the taxpayer's counterfoil, the amount received will be indicated in both words and figures. The receipted taxpayer's counterfoil will be returned to the tenderer and the main copy will thereafter be passed on for scrolling in the Receipt scroll.
+1.3.2 Challans tendered with Cheque/Draft
+A challan tendered with cheque/draft will be branded with a 'double date stamp' to indicate the date of tender of the instrument as well as the date of realization thereof. It may be possible that some branches might be following the practice of branding the challans with an inward date stamp as soon as the challans are tendered over the counter. In that case the double date stamp may not be necessary. However, it will be ensured that the inward date stamp is invariably branded on both the main copy and the taxpayer's counterfoil of the challan.
+The checking official will initially ensure that there is no difference between the amount of cheque/draft and the amount recorded in the challan by the tenderer. The cheque/draft will thereafter be sent for realization. Subsequently, on realization of the cheque/draft,
+the date of realization will be indicated on the double date stamp or in the space in the challan as the case may be
+. The bank will also stamp both the main and the taxpayer's counterfoil of the single copy challan with a stamp mentioning the name of the bank & branch, the BSR code of the branch (7 digits) date of deposit (DDMMYY) of the amount and unique serial number of the challan (5 digits). After signing the challan for having received the amount, the taxpayer's counterfoil will be returned to the tenderer against the surrender of the token.
+1.3.3 Numbering of Challans
+Running serial number will be given for all the challans (both paid by cash and by cheque)
+for each day
+. It must be ensured that the serial number on each challan issued on a particular day should be
+unique
+to trace it subsequently.
+The bank must therefore ensure that the serial numbers given to the challans deposited with cash do not overlap with the serial numbers given to the challans against which cheques have been realised on that day
+.
+Counterfoil of the challans tendered along with cash and cheque/draft payable at the same branch will be returned to the tenderer duly receipted at the counter. The challans tendered with cheques/drafts drawn on a different branch of the same bank or any other bank situated at the same centre, the tax-payer's counterfoil will be returned duly receipted not later than the working day following the day fixed under the Rules of 'Local Bankers' Clearing House' for return of unpaid instruments of any day's clearing.
+1.4.1 In case of challans tendered with cheque/draft, the date of realization of the cheque will also be stamped on the main portion of the challan, which will be retained at the bank for onward transmission to Zonal Accounts Office (ZAO) along with the Receipt Scroll. Although as per the Income Tax Act the date of presentation of cheque/Demand Draft realized will be treated as date of payment of tax, the cheque/Demand Draft will be scrolled only after realization.
+1.4.2 Double Date on Receipted Challan
+The main portion of the challan through which a cheque/draft is deposited will, therefore, have two dates as under:
+i) Date of tender : DDMMYY (in the rubber stamp acknowledgement)
+ii) Date of realization: DDMMYY (at the place indicated in the challan)
+In case of cash tender, the 'Date of tender' and 'Date of realization' will be the same.
+1.4.3 The collecting bank
+will not issue receipt in any other format
+.
+2. Preparation of Scrolls by the Collecting Branch
+2.1 A running serial number will be given to all the challans received at a bank branch counter
+on each day
+against which cash payments have been made or cheques/drafts have been realized on that date.
+2.2 All the challan fields such as name and PAN, the serial number, date of deposit and BSR code of the branch are required to be captured when the challan is deposited by the tax payer at the bank counter. The data structure of the fields of the challan for which data has to be captured and transmitted will be as informed to the banks by the Income Tax Department. Permanent Account Number (PAN) and the name of the taxpayer will invariably be incorporated in the Receipt & Payment Scroll.
+2.3 At the end of customer banking hours, the bank branch should identify all those challans against which payment has been received in cash for the day or for which payments by cheque/draft have been realised for the day. As the details of all these challans is already in the bank's computer system, the branch should generate a file containing all the challan data for which payments have been realised for that day and transmit it to its Nodal Branch for onward transmission to the Income Tax Department's TIN through the banks' Link Cell.
+However, the non- computerized / non-networked authorized branches should ensure that data is transmitted from it's nearest computerized/networked branch to the Nodal Branch. It should be ensured that no challan for which payment has been realised on that day is left out. A running scroll serial number extending through a financial year (1st April to 31st March)
+will be given to the records relating to each type of tax (major head) which are transmitted on a particular day. The complete data structure of records and the file which is to be transmitted by the bank to the Department will be in the format prescribed by the Income Tax Department.
+The collecting branch will in no case alter the online data file at its end after it has been transmitted to the Income Tax Department.
+2.4 Treatment of Clearing Returns
+The collecting branch should also identify all those challans against which instruments were returned unpaid. Such instruments along with related challan should be kept separately in the bank for taking further necessary action as deemed fit.
+2.5 The collecting branch will also generate separate printouts of the scrolls in Form ……… and summary in Form ……… based on the type of tax (major head-wise) on a daily basis from the challan data on its computer which has been transmitted to the Income Tax Department. The same running serial number extending through a financial year (1st April to 31st March), which was given to the scrolls transmitted for the relevant day, prefixed by the appropriate abbreviation of the type of tax (major head) concerned, will be printed on the scroll. The collecting branch will in no case generate any printed scrolls or summary from data which is changed in any manner from the data earlier transmitted to the Department. Thus the scrolls generated by the branch will exactly match the scrolls generated by the RCC from the data transmitted to the Department's TIN on-line by the bank. Thereafter, the branch will prepare a set of computer printed summary and receipts scrolls and attach with each scroll
+the physical challans arranged in the same serial order in which they are entered in the scrolls
+. At the beginning of the next working day, the receiving branch will forward the same to the Nodal Branch for
+onward transmission to the ZAO
+.
+2.6 Transmission of Error Records
+In case of any error by the collecting bank branch in reporting the amount of payment made by a taxpayer or major head of payment, the bank will transmit the corrected information on-line to TIN through an error record, the format for which will be as prescribed by the Income Tax Department. Rectification of the errors in the amount and the head of account will also be reported to ZAO through 'Error Scroll' to be sent through Nodal branch. Only the amount of tax payment as reported by the bank to the TIN will be accepted by the Income Tax Department as the payment made by the taxpayer.
+3. Procedure for Payment of Income Tax Refund Orders (ITROs)/ECS
+3.1 Direct tax refund work is entrusted to only one branch of an authorized bank generally Reserve Bank of India, State Bank of India or its Associate Banks at an ITD centre/a District. The Refund Orders will be presented to the branch by the taxpayer for transfer to his account with the same branch. Alternatively, it might be received through clearing. The specimen signatures of the officers of the Income Tax Department who are authorized to draw refund orders will be sent to the paying branches concerned in advance by the Income Tax authorities. The specimen signature will be duly certified by an officer of the Income Tax Department whose specimen signature is already on record with the branch. Any change in the authorised official will be advised to the branch concerned immediately. The relieved officer will attest the specimen signature of the relieving officer. While passing the refund orders for payment, the passing official should exercise utmost care apart from the precautions usually exercised by the banks in connection with payment of Negotiable Instruments, the instructions issued by Controller General of Accounts as well as Reserve Bank from time to time. The payee is required to affix his signature in the space provided for 'Claimants signature' on the reverse of the Income Tax Refund Order (ITRO). The procedure relating to Refund Advices will continue as at present except that advices of paid ITROs and printed payment scrolls will no longer be sent by the bank to the Income Tax Department.
+3.2 As in the case of receipts, refunds are required to be classified by the paying branch according to the type of tax under which the refunds are made. Separate major head wise payment records will be maintained in respect of payment of ITROs.
+3.3 Direct Tax refunds can also be credited directly to the taxpayer's bank account through Electronic Clearance Scheme (ECS) of RBI. In order to avail of this facility, the taxpayer gives a mandate by mentioning type of his bank account (Savings or Current), account number and bank branch code (9 digit) in his Return of Income. After processing of the taxpayer's Returns and determination of the refund by the Assessing Officer, all taxpayer's refunds (in which credit through ECS has been sought) in the jurisdiction of an RCC are automatically consolidated on the computer system at the RCC. All this refund data is downloaded, encrypted and copied onto a magnetic media (floppy or rewriteable CD) or transmitted electronically. This is sent by the RCC to the local ZAO as well as refund issuing branch of RBI or SBI. After validating the data in the file, the bank debits the Income Tax Department Account for the total amount of the refunds and thereafter issues instructions through clearing to the different local branches of the banks where the taxpayer's accounts are located to credit the taxpayer accounts with the amount intimated by the Department. This single debit to the Department's account appears in the payment (refund) data transmitted by the bank to the Income Tax Department for that day. In case any of these credits to the taxpayer's accounts are not effected due to reasons like closing of the account etc., the same is later accounted for by a separate minus debit entry for ECS Return in the Income Tax Department's account and is intimated to the Income Tax Department through the payment (refund) data transmitted for that particular day. The files in the electronic media (floppy or rewriteable CD etc.) are returned along with the computer printed payment (refund) scroll to the ZAO while the same data is transmitted online by the bank to the Income Tax Department through the Income Tax Department's Tax Information Network (TIN).
+4. Preparation of Payment (Refund) Scrolls
+4.1 The procedure for preparation of payment scrolls will be the same as the procedure applicable to receipts scrolls.
+4.2 The scrolls will be made into set similar to the set relating to receipts except that instead of the challans, the paid Refund Orders will accompany the scrolls. The entire data regarding the paid refund vouchers will be transmitted electronically by the paying bank to the Link Cell for onward transmission to the Department's TIN while the physical scrolls with the paid Refund Order will be forwarded to the ZAO through the Nodal Branch. If the Nodal Branch is not locally situated, all the above documents (receipt/payment scrolls etc.) should invariably be sent by Registered Post.
+4.3 In the case of ECS Refunds, the data will be transmitted on-line to the Link Cell and subsequently to the Income Tax Department while the same ECS detail on electronic media will be sent to the local ZAO by Paying Bank through the Nodal branch
+5. Loss of Counterfoil by the taxpayer
+In the event of loss of receipted challan counterfoil by the depositors, the bank branches may, on receipt of a specific request in writing for issue of a
+certificate of credit
+from assessees, issue the same to the depositor based on their record after satisfying themselves about the bonafides of the applicant in each case and may charge a nominal fee at its discretion. The certificate should mention the challan details i.e. amount, bank name and branch, BSR Code and Date of Deposit of cheque/cash, major head, challan serial number, date of realisation of cheque/date of deposit of cash and Collecting branch scroll number and date on which details of tax payment have been transmitted earlier.
+6. Functions of Nodal Branch
+6.1 Nodal Branch will be responsible for the prompt and accurate transmission, accounting of the collections/refunds reported to it daily by all the receiving branches under its jurisdiction (including its own receipts). It will also be responsible for prompt remittance of the collections of all the receiving branches linked to it (including its own collections) to the Government Account at RBI, CAS, Nagpur. It will also be responsible for reconciliation of figures with the ZAO.
+6.2 On receipt of on-line data regarding all the challans realised for a particular day from the Collecting Branches, the Nodal Branch will take the following action on day-to-day basis:
+a. It will collate the challan data on its computer system and transmit the data in the format prescribed by the Income Tax Department to its Link Cell for onward transmission to the Department’s TIN on the same day after giving a common Nodal Branch scroll number and date to all the challan records being transmitted on that day.
+b. It will also generate a copy of the summary and main scroll based on the computer data in a floppy or other media (as informed by ZAO) and transmit it to the ZAO on the next working day.
+c. On receipt of the hard copy of the computer-generated Branch scrolls from the collecting branch, the Nodal branch will validate that these computer-generated branch scrolls exactly match the data transmitted earlier by the collecting branches. It will consolidate these computer printed Branch scrolls (with challans) received from all the branches including its own along with the main scroll by stitching the scrolls together Major head-wise. It will also generate a computer printout of the Major head-wise Main scrolls and Summary.
+It will then forward these (with challans) to the ZAO concerned on a daily basis.
+d. Second set of scroll prepared in the same manner without challans as discussed at (c) above will be retained by the Nodal branch for its record.
+e. The Nodal branch will also similarly generate computer printed separate main scrolls for payments (i.e. refunds), and forward them along with the paid ITROs to the ZAO. It will also forward ECS refund details on electronic media to the local ZAO. The refund data (in respect of paper ITROs and ECS refund) will be transmitted on-line by the Nodal Branch to TIN through the Link Cell. It will retain the advice/advices of the paid ITROs.
+f. During the first 15 days in April every year, the nodal branches will transmit and prepare two separate sets of scrolls – one normal scroll pertaining to April transactions and the other one pertaining to March transactions (which means scrolls of cheques/drafts/ITROs tendered and cleared upto 31st March by receiving branches and sent to the nodal branch subsequent to 31st March but before 15th April) - these will be scrolled by nodal branch as March residual account. The nodal branches will intimate the link cell at Nagpur for inclusion of these transactions as March transactions. The nodal branches will send another scroll for April transactions prominently indicating the month of account. Any cheque/draft tendered on or before 31st March and realised on or after 1st April will be treated as part of the April transactions. However, in light of the instruction that data for all challans for which payment has been realised on a given day should be transmitted online to the Income Tax Department on the same day, separate March residual scroll should only be needed in exceptional cases.
+g. The nodal branch will pass on the consolidated amount accounted by it to its Link Cell on day-to-day basis.
+7. Crediting the tax collection to Government Account
+7.1 The Nodal Branch acts as a pooling centre for all the receiving branches coming under its control and it is responsible for reporting of the transactions (along with all the related documents i.e. Challans and scrolls) to the ZAO. It is also responsible for transmitting the challan data for all these transactions to its Link Cell at Nagpur for onward online transmission to the Income Tax Department as well as for crediting the amount collected to Reserve Bank of India, Central Accounts Section, Nagpur.
+7.2 The Nodal Branch will prepare a daily memo and send it on a daily basis to its Link Cell at Nagpur (GAD, Mumbai in case of SBI) which in turn will make a daily settlement with RBI, CAS, Nagpur.
+7.3 The Link Cell of banks at Nagpur will consolidate the challan data received from the Nodal Branch for transmission to the Department's Tax Information Network (TIN) and will also monitor the daily receipts and check the accuracy of the daily memos received from the Nodal Branches. The Link Cell will then transmit the daily memos to CAS, RBI, Nagpur.
+7.4 The Nodal Branches of the banks will carry out monthly reconciliation with ZAOs of the amount settled by them with their Link Cell at Nagpur. On the basis of their records the ZAOs will verify the statements received from the Nodal Branches both major head-wise and Nodal Bank-wise. In case of any discrepancy, the Nodal Branch will carry out the corrections immediately and adjust the difference in the amount already credited/debited to the CBDT's account through its Link Cell at Nagpur under information to the ZAO.
+7.5 For the purpose of final reconciliation of the transactions with ZAOs and the Link Cell, the CAS, RBI, Nagpur will generate a monthly statement and furnish the same to ZAO and the Link Cell of the banks. RBI, CAS, Nagpur will furnish by 20th of the following month, a monthly analysis indicating major head-wise receipts/ refunds etc. to the CCA, CBDT.
+8. Period of remittance of tax collection and levy of penal interest
+8.1 The tax collections effected by the designated branches of the authorized banks have to be credited to the Government Account, promptly on day-to-day basis. The maximum number of days allowed for remitting tax collections by agency banks to Government Account at CAS, Nagpur is as under:
+Mode
+Remittance period for Public Sector Banks
+Remittance period for Private Sector Banks
+Physical
+Local Transactions
+T+3 Working Days
+(excluding put-through date)
+Outstation Transactions
+T+5 Working Days
+(excluding put-through date)
+T+3 Days
+(including put-through date, Sundays and holidays)
+For Remote Locality, Difficult and Hill Areas
+T + 12 Working Days
+(excluding put-through date)
+e-Payment
+T +1 Working Day
+(including put-through date)
+T+1 Working Day
+(including put-through date)
+8.2 If there is any delay beyond the period prescribed above, the banks are liable to be charged interest for delayed period. The interest for delayed period as mentioned above is to be quantified and collected from the defaulting bank by the ZAOs. The rate of interest to be charged is Bank Rate as prevailing plus 2% or as decided by Reserve Bank in consultation with CGA from time to time.
+9. Accounting of "March" transactions
+9.1 Reserve Bank, Central Office, Mumbai will issue in the month of February each year special instructions to all banks collecting direct taxes regarding the procedure to be adopted in accounting the March transactions.
+9.2 The Nodal banks will be receiving scrolls relating to March of the previous Financial Year in April of the current year. In order to account for the entire collections of March in the same financial year, the Nodal banks have to follow the following procedure during the month of April:
+The nodal banks have to prepare two sets of separate scrolls - one pertaining to March residual collections (payments realized from taxpayer's account before 31st March) and another for April transactions during the first 15 days in April. They should ensure that all the tax collections made by the receiving branches upto 31st March are accounted as
+"March Residual Transactions"
+and should not be mixed up with the transactions of April which fall in the financial year. The main scrolls for March transactions prepared from 1st to 15th April are to be distinctly marked as
+"March Residual"
+.
+9.3 It may also be noted that all the cheques/amount realized on or before 31st March should be treated as transactions relating to the current financial year and should be accounted for as such under the head
+"March or March Residual Transactions"
+in the current financial year.
+9.4 While reporting to their Link Cell in Nagpur, the Nodal banks should send two sets of figures distinctly showing
+March Residual
+and
+April Transactions
+separately upto 15th April.
+9.5 The date-wise monthly statements should also be prepared in two sets, one pertaining to
+March Residual Transactions
+and another relating to
+April Transactions
+.
+10. Special arrangements during the month of March every year
+The branches should follow the procedure explained in the earlier paragraphs meticulously and ensure that the collections made towards direct taxes are passed on promptly for credit to Government Account through the Nodal Branch/Link Cell. However, during the second fortnight of March every year, wherever the receiving branches and Nodal branch are situated locally, a special messenger system should be introduced by the receiving branches. All efforts may also be made to provide the collection figures on daily basis to the ZAO during the second fortnight of June, September and December every year, for onward transmission to the Government for monitoring, estimates etc.
+11. Monitoring Committee - Holding of periodical meetings
+For the smooth functioning of the revised scheme for collection and accounting of direct taxes by the authorised Banks, the Monitoring Committees consisting of officials from Nodal Banks/local authorities of the banks, ZAO and Income Tax Department will be formed at every Zonal Accounts Office centre. The Committee will meet half-yearly and discuss various issues connected with direct tax work such as accounting, scrolling, reporting, remittance and reconciliation etc. and make efforts to sort out the problems at its own level. Further, annually there will be a special Monitoring Committee meeting in which very senior officials from CBDT, RBI, Income Tax Department and banks will participate and redress the various problems being faced by the banks, ZAOs and Income Tax Department in the fields. Banks will ensure that the necessary follow-up actions are taken on the Minutes of such meetings.
+12. Redressal of public grievances
+Each Authorised Bank should have an effective procedure for dealing with public complaints at the branches rendering service to Government Departments or members of the public as prescribed, from time to time. In case the bank detects a mistake in reporting of a tax payment or the major head of tax payment, either suo moto or being brought to its notice by the tax payer, the bank will promptly transmit the error record (as described earlier at paras 2.6 and 7.4) to TIN. This is imperative as the Income Tax Department will give credit to a taxpayer on the information transmitted by the bank to TIN.
+Annex IV
+How do I make online tax payment sitting at home/office?
+Open a net-banking account with any of the banks listed above.
+Go to website
+incometaxindia.gov.in
+, click on 'pay taxes on-line'.
+Fill in the required challan online. Help is available on screen as FAQ, downloads etc.
+Make tax payment through net-banking account online.
+A challan counterfoil will be available instantaneously on the screen with CIN (Challan Identification Number). The Challan Identification Number (CIN) on this counterfoil should be quoted in Return of Income.
+Print the counterfoil and also save it in the computer if possible.
+Check if your payment has reached the Income Tax Department at
+https://tin.tin.nsdl.com/oltas/servlet/QueryTaxpayer
+What are the advantages of paying taxes online?
+You can pay taxes from any location at any time through your net-banking account.
+Instant transfer of funds from your account.
+What you write on the e-challan will be directly sent to Income Tax Department. Banks will not do any data entry.
+You can save/print the challan copy and the receipt copy.
+As soon as your Bank authorizes payment of the amount, you will receive a clear, legible receipt/counterfoil from your bank.
+Transaction id of the e-payment transaction will be available to you in your bank statement.
+You can check online if your money has actually reached the Income Tax Department. For this you have to go to Tax information Network website:
+https://tin.tin.nsdl.com/oltas/index.html
+and click the box
+CIN Based view
+For detailed information please go to:
+incometaxindia.gov.in
+PAY TAXES ONLINE
+IMP:
+In case of refunds adjusted against arrear demand, the normal refund should be attached with challan and sent to Bank by AOs as per earlier procedure.
+Master Circular - Index
+Sr. No.
+Circular No.
+Date
+Subject
+1.
+DGBA.GAD.No.H-684/42.01.001/2003-04
+09.01.2004
+Amendments to Pink Book 'Accounting System for Direct Taxes'
+2.
+RBI/2004/131 DGBA.GAD.No.1008/42.01.034/2003-04
+01.04.2004
+Introduction of On-line Tax Accounting System (OLTAS) - Branding of Rubber Stamp on copies of Challans
+3.
+RBI/2004/135 DGBA.GAD.No.1142/42.01.001/2003-04
+02.04.2004
+Procedure for Collection of Taxes at Bank Branches - Customer Service
+4.
+RBI/2004/145 DGBA.GAD.No.H-1068/42.01.034/2003-04
+16.04.2004
+Accounting Procedure for On-line Tax Accounting System (OLTAS)
+5.
+RBI/2004/184 DGBA.GAD.No.H-1114/42.01.034/2003-04
+29.04.2004
+Implementation of On-line Tax Accounting System with effect from June 1, 2004
+6.
+RBI/2004/213 DGBA.GAD.No.H - 1169/42.01.034/ 2003-04
+22.05.2004
+Accounting Procedure Relating to On-line Tax Accounting System (OLTAS) - Clarifications
+7.
+RBI/2004/75 DGBA.GAD.No.H-69/42.01.034/2004-05
+28.07.2004
+On-line Tax Accounting System (OLTAS) - Transmission of data to NSDL e-Governance Infrastructure Limited - Validation Checks
+8.
+RBI/2004/181 DGBA.GAD.No.H-235/42.01.034/2004-05
+15.09.2004
+On-line Tax Accounting System (OLTAS) - Participation of Branches
+9.
+RBI/2004/164 DGBA.GAD.No.H-170/42.01.034/2003-04
+04.09.2004
+Critical Issues regarding data capture of OLTAS data by banks
+10.
+RBI/2004/300 DGBA.GAD.No.H.2532-65/42.01.034/2004-05
+14.12.2004
+Compulsory Quoting of Permanent Account Number (PAN)/Tax Deduction Account Number (TAN) on Challans from 1/1/2005
+11.
+RBI/2004/326 DGBA.GAD.No.3278-3311/42.01.034/ 2004-05
+31.12.2004
+Abolition of Sub-Agency Arrangements for Collection of CBDT Dues
+12.
+RBI/2005/411 DGBA.GAD.No.H-5287/42.01.034/2004-05
+01.04.2005
+On-line Tax Accounting System (OLTAS) - Accounting Procedure relating to crediting of CBDT collections to Government accounts
+13.
+RBI 2005/412 DGBA.GAD.No.H-5318/42.01.034/2004-05
+04.04.2005
+De-authorisation of bank branches for collection of Direct Taxes
+14.
+RBI/2005/466 DGBA.GAD.No.H.5801/42.01.034/2004-05
+13.05.2005
+On-line Tax Accounting System (OLTAS) – Funds Settlement
+15.
+RBI/2005/39 DGBA.GAD.No.H-42/42.01.034/2005-06
+04.07.2005
+Finance Act 2005- Changes in Major Head and Challans - OLTAS
+16.
+RBI/2005/81 DGBA.GAD.No.382/42.01.034/2005-06
+26.07.2005
+OLTAS - File Segregation Utility developed by Tax Information Network (TIN)
+17.
+RBI/2005/265 DGBA.GAD.No.H-8824/42.01.034/2005-06
+28.12.2005
+Compulsory quoting of Permanent Account Number (PAN) / Tax Deduction Account Number (TAN) - State of Rajasthan
+18.
+DGBA.GAD.No.H-8294/42.01.037/2005-06
+14.12.2005
+On-line Tax Accounting System – Drawing of Cheques by Assessee - Payee's Name
+19.
+DGBA.GAD.No.H-8649/42.01.034/2005-06
+23.12.2005
+On-line Tax Accounting System (OLTAS) – Software validations at banks
+20.
+RBI/2006/295 DGBA.GAD.No.H.11140/42.01.034/2005-06
+02.02.2006
+On-line Tax Accounting System (OLTAS) - Sending daily scrolls by e-mail to ZAOs
+21.
+RBI/2006/55 DGBA.GAD.No.H-161/42.01.034/2005-06
+07.07.2006
+OLTAS - Verification of PAN/TAN
+22.
+RBI/2006/150 DGBA.GAD.No.H-6226/42.01.011/2006-07
+10.10.2006
+Permissible period of remittance of Government Revenues
+23.
+RBI/2007/235 DGBA.GAD.No.H-11763/42.01.011/2006-07
+24.01.2007
+Delay in Remittance of Government Receipts - Delayed Period Interest
+24.
+RBI/2007/286 DGBA.GAD.No.13742/42.01.011/2006-07
+13.03.2007
+Delay in Remittance of Government Receipts - Delayed Period Interest
+25.
+DGBA.GAD.No.3774/42.01.034/2007-08
+09.10.2007
+Discrepancies in challan details uploaded to TIN
+26.
+RBI/2007/206 DGBA.GAD.No.6212/42.01.034/2007-08
+06.12.2007
+On-line tax Accounting System (OLTAS) – Data quality concerns
+27.
+RBI/2008/275 DGBA.GAD.No.10577/42.01.038/2007-08
+03.04.2008
+Cut-off time for e-payment transactions pertaining to Government Revenue
+28.
+RBI/2008/280 DGBA.GAD.No.H-10875/42.01.038/ 2007- 08
+10.04.2008
+Mandatory e-payment of tax by certain categories of taxpayers w.e.f. 01.04.2008
+29.
+RBI/2008/321 DGBA.GAD.No.H-11895/42.01.038/ 2007- 08
+15.05.2008
+Mandatory e-payment of direct taxes by corporate and assesses coming under Sec.44AB of IT Act
+30.
+RBI/2008/328 DGBA.GAD.No.H-12070/42.01.034/2007- 08
+22.05.2008
+Improvement in data quality- Introduction of Computerised receipts w.e.f. June 1, 2008
+31.
+DGBA.GAD.No.H.551/42.01.011/2008-09
+18.07.2008
+Permissible Period of Remittance of E-payment of Government Transactions – Private Sector Banks
+32.
+RBI/2009/463 DGBA.GAD No.H-9284/42.01.011/2008-09
+28.04.2009
+Recovery of Interest from Public Sector Banks on delayed remittances of Government Receipts into Government Account
+33.
+RBI/2009-10/381 DGBA.GAD No.H.7790/42.01.011/2009-10
+06.04.2010
+Permissible Period for Remittance of Government Revenues into Government Account for Remote Locality, Difficult and Hill Areas
+34.
+RBI/2010-11/229 DGBA.GAD.No.H. 2444/42.01.011/2010- 11
+08.10.2010
+Permissible period for remittance of e-payments into Government account by Public Sector Banks
+35.
+RBI/2014-15/416 DGBA.GAD.No.H-3203/42.01.011/2014-15)
+21.01.2015
+Permissible period for remittance into Government Account through Debit / Credit cards and Net banking

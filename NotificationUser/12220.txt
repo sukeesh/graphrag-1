@@ -1,0 +1,75 @@
+(335 kb)
+Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards and Net Stable Funding ratio – Small Business Customers
+RBI/2021-22/151
+DOR.No.PRD.LRG.79/21.04.098/2021-22
+January 06, 2022
+Dear Sir/Madam,
+Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards and Net Stable Funding ratio – Small Business Customers
+Please refer to the following instructions:
+Circular DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 09, 2014
+on ‘Basel III Framework on Liquidity Standards – Liquidity Coverage Ratio (LCR), Liquidity Risk Monitoring Tools and LCR Disclosure Standards’;
+Circular DBR.BP.BC.No.106/21.04.098/2017-18 dated May 17, 2018
+on ‘Standards – Net Stable Funding Ratio (NSFR) – Final Guidelines’;
+Circular DBR.No.BP.BC.80/21.06.201/2014-15 dated March 31, 2015
+on ‘Prudential Guidelines on Capital Adequacy and Liquidity Standards – Amendments’; and,
+Circular DOR.No.BP.BC.23/21.06.201/2020-21 dated October 12, 2020
+on ‘Regulatory Retail Portfolio – Revised Limit for Risk Weight’.
+2. With the objective to better align our guidelines with the BCBS standard and enable banks to manage liquidity risk more effectively, it has been decided to increase the threshold limit for deposits and other extensions of funds made by non-financial Small Business Customers from ₹ 5 crore to ₹ 7.5 crore for the purpose of maintenance of Liquidity Coverage Ratio (LCR).
+3. The above modification is also applicable to deposits and other extensions of funds received from Small Business Customers referred to in the
+circular DBR.BP.BC.No.106/21.04.098/2017-18 dated May 17, 2018
+on ‘Basel III Framework on Liquidity Standards – Net Stable Funding Ratio (NSFR) – Final Guidelines’.
+4. The revised paragraphs after incorporating the above changes in the relevant circulars is given in
+Annex
+.
+Applicability
+5. This circular is applicable to all Commercial Banks other than Regional Rural Banks, Local Area Banks and Payments Banks.
+6. These instructions come into effect from the date of the circular.
+Yours faithfully
+(Usha Janakiraman)
+Chief General Manager
+ANNEX
+Sr. No.
+Original RBI Reference Paragraphs
+Existing Text in RBI Circulars
+Revised Text
+1
+Explanatory Note (v) to BLR-1) of
+circular DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 09, 2014
+amended vide
+circular DBR.No.BP.BC.80/21.06.201/2014-15 dated March 31, 2015
+(v) Small Business Customers:
+This category consists of deposits and other extensions of funds made by non-financial small business customers, as defined in para 5.9.3 (i) of
+RBI Master Circular on Basel III Capital Regulations dated July 1, 2013
+, that are managed as retail exposures and are generally considered as having similar liquidity risk characteristics to retail accounts provided total aggregated funding from any such Small Business Customer is upto Rs.5 crore (on a consolidated basis where applicable).
+“Aggregated funding” means the gross amount (i.e. not netting any form of credit extended to the legal entity) of all forms of funding (e.g. deposits or debt securities or similar derivative exposure for which the counterparty is known to be a small business customer). Notwithstanding the definition of small business customer as defined in para 5.9.3 (i) of
+RBI Master Circular on Basel III Capital Regulations dated July 1, 2013
+, a bank may include a deposit in this category provided that the total aggregate funding raised from the customer is upto Rs.5 crore (on an aggregate basis where applicable) and the deposit is managed as a retail deposit. This means that the bank treats such deposits in its internal risk management systems consistently over time and in the same manner as other retail deposits, and that the deposits are not individually managed in a way comparable to larger corporate deposits.
+(v) Small Business Customers:
+This category consists of deposits and other extensions of funds made by non-financial small business customers, as defined in para 5.9.3 (i) of
+RBI Master Circular on Basel III Capital Regulations dated July 1, 2015
+, that are managed as retail exposures and are generally considered as having similar liquidity risk characteristics to retail accounts provided total aggregated funding from any such Small Business Customer is
+upto ₹ 7.5 crore
+(on a consolidated basis where applicable).
+“Aggregated funding” means the gross amount (i.e. not netting any form of credit extended to the legal entity) of all forms of funding (e.g. deposits or debt securities or similar derivative exposure for which the counterparty is known to be a small business customer). Notwithstanding the definition of small business customer as defined in para 5.9.3 (i) of
+RBI Master Circular on Basel III Capital Regulations dated July 1, 2015
+, a bank may include a deposit in this category provided that the total aggregate funding raised from the customer is
+upto ₹ 7.5 crore
+(on an aggregate basis where applicable) and the deposit is managed as a retail deposit. This means that the bank treats such deposits in its internal risk management systems consistently over time and in the same manner as other retail deposits, and that the deposits are not individually managed in a way comparable to larger corporate deposits.
+2
+Paragraph 7.4 of our
+circular DBR.BP.BC.No.106/21.04.098/2017-18 dated May 17, 2018
+on Net Stable Funding Ratio
+Liabilities receiving a 90% ASF factor comprise “less stable” (as defined in the ‘Explanatory Notes’ to BLR-1 in
+Circular on LCR dated June 9, 2014
+) non-maturity (demand) deposits and/or term deposits with residual maturities of less than one year provided by retail and small business customers as defined in the ‘Explanatory Note’ to BLR-1 of
+Circular dated June 9, 2014
+and modified vide
+circular dated March 31, 2015
+.
+Liabilities receiving a 90% ASF factor comprise “less stable” (as defined in the ‘Explanatory Notes’ to BLR-1 in
+Circular on LCR dated June 9, 2014
+) non-maturity (demand) deposits and/or term deposits with residual maturities of less than one year provided by retail and small business customers as defined in the ‘Explanatory Note’ to BLR-1 of
+Circular dated June 9, 2014
+and modified vide
+circulars DBR.No.BP.BC.80/21.06.201/2014-15 dated March 31, 2015
+and DOR.No.PRD.LRG.79/21.04.098/2021-22 dated January 06, 2022

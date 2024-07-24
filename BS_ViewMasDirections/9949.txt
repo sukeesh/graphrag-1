@@ -1,0 +1,270 @@
+(829 kb)
+Concurrent Audit System in Commercial Banks - Revision of RBI's Guidelines
+RBI/2015-16/133
+DBS.CO.ARS.No. BC. 2/08.91.021/2015-16
+July 16, 2015
+The Chairman & Managing Director/
+Chief Executive Officers of
+all Scheduled Commercial Banks
+(other than Regional Rural Banks)
+Dear Sir
+Concurrent Audit System in Commercial Banks - Revision of RBI's Guidelines
+As you are aware, guidelines on 'concurrent audit system in commercial banks' were issued by us vide our circular DOS.No.BC.16/08.91.021/96 dated August 14, 1996 setting out the scope and coverage of concurrent audit system in commercial banks.
+In view of the changes since then in banks’ organizational structure, business models, use of technology (implementation of Core Banking Solution), etc., a need was felt to have a relook at the concurrent audit system in the banking sector. Accordingly, the existing guidelines have been revised which are set out in
+Annex I
+.
+2. Since the concurrent audit system is regarded as part of a bank's early warning system to ensure timely detection of irregularities and lapses, which also helps in preventing fraudulent transactions at branches, the bank's management may continue to bestow serious attention to the implementation of various aspects of the system such as selection of branches/coverage of business operations, appointment of auditors, appropriate reporting procedures, follow-up/rectification processes and utilization of the feedback from the system for appropriate and quick management decisions.
+3. You may ensure that, based on the revised guidelines indicated in
+Annex I
+, a review of the present system of concurrent audit is carried out immediately and necessary changes are incorporated therein. The modified concurrent audit system of your bank should be placed before the Audit Committee of Board of Directors (ACB).
+4. The bank should, once in a year, review the effectiveness of the system and take necessary measures to correct the lacunae in the implementation of the Programme.
+Yours faithfully
+(Indrani Banerjee)
+Chief General Manager
+Encl: As above
+Annex - I
+Revised Guidelines for Concurrent Audit System in Commercial Banks
+(A) Scope of concurrent audit
+Concurrent audit is an examination which is contemporaneous with the occurrence of transactions or is carried out as near thereto as possible. It attempts to shorten the interval between a transaction and its examination by an independent person. There is an emphasis in favour of substantive checking in key areas rather than test checking. This audit is essentially a management process integral to the establishment of sound internal accounting functions and effective controls and setting the tone for a vigilant internal audit to preclude the incidence of serious errors and fraudulent manipulations.
+A concurrent auditor may not sit in judgement of the decisions taken by a branch manager or an authorised official. This is beyond the scope of concurrent audit. However, the audit will necessarily have to see whether the transactions or decisions are within the policy parameters laid down by the Head Office, they do not violate the instructions or policy prescriptions of the RBI, and that they are within the delegated authority.
+In very large branches, which have different divisions dealing with specific activities, concurrent audit is a means to the in-charge of the branch to ensure on an ongoing basis that the different divisions function within laid down parameters and procedures.
+(B) Coverage of business/branches
+In view of significant developments in the banking sector during the past decade, it is required that new areas posing risk may be brought under the purview of concurrent audit. A large number of activities / operations are being carried out in a centralized manner at various units set up for that purpose and the scale of transactions / operations undertaken at these units is large. With a view to ensuring that the functioning of these units is as per the internal as well as regulatory guidelines and mitigating the risk associated with large-scale operations, such non-branch units may be brought under the purview of concurrent audit.
+While selecting the branches for concurrent Audit, the risk profile of the branches needs to be considered. The branches with high risk are to be subjected to concurrent audit irrespective of their business size. Further, all specialized branches viz., Agri, SME, Corporate, Retail Assets, Portfolio Management, Treasury, Forex, Back Office, etc., may be covered under concurrent audit. Certain areas where risk has reduced on account of computerization, implementation of core banking system may be excluded from the purview of concurrent audit.
+Concurrent audit at branches should cover at least 50% of the advances and 50% of deposits of a bank. The following branches, business activities/verticals of a bank may be subject to concurrent audit:
+Branches rated as high risk or above in the last Risk Based Internal Audit (RBIA) or serious deficiencies found in Internal Audit.
+All specialized branches like Large Corporate, Mid Corporate, exceptionally large/very large branches (ELBs/VLBs), SME.
+All Centralised Processing Units like Loan Processing Units (LPUs), service branches, centralized account opening divisions, etc.
+Any specialized activities such as wealth management, portfolio management services, Card Products Division, etc.
+Data Centres.
+Treasury/branches handling foreign exchange business, investment banking, etc. and bigger overseas branches.
+Critical Head Office Departments.
+Any other branches or departments where, in the opinion of the bank, concurrent audit is desirable.
+(C) Types of activities to be covered
+(1) The main role of concurrent audit is to supplement the efforts of the bank in carrying out simultaneous internal check of the transactions and other verifications and compliance with the procedures laid down.
+(2) The scope of concurrent audit should be wide enough/focused to cover certain fraud - prone areas such as handling of cash, deposits, advances, foreign exchange business, off-balance sheet items, credit-card business, internet banking, etc.
+(3) The detailed scope of the concurrent audit should be clearly and uniformly determined for the bank as a whole by the bank's Inspection and Audit Department in consultation with the bank's Audit Committee of the Board of Directors (ACB).
+(4) In determining the scope, importance should be given to checking high-risk transactions having large financial implications as opposed to transactions involving small amounts.
+(5) While the detailed scope of concurrent audit may be determined and approved by ACB, certain minimum items of coverage are given in
+Annex II
+. In addition to the above, the items where RBI has specifically advised the banks to be covered under concurrent audit, may also be part of the checklist of the concurrent auditor.
+(D) Appointment of Auditors and Accountability
+(i) The option to consider whether concurrent audit should be done by bank's own staff or external auditors (which may include retired staff of its own bank) is left to the discretion of individual banks.
+(ii) In case the bank has engaged its own officials, they should be experienced, well trained and sufficiently senior. The staff engaged in concurrent audit must be independent of the Branch where concurrent audit is conducted.
+(iii) Appointment of an external audit firm may be initially for one year and extended upto three years, after which an auditor could be shifted to another branch subject to satisfactory performance.
+(iv) If external firms are appointed and any serious acts of omission or commission are noticed in their working, their appointments may be cancelled and the fact may be reported to RBI & ICAI.
+(E) Facilities for effective Concurrent Audit
+It has been represented that concurrent audit is not often effective because adequate facilities in terms of space, availability of records, etc. are not available. To improve the effectiveness of concurrent audit it is suggested that -
+(i) banks arrange for an initial and periodical familiarisation process both for the bank's own staff when entrusted with the concurrent audit and for the external auditors appointed for the purpose.
+(ii) all relevant internal guidelines/circulars/important references as well as relevant circulars issued by RBI/SEBI and other regulating bodies should be made available to the concurrent auditors on an on-going basis.
+(iii) where adequate space is not available, concurrent auditors can commence work immediately after the close of banking hours.
+(F) Remuneration
+Terms of appointment of the external firms of Chartered Accountants for the concurrent audit and their remuneration may be fixed by banks at their discretion. Broad guidelines should be framed by ACB for this purpose. Suitable packages should be fixed by each bank's management in consultation with its ACB, keeping in view various factors such as coverage of areas, quality of work expected, number of people required for the job, number of hours to be spent on the job, etc.
+(G) Reporting Systems
+(i) The bank may devise a reporting system and periodicity of various check list items as per its sensitivity.
+(ii) Minor irregularities pointed out by the concurrent auditors are to be rectified on the spot. Serious irregularities should be straightaway reported to the Controlling Offices/Head Offices for immediate action.
+(iii) There should be zone/area-wise reporting of the findings of the concurrent audit to ACB and an annual appraisal/report of the audit system should be placed before the ACB.
+(iv) Whenever fraudulent transactions are detected, they should immediately be reported to Inspection & Audit Department (Head Office) as also to the Chief Vigilance Officer as well as Branch Managers concerned (unless the branch manager is involved).
+(v) There should be proper reporting of the findings of the concurrent auditors. For this purpose, each bank should prepare a structured format. The major deficiencies/aberrations noticed during audit should be highlighted in a special note and given immediately to the bank's branch controlling offices. A quarterly review containing important features brought out during concurrent audits should be placed before the ACB.
+(vi) Follow-up action on the concurrent audit reports should be given high priority by the Controlling Office/Inspection and Audit Department and rectification of the features done without any loss of time.
+(vii) Banks are advised to :
+(1) review the selection of auditors.
+(2) initiate and operate a system for appraisal of the performance of concurrent auditors.
+(3) ensure that the work of concurrent auditors is properly documented.
+(4) be responsible for the follow-up on audit reports and the presentation of the quarterly review to the ACB.
+Annex II
+Minimum Audit Programme for Concurrent Audit System in Commercial Banks
+Sr. No.
+Items
+A
+Cash transactions -Verify
+(i)
+Surprise physical verification of cash at branch and ATM along with safekeeping and custody.
+(ii)
+Daily cash transactions, particularly any abnormal receipts & payments.
+(iii)
+Surprise verification of cash by an officer other than the joint custodian.
+(iv)
+Proper accounting of and availability of insurance cover for inward and outward cash remittances.
+(v)
+Accounting of currency chest transactions and delays/omission in reporting to RBI.
+(vi)
+Reporting of Counterfeit Currency.
+(vii)
+All cash transactions of Rs. 10 lakh and above reported in CTR.
+(viii)
+That all cash transaction of Rs. 50,000 and above invariably indicate Pan No./Form 60.
+B
+Clearing transactions -Verify
+(i)
+Reconciliation with bank’s account at Clearing House and review of old outstanding entries for reconciliation.
+(ii)
+Drawings allowed against uncleared instruments - sanction by the controlling authority.
+C
+Remittances/Bills for Collection -Verify
+(i)
+Remittance of funds by way of DDs/TTs/MTs/TC/NEFT/RTGS any other mode in cash exceeding the prescribed limit.
+(ii)
+Documents of title (lorry receipts, railway receipts, etc.) obtained in favour of the bank and the concerned transporters are on the IBA approved list.
+(iii)
+Outstanding balance in DP and other transit accounts pending payment beyond prescribed period.
+D
+Deposits -Verify
+(i)
+Adherence to KYC/AML guidelines in opening of fresh accounts and monitoring of transactions in such accounts.
+(ii)
+Large term deposits received and repaid including checking of repayment of term deposit in cash beyond permissible limit.
+(iii)
+Accounts opened and closed within a short span of time i.e., accounts with quick mortality.
+(iv)
+Activation and operations in inoperative accounts.
+(v)
+Value dated transactions.
+(vi)
+Settlement of claims of deceased customers and payment of TDRs against lost receipts and obtention of indemnities, etc. To check revival of dormant accounts and accounts with minimum activities.
+(vii)
+Examination of multiple credits to single accounts.
+E
+Treasury operations -Verify
+(i)
+If branch has acted within HO instructions for purchase and sale of securities.
+(ii)
+Periodic confirmation of Derivative contracts with counterparties.
+(iii)
+Adherence to regulatory guidelines with respect to Treasury deals/structured deals.
+(iv)
+Controls around deal modification/cancellation/deletion, wherever applicable.
+(v)
+Cancellation of forward contracts and passing/recovery of exchange gain/loss.
+(vi)
+Gaps and OPL maintained in different currencies vis-à-vis prescribed limit for the same.
+(vii)
+Reconciliation of Nostro and Vostro accounts-balances in Nostro accounts in different foreign currencies are within the limits prescribed by the bank.
+(viii)
+Collection of underlying documents for Derivative & Forward contracts. Delays, if any.
+(ix)
+Instances of booking and cancellation of forward contracts with the same counterparty within a span of couple of days or a few days.
+(x)
+Sample check some of the deals and comment on the correctness of computation.
+(xi)
+Checking of application money, reconciliation of SGL account, compliance to RBI norms.
+(xii)
+Checking of custody of unused BR Forms & their utilization in terms of Master Circular on Prudential Norms on Classification, Valuation and Operations of Investment Portfolio by banks.
+(xiii)
+To ensure that the treasury operations of the bank have been conducted in accordance with the instructions issued by the RBI from time to time.
+F
+Loans & Advances-Verify
+(i)
+Report Bills/cheques purchased, if in the nature of accommodation bills.
+(ii)
+Proper follow-up of overdue bills purchased/discounted/negotiated.
+(iii)
+Fresh loans and advances (including staff advances) have been sanctioned properly and in accordance with delegated authority.
+(iv)
+Reporting of instances of exceeding delegated powers to controlling/head office by the branch and have been confirmed or ratified by the competent authority.
+(v)
+Securities and documents have been received as applicable to particular loan.
+(vi)
+Securities have been properly charged/ registered and valued by competent person. Whether the same has been entered in the bank’s system.
+(vii)
+All conditions of sanction have been complied with.
+(viii)
+Master data relating to limit, rate of interest, EMI, moratorium period details have been correctly entered and updated/modified in the system.
+(ix)
+Value dated entries passed in advances accounts.
+(x)
+Post disbursement supervision and follow-up is proper, such as timely receipt of stock and book debt statements, QIS data, analysis of financial data submitted by borrower, verification of securities by third parties, renewal of limits, insurance, etc.
+(xi)
+Whether there is any misutilisation of the loans and whether there are instances indicative of diversion of funds.
+(xii)
+Compliance of prudential norms on income recognition, asset classification and provisioning pertaining to advances.
+(xiii)
+whether monthly updating of drawing power in the computer system on the basis of stock statements/book debt statement/ other financial data received from the borrowers.
+(xiv)
+Recovery in compromise cases is in accordance with the terms and conditions of the compromise agreement.
+(xv)
+To check review and renewal of loans.
+G
+LC/BG -Verify
+(i)
+LC/BG issued/amended as per the approved format/model guarantee prescribed and standard limitation clause incorporated. Whether counter indemnity obtained as prescribed.
+(ii)
+Any deviation from the terms of sanction in regard to margin, security, purpose, period, beneficiary, collection of charges, commission/fee, etc.
+(iii)
+Whether payment is made to the debit of party's account on due date without creating overdraft/debiting suspense, in case of deferred payment guarantee.
+H
+Foreign Exchange transactions-Verify
+(i)
+Recovery of charges as per HO Guidelines.
+(ii)
+Packing credit released, whether backed by LC or confirmed export order.
+(iii)
+Availability of ECGC cover and compliance with ECGC terms.
+(iv)
+Submission of statutory returns on export/ import transactions, like BEF statements, XOS, write off of export bills, etc. Follow up of outstanding export bills and exchange control copy of bill of entry.
+(v)
+Irregularities in opening of new accounts and operation in NRO, FCNR, NRE, EEFC, etc., and debits/credits entries permissible under the rules.
+(vi)
+Whether operations in FCRA accounts are as permitted by MHA and FCRA guidelines.
+(vii)
+Booking, utilization, extension and cancellation of forward contracts.
+I
+House Keeping -Verify
+(i)
+Exceptional transaction reports are generated and verified by branch staff as prescribed.
+(ii)
+Review of all balance sheet heads and outstanding entries in accounts, e.g., suspense, sundry and inter-bank accounts. Review of follow up of entries pending for reversal.
+(iii)
+Scrutiny of daily vouchers with more emphasis on high value transaction including high value expenses and debit entries in Suspense account.
+(iv)
+Debits in accounts where signatures are pending for scanning.
+(v)
+Whether records related to KYC/vouchers and other critical areas are sent to specific places like archival center, record room as per stipulated periodicity.
+(vi)
+Adherence to KYC/AML guidelines in opening fresh account and subsequent modifications of records and monitoring of transaction.
+J
+Verification of Merchant Banking Business-Verify
+(i)
+Whether the instructions given by the controlling branch are properly followed where the branch acts as a collecting branch for issue business.
+(ii)
+Whether daily collection position is advised to the controlling branch.
+(iii)
+Whether recovery of the commission/fees and out of pocket expenses as agreed with the respective companies and whether the competent authority has duly authorized any waiver or reduction of such charges.
+(iv)
+Whether the prescribed preventive vigilance measures are observed by the branch.
+(v)
+Where data entry or data processing work is entrusted to outside agencies, the competent authority duly approves these and the prescribed stamped indemnity has been obtained from such agencies.
+(vi)
+Whether dividend interest warrants/refund payment accounts of companies are funded prior to dispatch of the relative warrants by the companies and there is no misuse of the facility.
+(vii)
+Whether Claims for reimbursement of amounts of paid warrants received from paying branches are processed and debited to the concerned company's account promptly.
+(viii)
+Whether charge on security has been created, wherever debenture trustee activity is undertaken by bank.
+K
+Verification of Credit Card/Debit card –Verify
+(i)
+Application for the issue of credit card has been properly examined and record of issue of the same has been maintained.
+(ii)
+Whether overdraft/debits arising out of the use of credit cards are promptly recovered and informed to higher authorities.
+(iii)
+Whether undelivered credit cards are properly kept as security items and followed up with credit card department for further instructions.
+(iv)
+Physical verification of ATM cards, debit cards, credit cards, passwords and PINS, control over issue & delivery, safe keeping and custody at all the locations. Report loss of any such items.
+L
+Others –Verify
+(i)
+Compliance of provisions relating to Tax Deducted at Source, service tax, trade tax, other duties and taxes.
+(ii)
+Physical verification of inventory, control over issue of inventory, safe keeping and custody of security forms. Report any loss of such items.
+(iii)
+Physical verification of other deliverable items, control over issue, safe keeping and custody.
+(iv)
+Physical verification of Gold coins, control over issue, safe keeping and custody. Checking of Gold sale transactions.
+(v)
+Custody and movement of branch keys.
+(vi)
+Locker keys and locker operations-linking of FDR as security for locker/operation of locker/inoperative lockers/ nomination/other issues.
+(vii)
+Safe custody of branch documents like death claim cases, issuance of duplicate DD/PO/FDR, checking of indemnities, etc. and verification of documents executed during the period under audit.
+(viii)
+Reporting of frauds.

@@ -1,0 +1,211 @@
+(46 kb)
+Closing of Old Outstanding Bills : Export-Follow-up–XOS Statements
+RBI/2013-14/325
+A.P. (DIR Series) Circular No. 62
+October 14, 2013
+To
+All Category - I  Authorised Dealer Banks
+Madam / Sir,
+Closing of Old Outstanding Bills:
+Export-Follow-up –XOS Statements
+Attention of  Authorized Dealer Category – I (AD Category – I) banks is invited to
+A. P. (DIR Series) Circular No. 12 dated September 9, 2000
+in terms of which AD Category – I banks are required to furnish to the Regional Office concerned of the Reserve Bank, a consolidated statement in Form XOS  giving details of all export bills outstanding beyond six months from the date of export on a half yearly basis as at the end of June and December every year.
+2. On a review, it has been decided that an old export bill may be closed by AD banks as a one time measure, provided that the case is not subject matter of any pending civil suit /criminal suit ; the exporter has not come to the adverse notice of the Directorate of Enforcement (DoE) / Central Bureau of Investigation (CBI)/Directorate of Revenue Intelligence (DRI) /any  such other law enforcement agency; has no externalisation problems with the export receipient countries and the export bill falls under following categories:
+With ceiling of USD 1, 00,000 and outstanding beyond 15 years as on December 31,2012
+With ceiling of USD 50,000 and outstanding for more than 5 years as on December 31, 2012, where  customers not traceable subject to proof of non traceability from competent authority and under bank’s internal boards approved policy.
+3. Report of closed cases should be submitted to concerned Regional Offices of Reserve Bank of India by AD banks in an excel sheet as per the format given in
+Annex
+.
+4. After closing of cases, there will be no further follow up by ADs andthese outstanding bills will not be reported in future Export Outstanding Statements (XOS).
+5. The directions contained in this circular have been issued under sections 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and is without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(C.D Srinivasan)
+Chief General Manager
+Annex
+Format  for submitting of Export Outstanding data
+*M-Mandatory, O-Optional
+S.No.
+Field
+Type
+Width
+M/O*
+Remarks
+1
+AD code of the bank
+Varchar
+7
+M
+2
+Imp/Exp code No.
+Varchar
+10
+M
+3
+Name of the Exporter
+Varchar
+40
+M
+4
+Exporter’s address Line 1
+Varchar
+50
+O
+5
+Exporter’s address Line 2
+Varchar
+50
+O
+6
+City
+Varchar
+30
+O
+7
+Pin code
+Varchar
+6
+O
+8
+Export under GR/SDF
+Varchar
+6
+M
+Values: GR/SDF/SOFTEX
+9
+Export bill no
+Varchar
+20
+M
+10
+Export bill date
+Date
+10
+M
+11
+Port code
+Varchar
+15
+M
+12
+Shipping bill no
+Varchar
+10
+M
+13
+Shipping bill date
+Date
+10
+M
+14
+GR/PP/SDF no.
+Varchar
+15
+M
+15
+Date of Export
+Date
+10
+M
+16
+Due date of realization
+Date
+10
+M
+17
+Extension Granted
+Varchar
+1
+M
+18
+Extn. granting authority
+Varchar
+4
+O
+Is extension granted: Yes/No
+19
+Extn granted up to
+Date
+10
+O
+Mandatory, if extension granted is yes
+20
+Country of Export
+Varchar
+2
+M
+21
+Commodity
+Varchar
+3
+M
+22
+Invoice Currency
+Varchar
+3
+M
+23
+Invoice Amount (FC)
+Numeric
+15
+M
+24
+Invoice Amount (INR)
+Numeric
+15
+M
+25
+Realized currency
+Varchar
+3
+M
+26
+Realized Amount (INR)
+Numeric
+15
+M
+27
+Out-standing Amt. (INR)
+Numeric
+15
+M
+28
+Overseas Buyer Name
+Varchar
+40
+M
+29
+Overseas Buyer address1
+Varchar
+35
+O
+30
+Overseas Buyer address2
+Varchar
+35
+O
+31
+Overseas Buyer Country
+Varchar
+20
+O
+32
+Overseas Buyer Pin code
+Varchar
+10
+O
+33
+Bill Realized? (Y/N)
+Varchar
+1
+O
+34
+Realization date
+Date
+10
+O
+35
+Remark if any
+Varchar
+35
+O

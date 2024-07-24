@@ -1,0 +1,75 @@
+(757 kb)
+Review of Guidelines for Core Investment Companies
+RBI/2020-21/24
+DoR (NBFC) (PD) CC. No.117/03.10.001/2020-21
+August 13, 2020
+All Core Investment Companies (CICs)
+Madam/Dear Sir,
+Review of Guidelines for Core Investment Companies
+Please refer to the report of the Working Group (WG) to Review the Regulatory and Supervisory Framework for Core Investment Companies (CICs), constituted under the Chairmanship of Shri Tapan Ray, former Secretary, Ministry of Corporate Affairs, Government of India. The
+report
+of the WG was placed in public domain in November 2019 seeking comments from the stakeholders. Based on the recommendations of the WG and inputs received from stakeholders, it has been decided to revise the guidelines applicable for Core Investment Companies.
+2. Definition of Adjusted Net worth (ANW)
+2.1 Reference is drawn to para 3 (i) of the
+Master Direction on Core Investment Companies (Reserve Bank) Directions, 2016
+. While computing Adjusted Net Worth (ANW), the amount representing any direct or indirect capital contribution made by one CIC in another CIC, to the extent such amount exceeds ten per cent of Owned Funds of the investing CIC, shall be deducted. All other terms and conditions for computation of ANW remain the same.
+2.2 The deduction requirement shall take immediate effect for any investment made by a CIC in another CIC after date of issue of this circular. In cases where the investment by a CIC in another CIC is already in excess of 10 percent as on the date of this circular, the CIC need not deduct the excess investment as on the date of this circular from owned funds for computation of its ANW till March 31, 2023.
+3. Group Structure
+3.1 To address the complexity in group structures and existence of multiple CICs within a group, it has been decided that the number of layers of CICs within a Group (including the parent CIC) shall be restricted to two, irrespective of the extent of direct or indirect holding/ control exercised by a CIC in the other CIC. If a CIC makes any direct/ indirect equity investment in another CIC, it will be deemed as a layer for the investing CIC.  While the regulation shall be applicable from the date of the circular, existing entities shall reorganise their business structure and adhere to this guideline latest by March 31 2023.
+4. Risk Management
+4.1 The parent CIC in the group or the CIC with the largest asset size, in case there is no identifiable parent CIC in the group, shall constitute a Group Risk Management Committee (GRMC). The GRMC shall report to the Board of the CIC that constitutes it and shall meet at least once in a quarter. The composition of GRMC shall be as under:
+The GRMC shall comprise minimum of five members, including executive members.
+At least two members shall be independent directors, one of whom shall be the Chairperson of the GRMC.
+Members shall have adequate and commensurate experience in risk management practices.
+4.2 The GRMC will have the following responsibilities:
+Analyse the material risks to which the group, its businesses and subsidiaries are exposed.  It must discuss all risk strategies both at an aggregated level and by type of risk and make recommendations to the Board in accordance with the group’s overall risk appetite.
+Identify potential intra-group conflicts of interest.
+Assess whether there are effective systems in place to facilitate exchange of information for effective risk oversight of the group.
+Assess whether the corporate governance framework addresses risk management across the group.
+Carry out periodic independent formal review of the group structure and internal controls.
+Articulate the leverage of the Group and monitor the same.
+4.3 Based on the analyses and recommendations of the GRMC, CICs shall initiate corrective action, where necessary. Chief Risk Officers (CROs), appointed in CICs as per Para 4.4 below, shall initiate such corrective action.
+4.4 All CICs with asset size of more than ₹5,000 crore shall appoint a CRO with clearly specified roles and responsibilities. Guidelines on CRO shall be as per Para 71 on Appointment of Chief Risk Officer of
+Master Direction - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016
+.
+4.5 CICs shall submit to the Board, a quarterly statement of deviation certified by the Chief Executive Officer/ Chief Financial Officer, indicating deviations  in the use of proceeds of any funding obtained by the CIC from creditors and investors from the objects/ purpose stated in the application, sanction letter or offer document for such funding.
+5. Corporate Governance and Disclosure Requirements
+5.1 Corporate governance requirements will be as per the Companies Act, 2013. Disclosure requirements will be applicable to NBFC-CICs as per the guidelines contained at
+Annex
+of this circular. The guidelines indicate basic minimum requirements and CICs shall strive to achieve higher standards of governance and disclosure.
+5.2 CICs shall ensure that a policy is put in place with the approval of the Board for ascertaining the ‘fit and proper’ status of directors not only at the time of appointment, but also on a continuous basis. Guidelines as applicable to NBFCs as per Para 72 on Fit and Proper Criteria of
+Master Direction - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016
+as updated from time to time, shall be applicable also to CICs.
+6. Consolidation of Financial Statement (CFS)
+6.1 CICs shall prepare CFS as per provisions of Companies Act, 2013, so as to provide a clear view of the financials of the group as a whole. However, it is possible that entities that meet the definition of group as per extant regulations are not covered under consolidation due to exemptions granted as per statutory provisions/ applicable accounting standards. For such entities which are not included in the consolidation, disclosures shall be made in the indicative format mentioned at paragraph 2 of the
+Annex
+. In the process of consolidation, the auditor of a CIC, as the ‘principal auditor’, shall use the work of other auditors with respect to the financial information of other respective entities, subject to auditing standards as also guidance notes issued by the Institute of Chartered Accountants of India
+1
+from time to time.
+7. Exceptions to carrying other financial activity
+Reference is drawn to para 2(1)(iv) of the
+Master Direction on Core Investment Company (Reserve Bank) Directions, 2016
+on  other financial activities that can be undertaken by the CIC. CICs are allowed to invest in money market instruments, including mutual funds which make investments in money market instruments/debt instruments with a maturity of up to 1 year.
+8. Registration
+8.1 Reference is drawn to Para 7 of
+Master Direction on Core Investment Companies (Reserve Bank) Directions, 2016
+. It shall be noted that CICs (a) with an asset size of less than ₹100 crore, irrespective of whether accessing public funds or not and (b) with an asset size of ₹100 crore and above and not accessing public funds are not required to register with the Bank under Section 45IA of the RBI Act, 1934 in terms of
+notification No. DNBS.PD.221/CGM (US) 2011 dated January 5, 2011
+.
+9. Change in nomenclature
+9.1 A Systemically Important Core Investment Company, as defined in sub-paragraph (xxv) of paragraph 3 of the Core Investment Companies (Reserve Bank) Directions, 2016 will henceforth be termed as a Core Investment Company. A Core Investment Company, which is not required to be registered in terms of para 8.1 above, will henceforth be termed as ‘Unregistered CIC’ instead of ‘exempted CIC’.
+10. Others
+10.1 CICs implementing Indian Accounting Standards shall adhere to the
+circular DOR (NBFC).CC.PD No.109/22.10.106/2019-20 dated March 13, 2020
+on Implementation of Indian Accounting Standards.
+10.2 All CICs shall adhere to the guidelines on Submission of Data to Credit Information Companies as per para 100 and 101 of
+Master Direction Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016
+.
+11.
+Master Direction - Core Investment Companies (Reserve Bank) Directions, 2016
+is being modified accordingly.
+Yours faithfully
+(Manoranjan Mishra)
+Chief General Manager
+1
+Standard on Auditing (SA) 600 - "Using the Work of Another Auditor" and Guidance Note on Audit of Consolidated Financial Statements.

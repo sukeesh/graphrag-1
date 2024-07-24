@@ -1,0 +1,56 @@
+(307 kb)
+Extension of timeline for compliance with various payment system requirements
+RBI/2019-20/251
+DPSS.CO.PD.No.1897/02.14.003/2019-20
+June 04, 2020
+The Chairman / Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks, including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Payments Banks / Small Finance Banks /
+Local Area Banks / Non-Bank PPI issuers /
+Authorised Payment System Participants / Operators
+Madam / Dear Sir,
+Extension of timeline for compliance with various payment system requirements
+A reference is invited to Reserve Bank of India (RBI) instructions – (a)
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017 (as updated from time to time)
+on Master Direction on Issuance and Operation of Prepaid Payment Instruments (PPI-MD), (b)
+DPSS.CO.PD No.1343/02.14.003/2019-20 dated January 15, 2020
+on Enhancing Security of Card Transactions, (c)
+DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019
+on Harmonisation of Turn Around Time (TAT) and Customer Compensation for Failed Transactions using Authorised Payment Systems, and (d)
+DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020
+on Guidelines on Regulation of Payment Aggregators and Payment Gateways.
+2. Keeping in view the present situation it has been decided to extend the timeline for compliance in respect of a few areas detailed in the
+Annex
+.
+3. This directive is issued under Section 10(2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully,
+(P Vasudevan)
+Chief General Manager
+Encl.: As above
+Annex to letter DPSS.CO.PD.No.1897/02.14.003/2019-20 dated June 04, 2020
+SN
+Instruction / Circular
+Present Timeline
+Revised Timeline
+1.
+PPI-MD dated October 11, 2017 (as updated from time to time)
+:
+(i) All existing non-bank PPI issuers (at the time of issuance of PPI-MD) to comply with the minimum positive net-worth requirement of Rs. 15 crore for the financial position as on March 31, 2020 (audited balance sheet).
+(ii) Authorised non-bank entities shall submit the System Audit Report, including cyber security audit conducted by CERT-IN empanelled auditors, within two months of the close of their financial year to the respective Regional Office of DPSS, RBI.
+Financial position as on June 30, 2020
+Financial position as on September 30, 2020
+By August 31, 2020
+By October 31, 2020
+2.
+Implementing provisions of circular on “Enhancing Security of Card Transactions”.
+w.e.f. June 16, 2020
+By September 30, 2020
+3.
+“Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions using authorised Payment Systems”, “calendar days” to be read as “working days”.
+w.e.f. March 24, 2020
+Until December 31, 2020
+4.
+“Guidelines on Regulation of Payment Aggregators and Payment Gateways”, the activities for which specific timelines are not mentioned and were supposed to come into effect from April 1, 2020.
+w.e.f. June 01, 2020
+By September 30, 2020

@@ -1,0 +1,107 @@
+(41 kb)
+Ready Forward Contracts in Corporate Debt Securities
+This circular has been superseded by
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 dated July 24, 2018
+.
+RBI/2014-15/447
+FMRD.DIRD.04/14.03.002/2014-15
+February 03, 2015
+To All Market Participants
+Ready Forward Contracts in Corporate Debt Securities
+Please refer to the
+notification no IDMD.DOD. 04/11.08.38/ 2009-10 dated January 8, 2010
+as amended vide
+notification no. IDMD.PCD. 21/11.08.38/2010-11 dated November 9, 2010
+and
+notification no IDMD.PCD.08/14.03.02/2012-13 dated January 4, 2013
+on ready forward contracts in corporate debt securities. Reference is also invited to
+circulars IDMD.DOD.08/11.08.38/2009-10 dated April 16, 2010
+,
+IDMD.PCD.1423/14.03.02/2012-13 dated October 30, 2012
+and IDMD.PCD.13/14.01.02/2013-14 dated June 25, 2014.
+2. To further develop the corporate debt market, it has been decided to permit bonds issued by multilateral financial institutions like World Bank Group (e.g., IBRD, IFC), the Asian Development Bank and the African Development Bank in India as eligible underlying for repo in corporate debt securities.
+3. The Directions {Repo in Corporate Debt Securities, Directions 2015} in this regard issued vide
+FMRD.DIRD. 03/14.03.002/2014-15 dated February 03, 2015
+are enclosed.
+Yours faithfully,
+(Dimple Bhandia)
+General Manager
+Encl.: As above
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+23RD FLOOR CENTRAL OFFICE
+FORT MUMBAI 400 001
+Mumbai, February 03, 2015
+Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of its powers conferred by section 45W of the Reserve Bank of India Act, 1934 (RBI Act) and of all the powers enabling it in this behalf, hereby gives the following directions to all the persons dealing in repo in Corporate Debt Securities.
+1. Short title and commencement of the directions
+These directions may be called the Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015 and they shall come into force with effect from
+February 03, 2015
+and shall supercede all other Directions issued in this regard.
+2. Definitions
+‘
+Corporate Debt Security
+’ means non-convertible debt securities, which create or acknowledge indebtedness, including debentures, bonds and such other securities of a company or a body corporate constituted by or under a Central or State Act, whether constituting a charge on the assets of the company or body corporate or not, but does not include debt securities issued by Government or such other persons as may be specified by the Reserve Bank, security receipts and securitized debt instruments”
+‘
+Security Receipts
+’ means a security as defined in clause (zg) of section 2 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002)
+‘
+Securitized debt instrument
+’ means securities of the nature referred to in sub-clause (ie) of clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956).
+3. Eligible underlying collateral for repo in Corporate Debt Securities
+Listed corporate debt securities of original maturity of more than one year which are rated ‘AA’ or above by the rating agencies registered with Securities and Exchange Board of India (SEBI), that are held in the security account of the repo seller, in demat form.
+Commercial Papers (CPs), Certificates of Deposit (CDs) and Non-Convertible Debentures (NCDs) of original maturity upto one year which are rated A2 or above by the rating agencies registered with SEBI.
+Bonds which are rated ‘AA’ or above, by the rating agencies registered with SEBI or internationally recognised rating agencies, and which are issued by multilateral financial institutions like the World Bank Group (e.g., IBRD, IFC), the Asian Development Bank or the African Development Bank and other such entities as may be notified by the Reserve Bank of India from time to time.
+4. Eligible Participants
+The following entities shall be eligible to undertake repo transactions in corporate debt securities:
+a. Any scheduled commercial bank excluding RRBs and LABs;
+b. Any Primary Dealer authorised by the Reserve Bank of India;
+c. Any non-banking financial company registered with the Reserve Bank of India (other than Government companies as defined in sub-section (45) of section 2 of the Companies Act, 2013);
+d. All-India Financial Institutions, namely, Exim Bank, NABARD, NHB and SIDBI;
+e. India Infrastructure Finance Company Limited;
+f. Any scheduled urban cooperative bank subject to adherence to conditions prescribed by Reserve Bank of India;
+g. Other regulated entities, subject to the approval of the regulators concerned, viz.,
+Any mutual fund registered with the Securities and Exchange Board of India;
+Any housing finance company registered with the National Housing Bank; and
+Any insurance company registered with the Insurance Regulatory and Development Authority
+h. Any other entity specifically permitted by the Reserve Bank.
+5. Tenor
+Repos in corporate debt securities shall be for a minimum period of one day and a maximum period of one year.
+6. Trading
+Participants shall enter into repo transactions in corporate debt securities in the OTC market.
+7. Reporting of Trades
+All repo trades shall be reported within 15 minutes of the trade on the reporting platform of Clearcorp Dealing Systems (India) Ltd. (CDSIL).
+8. Settlement of trades
+All repo trades in corporate debt securities shall settle either on a T+0, T+1 or T+2 basis under DvP I (gross basis) framework.
+Repo transactions in corporate debt securities shall be settled through the clearing house of the National Stock Exchange (NSE), i.e., the National Securities Clearing Corporation Limited (NSCCL), the clearing house of the Bombay Stock Exchange (BSE), i.e., Indian Clearing Corporation Limited (ICCL), and the clearing house of the MCX-Stock Exchange, i.e., MCX-SX Clearing Corporation Limited (CCL), as per the norms specified by NSCCL, ICCL and CCL from time to time.
+On the date of reversal of repo trades, the clearing houses shall compute the obligations of the parties and facilitate settlement on DvP-I basis.
+9. Prohibition on sale of repoed security
+The security acquired under repo shall not be sold by the repo buyer (lender of the funds) during the period of repo.
+10. Haircut
+A rating based minimum haircut as prescribed by Reserve Bank of India (or higher as may be decided by the participants depending on the term of the repo and the remargining frequency) shall be applicable on the market value of the corporate debt security prevailing on the date of 1st leg of repo trade. Presently, the minimum haircut prescribed is as under:
+Rating
+AAA/A1
+AA+/A2+
+AA/A2
+Minimum haircut
+7.5%
+8.5%
+10%
+11. Valuation
+For arriving at the market value of the corporate debt security, the participants undertaking repo in corporate bonds may refer to the credit spreads published by the FIMMDA.
+12. Capital Adequacy
+Participants shall follow the capital adequacy guidelines/instructions for repo transactions in corporate debt securities issued by Reserve Bank of India or regulators concerned.
+13. Disclosure
+The details of corporate debt securities lent or acquired under repo or reverse repo transactions shall be disclosed in the “Notes on Accounts” to the Balance Sheet.
+14. Accounting
+The repo transactions in corporate debt securities shall be accounted as per the guidelines on uniform accounting for repo/reverse repo transactions issued vide
+circular IDMD/4135/11.08.43/2009-10 dated March 23, 2010
+and as may be modified from time to time.
+15. Computation of CRR/SLR & borrowing limit
+a. The amount borrowed by a bank through repo in corporate debt securities shall be reckoned as part of its Demand and Time Liabilities (DTL) and the same shall attract CRR/SLR.
+b. The borrowings of a bank through repo in corporate debt securities shall be reckoned as its liabilities for reserve requirement and, to the extent these liabilities are to the banking system, they shall be netted as per clause (d) of the explanation under section 42(1) of the RBI Act, 1934. Such borrowings shall, however, be subject to the prudential limits for inter-bank liabilities prescribed by the respective regulatory departments as the case may be.
+16. Documentation
+The participants shall enter into bilateral Master Repo Agreement as per the documentation finalized by the FIMMDA.
+G. Padmanabhan
+Executive Director
+FMRD.DIRD.03/14.03.002/2014-15

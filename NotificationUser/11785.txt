@@ -1,0 +1,215 @@
+(345 kb)
+Framework for imposing monetary penalty on authorised payment system operators / banks under the Payment and Settlement Systems Act, 2007
+RBI/2019-20/140
+DPSS.CO.OD.No.1328/06.08.005/2019-20
+January 10, 2020
+The Chairman / Managing Director / Chief Executive Officer
+Authorised Payment System Operators / Banks
+Madam / Dear Sir
+Framework for imposing monetary penalty on authorised payment system
+operators / banks under the Payment and Settlement Systems Act, 2007
+Please refer to the Reserve Bank of India (RBI)
+circular DPSS.CO.OD.No.1082/06.08.005/2016-17 dated October 20, 2016
+advising the framework for imposition of monetary penalty and compounding of contraventions / offences under Sections 30 and 31, respectively of the Payment and Settlement Systems (PSS) Act, 2007.
+2. The payment system landscape has witnessed rapid developments since then with increased adoption of technology, availability of payment products, entry of more non-bank players, dis-intermediation, significant surge in turnover, etc. To ensure that the payment systems are safe and secure and the various stakeholders conform to regulatory requirements, on review it has been decided to revise the process of levy of penalty on payment system operators by the Reserve Bank of India.
+3. A table showing the changes made to the existing framework is in
+Annex 1
+; salient features of the revised framework are in
+Annex 2
+. The revised framework continues to centre around objectivity and transparency in the decision-making process. It may be noted that action taken under this framework would be without prejudice to any other laws of the country.
+Yours faithfully
+(Rajani Prasad)
+General Manager O-i-C
+Encl.: As above
+Annex 1
+(DPSS.CO.OD.No.1328/06.08.005/2019-20 dated January 10, 2020)
+Framework for imposing monetary penalty on authorised payment system operators / banks under the Payment and Settlement
+Systems Act, 2007 – Existing framework vis-à-vis the Revised framework
+Sr. No.
+Subject
+Existing Framework
+(Circular dated October 20, 2016)
+Revised Framework
+(Circular dated January 10, 2020)
+1.
+Powers of RBI to impose fine and compound
+Powers of RBI to impose fine and compound contraventions have been mentioned; the type of contravention / violation for which RBI has powers to impose fine and compound, are not explicitly indicated.
+RBI has powers to impose monetary penalty in respect of certain contraventions as well as compound certain contraventions. The type / nature of contravention for which penalty can be imposed and compounded are different and vary. This has been detailed including the procedure to be followed.
+2.
+Procedure for imposing monetary penalty / fine
+Single procedure for imposing monetary penalty / fine in respect of contraventions identified by RBI as well as compounding of contraventions.
+Considering that the powers of RBI to impose monetary penalty and compound contraventions are different, and further that the nature of identification of contraventions is also different, separate procedures have been proposed.
+3.
+Delegation of powers to impose fine and compound contraventions
+There is no mention of delegation of powers or about the designated authority.
+The powers to impose monetary penalty on account of RBI identified contraventions and compounding of contraventions have been separated.
+4.
+Issuance of Show Cause Notice (SCN)
+In case RBI is not satisfied with the explanation furnished by the contravener, a SCN shall be issued. There is no methodology for considering various parameters to decide on its issue.
+The decision to issue SCN will be based on certain parameters dovetailed in a Scoring Matrix.
+5.
+Action based on nature of contravention
+No such procedure.
+Will depend on whether the contraventions are quantifiable or non-quantifiable.
+6.
+Amount of monetary penalty
+For quantifiable contraventions – a minimum penalty of Rs. 5 lakh.
+For non-quantifiable contraventions - a penalty of minimum Rs. 5 lakh with a maximum of Rs. 1 crore.
+Objective methodology dovetailed into a scoring matrix to determine the amount of penalty to be imposed, including action for non-compliance.
+7.
+Type of contraventions that can be compounded
+All contraventions could be compounded.
+All offences mentioned in Section 26 of PSS Act, 2007 except those relating to sub-section 2 of Section 26, can be compounded.
+All eligible contraventions, irrespective of its nature of being quantifiable or non-quantifiable, shall be compounded.
+Annex 2
+(DPSS.CO.OD.No.1328/06.08.005/2019-20 dated January 10, 2020)
+Framework for imposing monetary penalty on authorised payment system operators /
+banks under the Payment and Settlement Systems Act, 2007
+1. Offences and Penalties
+1.1
+Section 26 of the Payment and Settlement Systems (PSS) Act, 2007 defines the following activities as offences, which are punishable with imprisonment or fine or both:
+operation of a payment system without authorisation by RBI;
+failure to comply with the terms and conditions subject to which authorisation was issued;
+wilful submission of a false statement of information or wilful omission to submit a material statement in any application for authorisation or return or other document;
+failure to produce any statement, information, returns or documents;
+disclosure of any prohibited information;
+non-compliance of RBI directions or failure to pay the penalty imposed by RBI; and
+contravention of any provisions of the Act or of any regulation, order or direction made or given thereunder, in respect of which no penalty has been specified.
+2. Powers of RBI to impose fine
+2.1
+In terms of Section 30 of the PSS Act, RBI is empowered to impose a penalty not exceeding ₹ 5 lakh or twice the amount involved in such contravention or default where such amount is quantifiable, whichever is more, in case of contraventions / defaults of the nature mentioned in Section 26 (2) and 26 (6) of the Act. Further, if such contravention or default is a continuing one, a further penalty up to ₹ 25,000/- for every day after the first during which the contravention or default continues, can be imposed.
+3. Powers of RBI to compound offences
+3.1
+Section 31 of PSS Act empowers RBI to compound contraventions of any of the punishable offences under the Act, not being an offence punishable with imprisonment / imprisonment and fine.
+4.
+With the continuous evolution and increased pace of development of payment landscape in the country, including the entry of non-bank players leveraging the technological developments, and the consequent requirement to ensure safe, secure and efficient payment systems, a need was felt to review the entire process of levy of penalty so as to ensure the efficacy of implementation of various RBI directions and regulations.
+5.
+Accordingly, the entire process has been reviewed and a revised framework, as briefed below, is being put in place with immediate effect.
+6. Principles for imposing monetary penalty / compounding a contravention
+6.1
+Following factors will be considered for determining the
+materiality of a contravention
+, whether on account of those identified by RBI or a compounding application from the contravener:
+Severity of contravention in terms of degree of breach of norms/limits (isolated, localised, extensive, widespread);
+Period and frequency of a similar contravention during the past 5 years;
+Seriousness of the contravention; Percentage of amount involved in the contravention vis-à-vis total value of transactions handled by the contravener during the period under consideration;
+Amount involved in the contravention; and
+Submission of wrong / false / incomplete compliance.
+6.2
+Following factors will be considered for determining
+the amount of monetary penalty
+to be imposed on any entity, resulting from 6.1 above:
+Amount of gain or unfair advantage, wherever quantifiable, accruing to the contravener as a result of the contravention;
+Amount of loss caused to any other authority / agency / exchequer and / or to any other market participant;
+Monetary benefits accruing to the contravener from delayed / non-compliance;
+7. Imposition of monetary penalty for RBI identified contraventions
+(i) An indicative list of the contraventions / violations is as under:
+Wilful submission of a false statement of information or wilful omission of a material statement to RBI;
+Delay / non / incomplete / incorrect submission of various statutory / regulatory returns / statements / documents, etc.;
+Contravention of any provisions of the Act or of any regulation, directions / instructions made thereunder;
+Issues in maintenance of net worth requirements, etc.
+Non-compliance with Know Your Customer (KYC) and Anti-Money Laundering (AML) norms;
+Issues in maintenance of nodal / escrow accounts;
+Breach of limits in loading, fund transfer, etc. of PPIs;
+Inadequacies in storage of payment system data in India; and
+Any other contravention of directions / instructions – specific or general.
+(ii)
+Designated authority to impose penalty
+In case of quantifiable contraventions, a Committee of Senior Officers, comprising of the Chief General Manager / Officer-in-Charge, Department of Payment and Settlement Systems (DPSS), Central Office and senior officers from two other Departments of RBI, shall be the designated authority.
+In case of non-quantifiable contraventions, a Committee, comprising of ED in-Charge of DPSS and Chief General Managers from two other Departments of RBI (Committee of CGMs), shall be the designated authority.
+For contraventions, partly quantifiable and partly non-quantifiable, the Committee of CGMs shall be the designated authority.
+(iii)
+Procedure for imposing penalty
+(a)
+Call for information
+: On receipt of information on a contravention, RBI may call for additional information from the contravener.
+(b)
+Issue of Explanation Letter
+: On identification of a contravention, a letter calling for explanation would be issued to the contravener.
+(c)
+Issue of Show Cause Notice (SCN)
+:
+If the RBI is not satisfied with the reasons / explanations furnished by the contravener, an SCN may be issued based on the parameters mentioned in para 6.1 above, advising the contravener to show cause as to why the amount specified in the notice should not be imposed as penalty. For the purpose, a matrix has been formulated to derive a weighted score based on certain parameters.
+In cases where a contravener has already been issued with more than one Cautionary / Warning / Displeasure letters for a particular type of contravention by RBI on earlier occasions of contraventions during the last 5 years, an SCN shall be issued on the subsequent occasion/s irrespective of the overall weighted score arrived at.
+(d)
+Personal Hearing
+: The contravener shall be provided with a reasonable opportunity of being heard, if requested by the contravener in reply to the SCN.
+(e)
+Issue of Speaking Order
+: The Designated Authority shall pass a Speaking Order based on the information and supportive documents presented by the contravener and also the submissions made in this connection by them during the personal hearing.
+(iv)
+Amount of monetary penalty:
+The amount of monetary penalty may vary depending on impact on account of various factors.
+The amount of monetary penalty for a contravention shall not exceed ₹ 5 lakh or double the amount of contravention, whichever is higher, where such amount is quantifiable. For non-quantifiable contravention, the maximum penalty shall be ₹ 5 lakh per contravention.
+A Matrix has been formulated for determining the amount of penalty. The actual amount may vary depending on the circumstances of the cases.
+The amount of penalty, after considering the mitigating factors, may differ depending upon the extent of overall weighted score, as given in
+Appendix 1
+. In case where the amount of resultant penalty may affect the viability of the contravener or otherwise disproportionate or unfair, or even where neither the extent of impact nor the intent of committing the contravention is clearly established, the designated authority may exercise its discretionary power and take a fair view to either reduce or impose an appropriate amount of penalty, subject to statutory limits.
+(v)
+Payment of monetary penalty
+:
+The monetary penalty shall be payable within a period of thirty days from the date of the order.
+In case of failure in payment of penalty amount, RBI will initiate appropriate action against the contravener as per Section 8 or Section 30 (3) or Section 33 of PSS Act.
+(vi)
+Disclosure
+:
+The entities shall disclose the details of monetary penalty paid in their Notes to Accounts that are part of Annual Financial Statements for the financial year in which the penalty is levied.
+RBI shall disclose the penalty levied on its website.
+8. Compounding of contraventions
+(i) An indicative list of the contraventions / violations for compounding, is as under:
+Failure to comply with the terms and conditions of authorisation issued by RBI;
+Failure to produce / furnish any statement, information, returns or other documents to RBI or answer any question relating to the operation of payment system;
+Disclosure of any information prohibited under Section 22 of PSS Act;
+Non-compliance / contravention of any provisions of the Act / Regulation / order / directions made or given in respect of which no penalty has been specified in the Act;
+Violations of KYC / AML norms;
+Delay / non / incomplete / incorrect submission of various statutory / regulatory returns / statements / documents, etc. (other than an act punishable under sub-section 2 of Section 26)
+Issues in maintenance of nodal/escrow accounts;
+Breach of limits in loading, fund transfer, etc. of PPIs;
+Inadequacies in storage of payment system data in India; and
+Any other contravention of directions / instructions – specific or general.
+(ii)
+Compounding Authority
+– The CGM / Officer-in-charge, DPSS, Central Office will be the Compounding Authority for cases of compounding involving quantifiable contraventions, and ED-in-charge of DPSS will be the Compounding Authority for compounding cases involving non-quantifiable contraventions.
+(iii)
+Eligibility for compounding
+:
+All contraventions (quantifiable or non-quantifiable) of the nature of offences mentioned in Section 26 (1), (3), (4), (5) and (6) of PSS Act, 2007, are liable to be compounded.
+The cases which involve money laundering, terror financing or affect sovereignty and integrity of nation, shall not be compounded by RBI.
+The applications submitted for compounding of eligible contraventions shall be accepted by RBI even if the same is pending before any court of law (on the basis of complaint filed by RBI).
+Where a contravention has been compounded by RBI, no proceeding or further proceeding shall be initiated or continued, as the case may be, against the person committing such contravention, in respect of the contravention so compounded.
+(iv)
+Procedure for compounding
+:
+Submission of compounding application:
+A contravener wishing to seek compounding of eligible contraventions, shall submit an application, along with information relating to facts and circumstances resulting in commission of contravention, a copy of Memorandum and Articles of Association and latest audited balance sheet, in the prescribed format (
+Appendix 2
+) to the Chief General Manager, Department of Payment and Settlement Systems, Reserve Bank of India, Central Office, Mumbai. He / she shall also give an undertaking that they are not under any enquiry / investigation / adjudication by any Law Enforcement Agency, such as Directorate of Enforcement, Directorate of Revenue Intelligence, Central Bureau of Investigation, etc.
+Examination of Compounding Application
+: On receipt of the application for compounding, the same shall be examined by RBI and taken up for compounding process.
+Call for information
+: The RBI may call for any information, record or any other documents relevant to the contravention.
+Personal Hearing
+: The contravener shall be provided with a reasonable opportunity of being heard by the respective Compounding Authority irrespective of whether the contravener has opted for the same.
+Issue of Compounding Order
+: The Compounding Authority shall pass an order in the compounding application as expeditiously as possible, but not later than a period of 6 months from the date of receipt of the complete Compounding Application.
+(v)
+Compounding Amount
+:
+The basis for calculation of compounding amount will be the same as for penalties (as prescribed in
+Appendix 1
+).
+The compounding amount may be 25% less than the calculated amount (as per
+Appendix 1
+) that would have otherwise been imposed under Section 30 of the Act.
+The compounding amount shall not exceed ₹ 5 lakh or double the amount of contravention, whichever is higher, in case of quantifiable contraventions, whereas in respect of non-quantifiable contraventions it shall not exceed ₹ 5 lakh.
+In case of repeated contraventions (within a period of 5 years) in respect of which compounding has been done on earlier occasion, the compounding amount may be increased by 50 per cent of the calculated amount (as per
+Appendix 1
+).
+(vi)
+Payment of compounding amount
+:
+The amount specified in the Order of Compounding shall be paid within a period of 30 days from the date of the Order.
+In case of failure to pay the compounding amount for which contravention was earlier compounded, it shall be deemed that the contravener did not make an application for compounding of contravention under the PSS Act, and the RBI shall be free to take appropriate action under the Act.
+(vii)
+Disclosure
+: RBI shall make public the compounding amount levied on the entity for compounding of contraventions on its website.

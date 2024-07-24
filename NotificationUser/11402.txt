@@ -1,0 +1,245 @@
+(146 kb)
+Master Direction - Fit and Proper Criteria for Sponsors - Asset Reconstruction Companies (Reserve Bank) Directions, 2018
+RBI/DNBR/2018-19/66
+Master Direction DNBR. PD (ARC) CC. No. 06/26.03.001/2018-19
+October 25, 2018
+The Chairman / Managing Director / Chief Executive Officer
+All registered Asset Reconstruction Companies
+Dear Sir/ Madam,
+Master Direction - Fit and Proper Criteria for Sponsors - Asset Reconstruction Companies (Reserve Bank) Directions, 2018
+In exercise of the powers conferred by clause (f) of sub-Section 3 of Section (3) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (the Act) and of all the powers enabling it in this behalf, Reserve Bank of India (the Bank) hereby issues the Directions on Fit and Proper Criteria for Sponsors of Asset Reconstruction Companies (ARCs) registered under the Act.
+1. Short title and commencement
+(i) These Directions shall be called Fit and Proper Criteria for Sponsors - Asset Reconstruction Companies (Reserve Bank) Directions, 2018.
+(ii) These Directions shall come into force with immediate effect.
+2. Applicability
+The provisions of these Directions shall apply to the existing and proposed sponsors of the ARCs.
+3. Definitions
+In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them below :
+(i) “Act” means Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 and amendments thereto.
+(ii) “Applicant” means the person making an application under Section 3 of the Act.
+(iii) “Sponsor” has the meaning as given in Section 2(1)(zh) of the Act and means any person holding not less than ten per cent of the paid-up equity capital of an asset reconstruction company.
+4. Eligibility criteria for sponsors of ARCs
+The sponsors should be fit and proper in order to be eligible to promote ARCs.
+5. Determinants of fit and proper status of sponsors of ARCs
+In determining whether the sponsor is fit and proper, the Bank shall take into account all relevant factors, as appropriate, including, but not limited to, the following:
+(i) The sponsor’s integrity, reputation, track record and compliance with applicable laws and regulations;
+(ii) The sponsor’s track record and reputation for operating business in a manner that is consistent with the standards of good corporate governance, integrity, in addition to the similar assessment of individuals and other entities associated with the sponsor;
+(iii) The business record and experience of the sponsor;
+(iv) Sources and stability of funds for acquisition and the ability to access financial markets;
+(v) Shareholding agreements and their impact on control and management of the ARC.
+6. Information to be furnished by the sponsors along with relevant supporting documents
+(i) Information by a natural person
+Self-declaration as per
+Form I
+(Part A, B and C)
+as specified in the schedule to these Directions.
+(ii) Information by the legal person
+Self-declaration as per
+Form I
+(Part A, B, C and D)
+as specified in the schedule to these Directions.
+(iii) The ARC should furnish additional information as per
+Form I
+(Part E)
+.
+7. Continuous monitoring arrangements for due diligence in case of existing sponsors
+(i) For the purpose of ensuring that all its sponsors are fit and proper, every ARC shall
+(a) obtain within one month of the close of financial year a declaration from all its sponsors in
+Form I
+as specified in the schedule to these Directions;
+(b) furnish a certificate in
+Form III
+, by the end of May every year, to the Reserve Bank on the changes in the status of the sponsor.
+(ii) Every ARC shall examine any information on the sponsors which may come to its notice that may render such persons
+not
+fit and proper to hold such shares and shall immediately furnish a report on the same to the Bank.
+8. Compliance with prior approval requirement
+(i) The ARCs shall make an application along with
+Form II
+as specified in the schedule to these Directions, for the Bank’s prior approval for change in shareholding of the ARCs as indicated in
+circular DNBR(PD)CC.No.01/SCRC/26.03.001/2014-15 dated February 24, 2015
+on ‘Bank’s prior approval for change in Shareholding’ as amended from time to time.
+(ii) The Bank shall, inter alia, seek feedback on the persons from other domestic as well as foreign regulators and enforcement and investigative agencies as deemed appropriate to make an assessment whether a sponsor is fit and proper.
+Yours faithfully,
+(Manoranjan Mishra)
+Chief General Manager
+SCHEDULE
+FORMS
+Form I
+Declaration to be submitted by the Sponsor
+Name of the ARC :
+Sl. No.
+Particulars
+Remarks
+PART A
+1.
+Name of the Sponsor (including previous names, if any, alongwith date of such changes)
+2.
+Present & Permanent address of the Sponsor
+3.
+Registered & Corporate Office address of the Sponsor
+4.
+Occupation/ Nature of business of the Sponsor
+5.
+Citizenship and Resident status if the Sponsor is an individual/ ownership and control status if the Sponsor is an entity (as per FEMA)
+6.
+Date of Birth / Incorporation
+7.
+CIN/ Registration No./ PAN/ TAN
+8.
+Details of bank accounts - bank, branch and account no.
+9.
+Profitability and Average Income for the last three years and Net Worth (Duly certified by the Statutory Auditors)
+10.
+Sources of fund for acquisition of shares/ compulsorily convertible preference shares/ debentures/ bonds (Duly certified by the Statutory Auditors)
+11.
+Income Tax Returns and audited financial statements of the sponsor for the last three years
+12.
+Details of directorship/ shareholding/ voting rights/ compulsorily convertible preference shares/ debentures/ bonds, etc. of the sponsor in banks and other institutions in the financial sector
+13.
+Details of acquisition by the sponsor (shareholding in Rs. and %) in ARC
+14.
+Whether any other person has beneficial interest in the proposed acquisition
+15.
+Detailed profile on the background and experience of the sponsor, expertise and track record of business
+16.
+Whether the sponsor is a financial sector entity/ Government/ public sector undertaking
+17.
+Whether the sponsor has been declared as a wilful defaulter at any time in the preceding five years
+If yes, whether they continue as a wilful defaulter
+PART B
+18.
+(A) List of ‘Relatives’ of the sponsor
+(B) List of “Persons acting in concert’ with the sponsor
+(C) List of Associate Enterprises of the sponsor
+(D) List of Entities which hold 10% or more of the paid-up share capital of the sponsor
+(E) List of HUFs where the Sponsor or his family member is a member/ karta
+(F) List of entities in which the HUF at (E) above is holding 10% or more of the paid-up share capital of that entity
+(G) List of entities in which the Sponsor is holding 10% or more of the paid-up share capital of that entity
+(H) Entities, if any, in which the Sponsor is considered as being interested (Refer Section 184 of Companies Act, 2013)
+(I) Entities where there are common shareholders of the sponsor who collectively hold 20% or more of the paid-up share capital of the Sponsor and also those entities
+(J) Related Party (Refer AS 18) of the Sponsor
+Explanation: For the purpose of this part,
+(i) “Relatives” means ‘relatives’ as defined in Section 2(77) of the Companies Act 2013.
+(ii) Persons shall be deemed to be “acting in concert” who, for a common objective or purpose of acquisition of shares in excess of 10%, pursuant to an agreement or understanding (formal or informal) directly or indirectly cooperate by acquiring or agreeing to acquire shares in the ARC;
+(iii) ‘Associate enterprises of the sponsor’, means a company whether incorporated or not, which
+is a holding company or a subsidiary company of the sponsor; or
+is a joint venture (defined in terms of AS 23) of the sponsor; or
+controls the composition of the Board of Directors or other body governing the sponsor; or
+is able to obtain economic benefits from the activities of the applicant.
+PART C
+19.
+Has the sponsor or the persons/ entities listed in Part B been adjudged bankrupt/insolvent at any time
+20.*
+If the sponsor or the persons/ entities listed in Part B is a member of a professional association/ body, details of disciplinary action, if any, pending or commenced or resulting in conviction in the past against him/ her or whether he/ she has been banned from entry at any profession/ occupation at any time
+21.*
+Details of serious disciplinary or criminal prosecution, if any, pending or commenced or resulting in conviction in the past against the sponsor or the persons/ entities listed in Part B
+22.*
+Has the sponsor or the persons/ entities listed in Part B at any time been found guilty of violation of rules / legislative requirements by customs / excise/ income tax/ foreign exchange/ other revenue authorities/ investigative agencies/ economic laws/ any regulation, including issuance of Show Cause Notice, if so give particulars
+23.
+Whether the sponsor or the persons/ entities listed in Part B have been convicted for any offence due to dishonesty, incompetence or malpractice under any legislation designed to protect members of the public from financial loss
+24.
+Whether the persons/ entities listed in Part B has been declared as a wilful defaulter at any time in the preceding five years? If yes, whether he/she continues as a wilful defaulter?
+PART D
+25.
+If the sponsor is a regulated entity, names and addresses of the regulators of the applicant in India and abroad
+26.
+Shareholding pattern of the sponsor
+27.
+Details of capital raised by the sponsor during the past 3 years
+28.
+Detailed corporate structure of the Group in case the sponsor belongs to a Group (preferably in a pictorial form)
+*Though it shall not be necessary for a person to mention in the column about orders and findings made by regulators which have been later on reversed / set aside in toto, however, it would be necessary to make a mention of the same, in case the reversal / setting aside is on technical reasons like limitation or lack of jurisdiction, etc., and not on merit. If the order of the regulator is temporarily stayed and the appellate / court proceedings are pending, the same also should be mentioned.
+Undertaking
+I confirm that the above information to the best of my knowledge and belief, is true and complete. I undertake to keep the ARC fully informed, as soon as possible, of all events which take place subsequent to submission of this declaration, which are relevant to the information provided above.
+Signature and stamp of the sponsor
+Place :
+Date :
+I solemnly declare that to the best of my knowledge and belief the information furnished in the statement above is correct, complete and truly stated.
+Signature of Authorised Official of the Company
+Name :
+Designation :
+Company Seal :
+Date :
+Place :
+PART E
+Additional information to be submitted by the ARC
+Sl. No.
+Particulars
+Remarks
+29.
+Any other explanation / information in regard to items above considered relevant for judging “fit and proper” status of the sponsor
+30.
+Brief details of shareholder agreements
+Signature of Authorised Official of the Company
+Name :
+Designation :
+Company Seal :
+Date :
+Place :
+Form II
+Information to be furnished to the Reserve Bank by the Asset Reconstruction Company (ARC) while forwarding the application for seeking prior approval of Sponsors
+Sl. No.
+Particulars
+Remarks
+1.
+Name of the ARC
+2.
+Paid-up share capital of the ARC
+3.
+Name of the existing sponsors of the ARC
+4.
+Name of the proposed sponsor
+5.
+Proposed sponsor’s track record on integrity and reputation
+6.
+Report of the ARC on the acquisition (based on a review by the Board of Directors)
+7.
+Whether the proposed sponsor is resident or non-resident
+8.
+Whether the proposed sponsor or persons/ entities listed in Part B of
+Form I
+has been subject to any proceedings of serious disciplinary or criminal nature
+Encl :
+1. Report of the ARC
+2. Copy of the Board Resolution
+3. Form I for individual sponsors
+Signature of Authorised Official of the Company
+Name :
+Designation :
+Company Seal :
+Date :
+Place :
+Form III
+Annual declaration (as on March 31 every year) to be furnished to the ARC by all the existing Sponsors of ARCs
+Name of the ARC:
+Sl. No.
+Particulars
+Remarks
+1.
+Name of the sponsor
+2.
+Address of the sponsor
+3.
+Occupation of the sponsor (in case of individuals)
+4.
+Total number of shares /compulsorily convertible preference shares/ debentures /bonds held by the sponsor in the ARC
+5.
+Date/s of acquisition of shares/ compulsorily convertible preference shares/ debentures/ bonds in the ARC in the past 5 years
+6.
+Details of regulatory actions against the sponsors and persons/ entities listed in Part B of
+Form I
+by regulators in India or abroad, during the last 5 years
+7.
+Whether there have been any criminal proceedings against the sponsor and persons/ entities listed in Part B of
+Form I
+during the last 5 years, if so, details thereof.
+8.
+Whether there have been any civil proceedings against the sponsor and persons/ entities listed in Part B of
+Form I
+during the last 5 years, if so, details thereof.
+9.
+Change of ownership of the sponsor in the last 5 years (in case of entities), if any
+Signature and stamp of the sponsor
+Place :
+Date :

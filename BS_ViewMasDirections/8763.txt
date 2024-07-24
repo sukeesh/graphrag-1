@@ -1,0 +1,26 @@
+(20 kb)
+Money Transfer Service Scheme – ‘Direct to Account’ facility
+RBI/2013-14/511
+A.P. (DIR Series) Circular No. 110
+March 4, 2014
+To,
+All Authorised Persons, who are Indian Agents under Money Transfer Service Scheme
+Madam / Sir,
+Money Transfer Service Scheme – ‘Direct to Account’ facility
+Attention of Authorised Persons, who are Indian Agents under Money Transfer Service Scheme (MTSS) is invited to Para 4.4 (e) Payment to Beneficiaries of
+Annex II
+- Section I of the A.P. (DIR Series) Circular No. 89 dated March 12, 2013 on Money Transfer Service Scheme – Revised Guidelines, as amended from time to time.
+2. To facilitate receipt of foreign inward remittances directly into bank account of the beneficiary, it has been decided to allow foreign inward remittances received under MTSS to be transferred to the KYC compliant beneficiary bank account through electronic mode, such as NEFT, IMPS etc. The procedure to be followed for the purpose is as under.
+Foreign inward remittances received by the bank acting as Indian Agent under MTSS (termed as ‘Partner Bank’), may be electronically credited directly to the account of the beneficiary, held with a bank other than the Indian Agent Bank (termed as ‘Recipient Bank’), subject to the following conditions:
+The Recipient Bank will credit the amount transferred by the Partner bank only to KYC compliant bank accounts.
+In respect of the bank accounts which are not KYC compliant, the Recipient Bank shall carry out KYC/CDD of the recipient before the remittance to such account is credited or allowed to be withdrawn.
+The Partner Bank shall appropriately mark the direct-to-account remittances to indicate to the Recipient Bank that it is a foreign inward remittance.
+The Partner Bank shall ensure that accurate originator information and necessary beneficiary information is included in the electronic message while transferring the fund to the Recipient Bank. This information should be available in the remittance message throughout the payment chain i.e. the overseas principal, the Partner Bank and the Recipient Bank. The Partner Bank should add an appropriate alert in the electronic message indicating that this is a foreign inward remittance and should not be credited to KYC non-compliant account and NRE/NRO account.
+The identification and other documents of the recipient shall be maintained by the Recipient Bank as per the provisions of Prevention of Money Laundering (Maintenance of Records) Rules, 2005. All other requirements under KYC/AML/CFT guidelines issued by the Reserve Bank of India for MTSS from time to time shall be adhered to by the Partner Bank.
+The Recipient Bank may seek additional information from the Partner Bank and shall report suspicious transactions to the FIU-IND with details of the Partner Bank through which they received the remittances.
+3. All other instructions issued vide A. P. (DIR Series) Circular No. 89 dated March 12, 2013, as amended from time to time, will remain unchanged.
+4. Authorised Persons (Indian Agents) may bring the contents of this circular to the notice of their constituents concerned.
+5. The directions contained in this circular have been issued under Section 10(4) and Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Rudra Narayan Kar)
+Chief General Manager In-Charge

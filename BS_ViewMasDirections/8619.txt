@@ -1,0 +1,36 @@
+(60 kb)
+Reporting Platform for OTC Foreign Exchange and Interest Rate Derivatives
+RBI/2013-14/400
+FMD.MSRG.No.94/02.05.002/2013-14
+December 4, 2013
+All Category-I  Authorised Dealer Banks and Primary Dealers
+Madam/Sir,
+Reporting  Platform for OTC Foreign Exchange and Interest Rate Derivatives
+Please refer to our
+circular FMD.MSRG.No.67/02.05.002/2011-12 dated March 9, 2012
+on the captioned subject, wherein we had advised, inter alia, that all/selective  trades in OTC foreign exchange and interest rate derivatives between the  Category-I AD banks/market makers (banks/PDs) and their clients shall be  reported on the CCIL platform subject to a mutually agreed upon confidentiality  protocol.  Accordingly, in a phased  manner, reporting arrangement was put in place for reporting of OTC derivatives  trades between market makers and between market makers and their clients.
+2. The CCIL has now completed  development of the platform for reporting of the following transactions in OTC  derivatives:
+Inter-bank and client transactions in  Currency Swaps
+Inter-bank and client transactions in FCY  FRA/IRS
+Client transactions in INR FRA/IRS
+The CCIL  has also put in place a confidentiality protocol in consultation with the  market representative bodies.
+3. It  has been decided to operationalise the platform with effect from December 30,  2013 for the above OTC derivative instruments. The salient features of the  reporting requirement are as under.
+i) All interbank  transactions and transactions with clients in OTC Currency Swap and FCY FRA/IRS  and transactions with clients in INR FRA/IRS executed on and after the  commencement of reporting, i.e. December 30, 2013 shall be reported to CCIL.
+ii) All interbank  transactions in Currency Swap and FCY FRA/IRS shall be reported on the date of  transaction before closure of CCIL’s reporting platform for the day. The transactions  in Currency Swap (not involving INR) and FCY FRA/IRS executed with overseas  counterparties including their own branches/parent body after 5 pm may be  reported by 10 am on the following business day.
+iii) All transactions with clients in Currency  Swap, FCY FRA/IRS and INR FRA/IRS shall be reported before 12 noon of the following  business day.
+vi) The threshold for reporting the transactions  with clients in Currency Swap and FCY FRA/IRS shall be USD 1 million and  equivalent thereof in other currencies. The transactions with the value equal  to or exceeding the threshold shall be reported to CCIL. To determine  eligibility for reporting, the threshold shall be applied to the base currency  of the transactions at the time of origination. Currency matrix provided by  CCIL is to be used for base and term currency. The threshold shall, however,  not apply to post-trade events relating to the concerned transactions.
+v) The  FEDAI Revaluation rates published on its website every month shall be used for  computation of threshold and rates shall be valid till the next rates are  published by FEDAI.
+vi) All the transactions by banks/PDs with their  clients in INR FRA/IRS shall be reported to CCIL without any threshold. The  existing reporting arrangement for the client INR FRA/IRS transactions by  banks/PDs to RBI shall be dispensed with after stabilisation of the reporting arrangement  with CCIL.
+vii) Banks/PDs shall be required to report the transactions  in respect of the following clients:
+All  categories of Resident Entities (including individuals)
+All  categories of Non-Resident Entities namely NRI, FDI and FII and Non- Resident  Exporters/ Importers eligible for undertaking transactions in the named  derivative instruments.
+viii) The reporting shall be on a prospective basis for  transactions with clients in Currency Swap and FCY FRA/IRS and banks are not required  to report the details of the outstanding transactions, i.e. transactions  entered into prior to December 30, 2013.
+ix) All the  outstanding interbank transactions  in Currency Swap and FCY FRA/IRS and outstanding transactions with clients in  INR FRA/IRS, as on the date of commencement of the reporting, i.e. December 30,  2013, shall be reported to CCIL by January 31, 2014.
+x) There shall be no matching of  transactions with overseas counterparties and client  transactions in the CCIL platform as the overseas counterparties and clients are  not required to report/confirm the transaction details. Banks/PDs shall be  responsible for ensuring the accuracy in respect of transactions reported.
+xi) Currently the reporting arrangement will  cover transactions involving 14 currencies namely USD, EUR, GBP, JPY, AUD, CAD,  CHF, HKD, DKK, NOK, NZD, SGD, SEK and ZAR. The reporting will be extended to  other currencies in due course and shall be communicated by CCIL.
+xii) Members shall ensure completion of  documentation and other pre-reporting formalities with CCIL before commencement  of reporting.
+xiii) Detailed operational guidelines in this regard  would be made available by CCIL.
+Banks/PDs may take steps to familiarise their  personnel with technical and other aspects of reporting which will be  facilitated by CCIL.
+Yours sincerely
+(G. Mahalingam)
+Principal Chief General  Manager

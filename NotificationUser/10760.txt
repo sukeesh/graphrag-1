@@ -1,0 +1,24 @@
+(255 kb)
+Aadhaar-based Authentication for Card Present Transactions
+RBI/2016-17/170
+DPSS.CO.PD No.1421/02.14.003/2016-17
+December 02, 2016
+The Chairman and Managing Director / Chief Executive Officers
+All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks /
+State Co-operative Banks / District Central Co-operative Banks/
+Authorised Card Payment Networks / White Label ATM Operators /
+Payments Banks / Small Finance Banks
+Dear Madam / Sir,
+Aadhaar-based Authentication for Card Present Transactions
+A reference is invited to our
+circular DPSS.CO.PD.No.892/02.14.003/2016-17 dated September 29, 2016
+wherein banks were advised to ensure that all new card present acceptance infrastructure deployed with effect from January 1, 2017 are enabled for processing payment transactions using Aadhaar-based biometric authentication also.
+2. It has been brought to our notice that the rate of deployment of acceptance infrastructure has slowed down owing to the mismatch between demand and supply of such Aadhaar-enabled devices. Therefore, on a review, it has been decided to extend the time for deployment of Aadhaar-enabled devices till June 30, 2017. However, banks may continue to make necessary arrangements, including changes as host-end, network level and device readiness, as required to ensure adherence to above instructions.
+3. Further, it is also clarified that the instructions contained in our
+circular dated September 29, 2016
+are for deployment of new card acceptance infrastructure. As regards enablement of existing card acceptance infrastructure for processing payment transactions using Aadhaar-based biometric authentication, the timeline will be advised in due course.
+4. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+5. Please acknowledge the receipt of this circular.
+Yours faithfully,
+(Nanda S. Dave)
+Chief General Manager

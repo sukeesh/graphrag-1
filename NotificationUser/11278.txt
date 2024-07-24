@@ -1,0 +1,393 @@
+(279 kb)
+Basel III Framework on Liquidity Standards – Net Stable Funding Ratio (NSFR) – Final Guidelines
+RBI/2017-18/178
+DBR.BP.BC.No.106/21.04.098/2017-18
+May 17, 2018
+All Scheduled Commercial Banks
+(excluding RRBs)
+Dear Sir/Madam,
+Basel III Framework on Liquidity Standards –
+Net Stable Funding Ratio (NSFR) – Final Guidelines
+The Net Stable Funding Ratio (NSFR) and Liquidity Coverage Ratio (LCR) are significant components of the Basel III reforms. The LCR guidelines which promote short term resilience of a bank’s liquidity profile have been issued vide
+circular DBOD.BP.BC.No.120/21.04.098/2013-14 dated June 9, 2014
+. The NSFR guidelines on the other hand ensure reduction in funding risk over a longer time horizon by requiring banks to fund their activities with sufficiently stable sources of funding in order to mitigate the risk of future funding stress.
+2. The
+draft guidelines
+on the NSFR for banks in India were issued on May 28, 2015 for comments. The final guidelines, after considering comments received from various stakeholders, are given in the
+Annex
+for implementation from a date to be communicated in due course.
+Yours faithfully,
+(Prakash Baliarsingh)
+Chief General Manager
+Annex
+Basel III Framework on Liquidity Standards – Net Stable Funding Ratio (NSFR)
+Table of Contents
+Paragraph No.
+Topic
+Net Stable Funding Ratio (NSFR)
+1.
+Introduction
+2.
+Objective
+3.
+Scope
+4.
+Definition of the NSFR
+5.
+Minimum Requirement and Implementation Date
+6.
+Calibrations of ASF and RSF - Criteria and Assumptions
+7.
+Definition and Computation of ASF
+8.
+ASF – Other Requirements
+9.
+Definition and Computation of RSF
+10.
+RSF – Other Requirements
+11.
+Frequency of calculation and reporting
+12.
+NSFR Disclosure Standards
+Appendix I
+BLR-7 – Statement of NSFR
+Appendix II
+NSFR Disclosure Template
+Net Stable Funding Ratio (NSFR)
+1. Introduction
+1.1 In the backdrop of the global financial crisis that started in 2007, the Basel Committee on Banking Supervision (BCBS) proposed certain reforms to strengthen global capital and liquidity regulations with the objective of promoting a more resilient banking sector. In this regard, the Basel III rules text on liquidity – “Basel III: International framework for liquidity risk measurement, standards and monitoring” was issued in December 2010 which presented the details of global regulatory standards on liquidity. Two minimum standards, viz., Liquidity Coverage Ratio (LCR) and Net Stable Funding Ratio (NSFR) for funding liquidity were prescribed by the Basel Committee for achieving two separate but complementary objectives.
+1.2 The LCR promotes short-term resilience of banks to potential liquidity disruptions by ensuring that they have sufficient high quality liquid assets (HQLAs) to survive an acute stress scenario lasting for 30 days. The NSFR promotes resilience over a longer-term time horizon by requiring banks to fund their activities with more stable sources of funding on an ongoing basis.
+1.3 At the time of issuing the December 2010 document, the Basel Committee had put in place a rigorous process to review the standard and its implications for financial markets, credit extension and economic growth and agreed to review the development of the NSFR over an observation period. The focus of this review was on addressing any unintended consequences for financial market functioning and the economy, and on improving its design with respect to several key issues, notably: (i) the impact on retail business activities; (ii) the treatment of short-term matched funding of assets and liabilities; and (iii) analysis of sub-one year buckets for both assets and liabilities.
+1.4 These guidelines are based on the final rules text on NSFR published by the BCBS in October 2014 and take into account the Indian conditions.
+2. Objective
+The objective of NSFR is to ensure that banks maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities. A sustainable funding structure is intended to reduce the probability of erosion of a bank’s liquidity position due to disruptions in a bank’s regular sources of funding that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR limits overreliance on short-term wholesale funding, encourages better assessment of funding risk across all on- and off-balance sheet items, and promotes funding stability.
+3. Scope
+The NSFR would be applicable for Indian banks at the solo as well as consolidated level. For foreign banks operating as branches in India, the framework would be applicable on stand-alone basis (i.e., for Indian operations only).
+4. Definition of NSFR
+The NSFR is defined as the amount of available stable funding relative to the amount of required stable funding. “Available stable funding” (ASF) is defined as the portion of capital and liabilities expected to be reliable over the time horizon considered by the NSFR, which extends to one year. The amount of stable funding required ("Required stable funding") (RSF) of a specific institution is a function of the liquidity characteristics and residual maturities of the various assets held by that institution as well as those of its off-balance sheet (OBS) exposures.
+5. Minimum Requirement and Implementation Date
+The above ratio should be equal to at least 100% on an ongoing basis. However, the NSFR would be supplemented by supervisory assessment of the stable funding and liquidity risk profile of a bank. On the basis of such assessment, the Reserve Bank may require an individual bank to adopt more stringent standards to reflect its funding risk profile and its compliance with the Sound Principles (issued vide
+circular “Liquidity Risk Management by Banks” DBOD.BP.No.56/21.04.098/2012-13 dated November 7, 2012
+). The NSFR would be binding on banks with effect from a date which will be communicated in due course.
+6. Calibrations of ASF and RSF - Criteria and Assumptions
+ASF and RSF reflect the amount of funding available and required for liabilities and assets (including off balance sheet assets).The amounts of ASF and RSF specified in the BCBS standard are calibrated to reflect the presumed degree of stability of liabilities and liquidity of assets.
+6.1 The calibration reflects the stability of liabilities across two dimensions:
+(a) Funding tenor – The NSFR is generally calibrated such that longer-term liabilities are assumed to be more stable than short-term liabilities.
+(b) Funding type and counterparty – The NSFR is calibrated under the assumption that short-term (maturing in less than one year) deposits provided by retail customers and funding provided by small business customers are behaviourally more stable than wholesale funding of the same maturity from other counterparties.
+6.2 In determining the appropriate amounts of required stable funding for various assets, the following criteria are taken into consideration, recognising the potential trade-offs between these criteria:
+(a) Resilient credit creation – The NSFR requires stable funding for some proportion of lending to the real economy in order to ensure the continuity of this type of intermediation.
+(b) Bank behaviour – The NSFR is calibrated under the assumption that banks may seek to roll over a significant proportion of maturing loans to preserve customer relationships.
+(c) Asset tenor – The NSFR assumes that some short-dated assets (maturing in less than one year) require a smaller proportion of stable funding because banks would be able to allow some proportion of those assets to mature instead of rolling them over.
+(d) Asset quality and liquidity value – The NSFR assumes that unencumbered, high-quality assets that can be securitised or traded, and thus can be readily used as collateral to secure additional funding or sold in the market, do not need to be wholly financed with stable funding.
+6.3 Additional stable funding sources are also required to support at least a small portion of the potential calls on liquidity arising from OBS commitments and contingent funding obligations.
+6.4 Definitions on various components of NSFR indicated in these guidelines mirror those outlined in the circular on LCR, unless otherwise specified. All references to LCR definitions in the NSFR refer to the definitions in the LCR standard issued vide
+circular dated June 9, 2014
+and modified vide
+circular dated March 31, 2015
+;
+March 23, 2016
+and
+August 2, 2017
+.
+7. Definition and computation of Available Stable Funding
+7.1 The amount of ASF is measured, based on the broad characteristics of the relative stability of an institution’s funding sources, including the contractual maturity of its liabilities and the differences in the propensity of different types of funding providers to withdraw their funding. The amount of ASF is calculated by first assigning the carrying value of an institution’s capital and liabilities to one of five categories as presented below. The amount assigned to each category is then multiplied by an ASF factor, and the total ASF is the sum of the weighted amounts. Carrying value represents the amount at which a liability or equity instrument is recorded before the application of any regulatory deductions, filters or other adjustments.
+Table 1
+Sr. No.
+Components of ASF category (liability categories)
+Associated ASF factor
+(i)
+• Total regulatory capital (excluding Tier 2 instruments with residual maturity of less than one year)
+• Other capital instruments with effective residual maturity of one year or more
+• Other liabilities with effective residual maturity of one year or more
+100%
+(ii)
+• Stable non-maturity (demand) deposits and term deposits with residual maturity of less than one year provided by retail and small business customers
+95%
+(iii)
+• Less stable non-maturity deposits and term deposits with residual maturity of less than one year provided by retail and small business customers
+90%
+(iv)
+• Funding with residual maturity of less than one year provided by non-financial corporate customers
+• Operational deposits
+• Funding with residual maturity of less than one year from sovereigns, PSEs, and multilateral and national development banks
+• Other funding with residual maturity between six months and less than one year not included in the above categories, including funding provided by central banks and financial institutions
+50%
+(v)
+• All other liabilities and equity not included in the above categories, including liabilities without a stated maturity (with a specific treatment for deferred tax liabilities and minority interests)
+• NSFR derivative liabilities net of NSFR derivative assets if NSFR derivative liabilities are greater than NSFR derivative assets
+• “Trade date” payables arising from purchases of financial instruments, foreign currencies and commodities.
+0%
+7.2 Liabilities and capital receiving a 100% ASF factor
+Liabilities and capital instruments receiving a 100% ASF factor comprise:
+(a) the total amount of regulatory capital, before the application of capital deductions, as defined in paragraph 4.2 of the
+Master Circular on Basel III Capital dated July 1, 2015
+, excluding the proportion of Tier 2 instruments with residual maturity of less than one year;
+(b) the total amount of any capital instrument not included in (a) that has an effective residual maturity of one year or more, but excluding any instruments with explicit or embedded options that, if exercised, would reduce the expected maturity to less than one year; and
+(c) the total amount of secured and unsecured borrowings and liabilities (including term deposits
+1
+) with effective
+2
+residual maturities of one year or more. Cash flows due before the one-year horizon but arising from liabilities with a final maturity greater than one year do not qualify for the 100% ASF factor.
+7.3 Liabilities receiving a 95% ASF factor
+Liabilities receiving a 95% ASF factor comprise “stable” (as defined in the Explanatory Notes to BLR-1 in
+circular on LCR dated June 9, 2014
+) non-maturity (demand) deposits and/or term deposits with residual maturities of less than one year provided by retail and small business customers.
+7.4 Liabilities receiving a 90% ASF factor
+Liabilities receiving a 90% ASF factor comprise “less stable” (as defined in the ‘Explanatory Notes’ to BLR-1 in
+Circular on LCR dated June 9, 2014
+) non-maturity (demand) deposits and/or term deposits with residual maturities of less than one year provided by retail and small business customers as defined in the ‘Explanatory Note’ to BLR-1 of
+Circular dated June 9, 2014
+and modified vide
+circular dated March 31, 2015
+.
+7.5 Liabilities receiving a 50% ASF factor
+Liabilities receiving a 50% ASF factor comprise:
+(a) funding (secured and unsecured) with a residual maturity of less than one year provided by non-financial corporate customers;
+(b) operational deposits (as defined in the ‘Explanatory Notes’ to
+Circular on LCR dated June 9, 2014
+and modified vide circular dated March 31, 2015);
+(c) funding with residual maturity of less than one year from sovereigns, public sector entities (PSEs), and multilateral and national development banks (NABARD, NHB & SIDBI); and
+(d) other funding (secured and unsecured) not included in the categories above with residual maturity between six months to less than one year, including funding from RBI and/or other central banks and financial institutions.
+7.6 Liabilities receiving a 0% ASF factor
+Liabilities receiving a 0% ASF factor comprise:
+(a) all other liabilities and equity categories not included in the above categories, including other funding with residual maturity of less than six months from RBI and/or other central banks and financial institutions;
+(b) other liabilities without a stated maturity. This category may include short positions and open maturity positions. Two exceptions can be recognised for liabilities without a stated maturity:
+first, deferred tax liabilities, which should be treated according to the nearest possible date on which such liabilities could be realised; and
+second, minority interest, which should be treated according to the term of the instrument, usually in perpetuity.
+These liabilities would then be assigned either a 100% ASF factor if the effective maturity is one year or greater, or 50%, if the effective maturity is between six months and less than one year;
+(c) NSFR derivative liabilities as calculated according to paragraphs 8.1 below, net of NSFR derivative assets as calculated according to paragraph 10.12 below, if NSFR derivative liabilities are greater than NSFR derivative assets; and
+(d) “trade date” payables arising from purchases of financial instruments, foreign currencies and commodities that (i) are expected to settle within the standard settlement cycle or period that is customary for the relevant exchange or type of transaction, or (ii) have failed to, but are still expected to, settle.
+8. ASF – Other Requirements
+8.1 Calculation of derivative liability amounts
+Derivative liabilities are calculated first based on the replacement cost for derivative contracts (obtained by marking to market) where the contract has a negative value. If the derivative exposure is covered by an eligible bilateral netting contract as specified in the Annex 20 (Part B) of the Master Circular on Basel III Capital Regulations
+3
+, the replacement cost for the set of derivative exposures covered by the contract will be the net replacement cost. In calculating NSFR derivative liabilities, collateral posted in the form of variation margin in connection with derivative contracts, regardless of the asset type, must be deducted from the negative replacement cost amount.
+8.2 When determining the maturity of an equity or liability instrument, investors are assumed to redeem a call option at the earliest possible date. For funding with options exercisable at the bank’s discretion, the RBI may take into account reputational factors that may limit a bank’s ability not to exercise the option. In particular, where the market expects certain liabilities to be redeemed before their legal final maturity date, banks should assume such behaviour for the purpose of the NSFR and include these liabilities in the corresponding ASF category. For long-dated liabilities, only the portion of cash flows falling at or beyond the six-month and one-year time horizons should be treated as having an effective residual maturity of six months or more and one year or more, respectively.
+9. Definition and computation of Required Stable Funding (RSF)
+9.1 The amount of required stable funding is measured based on the broad characteristics of the liquidity risk profile of an institution’s assets and OBS exposures. The amount of required stable funding is calculated by first assigning the carrying value
+4
+of an institution’s assets to the categories listed in the
+Table 2
+below. Unless explicitly stated otherwise in the NSFR standard, assets should be allocated to maturity buckets according to their contractual residual maturity. However, this should take into account embedded optionality, such as put or call options, which may affect the actual maturity date as described in paragraphs 8.2 and 10.2. The amount assigned to each category is then multiplied by its associated required stable funding (RSF) factor, and the total RSF is the sum of the weighted amounts added to the amount of OBS activity (or potential liquidity exposure) multiplied by its associated RSF factor (
+Table 3
+). Definitions mirror those outlined in the extant LCR guidelines, unless otherwise specified
+5
+.
+Table 2
+Sr. No.
+Components of RSF category
+Associated RSF factor
+(i)
+• Coins and banknotes
+• Cash Reserve Ratio (CRR) including excess CRR
+• All claims on RBI with residual maturities of less than six months
+• “Trade date” receivables arising from sales of financial instruments, foreign currencies and commodities.
+0%
+(ii)
+• Unencumbered Level 1 assets, excluding coins, banknotes and CRR
+• Unencumbered SLR Securities
+5%
+(iii)
+• Unencumbered loans to financial institutions with residual maturities of less than six months, where the loan is secured against Level 1 assets as defined in LCR
+circular dated June 9, 2014
+and updated from time to time, and where the bank has the ability to freely re-hypothecate
+6
+the received collateral for the life of the loan
+10%
+(iv)
+• All other ‘standard’ unencumbered loans to financial institutions with residual maturities of less than six months not included in the above categories
+• Unencumbered Level 2A assets
+15%
+(v)
+• Unencumbered Level 2B assets
+• HQLA encumbered for a period of six months or more and less than one year
+• ‘Standard’ Loans to financial institutions and central banks with residual maturities between six months and less than one year
+• Deposits held at other financial institutions for operational purposes
+• All other assets not included in the above categories with residual maturity of less than one year, including ‘standard’ loans to non-financial corporate clients, to retail and small business customers, and ‘standard’ loans to sovereigns and PSEs
+50%
+(vi)
+• Unencumbered ‘standard’ residential mortgages with a residual maturity of one year or more and with the minimum risk weight permitted under the Standardised Approach
+7
+• Other unencumbered ‘standard’ loans not included in the above categories, excluding loans to financial institutions, with a residual maturity of one year or more and with a risk weight of less than or equal to 35% under the Standardised Approach
+65%
+(vii)
+• Cash, securities or other assets posted as initial margin for derivative contracts and cash or other assets provided to contribute to the default fund of a CCP
+• Other unencumbered performing loans with risk weights greater than 35% under the Standardised Approach and residual maturities of one year or more, excluding loans to financial institutions
+• Unencumbered securities that are not in default and do not qualify as HQLA/SLR with a remaining maturity of one year or more and exchange-traded equities
+• Physical traded commodities, including gold
+85%
+(viii)
+• All assets that are encumbered for a period of one year or more
+• NSFR derivative assets net of NSFR derivative liabilities if NSFR derivative assets are greater than NSFR derivative liabilities
+• 5% of derivative liabilities as calculated according to para 8.1
+• All other assets not included in the above categories, including non-performing loans, loans to financial institutions with a residual maturity of one year or more, non-exchange-traded equities, fixed assets, items deducted from regulatory capital, retained interest, insurance assets, subsidiary interests and defaulted securities
+• All restructured ‘standard’ loans which attract higher risk weight and additional provision
+100%
+Table 3
+Sr. No.
+Off-balance Sheet Items which require stable Funding
+Associated RSF factor
+(i)
+Irrevocable and conditionally revocable credit and liquidity facilities to any client
+5% of the currently undrawn portion
+(ii)
+Other contingent funding obligations, including products and instruments such as:
+• Unconditionally revocable credit and liquidity facilities
+• Non-contractual obligations such as:
+− potential requests for debt repurchases of the bank’s own debt or that of related conduits, securities investment vehicles and other such financing facilities
+− structured products where customers anticipate ready marketability, such as adjustable rate notes and variable rate demand notes (VRDNs)
+− managed funds that are marketed with the objective of maintaining a stable value
+5% of the currently undrawn portion
+(iii)
+• Trade finance-related obligations (including guarantees and letters of credit)
+• Guarantees and letters of credit unrelated to trade finance obligations
+3% of the currently undrawn portion
+9.2 Assets assigned a 0% RSF factor
+Assets assigned a 0% RSF factor comprises:
+(a) coins and banknotes immediately available to meet obligations;
+(b) CRR (including required reserves and excess reserves);all claims
+8
+on RBI with residual maturities of less than six months;
+(c) “trade date” receivables arising from sales of financial instruments, foreign currencies and commodities that (i) are expected to settle within the standard settlement cycle or period that is customary for the relevant exchange or type of transaction, or (ii) have failed to, but are still expected to, settle.
+9.3 Assets assigned a 5% RSF factor
+Assets assigned a 5% RSF factor comprise unencumbered Level 1 assets as defined in LCR circular dated June 9, 2014, excluding assets receiving a 0% RSF as specified above, and including:
+marketable securities representing claims on or guaranteed by sovereigns, central banks, PSEs, the Bank for International Settlements, the International Monetary Fund, the European Central Bank and the European Community, or multilateral development banks that are assigned a 0% risk weight under the Basel II Standardised Approach for credit risk;
+certain non-0% risk-weighted sovereign or central bank debt securities as specified in the LCR circular.
+Unencumbered SLR securities
+9.4 Assets assigned a 10% RSF factor
+Unencumbered loans to financial institutions with residual maturities of less than six months, where the loan is secured against Level 1 assets as defined in LCR guidelines dated June 9, 2014 read with circular dated March 31, 2015, and where the bank has the ability to freely re-hypothecate the received collateral for the life of the loan.
+9.5 Assets assigned a 15% RSF factor
+Assets assigned a 15% RSF factor comprise:
+(a) unencumbered Level 2A assets as defined in LCR
+circular dated June 9, 2014
+read with
+circular dated March 31, 2015
+, including:
+marketable securities representing claims on or guaranteed by sovereigns, central banks, PSEs or multilateral development banks that are assigned a 20% risk weight under the Basel II Standardised Approach for credit risk; and
+corporate debt securities (including commercial paper) and covered bonds with a credit rating equal or equivalent to at least AA–;
+(b) all other standard unencumbered loans to financial institutions with residual maturities of less than six months not included in paragraph 9.4 above.
+9.6 Assets assigned a 50% RSF factor
+Assets assigned a 50% RSF factor comprise:
+(a) unencumbered Level 2B assets as defined and subject to the conditions set forth in LCR guidelines dated June 9, 2014 read with guidelines dated March 31, 2015, including:
+residential mortgage-backed securities (RMBS) with a credit rating of at least AA;
+corporate debt securities (including commercial paper) with a credit rating of between A+ and BBB–; and
+exchange-traded common equity shares not issued by financial institutions or their affiliates;
+(b) any HQLA as defined in the LCR that are encumbered for a period of between six months and less than one year;
+(c) all loans to financial institutions and central banks with residual maturity of between six months and less than one year; and
+(d) deposits held at other financial institutions for operational
+9
+purposes , as outlined in LCR guidelines dated June 9, 2014 read with guidelines dated March 31, 2015, that are subject to the 50% ASF factor in paragraph 7.5 (b); and
+(e) all other non-HQLA not included in the above categories that have a residual maturity of less than one year, including loans to non-financial corporate clients, loans to retail customers (i.e. natural persons) and small business customers, and loans to sovereigns, PSEs and national development banks (NABARD, NHB & SIDBI).
+9.7 Assets assigned a 65% RSF factor
+Assets assigned a 65% RSF factor comprise:
+(a) unencumbered residential mortgages with a residual maturity of one year or more that would qualify for the minimum risk weight under the Basel II Standardised Approach for credit risk; and
+(b) other unencumbered loans not included in the above categories (including loans to sovereigns and PSEs with a residual maturity of one year or more), excluding loans to financial institutions, with a residual maturity of one year or more that would qualify for a 35% or lower risk weight under the Basel II Standardised Approach for credit risk.
+9.8 Assets assigned an 85% RSF factor
+Assets assigned an 85% RSF factor comprise:
+(a) cash, securities or other assets posted as initial margin for derivative contracts
+10
+(regardless of whether these assets are on- or off-balance sheet) and cash or other assets provided to contribute to the default fund of a central counterparty (CCP). Where securities or other assets posted as initial margin for derivative contracts would otherwise receive a higher RSF factor, they should retain that higher factor. For OTC transactions, any fixed independent amount a bank was contractually required to post at the inception of the derivatives transaction should be considered as initial margin, regardless of whether any of this margin was returned to the bank in the form of variation margin payments. If the initial margin is formulaically defined at a portfolio level, the amount considered as initial margin should reflect this calculated amount as of the NSFR measurement date, even if, for example, the total amount of margin physically posted to the bank’s counterparty is lower because of VM payments received. For centrally cleared transactions, the amount of initial margin should reflect the total amount of margin posted (IM and VM) less any mark-to-market losses on the applicable portfolio of cleared transactions.
+(b) other unencumbered performing loans that do not qualify for the 35% or lower risk weight under the Basel II Standardised Approach for credit risk and have residual maturities of one year or more, excluding loans to financial institutions;
+(c) unencumbered securities with a remaining maturity of one year or more and exchange-traded equities, that are not in default and do not qualify as SLR/ HQLA according to the LCR; and
+(d) physical traded commodities, including gold.
+9.9 Assets assigned a 100% RSF factor
+Assets assigned a 100% RSF factor comprise:
+(a) all assets that are encumbered
+11
+for a period of one year or more;
+(b) NSFR derivative assets as calculated according to paragraphs 10.12 net of NSFR derivative liabilities as calculated according to paragraphs 8.1, if NSFR derivative assets are greater than NSFR derivative liabilities;
+(c) all other assets not included in the above categories, including non-performing loans
+12
+, loans to financial institutions with a residual maturity of one year or more, non-exchange-traded equities, fixed assets, items deducted from regulatory capital, retained interest, insurance assets, subsidiary interests and defaulted securities; and
+(d) 5% of derivative liabilities (ie negative replacement cost amount) as calculated according to paragraph 8.1 (before deducting variation margin posted).
+(e) All ‘standard’ restructured loans which attract higher risk and/or additional provisioning.
+10. RSF – Other Requirements
+10.1 The RSF factors assigned to various types of assets are intended to approximate the amount of a particular asset that would have to be funded, either because it will be rolled over, or because it would not be monetised through sale or used as collateral in a secured borrowing transaction over the course of one year without significant expense. Under the standard, such amounts are expected to be supported by stable funding.
+10.2 Assets should be allocated to the appropriate RSF factor based on their residual maturity or liquidity value. When determining the maturity of an instrument, investors should be assumed to exercise any option to extend maturity. For assets with options exercisable at the bank’s discretion, RBI may take into account reputational factors that may limit a bank’s ability not to exercise the option
+13
+and prescribe higher RSF Factor. In particular, where the market expects certain assets to be extended in their maturity, banks should assume such behaviour for the purpose of the NSFR and include these assets in the corresponding RSF category. If there is a contractual provision with a review date to determine whether a given facility or loan is renewed or not, RBI may authorise banks on a case by case basis, to use the next review date as the maturity date. In doing so, RBI will consider the incentives created and the actual likelihood that such facilities/loans will not be renewed. For amortising loans and other claims, the portion that comes due within the one-year horizon can be treated in the less-than-one-year residual maturity category.
+10.3 For purposes of determining its required stable funding, an institution should (i) include financial instruments, foreign currencies and commodities for which a purchase order has been executed, and (ii) exclude financial instruments, foreign currencies and commodities for which a sales order has been executed, even if such transactions have not been reflected in the balance sheet under a settlement-date accounting model, provided that (i) such transactions are not reflected as derivatives or secured financing transactions in the institution’s balance sheet, and (ii) the effects of such transactions will be reflected in the institution’s balance sheet when settled.
+10.4 Encumbered assets:
+Assets on the balance sheet that are encumbered
+14
+for one year or more receive a 100% RSF factor. Assets encumbered for a period of between six months and less than one year that would, if unencumbered, receive an RSF factor lower than or equal to 50%, receive a 50% RSF factor. Assets encumbered for between six months and less than one year that would, if unencumbered, receive an RSF factor higher than 50%, retain that higher RSF factor. Where assets have less than six months remaining in the encumbrance period, those assets may receive the same RSF factor as an equivalent asset that is unencumbered. In addition, for the purposes of calculating the NSFR, assets that are encumbered for exceptional
+15
+central bank liquidity operations may receive RSF factor which must not be lower than the RSF factor applied to the equivalent asset that is unencumbered.
+10.5 Encumbrance treatment applied to secured lending (e.g. reverse repo) where collateral received does not appear on bank’s balance sheet, and it has been rehypothecated or sold thereby creating a short position -
+The encumbrance treatment should be applied to the on-balance sheet receivable to the extent that the transaction cannot mature without the bank returning the collateral received to the counterparty. For a transaction to be “unencumbered”, it must be “free of legal, regulatory, contractual or other restrictions on the ability of the bank to liquidate, sell, transfer or assign the asset”. Since the liquidation of the cash receivable is contingent on the return of collateral that is no longer held by the bank, the receivable should be considered as encumbered. When the collateral received from a secured funding transaction has been rehypothecated, the receivable should be considered encumbered for the term of the rehypothecation of the collateral. When the collateral received from a secured funding transaction has been sold outright, thereby creating a short position, the receivable related to the original secured funding transaction should be considered encumbered for the term of the residual maturity of this receivable. Thus, the on-balance sheet receivable should:
+be treated according to para 10.9 if the remaining period of encumbrance is less than six months (i.e. it is considered as being unencumbered in the NSFR);
+be assigned a 50% or higher RSF factor if the remaining period of encumbrance is between six months and less than one year according to paragraph 10.4; and
+be assigned a 100% RSF factor if the remaining period of encumbrance is greater than one year according to paragraph 10.4.
+10.6 Encumbrance treatment applied to secured lending (e.g. reverse repo) transactions where collateral received appears on bank’s balance sheet, and it has been rehypothecated or sold thereby creating a short position- Collateral received that appears on a bank’s balance sheet and has been rehypothecated (e.g. encumbered to a repo) should be treated as encumbered according to paragraph 10.4. Consequently, the collateral received should:
+be treated as being unencumbered if the remaining period of encumbrance is less than six months according to paragraph 10.4 of the NSFR standard, and receive the same RSF factor as an equivalent asset that is unencumbered;
+be assigned a 50% or higher RSF factor if the remaining period of encumbrance is between six months and less than one year according to paragraph 10.4; and
+be assigned a 100% RSF factor if the remaining period of encumbrance is greater than one year according to paragraph 10.4.
+If the collateral has been sold outright, thereby creating a short position, the corresponding on-balance sheet receivable should be considered encumbered for the term of the residual maturity of this receivable, and receive an RSF factor according to para 10.5.
+10.7 For assets that are owned by banks, but segregated to satisfy statutory requirements for the protection of customer equity in margined trading accounts, should be reported in accordance with the underlying exposure, whether or not the segregation requirement is separately classified on a bank’s balance sheet. However, those assets should also be treated according to paragraph 10.4. That is, they could be subject to a higher RSF depending on (the term of) encumbrance. The (term of) encumbrance should be determined by authorities, taking into account whether the institution can freely dispose or exchange such assets and the term of the liability to the bank’s customer(s) that generates the segregation requirement.
+10.8 Secured financing transactions:
+For secured funding arrangements, use of balance sheet and accounting treatments should generally result in banks excluding, from their assets, securities which they have borrowed in securities financing transactions (such as reverse repos and collateral swaps) where they do not have beneficial ownership. In contrast, banks should include securities they have lent in securities financing transactions where they retain beneficial ownership. Banks should also not include any securities they have received through collateral swaps if those securities do not appear on their balance sheets. Where banks have encumbered securities in repos or other securities financing transactions, but have retained beneficial ownership and those assets remain on the bank’s balance sheet, the bank should allocate such securities to the appropriate RSF category according to its characteristics (whether it HQLA, its term, issuer etc.).
+10.9 The treatment (applicable RSF factor) for the amount receivable by a bank under reverse repo transaction is the same as with any other loan, which will depend on the counterparty and term of the operation, with the exception of loans (reverse repos) to financial institutions with residual maturity of less than six months secured by level 1 assets (which receive a 10% RSF factor as per paragraph 9.4) or by other assets (which receive a 15% RSF factor as per paragraph 9.5).
+10.10 Amounts receivables and payable under these securities financing transactions should generally be reported on a gross basis, meaning that the gross amount of such receivables and payables should be reported on the RSF side and ASF side, respectively. The only exception is securities financing transactions with a single counterparty may be measured net when calculating the NSFR, provided that the netting conditions set out in Paragraph 16.4.4.2 of
+circular ‘Revised Framework for Leverage Ratio’ dated January 8, 2015
+are met.
+10.11 For loans which are only partially secured and are therefore separated into secured and unsecured portions with different risk weights under Basel II, the specific characteristics of these portions of loans should be taken into account for the calculation of the NSFR: the secured and unsecured portions of a loan should each be treated according to its characteristics and assigned the corresponding RSF factor. If it is not possible to draw the distinction between the secured and unsecured part of the loan, the higher RSF factor should apply to the whole loan.
+10.12 Calculation of derivative asset amounts:
+Derivative assets are calculated first based on the replacement cost for derivative contracts (obtained by marking to market) where the contract has a positive value. When an eligible bilateral netting contract is in place that meets the conditions as specified in Annex 20 (part B) of the
+Master Circular on Basel III Capital Regulations dated July 1, 2014
+, the replacement cost for the set of derivative exposures covered by the contract will be the net replacement cost. In calculating NSFR derivative assets
+16
+, collateral received in connection with derivative contracts may not offset the positive replacement cost amount, regardless of whether or not netting is permitted under the bank’s operative accounting or risk-based framework, unless it is received in the form of cash variation margin and meets the conditions as specified in paragraph 16.4.3.8 of the
+Revised Framework for Leverage Ratio dated January 8, 2015
+. Any remaining balance sheet liability associated with (a) variation margin received that does not meet the criteria above or (b) initial margin received may not offset derivative assets and should be assigned a 0% ASF factor.
+10.13 If an on-balance sheet asset is associated with collateral posted as initial margin to the extent that the bank’s accounting framework reflects on balance sheet, for purposes of the NSFR, that asset should not be counted as an encumbered asset in the calculation of a bank’s RSF to avoid any double-counting.
+10.14 Derivative transactions with central banks arising from the latter’s short-term monetary policy and liquidity operations to be excluded from the reporting bank’s NSFR computation and to offset unrealised capital gains and losses related to these derivative transactions from ASF. These transactions include foreign exchange derivatives such as foreign exchange swaps, and should have a maturity of less than six months at inception. As such, the bank’s NSFR would not change due to entering a short-term derivative transaction with its central bank for the purpose of short-term monetary policy and liquidity operations.
+11. Frequency of calculation and reporting
+Banks are required to meet the NSFR requirement on an ongoing basis and they should have the required systems in place for such calculation and monitoring. The NSFR as at the end of each quarter (starting date will be announced in due course) should be reported to the RBI (Department of Banking Supervision, CO) in the prescribed format (BLR 7) within 15 days from the end of the quarter.
+12. NSFR Disclosure Standards
+12.1 To promote the consistency and usability of disclosures related to the NSFR, and to enhance market discipline, banks will be required to publish their NSFRs according to a common template (
+Appendix II
+). Banks must publish this disclosure along with the publication of their financial statements (i.e. typically quarterly or semi-annually), irrespective of whether the financial statements are audited. The NSFR information must be calculated on a consolidated basis and presented in Indian Rupee.
+12.2 Banks must either include the disclosures required by this document in their published financial reports or, at a minimum, provide a direct and prominent link to the complete disclosure on their websites or in publicly available regulatory reports. Banks must also make available on their websites, or through publicly available regulatory reports, an archive of all templates relating to prior reporting periods. Irrespective of the location of the disclosure, the minimum disclosure requirements must be in the format required by this document.
+12.3 Data must be presented as quarter-end observations. For banks reporting on a semi-annual basis, the NSFR must be reported for each of the two preceding quarters. For banks reporting on an annual basis, the NSFR must be reported for the preceding four quarters. Both unweighted and weighted values of the NSFR components must be disclosed unless otherwise indicated. Weighted values are calculated as the values after ASF or RSF factors are applied.
+12.4 In addition to the prescribed common template, banks should provide a sufficient qualitative discussion around the NSFR to facilitate an understanding of the results and the accompanying data. For example, where significant to the NSFR, banks could discuss the drivers of their NSFR results and the reasons for intra-period changes as well as the changes over time (e.g. changes in strategies, funding structure, circumstances etc.).
+1
+TDs which can’t be withdrawn early without significant penalty
+2
+For arriving at effective residual maturity banks must take into account possibilities of early withdrawal due to “call options”, either embedded or explicit.
+3
+Currently, relevant only in case of banks’ exposures to Qualifying Central Counterparties (QCCPs) subject to conditions mentioned in paragraph 5.15.3.9 of the Master Circular. In case of OTC derivatives, please refer to
+circular DBOD.No.BP.BC.48/21.06.001/2010-11 dated October 1, 2010
+on Prudential Norms for Off-Balance Sheet Exposures of Banks – Bilateral netting of counterparty credit exposures. As indicated therein, bilateral netting of mark-to-market (MTM) values arising on account of derivative contracts is not permitted.
+4
+Carrying value of an asset item should generally be recorded by following its accounting value, ie net of specific provisions in line with paragraph 52 of the Basel II Standardised Approach and paragraph 12 of the Basel III leverage ratio framework and disclosure requirements.
+5
+For the purposes of calculating the NSFR, HQLA are defined as all HQLA without regard to LCR operational requirements and LCR caps on Level 2 and Level 2B assets that may otherwise limit the ability of some HQLA to be included as eligible HQLA in calculation of the LCR. HQLA and Operational requirements are defined in LCR
+circular dated June 9, 2014
+read with
+circular dated March 31, 2015
+6
+Currently re-hypothecation is permitted in India only in respect of G-Secs in terms of
+circular FMRD.DIRD.5/14.03.002/2014-15 dated February 5, 2015
+7
+For the purpose of NSFR, only the Basel II Standardised Approach risk weights may be used to determine the NSFR treatment.
+8
+The term “claims” is broader than loans, for example, also includes central bank bills and the asset account created on banks’ balance sheets by entering into repo transactions with central banks. It will also include standing deposit with RBI.
+9
+Non-operational deposits held at other financial institutions should have the same treatment as loans to financial institutions, taking into account the term of the operation.
+10
+Initial margin posted on behalf of a customer, where the bank does not guarantee performance of the third party, would be exempt from this requirement. This refers to the cases in which the bank provides a customer access to a third party (e.g. a CCP) for the purpose of clearing derivatives, where the transactions are executed in the name of the customer, and the bank does not guarantee the performance of this third party.
+11
+In case of a collateral pledged in a repo operation with remaining maturity of one year or greater but where the collateral pledged matures in less than one year, the collateral should be considered encumbered for the term of the repo or secured transaction, even if the actual maturity of the collateral is shorter than one year. This follows because collateral would have to be replaced once it matures
+12
+As defined in
+Master Circular - Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances dated July 1, 2015
+13
+This could reflect a case where a bank may imply that it would be subject to funding risk if it did not exercise an option on its own assets.
+14
+Encumbered assets include but are not limited to assets backing securities or covered bonds and assets pledged in securities financing transactions or collateral swaps. “Unencumbered” is defined in LCR
+circular dated June 9, 2014
+.
+15
+In general, exceptional central bank liquidity operations are considered to be non-standard, temporary operations conducted by the central bank in order to achieve its mandate in a period of market-wide financial stress and/or exceptional macroeconomic challenges.
+16
+NSFR derivative assets = (derivative assets) – (cash collateral received as variation margin on derivative assets).

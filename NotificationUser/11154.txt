@@ -1,0 +1,45 @@
+(125 kb)
+Introduction of Legal Entity Identifier for large corporate borrowers
+RBI/2017-18/82
+DBR.No.BP.BC.92/21.04.048/2017-18
+November 02, 2017
+All Scheduled Commercial Banks (Excluding Regional Rural Banks),
+All India Financial Institutions (Exim Bank, SIDBI, NHB, NABARD),
+Local Area Banks, Small Finance Banks
+Madam/Dear Sir,
+Introduction of Legal Entity Identifier for large corporate borrowers
+The Legal Entity Identifier (LEI) code is conceived as a key measure to improve the quality and accuracy of financial data systems for better risk management post the Global Financial Crisis. LEI is a 20-digit unique code to identify parties to financial transactions worldwide.
+2. The LEI for the participants of the OTC derivatives market has since been implemented vide
+circular RBI/2016-17/314 FMRD.FMID No.14/11.01.007/2-16-17 dated June 01, 2017
+in a phased manner.
+3. In the
+Statement on Developmental and Regulatory Policies dated October 4, 2017
+it was indicated that LEI system for all borrowers of banks having total fund based and non-fund based exposure of ₹ 5 crore and above will be introduced in a phased manner (extract enclosed). Accordingly, it has been decided that the banks shall advise their existing large corporate borrowers having total exposures of ₹ 50 crore and above to obtain LEI as per the schedule given in the
+Annex
+. Borrowers who do not obtain LEI as per the schedule are not to be granted renewal / enhancement of credit facilities. A separate roadmap for borrowers having exposure between ₹ 5 crore and upto ₹ 50 crore would be issued in due course.
+4. Banks should encourage large borrowers to obtain LEI for their parent entity as well as all subsidiaries and associates.
+5. Entities can obtain LEI from any of the Local Operating Units (LOUs) accredited by the Global Legal Entity Identifier Foundation (GLEIF) – the entity tasked to support the implementation and use of LEI. In India, LEI code may be obtained from Legal Entity Identifier India Ltd (LEIIL), a subsidiary of the Clearing Corporation of India Limited (CCIL), which has been recognised by the Reserve Bank as issuer of LEI under the Payment and Settlement Systems Act, 2007 and is accredited by the GLEIF as the Local Operating Unit (LOU) in India for issuance and management of LEI.
+6. The rules, procedure and documentation requirements may be ascertained from
+LEIIL
+.
+7. After obtaining LEI code, banks shall also ensure that borrowers renew the codes as per GLEIF guidelines.
+8. These directions are issued under Section 21 and Section 35(A) of the Banking Regulation Act, 1949.
+Yours faithfully,
+(S.S. Barik)
+Chief General Manager-in-Charge
+Extracts from Statement on Developmental and Regulatory Policies
+dated October 4, 2017
+5. Legal Entity Identifier (LEI) -
+It has been decided to require banks to make it mandatory for corporate borrowers having aggregate fund-based and non-fund based exposure of ₹ 5 crore and above from any bank to obtain Legal Entity Identifier (LEI) registration and capture the same in the Central Repository of Information on Large Credits (CRILC). This will facilitate assessment of aggregate borrowing by corporate groups, and monitoring of the financial profile of an entity/group. This requirement will be implemented in a calibrated, but time-bound manner. Necessary instructions will be issued by end-October 2017.
+Annex
+Schedule for implementation of LEI
+Total Exposure to SCBs
+To be completed by
+₹ 1000 crore and above
+Mar 31, 2018
+Between ₹ 500 crore and ₹ 1000 crore
+Jun 30, 2018
+Between ₹ 100 crore and ₹ 500 crore
+Mar 31, 2019
+Between ₹ 50 crore and ₹ 100 crore
+Dec 31, 2019

@@ -1,0 +1,33 @@
+(179 kb)
+Card Not Present transactions – Relaxation in Additional Factor of Authentication for payments upto ₹ 2000/- for card network provided authentication solutions
+RBI/2016-17/172
+DPSS.CO.PDNo.1431/02.14.003/2016-17
+December 6, 2016
+The Chairman and Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks including RRBs/
+Urban Co-operative Banks / State Co-operative Banks/
+District Central Co-operative Banks/ Authorised Card Payment Networks
+Payment Banks and Small Finance Banks
+Madam/Sir,
+Card Not Present transactions – Relaxation in Additional Factor of Authentication for payments upto ₹ 2000/- for card network provided authentication solutions
+Reserve Bank of India has been taking a number of initiatives with the involvement of all stake holders to enhance safety and efficiency of the retail payment systems. In this regard, various instructions have been issued from time to time on security and risk mitigation measures involving card transactions, including directions on online alerts and additional factor of authentication. These measures have contributed to increased customer confidence in using card payments.
+2. The Reserve Bank has been receiving requests from certain segments of the industry for reviewing the requirement of AFA for low value online card not present (CNP) transactions. As most of the requests were for merchant specific relaxations on AFA requirements, they were not appropriate at the system level. An alternate solution, provided by authorised card networks is expected to meet the objective of customer convenience with sufficient security for low value transactions. In this model, the card issuing banks will offer the “payment authentication solutions” of the respective card networks to their customers on an optional basis. Customers opting for this facility will go through a one-time registration process requiring entry of card details, etc. and AFA by the issuing bank. Thereafter, the registered customers will not be required to re-enter the card details for every transaction at merchant locations that offer this solution and thereby save time and effort. In this model, the card details already registered would be the first factor while the credentials used to login to the solution (as confirmed by the card network providing the solution) would be the additional factor of authentication.
+3. Accordingly, the AFA requirement for transactions upto ₹ 2000/- for online CNP transactions for the ‘payment authentication solutions’ provided by authorised card networks with the participation of respective card issuing and acquiring banks is being relaxed, subject to:
+Only authorised card networks shall provide such payment authentication solutions with participation of card issuing and acquiring banks,
+Customer consent shall be taken while making this solution available to them,
+The relaxation for AFA under such solutions shall be applicable for card not present transactions for a maximum value of ₹ 2,000/- per transaction across all merchant categories. Banks and card networks are free to facilitate their customers to set lower per transaction limits,
+Beyond the transaction limit of ₹ 2000/-, the card not present transaction has to necessarily be processed as per the extant instructions with mandatory AFA; even for transaction values below this limit, the customer may choose to make payment using other forms of AFA as hitherto,
+Suitable velocity checks (i.e., how many such small value transactions will be allowed in a day / week / month) may be put in place by banks/card networks as considered appropriate,
+No change in the existing chargeback process.
+4. Further, in the interest of customer awareness and protection, the banks and authorised card networks offering such solutions are also advised to:
+Make customers aware that the solution is an optional facility for card-not-present transactions for values upto ₹ 2000/- only and that they are free to make payments using other forms of AFA as hitherto,
+Educate the customers about its use, risk and the mechanism for customer grievance redressal and reporting of complaints through multiple channels (website, phone banking, SMS, IVR etc.),
+Indicate the maximum liability devolving on the customer, if any, at the time of enrolling/registering customers and the responsibility of the customer to report any frauds while transacting,
+Bear the full liability in the event of any security breach or compromise in the authorised card network.
+5. The authorised card network operators, may also facilitate participation of cardholders from other authorised card networks, through appropriate network level arrangements / agreements.
+6. This directive is issued under Section 10(2) read with Section 18 of
+Payment and Settlement Systems Act 2007 (Act 51 of 2007)
+.
+Yours faithfully,
+(Nanda S. Dave)
+Chief General Manager

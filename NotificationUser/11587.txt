@@ -1,0 +1,274 @@
+(409 kb)
+Directions for Central Counterparties (CCPs)
+RBI/2018-2019/209
+DPSS.CO.OD No.2565/06.08.005/2018-2019
+June 12, 2019
+Central Counterparties authorised by RBI /
+Central Counterparties seeking authorisation from RBI /
+Foreign Central Counterparties seeking recognition from RBI
+Madam/Sir,
+Directions for Central Counterparties (CCPs)
+Please refer to the
+circular DPSS.CO.OD No.803/06.08.005/2018-2019 dated October 15, 2018
+prescribing the directions relating to capital requirements and governance framework for CCPs as also providing a framework for recognition of foreign CCPs.
+2. In the Section A - Directions on Governance of domestic CCPs authorised to operate in India by the RBI, the upper age limit for appointment of Managing Director, Director, Nominee Director, Independent Director and Chairperson was stipulated as 65 years.
+3. On review of the directions, the upper age limit for appointment of Director, Nominee Director, Independent Director and Chairperson has been revised to 70 years. The upper age limit for appointment of Managing Director shall continue to be 65 years.
+4. The updated directions governing the functioning of CCPs are given in the
+Annex
+.
+Yours faithfully
+(Sangeeta Lalwani)
+General Manager (Officer in Charge)
+Encl.: As above
+Annex
+Directions for Central Counterparties (CCPs)
+(DPSS.CO.OD.No.803/06.08.005/2018-19 dated October 15, 2018)
+1. Applicability
+The provisions of these directions shall apply to a domestic central counterparty authorised to operate in India under Payment and Settlement Systems Act, 2007 (Act 51 of 2007) and foreign CCPs recognised by the Reserve Bank of India (RBI) under Payment and Settlement Systems Act, 2007 for their operations including clearing and settlement in India.
+2. Definitions
+The key definitions used in these directions are as follows:
+"Act" means the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+"Authorised Central Counterparty" means a CCP to whom Certificate of Authorisation is issued by RBI under sub-section 1 of Section 7 of the Act.
+“Company” shall mean a company as defined in Section 2 (20) of the Companies Act, 2013.
+“Control” shall include the right to appoint majority of the directors or to control the management or policy decisions exercisable by a person or persons acting individually or in concert, directly or indirectly, including by virtue of their shareholding or management rights or shareholders agreements or voting agreements or in any other manner.
+“Central Counterparty” (CCP) means a system provider, who by way of novation interposes between system participants in the transactions admitted for settlement, thereby becoming the buyer to every seller and the seller to every buyer, for the purpose of effecting settlement of their transactions.
+“Board” means the Board of Directors of the authorised CCP.
+“Domestic Central Counterparty” means a CCP incorporated in India and authorised by RBI under the Act.
+“Foreign Central Counterparty” means a CCP incorporated outside India.
+“Recognised Central Counterparty” means a foreign CCP that is authorised by RBI under the Act for carrying out its operations as a CCP in India.
+“Non-Executive Director” means a Director other than a whole-time Director.
+‘‘Senior management’’ means personnel of the company who are members of its core management team, excluding Board of Directors, comprising all such persons one level below the Executive Directors, including the functional heads.
+“User” means a regulated entity admitted as a member of the CCP in terms of its Bye Laws, Rules and Regulations for the purpose of clearing and settlement of its trades concluded in the ordinary course of business.
+“Facilitator” means an entity other than a ‘user’ admitted as a member of the CCP in terms of its Bye Laws, Rules and Regulations.
+Words and expressions used and not defined in these directions but defined in the Act or Companies Act, 2013 and Rules shall have the meanings respectively assigned to them in those Acts.
+Section A
+Directions on Governance of domestic CCPs authorised to operate in India by the RBI
+Governance provides the processes through which an organization sets its objectives, determines the means for achieving the objectives, and monitors performance against the objectives. The broad principles underlying governance of domestic CCPs are prescribed hereunder.
+1. Composition of the Board
+(1) The Board of every authorised CCP shall include:
+Nominee Directors;
+Independent Directors;
+Managing Director; and,
+such other Directors as may be notified by RBI from time to time.
+(2) The Board shall have the minimum number of directors as specified in the Companies Act, 2013.
+(3) “Independent Director” shall have the same meaning as assigned under section 149 (6) of the Companies Act, 2013.
+(4) “Nominee Director” means a Director nominated by
+any shareholder in pursuance of Articles of Association of the CCP or
+any financial institution in pursuance of the provisions of any law for the time being in force, or of any agreement.
+(5) The Managing Director shall be an ex-officio Director on the Board and shall not be included in either the category of Independent Directors or Nominee Directors.
+(6) The number of Independent Directors, on the Board and the Committees of the CCP, should be at least equal to the number of Nominee Directors (including the Managing Director) and in case of an equality of votes, the Chairperson of the Board / Committee (who is an Independent Director), shall have a second or casting vote.
+(7) No foreign institutional investor shall have any representation in the Board of the authorised CCP.
+(8) At least one Independent Director shall be present in the meetings of the Board to constitute the quorum. The quorum for a meeting of the Board of Directors of the CCP shall be one third of its total strength or two Directors, whichever is higher.
+2. Roles and responsibilities of the Board
+(1) The roles and responsibilities of the Board of an authorised CCP shall include:
+establishing clear strategic aims for the CCP;
+ensuring effective monitoring of senior management;
+establishing and overseeing the risk-management function and material risk decisions;
+overseeing internal control functions (including ensuring independence and adequate resources);
+ensuring compliance with all supervisory and oversight requirements;
+establishing appropriate compensation policies;
+ensuring consideration of financial stability and other relevant public interests;
+providing accountability to the owners, participants, and other relevant stakeholders;
+ensuring fair and transparent conduct of the CCP.
+3. Conditions of appointment of Directors
+(1) The appointment of all the Directors shall be made by the Board of the CCP on the recommendation of its Nomination and Remuneration Committee of Directors on the basis of the “fit and proper” criteria as prescribed hereunder.
+(2) The Directors nominated by the nominating organisation shall be serving officials with relevant experience and expertise.
+(3) The manner of appointment of Directors, Managing Director and Chairperson shall be in terms of the Articles of Association of the authorised CCP, Companies Act, 2013 and / or rules or regulations thereunder.
+4. Appointment of Chairperson
+(1) The Chairperson shall be a citizen of India.
+(2) The term of the Chairperson shall not be beyond three years. The term of the Chairperson may be extended by another term, subject to satisfactory performance review and approval of RBI.
+(3) The maximum permissible age for appointment / continuation as Non-executive Chairperson shall be 70
+1
+years.
+(4) Subject to prior approval of RBI, the Chairperson shall be elected by the Board from amongst the Independent Directors. The CCP shall forward to the RBI name/s of the candidate/s who have offered to function as Chairperson after ensuring that the candidate/s is / are suitable for the post based on qualification, expertise, track record and integrity. The name/s should be accompanied by the information in the format prescribed at
+Appendix 1
+on “fit and proper” criteria.
+(5) RBI would scrutinise the application to determine the suitability of the person for appointment based on “fit and proper” criteria and thereafter, communicate its approval or otherwise to CCP.
+(6) The above process should be followed at the time of appointment / reappointment and only thereafter placed in the meeting of the Annual General Body of the CCP.
+5. Appointment of Director / Independent Director / Nominee Director
+(1) The Director / Independent / Nominee Director shall be a citizen of India.
+(2) The Director / Independent Director / Nominee Director shall be appointed for a maximum of two terms of three years each or up to 70
+2
+years of age, whichever is earlier. However, the Directors serving on the Board of the CCP, as on date of issuance of these directions, may continue to hold office till the expiry of their term.
+(3) The first term of the Director / Independent Director / Nominee Director may be extended by another term, subject to a satisfactory performance review and approval of RBI.
+(4) A cooling-off period of three years shall be applicable before a Nominee Director becomes eligible for being appointed as Independent Director and vice versa.
+(5) The Director should possess domain expertise in fields relevant to the operation of CCP.
+(6) Authorised CCP shall inform RBI about the appointment / reappointment of the Directors and shall send to RBI within 15 calendar days from the date of appointment by the Board, the Directors’ profile, declaration on “fit and proper” criteria submitted by Directors as prescribed and their consent to act as Directors.
+(7) The authorised CCP shall disclose to RBI in the format specified within fifteen calendar days from the end of the financial year, the change in the Board.
+6. Appointment of Managing Director
+(1) The Managing Director shall be a citizen of India.
+(2) The Managing Director shall fulfil the criteria as prescribed under the Companies Act, 2013 and as per the directions if any issued in this regard by RBI under the Act, as amended from time to time.
+(3) The term of the Managing Director shall not be beyond five years. The term of the Managing Director may be extended by another term or up to 65 years of age, whichever is earlier, subject to satisfactory performance review and approval of RBI. However, the Managing Director of the CCP, as on date of issuance of these directions, may continue to hold office till the expiry of his / her term.
+(4) In case of renewal, the appointment process for Managing Director shall be conducted afresh.
+(5) The appointment, renewal of appointment and termination of service of the Managing Director of an authorised CCP shall require the prior approval of RBI.
+(6) The process to be followed for appointment of Managing Director by the CCP is as under:
+The Board of CCP should put in place a procedure for selecting the Managing Director and it may constitute a Committee (by whichever name called), for the same.
+It should undertake a process of due diligence to determine the suitability of the person/s for appointment based upon qualification, expertise, track record, integrity and other ”fit and proper” criteria (as detailed in
+Appendix 1
+).
+CCP shall forward the name of the shortlisted candidate along with the curriculum vitae and declaration to RBI for prior approval.
+(7) RBI would scrutinise the application to determine the suitability of the person for appointment based on “fit and proper” criteria and thereafter, communicate its approval or otherwise to the CCP.
+(8) The process for appointment of the successor for the position should be initiated well in advance so that the identification / recruitment is completed well before the completion of the term of the current incumbent.
+7. Appointment of senior management
+(1) The appointment and remuneration of personnel in senior management shall be as decided by the Nomination and Remuneration Committee of the authorised CCP.
+(2) The responsibilities of the senior management personnel shall include:
+ensuring consistency of authorised CCP’s activities with the objectives and strategies determined by the Board;
+designing and establishing compliance and internal control procedures promoting the objectives of the authorised CCP;
+regularly reviewing and testing internal control procedures;
+ensuring that sufficient resources are devoted to risk management and compliance;
+the risk control process; and
+ensuring that risks posed to the authorised CCP by its clearing and related activities are addressed.
+(3) The CCP shall disclose the ratio of compensation paid to them vis-a-vis median of compensation paid to all employees of the CCP.
+8. Fit and proper criteria for Directors
+A Director shall be deemed to be a “fit and proper” person if:
+(1) such person has a record of fairness and integrity, including but not limited to —
+financial integrity;
+good reputation and character; and
+honesty;
+(2) such person has not incurred any of the following disqualifications —
+convicted by a court for any offence involving moral turpitude or any economic offence or any offence under the laws administered by the RBI;
+declared insolvent and not discharged;
+an order, restraining, prohibiting or debarring the person from accessing / dealing in any financial system, passed by any regulatory authority, and the period specified in the order has not elapsed;
+found to be of unsound mind by a court of competent jurisdiction and the finding is in force; and
+is financially not sound.
+(3) If any question arises as to whether a person is a fit and proper person, the RBI’s decision on such question shall be final.
+9. Committees of the Board
+(1) Nomination and Remuneration Committee
+(1) Authorised CCP shall constitute a Nomination and Remuneration Committee consisting of three or more non-executive Directors out of which majority shall be Independent Directors. Provided, the Chairperson of the CCP can be a member of the Nomination and Remuneration Committee but shall not chair such Committee.
+(2) The Nomination and Remuneration Committee shall identify persons who are qualified to become Directors and who can be appointed in senior management in accordance with the criteria laid down, recommend to the Board their appointment and shall carry out evaluation of performance of every Director and recommend their removal if required.
+(3) The Nomination and Remuneration Committee shall formulate the criteria for determining qualifications, positive attributes and independence of a Director and recommend to the Board a policy relating to the remuneration for the Directors, Managing Director and senior management. The policy must be overseen and reviewed at least annually by the Committee.
+(4) The Nomination and Remuneration Committee shall, while formulating the policy ensure that—
+the level and composition of remuneration is reasonable and sufficient to attract, retain and motivate directors of the quality required to run the CCP successfully;
+relationship of remuneration to performance is clear and meets appropriate performance benchmarks; and
+remuneration to the Managing Director and senior management personnel involves a balance between fixed and incentive pay reflecting short and long-term performance objectives appropriate to the working of the CCP and its goals.
+(2) Risk Management Committee
+(1) Every authorised CCP shall constitute a Risk Management Committee of the Board which shall be chaired by an Independent Director, who is sufficiently knowledgeable in the field of risk management.
+(2) The Committee can invite senior officials and external independent experts to attend its meeting.
+(3) The Risk Management Committee shall formulate a detailed risk management policy which shall be approved by the Board. The Committee shall review the risk management policy annually.
+(4) The head of the risk management department shall be responsible for implementation of the risk management policy and he / she shall have an additional reporting line to the Chairperson of Risk Management Committee.
+(5) The Risk Management Committee shall monitor implementation of the risk management policy and keep the Board informed about its implementation and deviation, if any.
+(6) The Risk Management Committee shall advise the Board on any arrangements that may impact the risk management of the authorised CCP, such as significant change in risk model, the default procedures, the criteria for accepting members, new classes of instruments, or the outsourcing of functions.
+(3) Audit Committee
+(1) The Audit Committee of an authorised CCP shall consist of a minimum of three Directors with Independent Directors forming a majority. Provided that majority of members of Audit Committee including its Chairperson shall be persons with ability to read and understand, the financial statements.
+(2) Every Audit Committee shall act in accordance with the terms of reference specified in writing by the Board which shall, inter alia, include -
+the recommendation for appointment, remuneration and terms of appointment of auditors of the CCP;
+review and monitor the auditor’s independence and performance, and effectiveness of audit process;
+examination of the financial statements and the auditors’ report thereon;
+approval or any subsequent modification of transactions of the CCP with related parties;
+scrutiny of inter-corporate loans and investments;
+valuation of undertakings or assets of the CCP, wherever it is necessary;
+evaluation of internal financial controls and audit reports of risk management systems;
+monitoring the end use of funds raised through public offers and related matters;
+such other matters as may be specified under Companies Act, 2013 or the Act or rules / regulations thereunder.
+(3) The Audit Committee may call for the comments of the auditors about internal control systems, the scope of audit, including the observations of the auditors and review of financial statements before their submission to the Board and may also discuss any related issues with the internal and statutory auditors and the management of the CCP.
+(4) The Audit Committee shall have authority to investigate into any matter in relation to the items specified in sub-section (2) or referred to it by the Board and for this purpose shall have power to obtain professional advice from external sources and have full access to information contained in the records of the CCP.
+(5) The auditors of a CCP and senior management personnel shall have a right to be heard in the meetings of the Audit Committee when it considers the auditors’ report but shall not have the right to vote.
+(6) The authorised CCP shall appoint internal auditor and statutory auditor in accordance with the requirements under the Companies Act, 2013 and such other auditors as may be specified by RBI from time to time under the Act and the rules or regulations thereunder.
+(7) The authorised CCP shall constitute such other Committees as may be prescribed under the Companies Act, 2013 or specified by RBI under the Act or rules or regulations thereunder.
+(4) Technical Committee
+(1) Every authorised CCP shall constitute a Technical Committee of the Board which shall be chaired by an Independent Director, who is sufficiently knowledgeable in the field of Information Technology.
+(2) The Committee may invite senior officials and external independent experts to attend its meeting.
+(3) The Technical Committee shall formulate a detailed Information Technology policy which shall be approved by the Board. The Committee shall review the policy annually.
+(4) The Technical Committee shall act in accordance with the terms of reference specified in writing by the Board which shall, inter alia, include but is not limited to -
+Advise on IT policies / approaches to be adopted;
+Key IT decisions that are critical for the CCPs business;
+Oversee the IT related resources, systems and infrastructure;
+Review the business continuity management processes and disaster recovery drills that are undertaken periodically.
+(5) Regulatory Compliance Committee
+(1) Every authorised CCP shall constitute a Regulatory Compliance Committee of the Board which shall be chaired by an Independent Director.
+(2) The Regulatory Compliance Committee shall act in accordance with the terms of reference specified in writing by the Board which shall, inter alia, include but is not limited to–
+Review the compliance to directions issued by the Regulator
+Monitor the compliance of inspection recommendations.
+10. Compliance Officer
+(1) The authorised CCP shall designate a Compliance Officer.
+(2) The Compliance Officer shall be responsible for monitoring the compliance of the Act and rules or regulations thereunder, as also the guidelines issued by other regulatory bodies, and other Acts, as applicable.
+(3) The Compliance Officer shall:
+administer the compliance policies and procedures established by the Board and report the status to the Regulatory Compliance Committee;
+establish procedures for the effective remediation of instances of non-compliance;
+ensure that the relevant persons involved in the compliance function are not involved in the performance of the services or activities they monitor and that any conflicts of interest of such persons are properly identified and eliminated.
+11. Disclosure
+The authorised CCP shall ensure timely and accurate disclosure to RBI on all material matters including the financial position, rights and obligations of users, performance, ownership, and governance as specified by RBI from time to time.
+12. Conflict of interest
+(1) Authorised CCP must maintain effective written organisational and administrative arrangements to identify and manage potential conflicts of interest between (i) itself, including its management, employees, close associates, holding, subsidiary or associate companies and (ii) its members.
+(2) An authorised CCP shall have an internal manual covering the management of conflicts between its commercial and regulatory functions. Further, the entire conflict management framework shall be reviewed periodically and be strengthened based on the observations of such review.
+(3) The Independent Directors shall identify important issues which may involve conflicts of interest for the authorised CCP that may have significant impact on the functioning of authorised CCP or may not be in the interest of its market segments. The same shall be reported to RBI.
+Section B
+Directions on Networth requirements and Ownership of CCPs
+CCPs should have sufficient networth to cover potential general business losses and continue to provide services as a going concern. The specific requirements on networth for CCPs authorised / recognised by the Reserve Bank are laid down hereunder.
+1. Networth of CCP
+(1) Every applicant seeking authorisation / recognition as a CCP under Section 5 of the Act, shall have a minimum networth
+3
+of ₹ 3 billion at the time of submitting its application.
+(2) The adequacy of networth requirement of the CCP would be reviewed by RBI from time to time. RBI may, however, based on its assessment of the CCP prescribe higher networth.
+(3) An authorised CCP shall not distribute profits in any manner to its shareholders until the networth specified under sub-paras (1) and (2) above, as the case may be, is achieved.
+(4) Every authorised CCP shall submit an audited networth certificate as at close of financial year from the statutory auditor within six months of the closure of the financial year. The networth is required to be computed as per the instructions issued by the RBI.
+(5) A CCP shall hold liquid net assets
+4
+funded by equity capital equal to minimum of six months of current operating expenses.
+2. Ownership of CCPs (applicable for domestic CCPs)
+(1) The authorised CCP shall be a public company limited by shares with the shareholding as follows:
+The shares of an authorised CCP shall be held by persons who are users of the authorised CCP. If a person ceases to be a user, the CCP shall ensure that the person’s shares are divested.
+Provided, no person or class of persons shall, directly or indirectly, individually or in concert acquire or hold more than such percentage of the paid-up share capital of the authorised CCP as may be prescribed by the RBI from time to time.
+3. Eligibility for acquiring or holding shares (applicable for domestic CCPs)
+(1) No person shall, directly or indirectly, acquire or hold equity shares of an authorised CCP unless he / she fulfils “fit and proper” criteria as mentioned hereunder.
+(2) No person shall transfer / divest / sell / buy equity shares of an authorised CCP without prior approval of RBI–
+If the transfer of shares is equal to or more than 5% of the shares of the CCP or
+Where the acquisition of shares and cumulative shareholding reaches 5% or more.
+(3) Authorised CCP shall inform RBI about the transfer or divestment within 15 calendar days of approval of transfer or divestment of equity shares by its Board.
+(4) Without prejudice to the provisions of the Act, rules and / or regulations, authorised CCP shall disclose its shareholding pattern on an annual basis to RBI, in the format prescribed at
+Appendix 2
+.
+(5) Authorised CCP shall monitor and ensure compliance with this direction at all times.
+4. Fit and proper criteria for shareholders
+(1) A person shall be deemed to be a “fit and proper” person if —
+(a) such person has a record of fairness, integrity and reliability, including but not limited to:
+financial integrity, and
+track record;
+(b) such person has not incurred any of the following disqualifications –
+an order for winding up passed against the person;
+the person, or any of its whole-time Directors or managing partners, has been declared insolvent and has not been discharged;
+an order, restraining, prohibiting or debarring the person, or any of its whole-time Directors or managing partners, from dealing in any financial market instruments or from accessing any part of the financial market, has been passed by any regulatory authority, and the period specified in the order has not elapsed;
+any order or notice against the person or any of its whole-time Directors or managing partners has been passed by regulatory authority under Anti-Money Laundering (AML) standards / Combating of Financing of Terrorism (CFT) / obligations under Prevention of Money Laundering Act, (PMLA), 2002;
+such other criteria as may be determined by RBI.
+(2) The proposed acquirer should have positive networth as per the latest audited balance sheet. For the share transfer where RBI’s approval is required, RBI may consider various parameters viz. adherence to the regulatory capital adequacy norms prescribed by the respective regulators, profitability, etc., in addition to other aspects such as business of the acquirer, the capacity of the acquirer to make further contributions to the equity capital of the authorised CCP in times of need. The decision of the RBI shall be final in this regard.
+(3) Such person shall submit a declaration regarding fulfilment of requirements specified under sub-directive (I) above to the CCP and such other information as may be required by the CCP or RBI.
+(4) If any question arises as to whether a person is a “fit and proper” person, RBI’s decision on such question shall be final.
+Section C
+Directions for Recognised Foreign CCPs
+The Act does not differentiate between domestic and foreign entities. Any service provided by a foreign entity shall be within the overall legal framework obtaining in India. In line with the international developments on recognising CCPs operating in multiple jurisdictions, the requirements for recognition of foreign CCPs are laid down hereunder.
+1. Application for approval as a recognised CCP
+(1) A foreign CCP may apply to the RBI for approval as a recognised CCP for its operations including clearing and settlement in India.
+(2) An application shall be—
+made in such form and manner as prescribed under Payment and Settlement Systems Regulations, 2008 and
+accompanied by such fee as prescribed by the RBI.
+(3) The RBI may require an applicant to furnish such information or documents as it considers necessary in relation to the application.
+(4) RBI for granting the recognition may satisfy by way of inquiry or otherwise whether the operation of the applicant in the foreign country is subject to requirements and supervision that are sufficiently equivalent, in relation to the degree of protection from systemic risk and the level of effectiveness and fairness of services they achieve, to the requirements and supervision to which clearing and settlement facilities are subject under the Act and these directions and such other factors as may be considered relevant by RBI.
+(5) The applicant shall undertake and cooperate with RBI by sharing information and in any other manner as may be required by RBI.
+(6) The infrastructure for recognised CCP’s operations in India is required to be domestic without relying on its overseas infrastructure.
+2.
+The recognition shall be issued in such form and manner as may be prescribed by RBI from time to time.
+3.
+In addition to the requirements on complying with the Principles for Financial Market Infrastructures (PFMI)
+5
+, the recognised CCP shall comply with the following organisational requirements:
+(a) The Directors of the recognised CCP shall possess appropriate balance of skills, experience and knowledge in one or more fields of finance, law, management, sales, marketing, administration, research, corporate governance, information technology or other disciplines related to the CCP;
+(b) Such Directors shall be of good repute and experience;
+(c) The recognised CCP shall have robust governance arrangements with a well-defined, transparent organisational structure to manage, monitor and report the risks which it might be exposed;
+(d) The recognised CCP shall constitute a Risk Management Committee of the Board with the members who are sufficiently knowledgeable in the field of risk management–
+The Risk Management Committee may invite senior officials and external independent experts to attend its meeting;
+The Risk Management Committee shall formulate and review a detailed risk management policy which shall be approved by the Board;
+The Risk Management Committee shall monitor implementation of the risk management policy and keep the Board informed about its implementation and deviation, if any.
+4.
+RBI may, in course of the CCP’s operations, prescribe such terms and conditions, as may be required for ensuring safe and efficient functions of the CCP.
+5.
+RBI may, from time to time, direct the recognised CCP the extent to which the provisions of these directions shall apply to them.
+6.
+RBI, may, by notification, carry out such modification or amendment to these directions as may be necessary for the proper regulation and supervision of the recognised CCP.
+1,2
+Amended with effect from June 12, 2019 vide circular DPSS.CO.OD 2655/06.08.005/2018-19 dated June 12, 2019. Prior to amendment it read as “65”.
+3
+Networth will consist of ‘paid up equity capital, preference shares which are compulsorily convertible into equity capital, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of assets but not reserves created by revaluation of assets’ adjusted for ‘accumulated loss balance, book value of intangible assets and deferred revenue expenditure, if any’.
+4
+As per the standards set out in the PFMIs, a CCP should hold liquid net assets funded by equity (such as share capital, free reserves or other retained earnings) so that it can continue operations and services as a going concern if it incurs general business losses,
+5
+https://www.bis.org/cpmi/publ/d101a.pdf

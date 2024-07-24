@@ -1,0 +1,59 @@
+(154 kb)
+Concurrent Audit System
+RBI/2019-20/64
+DBS.CO.ARS.No.BC.01/08.91.021/2019-20
+September 18, 2019
+All Scheduled Commercial Banks (other than Regional Rural Banks), Small Finance Banks, Payments Banks and Local Area Banks
+Madam/ Dear Sir,
+Concurrent Audit System
+Please refer to
+circular DBS.CO.ARS.No.BC.2/08.91.021/2015-16 dated July 16, 2015
+on ‘Concurrent Audit System in Commercial Banks - Revision of RBI's Guidelines’.
+2. As you are aware, concurrent audit aims at shortening the interval between a transaction and its independent examination. It is, therefore, integral to the establishment of sound internal accounting functions and effective controls and is regarded as part of a bank's early warning system to ensure timely detection of serious errors and irregularities, which also helps in averting fraudulent transactions and preventive vigilance in banks.
+3. RBI has in the past, been prescribing guidelines for scope, coverage of business/branches, minimum items of coverage, etc. for concurrent auditors of banks. However, with the differing levels of centralization in banks, diverse nature of activities undertaken by various banks and commencement of operations by small finance banks and payments banks, a common programme of work for concurrent audit applicable to all banks may not be desirable. Further, the Expert Committee (headed by Shri Y H Malegam) appointed by the Bank has made certain recommendations in the area of Concurrent Audit. The existing guidelines on the subject have, therefore, been reviewed and the revised guidelines are given as under:
+A. Coverage
+The scope of work to be entrusted to concurrent auditors, coverage of business/branches, etc. is left to the discretion of the head of internal audit of banks, with the due prior approval of the Audit Committee of the Board of Directors (ACB)/Local Management Committee ((LMC) in case of foreign banks) of the bank.
+Banks may, however, ensure that risk sensitive areas identified by them as per their specific business models are covered under concurrent audit. The detailed scope of the concurrent audit may be determined and approved by the ACB/LMC. The broad areas of coverage under concurrent audit shall be based on the identified risk of the unit and must include random transaction testing of sufficiently large sample of such transactions wherever required. Minimum areas of coverage are given in
+Annex
+.
+Care may be taken to ensure that all Centralized Processing Centres (business origination and monitoring) are covered under concurrent audit.
+B. Appointment of Auditors
+The option to consider whether concurrent audit should be done by bank's own staff or external auditors (which may include retired staff of its own bank) continues to be left to the discretion of individual banks.
+The head of internal audit in the bank should participate in selection of concurrent auditors where such function is outsourced and should be responsible for the quality review (including skills of the staff employed) of the work of the concurrent auditors reporting to her/him. It may, however, be ensured that if any partner of a Chartered Accountant firm is a Director on the Board of a bank, no partner of the same firm should be appointed as concurrent auditor in the same bank.
+In case the bank has engaged its own officials as concurrent auditors, they should be experienced, well trained and sufficiently senior. The staff engaged in concurrent audit must be independent of the branch/business unit, where concurrent audit is conducted.
+C. Accountability
+If external firms are appointed and any serious acts of omission or commission are noticed in their working, their appointments may be cancelled after giving them reasonable opportunity to be heard and the fact shall be reported to ACB/ LMC of the bank, RBI and ICAI.
+The bank should frame a policy for fixing accountability in cases of serious acts of omission or commission noticed in the working of bank's own staff or retired staff, working as concurrent auditors.
+D. Tenure
+ACB/ LMC of the bank shall decide the maximum tenure of external concurrent auditors with the bank. Generally, tenure of external concurrent auditors with a bank shall not be more than five years on continuous basis. Further, the age limit for retired staff engaged as concurrent auditors may be capped at 70 years. However, no concurrent auditor shall be allowed to continue with a branch/business unit for a period of more than three years.
+E. Remuneration
+The remuneration to be paid to external concurrent auditors shall be decided by the ACB/ LMC of the bank. The remuneration shall be commensurate with the scope and coverage of audit, skill sets required, number of staff required and the time to be devoted for the audit.
+F. Review of effectiveness of Concurrent Audit
+ACB/ LMC of the bank should review the effectiveness of the Concurrent Audit system as well as the performance of the concurrent auditors on an annual basis and take necessary measures to suitably strengthen the system.
+G. Reporting System
+Banks’ Internal Audit Department should develop a reporting system for concurrent auditors with the approval of ACB/LMC.
+The findings of the concurrent auditors may be received in a structured format prescribed by the bank.
+Minor irregularities pointed out by the concurrent auditors shall be rectified on the spot. The major deficiencies/aberrations noticed during audit should be immediately brought to the notice of Head Office/Controlling Office of the concerned branch/business unit of the bank.
+A quarterly review containing important features brought out during concurrent audits should be placed before the ACB/LMC. The zone-wise findings of concurrent audit may be reported to ACB/LMC on a quarterly basis.
+Whenever fraudulent transactions are detected, they should immediately be reported to Internal Audit Department (Head Office) as also to the Chief Vigilance Officer as well as Branch Managers concerned (unless the branch manager is involved).
+Follow-up action on the concurrent audit reports and rectification of the deficiencies should be accorded high priority by the Head Office/Controlling Office of the concerned branch/business unit of the bank.
+4. You may ensure that, based on the revised guidelines, a review of the present system of concurrent audit is carried out immediately and necessary changes are incorporated therein with the prior approval of the ACB/ LMC of the bank.
+Yours faithfully,
+(A K Choudhary)
+Chief General Manager
+Encl: As above
+Annex
+Minimum areas of coverage under Concurrent Audit
+1. Cash transactions including physical verification of cash, etc.
+2. Loans & Advances including physical verification of securities, delegation of Powers for sanction, Security Charge Creation, end use verification of funds, monitoring of accounts with excess drawings, monitoring of projects, etc.
+3. Adherence to KYC / AML guidelines including monitoring of transactions in accounts, compliance with Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standards (CRS), monitoring of transactions in new accounts/staff accounts, reporting of CTR/STR, etc.
+4. Remittances/ Bills for Collection including SWIFT transactions, monitoring of overdue statements (bills purchased / discounted / negotiated, etc.).
+5. House Keeping including reconciliation of accounts, monitoring of General Ledger/Subsidiary General Ledger/Parking Accounts, opening of internal accounts, etc.
+6. Treasury operations.
+7. Non fund based business.
+8. Foreign Exchange transactions.
+9. Clearing transactions.
+10. Verification of Merchant Banking Business.
+11. Verification of Credit Card / Debit card business.
+12. Conduct of employees, mis-selling of products, etc.
+13. Compliance to RBI guidelines and internal Policy guidelines issued from time to time.

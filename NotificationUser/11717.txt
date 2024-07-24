@@ -1,0 +1,20 @@
+(284 kb)
+Sovereign Gold Bond (SGB) Scheme - Marking of lien
+RBI/2019-20/86
+IDMD.CDD.No.1145/14.04.050/2019-20
+October 30, 2019
+All Scheduled Commercial Banks (Excluding RRBs)
+Designated Post Offices
+Stock Holding Corporation of India Ltd. (SHCIL)
+BSE & NSE
+Depositories/Depository Participants
+Madam/Sir,
+Sovereign Gold Bond (SGB) Scheme - Marking of lien
+As you are aware, the Sovereign Gold Bonds may be used as collateral by both banks and non-bank institutions and the creation of pledge, hypothecation or lien on the bonds shall be governed by Section 28 of the Government Securities Act, 2006 and Chapter VII of the Government Securities Regulations, 2007. In this regard, we have been approached by several banks and non-bank entities desirous of knowing whether the Certificate of Holding (COH) held by a bond holder is a valid proof of its title and the procedure for marking lien on the said bond.
+2. In this regard, we clarify that SGBs are issued in the form of Government of India Stock and are held either as Bond Ledger Account (BLA) in RBI’s E-Kuber system or as dematerialised bond with the Depository. The investors are issued COH as a proof of investment if the bonds are held in BLA account with RBI. In case the bonds are held in dematerialized forms, the title of a holder could be verified from the demat statements provided by Depositories.
+3. As regards the lien marking rights in case of bonds held in BLA form, the same is provided to the banks. It may be mentioned that in order to create a valid lien, the lien marking should be recorded by the banks extending the loan by using the facility provided on the E-Kuber portal. In case of dematerialized bonds, the lien is marked by the depositories in line with the practice followed for stocks and shares which are accepted as collateral by the banks. The detailed procedure for marking of lien is provided in the user manual on our website under the link
+for guidance please see the User Manual available at our website
+4. We also advise that the information on lien marking facility in respect of SGBs as described above may be given wide dissemination amongst the personnel in operation in the organisation so that customers are not inconvenienced on account of lack of knowledge among the staff.
+Yours sincerely,
+(T. K. Rajan)
+Chief General Manager

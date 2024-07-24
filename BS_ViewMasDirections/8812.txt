@@ -1,0 +1,53 @@
+(134 kb)
+Merchanting Trade Transactions - Revised guidelines
+RBI/2013-14/545
+A.P. (DIR Series) Circular No.115
+March 28, 2014
+To
+All Category – I Authorised Dealer Banks
+Madam / Sir,
+Merchanting Trade Transactions - Revised  guidelines
+Attention of Authorised Dealer Category-I (AD  Category-I) banks is invited to
+A.P.  (DIR Series) Circular Nos.106
+&
+4
+dated  June 19, 2003 and July 19, 2003 respectively, containing directions relating to  merchanting trade transactions. Further, in terms of
+A.P.  (DIR Series) Circular No. 95 dated January 17, 2014
+the existing  guidelines were reviewed in the light of the recommendations of the Technical  Committee on Services / Facilities to Exporters (Chairman: Shri G. Padmanabhan)  to further liberalise and simplify the procedure.
+2. In view of suggestions received from merchanting  traders and trade bodies, the guidelines on merchanting trade transactions have  been further reviewed. Accordingly, it has been decided to issue revised  guidelines as under:
+For a trade to be classified as merchanting trade  following conditions should be satisfied ;
+Goods acquired should not enter the Domestic  Tariff Area and
+The state of the goods should not undergo any  transformation ;
+Goods involved in the merchanting trade  transactions would be the ones that are permitted for exports / imports under  the prevailing Foreign Trade Policy (FTP) of India, as on the date of shipment and  all the rules, regulations and directions applicable to exports (except Export  Declaration Form) and imports (except Bill of Entry), are complied with for the  export leg and import leg respectively ;
+AD bank should be satisfied with the bonafides of  the transactions. Further, KYC and AML guidelines should be observed by the AD  bank while handling such transactions ;
+Both the legs of a merchanting trade transaction  are routed through the same AD bank. The bank should verify the documents like  invoice, packing list, transport documents and insurance documents (if  originals are not available, Non-negotiable copies duly authenticated by the  bank handling documents may be taken) and satisfy itself about the genuineness  of the trade ;
+The entire merchanting trade transactions should be  completed within an overall period of nine months and there should not be any  outlay of foreign exchange beyond four months ;
+The commencement of merchanting trade would be the  date of shipment / export leg receipt or import leg payment, whichever is  first. The completion date would be the date of shipment / export leg receipt  or import leg payment, whichever is the last ;
+Short-term  credit either by way of suppliers' credit or buyers' credit will be available  for merchanting trade transactions, to the extent not backed by advance  remittance for the export lag, including the discounting of export leg LC by an  AD bank, as in the case of import transactions ;
+In case advance against the export leg is received  by the merchanting trader, AD bank should ensure that the same is earmarked for  making payment for the respective import leg. However, AD bank may allow  short-term deployment of such funds for the intervening period in an interest  bearing account ;
+Merchanting  traders may be allowed to make advance payment for the import leg on demand  made by the overseas seller. In case where inward remittance from the overseas  buyer is not received before the outward remittance to the overseas supplier,  AD bank may handle such transactions by providing facility based on commercial  judgement. It may, however, be ensured that any such advance payment for the  import leg beyond USD 200,000/- per transaction, the same should be paid  against bank guarantee / LC from an international bank of repute except in  cases and to the extent where payment for export leg has been received in advance  ;
+Letter of credit to the supplier is permitted  against confirmed export order keeping in view the outlay and completion of the  transaction within nine months ;
+Payment for import leg may also be allowed to be  made out of the balances in Exchange Earners Foreign Currency Account (EEFC) of  the merchant trader ;
+AD bank  should ensure one-to-one matching in case of each merchanting trade transaction  and report defaults in any leg by the traders to the concerned Regional Office  of RBI, on half yearly basis in the format as
+annexed
+, within 15  days from the close of each half year, i.e.  June and December ;
+The names of defaulting  merchanting traders, where outstandings reach 5% of their annual export earnings,  would be caution-listed.
+3. The merchanting traders have to be genuine traders of goods and not mere financial intermediaries. Confirmed orders have  to be received by them from the overseas buyers. AD banks should satisfy  themselves about the capabilities of the merchanting trader to perform the  obligations under the order. The overall merchanting trade should result in  reasonable profits to the merchanting trader.
+4. It is clarified that the contents of this  circular would come into effect in respect of merchanting trade transactions  initiated after January 17, 2014.
+5. Reporting for merchanting trade transactions for  compilation of R-return should be done on
+gross basis
+, against the  undernoted codes:
+Trade
+Purpose Code under FETERS
+Description
+Export
+P0108
+Goods sold under merchanting /receipt    against export leg of merchanting trade
+Import
+S0108
+Goods acquired under merchanting    /payment against import leg of merchanting trade
+6. AD Category-I banks may bring the contents of  this circular to the notice of their constituents concerned and note the  guidelines for strict compliance.
+7. The directions contained in this circular  have been issued under sections 10(4) and 11(1) of the Foreign Exchange  Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to  permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(C. D. Srinivasan)
+Chief General Manager

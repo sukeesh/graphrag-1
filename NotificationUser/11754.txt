@@ -1,0 +1,241 @@
+(411 kb)
+RBI Master Circular on Collection of Direct Tax – OLTAS
+RBI/2019-20/113
+DGBA.GBD.No.1141/42.01.034/2019-20
+December 12, 2019
+To
+All Agency Banks
+Dear Sir/ Madam
+RBI Master Circular on Collection of Direct Tax – OLTAS
+Please refer to our
+Circular DGBA.GAD.No.458/42.01.034/2016-17 dated August 25, 2016
+and DGBA.GAD.No.910/42.01.034/2016-17 dated October 14, 2016, on Collection of Direct Taxes, wherein it was clarified that only the Master Circular on OLTAS which consolidates instructions on the subject issued by Reserve Bank of India stands withdrawn and the position regarding the 35 circulars listed therein will be advised in due course in consultation with the government departments concerned. Accordingly, these circulars were continuing to be in force until now.
+2. It is now advised that we have reviewed all the 35 circulars appearing in Master Circular on OLTAS, in consultation with the Office of Principal Chief Controller of Accounts, Central Board of Direct Taxes, based on its relevance in the present scenario, issuing authority etc. It has been decided to withdraw with immediate effect thirty-one circulars issued under the signature of RBI, as given at
+Annex – I
+.
+3. It may please be noted that though the circulars issued under the signature of RBI stand withdrawn, the instructions issued by the office of Principal Chief Controller of Accounts, Central Board of Direct Taxes remain in force wherever applicable. Further, four circulars which will continue to remain operational under the signature of RBI are given in
+Annex –II
+.
+Yours faithfully,
+(Partha Choudhuri)
+General Manager
+Encls: As above
+Annex - I
+List of 31 circulars of Master Circular on OLTAS – withdrawn with immediate effect
+No.
+Reference No.
+Date
+Subject
+Main content of the circular
+1.
+DGBA.GAD.No.H- 684/42.01.001/ 2003-04
+09.01.2004
+Amendments to Pink Book 'Accounting System for Direct Taxes'
+To authorise one branch each of State Bank of India in the four Metros viz. Chennai, Delhi, Kolkata and Mumbai for direct tax refund work, in addition to the Reserve Bank of India.
+2.
+RBI/2004/131
+DGBA.GAD.No.1008/42.01.034/2003-04
+01.04.2004
+Introduction of On-line Tax Accounting System (OLTAS) - Branding of Rubber Stamp on copies of Challans
+During the Pilot, banks should use a rubber stamp acknowledging the payment with Challan Identification Number (CIN).
+3.
+RBI/2004/135
+DGBA.GAD.No.1142/42.01.001/2003-04
+02.04.2004
+Procedure for Collection of Taxes at Bank Branches - Customer Service
+Agency banks were advised to advise their authorised branches to follow the instructions contained in our various Memoranda / Circulars issued from time to time and ensure that tax payers are not inconvenienced in the payment of taxes.
+4.
+RBI/2004/145
+DGBA.GAD.No.H-1068/42.01.034/2003-04
+16.04.2004
+Accounting Procedure for On-line Tax Accounting System (OLTAS)
+A copy of the 'Accounting Procedure Relating to On-line Tax Accounting System (OLTAS)' duly approved by Government of India was forwarded to agency banks.
+5.
+RBI/2004/184
+DGBA.GAD.No.H-1114/42.01.034/2003-04
+29.04.2004
+Implementation of On-line Tax Accounting System with effect from June 1, 2004
+Agency banks were requested to take all measures for smooth roll- out of OLTAS with Single Copy Challan under new Accounting Procedure with effect from June 1, 2004.
+6.
+RBI/2004/213
+DGBA.GAD.No.H-1169/42.01.034/2003-04
+22.05.2004
+Accounting Procedure Relating to On-line Tax Accounting System (OLTAS) - Clarifications
+We have forwarded a copy of Accounting Procedure Relating to On-line Tax Accounting System (OLTAS).
+7.
+RBI/2004/75
+DGBA.GAD.No.H-69/42.01.034/2004-05
+28.07.2004
+On-line Tax Accounting System (OLTAS) - Transmission of data to NSDL e-Governance Infrastructure Limited - Validation Checks
+Banks were advised to incorporate certain validation checks with immediate effect in the OLTAS software for all Record Types.
+8.
+RBI/2004/181
+DGBA.GAD.No.H-235/42.01.034/2004-05
+15.09.2004
+On-line Tax Accounting System (OLTAS) - Participation of Branches
+Agency banks were requested to direct all Controlling Offices of their bank to do close monitoring of authorised branches as well as nodal branches under their jurisdiction and ensure that each and every challan record is transmitted to TIN by every branch where tax collection has been made.
+9.
+RBI/2004/164
+DGBA.GAD.No.H-170/42.01.034/2003-04
+04.09.2004
+Critical Issues regarding data capture of OLTAS data by banks
+Agency banks were advised to do regular monitoring and inspection of the nodal branches as well as dealing branches so that data capture and data transmission is done without error.
+10.
+RBI/2004/300
+DGBA.GAD.No.H.2532-65/42.01.034/2004-05
+14.12.2004
+Compulsory Quoting of Permanent Account Number (PAN)/Tax Deduction Account Number (TAN) on Challans from 1/1/2005
+We have forwarded instruction from CBDT to implement the provisions for mandatory quoting of PAN/TAN.
+11.
+RBI/2004/326
+DGBA.GAD.No.3278-3311/42.01.034/2004-05
+31.12.2004
+Abolition of Sub-Agency Arrangements for Collection of CBDT Dues
+Agency banks were advised to discontinue the Sub-Agency arrangement altogether.
+12.
+RBI/2005/411
+DGBA.GAD.No.H-5287/42.01.034/2004-05
+01.04.2005
+On-line Tax Accounting System (OLTAS) - Accounting Procedure relating to crediting of CBDT collections to Government accounts
+Maximum number of days allowed for crediting tax collections to T+3 working days instead of T+3 days (including Sunday and Holidays) with effect from April 1, 2005.
+13.
+RBI 2005/412
+DGBA.GAD.No.H-5318/42.01.034/2004-05
+04.04.2005
+De-authorisation of bank branches for collection of Direct Taxes
+Any proposal for deauthorisation of branches should be submitted by the Head Offices of the Agency banks to RBI, Central Office
+15.
+RBI/2005/39
+DGBA.GAD.No.H-42/42.01.034/2005-06
+04.07.2005
+Finance Act 2005- Changes in Major Head and Challans - OLTAS
+Introduction of two new taxes i.e. fringe benefit tax and banking cash transaction tax by Income Tax Department.
+16.
+RBI/2005/81
+DGBA.GAD.No.382/42.01.034/2005-06
+26.07.2005
+OLTAS - File Segregation Utility developed by Tax Information Network (TIN)
+We forward the guidelines for using file Segregation Utility (FSU) developed by TIN.
+18.
+DGBA.GAD.No.H-8294/42.01.037/2005-06
+14.12.2005
+On-line Tax Accounting System - Drawing of Cheques by Assessees - Payee's Name
+Instruction from Income Tax Department was forwarded to obtain payee’s name while drawing cheque/DD.
+19.
+DGBA.GAD.No.H-8649/42.01.034/2005-06
+23.12.2005
+On-line Tax Accounting System (OLTAS) - Software validations at banks
+Clarification by Income Tax Department regarding transmission of assessment year data.
+20.
+RBI/2006/295
+DGBA.GAD.No.H.11140/42.01.034/2005-06
+02.02.2006
+On-line Tax Accounting System (OLTAS) - Sending daily scrolls by e-mail to ZAOs
+Revised format of electronic nodal branch daily main scroll for direct tax collection by agency banks was sent.
+21.
+RBI/2006/55
+DGBA.GAD.No.H-161/42.01.034/2005-06
+07.07.2006
+OLTAS - Verification of PAN / TAN
+A list of e-mail addresses of 24 Zonal Accounts officers of CBDT was sent.
+22.
+RBI/2006/150
+DGBA.GAD.No.H-6226/42.01.011/2006-07
+10.10.2006
+Permissible period of remittance of Government Revenues
+It was informed that Income Tax Department through their regional computer centre would provide a CD containing the PAN/TAN etc to nodal branches.
+23.
+RBI/2007/235
+DGBA.GAD.No.H-11763/42.01.011/2006-07
+24.01.2007
+Delay in Remittance of Government Receipts - Delayed Period Interest
+It was regarding permissible time limit for remittance of Government Revenues.
+24.
+RBI/2007/286
+DGBA.GAD.No.13742/42.01.011/2006-07
+13.03.2007
+Delay in Remittance of Government Receipts - Delayed Period Interest
+Reiterated our earlier instruction dated January 24, 2007 with some exception.
+25.
+DGBA.GAD.No.3774/42.01.034/2007-08
+09.10.2007
+Discrepancies in challan details uploaded to TIN
+The common irregularities observed by NSDL were listed.
+26.
+RBI/2007/206
+DGBA.GAD.No.6212/42.01.034/2007-08
+06.12.2007
+On-line tax Accounting System (OLTAS) - Data quality concerns
+To avoid error either in PAN or CIN uploaded to OLTAS.
+28.
+RBI/2008/280
+DGBA.GAD.No.H-10875/42.01.038/ 2007-08
+10.04.2008
+Mandatory e-payment of tax by certain categories of taxpayers w.e.f. 01.04.2008
+Instruction regarding electronic payment of taxes mandatory for the certain categories of tax payers.
+29.
+RBI/2008/321
+DGBA.GAD.No.H-11895/42.01.038/ 2007-08
+15.05.2008
+Mandatory e-payment of direct taxes by corporate and assesses coming under Sec.44AB of IT Act
+Instruction regarding Mandatory Electronic Payment of Tax by certain categories of taxpayers
+31.
+DGBA.GAD.No.H.551/42.01.011/2008-09
+18.07.2008
+Permissible Period of Remittance of E-payment of Government Transactions - Private Sector Banks
+Instructions regarding delay in remittance of government receipts.
+32.
+RBI/2009/463
+DGBA.GAD.No.H-9284/42.01.011/2008-09
+28.04.2009
+Recovery of Interest from Public Sector Banks on delayed remittances of Government Receipts into Government Account
+A period of T+12 working days (excluding put through date, where T is the day when money is available to the branch), is allowed with effect from 01.01.2010 to Public Sector Banks for manual remittance of Government receipts to CAS, RBI, Nagpur in respect of branches located in Jammu & Kashmir, Leh, Uttarakhand, Himachal Pradesh, Sikkim, North Eastern Region (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura), Jharkhand and Chhattisgarh.
+33.
+RBI/2009-10/381
+DGBA.GAD.No.H.7790/42.01.011/2009-10
+06.04.2010
+Permissible Period for Remittance of Government Revenues into Government Account for Remote Locality, Difficult and Hill Areas
+The above norms for remote, difficult and hilly areas will not be applicable to remittance of funds under the deposit schemes viz. PPF / SCSS etc. of Ministry of Finance.
+34.
+RBI/2010-11/229
+DGBA.GAD.No.H.2444/42.01.011/2010-11
+08.10.2010
+Permissible period for remittance of e-payments into Government account by Public Sector Banks
+The remittance norm of T+1 working day (including put through date) for e-payment as applicable for Private Sector Banks may also be made applicable for the Public Sector Banks.
+35.
+RBI/2014-15/416
+(DGBA.GAD.No.H-3203/42.01.011/2014-15)
+21.01.2015
+Permissible period for remittance into Government Account through Debit / Credit cards and Net banking
+Additional norms for payment of government revenue through Debit / Credit cards and Net banking were advised.
+Annex - II
+List of 4 circulars of Master Circular on OLTAS – Continue to remain operational
+No.
+Reference No.
+Date
+Subject
+Main content of the circular
+14.
+RBI/2005/466
+DGBA.GAD.No.H.5801/42.01.034/2004-05
+13.05.2005
+On-line Tax Accounting System (OLTAS) - Funds Settlement
+Agency banks were advised to ensure that there is no mismatch in figures uploaded to CAS and TIN for a given uploading date.
+17.
+RBI/2005/265
+DGBA.GAD.No.H-8824/42.01.034/2005-06
+28.12.2005
+Compulsory quoting of Permanent Account Number (PAN) / Tax Deduction Account Number (TAN) - State of Rajasthan
+For Government of Rajasthan, direct tax challans only with PAN/TAN should be accepted.
+27.
+RBI/2008/275
+DGBA.GAD.No.10577/42.01.038/2007-08
+03.04.2008
+Cut-off time for e-payment transactions pertaining to Government Revenue
+The cut-off time of 8.00 p.m. fixed for e-payment transactions would be applicable for all Government transactions including EASIEST and OLTAS.
+30.
+RBI/2008/328
+DGBA.GAD.No.H-12070/42.01.034/2007-08
+22.05.2008
+Improvement in data quality- Introduction of Computerised receipts w.e.f. June 1, 2008
+Instructions to introduce computer generated receipts for challan payment of OLTAS transactions,

@@ -1,0 +1,26 @@
+(49 kb)
+Rupee Drawing Arrangement – ‘Direct to Account’ Facility
+RBI/2013-14/560
+A.P. (DIR Series) Circular No.120
+April 10, 2014
+To
+All Category – I  Authorised Dealer Banks
+Madam / Sir,
+Rupee Drawing Arrangement – ‘Direct to  Account’ Facility
+Attention  of Authorised Dealer Category – I (AD Cat – I) banks is invited to the
+A.P.  (DIR Series) Circular No. 28 [A. P. (FL/RL Series)  Circular No. 02]  dated February 6, 2008
+on Memorandum of Instructions for Opening and  Maintenance of Rupee / Foreign Currency  Vostro Accounts of Non-resident Exchange Houses, as amended from time to time.
+2. In order to facilitate receipt of foreign inward remittances  directly into bank accounts of the beneficiaries, it has been decided to allow  foreign inward remittances received under Rupee Drawing Arrangement (RDA) to be  transferred to the KYC compliant beneficiary bank accounts through electronic  mode, such as, NEFT, IMPS, etc. The procedure to be followed for the purpose  will be as under:
+3.  Foreign inward remittances received by the AD Cat-I Bank  (termed as ‘Partner Bank’) having RDA with Non Resident Exchange Houses may be  credited directly to the account of the beneficiary held with a bank other than  the AD Cat-I Bank (termed as ‘Recipient Bank’) electronically, subject to the  following conditions:
+The  Recipient Bank will credit the amount transferred by the Partner Bank only to  the KYC compliant bank accounts.
+In  respect of the bank accounts which are not KYC compliant, the Recipient Bank  shall carry out KYC/CDD of the recipient before the remittance to such account  is credited or allowed to be withdrawn.
+The  Partner Bank (i.e. the AD Cat-I Bank receiving foreign inward remittance  through non-resident exchange houses under RDA) shall appropriately mark the  direct-to-account remittances to indicate to the Recipient Bank that it is a  foreign inward remittance.
+The  Partner Bank shall ensure that accurate originator information and necessary  beneficiary information is included in the electronic message while  transferring the fund to the Recipient Bank. This information should be  available in the remittance message throughout the payment chain, i.e., the Non  Resident Exchange House, the Partner Bank and the Recipient Bank. The Partner  Bank should add an appropriate alert in the electronic message indicating that  this is a foreign inward remittance and should not be credited to a KYC  non-compliant account.
+The  identification and other documents of the recipient shall be maintained by the  Recipient Bank as per the provisions of Prevention of Money Laundering  (Maintenance of Records) Rules, 2005. All other requirements under KYC/AML/CFT  guidelines issued by the Reserve Bank of India from time to time shall be  adhered to by the Partner Bank.
+The  Recipient Bank may seek additional information from the Partner Bank and shall  report suspicious transactions to the FIU-IND with details of the Partner Bank  through which they received the remittances.
+3. All other instructions issued vide A. P. (DIR Series) Circular No. 28 [A. P. (FL/RL Series) Circular No. 02] dated February 6, 2008,  as amended from time to time, will remain unchanged.
+4. AD Cat-I Banks may bring the contents of this circular to the  notice of their constituents concerned.
+5. The  directions contained in this circular have been issued under Section 10(4) and  Section 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are  without prejudice to permissions / approvals, if any, required under any other  law.
+Yours faithfully,
+(Rudra Narayan Kar)
+Chief General Manager-in-Charge

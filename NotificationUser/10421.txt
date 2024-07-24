@@ -1,0 +1,30 @@
+(186 kb)
+ATMs - Security and Risk Mitigation Measures for Card Present (CP) Transactions
+RBI/2015-2016/413
+DPSS.CO.PD.No./2895/02.10.002/2015-2016
+May 26, 2016
+The Chairman and Managing Director / Chief Executive Officers
+All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks /
+State Co-operative Banks / District Central Co-operative Banks/ Authorised ATM Network Operators /
+Card Payment Network Operators/White Label ATM Operators
+Madam / Sir,
+ATMs - Security and Risk Mitigation Measures for Card Present (CP) Transactions
+Please refer to our
+circular RBI/2014-15/589 DPSS(CO) PD.CO.No.2112 / 02.14.003 / 2014-2015 dated May 07,2015
+and
+RBI/2015-16/163 DPSS CO.PD.No.448/02.14.003/2015-16 dated August 27, 2015
+advising banks regarding the timelines for migrating from magnetic stripe cards to issuance of EMV Chip and PIN based cards.
+2. While the POS terminal infrastructure in the country has been enabled to accept and process EMV Chip and PIN cards, the ATM infrastructure, on the whole, continues to process the card transactions based on data from the magnetic stripe. As a result, the ATM card transactions remain vulnerable to skimming, cloning, etc. frauds, even though the cards are EMV Chip and PIN based. It has, therefore, become necessary to mandate EMV Chip and PIN card acceptance and processing at ATMs also. Contact Chip processing of EMV Chip and PIN cards at ATMs would not only enhance the safety and security of transactions at ATMs but also facilitate preparedness of the banks for the proposed “EMV Liability Shift” for ATM transactions, as and when it comes into effect.
+3. Banks in India and the White Label ATM operators are, therefore, advised to ensure that all the existing ATMs installed/operated by them are enabled for processing of EMV Chip and PIN cards by September 30, 2017. All new ATMs shall necessarily be enabled for EMV Chip and PIN processing from inception. For the purpose of switching, clearing and settlement of their ATM transactions, banks with the approval of their Board, may join any authorised ATM/Card network provider.
+4. Further, in order to ensure uniformity in card payments ecosystem, banks shall also implement the above requirements at their micro-ATMs which are enabled to handle card-based payments.
+5. A quarterly progress report should be sent the Chief General Manager, Reserve Bank of India, Department of Payment and Settlement System, Central Office, Mumbai in the appended format for the quarter ending June/Sept/Dec/March by 15th of the month following the quarter end.
+6. This directive is issued under section 10(2) read with section 18 of the Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully
+(Nanda S. Dave)
+Chief General Manager
+Report on EMV Chip and PIN processing at ATMs
+Name of the Bank/WLA: ……………………………………………………….
+Report for the quarter ended: ……………………………………………………
+Total no. of ATMs installed by the bank
+ATMs enabled for EMV Chip and PIN processing during the quarter
+Total number of ATMs enabled for EMV Chip and PIN processing at the end of the quarter

@@ -1,0 +1,60 @@
+(237 kb)
+Introduction of Interest Rate Options in India
+RBI/2016-17/199
+FMRD.DIRD.12/14.01.011/2016-17
+December 29, 2016
+To
+All eligible market participants
+Dear Sir/Madam
+Introduction of Interest Rate Options in India
+As announced in the
+fourth bi-monthly Monetary Policy Statement 2016-17
+, it has been decided to introduce Interest Rate Options in India.
+2. The Reserve Bank of India has accordingly issued a
+Notification No. FMRD.DIRD. 11/2016 dated December 28, 2016
+giving details of the directions for the introduction of Interest Rate Option. Eligible market participants are permitted to take positions in Interest Rate Options for their own balance sheet management and for market making purposes. Participants, who are eligible as market makers are, however, advised to ensure that appropriate infrastructure and risk management systems are in place.
+3. These directions have been issued under Section 45 W of Chapter III D of the Reserve Bank of India Act, 1934.
+4. A copy of the Interest Rate Options (Reserve Bank) Directions, 2016 which is placed on the RBI Website, is enclosed.
+5. The directions shall be effective from January 31, 2017.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+2ND FLOOR, CENTRAL OFFICE FORT
+MUMBAI 400 001
+Interest Rate Options (Reserve Bank) Directions, 2016
+Notification No. FMRD. DIRD. 11/2016 dated December 28, 2016
+The Reserve Bank of India having considered it necessary in public interest and to regulate the financial system of the country to its advantage, in exercise of the powers conferred by section 45U and 45W of the Reserve Bank of India Act, 1934 and of all the powers enabling it in this behalf, hereby gives the following directions.
+1. Short title and commencement of directions
+1.1 These directions shall be referred to as the Interest Rate Options (Reserve Bank) Directions, 2016.
+1.2 These directions shall come into force with effect from January 31, 2017.
+2. Definitions
+2.1 An option is a contract where the purchaser of the option has the right but not the obligation to either purchase (call option) or sell (put option) the underlying and the seller (or writer) of the option is obliged to sell (call option) or purchase (put option) the same underlying at a price/rate agreed in advance (known as the strike price/rate) during a certain period of time or on a specified date (exercise date) in the future.
+2.2 Interest Rate Options are contracts whose value is based on Rupee interest rates or Rupee interest rate instruments.
+2.3 An interest rate cap is an interest rate option in which the buyer of the option receives a pay-off when the reference rate is above the strike rate on expiry. Analogously, an interest rate floor is an interest rate option in which the buyer of the option receives a pay-off when the reference rate is below the strike rate on expiry.
+2.4 Interest Rate Collars are derivative contracts where a market participant simultaneously purchases an interest rate cap and sells an interest rate floor on the same reference rate for the same maturity and notional principal amount. A reverse interest rate collar is a derivative contract which involves simultaneous purchase of an interest rate floor and sell of an interest rate cap on the same reference rate for the same maturity and notional principal amount.
+2.5 The words and expressions used but not defined in these directions shall have the meaning assigned to them in the Reserve Bank of India Act, 1934.
+3. Venue
+3.1 Interest Rate Options are permitted on exchanges authorized by SEBI as well as in the Over-the-Counter (OTC) market.
+3.2 Exchanges shall obtain prior approval of the Reserve Bank before introducing any Interest Rate Option.
+4. Types of IROs
+Eligible entities can undertake transaction in simple European call and put options, interest rate caps, interest rate floors or collars. A European option may be exercised only at the expiration date of the option i.e., on a single pre-defined date.
+5. Underlying
+For orderly market development, Fixed Income Money Market and Derivatives Association of India (FIMMDA), in consultation with market participants, shall publish a list of objective and transparent rupee money or debt market rates or instruments that may be used as underlying for Interest Rate Option contracts in the OTC market and stock exchanges.
+6. Participants
+6.1 Market Makers: Banks and Primary Dealers (PDs) may act as market makers. Other regulated institutional entities can participate as market makers subject to the approval of their respective regulators.
+6.2 Users: All entities with underlying interest rate risk may participate as ‘users’ i.e. they may enter into Interest Rate Option contracts for hedging underlying risk. ‘Users’ shall not be permitted to run net short position in Interest Rate Options.
+7. Reporting of OTC transactions
+7.1 All OTC transactions executed among market makers shall be reported within 30 minutes of the trade to the Trade Repository of CCIL.
+7.2 All market makers shall report client trades on the same day by close of business hours to the Trade Repository of CCIL.
+8. Settlement of transactions in OTC
+8.1 OTC transactions executed among market makers shall settle bilaterally or through any clearing arrangement approved by RBI for the purpose.
+8.2 Settlement basis and other market conventions for OTC transactions in Interest Rate Options will be specified by FIMMDA, in consultation with market participants.
+8.3 Financial Benchmark India Pvt. Ltd. (FBIL) shall publish rates / prices for the reference rate / asset/derivatives as the case may be for arriving at settlement value in the OTC market.
+9. Other Conditions
+The Comprehensive Guidelines on Derivatives issued vide
+circular DBOD No.BP.BC.86/21.04.157/2006-07 dated April 20, 2007
+, as updated from time to time, including the requirement for a Board approved ‘Suitability and Appropriateness Policy’ shall be complied with mutatis mutandis, by all market makers.
+(T. Rabi Sankar)
+Chief General Manager

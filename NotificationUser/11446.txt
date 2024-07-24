@@ -1,0 +1,73 @@
+(305 kb)
+Customer Protection – Limiting Liability of Customers in Unauthorised Electronic Payment Transactions in Prepaid Payment Instruments (PPIs) issued by Authorised Non-banks
+RBI/2018-19/101
+DPSS.CO.PD.No.1417/02.14.006/2018-19
+January 04, 2019
+All Authorised Non-bank Prepaid Payment Instrument Issuers
+Madam / Dear Sir,
+Customer Protection – Limiting Liability of Customers in Unauthorised Electronic Payment Transactions in Prepaid Payment Instruments (PPIs) issued by Authorised Non-banks
+Please refer to paragraph 9 of
+Statement on Developmental and Regulatory Policies
+regarding framework for limiting customer liability in respect of unauthorised electronic payment transactions involving PPIs, announced in the
+Fifth Bi-monthly Monetary Policy Statement for 2018-19
+by the Reserve Bank of India (RBI).
+2. As you are aware, a framework for ‘Risk Management’ and ‘Customer Protection’ has already been laid down in paragraphs 15 and 16 of Master Direction on Issuance and Operation of Prepaid Payment Instruments (PPI MD) issued vide
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017 (updated as on December 29, 2017)
+. With a view to further strengthen customer protection for the PPIs which are issued by entities other than banks, the criteria for determining the customers’ liability in unauthorised electronic payment transactions resulting in debit to their PPIs have been reviewed as under:
+Applicability
+3. The provisions of these directions will be applicable to all authorised non-bank PPI issuers (referred to as ‘PPI issuer’ hereafter). Bank PPI issuers will continue to be guided by
+DBR.No.Leg.BC.78/09.07.005/2017-18 dated July 6, 2017
+or
+DCBR.BPD.(PCB / RCB). Cir.No.06/12.05.001/2017-18 dated December 14, 2017
+, as applicable. PPIs issued under the arrangement of PPI-MTS (PPIs for Mass Transit Systems) as per paragraph 10.2 of PPI MD will be outside the purview of these directions except for the cases of contributory fraud / negligence / deficiency on the part of the PPI-MTS issuer.
+Categories of electronic payment transactions
+4. For the purpose of this circular, electronic payment transactions have been divided into two categories:
+Remote / Online payment transactions (transactions that do not require physical PPIs to be presented at the point of transactions e.g. wallets, card not present (CNP) transactions, etc.).
+Face-to-face / Proximity payment transactions (transactions which require the physical PPIs such as cards or mobile phones to be present at the point of transactions e.g. transactions at Point of Sale, etc.).
+5. Reporting of unauthorised payment transactions by customers to PPI issuers
+PPI issuers shall ensure that their customers mandatorily register for SMS alerts and wherever available also register for e-mail alerts, for electronic payment transactions.
+The SMS alert for any payment transaction in the account shall mandatorily be sent to the customers and e-mail alert may additionally be sent, wherever registered. The transaction alert should have a contact number and / or e-mail id on which a customer can report unauthorised transactions or notify the objection.
+Customers shall be advised to notify the PPI issuer of any unauthorised electronic payment transaction at the earliest and, shall also be informed that longer the time taken to notify the PPI issuer, higher will be the risk of loss to the PPI issuer / customer.
+To facilitate this, PPI issuers shall provide customers with 24x7 access via website / SMS / e-mail / a dedicated toll-free helpline for reporting unauthorised transactions that have taken place and / or loss or theft of the PPI.
+Further, a direct link for lodging of complaints, with specific option to report unauthorised electronic payment transactions shall be provided by PPI issuers on mobile app / home page of their website / any other evolving acceptance mode.
+The loss / fraud reporting system so established shall also ensure that immediate response (including auto response) is sent to the customers acknowledging the complaint along with the registered complaint number. The communication systems used by PPI issuers to send alerts and receive their responses thereto shall record time and date of delivery of the message and receipt of customer’s response, if any. This shall be important in determining the extent of a customer’s liability. On receipt of report of an unauthorised payment transaction from the customer, PPI issuers shall take immediate action to prevent further unauthorised payment transactions in the PPI.
+Limited liability of a customer
+6. A customer’s liability arising out of an unauthorised payment transaction will be limited to:
+Customer liability in case of unauthorised electronic payment transactions through a PPI
+S. No.
+Particulars
+Maximum Liability of Customer
+(a)
+Contributory fraud / negligence / deficiency on the part of the PPI issuer, including PPI-MTS issuer (irrespective of whether or not the transaction is reported by the customer)
+Zero
+(b)
+Third party breach where the deficiency lies neither with the PPI issuer nor with the customer but lies elsewhere in the system, and the customer notifies the PPI issuer regarding the unauthorised payment transaction. The per transaction customer liability in such cases will depend on the number of days lapsed between the receipt of transaction communication by the customer from the PPI issuer and the reporting of unauthorised transaction by the customer to the PPI issuer -
+i. Within three days
+#
+Zero
+ii. Within four to seven days
+#
+Transaction value or ₹ 10,000/- per transaction, whichever is lower
+iii. Beyond seven days
+#
+As per the Board approved policy of the PPI issuer
+(c)
+In cases where the loss is due to negligence by a customer, such as where he / she has shared the payment credentials, the customer will bear the entire loss until he / she reports the unauthorised transaction to the PPI issuer. Any loss occurring after the reporting of the unauthorised transaction shall be borne by the PPI issuer.
+(d)
+PPI issuers may also, at their discretion, decide to waive off any customer liability in case of unauthorised electronic payment transactions even in cases of customer negligence.
+# The number of days mentioned above shall be counted excluding the date of receiving the communication from the PPI issuer.
+The above shall be clearly communicated to all PPI holders.
+Reversal timeline for zero liability / limited liability of a customer
+7. On being notified by the customer, the PPI issuer shall credit (notional reversal) the amount involved in the unauthorised electronic payment transaction to the customer’s PPI within 10 days from the date of such notification by the customer (without waiting for settlement of insurance claim, if any), even if such reversal breaches the maximum permissible limit applicable to that type / category of PPI. The credit shall be value-dated to be as of the date of the unauthorised transaction.
+8. Further, PPI issuers shall ensure that a complaint is resolved and liability of the customer, if any, established within such time, as may be specified in the PPI issuer’s Board approved policy, but not exceeding 90 days from the date of receipt of the complaint, and the customer is compensated as per provisions of paragraph 6 above. In case the PPI issuer is unable to resolve the complaint or determine the customer liability, if any, within 90 days, the amount as prescribed in paragraph 6 shall be paid to the customer, irrespective of whether the negligence is on the part of customer or otherwise.
+Board approved policy for customer protection
+9. Taking into account the risks arising out of unauthorised debits to PPIs owing to customer negligence / PPI issuer negligence / system frauds / third party breaches, PPI issuers need to clearly define the rights and obligations of customers in case of unauthorised payment transactions in specified scenarios. PPI issuers shall formulate / revise their customer relations policy, with approval of their Boards, to cover aspects of customer protection, including the mechanism of creating customer awareness on the risks and responsibilities involved in electronic payment transactions and customer liability in such cases of unauthorised electronic payment transactions. The policy must be transparent, non-discriminatory and should stipulate the mechanism of compensating the customers for the unauthorised electronic payment transactions and also prescribe the timelines for effecting such compensation. PPI issuers shall provide the details of their Board approved policy in regard to customers’ liability formulated in pursuance of these directions, as well as the provisions of paragraph 15 and 16 of PPI MD, to all customers at the time of issuing the PPI. PPI issuers shall display their Board approved policy, along with the details of grievance handling / escalation procedure, in public domain / website / app for wider dissemination.
+Burden of proof
+10. The burden of proving customer liability in case of unauthorised electronic payment transactions shall lie on the PPI issuer.
+Reporting and monitoring requirements
+11. The PPI issuers shall put in place a suitable mechanism and structure for reporting of the customer liability cases to the Board or one of its Committees. The reporting shall, inter-alia, include volume / number of cases and the aggregate value involved and distribution across various categories of cases. The Board or one of its Committees shall periodically review the unauthorised electronic payment transactions reported by customers or otherwise, as also the action taken thereon, the functioning of the grievance redressal mechanism and take appropriate measures to improve the systems and procedures.
+12. Directions contained in paragraph 16.4 of PPI MD as applicable to non-bank PPI issuers are being modified accordingly.
+13. The directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007), and shall come into effect from March 01, 2019.
+Yours faithfully
+(P. Vasudevan)
+Chief General Manager

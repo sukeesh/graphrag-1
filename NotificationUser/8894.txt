@@ -1,0 +1,29 @@
+(496 kb)
+Reporting to Central Repository of Information on Large Credits (CRILC)
+RBI/2013-14/601
+DBS.OSMOS.No.14703/33.01.001/2013-14
+May 22, 2014
+The Chairman /  Chairman & Managing Director
+All India Term-lending and Refinancing Institutions
+Dear Sir/Madam
+Reporting to Central Repository of Information  on Large Credits (CRILC)
+We draw your attention to RBI Guidelines on “Early  Recognition of Financial Distress, Prompt Steps for Resolution and Fair  Recovery for Lenders: Framework for Revitalising Distressed Assets in the  Economy” issued on January 30, 2014 and subsequent DBOD
+circulars  DBOD.BP.BC.No.97 /21.04.132/2013-14
+and
+DBOD.BP.BC.No.98/21.04.132/  2013-14 both dated February 26, 2014
+issued on the subject. In terms of the  guidelines, RBI has set up the CRILC to collect, store and disseminate data on  all borrowers' credit exposures including Special Mention Accounts (SMA 0, 1 &  2) having aggregate fund-based and non-fund based exposure of Rs.50 million and  above.
+Under the extant instructions, lenders have been  advised to report separately to CRILC, as under:
+i.
+CRILC-Main
+(Quarterly Submission): This will  comprise of four sections i.e. Section 1: Exposure to Large Borrowers (Global  Operations), Section 2 - Reporting of Technically/Prudentially Written-off  Accounts (Global Operations), Section 3 - Reporting of Balance in Current  Account (Global Operations)  and Section  4: Reporting of Non cooperative Borrowers (Global Operations).
+ii.
+CRILC-SMA 2 and JLF Formation
+(Submission on 'as  and when' basis): There will be two sheets which are to be submitted on as and  when basis, i.e. whenever a large borrower's account becomes overdue for 61  days and/or a Joint Lenders Forum (JLF) is formed in respect of a SMA 2  classified borrower.
+In the light of DBOD instructions referred above  and in exercise of the powers conferred under Section 45(L) of the RBI Act,  1934, you are advised to submit borrower-wise exposure data to CRILC-Main and CRILC-SMA  2 and JLF Formation through the XBRL based reporting system with effect from  the quarter ending June 2014. The quarterly CRILC Main report is required to be  submitted within 21 days from the close of the relevant quarter. The format of  reporting is enclosed. For any clarification, please contact through
+email
+or on  Telephone No.022-2215 0721.
+The CRILC data including details of SMA 2  reported are shared in consolidated form with the reporting entities and hence  imperatives of ensuring robust data quality hardly require elaboration. As the  CRILC data is collected under the provisions of the RBI Act, non adherence to  reporting instructions attracts penal provisions under the Act.
+Yours faithfully
+(Indrani Banerjee)
+Chief General Manager
+Enclosure(s): As above.

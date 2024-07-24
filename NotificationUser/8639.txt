@@ -1,0 +1,20 @@
+(709 kb)
+Adoption of ISO 20022 messaging standard in new RTGS System
+RBI/2013-14/413
+DPSS (CO) RTGS No.1357/04.04.017/2013-14
+December 20, 2013
+The Chairperson / Chief Executive Officer
+RTGS Members
+Madam / Sir,
+Adoption of ISO 20022 messaging standard in new RTGS System
+As you are aware, the new RTGS System has been operationalised with effect from October 19, 2013 and the RTGS Business Regulations, 2013 have come into effect from the date.
+2. The new RTGS system is based on ISO 20022 standard messaging formats. The objective of introducing ISO 20022 standard message format for payment system is to bring about standardisation in the messaging formats for various payment systems in the country and to conform to international standard. Standardisation of message for payment systems would also enable interoperability.
+3. Keeping in view the infrastructure requirement / changes necessitated at participants end, the Reserve Bank had issued a
+circular RBI / 2012-13 / 355 [DPSS (CO) RTGS No. 1052 / 04.04.017 / 2012-13 dated December 31, 2012
+advising participants of the RTGS system to be in readiness to handle ISO 20022 message format by March 31, 2013.
+4. However, banks have not taken enough measures to handle ISO 20022 standard messages and are relying on temporary solution provided by their IT/service providers for conversion of message from /to the “R” series message as was being used in the earlier version of the RTGS.
+5. Requests are now being received from banks to allow them to continue with the temporary arrangement till the required modifications are made at the CBS in the bank’s end. On review of the request it has been decided to extend the time for adoption of ISO 20022 messaging seamlessly without conversion from/to “R” series formats up to March 31, 2014 by RTGS member banks. Please note that no further extension of time will be permitted.
+6. All RTGS members are advised to acknowledge receipt of this circular and forward an action taken report.
+Yours faithfully,
+(Nilima Ramteke)
+General Manager

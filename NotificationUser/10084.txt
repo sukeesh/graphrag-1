@@ -1,0 +1,594 @@
+(439 kb)
+Gold Monetization Scheme, 2015 (Updated as on August 04, 2022)
+RBI/2015-16/211
+Master Direction No.DBR.IBD.No.45/23.67.003/2015-16
+October 22, 2015
+(
+Updated as on August 04, 2022
+)
+(
+Updated as on October 28, 2021
+)
+(
+Updated as on April 05, 2021
+)
+(
+Updated as on August 16, 2019
+)
+(
+Updated as on January 9, 2019
+)
+(Updated as on June 7, 2018)
+(Updated as on March 31, 2016)
+(Updated as on January 21, 2016)
+Gold Monetization Scheme, 2015
+In exercise of the powers conferred on the Reserve Bank of India (RBI) under Section 35A of the Banking Regulation Act, 1949 and in pursuance of the Central Government notification issued vide Office Memorandum F.No.20/6/2015-FT dated September 15, 2015 regarding “
+Gold Monetization Scheme (GMS)
+”, the RBI being satisfied that it is in the public interest, so to do, hereby issues these Directions to all Scheduled Commercial Banks (excluding Regional Rural Banks).
+CHAPTER – I
+PRELIMINARY
+1.1 Objective
+GMS, which modifies the existing ‘Gold Deposit Scheme’ (GDS) and ‘Gold Metal Loan Scheme (GML), is intended to mobilise gold held by households and institutions of the country and facilitate its use for productive purposes, and in the long run, to reduce country’s reliance on the import of gold.
+1.2. Short title and commencement
+These Directions shall be called the
+Reserve Bank of India (Gold Monetization Scheme) Directions, 2015.
+All Scheduled Commercial Banks excluding RRBs will be eligible to implement the Scheme.
+The banks intending to participate in the Scheme should formulate a comprehensive policy with approval of the board to implement it.
+1.3 Definitions
+In these Directions, unless the context otherwise requires, the following terms shall bear the meanings assigned to them below:
+Collection and Purity Testing Centre (CPTC) -
+The collection and assaying centres certified by the Bureau of Indian Standards (BIS) and notified by the Central Government for the purpose of handling gold deposited and redeemed under GMS.
+Designated bank –
+All Scheduled Commercial Banks (excluding RRBs) that decide to implement the Scheme.
+GMS Mobilisation, Collection & Testing Agent (GMCTA) -
+Jewellers/Refiners certified as CPTCs by BIS and meeting additional eligibility conditions set by IBA will be recognised as GMCTA by designated banks.
+1
+Gold Deposit Account –
+An account opened with a designated bank under the Scheme and denominated in grams of gold.
+Medium and Long Term Government Deposit (MLTGD) -
+The deposit of gold made under the GMS with a designated bank in the account of the Central Government for a medium term period of 5-7 years or a long term period of 12-15 years or for such period as may be decided from time to time by the Central Government.
+Nominated bank –
+A Scheduled Commercial Bank authorized by RBI to import gold under the extant Foreign Trade Policy.
+Refiners –
+The refineries accredited by the National Accreditation Board for Testing and Calibration Laboratories (NABL) and notified by the Central Government for the purpose of handling gold deposited and redeemed under GMS.
+Scheme -
+Gold Monetization Scheme, 2015 which includes Revamped Gold Deposit Scheme (R-GDS) and Revamped Gold Metal Loan Scheme (R-GML).
+Short Term Bank Deposit (STBD) -
+The deposit of gold made under the GMS with a designated bank for a short term period of 1-3 years.
+Chapter II
+Revamped Gold Deposit Scheme (R-GDS)
+2.1 Basic features
+2.1.1 General
+This scheme will replace the existing Gold Deposit Scheme, 1999. However, the deposits outstanding under the Gold Deposit Scheme will be allowed to run till maturity unless these are withdrawn by the depositors prematurely as per existing instructions.
+All designated banks will be eligible to implement the scheme.
+The Principal on STBD and MLTGD shall be denominated in gold. However, the interest on STBD and MLTGD shall be calculated in Indian Rupees with reference to the value of gold at the time of deposit.
+2
+Persons eligible to make a deposit - Resident Indians [Individuals, HUFs, Proprietorship & Partnership firms
+3
+, Trusts including Mutual Funds/Exchange Traded Funds registered under SEBI (Mutual Fund) Regulations, Companies,
+charitable institutions, Central Government, State Government or any other entity owned by Central Government or State Government
+]
+4
+can make deposits under the scheme. Joint deposits of two or more eligible depositors are also allowed under the scheme and the deposit in such case shall be credited to the joint deposit account opened in the name of such depositors. The existing rules regarding joint operation of bank deposit accounts including nominations will be applicable to these gold deposits.
+All deposits under the scheme shall be made at the CPTC
+/GMCTA
+5
+.
+Provided that
+6
+, at their discretion, banks may accept the deposit of gold at the designated branches, especially from the larger depositors.
+Banks shall have a Board approved policy to identify the branches that can accept the deposits under the scheme. The policy shall inter-alia cover the processes involved in the identification of such branches and skill development of the dealing employees. The policy shall also identify the minimum number of branches as designated branches in every State/UT where the bank has a presence.
+7
+Provided further that banks may, at their discretion, also allow the depositors to deposit their gold directly with the refiners that have facilities to carry out final assaying and to issue the deposit receipts of the standard gold of 995 fineness to the depositor.
+8
+Interest on deposits under the scheme will start accruing from the date of conversion of gold deposited into tradable gold bars after refinement or 30 days after the receipt of gold at the CPTC
+/GMCTA
+or the bank’s designated branch, as the case may be, whichever is earlier.
+During the period commencing from the date of receipt of gold by the CPTC
+/GMCTA
+or the designated branch, as the case may be, to the date on which interest starts accruing in the deposit, the gold accepted by the CPTC
+/GMCTA
+or the designated branch of the bank shall be treated as an item in safe custody held by the designated bank.
+On the day the gold deposited under the scheme starts accruing interest, the designated banks shall translate the gold liabilities and assets in Indian Rupees by crossing the London AM fixing for Gold / USD rate with the Rupee-US Dollar reference rate announced
+by Financial Benchmarks India Private Limited (FBIL)
+9
+on that day. The prevalent custom duty for import of gold will be added to the above value to arrive at the final value of gold. This approach will also be followed for valuation of gold at any subsequent valuation dates and for the conversion of gold into Indian Rupees under the Scheme.
+Designated banks shall inform the RBI of their decision to participate in the Scheme as soon as the policy to implement the scheme is approved by their Board. They shall also report to the RBI the gold mobilized under the scheme by all branches in a consolidated manner on a monthly basis as per the format given in the
+Annex-2
+.
+10
+Designated banks shall furnish the statement giving details of redemption due in next three months, as per format given in the
+Annex-3
+. The information in
+Annex 2
+and
+3
+shall be furnished to Department of Regulation, Reserve Bank of India, Mumbai by 7th day of the month.
+11
+Tax implications on GMS shall be as notified by the Central Government from time to time.
+12
+The quantity of gold will be expressed up to three decimals of a gram.
+13
+All designated banks shall give adequate publicity to the Scheme through their branches, websites and other channels.
+14
+2.1.2 Acceptance of deposits
+The minimum deposit at any one time shall be
+10
+15
+grams of raw gold (bars, coins, jewellery excluding stones and other metals). There is no maximum limit for deposit under the scheme.
+All gold deposits under the scheme, whether tendered at the CPTC
+/GMCTA
+or the designated branches, shall be assayed at CPTC
+/GMCTA
+:
+Provided that the designated banks are free not to subject the standard good delivery gold accepted directly at branches to fire assaying at the CPTC
+/GMCTA
+.
+2.2 Types of deposits
+There shall be two different gold deposit schemes as under:
+2.2.1 Short Term Bank Deposit (STBD)
+i. All provisions of para 2.1.1 above shall apply to this deposit.
+ii. The short term deposits shall be treated as bank’s on-balance sheet liability. These deposits will be made with the designated banks for a short period of 1-3 years (with a facility of roll over). Deposits can also be allowed for broken periods (e.g. 1 year 3 months; 2 years 4 months 5 days; etc.). The rate of interest payable in the case of deposits for maturities with broken periods shall be calculated as the sum of interest for the completed year plus interest for the number of remaining days at the rate of D/360*ARI
+Where, ARI = Annual Rate of Interest
+D = Number of days
+16
+iii. The deposit will attract CRR and SLR requirements as per applicable instructions of RBI from the date of credit of the amount to the deposit account. However, the stock of gold held by banks in their books will be an eligible asset for meeting the SLR requirement in terms of
+RBI Master Circular - Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) dated 1 July 2015
+.
+Further, borrowing of gold by designated banks (from gold mobilised under STBD by other designated banks) will be treated as interbank liabilities and hence exempted from CRR and SLR.
+17
+iv. The designated banks may, at their discretion, allow whole or part premature withdrawal of the deposit subject to such minimum lock-in period and penalties, if any, as may be determined by them.
+v. The designated banks are free to fix the interest rates on these deposits. The interest shall be credited in the deposit accounts on the respective due dates and will be withdrawable periodically or at maturity as per the terms of the deposit.
+vi. With effect from April 5, 2021, interest in respect of STBD shall be denominated and paid in Indian Rupee only. Redemption of principal at maturity will, at the option of depositor, be either in Indian Rupee equivalent of the deposited gold based on the prevailing price of gold at the time of redemption, or in gold. The option in this regard shall be obtained in writing from the depositor at the time of making the deposit and shall be irrevocable. Any premature redemption shall be in Indian Rupee equivalent or gold at the discretion of the designated banks. All STBDs made prior to the issue of this direction will continue to be governed by their existing terms and conditions.
+18
+2.2.2 Medium and Long Term Government Deposit (MLTGD)
+i. All provisions of guidelines at para 2.1 above will apply to this deposit.
+ii. The deposit under this category will be accepted by the designated banks on behalf of the Central Government. The receipts issued by the CPTC
+/GMCTA
+and the deposit certificate issued by the designated banks shall state this clearly.
+iii. This deposit will not be reflected in the balance sheet of the designated banks. It will be the liability of Central Government and the designated banks will hold this gold deposit on behalf of Central Government until it is transferred to such person as may be determined by the Central Government.
+iv. Other features of the Medium and Long Term Government Deposit (MLTGD) shall be as under:
+19
+(a) Maturity
+20
+The Medium Term Government Deposit (MTGD) can be made for 5-7 years and Long Term Government Deposit (LTGD) for 12-15 years or for such period as may be decided by the Central Government from time to time. Deposits can also be allowed for broken periods (e.g. 5 years 7 months; 13 years 4 months 15 days; etc.).
+(b) Rate of interest:
+• The rate of interest on such deposit will be decided by Central Government and notified by Reserve Bank of India from time to time. The current rate of interest as notified by the Central Government are as under:
+(i) On medium term deposit – 2.25% p.a.
+(ii) On long term deposit – 2.50% p.a.
+• The rate of interest payable in the case of deposits for maturities with broken periods shall be calculated as the sum of interest for the complete year plus interest for the number of remaining days at the rate of D/360*ARI
+Where, ARI = Annual Rate of Interest
+D = Number of days
+(c) The periodicity of interest payment
+The periodicity of interest payment on these deposits is annual and shall be paid on 31st March every year. A depositor will have an option to receive payment of simple interest annually or cumulative interest at the time of maturity, in which case it will be compounded annually. This option shall be exercised at the time of deposit.
+(d) Minimum lock-in period
+A Medium Term Government Deposit (MTGD) is allowed to be withdrawn any time after 3 years and a Long Term Government Deposit (LTGD) after 5 years.
+(e) Interest on premature withdrawal
+The amount payable to the depositor on premature withdrawal after lock-in period shall be calculated as a sum of
+(A) and (B)
+, as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold at the time of deposit as under.
+21
+Type of deposit
+Lock-in period (years)
+Actual period for which the deposit has run (years)
+>3 and < 5
+≥5 and < 7
+MTGD
+3
+Applicable rate for MTGD at the time of deposit minus 0.375%
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Type of deposit
+Lock-in period (years)
+Actual period for which the deposit has run (years)
+>5 and < 7
+≥ 7 and < 12
+≥12 and < 15
+LTGD
+5
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Applicable rate for LTGD at the time of deposit minus 0.375%
+Applicable rate for LTGD at the time of deposit minus 0.25%
+(f) Interest on premature closure of the deposit in case of death of depositor before and after lock-in period
+The amount payable to the depositor shall be calculated as a sum of
+(A) and (B)
+, as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold for the period of deposit at the applicable rate.
+(i) Before lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 6 months
+>6 months and <1 year
+≥1 year and <2 years
+≥2 years and <3 years
+MTGD
+3 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.25%
+Applicable rate for MTGD at the time of deposit minus 1.00%
+Applicable rate for MTGD at the time of deposit minus 0.75%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 1 year
+>1 year and <2 years
+≥2 years and <3 years
+≥3 years and <5 years
+LTGD
+5 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.00%
+Applicable rate for MTGD at the time of deposit minus 0.75%
+Applicable rate for MTGD at the time of deposit minus 0.25%
+(ii) After lock-in period: The applicable interest rate shall be as under:
+Type of deposit
+Lock-in period
+Actual period for which the deposit has run
+>3 years and < 5 years
+≥5 years and < 7 years
+MTGD
+3 years
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Applicable rate for MTGD at the time of deposit minus 0.125%
+Type of deposit
+Lock-in period
+Actual period for which the deposit has run
+>5 years and < 7 years
+≥ 7 years and < 12 years
+≥12 years and < 15 years
+LTGD
+5 years
+Applicable rate for MTGD at the time of deposit minus 0.125%
+Applicable rate for LTGD at the time of deposit minus 0.25%
+Applicable rate for LTGD at the time of deposit minus 0.125%
+(g) Interest on premature closure of the deposit due to default of loan taken against MLTGD before and after lock-in period
+The amount payable to the depositor shall be calculated as a sum of
+(A) and (B)
+, as indicated below:
+(A) Actual market value of the gold deposit on the day of withdrawal.
+(B) Interest payable on the value of the gold for the period of deposit at the applicable rate.
+(i) Before lock-in period: The applicable interest rate shall be as under:
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 6 months
+>6 months and <1 year
+≥1 year and <2 years
+≥2 years and <3 years
+MTGD
+3 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.375%
+Applicable rate for MTGD at the time of deposit minus 1.125%
+Applicable rate for MTGD at the time of deposit minus 0.875%
+Type of Deposit
+Lock-in period
+Actual period for which the deposit has run
+Up to 1 year
+>1 year and <2 years
+≥2 years and <3 years
+≥3 years and <5 years
+LTGD
+5 years
+No interest
+Applicable rate for MTGD at the time of deposit minus 1.125%
+Applicable rate for MTGD at the time of deposit minus 0.875%
+Applicable rate for MTGD at the time of deposit minus 0.375%
+(ii) After lock-in period: The applicable interest rate shall be as under:
+Type of deposit
+Lock-in period
+Actual period for which the deposit has run
+>3 years and < 5 years
+≥5 years and < 7 years
+MTGD
+3 years
+Applicable rate for MTGD at the time of deposit minus 0.375%
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Type of deposit
+Lock-in period
+Actual period for which the deposit has run
+>5 years and < 7 years
+≥ 7 years and < 12 years
+≥12 years and < 15 years
+LTGD
+5 years
+Applicable rate for MTGD at the time of deposit minus 0.25%
+Applicable rate for LTGD at the time of deposit minus 0.375%
+Applicable rate for LTGD at the time of deposit minus 0.25%
+v. The gold received under MLTGD will be auctioned by the agencies notified by Government and the sale proceeds will be credited to Government’s account held with RBI.
+vi. The details of auctioning and the accounting procedure will be notified by Government of India.
+vii.
+22
+Central Government has decided that with effect from November 5, 2016, designated banks will be paid handling charges (including gold purity testing, refining, transportation, storage and any other relevant costs) for
+a new
+MLTGD at a flat rate of 1.5% and commission at the rate of 1% of the rupee equivalent of the amount of gold mobilized under the scheme until further notice.
+23
+In case of renewal of deposits, as banks will not incur any expenses on purity testing, refining, transportation, storage and insurance etc., the banks will only be given a fixed commission of 1% of the rupee equivalent of the amount of gold on the date of renewal towards their administrative and account maintenance cost.
+Explanation: For the purpose of computing the charges and commission payable to banks, the rupee equivalent of the gold deposited shall be calculated based on the price of gold prevailing at the time of deposit.
+2.3 Opening of gold deposit accounts
+The opening of gold deposit accounts shall be subject to the same rules with regard to customer identification as are applicable to any other deposit account. Depositors who do not already have any other account with the designated bank, shall open a gold deposit account with the designated banks with zero balance at any time prior to tendering gold at the CPTC
+/GMCTA
+after complying with KYC norms as prescribed by Reserve Bank of India.
+The designated banks will credit the STBD or MLTGD, as the case may be, with the amount of 995 fineness gold as indicated in the advice received from CPTC
+/GMCTA
+, after 30 days of receipt of gold at the CPTC
+/GMCTA
+, regardless of whether the depositor submits the receipt for issuance of the deposit certificate or not.
+2.4 Guidelines for Renewal/Redemption of MLTGD
+i. General
+a. The redemption of principal at maturity shall, at the option of the depositor, be either in Indian Rupee equivalent of the value of deposited gold at the time of redemption, or in gold. However, any premature redemption of MLTGD shall be only in INR. The designated bank shall seek the option of collecting maturing proceeds in gold or in Indian Rupee equivalent from the depositor at the time of initial deposit. Additionally, nominee details along with their share in the maturity proceeds may also be ascertained by the bank at the time of opening the account. In case of existing accounts, designated banks shall ensure the availability of the aforementioned information and submit a compliance report to RBI within six months from the date of issue of these directions.
+b. The interest accrued on MLTGD shall be calculated with reference to Indian Rupee equivalent of value of gold at the time of deposit and will be paid only in INR.
+c. Designated banks shall inform the depositors about redemption through letter and other means (such as SMS, email, phone call etc. wherever details are available), at least 120 days prior to redemption date and ask them to submit their response within 30 days on their preference for redemption or renewal. The bank, in its communication, should include a list of its state-wise branches where the facility of redemption in gold is available while also clearly specifying the additional administrative charges to be borne by the depositor for redemption in gold. In its communication to the depositor, the bank shall ask for options on the following:
+Renewal or Redemption
+Redemption in gold or in INR (only for depositors who sought redemption in gold at the time of deposit), along with the name of the branch from where the depositor will collect the gold, as applicable
+d. The depositor shall be required to present the original deposit certificate issued by the corresponding designated bank for redemption/renewal/premature closure of the MLTGD.
+e. In case of redemption in INR, if the original saving/current account provided to the bank at the time of deposit is not operational, the depositor shall provide details of the alternate saving/current account to the concerned bank.
+f. Deposits maturing on non-business day shall be redeemed on the next working day without any interest for the intervening period.
+g. In case a deposit is not redeemed on the due date, or the deposit certificate is presented for redemption after due date, no interest shall be paid on the outstanding deposit for the period overdue.
+h. The renewal of deposits with retrospective effect shall not be allowed. Designated banks shall seek the option for renewal from existing customers in the letter which is to be issued as at para 2.4.i.(c) above.
+i. The excess interest paid in case of premature closure can either be adjusted from the principal amount at the time of repayment or should be recovered separately from the customer by crediting the full principal amount at the time of redemption.
+j. Designated banks shall pay the amount due at redemption to the depositors on the due date, incur redemption expenses, if applicable and subsequently raise claim to the Government of India through Reserve Bank of India.
+k. Notwithstanding the procedures and timelines laid down through these guidelines, RBI may issue instructions to banks keeping in mind the practical considerations of banks and the concerns of the depositors.
+ii. Redemption in Gold
+a. The quantity of gold shall be payable in multiples of 10 grams and the remaining fraction of gold shall be payable in INR (principal along with interest). With regards to fractional quantity, for example 37.103 grams gold deposit, fractional quantity is 7.103 grams which is less than 10 grams, needs to be paid in INR at the prevailing gold rate on the maturity date. The applicable prevailing rate will be governed by provisions at para 2.1.1 of this Master Direction.
+b. In case of redemption of deposit in gold, the administrative charge at a rate of 0.5%
+24
+of the notional redemption amount as on the maturity date in terms of INR will be collected from the depositor and paid to the designated banks to cover logistical and operational costs involved in redemption. These administrative charges may be adjusted against the payment of fractional quantity in INR. If this amount is not found sufficient, then the administrative charges may be adjusted against the interest payable to the depositor or may be recovered in cash from the depositor.
+c. If the depositor does not indicate any choice for mode of redemption (gold or INR) to the bank in response to its 120-day prior communication (issued as at para 2.4.i.(c) above), the option indicated at the time of account opening will prevail. Further, in case the gold is not redeemed by the customer on the maturity date, such stock will continue to be kept in the custody of the bank for a maximum period of 60 days. The depositor can renew the deposit during this 60-day period but would be liable to pay the applicable administrative charge (refer para 2.4.ii.(b) above). If the depositor does not redeem the deposit on the due date or within 60 days from the maturity date and has also not renewed the deposit, the redemption will automatically be made in INR and the money shall be credited in the linked saving/current account of the depositor in the concerned bank. In case of non-availability of an active bank account, the banks will report the same to RBI, on priority.
+d. The payment of interest in case of cumulative deposit shall be calculated with reference to Indian Rupee equivalent of value of gold at the time of deposit.
+e. Arrangement of gold by the designated bank:
+Each bank shall maintain the stock of gold, at least equivalent to the gold redemption due in next 3 months, out of the gold mobilised under MLTGD. Each bank before giving MLTGD gold for auction to MMTC, shall seek prior permission from RBI. RBI, on behalf of Government of India, will give such permission after assessing the redemption requirement of MLTGD for the next three months and the total stock of gold available with all the banks.
+Surplus MLTGD gold with one bank can be transferred to another bank to meet MLTGD redemption. This inter-bank transfer of gold will not be treated as inter-bank lending by banks. Banks may also be allowed to purchase India Good Delivery Standard (IGDS) gold/LGDS (LBMA’s Good Delivery Standard) gold bars from the local refineries empaneled with the banks or MMTC and can get reimbursement from Government of India.
+In case sufficient gold is not available with any bank for redemption, RBI will bring it to the notice of Government of India at least 3 months prior to the date of redemption and an appropriate decision on sourcing of gold shall be taken by the Government.
+iii. Redemption in INR – Modalities
+In case of redemption in INR, the depositor may furnish the original deposit certificate with his account details in any GMS branch of the bank and his account will be credited accordingly.
+iv. Renewal of Deposit – Modalities
+If a depositor is interested to continue the deposit under GMS either as a MTGD or LTGD, he may be allowed to renew his deposit irrespective of the option exercised at the time of original gold deposit. However, renewal with retrospective effect shall not be allowed.
+The depositor may inform about his willingness for the renewal of the deposit to the designated bank in response to the bank’s communication (refer para 2.4.i.(c) above). The bank shall obtain relevant instructions regarding the period of the deposit, redemption option (gold or INR), and interest payment (periodically or on maturity), etc.
+Deposit will be accepted at the prevailing rate on the date of receipt of such request and not from the date of maturity. The customer will not be eligible to claim interest for intervening period.
+v. Partial Renewal and Partial Redemption in gold/INR – Modalities
+a. Part of the deposit may also be allowed to be renewed as per the process and terms mentioned above in para 2.4.(iv).
+b. The redemption of the remaining gold deposit as per the option exercised by the depositor may be permitted. Such redemption request for the remaining portion may be processed as per the respective terms mentioned above in para 2.4.(ii) and 2.4.(iii) for redemption in gold and INR respectively.
+2.5 Collection and Purity Testing Centres
+The Central Government will notify the list of BIS certified CPTC / Refiners under the Scheme and shall be communicated to the banks through Indian Banks’ Association (IBA).
+25
+The designated banks will be free to select and authorize the CPTCs out of the list notified by the Central Government for handling gold as their agents based on their assessment of the credit worthiness of these centres. (Please see para
+2.8
+for tripartite agreement among banks, refineries and CPTCs).
+The designated banks shall take steps to enter into agreement with sufficient number of CPTCs.
+26
+Each designated bank authorizing a CPTC to collect deposit of gold on its behalf shall ensure that its name is included in the list of such banks displayed by the CPTC.
+The schedule of fees charged by the CPTCs shall be displayed at a prominent place at the centre.
+Before tendering the raw gold to a CPTC, the depositor shall indicate the name of the designated bank with whom he would like to place the deposit.
+27
+After assaying the gold, the CPTC will issue a receipt signed by authorised signatories of the centre showing the standard gold of 995 fineness on behalf of the designated bank indicated by the depositor. Simultaneously, the CPTC will also send an advice to the designated bank regarding the acceptance of deposit.
+The 995 fineness equivalent amount of gold as determined by the CPTC will be final and any difference in quantity or quality found after issuance of the receipt by the CPTC including at the level of the refinery due to refinement or any other reason shall be settled among the three parties viz., the CPTC, the refiner and the designated bank in accordance with the terms of the tripartite agreement.
+The depositor shall produce the receipt showing the 995 fineness equivalent amount of gold issued by the CPTC to the designated bank branch, either in person or through post.
+On submission of the deposit receipt by the depositor, the designated bank shall issue the final deposit certificate on the same day or 30 days after the date of the tendering of gold at the CPTC, whichever is later.
+The assaying process at the CPTC is described in
+Annex-1
+.
+2.6 GMS Mobilisation, Collection & Testing Agent (GMCTA)
+28
+Jewellers/Refiners certified as CPTCs by BIS and meeting additional eligibility conditions set by IBA may be recognised by designated banks as GMCTA.
+Jewellers or refiners functioning as GMCTA shall assay and refine gold received from depositors; undertake vaulting and movement of refined gold to banks as per bi-partite agreement with the designated banks.
+As GMCTAs will carry out functions of CPTC, the instructions applicable to CPTCs as mentioned at para
+2.5
+above shall also be applicable to GMCTA.
+The designated banks shall pay a maximum of 1.5% as incentive/handling charges to the gold handling/ mobilizing functions performed by GMCTAs.
+2.7 Transfer of gold to the Refiners
+The designated banks will be free to select the refiners (list notified by Government is attached) based on their assessment regarding the credibility of these entities.
+The CPTCs will transfer the gold to the refiners as per the terms and conditions set out in the tripartite agreement.
+The refined gold may, at the option of the designated bank, be kept in the vaults maintained by the refiners,
+GMCTAs
+or at the branch itself.
+For the services provided by the refiners
+/GMCTAs
+, the designated banks will pay a fee as decided mutually.
+The refiners
+/GMCTAs
+shall not collect any charge from the depositor.
+2.8 Tripartite agreement between the designated banks, refiners and CPTCs
+Every designated bank shall enter into a legally binding tripartite agreement with the refiners and CPTCs with whom they tie up under the Scheme.
+The agreement shall clearly lay down the details regarding payment of fees, services to be provided, standards of service, the details of the arrangement regarding movement of gold and rights and obligations of all the three parties in connection with the operation of the Scheme.
+The tripartite agreement shall have enabling provision for direct deposit of gold with the refineries as well. In the alternate, banks shall enter into bipartite agreements with the refiners
+/GMCTAs
+, stating out the terms of that arrangements besides the tripartite agreement.
+29
+2.9 Utilizat
+i
+on of gold mobilized under GMS
+2.9.1 Gold accepted under STBD
+Without prejudice to the generality of the uses of the gold mobilised under the STBD, the designated banks may
+sell the gold to MMTC for minting India Gold Coins (IGC), to jewellers and to other designated banks participating in GMS; or
+lend the gold under the GML scheme to MMTC for minting India Gold Coins (IGC) and to jewellers.
+Lend the gold to other designated banks participating in the Scheme for granting GML subject to following conditions:
+(a) Interest Rate: The interest rate to be charged on interbank lending of gold mobilised from these deposits shall be decided by banks.
+(b) Repayment: The repayment shall be in INR or in locally sourced IGDS/ LGDS (LBMA’s Good Delivery Standards) gold as agreed by the participating banks.
+(c) Tenor: As the purpose for interbank lending is to provide gold to jewellery manufacturers/ jewellery exporters under GML, the tenor of interbank lending of gold shall be as per our
+circular DBOD.No.IBD.BC.71/23.67.001/2006-07 dated April 3, 2007
+, the Foreign Trade Policy and the Handbook of Procedures issued by DGFT, as amended from time to time.
+30
+2.9.2 Gold accepted under MLTGD
+Gold deposited under MLTGD will be auctioned by MMTC or any other agency authorized by the Central Government and the sale proceeds credited to the Central Government’s account with RBI.
+The entities participating in the auction may include RBI, MMTC, banks and any other entities notified by the Central Government in this regard.
+Gold purchased by designated bank under the auction may be utilized by them for any purposes indicated at para
+2.9.1.
+above.
+2.10 Risk management
+The designated banks are allowed to access the International Exchanges, London Bullion Market Association or make use of Over-the-counter contracts to hedge exposures to bullion prices subject to the guidelines issued by RBI.
+The designated banks should put in place suitable risk management mechanisms including appropriate limits to manage the risk arising from gold price movements in respect of their net exposure to gold.
+2.11 Oversight over the CPTCs,
+GMCTAs
+and Refineries
+The Central Government, in consultation with BIS, NABL, RBI and IBA, may put in place appropriate supervisory mechanism over the CPTCs,
+GMCTAs
+and the refiners so as to ensure observance of the standards set out for these centres by Government (BIS and NABL).
+The Central Government may take appropriate action including levy of penalties against the non-compliant CPTCs,
+GMCTAs
+and refiners.
+The Central Government may also put in place appropriate grievance redress mechanism regarding any depositor’s complaints against the CPTCs
+and GMCTAs
+.
+The complaints against the designated banks regarding any discrepancy in issuance of receipts and deposit certificates, redemption of deposits, payment of interest will be handled first by the bank’s grievance redress process and then by the Banking Ombudsman of RBI.
+Chapter III
+GMS - linked Gold Metal Loan (GML) Scheme
+3.1.1 General
+The gold mobilized under STBD may be provided to the jewellers as GML. The designated banks can also purchase the gold auctioned under MLTGD and extend GML to the jewellers.
+The jewellers will receive the physical delivery of gold either from the refiners or from the designated bank, depending on the place where the refined gold is stored.
+The existing Gold (Metal) Loan (GML) Scheme operated by nominated banks in terms of paragraph 2.3.12 of the RBI Master Circular on Loans and Advances - Statutory and Other Restrictions dated July 1, 2015 will continue in parallel with GMS-linked GML scheme. All prudential guidelines for the existing GML Scheme as prescribed in the Master Circular as amended from time to time will also be applicable to the new Scheme.
+The designated banks other than the nominated banks shall be eligible to import gold only for redemption of the gold deposits mobilised under the STBD.
+3.1.2 Interest to be charged
+The designated banks are free to determine the interest rate to be charged on GMS-linked GML.
+3.1.3 Tenor
+The tenor of GMS-linked GML will be the same as under the extant GML scheme.
+Annex 1
+Assaying process at the CPTCs
+/GMCTAs
+i. The fees to be charged by a CPTC
+/GMCTA
+shall be informed to the customer before doing the XRF test.
+ii. There will be a BIS certified protocol of operations and processes at all stages of purity verification and deposit of gold which are as under:
+XRF machine-test and weighing of all articles shall be done in the presence of the customer and will be recorded by CCTV Camera.
+After XRF test, the customer will be given the option to disagree with the preliminary test or withdraw the tendered gold or he will give his consent for melting and fire assay test.
+On receipt of the customer consent, the gold ornaments will be cleaned of its dirt, studs, meena etc. and thereafter, the purity of the tendered gold will be ascertained through a fire assay test in the presence of the customer.
+In case the customer agrees with the result of the fire assay test, he will exercise his option to deposit the gold with the bank and in that case the fee charged by the centre will be paid by the bank. However, in case of any disagreement with the fire assay result, the customer will be given the option to take back the melted gold after paying a nominal fee to the centre.
+In case the customer exercises the option to deposit the gold, he will be provided a certificate by the CPTC
+/GMCTA
+certifying the weight of the gold tendered in equivalence of 995 fineness of gold.
+On receipt of this certificate from the customer, the bank will credit the equivalent quantity of Standard gold of 995 fineness in to the depositor’s account.
+Simultaneously, the CPTC
+/GMCTA
+has also to inform the bank about the details of the deposit made by the customer.
+1
+Inserted vide
+circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+2
+Modified vide
+circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+. Before amendment, it read as “The principal and interest on STBD shall be denominated in gold”.
+3
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+.
+4
+Inserted vide
+Circular DBR.IBD.BC.19 /23.67.001/2018-19 dated January 9, 2019
+.
+5
+Inserted vide
+circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+and will be used in the MD along with CPTC and refiner wherever appropriate.
+6
+Replaced the word “however”.
+7
+Modified vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+8
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+.
+9
+Modified vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+10
+Modified vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+. Before amendment, it read as “Reporting – The designated banks need to submit a monthly report on GMS to the RBI in the prescribed format.” Annex-2 also modified vide
+circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+11
+Inserted vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+12
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+.
+13
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+.
+14
+Inserted vide
+Circular DBR.IBD.BC.13/23.67.001/2019-20 dated August 16, 2019
+.
+15
+Modified vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+16
+Modified vide
+Circular DBR.IBD.BC. 109 /23.67.001/2017-18 dated June 7, 2018
+. Before amendment, it read as “The deposit will be made with the designated banks for a short term period of 1-3 years (with a roll over in multiples of one year) and will be treated as their on-balance sheet liability.”
+17
+Inserted vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+18
+Modified vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021
+.
+19
+Inserted vide
+Circular DBR.IBD.BC.109 /23.67.001/2017-18 dated June 7, 2018
+.
+20
+Modified vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+. Before amendment, it read as “The deposit can be made for a medium term period of 5-7 years or a long term period of 12-15 years or for such period as may be decided from time to time by the Central Government. The rate of interest of such deposit will be decided by Central Government and notified by Reserve Bank of India from time to time. The designated banks may allow whole or part premature withdrawal of the deposit subject to such minimum lock-in period and penalties, if any, as determined by the Central Government.”
+21
+An illustration of the interest calculation as under:
+Type of deposit
+Lock-in period (years)
+Actual period for which the deposit has run (years)
+>3 and < 5
+≥5 and < 7
+MTGD
+Position as on date
+2.250%-0.375% = 1.875%
+2.250%-0.250% = 2.00%
+>5 and < 7
+≥ 7 and < 12
+≥12 and < 15
+LTGD
+Position as on date
+2.250%-0.250% = 2.00%
+2.500%-0.375%=2.125%
+2.500%-0.250%=2.25%
+22
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+.
+23
+Modified vide
+Circular DBR.IBD.BC.109/23.67.001/2017-18 dated June 7, 2018
+.
+24
+The administrative charge has been revised from 0.2% to 0.5% vide
+Circular DoR.AUT.REC.58/23.67.001/2022-23 dated August 04, 2022
+. However, all deposits prior to this date will continue to be governed by the 0.2% (of the notional redemption amount as on the maturity date in terms of INR) administrative charge in case of redemption in gold.
+25
+Modified vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016.
+Before amendment, it read as “The Central Government will notify a list of BIS certified CPTCs under the Scheme.”
+26
+Inserted vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021.
+27
+The Indian Banks’ Association (IBA) has agreed to design appropriate standard documentations in connection with the GMS including application form for tendering raw gold to the assaying centres, description of the physical appearance and other characteristics of the gold, the recording of the results of XRF by the assaying centre, customer’s consent for melting the gold for fire-assaying, customer’s consent for making the final deposit, the Final Receipt to be issued to the depositor and any other documents that may be considered by the banks. The entire set of documents should be made available to the depositor upfront and should include all the terms and conditions of the scheme including the schedule of charges. The documentation should be posted on IBA’s website and should also be available in physical form at the CPTCs.
+28
+Inserted vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021.
+29
+Inserted vide
+Circular DBR.IBD.BC.74/23.67.001/2015-16 dated January 21, 2016
+30
+Inserted vide
+Circular DoR.AUT.REC.2/23.67.001/2021-22 dated April 5, 2021.

@@ -1,0 +1,56 @@
+(889 kb)
+Relaxation in timeline for compliance with various payment system requirements
+RBI/2021-22/41
+CO.DPSS.POLC.No.S-106/02-14-003/2021-2022
+May 21, 2021
+The Chairman / Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks, including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Payments Banks / Small Finance Banks /
+Local Area Banks / Non-Bank PPI Issuers /
+Authorised Payment System Operators / Participants
+Madam / Dear Sir,
+Relaxation in timeline for compliance with various payment system requirements
+A reference is invited to Reserve Bank of India instructions – (a)
+DPSS.CO.PD.No.1164/02.14.006/2017-18 dated October 11, 2017
+(as updated from time to time) on Master Direction on Issuance and Operation of Prepaid Payment Instruments (PPI-MD); (b)
+DPSS.CO.PD.No.629/02.01.014/2019-20 dated September 20, 2019
+on Harmonisation of Turn Around Time (TAT) and Customer Compensation for Failed Transactions using Authorised Payment Systems; (c) DPSS.CO.OD.No.1325/06.11.001/2019-20 dated January 10, 2020 on Scope and Coverage of System Audit of Payment Systems; (d)
+DPSS.CO.PD.No.1810/02.14.008/2019-20 dated March 17, 2020
+on Guidelines on Regulation of Payment Aggregators (PAs) and Payment Gateways (PGs); and (e)
+DPSS.CO.PD.No.1897/02.14.003/2019-20 dated June 4, 2020
+on Extension of Timeline for Compliance with Various Payment System Requirements.
+2. Keeping in view the resurgence of the COVID-19 pandemic and the representations received from various bank and non-bank entities, it has been decided to extend the timeline prescribed for compliance in respect of a few areas detailed in the
+Annexure
+.
+3. This directive is issued under Section 10(2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully
+(P Vasudevan)
+Chief General Manager
+Annexure to
+RBI Circular CO.DPSS.POLC.No.S-106/02-14-003/2021-2022 dated May 21, 2021
+SN
+Instruction / Circular
+Present Timeline
+Revised Timeline
+1.
+All existing non-bank PPI issuers (at the time of issuance of PPI-MD) to comply with the minimum positive net-worth requirement of Rs.15 crore for the financial position as on March 31, 2020 (audited balance sheet).
+Financial position as on March 31, 2021
+Financial position as on September 30, 2021
+2.
+Harmonisation of TAT and customer compensation for failed transactions using authorised Payment Systems – “Calendar days” to be read as “Working days”.
+Working days until December 31, 2020 (Calendar days from January 1, 2021)
+Working days – Prospective – Until September 30, 2021
+3.
+Authorised Payment System Operators (PSOs) are required to furnish System Audit Report conducted by CERT-IN empanelled auditors or a Certified Information Systems Auditor registered with Information Systems Audit and Control Association or by a holder of a Diploma in Information System Audit qualification of the Institute of Chartered Accountants of India, on an annual basis within two months of close of their respective financial year.
+By May 31, 2021
+By September 30, 2021
+4.
+Existing non-bank entities offering PA services shall apply for authorisation on or before June 30, 2021.
+By June 30, 2021
+By September 30, 2021*
+* Extension provided vide
+circular CO.DPSS.POLC.No.S33/02-14-008/2020-2021 dated March 31, 2021
+to enable payment system providers and participants to put in place workable solutions to comply with the provisions of Paragraphs 7.4 and 10.4 of the
+circular dated March 17, 2020
+will not be impacted.

@@ -1,0 +1,805 @@
+(1605 kb)
+Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023
+RBI/DOR/2023-24/104
+DOR.MRG.36/21.04.141/2023-24
+September 12, 2023
+All Commercial Banks (excluding Regional Rural Banks)
+Dear Sir / Madam,
+Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023
+The extant regulatory instructions on classification and valuation of investment portfolio by commercial banks, as contained in the
+Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021
+, are largely based on a framework introduced in October 2000 drawing upon the then prevailing global standards and best practices.
+2. In view of the significant developments in the global standards on classification, measurement and valuation of investments, the linkages with the capital adequacy framework as well as progress in the domestic financial markets, a need was felt to review and update these norms. Pursuant to the announcement made in the
+Statement on Developmental and Regulatory Policies dated December 8, 2021
+, a
+discussion paper
+on the subject was issued for public comments on January 14, 2022. Based on the inputs received, it has now been decided to put in place a revised regulatory framework for the investment portfolio.
+3. The revised framework updates the regulatory guidelines with global standards and best practices while introducing a symmetric treatment of fair value gains and losses, a clearly identifiable trading book under Held for Trading (HFT), removing the 90-day ceiling on holding period under HFT, removal of ceilings on Held to Maturity and more detailed disclosures on the investment portfolio. Further, to facilitate smooth implementation,
+illustrative guidance
+has been developed on the revised framework and annexed to the Directions.
+Applicability
+4. The revised framework as detailed in the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2023
+annexed
+hereto shall be applicable from April 1, 2024, to all Commercial Banks excluding Regional Rural Banks.
+5. Reserve Bank of India is issuing these Directions in the exercise of its powers conferred under section 35A of the Banking Regulation Act, 1949, and all the powers enabling it on this behalf.
+Yours faithfully,
+(Usha Janakiraman)
+Chief General Manager
+RBI/2023-24/
+DOR.MRG.37/21.04.141/2023-24
+September 12, 2023
+Reserve Bank of India - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks, Directions, 2023
+Commercial banks are currently required to follow regulatory guidelines on classification and valuation of investment portfolio, which are based on framework issued in October 2000 drawing upon the then prevailing global standards and best practices. In view of the significant development in global financial reporting standards, the linkages with the capital adequacy framework as well as progress in the domestic financial markets, revised regulatory framework for the investment portfolio is being issued.
+In exercise of the powers conferred under Section 35 A of the Banking Regulation Act, 1949 (hereinafter called the ‘BR Act’), the Reserve Bank of India (hereinafter called the ‘Reserve Bank’ or ‘RBI’), being satisfied that it is necessary and expedient in the public interest to do so, hereby, issues the Directions hereinafter specified.
+Chapter – I
+Preliminary
+1. Short title
+These Directions shall be called the Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2023.
+2. Effective Date
+These Directions shall come into effect for accounting period commencing on or after April 1, 2024.
+3. Applicability
+These Directions shall be applicable to all banking companies
+1
+, corresponding new banks and State Bank of India as defined under subsections (c), (da) and (nc) of section 5 of the BR Act, 1949 (collectively referred to as ‘banks’ hereinafter).
+4. Definitions
+(a) In these Directions, unless the context states otherwise, the terms herein shall bear the meanings assigned to them below:
+(i) “Active market”
+2
+is a market in which transactions for the asset or liability take place with sufficient frequency and volume to provide pricing information on an ongoing basis.
+(ii) “Approved Securities”
+shall have the same meaning as defined in clause 3(a)(iii) of
+Reserve Bank of India Directions - 2021
+on Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), as amended from time to time.
+(iii) “Associate”
+as defined in Accounting Standard 23: Accounting for Investments in Associates in Consolidated Financial Statements (‘AS 23’) is an enterprise in which the investor has significant influence, and which is neither a subsidiary nor a joint venture of the investor.
+Explanation: For the purpose of this definition, the expression “significant influence” is the power to participate in the financial and/ or operating policy decisions of the investee but not control over those policies. Significant influence is presumed if an investor holds, directly or indirectly through subsidiary/subsidiaries, 20 per cent or more of the voting power of the investee. Banks may refer to AS 23 for further guidance on the term ‘associate’.
+(iv) “Carrying cost”
+in the context of zero-coupon discounted instruments such as Treasury Bills, Commercial Paper, Certificate of Deposits and Zero-Coupon Bonds is the acquisition cost adjusted for the discount accrued at the rate prevailing at the time of acquisition.
+(v) “Corporate bonds and debentures”
+for the purpose of these Directions mean debt securities which create or acknowledge indebtedness, including (a) debentures (b) bonds (c) commercial papers (d) certificate of deposits and such other securities of a company, a multilateral financial institution (MFI) or a body corporate constituted by or under a Central Act or a State Act, whether constituting a charge on the assets of the company or body corporate or not, and includes convertible instruments and instruments of a perpetual nature, but does not include (a) debt securities issued by Central Government or a State Government, or such other persons as may be specified by the Reserve Bank, (b) security receipts and (c) securitisation notes.
+(vi) “Current and Valid Credit Rating”
+for the purpose of determining rated security means a credit rating granted by a credit rating agency in India, registered with the Securities and Exchange Board of India (SEBI) and fulfilling the following conditions:
+The credit rating letter and rating rationale from the credit rating agency shall preferably be part of the offer document.
+The credit rating letter shall not be more than one month old and rating rationale shall not be more than one year old from the date of opening of issue.
+In the case of secondary market acquisition, the credit rating of the issue shall be in force and confirmed from the monthly bulletin published by the respective credit rating agency.
+Explanation: In the case of overseas investments, the rating used shall be of the international credit rating agencies specified for the purpose of risk weighting for capital adequacy
+3
+purposes.
+(vii) “Day 1 Gain”
+is the difference between the fair value at initial recognition and acquisition cost where such fair value exceeds the acquisition cost.
+(viii) “Day 1 Loss”
+is the difference between acquisition cost and the fair value at initial recognition where the acquisition cost exceeds such fair value.
+(ix) “Derecognition”
+means the removal of a previously recognized financial instrument from a bank’s balance sheet.
+(x) “Derivative”
+shall have the same meaning as assigned to it in section 45U(a) of the Reserve Bank of India Act, 1934 (‘RBI Act’), as amended from time to time.
+(xi) “Discount”
+for the purposes of these Directions and in the context of debt securities that meet the solely payments of principal and interest (‘SPPI’) criteria shall mean the difference between the face value of a debt security and the amount at which that security has initially been recognised in the books.
+(xii) “Exchange”
+means “Recognized stock exchange” and shall have the same meaning as defined in Section 2 (f) of Securities Contracts (Regulation) Act, 1956, as amended from time to time. In the case of overseas jurisdictions, it shall refer to an exchange which is recognised or authorised by the securities market regulator of that jurisdiction.
+(xiii) “Fair value”
+for the purpose of these directions means the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date.
+(xiv) “Financial asset”
+is any asset that is cash, the right to receive cash or another financial asset, or an equity instrument.
+(xv) “Financial instrument”
+is any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity. Financial instruments include primary financial instruments (or cash instruments) and derivative financial instruments.
+(xvi) “Financial liability”
+is the contractual obligation to deliver cash or another financial asset.
+(xvii) “Government security”
+shall have the same meaning as assigned to it in section 2(f) of the Government Securities Act, 2006.
+(xviii) “Interest”
+for the purposes of determining eligibility under the solely payments of principal and interest (‘SPPI’) criteria consists of consideration for the time value of money, for the credit risk associated with the principal amount outstanding during a particular period of time and for other basic lending risks and costs, as well as a profit margin.
+(xix) “Joint Venture”
+as defined in Accounting Standard 27: Financial Reporting of Interests in Joint Ventures (‘AS 27’) is a contractual arrangement whereby two or more parties undertake an economic activity, which is subject to joint control. Joint control is the contractually agreed sharing of control over an economic activity
+4
+.
+(xx) “Level 1”
+in the context of inputs used for valuation of a financial instrument are those inputs which are quoted prices (unadjusted) in active markets for identical instruments that the bank can access at the measurement date. In reference to the valuation of an instrument, it refers to a valuation that is substantively based on Level 1 inputs and does not have any significant Level 2 or Level 3 inputs.
+(xxi) “Level 2”
+in the context of inputs used for valuation of a financial instrument are those inputs, other than quoted prices included within Level 1, that are observable for the asset or liability, either directly or indirectly. In reference to the valuation of an instrument, it refers to a valuation that is based on Level 1 and Level 2 inputs and does not have any significant Level 3 inputs.
+(xxii) “Level 3”
+in the context of inputs used for valuation of a financial instrument are unobservable inputs. In reference to the valuation of an instrument, it refers to a valuation in which there is a significant Level 3 input.
+(xxiii) “Listed security”
+is a security which is listed on an exchange.
+(xxiv) “Low Coupon Bonds”
+are bonds which carry very low coupons that are not market related and are redeemed at maturity with substantial premium.
+(xxv) “Observable inputs”
+are inputs that are developed using market data, such as publicly available information about actual events or transactions.
+(xxvi) ‘Other approved securities’
+shall have the same meaning as defined under clause 3(xxiii) of the
+Reserve Bank of India Directions - 2021
+on Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), as amended from time to time.
+(xxvii) “Premium”
+for the purposes of these Directions and in the context of debt securities that meet the solely payments of principal and interest (SPPI) criteria shall mean the difference between the amount at which a debt security has initially been recognised in the books and the face value of that security.
+(xxviii) “Quoted Security”
+is a security for which market prices are available at exchanges, reporting platforms or trading platforms authorized by RBI / SEBI.
+(xxix) “Principal market”
+for a financial instrument is the market with the greatest volume and level of activity for that financial instrument.
+(xxx) “Rated Security”
+means a security which carries a current and valid credit rating.
+(xxxi) “Reconstitution”
+means the reverse process of stripping, where the individual Separate Trading of Registered Interest and Principal of Securities (STRIPS) i.e., both coupon STRIPS and Principal STRIPS are reassembled to get back the original security, as defined in circular IDMD.1762/2009-10 dated October 16, 2009, on ‘Government Securities - Separate Trading of Registered Interest and Principal of Securities (STRIPS)’, as amended from time to time.
+(xxxii) “Repo”
+and
+“Reverse Repo”
+shall have the same meaning as defined in Section 45U of RBI Act, 1934, as amended from time to time. For the purpose of these Directions, the word ‘repo’ is used to mean both ‘repo’ and ‘reverse repo’ with the appropriate meaning applied contextually.
+(xxxiii) “Securities”
+shall have the same meaning as defined in Section 2(h) of Securities Contracts (Regulation) Act, 1956, as amended from time to time.
+(xxxiv) “Securities and Exchange Board of India”
+or
+“SEBI”
+in the context of securities issued in India
+5
+refers to the Securities and Exchange Board of India established under the provisions of the Securities and Exchange Board of India Act, 1992.
+(xxxv) “Security Receipts”
+shall have the same meaning as defined in Section 2(1)(zg) of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, as amended from time to time.
+(xxxvi) “Securitisation note”
+shall be as defined in
+Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021
+. It shall also include for the purpose of these directions, securitised debt instruments (SDIs) issued in terms of the Securities and Exchange Board of India (Issue and Listing of Securitised Debt Instruments and Security Receipts) Regulations, 2008.
+(xxxvii) “Short Sale”
+shall have the same meaning as defined in
+Short Sale (Reserve Bank) Directions, 2018
+, as amended from time to time.
+(xxxviii) “Statutory Liquidity Ratio (SLR) Securities”
+shall have the same meaning as defined in
+Reserve Bank of India Directions - 2021
+on Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR), as amended from time to time.
+(xxxix) “Statutory Reserve”
+refers to the reserve fund created and maintained under the provisions of section 17 of the B R Act, 1949.
+(xl) “STRIPS” (Separate Trading of Registered Interest and Principal of Securities)
+means distinct, separate securities that are created from the cash flows of a Government security and shall consist of (i) Coupon STRIPS, where the single cash flow of the STRIP represents a coupon flow of the original security; and (ii) Principal STRIP, where the single cash flow of the STRIP represents the principal cash flow of the original security, as defined in circular IDMD.1762/2009-10 dated October 16, 2009 on ‘Government Securities - Separate Trading of Registered Interest and Principal of Securities (STRIPS)’, as amended from time to time.
+(xli) “Stripping”
+means the process of separating the cash flows associated with a regular Government security i.e., each outstanding semi-annual coupon payment and the final principal payment into separate securities, as defined in circular on Government Securities - Separate Trading of Registered Interest and Principal of Securities (STRIPS) issued vide IDMD.1762/2009-10 dated October 16, 2009, as amended from time to time.
+(xlii) “Subsidiary”
+as defined in Accounting Standard 21: Consolidated Financial Statements (AS 21) is an enterprise that is controlled by another enterprise (known as the parent).
+Explanation: For the purpose of this definition, the expression “control” is:
+the ownership, directly or indirectly through subsidiary(ies), of more than one-half of the voting power of an enterprise; or
+control of the composition of the board of directors in the case of a company or of the composition of the corresponding governing body in case of any other enterprise so as to obtain economic benefits from its activities.
+Banks may refer to AS 21 for further guidance on the term ’subsidiary’.
+(xliii) “Unrated securities”
+means securities which do not have a current and valid credit rating.
+(xliv) “Unobservable inputs”
+are those inputs for which market data such as quoted prices, yield curves, bid-offer spreads, etc. are not available and are instead based on assumptions that market participants would use when pricing a financial instrument.
+(xlv) “When, as and if issued” (commonly known as ‘when-issued’ (WI)) security
+means a security as referred to in
+When Issued Transactions (Reserve Bank) Directions, 2018
+, as amended from time to time.
+(b) All other expressions unless defined herein shall have the same meaning as have been assigned to them under the BR Act, the RBI Act, rules/regulations made thereunder, or any statutory modification or re-enactment thereto or as used in commercial parlance, as the case may be.
+Chapter – II
+General Guidelines
+5. Investment Policy Framework
+Banks shall undertake investment activities as per the terms and conditions specified in these Directions.
+(a) Banks shall adopt a comprehensive investment policy duly approved by the Board of Directors.
+(b) The investment policy shall, at the minimum, include:
+The investment criteria and objectives to be achieved while undertaking investment transactions on their own investment account and on behalf of clients.
+Securities in which investments can be made by the bank.
+Derivatives in which the bank shall deal.
+The authority to put through deals.
+Procedure for obtaining the sanction of the appropriate authority and putting through deals.
+Adherence to various prudential exposure limits.
+Policy regarding dealings through brokers, systems for management of various risks, guidelines for valuation of the portfolio and the reporting systems.
+(c) The investment policy shall be framed to ensure that transactions in securities and derivatives are conducted in accordance with sound and acceptable business practices.
+(d) The investment policy shall lay down prudential limits for investment in securities including those on private placement basis, sub-limits for Public Sector Undertaking (‘PSU’) bonds, corporate bonds, guaranteed bonds, issuer ceiling, etc.
+(e) There shall be proper risk management systems for making investment in corporate bonds which shall include entry-level minimum credit ratings/ quality standards and industry-wise, maturity-wise, duration-wise, issuer-wise, etc., limits to mitigate the adverse impact of concentration and liquidity risk.
+(f) Investment policy shall cover in detail the procedure for investment in equities and the policy for managing associated risks. Banks shall also build an adequate expertise in equity research by establishing a dedicated equity research department, commensurate with the scale of their operations.
+(g) The decision to make investment in equity shares, preference shares, convertible instruments and equity like products shall be taken by the Investment Committee set up by the bank's Board, which will be held accountable for all the investments made by the bank.
+(h) Investment proposals shall be subjected to the same degree of credit risk analysis as any loan proposal.
+(i) Banks shall refer to the list of defaulters obtained from Credit Information Companies and Central Repository of Information on Large Credits (CRILC) while taking investment decisions.
+(j) Banks shall make their own internal credit analysis and credit rating even in respect of rated issues and shall not entirely rely on the ratings of external credit rating agencies. The appraisal shall be more stringent in respect of investments in instruments issued by non-borrower customers.
+(k) Banks shall ensure robust internal credit rating systems which shall also include building up of a system of regular (quarterly or half-yearly) tracking of the financial position of the issuer to ensure continuous monitoring of the rating migration of the issuers/issues.
+(l) Banks shall settle the transactions in securities and derivatives as per procedure prescribed by the concerned regulator.
+(m) Banks shall hold their investments in securities, privately placed or otherwise, only in dematerialized form.
+(n) Investment by offshore branches of Indian banks shall be in accordance with their Board approved policy on investments. Such policy shall, at the minimum, include risk perception associated with investments, minimum rating requirement, limits, approval process, host country regulations etc.
+(o) The investment policy shall be suitably framed to also include Primary Dealer (PD) activities where such activities are carried out departmentally.
+Further the PD business undertaken by the bank shall adhere to the instructions contained in Reserve Bank of India Master Direction - Operational Guidelines for Primary Dealers issued vide
+Master Direction IDMD.PDRD.01/03.64.00/2016-17 dated July 1, 2016
+, as amended from time to time.
+(p) These instructions on Investment Policy Framework in paragraph 5 (a) to (o) above shall be applicable mutatis mutandis, to the subsidiaries and mutual funds established by banks except to the extent they are contrary to or inconsistent with specific regulations of the Reserve Bank, SEBI, Insurance Regulatory and Development Authority of India (IRDAI) and Pension Fund Regulatory and Development Authority (PFRDA) governing their operations.
+(q) These Directions shall be read with the Directions on Prudential Regulation for Banks’ Investments and Portfolio Management Services contained in the
+Reserve Bank of India (Financial Services provided by Banks) Directions, 2016
+as amended from time to time.
+Chapter – III
+Classification of Investments by Banks
+6. Categorization of investments
+(a) Banks shall classify their entire investment portfolio (except investments in their own subsidiaries, joint ventures and associates)
+6
+under three categories, viz., Held to Maturity (HTM), Available for Sale (AFS) and Fair Value through Profit and Loss (FVTPL). Held for Trading (HFT) shall be a separate investment sub-category within FVTPL. The category of the investment shall be decided by the bank before or at the time of acquisition and this decision shall be properly documented.
+(b) Banks shall continue to present the investments in the Balance Sheet as set out in The Third Schedule to the BR Act (Form A, Schedule 8 - Investments) as under:
+Government securities
+Other approved securities
+Shares
+Debentures & Bonds
+Subsidiaries and / or joint ventures
+Others (to be specified)
+6.1 HTM
+(a) Securities that fulfil the following conditions shall be classified under HTM:
+The security is acquired with the intention and objective of holding it to maturity, i.e., the financial assets are held with an objective to collect the contractual cash flows; and
+the contractual terms of the security give rise to cash flows that are solely payments of principal
+7
+and interest on principal outstanding (‘SPPI criterion’) on specified dates.
+(b) Notwithstanding the intent with which the following securities are acquired, they shall not meet the SPPI criteria and therefore shall not be eligible for classification either as HTM or AFS:
+Instruments with compulsorily, optionally or contingently convertible features.
+Instruments with contractual loss absorbency features such as those qualifying for Additional Tier 1 and Tier 2 under Basel III Capital Regulations.
+Instruments whose coupons are not in the nature of interest as defined in Clause 4(a)(xviii) above.
+Preference shares
+8
+and Equity
+9
+shares.
+(c) Investments in the securitization notes, other than the equity tranche, shall be considered to meet the SPPI criteria if the tranche in which the investment is made meets all the following conditions:
+The contractual terms of the tranche being assessed for classification (without looking through to the underlying pool of financial instruments) give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+The underlying pool of financial instruments meet the SPPI criteria.
+The credit risk of the tranche is equal to or lower than the credit risk of the combined underlying pool of assets.
+6.2 AFS
+(a) Securities that meet the following conditions shall be classified under AFS:
+The security is acquired with an objective that is achieved by both collecting contractual cash flows and selling securities; and
+the contractual terms of the security meet the ‘SPPI criterion’ as given in paragraph 6.1(a)(ii) above.
+Provided that on initial recognition, a bank may make an irrevocable election to classify an equity instrument that is not held with the objective of trading (i.e., not held for any of the purposes listed in paragraph 4 of
+Annex I
+) under AFS.
+(b) AFS securities shall inter-alia include debt securities held for asset liability management (ALM) purposes that meet the SPPI criterion where the bank’s intent is flexible with respect to holding to maturity or selling before maturity.
+6.3 FVTPL
+(a) Securities that do not qualify for inclusion in HTM or AFS shall be classified under FVTPL. These shall inter-alia include:
+Equity shares, other than (a) equity shares of subsidiaries, associates or joint ventures and (b) equity shares where, at initial recognition, the irrevocable option to classify at AFS has been exercised.
+Investments in Mutual Funds, Alternative Investment Funds, Real Estate Investment Trusts, Infrastructure Investment Trusts, etc.
+Investment in securitisation notes which represent the equity tranche of a securitisation transaction. Investments in senior and other subordinate tranches shall need to be reviewed for their compliance with SPPI criterion explained in clause 6.1(c) above.
+Bonds, debentures, etc. where the payment is linked to the movement in a particular index such as an equity index rather than an interest rate benchmark.
+Securities referred to in sub-clause 6.1(b), subject to the exception for equity referred to in sub-clause (i) above.
+6.4 HFT
+Banks shall create a separate sub-category called HFT within FVTPL. Banks shall comply with the requirements specified in
+Annex I
+for classifying investments under HFT.
+6.5 Investments in Subsidiaries, Associates and Joint Ventures
+All investments in subsidiaries, associates and joint ventures shall be held sui generis i.e., in a distinct category for such investments separate from the other investment categories (viz. HTM, AFS and FVTPL).
+Chapter – IV
+Initial recognition
+7. All investments shall be measured at fair value on initial recognition. Unless facts and circumstances suggest that the fair value is materially different from the acquisition cost, it shall be presumed that the acquisition cost is the fair value. Situations where the presumption shall be tested include where:
+The transaction is between related parties
+10
+.
+The transaction is taking place under duress where one party is forced to accept the price in the transaction.
+The transaction is done outside the principal market for that class of securities.
+Other situations, where in the opinion of the supervisor, facts and circumstances warrant testing of the presumption.
+8. In respect of government securities acquired through auction (including devolvement), switch operations and open market operations (OMO) conducted by the RBI, the price at which the security is allotted shall be the fair value for initial recognition purposes.
+9. Where the securities are quoted or the fair value can be determined based on market observable inputs (such as yield curve, credit spread, etc.) any Day 1 gain/ loss shall be recognised in the Profit and Loss Account, under Schedule 14: ‘Other Income’ within the subhead ‘Profit on revaluation of investments’ or ‘Loss on revaluation of investments’, as the case may be.
+10. Any Day 1 loss arising from Level 3 investments shall be recognised immediately.
+11. Any Day 1 gains arising from Level 3 investments shall be deferred. In the case of debt instruments, the Day 1 gain shall be amortized on a straight-line basis up to the maturity date (or earliest call date for perpetual instruments), while for unquoted equity instruments, the gain shall be set aside as a liability until the security is listed or derecognised.
+Chapter – V
+Subsequent Measurement
+12. HTM
+(a) Securities held in HTM shall be carried at cost and shall not be marked to market (MTM) after initial recognition. However, they shall be subject to income recognition, asset classification and provisioning norms as specified in
+Chapter X
+of these Directions.
+(b) Any discount or premium on the securities under HTM shall be amortised over the remaining life of the instrument. The amortised amount shall be reflected in the financial statements under item II ‘Income on Investments’ of Schedule 13: ‘Interest Earned’ with a contra in Schedule 8:’Investments’.
+13. AFS
+(a) The securities held in AFS shall be fair valued at least on a quarterly basis, if not more frequently. Any discount or premium on the acquisition of debt securities under AFS shall be amortised over the remaining life of the instrument. The amortised amount shall be reflected in the financial statements under item II ‘Income on Investments’ of Schedule 13: ‘Interest Earned’ with a contra in Schedule 8:’Investments’.
+(b) The valuation gains and losses across all performing investments, irrespective of classification (i.e., Government securities, Other approved securities, Bonds and Debentures, etc.), held under AFS shall be aggregated. The net appreciation or depreciation
+11
+shall be directly credited or debited to a reserve named AFS-Reserve without routing through the Profit & Loss Account.
+(c) Securities under AFS shall be subject to income recognition, asset classification and provisioning norms as specified in
+Chapter X
+of these Directions.
+(d) The AFS-Reserve shall be reckoned as Common Equity Tier (CET) 1 subject to clause 28 of these Directions. The unrealised gains transferred to AFS-Reserve shall not be available for any distribution such as dividend and coupon on Additional Tier 1.
+(e) Upon sale or maturity of a debt instrument in AFS category, the accumulated gain/ loss for that security in the AFS-Reserve shall be transferred from the AFS-Reserve and recognized in the Profit and Loss Account under item II Profit on sale of investments under Schedule 14-Other Income.
+(f) In the case of equity instruments designated under AFS at the time of initial recognition, any gain or loss on sale of such investments shall not be transferred from AFS-Reserve to the Profit and Loss Account. Instead, such gain or loss shall be transferred from AFS-Reserve to the Capital Reserve.
+14. FVTPL
+(a) The securities held in FVTPL shall be fair valued and the net gain or loss arising on such valuation shall be directly credited or debited to the Profit and Loss Account. Securities that are classified under the HFT sub-category within FVTPL shall be fair valued on a daily basis, whereas other securities in FVTPL shall be fair valued at least on a quarterly, if not on a more frequent basis.
+(b) Any discount or premium on the acquisition of debt
+12
+securities under FVTPL shall be amortised over the remaining life of the instrument. The amortised amount shall be reflected in the financial statements under item II ‘Income on Investments’ of Schedule 13: ‘Interest Earned’ with a contra in Schedule 8:’Investments’.
+(c) Securities under FVTPL shall be subject to income recognition, asset classification and provisioning norms as specified in
+Chapter X
+of these Directions.
+15. Investments in Subsidiaries, Associates and Joint Ventures
+(a) All investments (i.e., including debt and equity) in subsidiaries, associates and joint ventures shall be held at acquisition cost, subject to the requirements of
+Chapter IV
+above.
+(b) Any discount or premium on the acquisition of debt
+13
+securities of subsidiaries, associates and joint ventures shall be amortised over the remaining life of the instrument. The amortised amount shall be reflected in the financial statements under item II ‘Income on Investments’ of Schedule 13: ‘Interest Earned’.
+(c) In case where there is already an investment in an entity which is not a subsidiary, associate or joint venture and subsequently the investee entity becomes a subsidiary, associate or joint venture, the revised carrying value as at the date of such investee entity becoming a subsidiary, associate or joint venture shall be determined as under:
+Where the investment is held under HTM, the carrying value less any permanent impairment shall be the revised carrying value.
+Where an investment is held under AFS, the cumulative gains and losses previously recognised in AFS-Reserve shall be reversed and adjusted to the carrying value of the investment along with any permanent diminution in the value of the investment to arrive at the revised carrying value.
+Where an investment is held in FVTPL, the fair value as on the date of the investee becoming a subsidiary, associate or joint venture shall be taken as the carrying value.
+(d) When an investee ceases to be a subsidiary, associate or joint venture, the investments shall be reclassified to the respective category
+14
+as under:
+Where the investment is reclassified into HTM, there shall be no change in the carrying value and consequently no accounting adjustment per se shall be required.
+Where the investment is reclassified into AFS or FVTPL, the fair value on the date of such reclassification shall be the revised carrying value. The difference between the revised and previous carrying value shall be transferred to AFS-Reserve and Profit and Loss Account in case of reclassification into AFS and FVTPL respectively.
+(e) Any gain/ profit arising on the reclassification/ sale of an investment in a subsidiary, associate or joint venture shall be first recognised in the Profit and Loss Account and then shall be appropriated below the line from the Profit and Loss Account to the ‘Capital Reserve Account’. The amount so appropriated shall be net of taxes and the amount required to be transferred to Statutory Reserves.
+(f) Banks shall evaluate investments in subsidiaries, associates or joint ventures for impairment at least on a quarterly, if not more frequent basis. A non-exhaustive list of indicators of potential impairment is as under:
+The entity has defaulted in repayment of its debt obligations.
+The loan amount of the entity with any bank has been restructured.
+The credit rating of the entity has been downgraded to below investment grade.
+The entity has incurred losses for a continuous period of three years and the net worth has consequently reduced by 25 per cent or more.
+There is a significant decline in the fair value vis-à-vis the carrying value for a period of six months or more. For the purpose of this sub-clause the term significant shall be interpreted as at least 20 per cent. Banks, with the approval of their Boards, may apply even more conservative thresholds.
+Any or all of the entity’s outstanding securities have been delisted, are in the process of being delisted, or are under threat of being delisted from an exchange due to noncompliance with the listing requirements or for financial reasons.
+In the case of a new entity/ project where the originally projected date of achieving the breakeven point has been extended i.e., the entity/ project has not achieved break-even within the gestation period as originally envisaged.
+(g) When the need to determine whether impairment has occurred arises in respect of a subsidiary, associate or joint venture, the bank shall obtain a valuation of the investment by an independent registered
+15
+valuer and make provision for the impairment, if any. Such diminution shall be provided by recognising it as an expense in the Profit and Loss Account. It may be subsequently reversed through Profit and Loss Account, if there is a reversal of the diminution.
+CHAPTER – VI
+Reclassifications between categories
+16. After transition
+16
+to this framework, banks shall not reclassify investments between categories (viz. HTM, AFS and FVTPL
+17
+) without the approval of their Board of Directors. Further, reclassification shall also require the prior approval
+18
+of the Department of Supervision (DoS), RBI.
+17. The reclassification should be applied prospectively from reclassification date.
+18. When a bank reclassifies investments from one category to another category, the accounting treatment shall be as given in the table below. The bank shall disclose the details of such reclassification including the reclassification adjustments in the notes to the financial statements:
+Sl. No.
+From
+To
+Accounting Treatment
+a
+HTM
+AFS
+The fair value measured at the reclassification date shall be the revised carrying value.
+Any gain or loss arising from a difference between the revised carrying value and the previous carrying value shall be recognised in AFS-Reserve.
+b
+FVTPL
+The fair value measured at the reclassification date shall be the revised carrying value.
+Any gain or loss arising from a difference between the revised carrying value and previous carrying value of the investments shall be recognised in the Profit and Loss Account under Item (III): ‘Profit on revaluation of investments’ under Schedule 14: ‘Other Income’.
+c
+AFS
+HTM
+The investments are reclassified at its fair value at the reclassification date. However, the cumulative gain/loss previously recognised in the AFS-Reserve shall be withdrawn therefrom and adjusted against the fair value of the investments at the reclassification date to arrive at the revised carrying value. Thus, the revised carrying value shall be the same as if the bank had classified the investment in HTM ab initio itself.
+d
+FVTPL
+The investments shall continue to be measured at fair value.
+The cumulative gain or loss previously recognised in AFS-Reserve shall be withdrawn therefrom and recognised in the Profit and Loss Account, under Item (III): ‘Profit on revaluation of investments’ under Schedule 14: ’Other Income’.
+e
+FVTPL
+HTM
+The carrying amount representing the fair value at the reclassification date remains unchanged.
+f
+AFS
+Chapter – VII
+Sale of investments from HTM
+19. Any sales from HTM shall be as per a Board approved policy. Details of sales out of HTM shall be disclosed in the notes to accounts of the financial statements in the format specified in
+Annex II
+.
+20. In any financial year, the carrying value
+19
+of investments sold out of HTM shall not exceed five per cent of the opening carrying value of the HTM portfolio. Any sale beyond this threshold shall require prior approval from DoS, RBI.
+21. Sales of securities in the situations given below shall be excluded from the regulatory limit of five per cent prescribed in clause 20:
+Sales to the RBI under liquidity management operations of RBI such as the Open Market Operations (OMO) and Government Securities Acquisition Programme (GSAP).
+Repurchase of Government Securities by Government of India from banks under buyback or switch operations.
+Repurchase of State Development Loans by respective state governments under buyback or switch operations.
+Repurchase, buyback or exercise of call option of non-SLR securities by the issuer.
+Sale of non-SLR securities following a downgrade in credit ratings or default by the counterparty.
+Sale of securities as part of a resolution plan under the Prudential Framework for Resolution of Stressed Assets
+20
+for a borrower facing financial distress.
+Additional sale of securities explicitly permitted by the Reserve Bank of India.
+22. Any profit or loss on the sale of investments in HTM shall be recognised in the Profit and Loss Account under Item II of Schedule 14:’Other Income’. The profit on sale of an investments in HTM shall be appropriated below the line from the Profit and Loss Account to the ‘Capital Reserve Account’. The amount so appropriated shall be net of taxes and the amount required to be transferred to Statutory Reserve.
+CHAPTER – VIII
+Fair Value of Investments
+23. The fair value for the purpose of initial recognition and periodical valuation of investments as required by these Directions shall be determined as per the valuation norms laid down in this Chapter.
+24. Quoted Securities
+The fair value for the quoted securities shall be the prices declared by the Financial Benchmarks India Private Ltd. (FBIL) in accordance with
+RBI circular FMRD.DIRD.7/14.03.025/2017-18 dated March 31, 2018
+, as amended from time to time. For securities whose prices are not published by FBIL, the fair value of the quoted security shall be based upon quoted price as available from the trades/ quotes on recognised stock exchanges, reporting platforms or trading platforms authorized by RBI/SEBI or prices declared by the Fixed Income Money Market and Derivatives Association of India (FIMMDA).
+25. Unquoted SLR Securities
+(a) Treasury Bills shall be valued at carrying cost.
+(b) Unquoted Central / State Government securities shall be valued on the basis of the prices/ YTM rates published by the FBIL.
+(c) Other approved securities shall be valued applying the YTM method by marking them up by 25 basis points above the yields of the Central Government Securities of equivalent maturity put out by FBIL.
+26. Unquoted Non-SLR Securities
+26.1 Unquoted debentures and bonds
+(a) Unquoted debentures and bonds shall be valued by applying the appropriate mark-up over the YTM rates for Central Government Securities as put out by FBIL/FIMMDA, subject to the following:
+(i) The mark-up applied shall be determined based on the ratings assigned to the debentures/ bonds by the credit rating agencies and shall be subject to the following:
+The mark up shall be at least 50 basis points above the rate applicable to a Central Government security of equivalent maturity for rated debentures/ bonds.
+The mark-up for unrated debentures or bonds shall not be less than the mark-up applicable to rated debentures or bonds of equivalent maturity.
+Provided that
+the mark-up for the unrated debentures or bonds should appropriately reflect the credit risk borne by the bank.
+Where the debentures/ bonds are quoted and there have been transactions within 15 days prior to the valuation date, the value adopted shall not be higher than the rate at which the transaction has been recorded on the Exchanges/trading platforms/reporting platforms authorized by RBI/ SEBI.
+(b) Ujjwal DISCOM Assurance Yojana (UDAY) bonds and bonds issued by state distribution companies (DISCOMs) under financial restructuring plan.
+UDAY bonds shall be valued on basis of prices/yields published by FBIL.
+State government guaranteed bonds issued and serviced by DISCOM (i.e., when bonds’ liabilities are with the DISCOMs) shall be valued by applying a mark-up of 75 basis points on YTM rates for Central Government Securities of equivalent maturities as published by FBIL.
+Other bonds issued and serviced by DISCOMs shall be valued by applying a mark-up of 100 basis points on YTM rates for Central Government Securities of equivalent maturities as published by FBIL.
+Bonds issued and serviced by the State Government (i.e., when bonds’ liabilities are with the State Government) shall be valued by applying a mark-up of 50 basis points on YTM rates for Central Government Securities of equivalent maturities as published by FBIL.
+(c) Special securities
+21
+, which are directly issued by Government of India, and which do not carry SLR status shall be valued at a spread of 25 basis points above the corresponding yield on Central Government securities of equivalent maturity.
+(d) Zero coupon bonds (ZCBs): In the absence of market value, the ZCBs shall be marked to market with reference to the present value
+22
+of the ZCB. The fair value so determined should be compared with the carrying cost to determine valuation gain or loss.
+26.2 Preference Shares
+(a) When a preference share has been traded on exchange within 15 days prior to the valuation date, the value shall not be higher than the price at which the share was traded.
+(b) The valuation of unquoted preference shares shall be done on YTM basis with appropriate mark-up over the YTM rates for Central Government Securities of equivalent maturity put out by the FBIL subject to such preference share not being valued above its redemption value. The mark-up shall be graded according to the ratings assigned to the preference shares by the rating agencies and shall be subject to the following:
+The mark-up cannot be negative i.e., the YTM rate shall not be lower than the coupon rate/ YTM for a Central Government India security of equivalent maturity.
+The rate used for the YTM for unrated preference shares shall not be less than the rate applicable to rated preference shares of equivalent maturity and shall appropriately reflect the credit risk borne by the bank.
+Where the investment in preference shares is made as part of a resolution, the mark-up shall not be lower than 1.5 percentage points.
+(c) Where preference dividends/coupons are in arrears, no credit should be taken for accrued dividends/coupons and the value determined as above on YTM basis should be discounted further by at least 15 per cent if arrears are for one year, 25 per cent if arrears are for two years, so on and so forth (i.e., with 10 percent increments). The overarching principle should be that valuation shall be based on conservative assessment of cash flows with appropriate discount rates to reflect the risk. Statutory Auditors should also specifically examine as to whether the valuations adequately reflect the risk associated with such instruments. The depreciation/provision requirement arrived at in respect of non-­performing shares where dividends are in arrears shall not be allowed to be set-off against appreciation on other performing preference shares.
+(d) Investments in preference shares as part of the project finance shall be valued at par for a period of two years after commencement of production or five years after subscription whichever is earlier.
+26.3 Equity Shares
+Equity shares for which current quotations are not available i.e., which are classified as illiquid or which are not listed on a recognised exchange, the fair value for the purposes of these directions shall be the break-up value
+23
+(without considering ‘revaluation reserves’, if any) which is to be ascertained from the company’s latest audited balance sheet. The date as on which the latest balance sheet is drawn up shall not precede the date of valuation by more than 18 months. In case the latest audited balance sheet is not available or is more than 18 months old, the shares shall be valued at ₹ 1 per company.
+26.4 Mutual Funds Units (MF Units)
+(a) Investment in un-quoted MF units shall be valued on the basis of the latest re-purchase price declared by the MF in respect of each scheme.
+(b) In case of funds with a lock-in period or any other Mutual Fund, where repurchase price/ market quote is not available, units shall be valued at Net Asset Value (NAV) of the scheme. If NAV is not available, these shall be valued at cost, till the end of the lock-in period.
+26.5 Commercial Paper
+Commercial paper shall be valued at the carrying cost.
+26.6 Investment in security receipts (SRs) and other instruments issued by an Asset Reconstruction Company (ARC)
+In respect of investments in SRs and other instruments issued by ARCs, banks shall comply with the requirements of
+Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021
+, as amended from time to time.
+26.7 Investment in Alternative Investment Funds (AIFs)
+(a) Quoted equity shares, bonds, units of AIFs in the bank's portfolio shall be valued mutatis mutandis as per instructions given in these directions for quoted securities.
+(b) Unquoted instruments of AIFs shall be valued as under:
+Units: The valuation shall be done at the NAV as disclosed by the AIF. Where an AIF fails to carry out and disclose the valuation of its investments by an independent valuer as per the frequency mandated by SEBI (Alternative Investment Fund) Regulations, 2012, the value of its units shall be treated as ₹1 for the purpose of these Directions. In case AIF is not registered under SEBI (Alternative Investment Fund) Regulations, 2012 and the latest disclosed valuation of its investments by an independent valuer precedes the date of valuation by more than 18 months, the value of its units shall be treated as ₹1 for the purpose of these Directions.
+Other instruments: The valuation of unquoted equity and other instruments issued by an AIF shall be as per the methodology specified for such instruments above.
+26.8 Conversion of principal and unpaid interest into debt, preference or equity shares
+In cases of conversion of principal and unpaid interest into debt, preference or equity instruments banks shall follow the requirements of the Prudential Framework for Resolution of Stressed Assets issued vide
+circular DBR.No.BP.BC.45/21.04.048/2018-19 dated June 7, 2019
+, as amended from time to time.
+27. To increase consistency and comparability in fair value measurements and related disclosures, the bank shall categorize its investment portfolio into three fair value hierarchies viz. Level 1, Level 2, and Level 3 as defined in Clause 4 above. The details of the investment portfolio shall be disclosed in their notes to accounts of their financial statements as per templates specified in
+Annex II
+. These disclosure requirements shall become effective from the audited financial statements for the financial year ending March 31, 2026, onwards.
+28. Banks shall not pay dividends out of net unrealised gains recognised in the Profit and Loss Account arising on fair valuation of Level 3 investments on their Balance Sheet. Further, such net unrealised gains on Level 3 investments recognised in the Profit and Loss Account or in the AFS-Reserve shall be deducted from CET 1 capital.
+Provided that this clause shall not apply to investments that meet the SPPI criteria and are required to be risk weighted at 50 per cent or lower for credit risk as per applicable regulatory instructions on capital adequacy
+24
+.
+CHAPTER – IX
+Operational guidelines
+29. Government Securities
+Banks shall adhere to the following directions with respect to operations in Government Securities:
+(a) Transactions through Subsidiary General Ledger (SGL) account: Transactions in Government Securities shall be undertaken through SGL or Constituent Subsidiary General Ledger (CSGL) accounts, under the Delivery Versus Payment (DvP) System, in accordance with the guidelines issued by RBI from time to time.
+(b) Short sale in Central Government dated Securities: Banks may undertake short sale transactions in Government securities provided it is in accordance with the requirements of
+Short Sale (Reserve Bank) Directions, 2018
+as amended from time to time.
+(c) Government Securities on When Issued Basis: Transaction undertaken on ‘When Issued’ basis in Government securities, shall be subject to the guidelines specified in the
+When Issued Transactions (Reserve Bank) Directions, 2018
+as amended from time to time.
+(d) Value Free Transfer (VFT) of Government Securities: Value free transfer in Government securities, shall be subject to the guidelines specified in
+IDMD.CDD.No.S930/11.22.003/2021-22 dated October 5, 2021
+, as amended from time to time.
+(e) Separate Trading of Registered Interest and Principal Securities (STRIPS): Stripping / reconstitution of Government Securities shall be subject to the conditions laid down in guidelines
+IDMD.DOD.07/11.01.09/2009-10 dated March 25, 2010
+, as amended from time to time provided that accounting and valuation of such transactions shall be done as per instructions contained in
+Annex III
+.
+(f) Repo in Government securities: Repo transactions (including reverse repo transactions) entered by the banks shall be subject to the guidelines specified in
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+, as amended from time to time.
+(g) Retailing of Government securities: Banks shall, at their option, undertake retailing of Government securities provided that:
+Such retailing shall be on outright basis and there shall be no restriction on the period between sale and purchase.
+The retailing of Government Securities shall be on the basis of ongoing market rates/ yield curve emerging out of secondary market transactions.
+Banks shall adhere to guidelines issued by RBI on retailing of Government securities, from time to time.
+(h) Settlement of transactions in Government securities: The settlement of transactions in Government securities shall be governed by the instructions issued vide Master Direction - Operational Guidelines for Primary Dealers issued vide
+circular IDMD.PDRD.01/03.64.00/2016-17 dated July 1, 2016
+, as amended from time to time. All the transactions put through by a bank, either repo transaction or on outright basis shall be reflected on the same day in its investment account and, accordingly, for SLR purpose wherever applicable. Banks shall follow ‘Settlement Date’ accounting for recording purchase and sale of transactions in Government Securities.
+30. Non-SLR securities
+Banks shall adhere to the following instructions while investing in non-SLR securities
+25
+in the primary as well as the secondary market:
+(a) Investment in listed non-SLR securities: Banks shall invest only in listed non-SLR debt securities of companies which comply with the requirements of the SEBI, except to the extent permitted in sub-clause (b) below.
+(b) Investments in unlisted non-SLR securities: With respect to unlisted securities banks shall comply with the following requirements:
+(i) Before investing in an unlisted security, banks shall ensure that the issuer complies with the disclosure requirements as prescribed by SEBI for similar listed securities.
+(ii) The carrying amount of a bank’s investment in unlisted non-SLR securities shall not exceed 10 per cent of the carrying amount (i.e., value carried to the Balance Sheet) of its total investment in non-SLR securities as at the end (i.e., 31st March) of the previous financial year. Banks shall compute the denominator i.e., 'total non-SLR investments', by summing investments classified under the following four categories in Schedule 8 to the balance sheet, viz.,
+Shares
+Bonds and debentures
+Subsidiaries/joint ventures; and
+Others.
+(iii) Investment in unlisted securities that are proposed to be listed within one year shall be exempt from the ceiling of 10 per cent specified in sub-clause b(ii) above. However, in case such security is not listed within the proposed timeframe the same shall be reckoned for the 10 per cent limit specified for unlisted non-SLR securities. Further, in case such inclusion leads to a breach of 10 per cent ceiling, the bank shall not make any further investments in non-SLR securities (both primary and secondary market) till such time bank’s investment in unlisted non-SLR securities comes within the limit of 10 per cent.
+(iv) Banks are permitted to make investment in unlisted non-SLR securities of an additional 10 per cent over and above the limit of 10 per cent specified in sub-clause b(ii) above, provided that such investment is in securitisation notes issued for infrastructure projects, and bonds/debentures issued by ARCs.
+(v) Investment in units of mutual fund schemes, AIFs, etc. having an exposure to unlisted securities of 10 per cent or more of the corpus of the fund, shall be treated as unlisted for the purpose of compliance with the ceiling of 10 per cent prescribed in sub-clause b(ii) above.
+Explanation:
+Exposure of the mutual fund to Treasury Bills, Tri-Party Repo, Repo/ Reverse Repo and Bank Fixed Deposits shall not be considered as unlisted while determining the exposure of the mutual fund to unlisted securities.
+(vi) Investment in the following securities shall not be reckoned as ‘unlisted non-SLR securities’ for computing compliance with the prudential limits prescribed in these Directions:
+Securities directly issued by the Central and State Governments, which are not reckoned for SLR purposes and those directly issued by foreign sovereigns.
+Equity shares
+Units of equity oriented mutual fund schemes, viz. those schemes where any part of the corpus can be invested in equity.
+Equity/debt instruments/Units issued by Category I and Category II AIFs.
+Commercial Paper
+Certificates of Deposit
+Non-Convertible Debentures (NCDs) with original or initial maturity up to one year issued by corporates (including NBFCs).
+Securities acquired by way of conversion of debt, subject to periodic reporting to the Reserve Bank in the DSB return on Asset Quality.
+Security Receipts issued by ARCs registered with the Reserve Bank.
+Asset Backed Securities (ABS) and Mortgage Backed Securities (MBS), rated at or above the minimum investment grade.
+Provided that there shall be close monitoring of exposures to ABS on a bank specific basis based on monthly reports submitted to the DoS, RBI under the Supervisory Reporting System.
+Unlisted convertible debentures
+26
+.
+(c) Investment in non-SLR with original maturity less than one year prohibited: Banks shall not invest in non-SLR securities of original maturity of less than one-year.
+Provided that this restriction shall not apply to investments in Commercial Paper, Certificates of Deposits and NCDs with original or initial maturity up to one year issued by corporates (including NBFCs), which are covered under RBI guidelines.
+(d) Investment in Zero and Low Coupon Bonds: Banks shall not invest in long-term Zero-Coupon Bonds (ZCBs) or Low Coupon Bonds issued by corporates (including those issued by NBFCs).
+Provided that the above prohibition shall not apply in cases where the issuer builds up a sinking fund for all accrued interest and keeps it invested in liquid investments/ securities such as Government securities.
+(e) Investment in Unrated Bonds: Banks shall not invest in unrated non-SLR securities.
+Provided that the banks shall have the option to invest in unrated bonds of companies engaged in infrastructure activities, within the ceiling of 10 per cent for unlisted non-SLR securities as referred in sub-clause b(ii) above.
+Note: This provision is not applicable on investments in securities referred in sub-clause (b)(vi) above which are not required to be rated mandatorily as per the extant regulations.
+(f) Investment in liquid/ short term debt schemes: The total investment by banks in liquid/short term debt schemes (by whatever name called) of mutual funds with weighted average maturity
+27
+of portfolio of not more than one year, shall be subject to a prudential cap of 10 per cent of their net worth as at the end of the previous financial year.
+(g) Repo in Corporate Bonds: Banks shall undertake repo in corporate bonds as per guidelines given in
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+, as amended from time to time.
+(h) OTC Transactions in Certificates of Deposit (CDs), Commercial Papers (CPs) and Non-Convertible Debentures (original maturity up to one year): Investment in CDs and CPs shall be as per guidelines given in
+Reserve Bank of India (Certificate of Deposit) Directions, 2021
+and
+Reserve Bank Commercial Paper Directions, 2017
+respectively, as amended from time to time. Investment in NCDs (original maturity up to one year) shall be as per guidelines given in section IV of
+Master Direction on Money Market Instruments: Call/Notice Money Market, Commercial Paper, Certificates of Deposit and Non-Convertible Debentures (original maturity up to one year)
+, 2016
+28
+, as amended from time to time.
+(i) Investments in Long Term Bonds issued by banks for Financing of Infrastructure and Affordable Housing: Investment by banks in the long-term bonds issued by other banks for financing of infrastructure and affordable housing, shall be subject to following conditions:
+The investment in a specific issue of such bonds shall be capped at lower of the two per cent of the investing bank’s Tier 1 Capital or five per cent of the issue size.
+The aggregate holding in such bonds shall be capped at 10 per cent of investing bank’s total non-SLR investments.
+Not more than 20 per cent of the primary issue size of such bond issuance shall be allotted to banks.
+Banks shall not hold their own bonds.
+(j) Trading and Settlement in Corporate Bonds and Securitisation Notes:
+Trades in listed corporate bonds shall be executed as per guidelines issued by SEBI.
+All the secondary market Over-the-Counter (OTC) trades in corporate bonds and securitisation notes shall be reported within 15 minutes of the trade on any of the recognised stock exchanges.
+All OTC trades in corporate bonds and securitisation notes shall be cleared and settled through a SEBI recognised clearing corporation.
+(k) Other requirements
+Banks shall undertake the due diligence in respect of investments in non-SLR securities.
+Banks shall actively monitor the credit risks associated with their non-SLR investments under HTM category and take suitable risk mitigation measures. The Reserve Bank will also monitor risks associated with non-SLR securities under HTM category and take appropriate measures, if necessary.
+Banks shall ensure that credit facilities for activities/purposes precluded by statute or regulations are not financed by way of funds raised through non-SLR securities.
+Except for unrated securities permitted in this Direction, banks shall make investment in the debt securities which have a current and valid credit rating which is not less than investment grade.
+In case of private placement of debt, the investing bank shall file a copy of all offer documents with an RBI registered Credit Information Company (CIC). Investing banks shall ensure that any default relating to interest/ instalment in respect of any privately placed debt is reported to all RBI registered CICs along with a copy of the offer document.
+Banks shall disclose the details of the issuer composition of non-SLR investments and the non-performing non-SLR investments in the ‘Notes to Accounts’ of the balance sheet, as per Annexure III C.3(d) of the
+Reserve Bank of India (Financial Statements - Presentation and Disclosures) Directions, 2021
+.
+(l) Role of Boards
+(i) It shall be the responsibility of the Board to ensure proper risk management systems are in place for capturing and analyzing the risks in respect of non-SLR investments.
+(ii) The Board shall review the following aspects of non-SLR investments at least at quarterly intervals:
+Total business (investment and divestment) during the reporting period.
+Compliance with the prudential limits prescribed by the Board for non-SLR investments.
+Compliance with the prudential guidelines issued by the Reserve Bank on non-SLR investments.
+Rating migration of the issuers/ issues held in the bank’s books and consequent diminution in the portfolio quality.
+Adequacy of the systems and procedures prescribed under bank’s investment policy for investment in privately placed instruments.
+Extent of non-performing investments in the non-SLR category.
+31. Internal Control System
+(a) Banks shall establish a robust internal control mechanism in respect of investment transactions and shall, at a minimum, ensure the following:
+There shall be a clear functional separation of (a) trading, (b) settlement, (c) monitoring and control, and (d) accounting.
+There shall be a functional separation of trading and back-office functions relating to banks' own Investment Accounts, Portfolio Management Scheme (PMS) Clients’ Accounts and other Constituents (including brokers') accounts. The PMS rendered by the bank shall comply with
+Reserve Bank of India (Financial Services provided by Banks) Directions, 2016
+, as amended from time to time.
+Deal slips shall be prepared for every transaction entered into. Deal slips shall be serially numbered, properly accounted for and shall contain all the details of the deal such as name of the counterparty, details of security, category (i.e. HTM, AFS, FVTPL or HFT) in which it shall be held, amount, price, contract date and time, confirmation mode to the counterparty, whether it is a direct deal or through a broker, and if through a broker, name of the broker, etc. Back -office shall monitor timely receipt of confirmation from the counterparty.
+Banks shall put in place suitable internal controls such as periodic reconciliation of the investment book at least on a quarterly basis, procedure for recording, verification and passing vouchers, contract verification, valuation of portfolios, monitoring of prudential limits and risk limits and monitoring of cancelled deals. Processes and controls for compliance with legal and regulatory requirements of reporting deals on various platforms shall be put in place.
+Banks shall adhere to the FIMMDA code of conduct while executing trades in Government securities on NDS-OM and in the OTC market.
+Transactions in Government securities, money market instruments (call/notice/term money, CPs, CDs, repo in corporate bonds and Government securities, NCDs of original maturity less than one year etc.), derivatives and other instruments shall be undertaken as per instructions issued by the RBI from time to time.
+Balances of Government securities as per bank's books shall be reconciled at least at monthly intervals with the balances in the books of the Public Debt Office (PDO). If the number of transactions so warrant, the reconciliation should be undertaken more frequently. This reconciliation shall be periodically checked by the internal audit department of the bank.
+The bank shall clearly demonstrate that transaction entered by them on behalf of PMS Clients' Accounts (including brokers) does not belong to their own Investment Account and the bank is acting only in its fiduciary/ agency capacity.
+It should be ensured that the stockbrokers as directors on the Boards of banks or in any other capacity, do not involve themselves in any manner with the Investment Committee or in the decisions about making investments in shares, etc., or advances against shares.
+There shall be a system for reporting transactions to top management, on a weekly basis which shall include the details of transactions in securities, details of SGL bouncing and a review of investment transactions undertaken during the period.
+The banks’ management should ensure that there is adequate internal control and audit procedures for proper compliance of instructions in regard to investment portfolio. The banks shall institute regular system of monitoring compliance with the prudential and other guidelines issued by the Reserve Bank. The banks shall get compliance in key areas certified by their statutory auditors and furnish such audit certificate to DoS, RBI.
+32. Engagement of brokers
+The engagement of the services of the brokers shall be on the terms and conditions specified hereunder:
+(i) Banks engaging services of brokers shall ensure that the role of the broker shall be restricted to that of bringing the two parties to the deal together.
+Note: The broker is not obliged to disclose the identity of the counterparty before the conclusion of the deal. However, the same shall be disclosed after it is decided to enter into the transaction to facilitate direct settlement between counterparties.
+(ii) The brokerage on the deal payable to the broker, if any (if the deal was put through with the help of a broker), shall be clearly indicated on the notes/ memorandum put up to the top management seeking approval for putting through the transaction.
+(iii) The bank shall also ensure that the broker note contains the exact time of the deal and the name of the counterparty. Their back-office shall ensure that the deal time on the broker note and the deal ticket is the same. The bank shall also ensure that their concurrent auditors audit this aspect.
+(iv) The brokers shall not have any role in the process of settlement of deals. The settlement of the deal shall take directly between the counterparties viz., both fund settlement and delivery of security.
+(v) Banks shall not transact in Government securities in physical form with any broker.
+(vi) Banks shall not engage the services of any broker in inter-bank transactions.
+Provided that
+the above prohibition shall not apply to banks undertaking securities transactions among themselves through members of a recognised stock exchange.
+(vii) Banks shall, subject to approval of their top management, prepare a panel of approved brokers which shall be reviewed annually or more often if so warranted. The criteria for empanelment of brokers shall include, at the minimum, prior experience, creditworthiness, market reputation and details of regulatory action, if any. A record of broker-wise details of deals put through and brokerage paid, shall be maintained.
+(viii) Prudential Limits
+29
+A limit of five per cent of total transactions through brokers (both purchase and sales) entered into by a bank during a financial year under review shall be treated as the aggregate upper contract limit for each of the approved brokers.
+Provided that the limit shall be observed with reference to the year under review and the bank shall keep in view the expected turnover of the current year which shall be based on turnover of the previous year and anticipated rise or fall in the volume of business in the current year.
+Provided that direct deals with the brokers as purchasers or sellers and transactions conducted with brokers on behalf of the clients shall be included in the total transactions of the year to arrive at the limit of transactions to be done through an individual broker and shall exclude transactions entered into directly with counterparties i.e., where brokers are not involved, to arrive at total transactions.
+Provided further that if for any reason it becomes necessary to exceed the aggregate limit for any broker, banks shall record in writing the specific reasons for such breach and the Board shall be informed, post-facto.
+Provided further that the business put through any individual broker or brokers in excess of the limit, with the reasons for the same, shall be covered in the half-yearly review to the Board of Directors/Local Advisory Board.
+Provided further that the limit of five per cent shall not apply to banks dealings through Primary Dealers.
+(ix) These instructions shall mutatis-mutandis apply to subsidiaries and mutual funds of the banks.
+33. Audit, review and reporting
+(a) Banks shall ensure that there are adequate internal control and audit procedures in place in regard to the conduct of the investment portfolio. Banks shall adhere to the following instructions in regard to audit, review and reporting of investment transactions:
+A half-yearly review (as of March 31 and September 30) of the investment portfolio shall be undertaken by the banks which shall be placed before their Boards within two months, i.e., by end-May and end-November. The review shall cover, at the minimum, operational aspects of investment portfolio, amendments made to the Investment Policy, major irregularities observed in all audit reports, position of compliance thereto and certify adherence to laid down internal Investment Policy and procedures and the Reserve Bank guidelines.
+A copy of the half yearly review reports put up to the Bank's Board for March 31 and September 30 shall be forwarded to the DoS, RBI by June 15th and December 15th respectively.
+Treasury transactions shall be separately subjected to concurrent audit by internal auditors and the results of their audit shall be placed before the Chief Executive of the bank once every month.
+The business done through brokers shall be audited by the same concurrent auditors who audit the treasury operations of the bank and the audit report shall be included in their monthly report to the Chief Executive of the bank.
+The internal audit shall cover the transactions in securities on an ongoing basis, monitor compliance with the laid down management policies/prescribed procedures and report deficiencies directly to the management.
+The Audit Committee of the Board (ACB) shall review in every meeting the total fund based and non-fund based capital market exposure of bank, ensure that the guidelines issued by the Reserve Bank are complied with and adequate risk management and internal control systems are in place. With respect to investment in shares, the surveillance and monitoring shall be done by the ACB.
+The ACB shall keep the Board informed about the overall exposure to capital market, the compliance with the Reserve Bank and Board guidelines, adequacy of risk management and internal control systems.
+Banks shall institute a regular system of monitoring compliance with the prudential and other guidelines issued by the Reserve Bank. The banks shall get compliance in key areas certified by their statutory auditors and furnish such audit certificate to DoS, RBI.
+(b) Reconciliation of holdings of Government Securities – Audit Certificate.
+Banks shall furnish a ‘Statement of the Reconciliation of Bank's Investments (held in own Investment account, as also under PMS), as at the end of every accounting year duly certified by the bank's auditors. The statement shall be submitted to DoS, RBI, within one month from the close of the financial year.
+Banks in the letters of appointment issued to their external auditors, shall suitably include the aforementioned requirement of reconciliation.
+The format for the statement and the instructions for compiling the same are given in
+Annex IV
+.
+CHAPTER – X
+Income Recognition, Asset Classification and Provisioning
+34. Income recognition
+(a) Banks shall recognize income on accrual basis for the following investments:
+Government Securities, bonds and debentures of corporate bodies, where interest rates on these securities are predetermined and provided interest is serviced regularly and is not in arrears.
+Shares of corporate bodies provided dividend has been declared by the corporate body in its Annual General Meeting and the owner's right to receive payment is established.
+(b) Income from units of mutual funds, alternative investment funds and other such pooled/ collective investment funds shall be recognized on cash basis.
+(c) Subject to sub-clause (a) above, dividend income on equity investments held under AFS shall be recognised in the Profit and Loss Account.
+35. Accounting for Broken Period Interest
+Banks shall not capitalize the broken period interest paid to the seller as part of cost and shall treat it as an item of expenditure under Profit & Loss Account in respect of investments in securities
+30
+.
+36. Non-Performing Investments (NPI)
+(a) The criterion used to classify an asset as Non-Performing Asset (NPA) as per the extant Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) pertaining to Advances
+31
+shall be used to classify an investment as a Non-Performing Investment (NPI). Similarly, an NPI shall only be upgraded to standard when it meets the criteria specified in the IRACP norms.
+In respect of debt instruments such as bonds or debentures, an NPI is one where interest/ instalment (including maturity proceeds) is due and remains unpaid for more than 90 days.
+Sub-clause (a)(i) above shall apply, mutatis mutandis to preference shares where the fixed dividend is not paid. If the dividend on preference shares (cumulative or non-cumulative) is not declared / paid in any year it shall be treated as due / unpaid in arrears and the date of balance sheet of the issuer for that particular year shall be reckoned as due date for the purpose of asset classification. Such an investment can be upgraded subsequently on payment of dividend for the current period in the case of non-cumulative preference shares and payment of dividend in arrears and for current period in the case of cumulative preferences shares.
+In the case of equity shares, in the event the investment in the shares of any company is valued at ₹1 per company on account of the non-availability of the latest balance sheet in accordance with clause 26.3 of these Directions, those equity shares shall be reckoned as NPI. The NPI can be upgraded subsequently on receipt of audited balance sheet.
+If any credit facility availed by the issuer is NPA in the books of the bank, investment in any of the securities, including preference shares issued by the same issuer shall also be treated as NPI and vice versa. However, this stipulation shall not be applicable in cases where only the preference shares are classified as NPI, and in such cases, the investment in any of the other performing securities issued by the same issuer need not be classified as NPI and any performing credit facilities granted to that borrower need not be treated as NPA.
+In case of conversion of principal and / or interest into equity, debentures, bonds, etc., such instruments shall be classified in the same asset classification category as the loan and provision shall be made as per the norms. In case of post conversion, if the classification is standard or is subsequently upgraded to standard as per IRACP norms, the investment shall be categorised in HTM, AFS or FVTPL (including HFT) as per the requirements of
+Chapter III
+above.
+(b) Once an investment is classified as an NPI, it should be segregated from rest of the portfolio and not considered for netting valuation gains and losses.
+(c) Banks shall not accrue any income on NPIs. Income shall be recognised only on realisation of the same. Further, any MTM appreciation in the security shall be ignored.
+(d) Irrespective of the category (i.e., HTM, AFS or FVTPL (including HFT)) in which the investment has been placed, the expense for the provision for impairment shall always be recognised in the Profit and Loss Account. The provision to be held on an NPI shall be the higher of the following amounts:
+The amount of provision required as per IRACP norms computed on the carrying value of the investment immediately before it was classified as NPI; and
+The depreciation on the investment with reference to its carrying value on the date of classification as NPI.
+In view of the above, no additional provision for depreciation shall be required over and above the provision for NPI as specified above.
+Provided that in the case of an investment categorised under AFS against which there are cumulative gains in AFS-Reserve, the provision required may be created by charging the same to AFS-Reserve to the extent of such available gains.
+Provided further that in the case of an investment categorised under AFS against which there are cumulative losses in AFS-Reserve, the cumulative losses shall be transferred from AFS-Reserve to the Profit and Loss Account.
+(e) Upon an account being upgraded as per IRACP norms, any provision previously recognised shall be reversed and symmetric recognition of MTM gains and losses can resume.
+(f) Investments in Government securities and Government guaranteed investment.
+Investments in Central Government Securities and State Government Securities shall not be classified as NPI.
+Investments in Central Government guaranteed securities shall also not be classified as NPI until the Central Government has repudiated the guarantee when invoked. In respect of such securities held in AFS and FVTPL, banks shall continue to recognise MTM gains/losses in AFS-Reserve and Profit and Loss respectively. However, any income shall be recognised only on realisation basis.
+Investment in State Government guaranteed securities, shall attract prudential norms for identification of NPI and provisioning, when interest/ instalment of principal (including maturity proceeds) or any other amount due to the bank remains unpaid for more than 90 days.
+37. Investment Fluctuation Reserve
+(a) Banks shall create an Investment Fluctuation Reserve (IFR
+32
+) until the amount of IFR is at least two per cent of the AFS and FVTPL (including HFT) portfolio, on a continuing basis, by transferring to the IFR an amount not less than the lower of the following:
+Net profit on sale of investments during the year.
+Net profit for the year, less mandatory appropriations.
+(b) IFR shall be eligible for inclusion in Tier II capital. The cap applicable on recognition of General Provisions and Loss Reserves as Tier II capital is not applicable on IFR.
+(c) Banks shall, be permitted to draw down the balance available in IFR in excess of two percent of its AFS and FVTPL (including HFT) portfolio, for credit to the balance of profit/loss as disclosed in the profit and loss account at the end of any accounting year.
+(d) In the event the balance in the IFR is less than two percent of the AFS and FVTPL (including HFT) investment portfolio, a draw down shall be permitted subject to the following conditions:
+The drawn down amount is used only for meeting the minimum CET 1/Tier 1 capital requirements by way of appropriation to free reserves or reducing the balance of loss.
+The amount drawn down shall not be more than the extent the MTM provisions/losses
+33
+during the aforesaid year exceed the net profit on sale of investments during that year.
+CHAPTER – XI
+Small Finance Banks and Payments Banks
+38. Small Finance Banks (SFBs) and Payments Banks (PBs)
+The provisions of these Directions shall be applicable to SFBs (PBs) in so far as these provisions are not in conflict with the
+Guidelines for Licensing of Small Finance Banks (Payments Banks) in the Private Sector
+and
+Operating Guidelines for Small Finance Banks (Payments Banks) dated October 6, 2016
+, as amended from time to time.
+Chapter – XII
+Derivatives
+39. Banks shall comply with the requirements of the Guidance Note on Accounting for Derivative Contracts (revised 2021) issued by the Institute of Chartered Accountants of India except for paragraph 63
+34
+of the said Guidance Note. Banks shall present their derivative asset and liabilities as separate line items under Schedule 11:’Other Assets’ and Schedule 5:’Other Liabilities’ respectively. Banks may make adjustments to the carrying value of their investments in compliance with the hedge accounting requirements of the said Guidance Note.
+40. Banks shall categorize their derivatives portfolio into three fair value hierarchies viz. Level 1, Level 2, and Level 3 as defined in Clause 4 above and disclose the same in the notes to accounts of their financial statements as per template specified in
+Annex II
+.
+41. Banks shall not pay dividends out of net unrealised gains recognised in the Profit and Loss Account arising on fair valuation of Level 3 derivatives assets and liabilities on their Balance Sheet. Further, such net unrealised gains on Level 3 derivatives recognised in the Profit and Loss Account shall be deducted from CET 1 capital.
+Chapter – XIII
+Penal Consequences for non-compliance
+42. Implementation of these Directions shall be reviewed under the supervisory process and any non-compliance in this regard shall be dealt with appropriately.
+Chapter – XIV
+Transition and Repeal Provisions
+43. At the time of transition to these directions (i.e., on April 1, 2024), banks shall re-classify their investment portfolio as at March 31, 2024, as per the directions laid down in
+Chapter III
+of these Directions. The balance in provision for depreciation, as at March 31, 2024, shall be reversed into the Revenue/ General Reserve. The balances in Investment Reserve Account (IRA), if any, as of March 31, 2024, shall be transferred to the Revenue/ General Reserve if the bank meets the minimum regulatory requirements of IFR. If the bank does not meet the minimum IFR requirements, the balances in IRA shall be transferred to IFR. The specific treatment for transition from the previous to the revised framework is given in the table below:
+Previous Framework
+Revised Framework
+Opening Accounting Adjustments on April 1, 2024
+HTM
+35
+HTM
+The acquisition cost adjusted for any premium/ discount amortised between date of acquisition and March 31, 2024, shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in any Revenue/General Reserve.
+AFS
+The fair value as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in AFS-Reserve.
+FVTPL
+The fair value as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in any Revenue/ General Reserves.
+AFS
+HTM
+The acquisition cost adjusted for any premium/ discount amortised between date of acquisition and March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in Revenue/ General Reserve.
+AFS
+The fair value of the investment as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in AFS- Reserve.
+FVTPL
+The fair value as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in any Revenue/ General Reserves.
+HFT
+HTM
+The acquisition cost adjusted for any premium/ discount amortised between date of acquisition and March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in Revenue/ General Reserve.
+AFS
+The fair value as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in AFS- Reserve.
+FVTPL
+The fair value as at March 31, 2024 shall be the revised carrying value.
+The difference between the revised carrying value and the previous carrying value shall be adjusted in any Revenue/ General Reserves.
+44. Banks shall make suitable disclosures of the transitional adjustment made in their notes to the financial statements for the financial year ending March 31, 2025.
+45. With the implementation of these Directions,
+Reserve Bank of India (Classification, Valuation and Operation of Investment Portfolio of Commercial Banks) Directions, 2021 dated August 25, 2021
+, shall stand repealed.
+46. All the repealed circulars are deemed to have been in force prior to the coming into effect of these Directions.
+1
+Includes banks incorporated outside India licensed to operate in India (‘Foreign Banks’), Local Area Banks (LABs), Small Finance Banks (SFBs), Payments Banks (PBs)
+2
+The test for active market is done with reference to the instrument rather than the entire market. For instance, if a particular listed equity share is not traded/ thinly traded on an exchange where other shares are actively traded, this particular share cannot be said to have an active market.
+3
+Refer Master Circular – Basel III Capital Regulations issued vide
+circular DOR.CAP.REC.15/21.06.201/2023-24 dated May 12, 2023
+, as amended from time to time.
+4
+Banks may refer to AS 27 for further guidance on the term ‘joint venture’.
+5
+In the context of a security issued outside India, references to SEBI in the Master Direction shall be construed as a reference to the overseas securities market regulator of the jurisdiction in which that security was issued.
+6
+Refer to Clause 6.5 for investments in subsidiaries, associates and joint ventures.
+7
+“Principal” for the purposes of determining eligibility under the SPPI criteria is fair value of security at initial recognition, and it may change over the life of the security based on repayment or amortisation of premium/ discount.
+8
+Where a preference share is redeemable, carries a non-discretionary dividend, with a yield to maturity close to the market rate of borrowing for that issuer and provides for compensation on deferred payment of dividend, it could be evaluated for meeting the SPPI criteria.
+9
+Equity shares do not meet the SPPI criterion and cannot be included in HTM. However, as provided in Clause 6.2(a), they may be included under AFS subject to certain conditions.
+10
+Excludes transactions on NDS-OM.
+11
+Adjusted for the effect of applicable taxes, if any.
+12
+Debt securities in this context means securities that meet the SPPI criterion.
+13
+Debt securities in this context means securities that meet the SPPI criterion.
+14
+HTM, AFS or FVTPL as per classification requirements specified in
+Chapter III
+.
+15
+In terms of section 247 of the Companies Act, 2013.
+16
+Refer Clause 43
+Chapter XIV
+for reclassification permitted on transition.
+17
+Including reclassification from/ to HFT
+18
+Permission for reclassification shall be given in rare circumstances, where the bank can demonstrate to the satisfaction of the supervisors that such reclassification is necessitated by a significant change in the way in which it proposes to manage a group of investments. For instance, a bank may decide to shut down a particular line of business and accordingly investments originally acquired with the intent to hold till maturity are now held for sale.
+19
+In order to ensure that the base for comparison is similar, the book value of securities sold is to be considered rather than the sale consideration.
+20
+Issued vide
+circular DBR.No.BP.BC.45/21.04.048/2018-19 dated June 7, 2019
+, as amended from time to time.
+21
+Special securities at present comprise Oil Bonds; Fertilizer Bonds; bonds issued to the State Bank of India (during the 2008 rights issue), Industrial Finance Corporation of India Ltd., and Food Corporation of India.
+22
+The present value of the ZCBs may be calculated by discounting the face value using the ‘Zero Coupon Yield Curve’, with appropriate mark up as per the zero-coupon spreads put out by FIMMDA/FBIL.
+23
+Fair valuation based on break-up value shall be considered as Level 3.
+24
+Refer Master Circular – Basel III Capital Regulations issued vide
+circular DOR.CAP.REC.15/21.06.201/2023-24 dated May 12, 2023
+, as amended from time to time.
+25
+Non-SLR securities for this chapter means securities issued by corporates, banks, financial institutions and State and Central Government sponsored institutions, Special Purpose Vehicles (SPVs) etc., and shall also include capital gains bonds and bonds eligible for priority sector status.
+26
+Investments in these instruments shall be treated as “Capital Market Exposure”.
+27
+The weighted average maturity shall be calculated as average of the remaining period of maturity of securities weighted by the sums invested.
+28
+FMRD. Master Direction No.2/2016-17 dated July 7, 2016
+29
+The limit shall cover both the business initiated by a bank with a broker and the business offered/brought to the bank by a broker.
+30
+This accounting treatment does not consider the tax implications and banks shall comply with the requirements of Income Tax Authorities as prescribed.
+31
+Refer Master Circular - Prudential norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances issued vide
+circular DOR.STR.REC.3/21.04.048/2023-24 dated April 1, 2023
+, as amended from time to time.
+32
+Banks were advised to create an IFR with effect from the year 2018-19, to reach a level of two per cent of their AFS and HFT portfolio within a period of three years where feasible, to build up adequate reserves to protect against increase in yields in future.
+33
+On AFS and FVTPL (including HFT).
+34
+Paragraph 63 of the ICAI’s Guidance note provides that “Derivative assets and liabilities recognized on the balance sheet at fair value should be presented as current and non-current…” based on the certain considerations. However, the balance sheets of banks prepared as per the Third Schedule to the BR Act do not provide for any distinction between current and non-current.
+35
+In respect of special securities received from the Government of India towards bank recapitalisation, the acquisition cost shall be as determined at initial recognition in terms of
+Chapter IV
+of this Directions.

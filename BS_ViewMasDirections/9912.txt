@@ -1,0 +1,953 @@
+(673 kb)
+Master Circular – Prudential Guidelines for the Primary Dealers in Government Securities Market
+RBI/2015-16/105
+DNBR (PD) CC.No.063/03.10.119/2015-16
+July 01, 2015
+(as amended up to August 07, 2015)
+To
+All Primary Dealers,
+Dear Sir / Madam,
+Master Circular – Prudential Guidelines for the Primary Dealers in Government Securities Market
+As you are aware, in order to have all current instructions on the subject at one place, the Reserve Bank of India issues updated circulars / notifications. The instructions related to prudential norms contained in various circulars issued by RBI updated till the date as indicated above are reproduced below. The
+updated circular
+has also been placed on the RBI web-site (
+https://www.rbi.org.in
+).
+Yours faithfully
+(C.D.Srinivasan)
+Chief General Manager
+Table of Contents
+1
+Primary Dealer System
+2
+Sources of funds
+3
+Application of funds
+4
+Norms for Ready Forward transactions
+5
+Portfolio Management Services by PDs
+6
+Guidelines on Interest Rate Derivatives
+7
+Guidelines on Credit Default Swaps
+8
+Investment in non-G-Sec
+9
+Exposure Norms
+10
+Prudential Systems/Controls
+11
+Trading of G-Sec on Stock Exchanges
+12
+Business through brokers
+13
+Guidelines on declaration of dividend
+14
+Guidelines on Corporate Governance
+15
+Prevention of Money Laundering Act, 2002 – Obligations of NBFCs
+16
+Violation/Circumvention of Instructions
+17
+Disclosure of Penal Actions
+Annexes
+I
+Reporting format for PDs declaring dividend
+II
+List of circulars consolidated
+III
+List of circulars referred
+1. Primary Dealer System
+1. Introduction
+In 1995, the Reserve Bank of India (RBI) introduced the system of Primary Dealers (PDs) in the Government Securities (G-Sec) Market. The objectives of the PD system are to strengthen the infrastructure in G-Sec market, development of underwriting and market making capabilities for G-Sec outside the RBI, improve secondary market trading system and to make PDs an effective conduit for open market operations (OMO). As on June 30, 2015, there are seven standalone PDs and thirteen banks authorized to undertake PD business departmentally. PD license and other operational related issues will be guided by Master Circular issued by IDMD in this regard.
+1.2 Regulation by RBI
+Any change in the shareholding pattern / capital structure of a PD needs prior approval of RBI. PDs should report any other material changes such as business profile, organization, etc. affecting the conditions of licensing as PD to RBI immediately.
+2. Sources of funds
+2.1 PDs are permitted to borrow funds from call/notice/term money market, repo (including CBLO) market, Inter-Corporate Deposits, FCNR (B) loans, Commercial Paper and Non-Convertible Debentures. They are also eligible for liquidity support from RBI.
+2.2 Call/Notice Market
+2.2.1 PDs are allowed to borrow from call/notice market, on an average in a ‘reporting fortnight’, up to 225 percent of their NOF as at the end March of the preceding financial year. They may lend up to 25 percent of their NOF in call/notice money market, on an average in a ‘reporting fortnight’. These limits on borrowing and lending are subject to periodic review by RBI. PDs are governed by the provisions of the RBI
+Master Circular FMRD.DIRD. 01/14.01.001/2015-16 dated July 1, 2015
+on “Call/Notice Money Market Operations”,
+2.3 Inter-Corporate Deposits (ICDs)
+2.3.1 ICDs may be raised by PDs as per their funding needs. The PDs should put in place a Board approved policy for ICDs which takes due consideration of the associated risks and should include the following general principles:
+The ICD borrowings should in no case exceed 150 per cent of the NOF as at the end of March of the preceding financial year.
+ICDs accepted by PD should be for a minimum period of one week.
+ICDs accepted from parent/promoter/group companies or any other related party should be on ‘arm’s length basis’ and disclosed in financial statements as "related party transactions".
+Funds raised through ICDs are subject to ALM discipline.
+2.3.2 PDs are
+prohibited
+from placing funds in ICD market.
+2.4 FCNR (B) loans / External Commercial Borrowing
+2.4.1 PDs may avail of FCNR(B) loans up to a maximum of 25% of the NOF as at the end of March of the preceding financial year and subject to the foreign exchange risk of such loans being hedged at all times at least to the extent of 50 per cent of the exposure.
+PDs are governed by the provisions of the
+RBI Circular IDMC.PDRS.No. 3820 /03.64.00/2002-03 dated March 24, 2003
+, as amended from time to time, on “Availment of FCNR (B) Loans by Primary Dealers (PDs)”.
+2.4.2 PDs are
+not
+permitted to raise funds through External Commercial Borrowings.
+2.5 Non-Convertible Debentures (NCDs):
+PDs may issue NCDs of maturity up to one year, without the requirement of having a working capital limit with a bank. They are governed by the directions, “Issuance of Non-Convertible Debentures (Reserve Bank) Directions, 2010”, issued vide
+circular RBI/2009-10/505-IDMD.DOD.10/11.01.01(A)/2009-10 dated June 23, 2010
+, as amended from time to time.
+2.6 Commercial Paper
+Issuance of Commercial Paper by PDs will be guided by RBI
+Master Circular FMRD.DIRD.02/14.01.002/2015-16 dated July 1, 2015
+on “Guidelines for Issue of Commercial Paper”.
+2.7 Liquidity Support from RBI
+In addition to access to the RBI's LAF, standalone PDs are also provided with liquidity support by the RBI against eligible G-Sec including SDLs.
+3. Application of Funds
+3.1 PDs are permitted to undertake a set of core and non-core activities. PDs which undertake only the core activities are required to maintain a minimum NOF of Rs.150 crore. PDs which also undertake non-core activities are required to maintain a minimum NOF of Rs.250 crore.
+3.2 The investment in G-Sec should have predominance over the non-core activities in terms of investment pattern. Standalone PDs are required to ensure predominance by maintaining at least 50 per cent of their total financial investments (both long term and short term) in G-Sec at any point of time. Investment in G-Sec will include the PD’s Own Stock, Stock with RBI under Liquidity Support / Intra-day Liquidity (IDL)/ LAF, Stock with market for repo borrowings and G-Sec pledged with the CCIL.
+3.3 Further, a PD’s investment in G-Sec (including T-Bills and CMBs) and Corporate Bond (to the extent of 50% of NOF) on a daily basis should be at least equal to its net call/notice/repo (including CBLO) borrowing plus net RBI borrowing (through LAF/ Intra-Day Liquidity/ Liquidity Support) plus the minimum prescribed NOF.
+3.4 The following are permitted under core activities:
+Dealing and underwriting in G-Sec,
+Dealing in Interest Rate Derivatives,
+Providing broking services in G-Sec,
+Dealing and underwriting in Corporate / PSU / FI bonds/ debentures,
+Lending in Call/ Notice/ Term/ Repo/ CBLO market,
+Investment in Commercial Papers (CPs),
+Investment in Certificates of Deposit (CDs),
+Investment in Security Receipts issued by Securitization Companies/ Reconstruction Companies, Asset Backed Securities (ABS), Mortgage Backed Securities (MBS),
+Investment in debt mutual funds where entire corpus is invested in debt securities,
+Investments in NCDs, and
+Dealing in Credit Default Swaps.
+3.5 PDs are permitted to undertake the following non-core activities:
+3.5.1 Activities which are expected to consume capital such as:
+Investment / trading in equity and equity derivatives market,
+Investment in units of equity oriented mutual funds, and
+Underwriting public issues of equity.
+3.5.2 Services which may not require significant capital outlay such as:
+Professional Clearing Services,
+Portfolio Management Services,
+Issue Management Services,
+Merger & Acquisition Advisory Services,
+Private Equity Management Services,
+Project Appraisal Services,
+Loan Syndication Services,
+Debt restructuring services ,
+Consultancy Services,
+Distribution of mutual fund units, and
+Distribution of insurance products.
+3.5.3 For distribution of insurance products, the PDs may comply with the guidelines contained in the
+circular DNBS(PD)CC.No.35/10.24/2003-04 dated February 10, 2004
+issued by the Department of Non-Banking Regulation, RBI as amended from time to time.
+5.5.4 For distribution of Mutual Fund products, the PD may comply with the guidelines contained in the
+circular DNBR. (PD).CC.No. 033 /03.10.001/2014-15 dated April 30, 2015
+, as amended from time to time, issued by Department of Non-Banking Regulation, RBI.
+3.5.4 Specific approvals of other regulators, if needed, should be obtained for undertaking the activities detailed above.
+3.5.5 PDs are
+not
+allowed to undertake broking in equity, trading / broking in commodities, gold and foreign exchange.
+3.5.6 The exposure to non-core activities shall be subject to the guidelines on regulatory and prudential norms for diversification of activities by standalone PDs.
+3.5.7 PDs choosing to diversify into non-core business segments should define internally the scope of diversification, organization structure and reporting levels for those segments. They should clearly lay down exposure and risk limits for those segments in their Board approved investment policy.
+3.6 The exposure to core and non-core activities of PD shall be subject to risk capital allocation (credit risk & market risk) as prescribed in RBI
+Master Circular on “Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers”
+dated July 1, 2015.
+4. Norms for Ready Forward transactions
+PDs are permitted to participate in ready forward (Repo) market both as lenders and borrowers. The terms and conditions subject to which repo contracts (including reverse repo contracts) may be entered into by PDs will be as under:
+Repos may be undertaken in a) dated securities, T-Bills and CMBs issued by the Government of India (GoI); and b) dated securities issued by the State Governments.
+Further, PDs are permitted to undertake repo in Corporate Bonds and Commercial Papers, Certificates of Deposit and Non-Convertible Debentures of less than one year of original maturity. PDs shall adhere to the directions contained in ‘Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015’, as amended from time to time, in this regards.
+Repos may be entered into only with scheduled commercial banks, Urban Cooperative banks, other PDs, NBFCs, mutual funds, housing finance companies, insurance companies and any listed company, provided they hold either an SGL account with RBI or a Gilt account with a custodian.
+Listed companies can enter into repo transactions subject to the following conditions:
+The minimum period for Reverse Repo (lending of funds) by listed companies is seven days. However, listed companies can borrow funds through repo for shorter periods including overnight;
+Where the listed company is a ‘buyer’ of securities in the first leg of the repo contract (i.e. lender of funds), the custodian through which the repo transaction is settled should block these securities in the gilt account and ensure that these securities are not further sold or re-repoed during the repo period but are held for delivery under the second leg; and
+The counterparty to the listed companies for repo/reverse repo transactions should be either a bank or a PD maintaining SGL Account with the RBI.
+A PD may not enter into a repo with its own constituent or facilitate a repo between two of its constituents.
+PDs should report all repos in dated securities, T-Bills and CMBs transacted by them (both on own account and on the constituent's account) on the CCIL platform. All repos shall be settled through the SGL Account/CSGL Account maintained with the RBI, Mumbai, with the CCIL acting as the central counter party (CCP).
+PD should report all OTC repo trades in corporate debt securities, CPs, CDs and non-convertible debentures (NCDs) of original maturity less than one year on F-TRAC - the reporting platform of Clearcorp Dealing Systems (India) Ltd. (CDSIL). For Counterparty confirmation in this regard PD may adhere to
+circular FMRD.FMID.01 /14.01.02/2014-15 dated December 19, 2014
+, as amended from time to time.
+The purchase/sale price of the securities in the first leg of a repo should be in alignment with the market rates prevalent on the date of transaction.
+Repo transactions, which are settled under the guaranteed settlement mechanism of CCIL, may be rolled over, provided the security prices and repo interest rate are renegotiated on roll over.
+The Master Repo Agreement (MRA), as finalised by FIMMDA, is not mandatory for repo transactions in G-Sec settling through a CCP. However, MRA is mandatory for repo transactions in corporate debt securities, which is settled bilaterally without involving a CCP.
+PDs shall adhere to the guidelines for accounting of Repo / Reverse Repo transactions issued vide
+circular RBI/2009-10/356 IDMD.No.4135/11.08.43/2009-10 dated March 23, 2010
+, as amended from time to time.
+PDs are permitted to enter in re-repo transaction of government securities, including state development loans and Treasury Bills, acquired under reverse repo, subject to the guidelines contained in
+FMRD.DIRD.5/14.03.002/2014-15 dated February 05, 2015
+, as amended from time to time.
+5. Portfolio Management Services by PDs
+5.1 PDs may offer Portfolio Management Services (PMS) to their clients under the SEBI scheme of PMS, subject to the following conditions:
+Before undertaking PMS, the PD must have obtained the Certificate of Registration as Portfolio Manager from the SEBI and also a specific approval from the RBI.
+PMS cannot be offered to any RBI regulated entity. However, advisory services can be provided to them with suitable disclaimers.
+Where applicable, the clients regulated by any other authority should obtain clearance from the regulatory or any other authority before entering into any PMS arrangement with the PD.
+PDs are required to comply with the SEBI (Portfolio Managers) Regulations, 1993 and any amendments issued thereto or instructions issued there under.
+5.2 In addition, PDs should adhere to the under noted conditions:
+A clear mandate from the PMS clients should be obtained and the same may be strictly followed. In particular, there should be full understanding on risk disclosures, loss potential and the costs (fees and commissions) involved.
+PMS should be entirely at the customer's risk without guaranteeing, either directly or indirectly, any return.
+Funds/securities, each time they are placed with the PD for portfolio management, should not be accepted for a period less than one year.
+Portfolio funds should not be deployed for lending in call/notice/term money/Bills rediscounting markets, badla financing or lending to/placement with corporate/non-corporate bodies.
+Client-wise accounts/records of funds accepted for management and investments made there against should be maintained and the clients should be entitled to get statements of account at frequent intervals.
+Investments and funds belonging to PMS clients should be kept segregated and distinct from each other and from those of the PD. As far as possible, all client transactions should be executed in the market and not off-set internally, either with the PD or any other client. All transactions between the PD and any PMS client or between two PMS clients should be strictly at market rates.
+6.
+Guidelines on Interest Rate Derivatives
+6.1 PDs shall adhere to the guidelines applicable to interest rate derivatives as laid down in
+circular DBOD.No.BP.BC.86 /21.04.157 /2006-07 dated April 20, 2007
+and Interest Rate Futures (Reserve Bank) Directions, 2013 dated December 05, 2013, as amended from time to time,. Standalone PDs are allowed to deal in Interest Rate Futures (IRFs) for both hedging and trading on own account and not on client’s account, as given in the
+circular IDMD.PDRD.No.1056/03.64.00/2009-10 dated September 1, 2009
+and as amended from time to time.
+6.2 As per RBI
+circular IDMD/11.08.15/809/2007-08 dated August 23, 2007
+, PDs are required to report all their IRS/FRA trades, except with clients, on the CCIL reporting platform within 30 minutes from the deal time. Further, as per
+circular FMD.MSRG.No.94/02.05.002/2013-14 dated December 4, 2013
+, all transaction with clients in INR FRA/IRS shall be reported before 12 noon of the following business day.
+7.
+Guidelines on Credit Default Swaps
+PDs shall adhere to the guidelines laid down in
+circular IDMD.PCD.No.10 /14.03.04/2012-13 dated January 07, 2013
+as applicable to Credit Default Swaps. PDs intending to act as market makers in CDS shall fulfill the following criteria:
+Minimum Net Owned Funds of Rs 500 crore
+Minimum CRAR of 15 percent
+Have robust risk management systems in place to deal with various risks
+The regulatory approval to PDs to act as market makers in the CDS market would be accorded by the Chief General Manager, Internal Debt Management Department, Central office, RBI, Mumbai on a case by case basis, on application for the same.
+8
+Guidelines on investments in non-G-Sec
+8.1 These guidelines cover PD’s investments in non-G-Sec (including capital gain bonds, bonds eligible for priority sector status, bonds issued by Central or State public sector undertakings with or without Government guarantees and bonds issued by banks and financial companies) generally issued by corporate, banks, FIs and State and Central Government sponsored institutions, Special Purpose Vehicles (SPVs), etc. These guidelines will, however, not be applicable to (i) units of equity oriented mutual fund schemes where any part of the corpus can be invested in equity, (ii) venture capital funds, (iii) CPs, (iv) CDs, and (v) investments in equity shares. The guidelines will apply to investments both in the primary and secondary market.
+8.2 Standalone PDs are permitted to become members of SEBI approved Stock Exchanges for the purpose of undertaking proprietary transactions in corporate bonds. While doing so, standalone PDs should comply with all the regulatory norms laid down by SEBI and all the eligibility criteria/rules of stock exchanges.
+8.3 As per RBI
+circular IDMD.PCD.No. 2223/14.03.05/2012-13 dated January 30, 2013
+, Standalone PDs are allowed a sub-limit of 50% of NOF for investment in corporate bonds within the overall permitted average fortnightly limit of 225 per cent of NOF as at the end of March of the preceding financial year for call /notice money market borrowing.
+8.4 PDs should not invest in non-G-Sec of original maturity of less than one year, other than NCDs, CPs and CDs, which are covered under RBI guidelines. PDs are permitted to invest in NCDs with original or initial maturity up to one year issued by the corporates (including NBFCs). However, their investments in such unlisted NCDs should not exceed 10 per cent of the size of their non-G-Sec portfolio on an on-going basis. While investing in such instruments, PDs should be guided by the extant prudential guidelines in force and instructions given in the
+circulars IDMD.DOD.10/11.01.01(A)/2009-10 dated June 23, 2010
+,
+IDMD.PCD.No.24/ 14.03.03/2010-11 dated December 6, 2010
+and
+IDMD.PCD.08/14.03.03/2011-12 dated August 23, 2011
+as amended from time to time.
+8.5 PDs should undertake usual due diligence in respect of investments in non-G-Sec.
+8.6 PDs must not invest in unrated non-G-Sec.
+8.7 PDs will abide by the requirements stipulated by the SEBI in respect of corporate debt securities. Accordingly, while making fresh investments in non-Government debt securities, PDs should ensure that such investments are made only in listed debt securities, except to the extent indicated in paragraph 10.7.6.
+8.8 PD's investment in unlisted non-G-Sec should not exceed 10% of the size of their non-G-Sec portfolio on an on-going basis. The ceiling of 10% will be inclusive of investment in Security Receipts issued by Securitization Companies/Reconstruction Companies and also the investment in ABS and MBS. The unlisted non-Government debt securities in which PDs may invest up to the limits specified above, should comply with the disclosure requirements as prescribed by the SEBI for listed companies.
+8.9 As per SEBI guidelines, all trades with the exception of the spot transactions, in a listed debt security, shall be executed only on the trading platform of a stock exchange. As per guideline issued vide
+IDMD.PCD. 10/14.03.06/ 2013-14 dated February 24, 2014
+, OTC trades in Corporate Bonds and Securitized Debt Instruments are to be reported within 15 minutes of the trade on any of the stock exchanges (NSE, BSE and MCX-SX). Further as per guidelines
+IDMD.No.1764/11.08.38/2009-10 dated October 16, 2009
+and
+IDMD.PCD.11/14.03.06/2012-13 dated June 26, 2013
+, these trades may be cleared and settled through any of the clearing corporations (NSCCL, ICCL and MCX-SX CCL).
+8.10 PDs should ensure that their investment policies are formulated after taking into account all the relevant issues specified in these guidelines on investment in non-G-Sec. They should put in place proper risk management systems for capturing and analysing the risk in respect of non-G-Sec before making investments and taking remedial measures in time. PDs should also put in place appropriate systems to ensure that investment in privately placed instruments is made in accordance with the systems and procedures prescribed under respective PD’s investment policy.
+8.11 Boards of the PDs should review the following aspects of investment in non-G-Sec at least at quarterly intervals:
+Total business (investment and divestment) during the reporting period.
+Compliance with the prudential limits as well as prudential guidelines prescribed by the Board for investment in non-G-Sec.
+Rating migration of the issuers/ issues held in the PD’s books.
+8.12 In order to help creation of a central database on private placement of debt, a copy of all offer documents should be filed with the Credit Information Bureau (India) Ltd. (CIBIL) by the PDs. Further, any default relating to interest/ installment in respect of any privately placed debt should also be reported to CIBIL by the investing PDs along with a copy of the offer document.
+9
+Exposure Norms
+9.1 The extant exposure norms for standalone PDs are as follows:
+The exposure ceiling limits would be 25 percent of latest audited Net Owned Funds (NOF) in case of a single borrower/counterparty and 40 percent of NOF in case of a group borrower/counterparty except for investments in AAA rated corporate bonds wherein exposure ceiling limits would be 50 percent of latest audited Net Owned Funds (NOF) in case of a single borrower/counterparty and 65 percent of NOF in case of a group borrower/counterparty.
+The ceilings on single /group exposure limit would not be applicable where principal and interest are fully guaranteed by the Government of India.
+PDs should include credit risk exposures to all other categories of non-Government securities including investments in mutual funds, commercial papers, certificate of deposits, positions in OTC derivatives not settled through Qualifying CCP (QCCP) etc. to compute extent of credit exposure to adhere to the prescribed prudential limits.
+Clearing exposure to a QCCP will be kept outside of the exposure ceiling of 25 per cent of its NOF applicable to a single counter party.
+Clearing exposure to QCCP would include trade exposure and default fund exposure as defined in the guidelines on capital requirements for PDs’ exposure to central counterparties issued vide
+Circular IDMD.PCD.11/14.03.05/2013-14 dated March 27, 2014
+.
+Other permissible exposures to QCCPs such as investments in the capital of CCP etc. will continue to be within the existing exposure ceiling of 25 per cent of NOF to a single borrower/counterparty. However, all exposures of a PD to a non-QCCP should be within the exposure ceiling of 25 per cent.
+Presently, there are four CCPs viz. Clearing Corporation of India Ltd. (CCIL), National Securities Clearing Corporation Ltd. (NSCCL), Indian Clearing Corporation Ltd. (ICCL), and MCX-SX Clearing Corporation Ltd. (MCX-SXCCL) that are subjected, on an ongoing basis, to rules and regulations that are consistent with CPSS-IOSCO Principles for Financial Market Infrastructures. While the CCIL has been granted the status of a QCCP by the Reserve Bank, the other three CCPs have been granted the status of QCCP by SEBI.
+It may also be mentioned that the status of a CCP as a QCCP may change in future, if a regulator/supervisor of the CCP withdraws the status of QCCP. After withdrawal of the status of a QCCP, the CCP will be considered a non-QCCP and exposure norms as applicable to non-QCCPs would be applicable.
+9.2 PDs should calculate exposure for various items as per
+Master Circular on “Capital Adequacy Standards and Risk Management Guidelines for Standalone Primary Dealers”
+dated July 1, 2015.
+10.
+Prudential Systems/Controls
+10.1 PDs shall have an efficient internal control system for fair conduct of business, settlement of trades and maintenance of accounts.
+PDs should maintain adequate physical infrastructure and skilled manpower for efficient participation in primary issues, trading in the secondary market, and to advise and educate investors.
+In respect of transactions in G-Sec, a PD should have a separate desk and maintain separate accounts in respect of its own position and customer transactions and subject them to external audit also.
+All the transactions put through by the PD either on outright basis or ready forward basis should be reflected on the same day in its books and records i.e. preparation of deal slip, contract note, confirmation of the counter party, recording of the transaction in the purchase/sale registers, etc.
+For every transaction entered into, the trading desk should generate a deal slip which should contain data relating to nature of the deal, name of the counterparty, whether it is a direct deal or through a broker, and if through a broker, name of the broker, details of security, amount, price, contract date and time and settlement date. The deal slips should be serially numbered and controlled separately to ensure that each deal slip has been properly accounted for. Once the deal is concluded, the deal slip should be immediately passed on to the back office for recording and processing. For each deal, there must be a system of issue of confirmation to the counter-party. In view of the reporting and confirmation of OTC trades on Negotiated Dealing System (NDS) and guaranteed settlement through CCIL, the requirement to exchange written confirmation for OTC trades in G-Sec has been dispensed with. With respect to transactions matched on the NDS-OM module, separate counterparty confirmation of deals is not required.
+Once a deal has been concluded, there should not be any substitution of the counter-party by the broker. Similarly, the security sold/purchased in a deal should not be substituted by another security under any circumstances.
+On the basis of vouchers passed by the back office (which should be done after verification of actual contract notes received from the broker/counter-party and confirmation of the deal by the counter party), the books of account should be independently prepared.
+PDs should periodically review securities transactions and report to the top management, the details of transactions in securities, details of funds/securities delivery failures, even in cases where shortages have been met by CCIL.
+All security transactions (including transactions on account of clients) should be subjected to concurrent audit by internal/external auditors to the extent of 100% and the results of the audit should be placed before the CEO/MD of the PD once every month. The compliance should be monitored on ongoing basis and reported directly to the top management. The concurrent audit should also cover the business done through brokers and include the findings in their report.
+The scope of concurrent audit should include monitoring of broker wise limits, prudential limits laid down by RBI, accuracy and timely submission of all regulatory returns, reconciliation of SGL/CSGL balances with PDO statements, reconciliation of current account balance with DAD statements, settlements through CCIL, stipulations with respect to short sale deals, when-issued transactions, constituent deals, money market deals, adherence to accounting standards, verification of deal slips, reasons for cancellation of deals, if any, transactions with related parties on ‘arm’s length basis’, provisions related to HTM portfolio etc.
+PDs should have a system of internal audit focused on monitoring the efficacy and adequacy of internal control systems.
+With the approval of their Board, PDs should put in place appropriate exposure limits / dealing limits, for each of their counterparties which cover all dealings with such counter parties including money market, repos and outright securities transactions. These limits should be reviewed periodically on the basis of financial statements, market reports, ratings, etc. and exposures taken only on a fully collateralized basis where there is slippage in the rating/assessment of any counterparty.
+With the approval of their Boards, PDs should put in place reasonable leverage ratio for their operations, which should take into account all outside borrowings as a multiplier of their NOF.
+There should be a clear functional separation of (i) trading (front office); (ii) risk management (mid office); and (iii) settlement, accounting and reconciliation (back office). Similarly, there should be a separation of transactions relating to own account and constituents’ accounts.
+PDs should have an Audit Committee of the Board (ACB) which should meet at least at quarterly intervals. The ACB should peruse the findings of the various audits and should ensure efficacy and adequacy of the audit function.
+10.2 Accounting Standards for securities transactions
+All securities in trading portfolio should be marked to market, at appropriate intervals.
+Costs such as brokerage fees, commission or taxes incurred at the time of acquisition of securities, are of revenue/deferred nature. The broken period interest received/paid also gets adjusted at the time of coupon payment. PDs can adopt either the IAS or GAAP accounting standards, but have to ensure that the method should be true and fair and should not result in overstating the profits or assets value. It should be followed consistently and be generally acceptable especially to the tax authorities.
+Broken period interest paid to seller as part of cost on acquisition of Government and other securities should not be capitalized but treated as an item of expenditure under Profit and Loss Account. The PDs may maintain separate adjustment accounts for the broken period interest.
+The valuation of the securities portfolio should be independent of the dealing and operations functions and should be done by obtaining the prices declared by FIMMDA periodically.
+PDs should publish their audited annual results in leading financial dailies and on their website in the format prescribed (Annex VIII). The following minimum information should also be included by way of notes on accounts to the Balance Sheet:
+Net borrowings in call (average and peak during the period),
+Basis of valuation,
+Leverage Ratio (average and peak),
+CRAR (quarterly figures), and
+Details of the issuer composition of non-G-Sec investments.
+PDs may also furnish more information by way of additional disclosures.
+11.
+Trading of G-Sec on Stock Exchanges
+11.1 With a view to encouraging wider participation of all classes of investors, including retail, in G-Sec, trading in G-Sec through a nationwide, anonymous, order driven screen based trading system on stock exchanges, in the same manner in which trading takes place in equities, has been permitted. Accordingly, trading of dated G-Sec in demat form is allowed on automated order driven system of the National Stock Exchange (NSE) of India, the Bombay Stock Exchange Ltd., Mumbai (BSE), the Over the Counter Exchange of India (OTCEI) and the MCX Stock Exchange. This trading facility is in addition to the reporting/trading facility in the NDS. Being a parallel system, the trades concluded on the exchanges will be cleared by their respective clearing corporations/clearing houses.
+11.2 PDs are expected to play an active role in providing liquidity to the G-Sec market and promote retailing. They may, therefore, make full use of the facility to distribute G-Sec to all categories of investors through the process of placing and picking-up orders on the exchanges. PDs may open demat accounts with a Depository Participant (DP) of NSDL/CDSL in addition to their accounts with RBI. Value free transfer of securities between SGL/CSGL and own demat account is enabled by PDO-Mumbai subject to guidelines issued by Department of Government and Bank Accounts (DGBA), RBI.
+11.3 Guidelines
+PDs should take specific approval from their Board to enable them to trade in the Stock Exchanges.
+PDs may undertake transactions only on the basis of giving and taking delivery of securities.
+Brokers/trading members shall not be involved in the settlement process. All trades have to be settled either directly with clearing corporation/clearing house (in case they are clearing members) or else through clearing member custodians.
+The trades done through any single broker will also be subject to the current regulations on transactions done through brokers.
+A standardized settlement on T+1 basis of all outright secondary market transactions in G-Sec has been adopted to provide the participants more processing time for transactions and to help in better funds as well as risk management.
+In the case of repo transactions in G-Sec, however, market participants will have the choice of settling the first leg on either T+0 basis or T+1 basis, as per their requirements.
+Any settlement failure on account of non-delivery of securities/ non-availability of clear funds will be treated as SGL bouncing and the current penalties in respect of SGL transactions will be applicable. Stock Exchanges will report such failures to the respective PDOs.
+PDs who are trading members of the Stock Exchanges may have to put up margins on behalf of their non-institutional client trades. Such margins are required to be collected from the respective clients. PDs are not permitted to pay up margins on behalf of their client trades and incur overnight credit exposure to their clients. In so far as the intraday exposures on clients for margins are concerned, the PDs should be conscious of the underlying risks in such exposures.
+PDs who intend to offer clearing /custodial services should take specific approval from SEBI in this regard. Similarly, PDs who intend to take trading membership of the Stock Exchanges should satisfy the criteria laid down by SEBI and the Stock Exchanges.
+12.
+Business through brokers
+12.1 Business through brokers and limits for approved brokers
+PDs may undertake securities transactions among themselves or with clients through the members of the BSE, NSE and OTCEI. However, if the PDs undertake OTC interest rate derivative transactions through brokers, they should ensure that these brokers are accredited by FIMMDA. PDs should fix aggregate contract limits for each of the approved brokers. A limit of 5% of total broker transactions (both purchase and sales) entered into by a PD during a year should be treated as the aggregate upper limit for each of the approved brokers. However, if for any reason it becomes necessary to exceed the aggregate limit for any broker, the specific reasons thereof should be recorded and the Board should be informed of this, post facto.
+12.2 With the approval of their top management, PDs should prepare a panel of approved brokers, which should be reviewed annually or more often if so warranted. Clear-cut criteria should be laid down for empanelment of brokers, including verification of their creditworthiness, market reputation, etc. A record of broker-wise details of deals put through and brokerage paid, should be maintained.
+12.3 Brokerage payable to the broker, if any (if the deal was put through with the help of a broker), should be clearly indicated on the notes/memorandum put up seeking approval for putting through the transaction, and a separate account of brokerage paid, broker-wise, should be maintained.
+12.4 The role of the broker should be restricted to that of bringing the two parties to the deal together. Settlement of deals between PDs and counter-parties should be directly between the counter-parties and the broker will have no role in the settlement process.
+12.5 While negotiating the deal, the broker is not obliged to disclose the identity of the counter-party to the deal. On conclusion of the deal, he should disclose the counter-party and his contract note should clearly indicate the name of the counter-party.
+13.
+Guidelines on declaration of dividend
+PDs should follow the following guidelines while declaring dividend distribution:
+The PD should have complied with the regulations on transfer of profits to statutory reserves and the regulatory guidelines relating to provisioning and valuation of securities, etc.
+PDs having CRAR below the regulatory minimum of 15 per cent in any of the previous four quarters cannot declare any dividend. For PDs having CRAR at or above the regulatory minimum of 15 per cent during all the four quarters of the previous year, but lower than 20 per cent in any of the four quarters, the dividend payout ratio (DPR) should not exceed 33.3 per cent. For PDs having CRAR at 20 per cent or above during all the four quarters of the previous year, the DPR should not exceed 50 per cent. DPR should be calculated as a percentage of dividend payable in a year (excluding dividend tax) to net profit during the year.
+The proposed dividend should be payable out of the current year’s profits. In case the profit for the relevant period includes any extraordinary income, the payout ratio should be computed after excluding such extraordinary items for reckoning compliance with the prudential payout ratio ceiling.
+The financial statements pertaining to the financial year for which the PD is declaring dividend should be free of any qualifications by the statutory auditors, which have an adverse bearing on the profit during that year. In case of any qualification to that effect, the net profit should be suitably adjusted downward while computing the DPR.
+In case there are special reasons or difficulties for any PD in strictly adhering to the guidelines, it may approach RBI in advance for an appropriate ad hoc dispensation in this regard.
+All the PDs declaring dividend should report details of dividend declared during the accounting year as per the prescribed pro forma (Annex I) along with the Board resolution passed for declaration of dividend. The report should be furnished within a fortnight of payment of dividend.
+14.
+Guidelines on Corporate Governance
+PDs may adhere to
+circular DNBS.PD/CC 94/03.10.042/2006-07 dated May 8, 2007
+on guidelines on corporate governance, as amended from time to time.
+15.
+Prevention of Money Laundering Act, 2002 - Obligations of NBFCs
+PDs shall adhere to the guidelines contained in
+circular DNBS(PD).CC.68 /03.10.042/2005-06 dated April 5, 2006
+, as amended from time to time, on the prevention of money laundering.
+16.
+Violation/Circumvention of Instructions
+Any violation/circumvention of the above guidelines would be viewed seriously and such violation would attract penal action including the withdrawal of liquidity support, denial of access to the money market, withdrawal of authorization for carrying on the business as a PD, and/or imposition of monetary penalty or liquidated damages, as the RBI may deem fit.
+17.
+Disclosure of Penal Actions
+17.1 In order to maintain transparency with regard to imposition of penalties and in conformity with the best practices on disclosure of penalties imposed by the regulator, the details of the penalty levied on a PD shall be placed in the public domain.
+17.2 The mode of disclosures of penalties, imposed by RBI will be as follows:
+A Press Release will be issued by the RBI, giving details of the circumstances under which the penalty is imposed on the PD along with the communication on the imposition of penalty in public domain.
+The penalty shall also be disclosed in the 'Notes on Accounts' to the Balance Sheet of the PD in its next Annual Report.
+Annex I
+Reporting format for Primary Dealers declaring dividend
+Details of dividend declared during the financial year beginning on ……..
+Name of the Primary Dealer:
+Accounting Period*
+Net Profit for the accounting period (cumulative)
+Rate of Dividend (cumulative)
+Amount of Dividend (excluding dividend tax) (cumulative)
+Payout ratio
+(cumulative)
+Rs. in crore
+Per cent
+Rs. in crore
+Per cent
+*- quarter or half year or year ended, as the case may be.
+Note: While submitting the statement for the final dividend declared, details of the interim dividends declared, if any, shall also be included in the statement.
+I / We confirm that the guidelines issued by the Reserve Bank of India for declaration of dividend have been complied with while declaring the above mentioned dividend.
+Authorised Signatory / Authorised Signatories
+Name:
+Designation:
+Date:
+Annex II
+List of circulars consolidated
+No
+Circular no
+Date
+Subject
+1
+IDMC.PDRS.1532
+/03.64.00/1999-00
+November 2, 1999
+Primary Dealers – Leverage
+2
+IDMC.PDRS.2049A
+/03.64.00/1999-2000
+December 31,1999
+Guidelines on Securities transactions to be followed by Primary Dealers
+3
+IDMC.PDRS.5122
+/03.64.00/1999-00
+June 14, 2000
+Guidelines on Securities Transactions by Primary dealers
+4
+IDMC.PDRS.4135
+/03.64.00/2000-01
+April 19, 2001
+Scheme for Bidding, Underwriting and Liquidity support to Primary Dealers
+5
+IDMC.PDRS.87
+/03.64.00/2001-02
+July 5, 2001
+Liquidity support to Primary Dealers
+6
+IDMC.PDRS.1382
+/03.64.00/2000-01
+September 18, 2001
+Dematerialised holding of bonds and debentures
+7
+IDMC.PDRS.3369
+/03.64.00/2001-02
+January 17, 2002
+Guidelines on Counter party limits and Inter-corporate deposits
+8
+IDMC.PDRS.4881 /03.64.00/2001-02
+May 8, 2002
+Guidelines to Primary Dealers
+9
+IDMC.PDRS.5018
+/03.64.00/2001-02
+May 17, 2002
+Scheme for Bidding, Underwriting and liquidity support to Primary dealers
+10
+IDMC.PDRS.5039
+/03.64.00/2001-02
+May 20, 2002
+Transactions in Government securities
+11
+IDMC.PDRS.5323
+/03.64.00/2001-02
+June 10, 2002
+Transactions in Government securities
+12
+IDMC.PDRS. 418
+/03.64.00/2002-03
+July 26, 2002
+Publication of Financial results
+13
+IDMC.PDRS.1724
+/03.64.00/2002-03
+October 23, 2002
+Underwriting of Government dated securities by Primary Dealers
+14
+IDMC.PDRS.2269
+/03.64.00/2002-03
+November 28, 2002
+Publication of Financial results
+15
+IDMC.PDRS.2896
+/03.64.00/2002-03
+January 14, 2003
+Trading in Government securities on Stock Exchanges
+16
+IDMC.PDRS.3432
+/03.64.00/2002-03
+February 21, 2003
+Ready Forward Contracts
+17
+IDMC.PDRS.3820
+/03.64.00/2002-03
+March 24, 2003
+Availment of FCNR(B) loans by Primary Dealers
+18
+IDMC.PDRS.1
+/03.64.00/2002-03
+April 10, 2003
+Portfolio Management Services by Primary Dealers – Guidelines
+19
+IDMC.PDRS.4802/03.64.00/2002-03
+June 3, 2003
+Guidelines on Exchange Traded Interest Rate Derivatives
+20
+IDMC.PDRS.122
+/03.64.00/2002-03
+September 22, 2003
+Rationalisation of returns submitted by Primary Dealers
+21
+IDMD.PDRS.No.3/03.64.00/2003-04
+March 08, 2004
+Prudential guidelines on investment in non-Government securities
+22
+IDMD.PDRS.05/10.02.01/2003-04
+March 29, 2004
+Transactions in Government Securities
+23
+IDMD.PDRS.06/03.64.00/2003-04
+June 03, 2004
+Declaration of dividend by Primary Dealers
+24
+IDMD.PDRS.01 /10.02.01/2004-05
+July 23, 2004
+Transactions in Government securities
+25
+IDMD.PDRS.02 /03.64.00/2004-05
+July 23, 2004
+Success Ratio in Treasury Bill auctions for Primary Dealers
+26
+RBI/2004-05/136 –
+IDMD.PDRS.No.03 /10.02.16/2004-05
+August 24, 2004
+Dematerialization of Primary Dealer’s investment in equity
+27
+RBI/2005/459
+IDMD.PDRS.4783/10.02.01/2004-05
+May 11, 2005
+Government Securities Transactions – T+1 settlement
+28
+RBI/2005/460
+IDMD.PDRS.4779/10.02.01/2004-05
+May 11, 2005
+Ready Forward Contracts
+29
+RBI/2005/474
+IDMD.PDRS/4907/03.64.00/2004-05
+May 19, 2005
+Conduct of Dated Government Securities Auction under Primary Market Operations (PMO) module of PDO-NDS – Payment of Underwriting Commission
+30
+RBI/2005-06/ 73
+IDMD.PDRS. 337 /10.02.01/2005-06
+July 20, 2005
+Transactions in Government Securities
+31
+RBI/2005-06/132
+IDMD.No.766/10.26.65A/2005-06
+August 22, 2005
+NDS-OM – Counterparty Confirmation
+32
+RBI/2005-06/308
+DBOD.FSD.BC.No.64/24.92.01/2005-06
+February 27, 2006
+Guidelines for banks’ undertaking PD business
+33
+RBI/2006-07/49
+IDMD.PDRS/26/03.64.00/2006-07
+July 4, 2006
+Diversification of activities by standalone Primary Dealers-Operational Guidelines
+34
+RBI/2006-2007/298
+FMD.MOAG No.13 /01.01.01/2006-07
+March 30, 2007
+Liquidity Adjustment Facility – Acceptance of State Development Loans under Repos
+35
+RBI/2007-08/104
+IDMD.530/03.64.00/2007-08
+July 31, 2007
+FIMMDA Reporting Platform for Corporate Bond Transactions
+36
+DBOD.FSD.BC.No.25/24.92.001/2006-07
+August 9, 2006
+Guidelines for banks undertaking PD business
+37
+RBI/2006-07/140
+IDMD.PDRS.1431/03.64.00/2006-07
+October 5, 2006
+Operational guidelines for banks undertaking/proposing to undertake PD business
+38
+IDMD/11.08.15/809/2007-08
+August 23, 2007
+Reporting platform for OTC Interest Rate Derivatives
+39
+RBI/2007-2008/186
+IDMD.PDRS.No.2382/03.64.00/2007-08
+November 14, 2007
+Revised Scheme of Underwriting Commitment and Liquidity Support
+40
+RBI/2008-09/187
+IDMD.PDRD.1393 / 03.64.00/ 2008-09
+September 19, 2008
+Settlement of Primary Auctions – Shortage of Funds
+41
+RBI/2009-10/136
+IDMD.PDRD.1050/03.64.00/2009-10
+August 31, 2009
+Investment Portfolio of Primary Dealers-Relaxation in the existing norms
+42
+RBI/2009-10/144
+IDMD.PDRD.1097/03.64.00/2009-10
+September 2, 2009
+Enhancement of Minimum Net Owned Funds
+43
+RBI/2009-10/143
+IDMD.PDRD.1096/03.64.00/2009-10
+September 2, 2009
+Increase in Call/Notice Money Borrowing Limit
+44
+RBI/2009-10/242
+IDMD.PDRD.2424/03.64.00/2009-10
+December 1, 2009
+Waiver of trade confirmation in Government Securities transactions in OTC market
+45
+RBI/2009-10/343
+IDMD.PDRD.3843/03.64.00/2009-10
+March 9, 2010
+Extension of HTM Category for PDs
+46
+RBI/2009-10/394
+IDMD.PDRD.4537/03.64.00/2009-10
+April 12, 2010
+Quantum of Government securities to be held in the HTM category by PDs
+47
+RBI/2009-10/496
+IDMD.PDRD.5533/03.64.00/2009-10
+June 15, 2010
+Primary Dealers – Imposition of Penalties – Disclosure
+48
+RBI/2009-10/497
+IDMD.PDRD.5573/03.64.00/2009-10
+June 17, 2010
+Cash Management Bills – Bidding Commitment and Success Ratio
+49
+RBI/2010 -11/142
+IDMD.PDRD.No.19/03.64.00/2010-11
+July 27, 2010
+Applicability of Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 to Primary Dealers
+50
+RBI/2010-11/224
+IDMD.PCD.No. 20/14.03.05/2010-11
+October 1, 2010
+Raising resources through Inter Corporate Deposits (ICDs)
+51
+RBI/2010-11/270
+IDMD. PCD.No.1652/14.03.05/2010-11
+November 11, 2010
+Exposure Norms: Applicability of Non-Banking Financial (Non-Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 to standalone Primary Dealers
+52
+RBI/2010-11/401
+IDMD. PCD.No. 26 /14.03.05/2010-11
+February 10, 2011
+Investment in non-Government Securities- Non-Convertible Debentures (NCDs) of maturity up to one year by standalone Primary Dealers (PDs).
+53
+RBI/2010-11/438
+IDMD.PDRD.No.3961/03.64.00/2010-11
+March 18, 2011
+FIMMDA accredited brokers for transactions in OTC Interest Rate Derivatives Market.
+54
+RBI/2011-12/162
+IDMD.PCD. 9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+55
+RBI/2010-11/542
+IDMD.PCD.No. 5053/14.03.04/2010-11
+May 23, 2011
+Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+56
+RBI/2011-12/108
+IDMD.PCD.06/14.03.07/2011-12
+July 06, 2011
+Transactions in Government Securities-Extension of DVP III facility to Gilt Account holders
+57
+IDMD.PDRD.No. 3464/06.64.00/2011-12
+March 07, 2012
+Bidding in Primary Auctions-Clarification
+58
+RBI/2011-12/157
+IDMD.PCD.08/14.03.03/2011-12
+August 23, 2011
+Issuance of Non -Convertible Debentures (NCDs)-Minimum Rating of NCDs
+59
+RBI/2011-12/162
+IDMD.PCD.9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+60
+RBI/2011-12/324
+IDMD.PCD.14/14.03.07/2011-12
+December 28, 2011
+Secondary market transactions in Government Securities-Short Selling
+61
+RBI/2011-12/330
+IDMD.PCD.17/14.03.01/2011-12
+December 30, 2011
+Exchange-traded Interest Rate Futures
+62
+IDMD.PCD.15/ED (RG)-2011
+December 30, 2011
+Interest Rate Futures (Reserve Bank) (Amendment) Directions, 2011
+63
+RBI/2011-12/387
+IDMD.PCD.19/14.03.07/2011-12
+February 06, 2012
+Transactions in Government Securities
+64
+RBI/2011-12/615
+IDMD.PCD.21/14.03.07/2011-12
+June 21, 2012
+Secondary market transactions in Government Securities-Short Selling
+65
+RBI/2012-13/133/ IDMD.PDRD.188 /03.64.00/2012-13
+July 16, 2012
+Sale of securities allotted in Primary issues on the same day
+66
+RBI/2012-13/189/
+IDMD.PCD.No.718/14.03.05/2012-13
+September 3,  2012
+Applicability of credit exposure norms for bonds guaranteed by the Government of India
+67
+RBI/2012-13/412/
+IDMD.PCD.No.2310/14.03.05/2012-13
+February 06, 2013
+Permission to standalone PDs for membership in SEBI approved Stock Exchanges for trading in corporate bonds
+68
+RBI/2012-13/494/
+IDMD.PDRD.No. 3089/03.64.027/ 2012-13
+May 08, 2013
+Submission of Undertaking: Renewal of Authorisation
+69
+RBI/2012-13/549
+IDMD.PCD.13 /14.03.07/2012-13
+June 26, 2013
+Guidelines on Securities Transactions to be followed by Primary Dealers
+70
+RBI/2013-14/168
+IDMD.PDRD.No. 346/10.02.23/2013-14
+July 31, 2013
+Revised PD returns for Primary Dealers
+71
+RBI/2013-14/243
+IDMD.PDRD.No. 828/03.64.00/2013-14
+September 10, 2013
+Increase in HTTM limits for Standalone PDs
+72
+RBI/2013-14/541
+IDMD.PCD. 12/14.03.05/2013-14
+March 27, 2014
+Exposure norms for standalone PDs
+73
+RBI/2013-14/630
+IDMD.PDRD.No. 3404/03.64.000/2013-14
+June 5, 2014
+Annual Turnover Target on behalf of Mid-segment and Retail investors for Primary Dealers (PDs)
+74
+IDMD.PDRD.No.7/03.64.00/2014-15
+December 15, 2014
+Decrease in Held to Maturity (HTM) limits for Standalone PDs
+70
+IDMD Mailbox
+January 19, 2012
+Maintenance of Distinct PD Book
+71
+IDMD Mailbox
+February 06, 2012
+Secondary Market Transactions in Government Securities-Short Selling
+72
+IDMD Mailbox
+February 28, 2012
+Investment in Cash Management Bills by Foreign Institutional Investors
+73
+RBI/2015-16/149
+DNBR.CO.PD.No. 068/ 03.10.01/ 2015-16
+August 06, 2015
+Exposure Norms limit for the Standalone Primary Dealers (SPDs)
+Annex III
+List of circulars referred
+Sr. No.
+Circular no.
+Date
+Subject
+1
+IDMC No.PDRS./2049A/03.64.00/ 99-2000
+December 31, 1999
+Guidelines on Securities Transactions
+to be followed by Primary Dealers
+2
+RBI/2004/51
+DNBS (PD)C.C.No. 35 / 10.24 / 2003-04
+February 10, 2004
+Entry of NBFCs into Insurance Business
+3
+RBI/2005/461
+IDMD.PDRS.4777/10.02.01/2004-05
+May 11, 2005
+Sale of securities allotted in Primary issues
+4
+RBI/2005-06/309
+IDMD.No.03/11.01.01(B)/2005-06
+February 28, 2006
+Secondary Market Transactions in Government Securities - Intra-day short-selling
+4
+RBI-2005-06/352
+DNBS(PD). CC 68 /03.10.042/2005-06
+April 5, 2006
+Prevention of Money Laundering Act, 2002 - Obligations of NBFCs in terms of Rules notified there under
+5
+RBI/2006-07/178
+IDMD.No.2130/11.01.01(D)/2006-07
+November 16, 2006
+When Issued (WI)’ transactions in Central Government Securities
+6
+RBI/2006-07/243
+IDMD.No./11.01.01(B)/2006-07
+January 31, 2007
+Secondary Market Transactions in Government Securities - Short-selling
+7
+RBI/2006-2007/333
+DBOD.No.BP.BC. 86/21.04.157/2006-07
+April 20, 2007
+Comprehensive Guidelines on Derivatives
+8
+RBI/2006-2007/385
+DNBS.PD/CC 94/03.10.042/2006-07
+May 8, 2007
+Guidelines on Corporate Governance
+9
+RBI/2007-2008/104
+IDMD. 530/03.64.00/ 2007-08
+July 31, 2007
+FIMMDA Reporting Platform for Corporate Bond Transactions
+10
+RBI/2007-2008/220
+IDMD.DOD.No.3165 /11.01.01(B)/2007-08
+January 1, 2008
+Secondary Market Transactions in Government Securities - Short-selling
+10
+RBI/2007-08/335
+IDMD.DOD.No. 5893 /10.25.66/ 2007-08
+May 27, 2008
+NDS – Order Matching (OM) System – Access through the CSGL Route
+11
+RBI/2008-09/479
+IDMD.No.5877/08.02.33/2008-09
+May 22, 2009
+Auction Process of Government of India Securities
+12
+RBI/2009-10/141
+IDMD.PDRD.No. 1056/03.64.00/2009-10
+September 1, 2009
+Guidelines on Exchange Traded Interest Rate Derivatives
+13
+RBI/2009-10/184
+IDMD No.1764 /11.08.38/2009-10
+October 16, 2009
+Settlement of OTC transactions in corporate bonds on DvP-I basis
+14
+RBI/2009-10/284
+IDMD.DOD.No.05/11.08.38/2009-10
+January 8, 2010
+Ready Forward Contracts in Corporate Debt Securities
+15
+RBI/2009-10/356
+IDMD/4135/11.08.43/2009-10
+March 23, 2010
+Guidelines for Accounting of Repo /  Reverse Repo Transactions
+16
+RBI/2009-10/360
+IDMD.DOD.no.7/11.01.09/2009-10
+March 25, 2010
+Guidelines on Stripping/Reconstitution of Government Securities
+17
+RBI/2009-10/505
+IDMD.DOD.10/11.01.01(A)/2009-10
+June 23, 2010
+Issuance of Non-Convertible Debentures (NCDs)
+18
+RBI/2010-2011/115
+IDMD. DOD.17/ 11.01.01(B)/2010-11
+July 14, 2010
+Government Securities Act, 2006, Sections 27 & 30 - Imposition of penalty for bouncing of SGL forms
+19
+RBI/2010-11/268
+IDMD.PCD.22/11.08.38/2010-11
+November 9, 2010
+Ready Forward Contracts in Corporate Debt Securities
+20
+RBI/2010-11/299
+IDMD.PCD.No. 24/14.03.03/2010-11
+December 06, 2010
+Issuance of Non-Convertible Debentures (NCDs)
+21
+RBI/2011-12/324
+IDMD.PCD.14/14.03.07/2011-12
+December 28, 2011
+Secondary Market transactions in Government Securities- Short selling
+22
+RBI/2010-11/542
+IDMD.PCD.No. 5053/14.03.04/2010-11
+May 23, 2011
+Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+23
+RBI/2011-12/157
+IDMD.PCD.08/14.03.03/2011-12
+August 23, 2011
+Issuance of Non -Convertible Debentures (NCDs)-Minimum Rating of NCDs
+24
+RBI/2011-12/162
+IDMD.PCD.9/14.03.05/2011-12
+August 30, 2011
+Authorisation Guidelines for Primary Dealers (PDs)
+25
+RBI/2011-12/324
+IDMD.PCD.14/14.03.07/2011-12
+December 28, 2011
+Secondary market transactions in Government Securities-Short Selling
+26
+RBI/2011-12/330
+IDMD.PCD.17/14.03.01/2011-12
+December 30, 2011
+Exchange-traded Interest Rate Futures
+27
+IDMD.PDRD.No. 3464/06.64.00/2011-12
+March 07, 2012
+Bidding in Primary Auctions-Clarification
+28
+RBI/2011-12/615
+IDMD.PCD.21/14.03.07/2011-12
+June 21, 2012
+Secondary market transactions in Government Securities-Short Selling
+29
+RBI/2012-13/365/
+IDMD.PCD.09/14.03.02/2012-13
+January 7, 2013
+Revised Guidelines on Ready Forward Contracts in Corporate Debt Securities
+30
+RBI/2012-13/366/
+IDMD.PCD.10/14.03.04/2012-13
+January 7, 2013
+Revised Guidelines on Credit Default Swaps (CDS) for Corporate Bonds
+31
+RBI/2012-13/405
+IDMD. PCD.No.2223/ 14.03.05 /2012-13
+January 30, 2013
+Measures to enhance the role of standalone Primary Dealers in Corporate Bond Market
+32
+RBI/2012-13/550
+IDMD.PCD.11 /14.03.06/2012-13
+June 26, 2013
+Settlement of OTC transactions in Corporate Bonds on DvP-I basis
+33
+RBI/2013-14/400
+FMD.MSRG.No. 94 /02.05.002/2013-14
+December 4, 2013
+Reporting platform for OTC foreign exchange and Interest Rate Derivatives
+34
+RBI/2013-14/402
+IDMD.PCD. 08/14.03.01/2013-14
+December 5, 2013
+Exchange-Traded Interest Rate Futures
+35
+RBI/2013-14/410
+IDMD.PCD.09 /14.03.01/2013-14
+December 19, 2013
+Participation in Exchange Traded Interest Rate Futures
+34
+RBI/2013-14/500
+IDMD.PCD.10 /14.03.06/ 2013-14
+February 24, 2014
+FIMMDA’s Trade Reporting and Confirmation platform for OTC transactions in Corporate Bonds and Securitized Debt Instruments
+35
+IDMD.PCD.06/14.03.07/2014-15
+September 30, 2014
+Secondary market transactions in Government Securities - Short Selling
+36
+FMRD.FMID.01/14.01.02/2014-15
+December 19, 2014
+F-TRAC – Counterparty Confirmation
+37
+FMRD.DIRD.02/14.03.007/2014-15
+December 24, 2014
+Secondary Market Transactions in Government Securities – Short Selling
+38
+FMRD.DIRD.04/14.03.002/2014-15
+February 03, 2015
+Repo in Corporate Debt Securities (Reserve Bank) Directions, 2015
+39
+FMRD.DIRD.5/14.03.002/2014-15
+February 05, 2015
+Re-repo in Government Securities Market
+40
+FMRD.DIRD.06/14.03.007/2014-15
+March 20, 2015
+T+2 settlements for outright secondary market transactions in Government Securities undertaken by Foreign Portfolio Investors and reported on NDS-OM
+41
+DNBR. (PD).CC.No. 033 /03.10.001/2014-15
+April 30, 2015
+Distribution of Mutual Fund products by NBFCs

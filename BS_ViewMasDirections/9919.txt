@@ -1,0 +1,19 @@
+(245 kb)
+Discount Rate for Computing Present Value of Future Cash Flows
+RBI/2015-16/111
+DBR.No.BP.BC.27/21.04.048/2015-16
+July 2, 2015
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Dear Sir,
+Discount Rate for Computing Present Value of Future Cash Flows
+Please refer to paragraph 4.5 of
+circular DBOD.BP.BC.No.99/21.04.132/2012-13 dated May 30, 2013
+, in terms of which a rate equal to the bank's Benchmark Prime Lending Rate or base rate (whichever is applicable to the borrower) as on the date of restructuring plus the appropriate term premium and credit risk premium for the borrower category on the date of restructuring will be used to discount future cash flows for the purpose of determining the diminution in fair value of loans on restructuring.
+2. On a review, it has been decided that a rate equal to the actual interest rate charged to the borrower before restructuring may be used to discount the future cash flows for the purpose of determining the diminution in fair value of loans on restructuring. In cases where the existing credit facilities to a borrower carry different rates of interest, the weighted average interest rate (with share of each credit facility in the total outstanding of the borrower as on the date of restructuring being used as weights) may be used as the discounting rate. This discount rate may be used to discount both the pre-restructuring cash flows as well as post-restructuring cash flows.
+3. The above methodology may be consistently used wherever banks are required to compute fair/present value of loans under the guidelines issued by the Reserve Bank of India, including for the purpose of computing net present value of project loans as required in terms of
+circular DBR.No.BP.BC.53/21.04.132/2014-15 dated December 15, 2014
+. It is clarified that this instruction will be applicable to all projects where changes in amortisation schedule have been carried out under the above circular.
+Yours faithfully,
+(Sudarshan Sen)
+Chief General Manager-in-Charge

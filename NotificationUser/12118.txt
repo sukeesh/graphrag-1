@@ -1,0 +1,93 @@
+(1072 kb)
+Declaration of dividends by NBFCs
+RBI/2021-22/59
+DOR.ACC.REC.No.23/21.02.067/2021-22
+June 24, 2021
+All Non-Banking Financial Companies (NBFCs)
+Madam / Sir,
+Declaration of dividends by NBFCs
+In order to infuse greater transparency and uniformity in practice, it has been decided to prescribe guidelines on distribution of dividend by NBFCs.
+Applicability
+2. These guidelines shall be applicable to all NBFCs regulated by RBI
+1
+as below:
+(a) Applicable NBFCs as defined in Paragraph 2(2) of
+Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016;
+and
+(b) Applicable NBFCs as defined in Paragraph 2(2) of
+Non-Banking Financial Company – Non-Systemically Important Non-Deposit taking Company (Reserve Bank) Directions, 2016
+.
+Effective Date
+3. These guidelines shall be effective for declaration of dividend from the profits of the financial year ending March 31, 2022 and onwards.
+Board Oversight
+4. The Board of Directors shall, while considering the proposals for dividend, take into account the following aspects:
+(a) Supervisory findings of the Reserve Bank (National Housing Bank (NHB) for HFCs) on divergence in classification and provisioning for Non-Performing Assets (NPAs).
+(b) Qualifications in the Auditors’ Report to the financial statements; and
+(c) Long term growth plans of the NBFC.
+The Board shall ensure that the total dividend proposed for the financial year does not exceed the ceilings specified in these guidelines.
+Eligibility criteria
+5. NBFCs shall comply with the following minimum prudential requirements to be eligible to declare dividend:
+Table 1: Declaration of Dividend: Minimum Prudential Requirements
+Sl. No.
+Parameter
+Requirement
+1.
+Capital Adequacy
+(a) NBFCs (other than Standalone Primary Dealers) shall have met the applicable regulatory capital requirement (refer
+Annex I
+) for each of the last three
+2
+financial years including the financial year for which the dividend is proposed.
+(b) Standalone Primary Dealers (SPDs) should have maintained a minimum CRAR of 20 per cent for the financial year (all the four quarters) for which dividend is proposed.
+2.
+Net NPA
+The net NPA ratio shall be less than 6 per cent in each of the last three years, including as at the close of the financial year for which dividend is proposed to be declared.
+3.
+Other criteria
+(a) NBFCs shall comply with the provisions of Section 45 IC of the Reserve Bank of India Act, 1934. HFCs shall comply with the provisions of Section 29 C of The National Housing Bank Act, 1987.
+(b) NBFCs shall be compliant with the prevailing regulations/ guidelines issued by the Reserve Bank. The Reserve Bank or the NHB (for HFCs) shall not have placed any explicit restrictions on declaration of dividend.
+Quantum of Dividend Payable
+6. NBFCs eligible to declare dividend as per paragraph 5 above, may pay dividend, subject to the following:
+(a) The Dividend Payout Ratio is the ratio between the amount of the dividend payable in a year and the net profit as per the audited financial statements for the financial year for which the dividend is proposed.
+(b) Proposed dividend shall include both dividend on equity shares and compulsorily convertible preference shares eligible for inclusion in Tier 1 Capital.
+(c) In case the net profit for the relevant period includes any exceptional and/or extra-ordinary profits/ income or the financial statements are qualified (including ’emphasis of matter’) by the statutory auditor that indicates an overstatement of net profit, the same shall be reduced from net profits while determining the Dividend Payout Ratio.
+(d) The ceilings on dividend payout ratios for NBFCs eligible to declare dividend are as under:
+Table 2: Ceilings on Dividend Payout Ratio
+Sl. No.
+Type of NBFC
+Maximum Dividend Payout Ratio (percentage)
+1.
+NBFCs that do not accept public funds and do not have any customer interface
+No ceiling specified
+2.
+Core Investment Company
+60
+3.
+Standalone Primary Dealers
+60
+4.
+Other NBFCs
+50
+(e) The Reserve Bank shall not entertain any request for ad-hoc dispensation on declaration of dividend.
+7. A NBFC (other than SPD) which does not meet the applicable prudential requirement prescribed in Paragraph 5
+3
+above for each of the last three financial years, may be eligible to declare dividend, subject to a cap of 10 percent on the dividend payout ratio, provided the NBFC complies with the following conditions :
+(a) meets the applicable capital adequacy requirement in the financial year for which it proposes to pay dividend; and
+(b) has net NPA of less than 4 per cent as at the close of the financial year.
+8. As per extant regulations contained in paragraph 30 of
+Master Direction - Standalone Primary Dealers (Reserve Bank) Directions, 2016
+, in case of SPDs which have a CRAR at or above the regulatory minimum of 15 per cent during each of the quarters of the previous year, but lower than 20 per cent in any of those quarters, the dividend payout ratio shall not exceed 33.3 per cent.
+Reporting System
+9. NBFC-D, NBFC-ND-SI, HFC & CIC declaring dividend shall report details of dividend declared during the financial year as per the format prescribed in
+Annex 2
+. The report shall be furnished within a fortnight after declaration of dividend to the Regional Office of the Department of Supervision of the Reserve Bank/ Department of Supervision of NHB, under whose jurisdiction it is registered.
+10. The relevant Master Directions shall be suitably updated.
+Yours faithfully,
+(Usha Janakiraman)
+Chief General Manager
+1
+Including Housing Finance Companies (HFCs), Core Investment Companies (CICs), Government NBFCs, Mortgage Guarantee Companies, Standalone Primary Dealers (SPDs), NBFC-Peer to Peer Lending Platform (NBFC-P2P) and NBFC- Account Aggregator (NBFC-AA)
+2
+Where an NBFC has been in existence for less than three financial years, it shall be since registration.
+3
+Sl.Nos.1(a) and 2 of Table 1, Paragraph 5

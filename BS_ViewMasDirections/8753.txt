@@ -1,0 +1,16 @@
+(177 kb)
+Security Incident Tracking Platform- Reporting thereon
+RBI/2013-14/501
+DIT CO No.1857/07.71.099/2013-14
+February 26, 2014
+The Chief  Information Security Officer (CISO)
+All Scheduled  Commercial banks
+Dear Sir
+Security  Incident Tracking Platform- Reporting thereon
+Information on Security, particularly  security incidents, external attacks, internal compromises etc. is unique to  each bank. Sharing of such information/ incidents/experiences would greatly  benefit banks in taking appropriate preventive/corrective measures. As of now,  information sharing among banks on these issues is not very prevalent.
+2. The National Security Council  (NSC) has requested IDRBT to set up necessary facilities to enable sharing of  information among banks and also dissemination of information on emerging  security threats. Towards this end, IDRBT has developed a Security Incident Tracking  Platform where banks would be able to report security incidents in an anonymous  manner; thus keeping the information reported by the banks confidential. The  platform will be hosted on the INFINET and the access provided only to Chief  Information Security Officers (CISOs) of respective banks. IDRBT is  simultaneously making arrangements to gather global threat intelligence from  various sources in coordination with CERT-In.
+3. CISOs of banks are advised to make  use of the platform developed by IDRBT by reporting all Information Security  related incidents in the above platform. This would not only enable building a  repository of security incidents related information for the banking Industry  but also help in fine-tuning policies relating to information security from  time to time.
+4. Please acknowledge the receipt of  this circular.
+Yours faithfully
+(A S Ramasastri)
+CGM-in-Charge

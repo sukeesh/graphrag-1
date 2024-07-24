@@ -1,0 +1,46 @@
+(221 kb)
+Cash Management activities of the banks Standards for engaging the Service Provider and its sub-contractor
+RBI/2017-18/152
+DCM (Plg) No.3563/10.25.07/2017-18
+April 06, 2018
+The Chairman / Managing Director / Chief Executive Officer,
+Public Sector Banks / Private Sector Banks / Foreign Banks /
+Regional Rural Banks / Primary (Urban) Co-operative Banks /
+State Co-operative Banks / District Central Co-operative Banks.
+Madam / Dear Sir,
+Cash Management activities of the banks
+Standards for engaging the Service Provider and its sub-contractor
+It was announced vide para 11 of the
+Statement on Developmental and Regulatory Policies dated April 05, 2018
+that in view of the increasing reliance of the banks on outsourced service providers and their sub-contractors in cash management logistics, certain minimum standards will be prescribed for the service provider / sub-contractors who are engaged by the banks for this purpose. Accordingly, it has been decided that the banks shall put in place certain minimum standards in their arrangements with the service providers for cash management related activities. The details of the same are in the
+Annex
+. Banks are advised to review their existing outsourcing arrangements and bring them in line with these instructions within 90 days from the date of this circular.
+2. Further, as the cash held with the service providers and their sub-contractors continue to remain the property of the banks and the banks are liable for all associated risks, the banks shall put in place appropriate Business Continuity Plan approved by their boards to deal with any related contingencies.
+Yours faithfully,
+(Aviral Jain)
+General Manager
+Annex
+Standards for engaging the Service Provider and its sub-contractors
+A. Eligibility Criteria
+(1) Minimum net worth
+1
+requirement of ₹ 1 billion. The net worth of at least ₹ 1 billion should be maintained at all times.
+[The net worth requirement will come into force with immediate effect for all future outsourcing agreements of the banks. In case of existing agreements, the banks shall ensure that the net worth criteria is met as on March 31, 2019 (audited balance sheet to be submitted to the bank concerned by June 30, 2019) or at the time of renewal of agreement, whichever is earlier].
+B. Physical / Security Infrastructure
+(1) Minimum fleet size of 300 specifically fabricated cash vans (owned / leased).
+(2) Cash should be transported only in the owned / leased security cash vans of the Service Provider or its first level sub-contractors. Each cash van should be a specially designed and fabricated Light Commercial Vehicle (LCV) having separate passenger and cash compartments, with a CCTV covering both compartments.
+(3) The passenger compartment should accommodate two custodians and two armed security guards (gunmen) besides the driver.
+(4) No cash van should move without armed guards. The gunmen must carry their weapons in a functional condition along with valid gun licenses. The Service Provider or its first level sub-contractor should also furnish the list of its employed gunmen to the police authorities concerned.
+(5) Each cash van should be GPS enabled and monitored live with geo-fencing mapping with the additional indication of the nearest police station in the corridor for emergency.
+(6) Each cash van should have tubeless tyres, wireless (mobile) communication and hooters. The vans should not follow the same route and timing repeatedly so as to become predictable. Predictable movement on regular routes must be discouraged. Staff should be rotated and assigned only on the day of the trip. With regard to security, additional regulations / guidelines as prescribed by Private Security Agencies (Regulation) Act, 2005, the Government of India and the State Governments from time to time must be adhered to.
+(7) Night movement of cash vans should be discouraged. All cash movements should be carried out during daylight. There can be some relaxation in metro and urban areas though depending on the law and order situation specific to the place or the guidelines issued by the local police. If the cash van has to make a night halt, it necessarily has to be in a police station. In case of inter-state movement, changeover of security personnel at the border crossing must be pre-arranged.
+(8) Proper documentation including a letter from the remitting bank should be carried invariably in the cash van, at all times, particularly for inter-state movement of currency.
+(9) ATM operations should be carried out only by certified personnel who have completed minimum hours of classroom learning and training. The content of such training may be certified by a Self-Regulatory Organisation (SRO) of Cash-in-Transit (CIT) Companies / Cash Replenishment Agencies (CRAs) who may tie up with agencies like National Skill Development Corporation for delivery of the courses.
+(10) The staff associated with cash handling should be adequately trained and duly certified through an accreditation process. Certification could be carried out through the SRO or other designated agencies.
+(11) Character and antecedent verification of all crew members associated with cash van movement, should be done meticulously. Strict background check of the employees should include police verification of at least the last two addresses. Such verification should be updated periodically and shared on a common database at industry level. The SRO can play a proactive role in creating a common data base for the industry. In case of dismissal of an employee, the CIT / CRA concerned should immediately inform the police with details.
+(12) Safe and secure premises of adequate size for cash processing / handling and vaulting. The premises should be under electronic surveillance and monitoring round the clock. Technical specifications of the vault should not be inferior to the minimum standards for Chests prescribed by the Reserve Bank. The vault should be operated only in joint custody and should have colour coded bins for easier storage and retrieval of different types of contents.
+(13) All fire safety gadgets should be available and working in the vault which should also be equipped with other standard security systems live CCTV monitoring with recording for at least 90 days, emergency alarm, burglar alarm, hotline with the nearest police station, lighting power backup and interlocking vault entry doors.
+(14) Work area should be separate from the cash area. The premises should be under the security of armed guards whose number should have reference to the scale of operations specific to the location but not less than five in any case.
+(15) Critical information like customer account data should be kept highly secure. Access to the switch server should be restricted to banks. Interfaces where a bank gives access to the service provider or its sub-contractor to the bank’s internal server should be limited to relevant information and secured.
+1
+Net worth will consist of ‘paid up equity capital, free reserves, balances in share premium account and capital reserves representing surplus arising out of sale proceeds of assets but not reserve created by revaluation of assets’ adjusted for ‘accumulated loss balance, book value of intangible and deferred revenue expenditure, if any’.

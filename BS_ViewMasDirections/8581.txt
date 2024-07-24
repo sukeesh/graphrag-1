@@ -1,0 +1,30 @@
+(67 kb)
+Trade Credit for imports into India- Online submission of data on issuance of Guarantee/Letter of Undertaking (LoU)/Letter of Comfort (LoC) by ADs
+RBI/2013-14/374
+A.P.  (DIR Series) Circular No. 75
+November  19, 2013
+To
+All  Category - I Authorised Dealer Banks
+Madam  / Sir
+Trade Credit for imports  into India- Online submission of data on issuance of Guarantee/Letter of  Undertaking (LoU) /Letter of Comfort (LoC) by ADs
+Attention of Authorized Dealer Category-I (AD Category-I) banks is  invited to
+A.P. (DIR Series) Circular No. 87 dated April 17, 2004
+and
+A.P. (DIR  Series) Circular No. 24 November 1, 2004
+relating to the Trade Credits for  imports into India and submission of data on issuance of guarantees/ LoUs /  LoCs by AD banks at quarterly statement in the prescribed format thereof to the  Reserve Bank.
+2. It has been decided to shift the arrangement for reporting of data on issuance of guarantees/ LoUs/ LoCs by all AD banks in consolidated statement, at quarterly intervals, from manual submission (and in MS-Excel file through
+email
+) to eXtensible Business Reporting Language (XBRL)  platform from quarter ended September 30, 2013.
+3. For the above purpose  AD banks may login to the site
+https://secweb.rbi.org.in/orfsxbrl/
+using their User name, Password and Bank code. For  downloading the relevant form, AD banks may follow the link ‘Download Returns  Package’ and download the Form LOU first version. After following the  successive steps, AD banks may upload the file. For User name and Password, AD banks may apply through
+email
+along with contact details. Clarification  required, if any, may also be sent to the aforesaid email of the Reserve Bank  and/ or may be communicated at Telephone No. 022-22601000 (extension- 2715). Guide for using XBRL website is also available under the Help option on the same  page.
+4. The submission of manual  statement (and in MS-Excel file through
+email
+) to the Reserve Bank is henceforth dispensed with. Those AD banks who  have already submitted the manual statement (and MS-Excel file) for the quarter  ended September 30, 2013 are also required to report the same data online. From  the quarter ending December 31, 2013 onwards, the data should be submitted only  in soft form on XBRL platform latest by 10th of the succeeding  month.
+5. Authorised Dealer banks may bring the contents of this circular to the notice of their constituents and customers.
+6. The direction contained in this circular has been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of  1999) and is without prejudice to permissions / approvals, if any, required  under any other law.
+Yours faithfully
+Rudra Narayan Kar
+Chief General Manager-in-Charge

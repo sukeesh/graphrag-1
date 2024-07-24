@@ -1,0 +1,20 @@
+(127 kb)
+F-TRAC – Counterparty Confirmation
+RBI/2014-15/361
+FMRD.FMID.01/14.01.02/2014-15
+December 19, 2014
+All RBI regulated entities
+Madam/Sir,
+F-TRAC – Counterparty Confirmation
+A reference is invited to RBI
+circular IDMD.PCD. 13 /14.01.02/2013-14 dated June 25, 2014
+regarding  reporting of OTC trades in Commercial Papers (CPs) and Certificate of Deposits  (CDs); and OTC repo trades in corporate debt securities, CPs, CDs and  non-convertible debentures (NCDs) of original maturity less than one year on  F-TRAC - the reporting platform of Clearcorp Dealing Systems (India) Ltd.  (CDSIL).
+2. As per extant guidelines, the  above-mentioned trades have to be physically confirmed by the back offices of  the counterparties. In F-TRAC, both the counterparties individually report  their respective sides of the trades and the trades are validated for trade  details before matching by F-TRAC. This ensures implicit confirmation by both  counterparties. Further, the details of the transactions are available on the  F-TRAC system.
+3. On a  review, it has been decided to waive the requirement of exchange of physical  confirmation of trades matched on F- TRAC subject to the following conditions:
+Participants  entering into one time bilateral agreement for  eliminating the exchange of confirmation;
+Participants adhering to the extant laws such as stamp duty as  may be applicable; and
+Participants  ensuring adherence to a sound risk management framework and complying with all  the regulatory and legal requirements and practices, in this regard.
+4. The dispensation with  respect to waiver of physical confirmation will be subject to review in case of  any change in ownership of the F-TRAC platform or reporting arrangements  thereof.
+Yours faithfully
+(Dimple Bhandia)
+General Manager-in-Charge

@@ -1,0 +1,24 @@
+(261 kb)
+Positive Pay System for Cheque Truncation System
+RBI/2020-21/41
+DPSS.CO.RPPD.No.309/04.07.005/2020-21
+September 25, 2020
+The Chairman and Managing Director / Chief Executive Officer
+All Scheduled Commercial Banks including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Local Area Banks / Payment Banks /
+Small Finance Banks / National Payments Corporation of India
+Madam / Dear Sir,
+Positive Pay System for Cheque Truncation System
+Please refer to the
+Statement on Developmental and Regulatory Policies dated August 6, 2020
+wherein Reserve Bank of India (RBI) had announced introduction of Positive Pay System for Cheque Truncation System (CTS).
+2. The concept of Positive Pay involves a process of reconfirming key details of large value cheques. Under this process, the issuer of the cheque submits electronically, through channels like SMS, mobile app, internet banking, ATM, etc., certain minimum details of that cheque (like date, name of the beneficiary / payee, amount, etc.) to the drawee bank, details of which are cross checked with the presented cheque by CTS. Any discrepancy is flagged by CTS to the drawee bank and presenting bank, who would take redressal measures.
+3. National Payments Corporation of India (NPCI) shall develop the facility of Positive Pay in CTS and make it available to participant banks. Banks, in turn, shall enable it for all account holders issuing cheques for amounts of ₹50,000 and above. While availing of this facility is at the discretion of the account holder, banks may consider making it mandatory in case of cheques for amounts of ₹5,00,000 and above.
+4. Only those cheques which are compliant with above instructions will be accepted under dispute resolution mechanism at the CTS grids. Member banks may implement similar arrangements for cheques cleared / collected outside CTS as well.
+5. Banks are advised to create adequate awareness among their customers on features of Positive Pay System through SMS alerts, display in branches, ATMs as well as through their web-site and internet banking.
+6. Positive Pay System shall be implemented from January 01, 2021.
+7. This directive is issued under Section 10 (2) read with Section 18 of Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully
+(P Vasudevan)
+Chief General Manager

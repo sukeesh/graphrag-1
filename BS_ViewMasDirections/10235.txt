@@ -1,0 +1,124 @@
+(406 kb)
+Fraud Reporting and Monitoring
+RBI/2015-16/295
+DBS.CO.CFMC.BC.No.007/23.04.001/2015-16
+January 21, 2016
+The Chairmen / Chief Executive Officers
+All Scheduled Commercial Banks (excluding RRBs) /
+Local Area Banks / select Financial Institutions
+Dear Sir / Madam
+Fraud Reporting and Monitoring
+1. Operationalisation of Central Fraud Registry
+1.1 As you are aware, Governor had announced in his
+Fourth Bi-monthly Monetary Policy Statement, 2014-15
+under para 22 as under:
+“Along with early detection mechanisms for frauds, a Central Fraud Registry is also proposed to be created simultaneously as a searchable centralised database for use by banks.”
+1.2 Accordingly, a Central Fraud Registry (CFR) has been operationalised with effect from January 20, 2016. Operational instructions on its use have since been issued to banks.
+2. Revision of limits in reporting of Fraud Cases
+2.1 Recently a review of the fraud reporting mechanism to the Regional Offices/Central Fraud Monitoring Cell (CFMC) of the RBI was undertaken and it has been decided to effect some changes in the same. Accordingly henceforth,
+Frauds of ₹ 0.1 million and above but below ₹ 50 million will be monitored by the respective Regional Office of RBI under whose jurisdiction the Head Office of the bank falls / Senior Supervisory Manager (SSM) of the bank. Frauds of ₹ 50 million and above will be monitored by CFMC, Bengaluru, and
+Flash reports are to be sent in fraud cases of ₹ 50 million and above to the CGM-i-C, DBS, CO with a copy to CFMC at Bengaluru as against the present limit of ₹ 10 million and above.
+2.2. Further, it has also been decided that henceforth banks/FIs need not send the hard copies of the FMR-1 returns. Instead a monthly certificate should be submitted to the effect that soft copy of all the frauds of ₹ 0.1 million and above, to be reported to the RBI in a month, has been sent to
+email
+. The certificate should contain serially the fraud number, name of the party, amount involved and the date of sending the soft copy to RBI. The certificate may be sent to CFMC, Bengaluru with a copy to the respective Regional Office of RBI under whose jurisdiction the Head Office of the bank falls /SSM of the bank, within seven days from the end of the month. A format of the same is given in
+Annex-1
+.
+2.3. The above changes will come into effect immediately. Amendments to the Master Circular on Frauds – Classification and Reporting have been made (relevant changes are given in
+Annex-2
+) and the revised Master Circular will be uploaded on the Bank’s website shortly.
+2.4. All other instructions contained in the above
+Master Circular dated 1st July 2015
+remain unchanged.
+Yours faithfully
+(Manoj Sharma)
+Chief General Manager
+Annex-1
+Monthly certificate in respect of submission of fraud cases through FMR-1
+Name of the bank:
+Certificate for the month:
+Date:
+It is certified that soft copy of the following fraud cases, which were to be reported to RBI during the month ------------------------, have been sent to RBI by
+mail
+.
+Sr. No.
+Fraud Number
+Name of the Party
+Amount Involved
+(₹ lakh)
+Date sent
+Signature
+Name & Designation of the authorized official
+Annex-2
+Changes effected in the Master Circular on Frauds-Classification and Reporting
+(changes in the table given in para 3.1 of the Master Circular)
+Changes are effected in the relevant cells with the remarks “Existing” and “Revised”
+Name of the return
+Amount involved in the fraud
+Medium in which to be reported
+To whom it should be reported
+Timeline for reporting
+Remarks
+FMR 1
+Report on actual or suspected frauds
+A format of the return is given in Annex III of the MC
+Frauds involving ₹ 0.1 million and above
+Soft copy
+Central Fraud Monitoring Cell (CFMC), Bengaluru.
+Within three weeks of detection
+No change
+-do-
+₹ 0.1 million and above and below ₹ 5 million
+Existing
+Hard copy
+Revised
+Not required to be sent
+1. To the Regional Office (RO) of RBI, Department of Banking Supervision (DBS) under whose jurisdiction the branch where the fraud has taken place is located.
+2. To the RO, DBS /SBMD under whose jurisdiction the Head Office of the bank where the fraud has taken place is located or to the SSM of the Bank
+-do-
+Requirement of sending hard copy withdrawn
+-do-
+Fraud cases involving an amount of ₹ 5 million and above.
+Existing
+Hard copy
+Revised
+Not required to be sent
+1. CFMC, Bengaluru
+2. RO(DBS)/SBMD under whose jurisdiction the head office of the bank falls or the SSM of the bank.
+-do-
+Requirement of sending hard copy withdrawn
+Existing
+Flash report
+(in addition to FMR 1)
+Revised
+Flash report for frauds involving amounts of ₹ 50 million and above.
+Existing
+For frauds involving ₹ 10 million and above
+Revised
+For frauds involving ₹ 50 million and above
+Hard copy
+Existing
+1. Through a DO letter addressed to the PCGM/ CGM-in-Charge, DBS RBI, Central Office, Mumbai.
+2. Copy to the RO of RBI under whose jurisdiction the bank's branch, where the fraud has been perpetrated, is functioning and RO of RBI (DBS)/ SBMD under whose jurisdiction the head office of the bank falls or the SSM of the bank.
+Revised
+Through a DO letter addressed to the PCGM/ CGM-in-Charge, DBS RBI, Central Office, Mumbai with a copy to CFMC Bengaluru
+Within a week of such frauds coming to the notice of the bank’s head office
+Should include amount involved, nature of fraud, modus operandi in brief, name of the branch/ office, names of parties involved, their constitution names of proprietors/ partners and directors, names of officials involved and lodging of complaint with police/CBI.
+[Flash reports (hard copy) are to be sent in respect of frauds of ₹ 50 million and above to the PCGM/ CGM-in-Charge, DBS RBI, Central Office, Mumbai with a copy to CFMC Bengaluru]
+FMR 2
+A format of the return is given in annex III of the MC
+Quarterly report on frauds outstanding
+Soft copy only
+CFMC Bengaluru
+Within 15 days of the end of the quarter to which it relates
+Nil report to be submitted if no fraud is outstanding.
+[No change]
+FMR 3
+A format of the return is given in annex III of the MC
+Case-wise quarterly progress reports on frauds involving
+₹ 0.1 million and above
+Soft copy only
+CFMC Bengaluru
+Within 15 days of the end of the quarter to which they relate.
+Nil report to be submitted if there are no frauds above ₹ 0.1 million
+outstanding.
+[No change]

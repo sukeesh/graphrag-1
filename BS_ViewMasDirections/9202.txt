@@ -1,0 +1,259 @@
+(165 kb)
+Implementation of Basel III Capital Regulations in India – Amendments
+RBI/2014-15/201
+DBOD.No.BP.BC.38/21.06.201/2014-15
+September 1, 2014
+The Chairman and Managing Director/
+Chief Executive Officer
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks and Local Area  Banks)
+Madam / Sir,
+Implementation of Basel III Capital Regulations in  India – Amendments
+Please refer to the ‘Guidelines on Implementation  of Basel III Capital Regulations in India’ issued vide
+circular  DBOD.No.BP.BC.98/21.06.201/2011-12 dated May 2, 2012
+. These guidelines  along with subsequent amendments have been incorporated in the latest
+Master Circular DBOD.No.BP.BC.6/21.06.201/2014-15  dated July 1, 2014
+on ‘Basel III Capital Regulations’. The existing guidelines have been reviewed further with  a view to facilitate raising of non-equity regulatory capital instruments by  banks under Basel III framework. Accordingly, certain specific eligibility criteria  of such instruments have been amended as indicated in the subsequent paragraphs.  These are also intended to incentivise investors and to increase the investor  base.
+2. Non-equity Regulatory Capital Instruments  (Additional Tier 1 and Tier 2) - Loss Absorption Mechanism
+2.1
+One of the criteria  for Additional Tier 1 (AT1) capital instruments issued by banks requires that  these instruments should have principal loss absorption at an objective  pre-specified trigger point through either (i) conversion into common shares or  (ii) a write-down mechanism which allocates losses to the instruments. Banks  were advised to consider issuing AT1 instruments with either conversion into  common shares or a permanent write-down mechanism. The criteria for principal  loss absorption of AT1 capital instruments at the objective pre-specified  trigger point have been reviewed afresh. Banks may now issue these instruments  with the principal loss absorption through either (i) conversion into common shares  or (ii) write-down mechanism (temporary or permanent) which allocates losses to  the instruments.
+2.2
+It is,  however, reiterated that the terms and conditions of all non-equity capital  instruments (i.e. both Additional Tier 1 and Tier 2) issued by banks must have  a provision that requires such instruments, at the option of the  Reserve Bank of India, to either be permanently written off or converted into  common shares upon the occurrence of the ‘Point of Non-Viability (PONV)’  trigger event.
+2.3
+Banks shall ensure that the non-common equity  capital instruments issued by them meet all the eligibility criteria such as legal,  accounting and operational etc., in order for such instruments to be recognised  as regulatory capital instruments. Accordingly, a revised
+Annex 16
+:
+‘Minimum  Requirements to Ensure Loss Absorbency of Additional Tier 1 Instruments at  Pre-specified Trigger and of All Non-equity Regulatory Capital Instruments at  the Point of Non-viability’
+of the Master Circular is enclosed.
+3. Additional  Tier 1 Capital Instruments - Exercise of Call Option
+In  terms of paragraphs 1.6 (a) of Annex 3 and Annex 4 of the Master Circular, call  option on the Perpetual Non-Cumulative Preference Shares (PNCPS) and Perpetual  Debt Instruments (PDI) respectively is permissible only after the instrument  has run for at least ten years. It has been decided that the call option on Additional  Tier 1 instrument (PNCPS and PDI) will be permissible at the initiative of the  issuer after the instrument has run for at least five years. All other criteria  relating to paragraphs 1.6 - ‘Optionality’ of these Annexes remain unchanged.
+4. Tier 2 Capital Instruments – Maturity Period
+In  terms of paragraph 1.3, Annex 5 of the Master Circular, Tier 2 debt instruments  should have a minimum maturity of 10 years. Further, in terms of paragraph 1.3,  Annex 6 of the Master Circular, Redeemable Non-Cumulative Preference Shares  (RNCPS) and Redeemable Cumulative Preference Shares (RCPS) issued as part of  Tier 2 capital should have a minimum maturity of ten years. On a review, it has  been decided that banks can issue such Tier 2 capital instruments with a minimum  original maturity of at least five years. All other criteria relating to  maturity period of Tier 2 instruments remain unchanged.
+5. Limits on recognition of Non-equity Regulatory Capital Instruments  (Additional Tier 1 and Tier 2) for CRAR
+5.1
+The limits on admissibility of excess Additional Tier 1 capital  and Tier 2 capital for the purpose of computing and reporting Tier 1 capital and  CRAR as indicated in paragraphs 4.2.2 (vii) & (viii) of the Master Circular  stand withdrawn. Accordingly, a bank,  having met the minimum capital requirements as indicated in paragraph 4.2.2 (i)  to (iv) read with paragraph 4.5 - ‘Transitional Arrangements’, may admit excess  Additional Tier 1 capital and Tier 2 capital, if any, for the purpose of  computing and reporting Tier 1 and CRAR. Consequently, Part A of Annex 14 of the Master Circular also stands withdrawn.
+5.2
+The definition of ‘capital  funds’ as indicated in paragraph 4.2.2 (ix) of the Master Circular is also  revised. Accordingly, for the purpose of all prudential exposure limits, capital  funds
+1
+will be defined as the sum of  all eligible Common Equity Tier 1 capital, Additional Tier 1 capital and Tier 2  capital, net of regulatory adjustments and deductions.
+5.3
+In view of the above, limits on admissibility  of excess Additional Tier 1 capital and Tier 2 capital will not be applicable also for the purpose  of Pillar 3 disclosure requirements (Table DF-11 of Annex 18 of the Master  Circular).
+6. Non-equity Regulatory Capital Instruments  (Additional Tier 1 and Tier 2) - Issuance to Retail Investors
+6.1
+In terms of paragraph 1.17, Annex 5 of the Master Circular,  banks are permitted to issue Tier 2 debt capital instruments to retail  investors, subject to adherence to certain specific conditions relating to  investors’ education and awareness as indicated therein. It  is advised that banks may also issue other forms of Tier 2 capital instruments  as permitted under Annex 6 of the Master Circular to the retail investors (i.e.  Perpetual  Cumulative Preference Shares / Redeemable Non-Cumulative Preference Shares /  Redeemable Cumulative Preference Shares. However, such issuances should be subject to the  approval of their Board and subject to meeting the requirements of paragraph  1.17, Annex 5 of the Master Circular.
+6.2
+Further,  as indicated in paragraph 4.2.4.1B(ii) of the Master Circular, banks are  prohibited from issuing Additional Tier 1 capital instruments to the retail  investors. It is advised that banks may now issue Additional Tier 1 capital  instruments to the retail investors, subject to the approval of their Board. However,  with a view to enhancing investors’  education and awareness of risk characteristic of Additional Tier 1  instruments, banks should also adhere to the investor protection requirements  analogous to those contained in paragraph 1.17 - issuance of Tier 2 debt  capital instruments to retail investors of the Annex 5 of the Master Circular. In  particular, the loss absorbency features of the instrument should be clearly  explained and the investor’s  sign-off for having understood these features and other terms and conditions of  the instrument should be obtained.
+7. Coupon  Discretion on Additional Tier 1 Debt Capital Instruments
+7.1
+In terms of  paragraph 1.8 (e), Annex 4 of the Master Circular, if the payment of coupons on  perpetual debt instrument (PDI) is likely to result in losses in the current  year, their declaration should be precluded to that extent. Paragraph 1.8 (e)  is now modified as under:
+“Paragraph 1.8 (e): Coupons  must be paid out of distributable items. In this context, coupon may be paid  out of current year profits. However, if current year profits are not  sufficient i.e. payment of coupon is likely to result in losses during the  current year, the balance amount of coupon may be paid out of revenue reserves  (i.e. revenue reserves which are not created for specific purposes by a bank)  and / or credit balance in profit and loss account, if any.
+However, payment of  coupons on PDIs from the revenue reserves is subject to the issuing bank  meeting minimum regulatory requirements for CET1, Tier 1 and Total Capital ratios  at all times and subject to the requirements of capital buffer frameworks (i.e.  capital conservation buffer, countercyclical capital buffer and Domestic  Systemically Important Banks).”
+7.2
+As indicated in paragraph 1.8 (a), Annex 4 of the Master Circular, banks must, however, ensure and indicate in the offer document that they  have full discretion at all times to cancel distributions / payments in order  to meet the eligibility criteria for perpetual debt instruments.
+8.
+These guidelines become applicable with immediate effect. These  instructions will be incorporated in the subsequent Master Circular on Basel  III Capital Regulations.
+Yours faithfully,
+(Sudarshan  Sen)
+Chief General  Manager-in-Charge
+Encls.: a/a
+Implementation of Basel III Capital Regulations in  India – Amendments
+(Ref. Circular DBOD.No.BP.BC.38/21.06.201/2014-15  dated September 1, 2014)
+Annex  16
+Minimum  Requirements to Ensure Loss Absorbency of Additional Tier 1 Instruments at  Pre-specified Trigger and of All Non-equity Regulatory Capital Instruments at  the Point of Non-viability
+1. introduction
+1.1
+As  indicated in paragraph 4.2.4 of Basel III Capital Regulations, under Basel III  non-common equity elements to be included in Tier 1 capital should absorb  losses while the bank remains a going concern. Towards this end, one of the  important criteria for Additional Tier 1 instruments is that these instruments should have principal loss absorption through  either (i) conversion into common shares or (ii) a write-down mechanism, which  allocates losses to the instrument at an objective pre-specified trigger point.
+1.2
+During the financial crisis a number of distressed  banks were rescued by the public sector injecting funds in the form of common  equity and other forms of Tier 1 capital. While this had the effect of  supporting depositors it also meant that Tier 2 capital instruments (mainly  subordinated debt), and in some cases Tier 1 instruments, did not absorb losses  incurred by certain large internationally-active banks that would have failed  had the public sector not provided support. Therefore, Basel III requires that  the terms and conditions of all non-common Tier 1 and Tier 2 capital  instruments issued by a bank must have a provision that requires such  instruments, at the option of the relevant authority, to either be written off  or converted into common equity upon the occurrence of the trigger event.
+1.3
+Therefore, in order for an instrument  issued by a bank to be included in Additional (i.e. non-common) Tier 1 or in  Tier 2 capital, in addition to criteria for individual types of non-equity  regulatory capital instruments mentioned in
+Annex 3, 4, 5 and 6,
+it must also meet or exceed minimum requirements set  out in the following paragraphs.
+2. Loss  Absorption of Additional Tier 1 (AT1) Instruments at the Pre-specified Trigger
+I. Loss Absorption  Features
+2.1
+One of the criteria for AT1 capital  instruments
+2
+requires that these instruments should have principal loss absorption at an  objective pre-specified trigger point through either:
+(i) conversion to common shares, or
+(ii) a write-down mechanism which allocates losses to the instrument.
+The write-down will have the following effects:
+(a) reduce the claim of the instrument in liquidation;
+(b) reduce the amount re-paid when a call is exercised; and
+(c) partially or fully reduce coupon/dividend payments on the instrument.
+2.2
+Accordingly,  banks may issue AT1 instruments with either conversion
+3
+or  write-down (temporary or permanent)
+4
+mechanism.
+II. Level  of Pre-specified Trigger and Amount of Equity to be Created by Conversion /  Write-down
+2.3
+The pre-specified  trigger for loss absorption through conversion / write-down of Additional Tier  1 instruments (PNCPS and PDI) must be at least Common Equity Tier 1 capital  of 6.125% of RWAs
+5
+. The Write-down of any Common Equity Tier 1 capital shall not be required before a write-down of  any Additional Tier 1 capital instrument.
+2.4
+The  conversion / write-down mechanism (temporary or permanent) which allocates  losses to the Additional Tier 1  instruments (AT1) instruments must generate Common Equity Tier 1 (CET1)  under applicable Indian Accounting Standards. The instrument will receive recognition in AT1 capital  only upto the extent of minimum level of CET1 generated (i.e. net of contingent  liability recognised under the Indian Accounting Standards, potential tax  liabilities, etc., if any) by a full write-down / conversion of the instrument.
+2.5
+Banks  must obtain a certificate from the statutory auditors clearly stating that the  conversion / write-down mechanism chosen by the bank for a particular AT1  issuance is able to generate CET1 under the prevailing accounting standards
+6
+.  Further, banks must also obtain an external legal opinion confirming that the  conversion or write-down of Additional Tier 1 capital instrument at the  pre-specified trigger by the issuing bank is legally enforceable. Both reports should  be furnished along with reporting of relevant details issuances to the Reserve  Bank of India (DBOD).
+2.6
+The aggregate amount to be written-down /  converted for all AT1 instruments on breaching the trigger level must be at  least the amount needed to immediately return the bank’s CET1 ratio to the  trigger level or, if this is not possible, the full principal value of the instruments.  Further, the issuer should have full discretion to determine the amount of AT1  instruments to be converted / written-down subject to the amount of  conversion/write-down not exceeding the amount which would be required to bring  the CET1 ratio to 8% of RWAs (minimum CET1 of 5.5% + capital conservation  buffer of 2.5%).
+2.7
+When a bank breaches  the pre-specified trigger of loss absorbency of AT1 and the equity is  replenished either through conversion or write-down, such replenished amount of  equity will be excluded from the total equity of the bank for the purpose of  determining the proportion of earnings to be paid out as dividend in terms of  rules laid down for maintaining capital conservation buffer. However, once the bank has attained total Common  Equity ratio of 8% without counting the replenished equity capital, that point  onwards, the bank may include the replenished equity capital for all purposes
+7
+.
+2.8
+The  conversion / write-down may be allowed more than once in case a bank hits the pre-specified  trigger level subsequent to the first conversion / write-down which was  partial.
+2.9
+The  conversion / write-down of AT1 instruments are primarily intended to replenish  the equity in the event it is depleted by losses. Therefore, banks should not  use conversion / write-down of AT1 instruments to support expansion of balance  sheet by incurring further obligations / booking assets. Accordingly, a bank  whose Common Equity ratio slips below 8%  due to losses and is still above 6.125% i.e. trigger point, should seek to  expand its balance sheet further only by raising fresh equity from its existing  shareholders or market and the internal accruals. However, fresh exposures can  be taken to the extent of amortization of the existing ones. If any expansion  in exposures, such as due to draw down of sanctioned borrowing limits, is  inevitable, this should be compensated within the shortest possible time by  reducing other exposures
+8
+.
+The  bank should maintain proper records to facilitate verification of these transactions  by its internal auditors, statutory auditors and Inspecting Officers of RBI.
+III. Treatment  of AT1 Instruments in the event of Winding-Up, Amalgamation, Acquisition,  Re-Constitution etc. of the Bank
+2.10
+If a  bank goes into liquidation before the AT1 instruments have been written-down/  converted, these instruments will absorb losses in accordance with the order of  seniority indicated in the offer document and as per usual legal provisions  governing priority of charges.
+2.11
+If a bank goes into liquidation after the AT1  instruments have been written-down, the holders of these instruments will have  no claim on the proceeds of liquidation.
+(a) Amalgamation of a banking company: (Section  44 A of BR Act, 1949)
+2.12
+If a  bank is amalgamated with any other bank before the AT1 instruments have been  written-down/converted, these instruments will become part of the corresponding  categories of regulatory capital of the new bank emerging after the merger.
+2.13
+If a  bank is amalgamated with any other bank after the AT1 instruments have been  written-down temporarily, the amalgamated entity can write-up these instruments  as per its discretion.
+2.14
+If a  bank is amalgamated with any other bank after the non-equity regulatory capital  instruments have been written-down permanently, these cannot be written-up by  the amalgamated entity.
+(b) Scheme of reconstitution or amalgamation of a banking company: (Section 45 of BR Act,  1949)
+2.15
+If the  relevant authorities decide to reconstitute a bank or amalgamate a bank with  any other bank under the Section 45 of BR Act, 1949, such a bank will be deemed  as non-viable or approaching non-viability and both the pre-specified trigger  and the trigger at the point of non-viability
+9
+for conversion / write-down of AT1 instruments will be activated. Accordingly,  the AT1 instruments will be fully converted / written-down permanently before  amalgamation / reconstitution in accordance with these rules.
+IV. Fixation  of Conversion Price, Capping of Number of Shares / Voting Rights
+2.16
+Banks  may issue AT1 instruments with conversion features either based on price fixed  at the time of issuance or based on the market price prevailing at the time of  conversion
+10
+.
+2.17
+There  will be possibility of the debt holders receiving a large number of shares in  the event the share price is very low at the time of conversion. Thus, debt  holders will end up holding the number of shares and attached voting rights  exceeding the legally permissible limits. Banks should therefore, always keep  sufficient headroom to accommodate the additional equity due to conversion  without breaching any of the statutory / regulatory ceilings especially that  for maximum private shareholdings and maximum voting rights per investors /  group of related investors. In order to achieve this, banks should cap the  number of shares and / or voting rights in accordance with relevant laws and  regulations on Ownership and Governance of banks. Banks should adequately  incorporate these features in the terms and conditions of the instruments in  the offer document. In exceptional circumstances, if the breach is inevitable,  the bank should immediately inform the Reserve Bank of India (DBOD) about it.  The investors will be required to bring the shareholdings below the statutory /  regulatory ceilings within the specific time frame as determined by the Reserve  Bank of India.
+2.18
+In the  case of unlisted banks, the conversion price should be determined based on the  fair value of the bank’s common shares to be estimated according to a mutually  acceptable methodology which should be in conformity with the standard market  practice for valuation of shares of unlisted companies.
+2.19
+In  order to ensure the criteria that the issuing bank must maintain at all times  all prior authorisation necessary to immediately issue the relevant number of  shares specified in the instrument's terms and conditions should the trigger  event occur, the capital clause of each bank will have to be suitably modified  to take care of conversion aspects.
+V. Order  of Conversion / Write-down of Various Types of AT1 Instruments
+2.20
+Banks  should clearly indicate in the offer document, the order of conversion /  write-down of the instrument in question vis-à-vis other capital instruments  which the bank has already issued or may issue in future, based on the advice  of its legal counsels.
+3. Minimum Requirements to Ensure Loss  Absorbency of Non-equity Regulatory Capital Instruments at the Point of  Non-Viability
+I. Mode  of Loss Absorption and Trigger Event
+3.1
+The  terms and conditions of all non-common equity Tier 1 and Tier 2 capital  instruments issued by banks in India must have a provision that requires such instruments,  at the option of the Reserve Bank of India,  to either be written off or converted into common equity upon the  occurrence of the trigger event, called the ‘Point of Non-Viability (PONV)  Trigger’ stipulated below:
+(i) The  PONV Trigger event is the earlier of:
+a. a  decision that a conversion
+11
+or write-off
+12
+,  without which the firm would become non-viable, is necessary, as determined by  the Reserve Bank of India; and
+b. the  decision to make a public sector injection of capital, or equivalent support,  without which the firm would have become non-viable, as determined by the  relevant authority.
+The Write-off of any Common Equity Tier 1  capital shall not be required before the write-off of any Non-equity (Additional  Tier 1 and Tier 2) regulatory capital instrument.
+(ii) Such a decision would invariably imply  that the write-off or issuance of any new shares as a result of conversion  consequent upon the trigger event must occur prior to any public sector  injection of capital so that the capital provided by the public sector is not  diluted. As such, the contractual terms and conditions of an instrument must not provide for  any residual claims on the issuer which are senior to ordinary shares of the  bank (or banking group entity where applicable), following a trigger event and  when conversion or write-off is undertaken.
+(iii) Any compensation paid to  the instrument holders as a result of the write-off
+13
+must be paid immediately in the  form of common shares.
+(iv) The issuing bank must  maintain at all times all prior authorisation necessary to immediately issue  the relevant number of shares specified in the instrument’s terms and  conditions should the trigger event occur.
+(v) In  order to ensure that these requirements are met, banks should furnish to RBI (Department  of Banking Operations and Development) an external legal opinion confirming  that the conversion or write-off feature of non-equity capital instruments (Additional  Tier 1 or Tier 2) by the RBI at the point of non-viability is legally  enforceable
+14
+.  Further, the legal opinion should also confirm that there are no legal impediments to the conversion of the instrument  into ordinary shares of the bank (or a banking group entity, where applicable)  or write-off upon a trigger event. The RBI may also require the bank to submit  additional information in order to ensure that such instruments are eligible  for inclusion into regulatory capital.
+II. A Non-viable Bank
+3.2
+For  the purpose of these guidelines, a non-viable bank will be:
+A  bank which, owing to its financial and other difficulties, may no longer remain  a going concern on its own in the opinion of the Reserve Bank unless  appropriate measures are taken to revive its operations and thus, enable it to  continue as a going concern. The difficulties faced by a bank should be such  that these are likely to result in financial losses and raising the Common  Equity Tier 1 capital of the bank should be considered as the most appropriate  way to prevent the bank from turning non-viable. Such measures would include  write-off / conversion of non-equity regulatory capital into common shares in  combination with or without other measures as considered appropriate by the  Reserve Bank
+15
+.
+III. Restoring Viability
+3.3
+A bank  facing financial difficulties and approaching a PONV will be deemed to achieve  viability if within a reasonable time in the opinion of Reserve Bank, it will  be able to come out of the present difficulties if appropriate measures are  taken to revive it. The measures including augmentation of equity capital  through write-off/conversion/public sector injection of funds are likely to:
+a. Restore  depositors’/investors’ confidence;
+b. Improve  rating /creditworthiness of the bank and thereby improve its borrowing capacity  and liquidity and reduce cost of funds; and
+c. Augment  the resource base to fund balance sheet growth in the case of fresh injection  of funds.
+IV. Other Requirements to be met by the  Non-common Equity Capital Instruments so as to Absorb  Losses at the PONV
+3.4
+Instruments  may be issued with either of the following feature:
+a. conversion;  or
+b. permanent  write-off
+3.5
+The  amount of non-equity capital to be converted / written-off will be determined  by RBI.
+3.6
+When  a bank breaches the PONV trigger and the equity is replenished either through  conversion or write-off, such replenished amount of equity will be excluded  from the total equity of the bank for the purpose of determining the proportion  of earnings to be paid out as dividend in terms of rules laid down for  maintaining capital conservation buffer.  However, once the bank has attained total Common Equity ratio of 8% without  counting the replenished equity capital, that point onwards, the bank may  include the replenished equity capital for all purposes
+16
+.
+3.7
+The  provisions regarding treatment of AT1 instruments in the event of winding-up,  amalgamation, acquisition, re-constitution etc. of the bank as given in  paragraphs 2.10 to 2.15 will also be applicable to all non-common equity  capital instruments (AT1 and Tier 2 capital instruments) when these events take  place after conversion/write-off at the PONV.
+3.8
+The  provisions regarding fixation of conversion  price, capping of  number of shares/voting rights applicable to AT1 instruments in terms of  paragraphs 2.16 to 2.19 above will also be applicable for conversion of all  non-common equity capital instruments (AT1 and Tier 2 capital instruments) at  the PONV.
+3.9
+The  provisions regarding order of conversion/write-down  of AT1 instruments as given in paragraph 2.20 above will also be applicable for  conversion/ write-off of all non-common equity capital instruments (AT1 and  Tier 2 capital instruments) at the PONV.
+V. Criteria to Determine the PONV
+3.10
+The above framework will be invoked when a bank is  adjudged by Reserve Bank of India to be approaching the point of non-viability,  or has already reached the point of non-viability, but in the views of RBI:
+a) there is a possibility that a timely intervention in  form of capital support, with or without other supporting interventions, is  likely to rescue the bank; and
+b) if left unattended, the weaknesses would inflict  financial losses on the bank and, thus, cause decline in its common equity level.
+3.11
+The purpose of write-off and / or conversion of  non-equity regulatory capital elements will be to shore up the capital level of  the bank. RBI would follow a two-stage approach to determine the non-viability  of a bank. The
+Stage 1
+assessment would consist of purely objective and  quantifiable criteria to indicate that there is a
+prima facie
+case of a bank approaching non-viability and,  therefore, a closer examination of the bank’s financial situation is warranted.  The
+Stage 2
+assessment would consist of supplementary subjective  criteria which, in conjunction with the Stage 1 information, would help in  determining whether the bank is about to become non-viable. These criteria  would be evaluated together and not in isolation.
+3.12
+Once the PONV is confirmed, the next step would be  to decide whether rescue of the bank would be through write-off/conversion  alone or write-off/conversion in conjunction with a public sector injection of  funds.
+3.13
+The  trigger at PONV will be evaluated both at consolidated and solo level and  breach at either level will trigger conversion / write-off.
+3.14
+As  the capital adequacy is applicable both at solo and consolidated levels, the
+minority interests
+in respect of  capital instruments issued by subsidiaries of banks including overseas  subsidiaries can be included in the consolidated capital of the banking group  only if these instruments have pre-specified triggers (in case of AT1 capital  instruments) / loss absorbency at the PONV
+17
+(for all non-common equity capital instruments). In addition, where a bank  wishes the instrument issued by its subsidiary to be included in the  consolidated group’s capital in addition to its solo capital, the terms and  conditions of that instrument must specify an additional trigger event.
+This additional trigger event is the earlier of:
+(1)  a decision that a conversion or write-off, without which the bank or the  subsidiary would become non-viable, is necessary, as determined by the Reserve  Bank of India; and
+(2)  the decision to make a public sector injection of capital, or equivalent  support, without which the bank or the subsidiary would have become non-viable,  as determined by the Reserve Bank of India. Such a decision would invariably  imply that  the write-off or issuance of any new shares as a result of conversion  consequent upon the trigger event must occur prior to any public sector  injection of capital so that the capital provided by the public sector is not  diluted.
+3.15
+In  such cases, the subsidiary should obtain its regulator’s approval/no-objection  for allowing the capital instrument to be converted/written-off at the  additional trigger point referred to in paragraph 3.14 above.
+3.16
+Any  common shares paid as compensation to the holders of the instrument must be  common shares of either the issuing subsidiary or the parent bank (including  any successor in resolution).
+1
+The definition of capital funds for the purpose of prudential exposures is  only an interim measure. The applicability of this definition will be reviewed  by the RBI, based on the large exposures framework released by the Basel  Committee on Banking Supervision.
+2
+Please refer to the Appendices 4 & 5 of the
+circular  DBOD.No.BP.BC.98 /21.06.201/2011-12 dated May 2, 2012
+on ‘Guidelines  on Implementation of Basel III Capital Regulations in India’.
+3
+Conversion means conversion to common shares.
+4
+When a paid-up instrument is fully and permanently  written-down, it ceases to exist resulting in extinguishment of a liability of  a bank (a non-common equity instrument) and creates CET1. A temporary  write-down is different from a conversion and a permanent write-down i.e. the  original instrument may not be fully extinguished. Generally, the par value of  the instrument is written-down (decrease) on the occurrence of the trigger  event and which may be written-up (increase) back to its original value in  future depending upon the conditions prescribed in the terms and conditions of  the instrument. The amount shown on the balance sheet subsequent to temporary  write-down may depend on the precise features of the instrument and the  prevailing accounting standards.
+5
+All AT1 instruments issued before March 31, 2019  i.e. before the full implementation of Basel III will have two pre-specified  triggers. A lower pre-specified trigger at CET1 of 5.5% of RWAs will apply and  remain effective before March 31, 2019; from this date the trigger will be  raised at CET1 of 6.125% of RWAs for all such instruments. AT1 instruments  issued on or after March 31, 2019 will have pre-specified trigger at CET1 of  6.125% of RWAs only.
+6
+Auditors certificate would be required not only at  the time of issuance of the instruments, but also whenever there is a change in accounting norms  / standards which may affect the ability of the loss absorbency mechanism of  the instrument to create CET1)
+7
+If the total CET1 ratio of the bank falls again  below the 8%, it would include the replenished capital for the purpose of  applying the capital conservation buffer framework.
+8
+For the purpose of determination of breach of trigger,  the fresh equity, if any, raised after slippage of CET1 below 8% will not be  subtracted. In other words, if CET1 of the bank now is above the trigger level  though it would have been below the trigger had it not raised the fresh equity  which it did, the trigger will not be treated as breached.
+9
+As described in subsequent paragraph 3 of this  Annex.
+10
+Market price here does not mean the price  prevailing on the date of conversion; banks can use any pricing formula such as weighted average price  of shares during a particular period before conversion.
+11
+Conversion means full conversion to common shares
+12
+Write-off means fully and permanently write-off
+13
+Compensation in the form of common shares may be  viewed as the simultaneous occurrence of (a) permanent write-off of the  original instrument; and (b) creation of new common shares issued in lieu of  non-equity capital instrument which is written-off, as compensation for its  extinguishment. The precise mechanism may vary under the accounting standards.  No compensation (i.e. zero common shares) is paid in case of full and permanent  write-off.
+14
+This may be submitted by banks while reporting of  relevant details of issuances of capital instruments to RBI.
+15
+In rare situations, a bank may also become  non-viable due to non-financial problems, such as conduct of affairs of the  bank in a manner which is detrimental to the interest of depositors, serious  corporate governance issues, etc. In such situations raising capital is not  considered a part of the solution and therefore, may not attract provisions of  this framework.
+16
+If the total CET1 ratio of the bank falls again  below the total Common Equity ratio of 8%, it would include the replenished  capital for the purpose of applying the capital conservation buffer framework.
+17
+. The cost to the parent of its investment in each subsidiary and the  parent’s portion of equity of each subsidiary, at the date on which investment  in each subsidiary is made, is eliminated as per AS-21. So, in case of  wholly-owned subsidiaries, it would not matter whether or not it has same  characteristics as the bank’s capital. However, in the case of less than wholly  owned subsidiaries (or in the case of non-equity regulatory capital of the wholly  owned subsidiaries, if issued to the third parties), minority interests  constitute additional capital for the banking group over and above what is  counted at solo level; therefore, it should be admitted only when it (and  consequently the entire capital in that category) has the same characteristics  as the bank’s capital.

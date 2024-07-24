@@ -1,0 +1,98 @@
+(419 kb)
+Additional Disclosures by Regional Rural Banks in Notes to Accounts
+RBI/2013-14/150
+RPCD.CO.RRB.BC.No.17/03.05.33/2014-15
+July 28, 2014
+The Chairmen
+All Regional  Rural Banks
+Dear Sir/Madam,
+Additional Disclosures by Regional  Rural Banks in Notes to Accounts
+A reference is invited to
+paragraph 18
+of the First Bi-Monthly Monetary Policy  Statement 2014-15 announced on April 1, 2014 wherein it was proposed to  prescribe certain additional disclosure requirements as per the recommendations  of the
+Committee on Comprehensive Financial Services for Small  Businesses and Low Income Households
+(Chairman: Dr. Nachiket Mor) to encourage  banks to actively manage their exposures to various sectors, including priority  sector.
+2. In this regard, banks are advised to  disclose sector-wise advances in the ‘Notes to Accounts’ to the financial  statements as per the format given in the
+Annex
+from the financial year 2014-15  onwards.
+Concentration of Deposits,       Advances, Exposures and NPAs
+Sector-wise NPAs
+Movement  of NPAs
+The prescribed formats are furnished in Annex.
+Yours faithfully,
+(A.G.Ray)
+General  Manager
+Annex
+I. Concentration of Deposits, Advances, Exposures and  NPAs
+Concentration of Deposits
+(Amount in Rupees Crores)
+Total Deposits of    twenty largest depositors
+Percentage of    Deposits of twenty largest depositors to Total Deposits of the bank
+Concentration of    Advances *
+(Amount in Rupees Crores)
+Total Advances to twenty largest    borrowers
+Percentage of Advances to twenty    largest borrowers to Total Advances
+          of the bank
+*Advances should be computed as prescribed in our Circular on Strengthening of    Prudential Norms – Provisioning Asset classification and Exposure Limit    RPCD.RRB.BC.97/03.05.34/2000-01 dated June 11, 2001as per circular    RPCD.RRB.BC.97/03.05.34/2000-01 dated June 11, 2001
+Concentration of Exposures **
+(Amount in Rupees Crores)
+Total Exposures of twenty largest borrowers/customers
+Percentage of Exposures to twenty    largest borrowers/customers to
+Total Exposure of the bank on borrowers/customers
+** Exposures    should be computed based on credit and investment exposure as prescribed in    our Circular on Strengthening of Prudential Norms – Provisioning Asset    classification and Exposure Limit RPCD.RRB.BC.97/03.05.34/2000-01 dated June    11, 2001
+Concentration of NPAs
+(Amount in Rupees Crores)
+Total Exposure to top four NPA accounts
+II. Sector-wise NPAs
+(Amount in Rupees Crores)
+Sl No.
+Sector *
+Current Year
+Previous Year
+Outstanding
+Total Advances
+Gross NPAs
+Percentage of Gross NPAs to Total    Advances in that sector
+Outstanding
+Total Advances
+Gross NPAs
+Percentage of Gross NPAs to Total    Advances in that sector
+A
+Priority Sector
+1
+Agriculture and    allied activities
+2
+Advances to    industries sector eligible as priority sector lending
+3
+Services
+4
+Personal loans
+Sub-total (A)
+B
+Non-Priority    Sector
+1
+Agriculture and    allied activities
+2
+Industry
+3
+Services
+4
+Personal loans
+Sub-total (B)
+Total (A+B)
+*Regional Rural Banks  may also disclose in the format above, sub sectors where the outstanding  advances exceeds 10 percent of the outstanding total advances to that  sector.  For instance, if a bank’s outstanding advances to the Khadi and  Village industry (KVI) exceed 10 percent of the outstanding total advances to  ‘Industry’ sector it should disclose details of its outstanding advances to KVI  separately in the format above under the ‘Industry’ sector.
+II. Movement of NPAs
+Particulars
+(Amount in Rupees Crores)
+Gross NPAs  as on 1st April of particular    year (Opening balance)
+Additions (Fresh    NPAs) during the year
+Sub-total (A)
+Less:
+(i)
+Upgradations
+(ii)
+Recoveries    (excluding recoveries made from upgraded accounts)
+(iii)
+Write-offs
+Sub-total (B)
+Gross NPAs as on    31st March of following year (closing balance)(A-B)

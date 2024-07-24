@@ -1,0 +1,87 @@
+(261 kb)
+Rationalization of Branch Authorisation Policy for Urban Co-operative Banks (UCBs)
+RBI/2023-24/39
+DOR.REG.No.19/07.01.000/2023-24
+June 08, 2023
+Managing Director / Chief Executive Officer
+All Primary (Urban) Co-operative Banks (except Salary Earners’ Banks)
+Madam / Dear Sir
+Rationalization of Branch Authorisation Policy for Urban Co-operative Banks (UCBs)
+A reference is made to the circular on the revised criteria for classifying a UCB as Financially Sound and Well Managed (FSWM) issued by RBI vide
+circular DOR.REG.No.85/07.01.000/2022-23 dated December 01, 2022
+on “Review of norms for classification of Urban Co-operative Banks (UCBs) as Financially Sound and Well Managed (FSWM)”.
+2. In order to rationalise the process of branch opening and to enable the UCBs to tap growth opportunities in the sector, it has been decided to grant general permission for branch expansion in the approved area of operation to financially strong UCBs. This is as per the
+Revised Regulatory Framework for Urban Co-operative Banks (UCBs) released by RBI on July 19, 2022
+based on the recommendation of the
+Expert Committee on Primary (Urban) Co-operative Banks
+. The details of the scheme are provided in
+Annex-I
+.
+3. In addition to the general permission, the branch expansion under the prior approval route as per the existing framework will also continue, as hitherto, for other eligible UCBs. However, the process has been simplified to reduce the time taken for granting approvals for opening new branches, the details of which are provided in
+Annex-II
+.
+Commencement
+4. The revised instructions shall come into force with immediate effect.
+Applicability
+5. This circular is applicable to all Primary (Urban) Co-operative Banks (except Salary Earners’ Banks).
+(Prakash Baliarsingh)
+Chief General Manager
+Annex-I
+Branch Authorization Policy for Urban Co-operative Banks (UCBs) – General Permission
+The general permission of branch expansion in the approved area of operation will be available to UCBs in all Tiers (except Salary Earners’ Banks) which comply with applicable Financially Sound and Well Managed (FSWM) criteria.
+2. The eligible FSWM UCBs shall put in place a policy, approved by their Board of Directors for opening branches. The policy should be formulated keeping in view the financial health of the bank, viability study of the new branches and customer service and must be updated periodically to keep it aligned with revised RBI guidelines. The eligible UCBs are permitted to open new branches up to 10 per cent of the number of full-fledged branches (at the end of previous financial year) in a financial year, subject to a maximum of five branches without having the need to take permission from Reserve Bank of India. However, if the total number of full-fledged branches (at the end of previous financial year) is less than 10, the bank will be eligible to open at least one branch. Further, the UCBs shall ensure that the proposal for opening of such branches in a particular financial year, based on their policy, is duly approved by their Board of Directors. It is clarified that the banks have the liberty to either open a new branch or upgrade an Extension Counter, which has been in operation for more than three years, to a full-fledged branch, within the overall limit of 10 percent. Opening of Extension counters, Controlling Offices (Regional/ Zonal/ Administrative Office), ATMs etc. is not covered under this route and they will continue to be governed by extant guidelines.
+3. UCBs shall report to concerned Regional Office of Department of Supervision (Central Office, in case of UCBs under jurisdiction of Mumbai office) of the Reserve Bank, immediately and in any case not later than 15 calendar days, after opening of the branch complying with all the rules, as per the format given in
+Annex-III
+. The UCBs shall also submit the details on the Central Information System for Banking Infrastructure (CISBI) portal as per extant instructions.
+Annex-II
+Branch Authorization Policy for Urban Co-operative Banks (UCBs) – Timelines for Annual Business Plan (ABP) under Prior Approval Route
+As per
+Master Circular RBI/2015-16/62 DCBR.LS.(PCB)MC.No.16/07.01.000/2015-16 dated July 1, 2015
+eligible UCBs have been advised to prepare an Annual Business Plan (ABP) for opening of branches (including extension counters and up-gradation of extension counters into full-fledged branches), in their existing area of operation, for the next financial year, with the approval of their Board of Directors and submit the ABP to the respective Regional Offices of the Reserve Bank of India, preferably by end of December of the previous financial year. In order to reduce the time taken for opening new branches, the following revised timelines must be ensured.
+Sl. No.
+Activity
+Timeline
+1.
+Submission of ABP by UCBs
+ABP may be submitted preferably by November of previous financial year and in any case, not later than 15th December of previous financial year.
+2.
+Allocation of Centres by RBI
+RBI will allocate centres within 90 calendar days of receipt of complete ABP.
+3.
+Application for Authorization
+The bank must approach RBI within 90 calendar days from date of allocation of centre in the prescribed Form V, indicating the exact postal address of the place where the branch is to be opened, to obtain valid authorization.
+4.
+Authorization provided by RBI
+RBI will provide authorization for new branches within 30 calendar days of receipt of complete application.
+5.
+Validity of Authorization
+The authorization will be valid for 180 calendar days from date of issue or 360 calendar days from date of allocation of centre, whichever is earlier.
+2. While there is no requirement of submission of exact location of branch at the time of submission of ABP, UCBs should try to firm up their plans for opening branches at the requested centres well in advance to quicken the process of opening the branches. The banks may, at their discretion, include the address of their proposed branch in ABP. Strict adherence to timelines indicated above will ensure that all the branches are opened in the same financial year for which the authorization is obtained. Ordinarily, no extension of time will be granted after the expiry of validity period of authorization. Only in exceptional cases, where the bank is unable to open the branch for reasons beyond its control, an extension of time not exceeding 180 calendar days may be granted by the concerned Regional Office of Department of Supervision, under advice to Department of Regulation, Central Office.
+Annex-III
+Statement of opening of a branch of a FSWM UCB
+@
+Sl. No.
+Data Field
+Response
+1
+Name of UCB
+2
+Address
+3
+Banking licence number and date of license
+4
+Area of operation (as approved by RBI)
+5
+Date on which UCB passed the resolution declaring itself as FSWM (a copy of the Board Resolution to be attached)
+6
+Total number of branches (at the end of previous financial year as per Audited annual report)
+7
+Number of branches already opened by UCB through general permission in the current financial year (excluding the current branch)
+8
+Date of passing of Board Resolution for opening the branch (a copy of the Board Resolution to be attached)
+9
+Date of opening of branch
+10
+Complete address of the branch
+@
+Separate statements may be submitted for each branch opened using the general permission.

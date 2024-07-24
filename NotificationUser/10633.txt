@@ -1,0 +1,46 @@
+(34 kb)
+Import Data Processing and Monitoring System (IDPMS)
+RBI/2016-17/78
+A.P. (DIR Series) Circular No. 05
+October 06, 2016
+To
+All Category - I Authorised Dealer Banks
+Madam/Sir,
+Import Data Processing and Monitoring System (IDPMS)
+Attention of Authorized Dealer Category-I (AD Category-I) banks is invited to
+A.P. (DIR Series) Circular No.65 dated April 28, 2016
+read with Section 5 of the Foreign Exchange Management Act 1999 (42 of 1999), Government of India Notification No. G.S.R. 381(E) dated May 3, 2000 viz., Foreign Exchange Management (Current Account Transaction) Rules, 2000 on import of goods and
+A.P. (DIR Series) Circular No. 9 dated August 24, 2000
+which outlines the procedure, mode/manner of payment for imports and submission of related returns.
+2. In order to enhance ease of doing business and facilitate efficient data processing for payment of import transactions and effective monitoring thereof, Import Data Processing and Monitoring System (IDPMS) has been developed in consultation with the Customs authorities and other stakeholders. The details of IDPMS were advised to the AD Category-I banks vide above mentioned
+A.P. (DIR Series) Circular No.65 dated April 28, 2016
+and banks were requested to be ready with the required IT changes in their system to generate/submit the data under IDPMS as per specified message format and technical specification.
+3. As announced in the
+fourth Bi-monthly Monetary Policy Statement 2016-17 dated October 4, 2016
+, all AD Category-I banks are advised that IDPMS will go live with effect from October 10, 2016 and are directed to use IDPMS for reporting and monitoring of the import transactions.
+4. Customs department has modified the Bill of Entry (BoE) format to display the AD Code of bank with effect from April 1, 2016 and SEZ from June 1, 2016 respectively. Primary import transaction data (from Customs/SEZ) with effect from the above mentioned dates will be made available to respective AD banks in the IDPMS database for further processing. Starting October 10, 2016 all transactions will flow to IDPMS on daily basis for AD banks, to log all subsequent activities and monitor the import transactions.
+5. The User Acceptance Test (UAT) of IDPMS was launched on August 19, 2016 and banks were requested to login and familiarise themselves. AD banks were also advised to be ready with data related to all the outstanding import remittances as per the message “outward remittances against Import” to facilitate uploading of the same in IDPMS.
+6. The detailed operational procedures are available at Help Menu on EDPMS Portal under “Import process” tag. The operational directions/guidelines are as below:
+AD banks are required to create Outward Remittance Message (ORM) for all such outward remittance/s for import payments on behalf of their importer customer for which the prescribed documents for evidence of import have not been submitted.
+Creation of ORM for all outstanding outward remittance/s for import payments needs to be completed on or before October 31, 2016.
+Settlement of ORM with BoE
+Based on the AD code declared by the importer, the banks shall download the Bill of Entry (BoE) issued by EDI ports from “BOE Master” in IDPMS. For non-EDI ports, AD bank of the importer shall upload the BoE data in IDPMS as per message format “Manual BOE reporting” on daily basis on receipt of BoE from the customer/Customs office.
+AD banks will enter BoE details (BoE number, port code and date) for ORM associated with the advance payments for import transactions as per the message format “BOE settlement”.
+In case of payment after receipt of BoE, the AD bank shall generate ORM for import payments made by its importer customer as per the message format “BOE settlement”.
+Multiple ORMs can be settled against single BoE and also multiple BoE can be settled against one ORM.
+Extension and Write Off
+AD Category I banks shall give extension for submission of BoE beyond the prescribed period in terms of the extant guidelines on the matter, and the same will be reported in IDPMS as per the message “Bill of Entry Extension” and the date up to which extension is granted will be indicated in “Extension Date” column.
+AD Category I banks can consider closure of BoE/ORM in IDPMS that involves write off to the extent of 5% of invoice value in cases where the amount declared in BoE varies from the actual remittance due to operational reasons and the AD bank is satisfied with the reason/s submitted by the importer.
+AD Category I banks may close the BoE for such import transactions where write off of import payable is on account of quality issues; short shipment or destruction of goods by the port / Customs / health authorities in terms of extant guidelines on the matter subject to submission of satisfactory documentation by the importer irrespective of the amount involved. AD Bank shall settle and close ORM/BoE with appropriate “Adjustment Indicator” in IDPMS.
+The above operational guidelines for extension and write off are meant to facilitate closure of bills in IDPMS and will be subject to extant guidelines on the matter and shall not absolve the importer from remitting / receiving the amount in case of change in circumstances.
+Extension and write off cases not covered by the extant guidelines may be referred to the concerned Regional Office of Reserve Bank of India for necessary approvals.
+Follow-up for Evidence of Import
+AD Category – I banks are required to follow up for submission of prescribed documents for evidence of import in terms of extant guidelines on the subject.
+7. Authorised Dealers may bring the contents of this circular to the notice of their constituents and customers concerned.
+8.
+Master Direction No. 17/2015-16 dated January 1, 2016
+is being updated to reflect the changes.
+9. The directions contained in this circular have been issued under Section 10(4) and 11(1) of the FEMA, 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(A. K. Pandey)
+Chief General Manager

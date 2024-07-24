@@ -1,0 +1,157 @@
+(447 kb)
+Master Direction - Reserve Bank of India (Financial Statements of All India Financial Institutions - Presentation, Disclosure and Reporting) Directions, 2016
+RBI/DBR/2015-16/26
+Master Direction DBR.FID.No.108/01.02.000/2015-16
+June 23, 2016
+Master Direction - Reserve Bank of India (Financial Statements of All India Financial
+Institutions - Presentation, Disclosure and Reporting) Directions, 2016
+In exercise of the powers conferred by Section 45 L of the Reserve Bank of India Act, 1934, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest and in the interest of financial sector policy so to do, hereby, issues the Directions hereinafter specified.
+CHAPTER – I
+PRELIMINARY
+1. Short Title and Commencement
+(a) These Directions shall be called the Reserve Bank of India (Financial Statements of All India Financial Institutions - Presentation, Disclosures and Reporting) Directions, 2016.
+(b) These Directions shall come into effect on the day these are placed on the official website of the Reserve Bank of India.
+2. Applicability
+These Directions shall be applicable to the All India Financial Institutions (AIFIs) regulated by Reserve Bank of India viz. EXIM Bank, NABARD, NHB and SIDBI with effect from the quarter ended December 2016
+1
+.
+CHAPTER – II
+FORMAT OF THE BALANCE SHEET AND PROFIT & LOSS ACCOUNT
+AND PREPARATION OF CONSOLIDATED FINACIAL STATEMENTS
+3. The AIFIs shall, in respect of all business transacted by them, prepare a balance-sheet and profit and loss account as on the last working day of the year or the period, as the case may be, in the form and manner prescribed under the respective Acts governing their functioning.
+4. In addition to solo level financial statements, the AIFIs shall also prepare and disclose Consolidated Financial Statements.
+5. The Consolidated Financial Statements shall be prepared in terms of Accounting Standard (AS) 21 –Consolidated Financial Statements (CFS) and other related accounting standards – AS 23- Accounting for Investments in Associates in Consolidated Financial Statements and AS 27- Financial Reporting of Interests in Joint Ventures. For the purpose, the terms 'parent', 'subsidiary', ‘associate’, ‘joint venture’, 'control' and 'group' shall have the same meaning as ascribed to them in the above accounting standards.
+6. A parent AIFI presenting CFS shall consolidate all subsidiaries - domestic as well as foreign, except those specifically permitted to be excluded under AS 21. The reasons for not consolidating a subsidiary shall be disclosed in CFS. The responsibility of determining whether a particular entity shall be included or not for consolidation would be that of the Management of the parent entity and the Statutory Auditors shall comment in this regard if they are of the opinion that an entity which ought to have been consolidated had been omitted.
+7. CFS shall normally include consolidated balance sheet, consolidated statement of profit and loss, principal accounting policies and notes to accounts.
+8. The financial statements used in the consolidation shall be drawn up as of the same reporting date. If that is not possible, AS 21 allows adoption of six month old balance sheet of subsidiaries and prescribes that adjustments shall be made for the effects of significant transactions or other events that have occurred during the intervening period. In case that the balance sheet dates of parent and subsidiaries are different, inter-group netting shall be done as on the balance sheet date of the parent entity. In the cases where the balance sheet date coincides with that of the AIFI, the AIFI shall publish its CFS without waiting for the audit of their subsidiaries by the Comptroller and Auditor General. However, the AIFI shall ensure completion of statutory audit of the accounts of such subsidiaries before consolidation with the parent’s accounts.
+9. The CFS shall be prepared using uniform accounting policies for like transactions and other events in similar circumstances. If it is not practicable to do so, that fact shall be disclosed together with the proportions of the items in the consolidated financial statements to which the different accounting policies have been applied. For the purpose of preparing the CFS using uniform accounting policies, the AIFIs shall rely on a Statement of Adjustments for non-uniform accounting policies, furnished by the Statutory Auditors of the subsidiaries.
+10. In cases where different entities in a group are governed by different accounting norms laid down by the concerned regulator for different businesses, the AIFI shall use for consolidation purposes the rules and regulatory requirements applicable to the AIFIs in respect of like transactions and other events in similar circumstances. In situations where regulatory norms have been prescribed by RBI, the norms as applicable according to the accounting standards may be followed.
+11. For the purpose of valuation, the investments in associates (other than those specifically excluded under AS 23) shall be accounted for under the "Equity Method" of accounting in accordance with AS 23.
+12. The valuation of investments in subsidiaries which are not consolidated and associates which are excluded under AS 23, shall be as per the relevant valuation norms issued by the Reserve Bank of India. The valuation of investments in joint ventures shall be accounted for under the ‘proportionate consolidation’ method as per AS 27. The AIFIs may take into account the provisions of the accounting standards relating to the exclusion of subsidiaries, associates or joint ventures from consolidation under specific circumstances.
+13. The solo level financial statements and the CFS shall be submitted to the Department of Banking Supervision, Reserve Bank of India within one month from the publication of the AIFI’s annual accounts.
+CHAPTER – III
+DISCLOSURE IN FINANCIAL STATEMENTS – NOTES TO ACCOUNTS
+14. The AIFIs shall disclose the information specified in
+Annexure I
+of these Directions in the notes to accounts of the financial statements. These disclosures are intended only to supplement and not to replace the disclosure requirements under other laws, regulations or accounting and financial reporting standards. The disclosures set out in this Direction constitute only minima and if the AIFIs are encouraged to make additional disclosures as considered appropriate having regard to their specific operations.
+15. The AIFIs shall follow the guidance on specific issues with respect to certain Accounting Standards as given in
+Annex II
+.
+CHAPTER – IV
+CONSOLIDATED PRUDENTIAL REPORTING REQUIREMENTS
+Scope
+16. Wherever an AIFI has any subsidiaries, joint ventures or associates, in addition to the CFS, it shall also prepare Consolidated Prudential Reports (CPRs) as prescribed in
+Annex III
+relating to the entre group including all entities under its control. The AIFIs shall follow the guidance contained in
+Annex IV
+while preparing these reports. The CPR for a consolidated AIFI shall include information and accounts of related entities (subsidiaries, associates and joint ventures) of the AIFI, which carry on activities of financial nature. The AIFIs shall justify the exclusion of any entity for the purpose of CPR.
+Frequency
+17. The CPR shall be submitted on half-yearly basis as part of off-site reporting system on the lines of the existing DSB returns for the solo entities. The CPR for half-year ended March shall be submitted by the end of June. If audited results of entities under the CPR are not available, the AIFIs shall submit the provisional CPR with unaudited results of such entities, by end of June and final position by end of September. The CPR for the half-year ended September must be submitted by the end of December.
+2
+Format
+18. The AIFIs shall use the same format for CPRs purposes as their solo balance sheet prescribed under the respective Acts with appropriate modifications/ notes. The CPR comprises of Consolidated Balance Sheet, Consolidated Profit & Loss Account, and select data on financial / risk profile of the consolidated AIFI.
+Other consolidation instructions
+19. In respect of related entities which operate under severe long term restrictions which significantly impair their ability to transfer funds to the parent, the AIFIs shall disclose separately the book value of the amounts due from such related entities and the net amounts recoverable from them. The AIFIs shall also consider making appropriate provisions for the shortfall.
+CHAPTER – V
+REPEAL AND OTHER PROVISIONS
+Repeal and saving
+20. With the issue of these directions, the instructions / guidelines contained in the circulars issued by the Reserve Bank listed in
+Annexure V
+stand repealed. All the instructions / guidelines given under the above circulars shall be deemed as given under these directions. Any reference in other Circulars / Guidelines /Notifications issued by the Bank containing reference to the said repealed Circulars, shall mean reference to these Directions, namely, Financial Statements – Presentation & Disclosures: Directions, 2016, after the date of repeal. Notwithstanding such repeal, any action taken, purported to have been taken or initiated under the Circulars hereby repealed shall continue to be governed by the provisions of the said Circulars.
+Application of other laws not barred
+21. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+Interpretations
+22. For the purpose of giving effect to the provisions of these Directions or in order to remove any difficulties in the application or interpretation of the provisions of these Directions, the Reserve Bank of India may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of these directions given by the Reserve Bank of India shall be final and binding.
+Annex V
+List of Circulars repealed by these directions [to the extent of applicability to the
+AIFIs (EXIM Bank, NABARD, NHB & SIDBI)]
+No
+Circular No.
+Date
+Subject
+1.
+DBS.FID.No.20/02.01.00/1997-98
+04.12.1997
+Limits on Credit Exposures of Term Lending Financial Institutions to Individual / Group Borrowers
+2.
+MPD.BC.187/07.01.279/1999-2000
+07.07.1999
+Forward Rate Agreements / Interest Rate Swaps
+3.
+DBS.FID.No.C-9/01.02.00/2000-01
+09.11.2000
+Guidelines - Classification and Valuation of Investments
+4.
+DBS.FID.No.C-19/01.02.00/2000-01
+28.03.2001
+Treatment of Restructured Accounts
+5.
+DBS.FID.No.C-26/01.02.00/2000-01
+20.06.2001
+Monetary and Credit Policy Measures 2001-2002 - Credit Exposure Norms
+6.
+DBS.FID.No.C-2/01.11.00/2001-02
+25.08.2001
+Corporate Debt Restructuring (CDR)
+7.
+DBS.FID.No.C-6/01.02.00/2001-02
+16.10.2001
+Guidelines for Classification and Valuation of Investments - Modifications / Clarifications
+8.
+DBOD.No.BP.BC.96/21.04.048/2002-2003
+23.04.2003
+Guidelines on Sale of Financial Assets to Securitisation Company / Reconstruction Company
+9.
+IDMC.MSRD.4801/06.01.03/2002-03
+03.06.2003
+Guidelines on Exchange Traded Interest Rate Derivatives
+10.
+DBS.FID.No.C-5/01.02.00/2003-04
+01.08.2003
+Guidelines for Consolidated Accounting and Consolidated Supervision
+11.
+DBS.FID.No.C-11/01.02.00/2003-04
+08.01.2004
+Final Guidelines on investment by the FIs in debt securities
+12.
+DBOD.No.FID.FIC.8/01.02.00/2009-10
+26.03.2010
+Additional Disclosures in Notes to Accounts
+13.
+DBOD.No.FID.FIC.9/01.02.00/2009-10
+26.03.2010
+Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances - Computation of NPA Levels
+14.
+DBOD.FID.FIC.No.5/01.02.00/2010-11
+18.08.2010
+Sale of Investments held under Held to Maturity (HTM) Category
+15.
+DBOD.FID.FIC.No.8/01.02.00/2010-11
+02.11.2010
+Prudential Norms for Off Balance Sheet Exposure - Bilateral netting of counterparty credit exposures
+16.
+DBOD.BP.BC.No.99/21.04.132/2012-13
+30.05.2013
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institutions
+17.
+DBOD.FID.FIC.No.5/01.02.00/2012-13
+17.06.2013
+Review of Prudential Guidelines on Restructuring of Advances by Banks and Financial Institution
+18.
+DBOD.BP.BC.No.97/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy - Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP)
+19.
+DBOD.BP.BC.No.98/21.04.132/2013-14
+26.02.2014
+Framework for Revitalising Distressed Assets in the Economy - Refinancing of Project Loans, Sale of NPA and Other Regulatory Measures
+20.
+DBR.No.FID.5/01.02.00/2014-15
+11.06.2015
+Guidelines on Sale of Financial Assets to Securitisation Company (SC)/ Reconstruction Company (RC) and Related Issues
+1
+Until September 30, 2016, the existing instructions contained in
+Master Circular dated July 1, 2015 on Disclosure Norms for Financial Institutions
+shall continue to apply.
+2
+In case of NHB, the provisional CPR with unaudited results may be submitted by end of September and final position by end of December.

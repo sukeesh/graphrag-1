@@ -1,0 +1,63 @@
+(371 kb)
+Basel III Capital Regulations - Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital – Eligible Limit for Instruments Denominated in Foreign Currency/Rupee Denominated Bonds Overseas
+RBI/2021-22/106
+DOR.CAP.REC.No.56/21.06.201/2021-22
+October 4, 2021
+All Scheduled Commercial Banks (Excluding RRBs)
+Dear Sir/ Madam,
+Basel III Capital Regulations - Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital – Eligible Limit for Instruments Denominated in Foreign Currency/Rupee Denominated Bonds Overseas
+Please refer to paragraph 1.16 of Annex 4 (Criteria for Inclusion of Perpetual Debt Instruments (PDI) in Additional Tier 1 Capital) to the
+Master Circular Ref DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015
+on ‘Basel III Capital Regulations’ and the
+circular Ref. DBR.BP.BC.No.28/21.06.001/2016-17 dated November 3, 2016
+on Issue of Rupee Denominated Bonds Overseas.
+2. Several banks have approached us to clarify the amount of capital funds that can be raised overseas. The issue has been examined and it is clarified that the “eligible amount” for purpose of issue of PDIs in foreign currency as per para 1.16 (ii) of Annex 4 to the
+Master Circular dated July 1, 2015
+referred to above, would mean the higher of:
+(a) 1.5% of Risk Weighted Assets (RWAs) and
+(b) Total Additional Tier 1 capital
+as on March 31 of the previous financial year.
+Not more than 49% of the “eligible amount” as above can be issued in foreign currency and/or in rupee denominated bonds overseas.
+3. Accordingly, the sub para (ii) of paragraph 1.16 of Annex 4 to the
+Master Circular dated July 1, 2015
+referred to above is amended as indicated in
+Annex 1
+enclosed herewith. An illustration is enclosed in
+Annex 2
+for greater clarity.
+4. All the other terms of the
+Master Circular on Basel III Capital Regulations dated July 1, 2015
+, referred to above, as amended from time to time, shall remain unchanged. The issuances as above shall be subject to all applicable prudential norms and FEMA guidelines.
+Yours faithfully
+(Neeraj Nigam)
+Chief General Manager-in-Charge
+Annex 1
+Amendment to sub para (ii) of paragraph 1.16 of Annex 4 to
+Master Circular DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015
+on ‘Basel III Capital Regulations’
+1.16 (ii) Not more than 49% of the eligible amount can be issued in foreign currency* and/or in rupee denominated bonds overseas.
+“Eligible amount”
+in this context
+shall mean the higher of:
+(a) 1.5% of RWA and
+(b) Total Additional Tier 1 capital
+as on March 31 of the previous financial year.
+*Not applicable to foreign banks’ branches
+Annex 2
+Illustration on the “eligible amount” that can be raised as per Paragraph 1.16 (ii) of Annex 4 to
+Master Circular DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015
+on ‘Basel III Capital Regulations’
+We consider the RWAs of the bank as on March 31 of previous financial year as ₹ 1000 crore.
+Scenario
+Maximum amount of AT1 bonds that can be raised overseas (in foreign currency and/or in rupee denominated bonds overseas)
+Case I
+The bank had AT1 capital of less than or equal to 1.5% of RWAs as on March 31 of the previous financial year.
+Illustratively, the bank did not have any AT1 capital as on March 31 of the previous financial year.
+Equals ₹ 7.35 crore (49% of 1.5% of RWAs).
+Case II
+The bank had AT1 capital more than 1.5% of RWAs as on March 31 of previous financial year.
+Illustratively, the bank had AT1 capital of ₹ 50 crore as on March 31 of the previous financial year.
+Equals 49% of ₹ 50 crore i.e. ₹ 24.5 crore (49% of total AT1 capital as it is more than 1.5% of RWAs).
+Note: The amount of AT1 capital recognised for inclusion in Tier 1 capital will be subject to the limits mentioned in para 4.2.2 of the Basel III
+Master Circular dated July 1, 2015
+and para 1.3 of Annex 4 to the Master Circular ibid.

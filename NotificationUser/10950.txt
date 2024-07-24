@@ -1,0 +1,38 @@
+(73 kb)
+Guidelines on Merchant Acquisition for Card Transactions
+RBI/2016-17/296
+DCBR.RAD (PCB/RCB) Cir.No.4/7.12.001/2016-17
+April 28, 2017
+The Chief Executive Officers
+All Primary (Urban) Co-operative Banks /
+All State Co-operative Banks (StCBs) /
+All District Central Co-operative Banks
+Dear Sir/Madam,
+Guidelines on Merchant Acquisition for Card Transactions
+Co-operative banks have been permitted to install both onsite/offsite ATM networks and can issue debit cards on their own or through sponsor banks based on certain eligibility conditions. Also, all co-operative banks have been allowed to enter into credit card business on their own or co-branding arrangement with other banks, subject to fulfilment of the guidelines prescribed in this regard. Keeping in view the need for encouraging digital channels for financial transactions in co-operative banks, it has been decided as under:
+1. All co-operative banks not intending to act as Point of Sale (POS) acquiring bank are permitted to deploy third party POS terminals
+without prior approval
+of Reserve Bank of India (RBI) subject to the bank fulfilling the following criteria:
+The co-operative bank should be licensed by RBI and CBS compliant;
+The bank’s CRAR should not be less than 9% in the preceding financial year;
+The bank should have made a net profit in the preceding financial year;
+The bank’s board should consist of at least two professional directors;
+A customer grievance redressal mechanism duly approved by the bank’s board should be in place;
+The bank should have a board approved policy on merchant acquisition for card transactions;
+There should not be any restrictions imposed on the bank for accepting deposits/withdrawals by Reserve Bank of India.
+The bank should obtain consent of their merchant customers before offering third party POS terminals and disclose the process of settlement.
+The bank should report to respective Regional Offices of RBI within a month with necessary documents after the operationalization of third party POS terminals.
+2. All co-operative banks intending to act as POS acquiring bank are permitted to deploy their own POS terminals
+with prior approval
+of RBI subject to the bank fulfilling the following criteria:
+The co-operative bank should comply with criteria mentioned above at 1(a) to (g) of Para 1. The bank’s IT systems & CBS should have been subjected to an IS Audit not earlier than six months from the date of application to confirm that the system is adequately secure.
+Assessed net-worth should be more than ₹ 25 crore as per the last RBI inspection;
+Gross NPAs should be less than 7% and net NPAs should be less than 3% in the preceding financial year;
+No monetary penalty should have been imposed in last two financial years and during the year of submitting the application;
+There should not be any default in the maintenance of CRR/SLR during the preceding financial year;
+The bank should be a member of authorized card network, such as RuPay, Visa, MasterCard etc.
+3. The banks shall comply with instructions and guidelines on Merchant Acquisition for card transactions and POS issued by Department of Payment and Settlement Systems, RBI from time to time.
+4. The co-operative banks desirous to deploy their own POS terminals and act as POS acquiring bank may approach the respective Regional Offices of RBI for necessary permission in this regard, with requisite information/documents.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager

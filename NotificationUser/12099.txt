@@ -1,0 +1,134 @@
+(235 kb)
+Foreign Exchange Management (Debt Instruments) Regulations, 2019
+RESERVE BANK OF INDIA
+(FINANCIAL MARKETS REGULATION DEPARTMENT)
+(CENTRAL OFFICE)
+NOTIFICATION
+Mumbai, the 17th October, 2019
+No. FEMA 396/2019-RB
+Foreign Exchange Management (Debt Instruments) Regulations, 2019
+G.S.R. 796(E). -
+In exercise of the powers conferred by clause (a) of sub-section (2) of section 6 and section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), and in supersession of the Foreign Exchange Management (Transfer of Issue of Security by a Person Resident outside India) Regulations, 2017, the Reserve Bank makes the following regulations to regulate investment in India by a Person Resident Outside India, namely:-
+CHAPTER I
+PRELIMINARY
+1. Short title and commencement :-
+(1) These Regulations may be called the Foreign Exchange Management (Debt Instruments) Regulations, 2019.
+(2) They shall come into force from the date of their publication in the Official Gazette.
+2. Definitions: -
+In these Regulations, unless the context otherwise requires,:-
+“Act” means the Foreign Exchange Management Act, 1999 (42 of 1999);
+“asset reconstruction company” means a company registered with the Reserve Bank under section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002);
+“authorised dealer” includes a person authorised under sub-section (1) of section 10 of the Act;
+“debt instruments” means the instruments listed under
+Schedule 1
+of the regulations;
+“foreign central bank” means an institution or organisation or body corporate established in a country outside India and entrusted with the responsibility of carrying out central bank functions under the law for the time being in force in that country;
+“FCNR (B) account” means a Foreign Currency Non-Resident (Bank) account maintained in accordance with the
+Foreign Exchange Management (Deposit) Regulations, 2016
+;
+“FPI” or “Foreign Portfolio Investor” means a person registered in accordance with the provisions of the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 2014;
+“Indian company” means a company incorporated in India;
+“Indian entity” shall mean an Indian company or a LLP ;
+“investment” means to subscribe, acquire, hold or transfer any debt instrument or unit issued by a person resident in India;
+“investment on repatriation basis” means an investment, sale or maturity proceeds of which are net of taxes, eligible to be repatriated out of India, and the expression “investment on non-repatriation basis”, shall be construed accordingly;
+“mutual fund” means an entity governed by the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996;
+“LLP” means a limited liability partnership formed and registered under the Limited Liability Partnership Act, 2008 (6 of 2009);
+“listed Indian company” means an Indian company which has any of its equity instruments or debt instruments listed on a recognised stock exchange in India and the expression “unlisted Indian company” shall be construed accordingly;
+“municipal bonds” mean debt instruments issued by municipalities constituted under Article 243Q of the Constitution of India;
+“NRI” or “Non-Resident Indian” means an individual resident outside India who is a citizen of India;
+“OCI” or “Overseas Citizen of India” means an individual resident outside India who is registered as an Overseas Citizen of India Cardholder under section 7(A) of the Citizenship Act, 1955 ( 57 of 1955);
+“unit” means a beneficial interest of an investor in a mutual fund;
+“venture capital fund” means a fund established in the form of a trust, a company including a body corporate and registered under the Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 2012.
+(2) The words and expressions used but not defined in these regulations shall have the same meanings respectively assigned to them in the Act, rules and regulations.
+CHAPTER II
+GENERAL CONDITIONS APPLICABLE TO ALL INVESTORS
+3. Restriction on investment by a person resident outside India. -
+Save as otherwise provided in the Act, or rules or regulations made thereunder, no person resident outside India shall make any investment in India.
+Provided that an investment made in accordance with the Act or the rules or the regulations framed thereunder and held on the date of commencement of these Regulations, shall be deemed to have been made under these Regulations and shall accordingly be governed by these Regulations.
+Provided further that the Reserve Bank may, on an application made to it and for sufficient reasons, permit a person resident outside India to make any investment in India subject to such conditions as may be considered necessary.
+4. Restriction on receiving investment.-
+Save as otherwise provided in the Act or rules or regulations made thereunder, an Indian entity or a mutual fund, or a venture capital fund or a firm or an association of persons or a proprietary concern shall not receive any investment in India from a person resident outside India or record such investment in its books :
+Provided that the Reserve Bank may, on an application made to it and for sufficient reasons, permit an Indian entity or a mutual fund, or a venture capital fund or a Firm or an Association of Persons or a proprietary concern to receive any investment in India from a person resident outside India or to record such investment subject to such conditions as may be considered necessary.
+5. Permission for making investment by a person resident outside India.-
+Unless otherwise specified in these regulations or the relevant Schedules, any investment made by a person resident outside India shall be subject to the entry routes, the investment limits and the attendant conditionalities for such investment as laid down in these regulations.
+(1) A person resident outside India, permitted for the purpose by the Reserve Bank in consultation with Central Government, may purchase or sell debt instruments in the manner and subject to the terms and conditions specified in
+Schedule 1
+.
+(2) A person resident outside India may trade in all exchange traded derivative contracts approved by Securities and Exchange Board of India from time to time subject to the limits prescribed by Securities and Exchange Board of India and conditions specified in
+Schedule 1
+.
+(3) A person resident outside India may enter into contract in any derivative transaction subject to conditions laid down by the Reserve Bank from time to time.
+6. Merger or demerger or amalgamation of Indian companies
+Where a Scheme of Arrangement for an Indian company has been approved by National Company Law Tribunal (NCLT)/ Competent Authority, the Indian company may issue non-convertible redeemable preference shares or non-convertible redeemable debentures out of its general reserves by way of distribution as bonus to the shareholders resident outside India, subject to the following conditions, namely:
+the original investment made in the Indian company by a person resident outside India is in accordance with these Regulations and the conditions specified in the relevant Schedule;
+the said issue is in accordance with the provisions of the Companies Act, 2013 and the terms and conditions, if any, stipulated in the scheme approved by National Company Law Tribunal (NCLT)/ Competent Authority have been complied with;
+the Indian company shall not engage in any activity/ sector in which investment by a person resident outside India is prohibited.
+7. Taxes and Remittance of sale proceeds.
+7.1. Taxes
+All transaction under these regulations shall be undertaken through banking channels in India and subject to payment of applicable taxes and other duties/ levies in India.
+7.2. Remittance of sale proceeds
+(1) No remittance of sale proceeds of a debt instrument held by a person resident outside India shall be made otherwise than in accordance with these Regulations and the conditions specified in the relevant Schedule.
+(2) An authorised dealer may allow the remittance of sale proceeds of a debt instrument (net of applicable taxes) to the seller of such instrument resident outside India -
+Provided -
+(i) the instrument was held by the seller on repatriation basis; and
+(ii) Reserve Bank's approval has been obtained in other cases for sale of the instrument and remittance of the sale proceeds thereof;
+(3) An authorised dealer may allow remittances – both inward and outward – related for permitted derivatives transactions.
+T. RABI SANKAR, Chief General Manager
+Footnotes:
+i) The principal Regulations [Notification no. FEMA 396/2019-RB dated October 17, 2019] were published in the Gazette of India [Extraordinary, Part II–Section 3-Subsection(i)] vide
+Gazette Id no. G.S.R.796(E) dated 17.10.2019
+.
+Schedule 1
+Purchase and sale of debt instruments by a person resident outside India
+1. Permission to persons resident outside India
+A. Permission to Foreign Portfolio Investors (FPIs)
+An FPI may purchase the following debt instruments on repatriation basis subject to the terms and conditions specified by the Securities and Exchange Board of India and the Reserve Bank:
+(a) dated Government securities/ treasury bills;
+(b) non-convertible debentures/ bonds issued by an Indian company;
+(c) commercial papers issued by an Indian company;
+(d) units of domestic mutual funds or Exchange-Traded Funds (ETFs) which invest less than or equal to 50 percent in equity;
+(e) Security Receipts (SRs) issued by Asset Reconstruction Companies;
+(f) debt instruments issued by banks, eligible for inclusion in regulatory capital;
+(g) Credit enhanced bonds;
+(h) Listed non-convertible/ redeemable preference shares or debentures issued in terms of Regulation 6 of these Regulations;
+(i) Securitised debt instruments, including (i) any certificate or instrument issued by a special purpose vehicle (SPV) set up for securitisation of asset/s with banks, Financial Institutions or NBFCs as originators;
+(j) Rupee denominated bonds/ units issued by Infrastructure Debt Funds;
+Provided this will include such instruments issued on or after November 22, 2011 and held by deemed FPIs.
+(k) Municipal Bonds
+Provided that FPIs may offer such instruments as permitted by the Reserve Bank from time to time as collateral to the recognized Stock Exchanges in India for their transactions in exchange traded derivative contracts as specified in sub-Regulation 2 of Regulation 5.
+B. Permission to Non-resident Indians (NRIs) or Overseas Citizens of India (OCIs) – Repatriation basis
+(1) A Non-resident Indian (NRI) or an Overseas Citizen of India (OCI) may, without limit, purchase the following instruments on repatriation basis,
+Government dated securities (other than bearer securities) or treasury bills or units of domestic mutual funds or Exchange-Traded Funds (ETFs) which invest less than or equal to 50 percent in equity;
+Bonds issued by a Public Sector Undertaking (PSU) in India;
+Bonds issued by Infrastructure Debt Funds;
+Listed non-convertible/ redeemable preference shares or debentures issued in terms of Regulation 6 of these Regulations;
+(2) An NRI or an OCI may purchase on repatriation basis debt instruments issued by banks, eligible for inclusion in regulatory capital.
+(3) An NRI may subscribe to National Pension System governed and administered by Pension Fund Regulatory and Development Authority (PFRDA), provided such person is eligible to invest as per the provisions of the PFRDA Act. The annuity/ accumulated saving will be repatriable.
+Provided that NRI/ OCIs may offer such instruments as permitted by the Reserve Bank from time to time as collateral to the recognized Stock Exchanges in India for their transactions in exchange traded derivative contracts as specified in sub-regulation 2 of regulation 5.
+C. Permission to Non-resident Indians (NRIs) or Overseas Citizens of India (OCIs) – Non-Repatriation basis
+(1) An NRI or an OCI may, without limit, purchase on non-repatriation basis, dated Government securities (other than bearer securities), treasury bills, units of domestic mutual funds or Exchange-Traded Funds (ETFs) which invest less than or equal to 50 percent in equity, or National Plan/ Savings Certificates.
+(2) An NRI or an OCI may, without limit, purchase on non-repatriation basis, listed non-convertible/ redeemable preference shares or debentures issued in terms of Regulation 6 of these Regulations.
+(3) An NRI or an OCI may, without limit, on non-repatriation basis subscribe to the chit funds authorised by the Registrar of Chits or an officer authorised by the State Government in this behalf.
+D. Permission to Foreign Central Banks or a Multilateral Development Bank for purchase of Government Securities
+(1) Foreign Central Banks, Multilateral Development Banks or any other entity permitted by the Reserve Bank, may purchase or sell dated Government Securities/treasury bills, as per terms and conditions specified by the Reserve Bank.
+2. Mode of Payment
+(1) The amount of consideration for purchase of instruments by FPIs shall be paid out of inward remittance from abroad through banking channels or out of funds held in a foreign currency account and/ or Special Non-Resident Rupee (SNRR) account maintained in accordance with the
+Foreign Exchange Management (Deposit) Regulations, 2016
+. The foreign currency account and SNRR account shall be used only and exclusively for transactions under this Schedule.
+(2) The amount of consideration for purchase of instruments by NRIs or OCIs on repatriation basis shall be paid out of inward remittances from abroad through banking channels or out of funds held in NRE/ FCNR(B) account maintained in accordance with the
+Foreign Exchange Management (Deposit) Regulations, 2016
+.
+(3) The amount of consideration for (a) purchase of instruments by NRIs or OCIs on non-repatriation basis and (b) subscriptions to the National Pension System by NRIs shall be paid out of inward remittances from abroad through banking channels or out of funds held in NRE/ FCNR(B)/ NRO account maintained in accordance with the
+Foreign Exchange Management (Deposit) Regulations, 2016
+.
+(4) The amount of consideration for purchase of Government dated securities by a Foreign Central Bank or a Multilateral Development Bank shall be paid out of inward remittances from abroad through banking channels or out of funds held in an account opened with the specific approval of the RBI.
+(5) The amount of consideration for purchase of instruments by other non-resident investors shall be paid out of inward remittances from abroad through banking channels.
+3. Permission for Sale of instruments
+A person resident outside India who has purchased instruments in accordance with this Schedule may sell/ redeem the instruments subject to such terms and conditions as may be specified by the Reserve Bank and the Securities Exchange Board of India.
+4. Remittance/ credit of sale/ maturity proceeds
+(1) The sale/ maturity proceeds (net of taxes) of instruments held by Foreign Portfolio Investors (FPIs) may be remitted outside India or may be credited to the foreign currency account or SNRR account of the FPI.
+(2) The net sale/ maturity proceeds (net of taxes) of instruments held by NRIs or OCIs, may be:
+Credited to the NRO account person concerned where the instruments were held on non-repatriation basis
+Credited to the NRO account person concerned where the payment for the purchase of the instruments sold was made out of funds held in NRO account, or
+Remitted abroad or at the NRI/ OCI investor's option, credited to his NRE/ FCNR(B)/ NRO account, where the instruments were purchased on repatriation basis.
+(3) In all other cases, the sale/ maturity proceeds (net of taxes) may be remitted abroad or credited to an account opened with the prior permission of the Reserve Bank.

@@ -1,0 +1,816 @@
+(1437 kb)
+Master Circular on Branch Authorisation
+RBI/2014-15/77
+DBOD. No. BAPD.BC. 7/22.01.001/2014-15
+July 1, 2014
+All  Commercial Banks
+(Excluding  RRBs)
+Dear Sir/Madam,
+Section 23 of the Banking Regulation  Act, 1949 – Master Circular on Branch Authorisation
+Please refer to the
+Master  Circular DBOD No. BAPD.BC. 18 /22.01.001/2013-14 dated July 1, 2013
+consolidating instructions /  guidelines issued to banks on Branch Authorisation till June 30, 2013. The  Master Circular has been suitably updated by incorporating the instructions  issued up to June 30, 2014. The
+Master Circular
+has been placed on the RBI  website (
+http://www.rbi.org.in
+).
+2. Foreign banks may be guided by  paragraph 3.3 of this Master Circular.
+Yours faithfully,
+(Lily  Vadera)
+Chief  General Manager
+Master Circular on Branch Authorisation
+TABLE OF CONTENTS
+Para No.
+Particulars
+A
+Purpose
+B
+Classification
+C
+Previous guidelines consolidated
+D
+Scope of application
+E
+Structure
+1
+Introduction
+2
+Definition
+3
+Branch Authorisation Policy
+A
+Opening of branches
+B
+Substitution of centres
+C
+Shifting of branches
+D
+Conversion of branches
+E
+Merger of branches
+F
+Closure of branches
+4.
+Setting up of Offsite/Mobile ATMs –    General Permission
+5.
+Mobile branches
+6.
+Setting up of central processing    centres/back offices
+7.
+Call centres
+8.
+Business Facilitators / Business    Correspondents
+9.
+Doorstep banking
+10.
+Acquisition of premises
+11.
+Population group wise classification of centres
+12.
+Reporting to Reserve Bank of India
+Annex 1
+Details of Branches opened under ABEP during the financial year
+Annex 2
+Details of tier-wise classification of centres based on    population
+Annex-3
+List of Under banked Districts
+Annex-4
+List of Under banked Districts of Under banked States
+Annex-5
+Format for Proposals for shifting of branches
+Annex-6
+Format for Proposals for merger of branches
+Annex-7
+Format for Proposals for closure of branches
+Annex-8
+Reporting format for operationalization of off-site ATMs by    banks
+Annex-9
+Proforma-I & Proforma-II
+Annex-10
+Proforma III and IV-Formats for reporting operationalisation of    mobile branches/offices/mobile ATMs
+Annex-11 A
+Form VI form of application for permission to open a new place    of business
+Annex-11 B
+Summary of branches proposed to be opened
+Annex-11 C
+State-wise, population group-wise number of existing branches in    under banked/other than under banked districts
+Annex-11 D
+State-wise, population group-wise number of existing ATMs in    under banked/other than under banked districts
+Annex-11 E
+State-wise, population group-wise number of existing extension    counters
+Annex-11 F
+Information about Specialised branches converted into General    branches and General branches converted into Specialised branches
+Annex-11 G
+Information to be submitted along with Annual Branch Expansion    Plan
+Annex-11 H
+Reporting format for opening of branches under general    permission in Tier 2 to Tier 6 centres
+Annex-11 I
+Particulars to be furnished by the bank in respect of its    request for an extension counter (E.C.)
+Appendix
+List of circulars consolidated in the master circular
+A. Purpose
+To provide a framework of rules/regulations/procedures to be followed by  banks while opening/shifting/closing branches in India in accordance with  provisions of
+Section 23
+of the Banking Regulation Act, 1949.
+B. Classification
+A statutory guideline issued by Reserve Bank of India.
+C. Previous Guidelines consolidated
+The Master Circular updates the instructions contained in the circulars  listed in the
+Appendix
+.
+D. Scope of Application
+To all commercial banks (other than RRBs) including Local Area Banks.
+E. Structure
+1. Introduction
+2. Definition
+3. Branch Authorisation Policy
+A. Opening of Branches
+B. Substitution of Centres
+C.  Shifting of Branches
+D.  Conversion of Branches
+E.  Merger of Branches
+F.  Closure of Branches
+4. Setting up of Off Site ATMs - General Permission
+5. Mobile Branches
+6. Setting up of Central  Processing Centres/Back Offices
+7.  Call Centres
+8.   Business Facilitator/Business Correspondent Model
+9. Door Step Banking
+10. Acquisition of premises
+11. Population Group wise classification of centres
+12. Reporting to Reserve Bank of India
+1.  Introduction
+The  opening of new branches and shifting of existing branches of banks is governed  by the provisions of
+Section 23
+of the Banking Regulation Act, 1949. In  terms of these provisions, banks cannot, without the prior approval of the  Reserve Bank of India (RBI), open a new place of business in India or abroad or  change, otherwise than within the same city, town or village, the location of  the existing place of business. Section 23 (2) of the Banking Regulation Act  lays down that before granting any permission under this section, the Reserve  Bank may require to be satisfied, by an inspection under Section 35 or  otherwise, as to the financial condition and history of the banking company,  the general character of its management, the adequacy of its capital structure  and earning prospects and that public interest will be served by the opening  or, as the case may be, change of location of the existing place of business.  Commercial banks (other than RRBs) including Local Area Banks should approach  the Department of Banking Operations & Development, Reserve Bank of India,  Central Office (DBOD, CO) in this regard.
+The policy for authorisation of branches in India  is summarized in the following paragraphs.
+2.  Definition
+For  the purpose of branch authorisation policy, a "branch" would include  all branches i.e full-fledged branches,  specialised branches, satellite offices, mobile branches Extension Counters, off-site ATMs (Automated Teller Machines),  administrative offices, controlling offices, service branches (back office or  processing centre) etc.
+A call centre will not be treated as a branch. A  call centre is one, where only accounts or product information is provided to  the customer through tele-banking facility and
+no banking transaction is  undertaken
+through such centres. Also, no direct interface with  clients/customers is permitted at call centres.
+3.  Branch Authorisation Policy
+With  the objective of liberalising and rationalising authorisation of branches in  India, a framework for a branch authorisation policy, which would be consistent  with the medium term corporate strategy of banks and public interest, has been  put in place. In addition to the requirement relating to the financial  condition and history of the banking company, the general character of its  management, and the adequacy of its capital structure and earning prospects,  the branch authorisation policy framework would have the elements enumerated in  the following paragraphs.
+A.  Opening of Branches
+3.1 Domestic  scheduled commercial banks (other than RRBs) are, with effect from September  19, 2013, permitted to open branches in Tier 1 to Tier 6 centres without having  the need to take permission from Reserve Bank of India in each case, subject to  certain conditions. The guidelines for  authorisation (opening) of branches of domestic scheduled commercial banks in  India are given as under
+i) The  branch authorisation policy covers the opening of branches in all Tiers (Tier 1  to 6) of the country. The Tier wise population group is as per
+Annex 2
+. It may be seen therein that Tier 1 comprises  metropolitan and urban centres, Tiers 2, 3, and 4 comprise semi-urban centres  and Tiers 5 and 6 comprise rural centres.
+ii) For  the purposes of ensuring more uniform spatial distribution, banks are  encouraged to open branches in underbanked centres, more precisely, in  underbanked districts of underbanked States. An underbanked centre (whether a  district or State) would be one where the Average Population Per Branch Office  (APPBO) is more than the national average. Thus, though there are bank branches  in these centres, there are not as many branches as would be desirable. While  no mandatory number of branches have been prescribed to be opened in such  centres, banks are incentivised for opening branches in such centres as  detailed in paragraph 3.1 (vii) below. A list of underbanked districts of  underbanked States is as per
+Annex 4
+.
+iii) For  increasing banking penetration and financial inclusion, there is a need to open  branches in centres that are unbanked. Unbanked centres are those which do not  have any brick and mortar structure of a scheduled commercial bank for customer  based banking transactions. Therefore, the current branch authorisation policy  mandates that banks have to open at least 25 percent of all branches opened in  a year in unbanked rural centres, as detailed in paragraph (vi) (a) below.
+iv)  The general permission available for opening of branches by domestic scheduled  commercial banks in Tier 1 to Tier 6 centres across the country will encompass  specialised branches, extension counters, satellite offices, service branches,  Central Processing Centres (CPCs) and all other offices/branches of the bank.  Thus, banks are not required to approach RBI for authorisation for opening  branches or any other places of business or administrative offices in any  centre.
+v)  Banks may formulate an annual plan for the financial year, approved by the  Board of the bank as part of their annual strategy for branch expansion. While  formulating this plan, they may keep various factors in mind such as setting up  of low cost branches, innovative use of technology, including internet banking  and virtual banking to reduce physical footfalls, improving customer service,  etc.
+vi) The  opening of branches during a financial year will be subject to the conditions  given below. Extension counters, satellite offices, mobile branches, CPCs,  service branches and administrative offices can be freely opened in any centre  and will not be reckoned for the purposes of paras (a) and (b) below.
+a) At least 25 percent of the total number of branches opened  during a financial year (excluding entitlement for branches in Tier 1 centres  given by way of incentive as stated in para 10 below), must be opened in  unbanked rural (Tier 5 and Tier 6) centres, i.e, centres which do not have a  brick and mortar structure of any scheduled commercial bank for customer based  banking transactions.
+b) The total number of  branches opened in Tier 1 centres during the financial year (excluding  entitlement for branches in Tier 1 centres given by way of incentive as stated  in para 10 below) cannot exceed the total number of branches opened in Tier 2  to Tier 6 centres and all centres in the North Eastern States and Sikkim.
+vii) Since there is a continuing need for opening more branches in  underbanked districts of underbanked States for ensuring more uniform spatial  distribution, banks would be provided incentive for opening such branches.  Accordingly, banks may open branches in Tier 1 centres, [over and above their  eligibility as defined at para (vi) (a) and (b) above], equal to the number of  branches opened in Tier 2 to Tier 6 centres of underbanked districts of  underbanked States, excluding such of the branches opened in unbanked rural  centres that are located in the underbanked districts of underbanked States.
+viii) Banks have to ensure that all branches opened during a financial year  are in compliance with the norms as stipulated above. In case a bank is unable  to open all the branches it is eligible for in Tier 1 centres, as per paragraph  (vi) and (vii) above, it may carry-over (open) these branches during subsequent  two years.
+ix) Banks, which for some reason are unable to meet their obligations of  opening branches in Tier 2 to 6 centres in aggregate, or in unbanked rural  centres (Tiers 5 to 6 centres) during the financial year, must necessarily  rectify the shortfall in the next financial year.
+x) Banks were advised vide
+circular DBOD. No.  BAPD.BC. 97/22.01.001/2012-13 dated May 28, 2013
+, that they may consider  front-loading (prioritising) the opening of branches in unbanked rural centres  over a 3 year cycle co-terminus with their Financial Inclusion Plan (FIP  2013-16). Therefore, credit will continue to be given for the branches opened in unbanked rural centres in excess of  the required 25 percent of the total branches opened during the year which will  be carried forward for achieving the criteria in the subsequent year of the  FIP.
+xi) Where the banks do not find it viable to open  branches in rural areas, they may open Satellite Offices. The following  guidelines may be followed by the banks for establishing Satellite Offices:
+The  Satellite Offices should be established at fixed premises in the surrounding  villages and should be controlled and operated from a base branch located at a  Central Village/Block Head Quarters.
+Each  Satellite Office should function on a few specified days (at least twice) in a  week at specified hours.
+All  types of banking transactions may be conducted at these offices.
+The  customers of the Satellite Offices may be permitted to transact business at the  base branch on non-operating days of such offices.
+While  separate ledgers/registers/scrolls may be maintained for each Satellite Office,  all the transactions carried out at these offices should be incorporated in the  books of account of the base branch.
+The  staff attached to the base branch, preferably consisting of a member of  supervisory staff, a cashier-cum-clerk and an armed guard, may be deputed to  the Satellite Offices.
+Adequate arrangements for insurance of furniture, cash-in-transit,  etc. may be made
+xii) Banks  can open Extension Counters at the premises of the institutions of which they  are the principal bankers. Extension Counters can be opened within the premises  of big offices/factories, hospitals, military units, educational institutions,  etc. where there is a large complement of staff/workers, students, who because  of their identical working hours and non-availability of banking facilities at  a reasonable distance find it difficult to carry out their banking transactions.  The Extension Counters should carry out limited type of banking business, such  as,
+•  Deposit/withdrawal transactions,
+•  Issuing and encashment of drafts and mail transfers,
+•  Issue and encashment of travellers’ cheques,
+•  Sale of gift cheques,
+•  Collection of bills,
+•  Advances against fixed deposits of their customers (within the sanctioning  power of the officials concerned at the Extension Counter),
+•  Facility of safe deposit locker (provided adequate security arrangements are  made).
+• Depository services to its customers provided the  bank is registered with SEBI as Depository Participant. EC should not extend  credit facility against pledge of dematerialised securities or facilitate  Securities Lending and Borrowing thereat.
+Further,  if the Extension Counter proposes to undertake government business it would  require prior approval of Government authority concerned as also of Department  of Government & Bank Accounts, Reserve Bank of India, Central Office.  Extension Counters are not allowed to be opened at residential colonies,  shopping complexes, market places and places of worship, etc.
+xiii) An annual report of branches actually opened during the year, for the  year ending March 31, should be placed before the bank’s Board and forwarded to  the Department of Banking Operations and Development, Reserve Bank of India,  Central Office, (DBOD, CO), Shahid Bhagat Singh Marg, Mumbai- 400001, latest by  June 30 of that year in the format given in
+Annex 1
+. Compliance  regarding opening of branches in accordance with the above stipulations would  also be examined during the Annual Financial Inspection of the bank and  discussion of the Financial Inclusion Plans.
+xiv) The general permission referred to above would be subject to the  parameters stated in paragraph vi and vii above as well as  regulatory/supervisory comfort in respect of the individual banks. RBI would  have the option to withhold the general permission being granted to banks which  fail to meet the above mentioned criteria along with imposing penal measures on  banks which fail to meet the obligations at paras vi and ix above.
+3.2 Domestic Scheduled Commercial Banks from whom general permission has  been withdrawn as well as Local Area Banks (LABs) will, as hitherto, continue  to obtain prior approval of DBOD,CO, RBI before  opening a new branch / office by submitting their application in Form VI given  in
+Annex 11A
+on an annual basis.
+i) The  Annual Branch Expansion Plan (ABEP) with the consolidated details regarding  proposals for opening, closing, shifting, merger and conversion of all category  of branches where prior permission of RBI is required in terms of the extant  instructions along with the summary of branches, proposed to be opened may be  submitted as per Proforma given in Annex 11 B. Along with this, information  sought in
+Annex 11
+(C, D, E, F & G) should also be  furnished. On approval of the consolidated proposal, individual proposals for  opening new branches at specific centres, for which prior permission is  required from RBI, must be submitted in the prescribed
+Form VI
+in terms  of
+Rule 12
+of the Banking Regulation (Companies Rules), 1949, to the  Department of Banking Operations and Development (DBOD), Reserve Bank of India,  Central Office, Mumbai for approval. The Proforma of Form VI is given in
+Annex-11  A
+. Form VI is not required to be submitted in respect of Credit Card  Centres and Back Offices/Processing Centres.
+ii) Banks  are free to submit their ABEP any time during the year. It is not linked either  to the financial year or calendar year. Notwithstanding  the above, banks may approach RBI for any urgent proposals regarding opening of  branches, especially in under banked areas (districts) anytime during the year,  in addition to the authorizations granted under the ABEP, which would be considered  on merit. As the concept of the ABEP was introduced to enable banks to plan  their branch expansion as part of a medium term strategy, it is not expected  that such proposals will be made frequently.
+iii) The  ABEP and any other proposals required to be submitted to RBI in this regard  should have the approval of the Board of Directors of the bank or such other  authority to which powers have been delegated by the Board of the bank. Banks  may ensure that an authenticated / certified copy of such approval is invariably  submitted along with these proposals.
+iv) The  validity of the authorisation granted would be one year from the date of the  issue of the letter of authorisation/permission. Generally, no extension in  validity period of the authorisation would be allowed. However, in case a bank  is unable to open a particular branch due to genuine reasons during the  validity period of one year, they may approach the Regional Office concerned of  Department of Banking Supervision (DBS), Reserve Bank of India or the Department  of Banking Operations and Development, Central Office, Reserve Bank of India,  Mumbai (DBOD, CO), (in respect of branches in Maharashtra & Goa), before  expiry of validity period of authorisation for extension of time for a further  period not exceeding one year. At  centres where a bank fails to open a branch within the validity period of the  authorisation i.e. one year (or within the extended time of another year, as  the case may be), the permission granted would automatically lapse and if a  bank is still interested in opening the branch at that centre, they should  include it as a fresh proposal in the next ABEP.
+v)  As regards the public interest dimensions of the policy framework, the  following aspects would be kept in view while processing branch authorisation  requests:
+a)  The RBI will, while considering applications for opening branches, give weight-age  to the nature and scope of banking facilities provided by banks to common  persons, particularly in under banked areas (districts), actual credit flow to  the priority sector, pricing of products and overall efforts for promoting  financial inclusion, including introduction of appropriate new products and the  enhanced use of technology for delivery of banking services.
+b)  Such an assessment will include the policy of the bank on minimum balance  requirements and whether depositors have access to minimum banking or "no  frills" banking services, commitment to basic banking activity, viz.  acceptance of deposits and provision of credit and quality of customer service  as, inter alia, evidenced by the number of complaints received and the  redressal mechanism in place in the bank for the purpose.
+c)  The need to induce enhanced competition in the banking sector at various  locations.
+d) Regulatory comfort will also be relevant in this  regard. This would encompass:
+1.  Compliance with not only the letter of the regulations but also whether the  bank's activities are in compliance with the spirit and underlying principles  of the regulations.
+2.  The activities of the banking group and the nature of relationship of the bank  with its subsidiaries, affiliates and associates.
+3. Quality of corporate governance, proper risk  management systems and internal control mechanism
+vi) As  regards the procedural aspects, the existing system of granting authorisations  for opening individual branches from time to time has been replaced by a system  of giving aggregated approvals, on an annual basis. The medium term framework  and the specific proposals would cover the opening, closing, shifting, merger  and conversion of all categories of branches.
+vii) In  terms of the existing branch authorisation policy, banks will not be required  to approach the Regional Offices concerned of Reserve Bank of India for  "licence" for opening branches.
+viii) Domestic Scheduled Commercial Banks that have  to seek prior permission for opening branches, while preparing their Annual  Branch Expansion Plan (ABEP), should allocate at least 25 percent of the total  number of branches proposed to be opened during a year in unbanked rural (Tier  5 and Tier 6) centres. An unbanked rural centre would mean a rural (Tier 5 and  Tier 6) centre that does not have a brick and mortar structure of any scheduled  commercial bank for customer based banking transactions.
+ix) In view of the requirement for opening at  least 25 per cent of the branches under ABEP in unbanked rural centres, for  each branch proposed to be opened in Tier 2 to Tier 6 centres of under banked  districts of under banked States, excluding such of the rural branches proposed  to be opened in unbanked rural centres that may be located in the under banked  districts of under banked States in compliance with the requirement as  indicated in sub para vii above,  authorisation will be given for opening of a branch in a Tier 1 centre. This  will be in addition to the authorisation given for branches in Tier 1 centres  based on the considerations stated above.
+x)  Banks may consider front-loading (prioritising) the opening of branches in  unbanked rural centres over a 3 year cycle co-terminus with their Financial  Inclusion Plan (2013-16). Credit will be given for the branches opened in  unbanked rural centres in excess of the required 25 percent of the ABEP for the  year which will be carried forward for achieving the criteria in the subsequent  ABEP / year of the Financial Inclusion Plan (FIP).
+xi) Proposals  for opening of Specialised Branches in Tier 1 centres may also be submitted  along with the ABEP.
+xii) Where  the banks do not find it viable to open branches in rural areas, they may open  Satellite Offices. The application for opening of the Satellite Office along  with relative Board approval should be included in the ABEP. The following  guidelines may be followed by the banks for establishing Satellite Offices:
+The  Satellite Offices should be established at fixed premises in the surrounding  villages and should be controlled and operated from a base branch located at a  Central Village/Block Head Quarters.
+Each  Satellite Office should function on a few specified days (at least twice) in a  week at specified hours.
+All  types of banking transactions may be conducted at these offices.
+The  customers of the Satellite Offices may be permitted to transact business at the  base branch on non-operating days of such offices.
+While  separate ledgers/registers/scrolls may be maintained for each Satellite Office,  all the transactions carried out at these offices should be incorporated in the  books of account of the base branch.
+The  staff attached to the base branch, preferably consisting of a member of  supervisory staff, a cashier-cum-clerk and an armed guard, may be deputed to  the Satellite Offices.
+Adequate arrangements for insurance of furniture,  cash-in-transit, etc. may be made.
+xiii) Banks  desirous of setting up Extension Counters may approach DBOD CO with application  in original (as given in
+Annex 11I
+)  complete in all respects, along with a certified copy of the approval by the  competent authority. Banks can open  Extension Counters at the premises of the institutions of which they are the  principal bankers after obtaining authorisation from DBOD, CO, Mumbai for the  purpose. Extension Counters can be opened within the premises of big  offices/factories, hospitals, military units, educational institutions, etc.  where there is a large complement of staff/workers, students, who because of  their identical working hours and non-availability of banking facilities at a  reasonable distance find it difficult to carry out their banking transactions.  The Extension Counters should carry out limited type of banking business, such  as deposit/withdrawal transactions, issuing and encashment of drafts and mail  transfers, issue and encashment of travellers’ cheques, sale of gift cheques, collection  of bills, advances against fixed deposits of their customers (within the  sanctioning power of the officials concerned at the Extension Counter), facility  of safe deposit locker (provided adequate security arrangements are made), depository  services to its customers provided the bank is registered with SEBI as  Depository Participant. The Extension Count (EC) should not extend credit  facility against pledge of dematerialised securities or facilitate Securities  Lending and Borrowing thereat. Further, if the EC proposes to undertake  government business it would require prior approval of Government authority  concerned as also of Department of Government & Bank Accounts, Reserve Bank  of India, Central Office. Extension Counters are not allowed to be opened at  residential colonies, shopping complexes, market places and places of worship,  etc.
+xiv)  Authorisation for opening branches in Tier 1 centres will not generally exceed  the total number of branches proposed to be opened in Tier 2 to Tier 6 centres  as well as in the rural, semi-urban and urban centres in the North-Eastern  States and Sikkim. While issuing such authorisation, Reserve Bank of India will  factor in whether at least 25 percent of the total number of branches to be  opened during a year, are proposed to be opened in unbanked rural centres.
+xv) The  number of branches, which would be authorized by the Reserve Bank based on  applications for branches to be opened in Tier 1 centres, would also depend  upon a critical assessment of the bank's performance in financial inclusion,  priority sector lending, customer service, etc.
+3.3 .  Foreign Banks
+The  general permission granted to domestic scheduled commercial banks vide  paragraph 3.1 above for opening branches in India
+will not be applicable
+to  foreign banks.
+The  Branch Authorisation Policy would be applicable to foreign banks, subject to  the following :
+i)  Foreign banks are required to bring an assigned capital of US$25 million  upfront at the time of opening the first branch in India.
+ii)  Existing foreign banks having only one branch would have to comply with the  above requirement before their request for opening of second branch is  considered.
+iii)  Foreign banks will be required to submit their branch expansion plan on an  annual basis.
+iv) In addition to the parameters laid down for  Indian banks, the following parameters would also be considered :
+a)  Foreign bank and its groups track record of compliance and functioning in the  global markets would be considered. Reports from home country supervisors will  be sought, wherever necessary.
+b)  Weightage would be given to even distribution of home countries of foreign  banks having presence in India.
+c)  The treatment extended to Indian banks in the home country of the applicant  foreign bank would be considered.
+d)  Due consideration would be given to the bilateral and diplomatic relations  between India and the home country.
+e) The branch expansion of foreign banks would be  considered keeping in view India's commitments at W.T.O. ATMs would not be  included in the number of branches for such computation.
+Accordingly,  foreign banks should submit their ABEP to the Reserve Bank of India, DBOD,  International Banking Division, Central Office, Central Office Building (13th floor),  Shahid Bhagat Singh Marg, Mumbai - 400 001.
+B. Substitution  of Centres
+i) In  view of the general permission to Domestic Scheduled Commercial for opening  branches in Tier 1 to Tier 6 centres, any proposals for substitution of centres  would be subject to the approval of the Board of banks. However, it should be ensured that the guidelines  in paragraph 3.1 above are adhered to while carrying out substitution of  centres.
+ii) Domestic  Scheduled Commercial Banks that have to seek prior permission for opening  branches as well as Local Area Banks (LABs) should make proper assessment while  finalising the centre/place for opening of a branch keeping in view the  business potential for opening of the branch thereat. Normally substitution of  centres would not be allowed. However, under exceptional circumstances, if  banks are unable to open branch at the proposed centre due to genuine problem,  banks should approach DBOD, CO along with reasons thereof. The bank should  submit Form VI in respect of the new centre. All such requests will be examined  on a case-to-case basis.
+iii)  Substitution of centres would be allowed to centres of a similar population  group or to a lower population group provided banks undertake to open the  branch
+within the period of validity
+of authorisation issued. Further,  the substitution would not be allowed from a centre in an under banked district  to a centre in other than an under banked district.
+C. Shifting of Branches
+i)  General
+a)  Shifting of branches should be part of the medium term corporate strategy of  branch expansion. Accordingly, proposals requiring approval of RBI should be submitted  to DBOD,CO, RBI as per Proforma given in
+Annex 5
+.
+b)  Banks should, however, ensure that customers of the branch, which is being  shifted, are informed well in time before actual shifting of the branch, so as  to avoid inconvenience to them.
+c)  The details of shifting (i.e. new address, date of shifting, etc.) should be  reported to Regional Office concerned of DBS or DBOD, CO (in respect of  branches in Maharashtra and Goa) immediately after shifting the branch, and in  any case not later than
+two weeks
+after the shifting. No amendment in  licence would be required in such cases.
+d) The shifting of branches should also meet the  following minimum criteria:
+1. The new centre is of the  same or lower population group as the existing centre, e.g. a branch at a rural  centre can be shifted to another rural centre only; and
+2. A branch located in an under banked district can  be shifted to another centre in an under banked district only.
+e) In  terms of the mail box clarification issued dated June 17, 2014, foreign banks  in India have to seek prior permission of DBOD, International Banking Division,  Central Office, for the purpose of shifting of their branches from one centre  to another.
+ii)  Shifting within the Centre (City/Town/Village)
+Banks  have been given freedom to shift a branch to any location
+within the centre
+(city/town/village)  without seeking prior approval from RBI.
+iii)  Rural Branches
+a)  Within the block
+1. As  a matter of policy, shifting of
+sole rural branch
+outside the centre/village  is not permitted, as such shifting would render the centre unbanked. However,  under exceptional/unforeseen circumstances (natural calamity, adverse law and  order conditions, etc.) if the bank is proposing to shift any sole rural branch  outside the centre, District Consultative Committee (DCC) approval should be  obtained and proposal thereof should be submitted to DBOD,CO, RBI for consideration.
+2.  Banks are however; free to shift their rural branches within the block, from  centres which are served by more than one branch of a commercial bank, without  obtaining prior approval of RBI. While considering shifting of branches, banks  should keep in mind the role entrusted to these branches under the Government  sponsored programmes.
+b)  Outside the Block
+Requests  for shifting of branches from centres, which are served by more than one  commercial bank branch (excluding Regional Rural Bank branch)
+outside the  block
+should be submitted to  DBOD,CO, RBI for approval and the same will be considered based on the  following parameters:
+1.  Branches being shifted are in existence for five years or more and are  incurring losses consecutively for the last three years;
+2.  Branches located at centres prone to certain natural risks such as, floods,  landslides or likely to be submerged due to construction of dams or affected by  any natural calamities, etc.;
+3.  Branches functioning in places where law and order problem, insurgency or  terrorist activities pose threat to bank personnel and property;
+4. Branches where the premises occupied by the bank  are in a dilapidated condition or burnt/destroyed and no suitable premises are  available at the centre etc.
+iv)  Metropolitan, Urban and Semi Urban Branches
+a)  The banks may at their discretion shift their branches in metropolitan/urban/semi  urban centres within the municipal revenue limit of that centre i.e. city/town  without prior approval from RBI.
+b) Banks may also shift their branches in  metropolitan/urban/semi-urban centres within the same State (except single  semi-urban branches as such shifting would render the semi urban centre  unbanked) subject to the minimum criteria stated in
+paragraph C(i) (d)
+-.above.
+v)  Part-shifting of Branches
+Banks  will have to approach Reserve Bank of India, Central Office, DBOD, Branch Authorisation  and Policy Division (BAPD) for domestic banks and International Banking  Division (IBD) for foreign banks) for approval for shifting of some  activities/part-shifting of the branch. Part shifting of the branches will be  considered by RBI on a case-to-case basis, subject to the following norms:-
+a)  No part shifting would be considered within three years of opening of a branch.
+b)  Part shifting of only one branch per Metropolitan centre/State Capital would be  permitted for each bank in a calendar year.
+c)  The new location for part shifting should be within 250 meters of the existing  location.
+d)  For a single branch, only one part shifting will be permitted. Once a branch  has been allowed part shifting, the new location as well as the existing location  will not be eligible for further part shifting.
+e)  To qualify for part-shifting, the area of the new location/premises should not  be more than the area of the existing location.
+f) The same activity cannot be carried out at both  the locations/premises.
+D. Conversion  of Branches
+i)  Conversion of Specialised Branch
+Banks  may convert a specialized branch into another category of specialized branch or  a general banking branch at their discretion. However, it may be ensured that  details thereof are advised to the Regional Office concerned of DBS or DBOD, CO  (in respect of branches in Maharashtra and Goa) immediately after the  conversion of the branch, and in any case not later than two weeks after  conversion. No amendment to licence/authorization would be required.
+ii)  Conversion of General Banking Branches to any type of Specialized Branch
+Banks  are free to convert their general banking branches into specialised branches  subject to the condition that the bank should continue to serve the existing  customers of the general banking branches, which are being converted into  specialized branches. However, it may be ensured that details thereof are  advised to Regional Office concerned of DBS or DBOD, CO (in respect of branches  in Maharashtra & Goa) immediately after the conversion of the branch, and  in any case not later than
+two weeks
+after conversion. No amendment to  the licence/authorization would be required.
+iii)  Upgradation of Extension Counters and Satellite Offices into Full-fledged  Branches
+a)  Banks are free to convert their existing Extension Counters (ECs) and Satellite  Offices (SO) into full-fledged branches at their discretion and relocate them  within that centre. However, banks should surrender the licences (if separate  licence has been issued) of Extension Counters/Satellite Office and obtain a  permission letter for full-fledged branch before effecting Upgradation, from  Regional Office concerned of DBS or DBOD, CO (in respect of ECs/SOs in  Maharashtra & Goa).
+b) In cases where banks desire to upgrade their  existing Extension Counters and Satellite Offices into full-fledged branches  and relocate the same to another centre, the same may be carried out subject to  the approval of their Boards and the conditions mentioned in paragraph 3.1(vi).  - Banks not having general permission should continue to submit such proposals to DBOD, CO for  approval.
+iv)  Conversion of Rural Branch into Satellite Office
+Conversion  of a rural branch into satellite office is
+generally not favoured
+.  However, in exceptional circumstances, such proposals may be considered. The  proposals for conversion of rural branches into satellite offices should be  submitted to DBOD,CO, RBI after  obtaining approval from the District  Consultative Committee (DCC) for our consideration.
+E. Merger  of Branches
+i)  General
+a)  Banks should, ensure that customers of the branch, which is being merged  (transferor branch) are informed well in time before actual merging of the  branch so as to avoid inconvenience to them.
+b)  The details of merger (date of merger, etc.) should be reported to the Regional  Office concerned of DBS or DBOD, CO (in respect of branches in Maharashtra and  Goa) immediately after merger of the branch, and in any case not later than two  weeks after the merger.
+c)  After merger, the licence (if separate licence has been issued) of the merged  branch (transferor branch) should be surrendered to Regional Office concerned  of DBS or DBOD, CO (in respect of branches in Maharashtra & Goa) for  cancellation.
+d) Where a consolidated authorization has been  issued for more than one branch, it would suffice, if the bank reports the  merger of the particular branch (clearly mentioning the Sl. No. of the
+Annex
+to the letter of authorisation issued in respect of the branch) to Regional  Office concerned of DBS or DBOD, CO (in respect of branches in Maharashtra and  Goa).
+ii)  Merger of Sole Rural/Semi Urban Branch
+As a  matter of policy, merger of a sole rural branch/semi-urban branch is not  permitted, as merging the same with a branch outside the centre would render  the centre unbanked. However, under exceptional/unforeseen circumstances  (natural calamity, adverse law and order condition, etc.), if the bank is  compelled to merge any sole rural/semi urban branch, DCC approval should be  obtained and proposal thereof should be included in the annual plan for our  consideration. Details of such proposals for rural and semi urban branches are  required to be furnished to us for our approval as per Proforma in
+Annex 6
+.
+iii)  Merger of Metropolitan, Urban and Semi Urban Branches
+Banks  may merge one branch with another branch at Metropolitan, Urban and Semi-urban  centres (not assigned any responsibility under Government sponsored programme),
+without seeking prior approval from RBI
+. As such, these proposals should  not be included in the ABEP for our approval.
+F. Closure of Branches
+i)  General
+a)  Banks should, ensure that customers of the branch, which is being closed, are  informed well in time before actual closure of the branch, so as to avoid  inconvenience to them.
+b) The  details of closure (i.e. date of closure, etc.) should be reported to the  Regional Office concerned of DBS or DBOD, CO (in respect of branches in  Maharashtra and Goa) immediately after closure of the branch, and in any case  not later than
+two weeks
+after closure.
+c)  After closure, the licence/authorisation (if a separate licence/authorisation  has been issued for a single branch) of the branch should be surrendered to  Regional Office concerned of DBS or DBOD, CO (in respect of branches in Maharashtra  & Goa) for cancellation. Where a consolidated authorization has been issued  for more than one branch, it would suffice if the bank reports the closure of  the particular branch (clearly mentioning the Sl. No. of the
+Annex
+to  the letter of authorisation issued in respect of the branch) to the Regional  Office concerned of DBS or DBOD, CO (in respect of branches in Maharashtra and  Goa).
+ii)  Closure of Rural Branches
+As a  matter of policy, closure of even loss making branches at rural centres having  a single commercial bank branch (excluding Regional Rural Bank branch) is not  permitted, as closure would render the centre unbanked. The proposal for  closure of a rural branch at a centre served by more than one commercial bank  branch should be included in the ABEP after obtaining approval of District  Consultative Committee (DCC). Details of such proposals are required to be  furnished to us for Reserve Bank of India approval as per Proforma given in
+Annex 7
+.
+iii)  Metropolitan, Urban and Semi Urban Branches
+Banks  are permitted to close any branch in metropolitan, urban and semi-urban centres  (not assigned any responsibility under Government sponsored programme) centres
+without  seeking prior approval from RBI
+. As such, these proposals should not be  included in the ABEP for our approval.
+4. Setting up of Off-site/Mobile ATMs - General  Permission
+i)  Scheduled Commercial Banks are permitted to install Off-site/Mobile ATMs at  centres/places identified by them, including SEZs without permission from the  Reserve Bank subject to the following conditions:
+The business transacted at the Off-site ATM shall  be recorded in the books of the respective branch/ base branch / Centralized  Data Centre.
+No person other than the security guard should be  posted at such Off Site ATM centre.
+Bank should make adequate stand-by arrangements for  meeting the cash requirements of the ATM.
+The bank should ensure that only properly sorted  and examined notes are put into circulation through the ATM.
+Third party advertisement on the ATM  screens/Network, such as display of products of other manufacturers /dealers  /vendors is not permitted. However,  there is no objection to banks utilizing the ATM screens for displaying their  own products.
+The ATMs installed  in SEZs should deal in Indian Rupee only.
+This  would, however, be subject to any direction which the Reserve Bank may issue,  including for closure/shifting of any such Off-site/ Mobile ATMs, wherever so  considered necessary by the Reserve Bank. The banks should report full details  of the Off-site/Mobile ATMs installed by them in terms of the general  permission to Regional Office concerned of DBS or DBOD, CO (in respect of  Off-Site/Mobile ATMs in Maharashtra and Goa) immediately after  operationalisation and in any case not later than two weeks, as per the format  enclosed (
+Annex 8 and Annex  10
+)
+.
+ii) The  facilities which can be provided by banks through ATMs are as under:
+Deposits/Withdrawals;
+Personal  Identification Number (PIN) changes;
+Requisition for cheque books;
+Statement  of accounts;
+Balance  enquiry;
+Inter account transfer within the bank between  accounts of same customer or different  customers of the bank at the same centre or different centres within the  country;
+Inter  Bank Funds Transfer - Transfer of Funds between the bank's customers and  customers of other banks;
+Mail facility for  sending written communication to the bank ;
+Utility payments like Electricity bill, Telephone bill, etc.;
+Issue of railway tickets and
+Product Information
+5. Mobile Branches
+The  scheme of mobile branch envisages extention of banking facilities through a  well protected van with arrangements for two or three officials of the bank  sitting in it with books, safe containing cash, etc. The mobile unit would  visit the places proposed to be served by it on specific days/hours. Domestic  scheduled commercial banks (other than RRBs) are permitted to open Mobile  branches in Tier 3 to Tier 6 centres, as also in rural, semi-urban and urban  centres in North Eastern States and Sikkim without permission from Reserve Bank  of India in each case, subject to reporting as per the format enclosed (
+Annex 9
+). The mobile branch should not visit villages/centres which are served by  co-operative banks and places served by regular branch of commercial banks. The  mobile branch should be stationed in each village/ location for a reasonable  time on specified days and specified hours, so that its services could be  utilized properly by customers. The business transacted at the mobile branch  shall be recorded in the books of the base branch/data centre. The bank may  give wide publicity about the mobile branch in the village, including details  of "specified days and working hours" at various locations so as to  avoid any confusion to local customers, and any change in this regard should  also be publicized. In order to inform public/customers, arrangement should be  made to display these details in the areas serviced by the mobile branch.
+6. Setting up of Central Processing Centres/Back  Offices
+Banks  may also set up Central Processing Centres (CPCs) / Back Offices exclusively to  attend to back office functions such as data processing, verification and  processing of documents, issuance of cheque books, demand drafts etc. on  requests received from other branches and other functions incidental to banking  business. These CPCs/Back Offices should have no direct interface with  customers. These CPCs/Back Offices would be termed as Service Branches and  would not be allowed to be converted into General Banking Branches. Banks are  permitted to open Central Processing Centres (CPCs)/Service branches in without  prior permission from Reserve Bank of India in each case, subject to reporting  as per the format enclosed (
+Annex 11 H
+). The  proposals for opening of CPCs/Back Offices in centres where authorisation is  required from the Reserve Bank (commercial banks covered under paragraph 3.2  and 3.3) should be included in the ABEP and submitted for approval to RBI.
+7. Call Centres
+As no  banking transaction is undertaken at a call centre, no permission is required  for establishment of a "call centre" as defined in
+paragraph 2
+.  However, details of opening, closure and shifting of call centres should be  reported to RBI as provided in
+paragraph 12
+.
+8. Business Facilitator/ Business Correspondent  Model
+With  the objective of ensuring greater financial inclusion and increasing the  outreach of the banking sector, scheduled commercial banks including Regional  Rural Banks (RRBs) and Local Area Banks (LABs) have been permitted to use the  services of intermediaries in providing financial and banking services through  the use of Business Facilitator/ Business Correspondent Model as per the  guidelines issued in this regard.
+i) Guidelines  for Engaging Business Facilitator
+Under  the "Business Facilitator" model, banks may use the services of  intermediaries such as:
+a)  NGOs/SHGs
+b)  Farmers Clubs
+c)  Cooperatives
+d)  Community based organizations
+e)  IT enabled rural outlets of corporate entities
+f)  Post Offices
+g)  Insurance agents
+h)  Well functioning Panchayats
+i)  Village Knowledge Centres
+j)  Agri Clinics
+k)  Agri Business Centres
+l)  Krishi Vigyan Kendras
+m) KVIC/KVIB units,
+Depending  on the comfort level of the bank for providing facilitation services. Such  services may include (i) identification of borrowers and fitment of activities;  (ii) collection and preliminary processing of loan applications including  verification of primary information/data; (iii) creating awareness about  savings and other products and education and advice on managing money and debt  counselling; (iv) processing and submission of applications to banks; (v)  promotion and nurturing Self Help Groups/Joint Liability Groups; (vi)  post-sanction monitoring; (vii) monitoring and handholding of Self Help  Groups/Joint Liability Groups/Credit Groups/others; and (viii) follow-up for  recovery.
+ii)  Guidelines for engaging Business Correspondents (BCs)
+The  scheduled commercial banks including Regional Rural Banks (RRBs) and Local Area  Banks (LABs) may engage Business Correspondents (BCs), subject to compliance  with the following guidelines. Banks may formulate a policy for engaging  Business Correspondents (BCs) with the approval of their Board of Directors.  Due diligence may be carried out on the individuals / entities to be engaged as  BCs prior to their engagement. The due diligence exercise may, inter alia,  cover aspects such as (i) reputation/market standing, (ii) financial soundness,  (iii) management and corporate governance, (iv) cash handling ability and (v)  ability to implement technology solutions in rendering financial services.
+A.  Eligible individuals/entities
+The  banks may engage the following individuals/entities as BC:
+i)  Individuals like retired bank employees, retired teachers, retired government  employees and ex-servicemen, individual owners of kirana/medical / Fair Price  shops, individual Public Call Office (PCO) operators, agents of Small Savings  schemes of Government of India/Insurance Companies, individuals who own Petrol  Pumps, authorized functionaries of well-run Self Help Groups (SHGs) which are  linked to banks, any other individual including those operating Common Service  Centres (CSCs);
+ii)  NGOs/ MFIs set up under Societies/ Trust Acts and Section 25 Companies;
+iii)  Cooperative Societies registered under Mutually Aided Cooperative Societies  Acts/ Cooperative Societies Acts of States/Multi State Cooperative Societies  Act;
+iv)  Post Offices; and
+v)  Companies registered under the Indian Companies Act, 1956 with large and  widespread retail outlets, other than Non Banking Financial Companies (NBFCs).
+vi) In view of the general permission given to domestic scheduled commercial banks (excluding  RRBs) to open branches in Tier 1 to Tier 6 centres, they may engage non-deposit  taking NBFCs (NBFCs-ND) as BCs, subject to the following conditions:
+It should be ensured that there is no  comingling of bank funds and those of the NBFC-ND appointed as BC.
+There should be a specific contractual  arrangement between the bank and the NBFC-ND to ensure that all possible  conflicts of interest are adequately taken care of.
+Banks should ensure that the NBFC-ND does not adopt  any restrictive practice such as offering savings or remittance functions only  to its own customers and forced bundling of services offered by the NBFC-ND and  the bank does not take place.
+B. BC  Model
+While  a BC can be a BC for more than one bank, at the point of customer interface, a  retail outlet or a sub-agent of a BC shall represent the bank which has  appointed the BC. However, it has now been decided to permit interoperability  at the retail outlets or sub-agents of BCs (i.e. at the point of customer  interface), provided the technology available with the bank, which has  appointed the BC, supports interoperability, subject to the following  conditions:
+i)  The transactions and authentications at such retail outlets or sub-agents of  BCs are carried out on-line;
+ii)  The transactions are carried out on Core Banking Solution (CBS) platform; and
+iii) The banks follow the standard operating  procedures to be advised by the Indian Banks' Association (IBA).
+C.  Procedure for engaging BCs
+The  terms and conditions governing the contract between the bank and the BC should  be carefully defined in written agreements and subjected to a thorough legal  vetting. While drawing up agreements, banks should strictly adhere to  instructions contained in the guidelines on managing risks and code of conduct  in outsourcing of financial services by banks, issued by Reserve Bank of India  on November 3, 2006. The banks will be fully responsible for the actions of the  BCs and their retail outlets/sub agents.
+D.  Scope of activities
+The  activities to be undertaken by the BCs would be within the normal course of  banking business. The scope of activities of a BC may include (i)  identification of borrowers; (ii) collection and preliminary processing of loan  applications including verification of primary information/data; (iii) creating  awareness about savings and other products and education and advice on managing  money and debt counselling; (iv) processing and submission of applications to  banks; (v) promoting, nurturing and monitoring of Self Help Groups/ Joint  Liability Groups/Credit Groups/others; (vi) post-sanction monitoring; (vii)  follow-up for recovery, (viii) disbursal of small value credit; (ix) recovery  of principal/collection of interest; (x) collection of small value deposits;  (xi) sale of micro insurance/ mutual fund products/ pension products/ other  third party products (xii) receipt and delivery of small value remittances/  other payment instruments and (xiii) distribution of banknotes and coins.
+E. KYC  Norms
+KYC  and AML procedures, as laid down in the
+Master  Circular DBOD. AML.BC. No. 11/14.01.001/2012-13 dated July 2, 2012
+and  subsequent circulars on the subject should be followed in all cases. The banks  may, if necessary, use the services of the BC for preliminary work relating to  account opening formalities. However, ensuring compliance with KYC and AML  norms under the BC model continues to be the responsibility of banks.
+F.  Customer confidentiality
+The  banks should ensure the preservation and protection of the security and  confidentiality of customer information in the custody or possession of BC.
+G.  Information Technology Standards
+The  banks should ensure that equipment and technology used by the BC are of high  standards.
+H.  Distance Criterion
+With a  view to ensuring adequate supervision over the operations and activities of the  retail outlet/sub-agent of BCs by banks, every retail outlet/sub-agent of BC is  required to be attached to and be under the oversight of a specific bank branch  designated as the base branch. The distance between the place of business of a  retail outlet/sub-agent of BC and the base branch should ordinarily not exceed  30 kms in rural, semi-urban and urban areas and 5 kms in metropolitan centres.  In case there is a need to relax the distance criterion, the District  Consultative Committee (DCC)/State level Bankers Committee (SLBC) could  consider and approve relaxation on merits in respect of under-banked areas,  etc.
+With a  view to providing operational flexibility to banks and in view of the  technological developments in the banking sector, it has been decided to remove  the stipulation regarding distance criteria for domestic scheduled commercial  banks. These banks should, however, while formulating the Board approved policy  for engaging BCs, keep in mind the objectives of adequate oversight of the BCs  as well as provision of services to customers while deciding how to modify  extant distance criteria.
+I. Ultra Small Branches
+For  furthering financial inclusion, banks may establish outlets in rural centres  from which BCs may operate. These BC outlets may be in the form of low cost  simple brick and mortar structures. Every BC is under the oversight of a base  branch. Accordingly, the base branch will have to provide oversight to the BC  outlets which will include periodic visits by officers of the base branch to  these outlets as well as to other places of functioning of BCs. With expanding  access to banking services, it is also important that quality services are  provided through the ICT based delivery model. Thus it would be necessary to  have an intermediate brick and mortar structure (Ultra Small Branch) between  the present base branch and BC locations so as to provide support to a cluster  of BC units at a reasonable distance. These Ultra Small Branches may be set up  between the base branch and BC locations so as to provide support to about 8-10  BC Units at a reasonable distance of 3-4 kilometres. These could be either newly  set up or by conversion of the BC outlets. Such Ultra Small Branches should  have minimum infrastructure such as a Core Banking Solution (CBS) terminal  linked to a pass book printer and a safe for cash retention for operating large  customer transactions and would have to be managed full time by bank officers/  employees. It is expected that such an arrangement would lead to efficiency in  cash management, documentation, Redressal of customer grievances and close  supervision of BC operations. These could be satellite offices (as envisaged in  circular DBOD No. BL.BC. 72/C-168(64D)-87 dated December 14, 1987) or regular  branches as the case may be.
+BCs  can operate from such Ultra Small Branches as their association with the branch  will increase their legitimacy and credibility in the area and give people  increased confidence to use their services. However, banks should ensure that  such an arrangement does not result in BCs limiting operations to serving  customers at such branches only, if, due to geographical spread, such  arrangements may lead to BC services not being easily available in the entire  area of their operations.
+J.  Payment of commission/fee
+The  banks may pay reasonable commission/fee to the BC, the rate and quantum of  which may be reviewed periodically. The agreement with the BC should  specifically prohibit them from charging any fee to the customers directly for  services rendered by them on behalf of the bank. Commission structure or  incentive mechanism should be devised in a manner that mere increase in the  number of clients served or the transaction volume does not drive the  commission. The remuneration should combine fixed and variable parts dependent,  inter-alia, on some indication or measure of customer satisfaction. Some part  of the variable remuneration could be deferred or clawed back in case of  deficiency of service.
+The  banks (and not BCs) are permitted to collect reasonable service charges from  the customers in a transparent manner.
+K.  Transactions put through BC
+As  engagement of intermediaries such as Business Facilitators/ Correspondents  involves significant reputational, legal and operational risks, due  consideration should be given by banks to those risks. The banks should adopt  technology-based solutions for managing the risk, besides increasing the  outreach in a cost effective manner. The transactions should normally be put  through ICT devices (handheld device/mobile phone) that are seamlessly  integrated to the Core Banking Solution (CBS) of the bank. The transactions  should be accounted for on a real time basis and the customers should receive  immediate verification of their transactions through visuals (screen based) or  other means (debit or credit slip).
+In  formulating their schemes on BC, banks may, inter alia, be guided by the recommendations  made in Chapter III of the Khan Group Report as also the outsourcing guidelines  released by Reserve Bank of India on November 3, 2006 (available on RBI  website:
+www.rbi.org.in
+). The arrangements with the BC shall specify:
+i) Suitable  limits on cash holding by intermediaries as also limits on individual customer  payments and receipts;
+ii) Cash  collected from the customer should be acknowledged by issuing a receipt on  behalf of the bank;
+iii)  That all off-line transactions are accounted for and reflected in the books of  the bank by the end of the day; and
+iv) All agreements/ contracts with the customer  shall clearly specify that the bank is responsible to the customer for acts of  omission and commission of the BC.
+L.  Internal Control & Monitoring
+The  banks should carry out a detailed review of the performance of various BCs  engaged by them at least once in a year and they should monitor the activities  of BCs through their Controlling Offices and also through various fora under  Lead Bank Scheme i.e. (SLBC, DCC, DLRC). The internal control mechanism in the  bank should include visit to BCs and interface with customers at periodical  intervals.
+M.  Consumer Protection Measures
+The  banks should take all measures to protect the interests of the customers. Some  such safeguards are outlined below:
+i) The  retail outlet/sub-agent of the BC should be personally introduced to the  members of public by the bank officials in the presence of village elders and  government functionaries in a public meeting so that there is no  misrepresentation/impersonation.
+ii)  The products and processes should be approved by the banks and the BC should  not introduce any product/process without the approval of the bank concerned.
+iii)  Each retail outlet/sub-agent may be required to post a sign in local language  (vernacular) indicating their status as service providers for the bank as also  disclose the name of the BC, the telephone number of the base  branch/controlling office of the bank and the Banking Ombudsman and the fees  for all services available at the outlet.
+iv)  Financial services offered by the retail outlets/sub-agents of the BC should  not be tied to the sale of any product of such company.
+v) The  charges for offering various services should be indicated in a brochure and  made available at the retail outlets/with the sub-agents.
+vi)  The banks should develop suitable training modules in the local language(s) in  order to provide proper attitudinal orientation and skills to the  BCs/sub-agents.
+vii)  As a measure of social audit, there could be periodic block level meetings  where members of public are invited along with the BCs operating in the area as  also the linked branch managers to express their difficulties and to obtain  feedback. Lead District Manager (LDM) of the lead bank could attend such  meetings in the district to get a direct feedback and provide such feedback to  the controlling offices.
+viii)  The bank should have necessary Business Continuity Plan (BCP) in place to  ensure uninterrupted service in case the agency arrangement with the  BCs/sub-agents is terminated.
+ix) In  case a company is engaged as BC by more than one bank, it should be ensured  that the customer database and account details are kept separate and there is  no co-mingling of data.
+N.  Redressal of Grievances
+Grievance  Redressal Machinery should be constituted within the banks for redressing  complaints about services rendered by the BCs and give wide publicity about it  through electronic and print media. The name and contact number of designated  Grievance Redressal Officer of the bank should also be made known and widely  publicized. The designated officer should ensure that genuine grievances of  customers are redressed promptly. The grievance redressal procedure of the bank  and the time frame fixed for responding to the complaints should be placed on  the bank's website. If a complainant does not get satisfactory response from  the bank within 60 days from the date of his lodging the compliant, he will  have the option to approach the Office of the Banking Ombudsman concerned for  redressal of his grievance/s.
+O.  Customer Education
+Financial  literacy and customer education should form an important part of the business  strategy and should form part of the commitment by banks adopting the BC model.  Banks may scale up their efforts substantially towards educating their  clientele in their respective vernacular languages regarding the benefits of  banking habit. Information regarding BCs engaged by banks may be placed on the  respective banks' websites. The Annual Report of the banks should also include  the progress in respect of extending banking services through the BC model and  the initiatives taken by banks in this regard. The banks may also use print and  electronic media (including in the vernacular language) to give wide publicity  about implementation of the BC model by them.
+9.  Doorstep Banking
+Banks  are permitted to prepare schemes for offering Doorstep Banking facilities to  their customers (including individuals, Corporate, PSUs, Government Departments,  etc.), with the approval of their Boards in accordance with the guidelines  issued by Reserve Bank of India from time to time.
+10. Acquisition of Premises
+i)
+All  powers relating to hiring of premises, rentals, deposits/advances to premises  owners, for acquisition of accommodation on lease/rental basis for their own  use (i.e. for Office and Residence of Staff) have been delegated to banks.
+ii)
+While  acquiring premises for opening of a branch, banks should ensure that the  location of the branch complies with the local norms/laws of Municipal  Corporation / Nagar Palika / Town area authority / Village Panchayat or any  other competent authority.
+iii)
+Banks  are required to forward a list of their branches/offices that are operating in  premises in respect of which a dispute is pending with the landlord to the  Regional Director, Reserve Bank of India concerned (i.e. Regional Director of  the Regional Office of RBI under whose jurisdiction the branch/office in  respect of which a dispute is pending is functioning) on a quarterly basis  within a period of one month from the close of the respective quarter to which  the report relates. In respect of branches/offices situated in Maharashtra/Goa,  the information is required to be furnished by banks to the Regional Director,  Reserve Bank of India, Mumbai Office, Shahid Bhagat Singh Road, Mumbai - 400  001.
+11. Population Group-wise Classification of  Centres
+i)
+For the purpose of correct classification of a  centre (city/town/village) i.e. rural, semi urban, urban or metropolitan, the  bank should mention the correct name of the revenue centre and not just the  locality. For this purpose, clarification can also be obtained from the Block  Development Officer, Village Panchayat, Tehsildar / Municipality or Municipal  Corporation Office / Office of the District Collector or District Census  Authority. Further, banks may also ascertain the population group-wise  classification of the centre from the Department of Statistics and Information  Management (DSIM), Banking Statistics Division, Reserve Bank of India, Central  Office, C-8/9, Bandra-Kurla Complex, Mumbai-400 051, before approaching DBOD,  CO with their ABEP proposals.
+ii)
+In the event of change in population category of a  centre on account of re-allocation/reorganisation of villages/centres among  districts or on account of amalgamation of towns/villages/areas, Head Offices /  Corporate Offices of the banks should approach Department of Statistics and  Information Management (DISM), , Banking Statistics Division, Reserve Bank of  India Central Office, C-8/9, Bandra-Kurla Complex, Mumbai-400051, regarding  changes / reclassification of centre / place / district, etc. along with all  relevant documents (Gazette Notification, etc.) received from the State  Government / Municipal Corporation / Nagar Palika / Town area authority /  Village Panchayat or any other competent authority evidencing the changes.
+12.  Reporting to Reserve Bank of India
+i)  Reporting to Regional Offices/DBOD, CO
+Banks  should report details of opening of a new place of business including Mobile  branch/Mobile ATMs, closure, merger, shifting or conversion of any existing  place of business immediately and in any case not later than two weeks after  opening/closure/merger/shifting/conversion to the Regional Office concerned of  DBS except in respect of branches in Maharashtra and Goa, which should be  reported to DBOD, CO, Mumbai.
+The  banks should also report the details of opening, closure and shifting of call  centres to Regional Office concerned of DBS, or DBOD, CO (in respect of call  centres in Maharashtra & Goa).
+ii)  Branch Banking Statistics
+Banks  should submit within fourteen days of every quarter, information relating to  opening, closure, merger, shifting and conversion of branches in Proformae I  & II (
+Annex 9
+) to Department of Statistics and  Information Management, Banking Statistics Division, Reserve Bank of India,  Central Office, C-8/9, Bandra-Kurla Complex, Mumbai-400 051 and the Regional  Office concerned of DBS or DBOD, CO (in respect of centres in Maharashtra &  Goa). Further, information in respect of change in status of Authorised Dealer  (AD) branches should be submitted on an ongoing basis. A 'Nil' statement must  be submitted in case there is nothing to report.
+iii)
+Banks  should report operationalisation of Mobile Branches/Offices and Mobile ATMs in  the Proformae III & IV (
+Annex 10
+).
+Appendix
+List of Circulars consolidated  by the Master Circular
+No.
+Circular    No.
+Date
+Subject
+1
+DBOD.NO.BAPD.BC.122/22.01.009/2013-14
+24.06.2014
+Financial inclusion by extension of Banking    services-Use of BCs
+2
+Mail Box clarification
+17.06.2014
+Foreign banks-shifting of branch from one centre    to another
+3
+DBOD.NO.BAPD.BC.60/22.01.009/2013-14
+21.10.2013
+Relaxation in Branch Authorisation Policy
+4
+DBOD.NO.BAPD.BC.54/22.01.009/2013-14
+19.09.2013
+Relaxation in Branch Authorisation Policy
+5
+DBOD.NO.BAPD.BC.46/22.01.009/2013-14
+02.09.2013
+Financial inclusion by    extension of Banking services-Use of BCs for distribution of banknotes and    coins-Alternative Avenues
+6
+DBOD.No.BL.BC.105/22.01.009/2011-12
+17.05.2012
+Financial Inclusion – Use of Business    Correspondents
+7
+DBOD.No.BL.BC.    82/22.01.009/ 2011-12
+02.03.2012
+Financial Inclusion by Extension of Banking Services    - Use of Business Correspondents (BCs)
+8
+DBOD.No.BL.BC.    60/22.01.001 /2011-12
+29.11.2011
+Branch Authorization Policy – Relaxation- opening    of Tier 2 branches under general permission
+9
+DBOD.No.BL.BC.24/22.01.001/    2011-12
+15.07.2011
+Branch Authorization Policy - Opening of branches    in unbanked rural centres
+10
+DBOD.No.BL.BC.82/22.01.009/    2011-12
+02.03.2012
+Financial Inclusion by Extension of Banking    Services – Use of Business Correspondents (BCs)
+11
+DBOD.No.BL.BC.60/22.01.001/    2011-12
+29.11.2011
+Branch Authorisation Policy- Relaxation – Opening    of Tier 2 Branches under general permission
+12
+DBOD.No.BL.BC.24/22.01.001/    2011-12
+15.07.2011
+Branch Authorisation Policy –Opening of Branches    in unbanked rural centres
+13
+DBOD.No.BL.BC.78/22.01.001/2010-11
+27.01.2011
+Section 23 of the Banking Regulation Act 1949 –    Relaxations in Branch Authorisation Policy
+14
+DBOD.No.BL.BC.43/22.01.009/2010-11
+28.09.2010
+Financial    Inclusion by Extension of Banking Services – Use of Business Correspondents    (BCs)
+15
+DBOD.No.BL.BC.27/22.01.001/2010-11
+23.07.2010
+Section 23 of the Banking Regulation Act 1949 –    Mobile Branches and Mobile ATMs
+16
+DBOD.No.BL.BC.99/22.01.009/2009-2010
+26.04.2010
+Financial    Inclusion by Extension of Banking Services – Use of Business Correspondents    (BCs)
+17
+DBOD.No.BL.BC.72/22.01.001/2009-10
+01.02.2010
+Section    23 of the Banking Regulation Act, 1949 – Relaxations in Branch Authorisation    Policy
+18
+DBOD.No.BL.BC.65/22.01.001/2009-10
+01.12.2009
+Section    23 of the Banking Regulation Act, 1949 – Relaxations in Branch Authorisation    Policy
+19
+DBOD.No.BL.BC.63/22.01.009/2009-10
+30.11.2009
+Financial    Inclusion by Extension of Banking Services – Use of Business Correspondents    (BCs)
+20
+DBOD.No.BL.BC.137/22.01.001/2008-09
+12.06.2009
+Section    23 of Banking Regulation Act, 1949 -Relaxations in Branch Authorisation    Policy - Off Site ATMs
+21
+DBOD.No.BL.BC.129/22.01.009/2008-2009
+24.04.2009
+Financial    Inclusion by Extension of Banking Services –Use of Business Correspondents    (BCs)
+22
+DBOD.No.BL.BC.36/22.01.009/2008-2009
+27.08.2008
+Financial    Inclusion by Extension of Banking Services –Use of Business Correspondents    (BCs)
+23
+DBOD.No.BL.BC.35/22.01.009/2008-2009
+27.08.2008
+Financial    Inclusion by Extension of Banking Services –Use of business Correspondents    (BCs) – Section 25 companies
+24
+DBOD.No.BL.BC.32/22.01.03/    2008-09
+21.08.2008
+Acquisition of accommodation on Lease/Rental    basis by Commercial Banks for their branches/offices – Liberalization of    guidelines.
+25
+DBOD.No.BL.BC.16/22.01.001/2008-09
+01.07.2008
+Master    Circular on Branch Authorisation
+26
+DBOD.No.BL.BC.74/22.01.009/
+2007-2008
+24.04.2008
+Financial    Inclusion by Extension of Banking Services – Use of Business Facilitators and    Correspondents
+27
+DBOD.No.BL.BC.16/22.01.001/2007-08
+02.07.2007
+Master    Circular on Branch Authorisation
+28
+DBOD.No.BL.BC.99/22.01.010/
+2006-2007
+24.05.2007
+Doorstep    Banking
+29
+DBOD.No.BL.BC.59/22.01.010/
+2006-2007
+21.02.2007
+Doorstep    Banking
+30
+DBOD.No.BL.BC.11/22.01.001/2006
+01.07.2006
+Master    Circular on Branch Authorisation
+31
+DBOD.No.BL.BC.72/22.01.009/
+2005-2006
+22.03.2006
+Financial    Inclusion by Extension of Banking Services – Use of Business Facilitators and    Correspondents
+32
+DBOD.No.BL.BC.58/22.01.001/
+2005-2006
+25.01.2006
+Financial    Inclusion by Extension of Banking Services – Use of Business Facilitators and    Correspondents
+33
+DBOD.No.BL.BC.55/22.01.001/
+2005-06
+.
+23.01.2006
+Branch    Authorisation Policy
+34
+DBOD.No.BL.BC.35/22.01.001/
+2005-06
+.
+08.09.2005
+Liberalization    of Branch Authorisation Policy
+35
+DBOD.No.BL.BC.24/22.01.001/
+2005-06
+.
+03.08.2005
+Branch    Expansion Strategy of banks
+36
+DBOD.No.BL.BC.92/22.01.001/
+2004-05
+.
+20.05.2005
+Submission    of Quarterly Return-Proformae I &II
+37
+DBOD.No.BL.BC.86/22.01.001/
+2004-05
+30.04.2005
+Doorstep    Banking
+38
+DBOD.No.BL.BC.82/22.01.001/
+2004-05
+.
+27.04.2005
+Shifting    of branches/ offices-Rationalization of procedure
+39
+DBOD.No.BL.BC.39/22.01.001/
+2004-05
+.
+10.09.2004
+Opening    of central processing centres/ back offices etc.
+40
+DBOD.No.BL.BC.23/22.01.001/
+2003
+.
+11.09.2003
+Providing    Depository Services at Extension Counters.
+41
+DBOD.No.BL.BC.13/22.01.001/
+2003
+.
+18.08.2003
+Takeover    of bank branches.
+42
+DBOD.No.BL.BC.5/22.01.001/
+2003
+.
+23.07.2003
+Third    party transfer of funds through ATMs.
+43
+DBOD.No.IBS.BC.32/23.03.001/
+2002-2003.
+17.10.2002
+Closure    of branches of foreign banks.
+44
+DBOD.No.BL.BC.74/22.01.001/
+2002.
+11.03.2002
+Conversion    of General Branches into Specialised SSI branches.
+45
+DBOD.No.BL.BC.62/22.01.001/
+2002
+.
+28.01.2002
+Third    Party advertisement on ATM Network.
+46
+DBOD.No.BL.BC.23/22.01.001/
+2000-01.
+12.09.2000
+Opening    of branches/ extension counters/ shifting etc.-Obtention of prior licence.
+47
+DBOD.No.    BL.BC 13 /22.01.03/ 2000-01
+04.08.2000
+Acquisition of Accommodation on Lease/Rental basis by
+Commercial Banks for their use
+48
+DBOD.BC.No.127/12.05.005/
+99-2000.
+30.11.1999
+Rationalisation    of Returns submitted by banks to RBI
+49
+DBOD.No.BL.BC.105/22.01.03/98
+11.11.1998
+Acquisition of Accommodation on Lease/Rental basis by
+Commercial Banks for their use
+50
+DBOD.No.BL.BC.74/22.01.001/
+98.
+29.07.1998
+Shifting    of Rural branches outside the Block/ Service Area and closure of rural    branches.
+51
+DBOD.No.BL.BC.115/22.06.001/
+97
+21.10.1997
+Branch    Banking Statistics-Submission of Monthly Returns-Revision of Proformae II    & III
+52
+DBOD.No.BL.BC.64/22.01.003/
+97.
+05.06.1997
+Opening    of offices of commercial banks in the National Capital Territory (NCT) of Delhi.
+53
+DBOD.No.BL.BC.76/22.01.001/
+96.
+17.06.1996
+Delegation    of administrative powers to Regional Offices of DBOD.
+54
+DBOD.No.BP.BC.60/21.03.051/
+96
+16.05.1996
+Automated    Teller Machines (ATMs)
+55
+DBOD.No.BP.BC.123/21.03.051/
+95.
+16.10.1995
+Automated    Teller Machines (ATMs)
+56
+DBOD.No.BP.BC.152/21.03.051/
+94
+29.12.1994
+Automated    Teller Machines (ATMs)
+57
+DBOD.No.BL.BC.152/22.01.001/
+93
+24.08.1993
+Opening    /Closing of bank branches.
+58
+DBOD.No.BL.BC.41/22.01.001/
+92.
+09.10.1992
+Delegation    of authority to banks for shifting of offices, spinning-off of business etc.
+59
+DBOD.No.BL.BC.132/22.01.001/
+92.
+20.05.1992
+Delegation    of authority to banks for shifting of offices, opening of controlling    offices, spinning-off of business etc.
+60
+DBOD.No.BL.BC.24/BL.66/91
+06.09.1991
+Change    in names of offices/branches in Kerala.
+61
+DBOD.No.BL.BC.132/C.168    (M)-91.
+11.06.1991
+Opening    of Specialised Housing Finance Branches.
+62
+DBOD.No.BL.BC.81/C168    (64D)-91.
+16.02.1991
+Opening/closing    of bank branches.
+63
+DBOD.No.BL.BC.68/C168    (64D)-91
+16.01.1991
+Approach    to future branch expansion.
+64
+DBOD.No.BL.BC.16/C168    (64D)-90
+12.09.1990
+-do-
+65
+DBOD.No.BL.BC.72/C168    (64D)-87
+14.12.1987
+Branch    Licensing Policy 1985-90 -Setting up of Satellite/mobile branches.
+66
+DBOD.No.BL.BC.86/C168-84
+21.08.1984
+Change    in the name of branch necessitated due to change in name of locality/street    etc.
+67
+DBOD.No.BL.BC.147/C168-7
+20.10.1978
+Change    in name of branches of banks
+68
+DBOD.No.BL.99/C.168-68
+19.01.1968
+Opening    of Mobile Offices

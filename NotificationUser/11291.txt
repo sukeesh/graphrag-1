@@ -1,0 +1,49 @@
+(40 kb)
+Review of margin requirements under the Liquidity Adjustment Facility and Marginal Standing Facility
+RBI/2017-2018/188
+FMOD.MAOG No.125/01.01.001/2017-18
+June 6, 2018
+All Scheduled Commercial Banks
+(Excluding Regional Rural Banks),
+Scheduled Urban Co-operative Banks and
+Standalone Primary Dealers
+Madam/Sir,
+Review of margin requirements under the Liquidity Adjustment Facility and Marginal Standing Facility
+Please refer to the
+circulars FMD.MOAG No.77/01.01.001/2012-13 dated March 19, 2013
+and
+FMOD.MAOG No.117/01.01.001/2016-17 dated November 25, 2016
+.
+2. Currently, the margin requirements under the Liquidity Adjustment Facility (Repo) and Marginal Standing Facility (MSF) in respect of Treasury Bills/Central Government dated securities (including Oil Bonds) and State Development Loans (SDLs) stand at 4 per cent and 6 per cent, respectively.
+3. As announced in the
+Second Bi-monthly Monetary Policy Statement for 2018-19
+, it has now been decided to assign margin requirement on the basis of residual maturity of the collateral, i.e., the Treasury Bills, Central Government dated securities (including Oil Bonds) and State Development Loans (SDLs). Further, it has also been decided that the margin requirement for rated SDLs shall be 1 per cent lower than that of unrated SDLs for the same maturity bucket. The revised margin requirements for Central Government Securities and SDLs being offered as collateral would be as given in the table below:
+Category of Collateral
+Residual Maturity of Collateral
+0-1 year
+1-5 years
+5-10 years
+10-15 years
+> 15 years
+Treasury Bills and Central Government Dated Securities (including Oil Bonds)
+0.5%
+1%
+2%
+3%
+4%
+SDLs (unrated)
+2.5%
+3%
+4%
+5%
+6%
+SDLs (rated)
+1.5%
+2%
+3%
+4%
+5%
+4. The revised margin requirements would come into force with effect from August 1, 2018. All other terms and conditions of the current LAF (Repo) and MSF schemes will remain unchanged.
+Yours sincerely
+(Radha Shyam Ratho)
+Chief General Manager

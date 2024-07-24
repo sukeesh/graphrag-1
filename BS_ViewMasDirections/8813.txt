@@ -1,0 +1,20 @@
+(619 kb)
+Adoption of ISO 20022 Messaging Standard in RTGS System
+RBI/2013-14/546
+DPSS (CO) RTGS No. 2065/04.04.017/2013-14
+March 28, 2014
+The Chairperson / Chief Executive Officer
+RTGS Members
+Madam / Dear Sir,
+Adoption of ISO 20022 Messaging Standard in RTGS System
+A reference is invited to our circular 2013 – 14/413 [
+DPSS (CO) RTGS No. 1357/04.04.017/2013-14
+] dated December 20, 2013 regarding adoption of ISO 20022 messaging standard by participants for seamless processing of RTGS messages without conversion from/to “R” series formats by March 31, 2014.
+2. Requests have been received from the participants seeking extension of time to comply with the aforesaid circular citing technical difficulties in meeting the deadline.
+3. On review of the requests it has been decided to extend the time up to June 30, 2014 to comply with the directive issued by the Bank. All the RTGS participants are advised to strictly adhere to the revised time line.
+4. RBI will consider invoking the penal provisions under section 30(1) read with section 26(6) of the Payment and Settlement Systems Act, 2007 for participants who do not adhere to the extended timeline of June 30, 2014.
+5. The circular is issued under section 10(2) of the PSS Act, 2007.
+6. All RTGS members are advised to acknowledge receipt of this circular.
+Yours faithfully,
+Nilima Ramteke
+General Manager

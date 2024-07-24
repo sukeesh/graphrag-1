@@ -1,0 +1,47 @@
+(216 kb)
+Export Data Processing and Monitoring System (EDPMS) – Additional modules for caution listing of exporters, reporting of advance remittance for exports and migration of old XOS data
+RBI/2015-16/414
+A.P. (DIR Series) Circular No.74
+May 26, 2016
+To
+All Category - I Authorised Dealer Banks
+Madam / Sir,
+Export Data Processing and Monitoring System (EDPMS) – Additional modules for caution listing of exporters, reporting of advance remittance for exports and migration of old XOS data
+Attention of AD Category - I banks is invited to paragraph number C.2, C.15, C.20, C.24 and C.28 of
+Master Direction No.16 dated January 1, 2016
+on Export of Goods and Services.
+2. To simplify the procedure for filing returns on a single platform and for better monitoring, it has been decided to integrate the returns related to (a) handling of shipping bills for caution listed exporters; (b) delayed utilisation of advances received for exports; and (c) exports outstanding with Export Data Processing and Monitoring System (EDPMS) which has been in operation since March 1, 2014.
+3. Caution / De-caution Listing of Exporters
+3.1 To streamline the procedure, cautioning / de-cautioning of exporters has been automated. The AD category – I banks can access the updated list of caution listed exporters through EDPMS on daily basis. The list of all caution listed exporters would also be made available to AD category – I banks through their registered e-mail. Criteria laid down for cautioning / de-cautioning of exporters in EDPMS are as under:
+The exporters would be caution listed if any shipping bill against them remains open for more than two years in EDPMS provided no extension is granted by AD Category –I bank / RBI. Date of shipment will be considered for reckoning the realisation period.
+Once related bills are realised and closed or extension for realisation is granted, the exporter will automatically be de-caution listed.
+The exporters can also be caution listed even before the expiry of two years period based on the recommendation of AD banks. The recommendation may be based on cases where exporter has come to adverse notice of the Enforcement Directorate(ED) / Central Bureau of Investigation (CBI) / Directorate of Revenue Intelligence (DRI) /any such other law enforcement agency or the case where exporter is not traceable or not making any serious efforts for realisation of export proceeds. In such cases, AD may forward its findings to the concerned regional office of RBI recommending inclusion of the name of the exporter in the caution list.
+Reserve Bank will caution / de-caution the exporters in such cases based on the recommendation of AD Category – I banks.
+3.2 AD Category – I banks should follow the procedure mentioned below while handling shipping documents in respect of caution listed exporters:
+a) They will intimate the exporters about their caution listing, giving the details of outstanding shipping bills. When caution listed exporters submit shipping documents for negotiation / purchase / discount / collection, etc., the AD Category – I bank may accept the documents subject to following conditions:-
+The exporters concerned should produce evidence of having received advance payment or an irrevocable letter of credit in their favour covering the full value of the proposed exports;
+In case of usance bills, the relative letter of credit should cover full export value and also permit such drawings. Besides, the usance bills should also mature within prescribed realisation period reckoned from date of shipment.
+Except under the above mentioned conditions given in 3.2 (a) (i) and (ii), AD banks should not handle the shipping documents of caution listed exporters.
+b) AD Category – I banks should obtain prior approval of the Reserve Bank for issuing guarantees for caution-listed exporters.
+4. Reporting of Advance Remittance for Exports
+4.1 Presently the export data in EDPMS is being captured only from the shipping bills generated. It has now been decided to capture the details of advance remittances received for exports in EDPMS. Henceforth, AD Category – I banks will have to report all the inward remittances including advance as well as old outstanding inward remittances received for export of goods / software to EDPMS. Further, AD Category – I banks need to report the electronic FIRC to EDPMS wherever such FIRCs are issued against inward remittances.
+4.2 A quarterly return is presently being submitted by AD Category – I banks for delay in utilization of advances received for export in terms of
+A. P. (DIR Series) circular No. 74 dated February 9, 2015
+. It has been decided that AD category – I banks will upload the particulars of all the overdue export advances into the system and discontinue submission of quarterly return henceforth.
+5. Export Outstanding Statement (XOS)
+With effect from March 01, 2014, details of all export outstanding bills can be obtained from the EDPMS. AD category – I banks were, however, required to report the old outstanding bills prior to March 01, 2014 in XOS on half yearly basis as at the end of June and December every year. To reduce the reporting burden of AD Category – I banks, it is decided to migrate the XOS data reported by the AD banks for half year ended December 2015 onwards to EDPMS and discontinue separate reporting of XOS for the subsequent periods. AD category – I banks are required to mark off / close the XOS data pertaining to pre March 01, 2014 as and when amount has been realised.
+6. The above proposed enhancements in EDPMS were demonstrated to the staff of AD Category –I banks and the necessary background documents were also shared with them via e-mail. All the message formats and documents relating to EDPMS enhancements are also available on the website (
+https://edpms.rbi.org.in
+).
+7. AD category –I banks may carry out appropriate changes in their IT system / operating procedure immediately.
+8. The above enhancements in the EDPMS will be effected from June 15, 2016. All subsequent transactions have to be reported in EDPMS as per revised message format. AD category –I banks may note to process the transactions only if they are appearing in the EDPMS.
+9. AD Category – I banks may bring the contents of this circular to the notice of their constituents concerned.
+10.
+Master Direction No. 16/2015-16 dated January 1, 2016
+and
+Master Direction No. 18/ 2015-16 dated January 1, 2016
+are being updated to reflect the changes.
+11. The directions contained in this circular have been issued under sections 10(4) and 11(1) of the Foreign Exchange Management Act (FEMA), 1999 (42 of 1999) and are without prejudice to permissions / approvals, if any, required under any other law.
+Yours faithfully,
+(Shekhar Bhatnagar)
+Chief General Manager - in - charge

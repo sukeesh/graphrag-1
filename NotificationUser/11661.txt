@@ -1,0 +1,23 @@
+(253 kb)
+Usage of ATMs – Free ATM transactions – Clarifications
+RBI/2019-20/41
+DPSS.CO.PD No. 377/02.10.002/2019-20
+August 14, 2019
+All Scheduled Commercial Banks including Regional Rural Banks /
+Urban Co-operative Banks / State Co-operative Banks /
+District Central Co-operative Banks / Small Finance Banks /
+Payment Banks / White Label ATM Operators
+Madam / Sir,
+Usage of ATMs – Free ATM transactions – Clarifications
+Please refer to our
+circulars DPSS.CO.PD.No. 316/02.10.002/2014-2015 dated August 14, 2014
+and
+DPSS.CO.PD.No. 659/02.10.002/2014 -2015 dated October 10, 2014
+on the subject.
+2. It has come to our notice that transactions that have failed due to technical reasons, non-availability of currency in ATMs, etc., are also included in the number of free ATM transactions.
+3. It is hereby clarified that transactions which fail on account of technical reasons like hardware, software, communication issues; non-availability of currency notes in the ATM; and other declines ascribable directly / wholly to the bank / service provider; invalid PIN / validations; etc., shall not be counted as valid ATM transactions for the customer. Consequently, no charges therefor shall be levied.
+4. Non-cash withdrawal transactions (such as balance enquiry, cheque book request, payment of taxes, funds transfer, etc.), which constitute ‘on-us’ transactions (i.e., when a card is used at an ATM of the bank which has issued the card) shall also not be part of the number of free ATM transactions.
+5. This directive is issued under Section 10(2) read with Section 18 of the Payment and Settlement Systems Act, 2007 (Act 51 of 2007).
+Yours faithfully
+(P Vasudevan)
+Chief General Manager

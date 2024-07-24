@@ -1,0 +1,49 @@
+(134 kb)
+Systems and Controls for Conduct of Government Banking
+RBI/2016-17/271
+DGBA.GAD.No.2646/31.02.007/2016-17
+April 7, 2017
+All Agency Banks
+Dear Sir/Madam,
+Systems and Controls for Conduct of Government Banking
+Please refer to our
+Master Circulars DGBA.GAD.No.2/31.12.010/2015-16 dated July 1, 2015
+on Conduct of Government Business by Agency Banks - Payment of Agency Commission and
+DGBA.GAD.No.H-1/31.05.001/2015-16 dated July 1, 2015
+on Disbursement of Government Pension by Agency Banks that, inter alia, deal with Systems and Controls in agency banks for conduct of government banking.
+2. In addition to existing instructions, agency banks may ensure that internal/concurrent audit at bank branches verifies whether government business is being conducted as per rules and regulations prescribed by government/RBI. Accordingly, the internal/concurrent audit at bank branches may also examine, among other things, various aspects of government banking such as agency commission claims and pension payments. A checklist may be provided to the inspecting officers/auditors, which may at a minimum include the items given in the
+Annex
+. Accordingly, Annex 2 of the
+Master Circular DGBA.GAD.No.H-1/31.05.001/2015-16
+on Disbursement of Government Pension by Agency Banks dated July 1, 2015 stands withdrawn.
+Yours faithfully,
+(D. J. Babu)
+Deputy General Manager
+Encl.: As above
+Annex
+Checklist relating to Government Business for internal/concurrent audit
+Part A: Agency commission claims
+Internal inspectors/auditors may verify the agency commission claims submitted by branches and confirm their accuracy during the course of their inspection/audit. The following may be specifically examined during the course of internal/concurrent audit at agency bank branches:
+The system in place to arrive at total number of transactions is robust and free of errors.
+Categorisation of different types of transactions (physical/electronic receipts and pension/non-pension payments) are in accordance with RBI instructions.
+Correctness of number of transactions reported in agency commission claims.
+Whether agency commission has been claimed on error scroll transactions. (Banks are not eligible for commission on error scrolls as the commission on the original transaction is being paid).
+Whether proper records are maintained at branches as regards government business and agency commission claims (wherever the branch has a role in making such claims).
+Whether the entries in the registers/printouts relating to agency commission claims are properly authenticated.
+Part B: Pension related issues
+Internal inspections should assess branch performance in servicing pensioner customers. In this regard, the following may be ensured:
+A specific questionnaire covering all aspects of pension payment may be devised for use during inspection of pension paying branches.
+Inspecting officers may also, during inspections, call up pensioners at random and enquire about their satisfaction with pension-related services.
+A detailed check-list relating to pension payments/government business may be given by banks to internal auditors/inspectors in order to adhere to the recommendations of the Prabhakar Rao Committee, constituted by the Government of India, relating to pension payments/government business.
+These include the following:
+Whether there is delay in payment of pension, revision of pension, revision in dearness relief etc.
+Whether the branch manager has structured interaction with a cross section of pensioners serviced at the branch on quarterly basis, where the number of pensioners of all governments and departments exceeds a fixed number, say, 100 or 200.
+Whether nominations have been obtained for all pension accounts.
+Whether pension accounts have been converted into joint accounts wherever applicable.
+Whether the bank branch has an effective complaint redressal mechanism and the complaints of pensioners are attended promptly and their grievances redressed expeditiously.
+Whether the pension is credited to pensioner’s account during the last four working days of the month except for the month of March for which pension is to be credited on or after first working day of April.
+Whether the pension paying branch obtains Life Certificate/ Non-employment certificate/ Employment Certificate from the pensioners in the month of November every year.
+Whether pension paying branches deduct income tax at source from pension payments wherever applicable.
+Whether paper tokens in acknowledgement of cheques presented are invariably given by the tax collecting branches.
+Whether the challans are stamped giving bank’s BSR code and Challan Identification Number (CIN) clearly.
+Whether the stamped challans are kept in the custody of bank’s staff and handed over to the concerned tax payer only on production of the paper token.

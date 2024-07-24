@@ -1,0 +1,138 @@
+(1642 kb)
+Revised Regulatory Framework for NBFC
+RBI/2014-15/299
+DNBR (PD) CC.No. 002/03.10.001/2014-15
+November 10, 2014
+All NBFCs (excluding Primary Dealers)
+Dear Sirs,
+Revised Regulatory Framework for NBFC
+The NBFC (Non-Banking Finance Company) sector has evolved considerably in terms of its size, operations, technological sophistication, and entry into newer areas of financial services and products. NBFCs are now deeply interconnected with the entities in the financial sector, on both sides of their balance sheets. Being financial entities, they are as exposed to risks arising out of counterparty failures, funding and asset concentration, interest rate movement and risks pertaining to liquidity and solvency, as any other financial sector player. At the same time there are segments within the sector that do not pose any significant risks to the system. There is therefore, a felt need to address the risks, without impeding the dynamism displayed by NBFCs in delivering innovation and last mile connectivity for meeting the credit needs of the productive sectors of the economy.
+2. With the above background, a review of the entire regulatory framework for the NBFC sector has been undertaken with a view to transitioning, over time, to an activity based regulation of NBFCs. As a first step in this direction, certain changes to the regulatory framework are sought to be made to a) address risks wherever they exist, b) address regulatory gaps and arbitrage arising from differential regulations, both within the sector as well as vis-a-vis other financial institutions, c) harmonise and simplify regulations to facilitate a smoother compliance culture among NBFCs, and d) strengthen governance standards.
+3. In doing so, certain important recommendations made by the Working Group on Issues and Concerns in the NBFC Sector (Chairperson: Smt. Usha Thorat) and the Committee on Comprehensive Financial Services for Small Businesses and Low Income Households (Chairman: Dr. Nachiket Mor), have been drawn upon. The changes now introduced to the regulatory framework are delineated below.
+4. Requirement of Minimum NOF of Rs. 200 lakh
+4.1 NBFCs are required to obtain a Certificate of Registration (CoR) from the Bank to commence/carry on business of NBFI in terms of Section 45-IA of the RBI Act, 1934. The said section also prescribes the minimum Net Owned Fund (NOF) requirement. In terms of Notification No.DNBS.132/CGM(VSNM)-99 dated April 21, 1999, the minimum NOF requirement for new companies applying for grant of CoR to commence business of an NBFC is stipulated at Rs. 200 lakh. Although the requirement of minimum NOF at present stands at Rs. 200 lakh, the minimum NOF for companies that were already in existence before April 21, 1999 was retained at Rs. 25 lakh. Given the need for strengthening the financial sector and technology adoption, and in view of the increasing complexities of services offered by NBFCs, it shall be mandatory for all NBFCs to attain a minimum NOF of Rs. 200 lakh by the end of March 2017, as per the milestones given below:
+Rs. 100 lakh by the end of March 2016
+Rs. 200 lakh by the end of March 2017
+4.2 It will be incumbent upon such NBFCs, the NOF of which currently falls below Rs. 200 lakh, to submit a statutory auditor's certificate certifying compliance to the revised levels at the end of each of the two financial years as given above.
+4.3 NBFCs failing to achieve the prescribed ceiling within the stipulated time period shall not be eligible to hold the CoR as NBFCs. The Bank will initiate the process for cancellation of CoR against such NBFCs.
+5. Deposit Acceptance
+5.1 As per extant NBFCs Acceptance of Public Deposit (Reserve Bank) Directions, 1998, an unrated Asset Finance Company (AFC) having NOF of Rs. 25 lakh or more, complying with all the prudential norms and maintaining capital adequacy ratio of not less than fifteen per cent, is allowed to accept or renew public deposits not exceeding one and half times of its NOF or up to Rs. 10 crore, whichever is lower. AFCs which are rated and complying with all the prudential regulations are allowed to accept deposits up to 4 times of their NOF.
+5.2 In order to harmonise the deposit acceptance regulations across all deposit taking NBFCs (NBFCs-D) and move over to a regimen of only credit rated NBFCs-D accessing public deposits, existing unrated AFCs shall have to get themselves rated by March 31, 2016. Those AFCs that do not get an investment grade rating by March 31, 2016, will not be allowed to renew existing or accept fresh deposits thereafter. In the intervening period, i.e. till March 31, 2016, unrated AFCs or those with a sub-investment grade rating can only renew existing deposits on maturity, and not accept fresh deposits, till they obtain an investment grade rating.
+5.3 It has been decided to harmonise the limit for acceptance of deposits across the sector by reducing the same for rated AFCs from 4 times to 1.5 times of NOF, with effect from the date of this circular. While AFCs holding deposits in excess of the revised limit should not access fresh deposits or renew existing ones till they conform to the new limit, the existing deposits will be allowed to run off till maturity. It must be mentioned here that the data available with the Reserve Bank indicates that most AFCs are already complying with the revised norms and very few NBFCs have deposits in excess of 1.5 times of the NOF. Also, in cases where this limit is exceeded, the excess is not substantial. It is therefore expected, that this harmonization measure will not be disruptive.
+6. Systemic Significance
+6.1 Currently, NBFCs are categorized into three groups for the purpose of administering prudential regulations namely, NBFCs-D, non-deposit taking NBFCs (NBFCs-ND) with assets less than Rs.100 crore and NBFCs-ND-SI with assets Rs.100 crore and above, (categorised as non–deposit taking systemically important NBFCs, vide
+circular DNBS.PD/CC.No.86/03.02.089/2006-07, dated December 12, 2006
+). The current prudential regulation mainly comprises the following elements: a) Norms relating to Income Recognition, Asset Classification and Provisioning norms; b) Capital to Risk Weighted Assets Ratio (CRAR); and c) Credit Concentration Norms [norms at b) and c) are applicable to only NBFCs–D and NBFCs-ND-SI].
+6.2 The threshold for defining systemic significance for NBFCs-ND has been revised in the light of the overall increase in the growth of the NBFC sector. NBFCs-ND-SI will henceforth be those NBFCs-ND which have asset size of Rs. 500 crore and above as per the last audited balance sheet.
+6.3 With this revision in the threshold for systemic significance, NBFCs-ND shall be categorized into two broad categories viz.,
+NBFCs-ND (those with assets of less than Rs. 500 crore) and
+NBFCs-ND-SI (those with assets of Rs. 500 crore and above).
+7. Multiple NBFCs
+7.1 NBFCs that are part of a corporate group or are floated by a common set of promoters will not be viewed on a standalone basis. The total assets of NBFCs in a group including deposit taking NBFCs, if any, will be aggregated to determine if such consolidation falls within the asset sizes of the two categories mentioned in para 6.3 above. Regulations as applicable to the two categories will be applicable to each of the NBFC-ND within the group. For this purpose, Statutory Auditors would be required to certify the asset size of all the NBFCs in the Group. However, NBFC-D, within the group, if any, will be governed under the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Direction 1998 and Non-Banking Financial (Deposit Accepting or Holding) Companies Prudential Norms (Reserve Bank) Directions, 2007 and other applicable Directions.
+7.2 The definition of the word “group” will be the same as per Accounting Standards. “Companies in the Group”, shall mean an arrangement involving two or more entities related to each other through any of the following relationships:
+Subsidiary – parent (defined in terms of AS 21),
+Joint venture (defined in terms of AS 27),
+Associate (defined in terms of AS 23),
+Promoter - promotee [as provided in the SEBI (Acquisition of Shares and Takeover) Regulations, 1997],
+For listed companies, a related party (defined in terms of AS 18), common brand name, and investment in equity shares of 20% and above.
+8. Prudential Norms
+8.1 One of the main objectives of prudential regulation is to address systemic risks. The systemic risks posed by NBFCs functioning exclusively out of their own funds and NBFCs accessing public funds cannot be equated and hence cannot be subjected to the same level of regulation. Hence, as a principle, enhanced prudential regulations shall be made applicable to NBFCs wherever public funds are accepted and conduct of business regulations will be made applicable wherever customer interface is involved.
+8.2 In conformity with the above principles, the regulatory approach in respect of NBFCs-ND with an asset size of less than Rs. 500 crore will be as under:
+(i) They shall not be subjected to any regulation either prudential or conduct of business regulations viz., Fair Practices Code (FPC), KYC, etc., if they have not accessed any public funds and do not have a customer interface.
+(ii) Those having customer interface will be subjected only to conduct of business regulations including FPC, KYC etc., if they are not accessing public funds.
+(iii) Those accepting public funds will be subjected to limited prudential regulations but not conduct of business regulations if they have no customer interface.
+(iv) Where both public funds are accepted and customer interface exist, such companies will be subjected both to limited prudential regulations and conduct of business regulations.
+(v) Irrespective of whichever category the NBFC falls in, registration under Section 45 IA of the RBI Act will be mandatory.
+(vi) All of the above will also be subjected to a simplified reporting system which shall be communicated separately.
+8.3 All NBFCs-ND with assets of Rs. 500 crore and above, irrespective of whether they have accessed public funds or not, shall comply with prudential regulations as applicable to NBFCs-ND-SI. They shall also comply with conduct of business regulations if customer interface exists.
+Note: For the purpose of this circular, the term ‘public funds’ includes “funds raised directly or indirectly through public deposits, commercial papers, debentures, inter-corporate deposits and bank finance, but excludes funds raised by issue of instruments compulsorily convertible into equity shares within a period not exceeding 5 years from the date of issue”.
+Prudential Regulations Applicable to NBFCs-ND with Assets less than Rs. 500 crore
+8.4 Consequent to the redefining of ‘systemic significance’ the NBFCs-ND with asset size of less than Rs. 500 crore, are exempted from the requirement of maintaining CRAR and complying with Credit Concentration Norms.
+8.5 A leverage ratio of 7 is being introduced for all such NBFCs-ND to link their asset growth with the capital they hold. For this purpose, leverage ratio is defined as Total Outside Liabilities / Owned Funds.
+Prudential Regulations Applicable to NBFCs-ND-SI (asset of Rs. 500 crore and above) and all NBFCs-D
+Tier 1 Capital
+8.6 At present, all NBFCs-D and NBFCs-ND with asset size of Rs.100 crore and above are required to have minimum CRAR of 15%. Consequently, Tier 1 capital cannot be less than 7.5%. For Infrastructure Finance Companies (IFCs), however, Tier 1 capital cannot be less than 10%. Similarly, NBFCs primarily engaged in lending against gold jewellery have to maintain a minimum Tier 1 capital of 12% w.e.f. April 01, 2014.
+8.7 Given the business activities of NBFCs, being generally ‘niche’ in nature, concentration risk associated with such businesses, and on account of the re-definition of systemic importance, all NBFCs-ND which have an asset size of Rs. 500 crore and above, and all NBFCs-D, shall maintain minimum Tier 1 Capital of 10%. The compliance to the revised Tier 1 capital will be phased in as follows:
+8.5% by end of March 2016.
+10% by end of March 2017.
+Asset Classification
+8.8 At present, an asset is classified as Non-Performing Asset when it has remained overdue for a period of six months or more for loans; and overdue for twelve months or more in case of lease rental and hire purchase instalments, as compared to 90 days for banks. In the interest of harmonisation, the asset classification norms for NBFCs-ND-SI and NBFCs-D are being brought in line with that of banks, in a phased manner, as given below.
+8.9 Lease Rental and Hire-Purchase Assets shall become NPA:
+if they become overdue for 9 months (currently 12 months) for the financial year ending March 31, 2016;
+if overdue for 6 months for the financial year ending March 31, 2017; and
+if overdue for 3 months for the financial year ending March 31, 2018 and thereafter.
+8.10 Assets other than Lease Rental and Hire-Purchase Assets shall become NPA:
+if they become overdue for 5 months for the financial year ending March 31, 2016;
+if overdue for 4 months for the financial year ending March 31, 2017; and
+if overdue for 3 months for the financial year ending March 31, 2018 and thereafter.
+8.11 For all loan and hire-purchase and lease assets, sub-standard asset would mean:
+an asset that has been classified as NPA for a period not exceeding 16 months (currently 18 months) for the financial year ending March 31, 2016;
+an asset that has been classified as NPA for a period not exceeding 14 months for the financial year ending March 31, 2017; and
+an asset that has been classified as NPA for a period not exceeding 12 months for the financial year ending March 31, 2018 and thereafter.
+8.12 For all loan and hire-purchase and lease assets, doubtful asset
+would mean:
+an asset that has remained sub-standard for a period exceeding 16 months (currently 18 months) for the financial year ending March 31, 2016;
+an asset that has remained sub-standard for a period exceeding 14 months for the financial year ending March 31, 2017; and
+an asset that has remained sub-standard for a period exceeding 12 months for the financial year ending March 31, 2018 and thereafter.
+8.13 For the existing loans, a one-time adjustment of the repayment schedule, which shall not amount to restructuring will, however, be permitted.
+Provisioning for Standard Assets
+8.14 At present, every NBFC is required to make a provision for standard assets at 0.25% of the outstanding. On a review of the same, the provision for standard assets for NBFCs-ND-SI and for all NBFCs-D, is being increased to 0.40%. The compliance to the revised norm will be phased in as given below:
+0.30% by the end of March 2016
+0.35% by the end of March 2017
+0.40% by the end of March 2018
+Credit / Investment Concentration Norms for AFCs
+8.15 As a step towards meeting the broad objective of harmonizing regulations to the extent possible within the NBFC sector, the credit concentration norms for AFCs are now being brought in line with other NBFCs. This will be applicable with immediate effect for all new loans excluding those already sanctioned. All existing excess exposures would be allowed to run off till maturity.
+9. Corporate Governance and Disclosure norms for NBFCs
+9.1 The need for adoption of good corporate governance practices continues to engage the regulator and stakeholder attention. In this connection, in continuation of previous
+circulars DNBS(PD) CC. No.61/02.82/2005-06 dated December 12, 2005
+,
+DNBS(PD) CC. No.94/03.10.042/2006-07 dated May 8, 2007
+and
+DNBS(PD) CC. No.104/03.10.042/2007-08 dated July 11, 2007
+on Corporate Governance, certain amendments to the Corporate Governance guidelines are made as given below.
+9.2 In terms of the above mentioned circulars, NBFCs-D with deposits of Rs. 20 crore and above, and NBFCs-ND with asset size of Rs. 50 crore and above are required to constitute an Audit Committee; NBFCs-D with deposits of Rs. 20 crore and above, and NBFCs-ND with assets of Rs. 100 crore and above are advised to consider constituting Nomination Committee to ensure ‘fit and proper’ status of proposed/ existing Directors and Risk Management Committee. Further, NBFCs-D with deposits of Rs. 50 crore and above were advised that it was desirable that they stipulate rotation of partners of audit firms appointed for auditing the company every three years.
+Board Committees
+9.3 As part of harmonisation, the constitution of the three Committees of the Board and instructions with regard to rotation of partners have now been made applicable to all NBFCs-ND-SI, as also all NBFCs-D.
+Other NBFCs are encouraged to observe such practices, if already being followed.
+9.4 In addition, the Audit Committee of all NBFCs-ND-SI, as also all NBFCs-D must ensure that an Information Systems Audit of the internal systems and processes is conducted at least once in two years to assess operational risks faced by the company.
+Fit and Proper Criteria for Directors
+9.5 With the increasing integration of NBFCs in the financial sector and their growing systemic significance, it has become important that the Directors and shareholders who are responsible for steering the affairs of the companies are fit and proper, besides having the necessary qualifications. In view of this, the following additional requirements are being put in place, which shall be applicable to all NBFCs-ND-SI, as also all NBFCs-D, with effect from March 31, 2015.
+NBFCs shall ensure that there is a policy put in place for ascertaining the fit and proper criteria at the time of appointment of Directors and on a continuing basis. The policy on the fit and proper criteria should be on the lines of the Guidelines contained in
+Annex 1
+.
+A declaration and undertaking shall be obtained from the Directors by the NBFC, the draft of which is given in
+Annex 2
+.
+In addition, the Directors shall sign a Deed of Covenant as given in
+Annex 3
+.
+NBFCs shall furnish to the Reserve Bank a quarterly statement on change of Directors certified by the auditors and a certificate from the Managing Director that fit and proper criteria in selection of directors have been followed. The statement must reach the Regional Office concerned of the Reserve Bank within 15 days of the close of the quarter.
+Disclosures in Financial Statements – Notes to Account
+9.6 A reference is invited to
+DNBS.(PD)C.C.No.25/ 02.02/ 2002-03 March 29, 2003
+and
+DNBS(PD).CC.No.125/ 03.05.002/ 2008-2009 August 1, 2008
+under which NBFCs with assets of Rs. 100 crore and above were required to make additional disclosures in their balance sheets from the year ending March 31, 2009 relating to CRAR, exposure to real estate sector (both direct and indirect), and maturity pattern of assets and liabilities respectively. The above disclosures are now applicable for NBFCs-ND-SI (as redefined) and for all NBFCs-D. However, other NBFCs already disclosing the above are encouraged to continue to do so, in line with prudent practice.
+9.7 The extant disclosures are however far from comprehensive. There is need for greater transparency to provide enhanced information to the market and retain stakeholder confidence. It has hence been decided that in addition to the above disclosures, all NBFCs-ND-SI (as redefined), as also all NBFCs-D shall additionally disclose the following in their Annual Financial Statements, with effect from March 31, 2015:
+Registration/ licence/ authorisation obtained from other financial sector regulators;
+Ratings assigned by credit rating agencies and migration of ratings during the year;
+Penalties, if any, levied by any regulator;
+Information viz., area, country of operation and joint venture partners with regard to Joint Ventures and Overseas Subsidiaries; and
+Asset liability profile, extent of financing of parent company products, NPAs and movement of NPAs, details of all off-balance sheet exposures, structured products issued by them as also securitization/ assignment transactions and other disclosures as given in
+Annex 4
+.
+10. Off-Site Reporting
+In view of the revised regulations, NBFCs-ND, with assets less than Rs. 500 crore, including investment companies, shall henceforth be required to submit only a simplified Annual Return, the details of which shall be separately communicated. Till such time, they may continue to submit the existing Returns. NBFCs-ND-SI (as redefined), as also NBFCs-D, shall continue to submit the existing Returns.
+11. Exemptions
+11.1 In the circular dated March 21, 2014 on Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalizing Distressed Assets in the Economy, ‘Notified NBFCs’ in the circular shall henceforth be defined as a) NBFCs with assets of Rs. 100 crore and above, b) NBFCs-D, and c) all NBFC-Factors.
+11.2
+The revisions brought through this circular shall be applicable to NBFCs-MFI also except wherever in conflict with the provision of Non-Banking Financial Company- Micro Finance Institutions (Reserve Bank) Directions, 2011, in which case the Directions ibid will be followed.
+11.3 The minimum Tier 1 capital requirement for NBFCs primarily engaged in lending against gold jewellery remains unchanged for the present. This shall be reviewed for harmonization in due course.
+11.4 The above revisions shall be applicable to registered Core Investment Companies except wherever contrary with the provisions of Core Investment Companies (Reserve Bank) Directions, 2011, in which case the Directions ibid will be followed.
+Application of other Laws not barred
+12. The provisions of these Directions shall be in addition to, and not in derogation of the provisions of any other law, rules, regulations or directions, for the time being in force.
+13. The RBI may, if it considers necessary for avoiding any hardship or for any other just and sufficient reason, exempt any NBFC or class of NBFCs, from all or any of the provisions of these Directions either generally or for any specified period, subject to such conditions as the RBI may impose.
+14. The Notifications in this regard shall follow.
+Yours faithfully
+(A Mangalagiri)
+General Manager

@@ -1,0 +1,192 @@
+(363 kb)
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+RBI/2018-19/24
+FMRD.DIRD.01/14.03.038/2018-19
+July 24, 2018
+To
+All participants in repo markets
+Dear Sir/Madam
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+Please refer to Paragraph 5 of the
+statement on Developmental and Regulatory Policies
+, Reserve Bank of India issued as part of the
+sixth Bi-monthly Monetary Policy Statement for 2017-18 dated February 07, 2018
+regarding issuance of comprehensive repo directions.
+2. The draft directions were released for public comments on
+March 01, 2018
+. Based on the feedback received from the market participants, the
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+have been reviewed and have since been finalized. The Directions are enclosed herewith.
+Yours faithfully
+(T. Rabi Sankar)
+Chief General Manager
+RESERVE BANK OF INDIA
+FINANCIAL MARKETS REGULATION DEPARTMENT
+1ST FLOOR, CENTRAL OFFICE, FORT
+MUMBAI 400 001
+FMRD.DIRD.02/CGM (TRS)-2018 dated July 24, 2018
+Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018
+In exercise of the powers conferred by section 45W of the Reserve Bank of India Act, 1934 (RBI Act) and of all the powers enabling it in this behalf, the Reserve Bank of India (the Reserve Bank) having considered it necessary in public interest and with a view to regulate the financial system of the country to its advantage, hereby issues the following directions to all the persons eligible to participate or transact business in market repurchase transactions (repos) in India.
+1. Short title, commencement and applicability of the directions
+(1) These Directions shall be called as the Repurchase Transactions (Repo) (Reserve Bank) Directions, 2018 and shall supersede all other directions issued on the subject and covered by these regulations. These Directions shall come into force with immediate effect.
+(2) These Directions shall be applicable to repurchase transactions (Repo), undertaken on recognized stock exchanges, electronic trading platforms (ETP) and Over-the-Counter (OTC) to the extent stated herein. In case of exchange traded repurchase transactions (Repo), procedure for execution and settlement of trades shall be in accordance with the rules and regulations issued by the recognized stock exchange/Securities and Exchange Board of India (SEBI).
+(3) These Directions shall not apply to repo/ reverse repo transactions under the Liquidity Adjustment Facility and the Marginal Standing Facility, which would continue to be regulated as per the existing regulations.
+2. Definitions
+(1) In these Directions, unless the context otherwise requires-
+(a)
+“Corporate bonds and debentures”
+mean non-convertible debt securities issued in India which create or acknowledge indebtedness, including (i) debentures (ii) bonds (iii) commercial papers (iv) certificate of deposits and such other securities of a company, a multilateral financial institution (MFI) or a body corporate constituted by or under a Central Act or a State Act, whether constituting a charge on the assets of the company or body corporate or not, but does not include debt securities issued by Central Government or a State Government, or such other persons as may be specified by the Reserve Bank, security receipts and securitized debt instruments.
+(b)
+“Commercial Paper (CP)”
+is an unsecured money market instrument issued in the form of a promissory note. The original tenor of a CP shall be between seven days to one year.
+(c)
+“Certificate of Deposit (CD)”
+is a negotiable money market instrument and issued in dematerialized form or as a Usance Promissory Note against funds deposited at a bank or other eligible financial institution for a specified time period.
+(d)
+“Delivery versus Payment (DvP)”
+is a settlement mechanism which stipulates that transfer of funds from the buyer of securities is made simultaneously with the transfer of securities by the seller of securities.
+(e)
+“Government securities”
+shall have the same meaning as defined in Section 2(f) of the Government Securities Act, 2006.
+(f)
+“Haircut”
+is the difference between the market value of the collateral and the amount borrowed/lent against that collateral.
+(g)
+“Listed corporate”
+means a company or firm whose shares and (or) debt are listed and traded on a recognized stock exchange/s.
+(h)
+“MFIs”
+are multilateral financial institutions in which Government of India is a member.
+(i)
+“Recognized stock exchange”
+shall have the same meaning as defined in Section 2 (f) of Securities Contracts (Regulation) Act, 1956 (42 of 1956).
+(j)
+“Regulated entity”
+means any person, other than an individual or HUF, whose business activities are being regulated by any one of the financial regulators in India viz., Reserve Bank of India, Securities and Exchange Board of India (SEBI), Insurance Regulatory and Development Authority of India (IRDAI), Pension Fund Regulatory and Development Authority (PFRDA), National Housing Bank (NHB) and National Bank for Agriculture and Rural Development (NABARD).
+(k)
+“Related entity”
+of a company or a firm means any company or firm which is (i) a holding, subsidiary or an associate company of such company; or (ii) a subsidiary of a holding company to which it is also a subsidiary. The holding, subsidiary and associate company shall have the same meaning as defined in Companies Act, 2013.
+(l)
+“Repo”
+shall have the same meaning as defined in Section 45U (c) of RBI Act, 1934.
+“Reverse Repo”
+shall have the same meaning as defined in Section 45U (d) of RBI Act, 1934.
+Explanation:
+A ‘repo’ transaction by an entity is ‘reverse repo’ transaction for the counterpart entity. For the purpose of these Directions, the word ‘repo’ is used to mean both ‘repo’ and ‘reverse repo’ with the appropriate meaning applied contextually.
+(m)
+“Securitized debt instrument”
+means securities of the nature referred to in sub-clause (ie) of clause (h) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956).
+(n)
+“Security Receipts”
+means a security as defined in clause (zg) of section 2 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (54 of 2002).
+(o)
+“Tri-party repo”
+means a repo contract where a third entity (apart from the borrower and lender), called a Tri-Party Agent, acts as an intermediary between the two parties to the repo to facilitate services like collateral selection, payment and settlement, custody and management during the life of the transaction.
+(p) The words and expressions used, but not defined in these Directions, shall have the meaning assigned to them in the Reserve Bank of India Act, 1934, or in any other Master Circular/Notification/Direction issued by the Reserve Bank, unless anything is stated by the Reserve Bank to the contrary.
+3. Eligible securities for repo
+The securities eligible for repo under these Directions shall include:
+(a) Government securities issued by the Central Government or a State Government.
+(b) Listed corporate bonds and debentures, subject to the condition that no participant shall borrow against the collateral of its own securities, or securities issued by a related entity.
+(c) Commercial Papers (CPs) and Certificate of Deposits (CDs).
+(d) Any other security of a local authority as may be specified in this behalf by the Central Government.
+4. Eligible participants
+(1) The following are eligible to participate in repo transaction under these Directions:
+(a) Any regulated entity.
+(b) Any listed corporate.
+(c) Any unlisted company, which has been issued special securities by the Government of India, using only such special securities as collateral.
+(d) Any All India Financial Institution (FIs) viz. Exim Bank, NABARD, NHB and Small Industries Development Bank of India (SIDBI), constituted by an Act of Parliament and
+(e) Any other entity approved by the Reserve Bank from time to time for this purpose.
+5. Tenor
+Repos shall be undertaken for a minimum period of one day and a maximum period of one year.
+6. Tri-Party Agent
+The eligibility criteria, roles and obligation, application procedure for authorization, and exit procedure for Tri-party Agent are given in
+Annex I
+of these Directions.
+7. Trading venues
+Repo transactions may be traded on any recognized stock exchanges, or an electronic trading platform (ETP) duly authorised by the Reserve Bank or in the over-the-counter (OTC) market. However, prior approval of the Reserve Bank is required for trading repos on any trading platform, including on recognized stock exchanges.
+8. Trading process
+Repo transactions, including tri-party repo transactions, may use any mutually agreed trading process, including but not limited to, bilateral or multilateral, quote driven or order driven processes, anonymous or otherwise.
+9. Reporting of trades
+(1) All repo transactions, other than those on recognized stock exchanges or on approved electronic trading platforms, that disseminate trade information on the platforms, shall be reported within 15 minutes of the trade: repo in corporate securities to the reporting platform F-TRAC and repo in Government securities to the Clearcorp Repo Order Matching System (CROMS), respectively.
+(2) All trading and reporting platforms, including recognized stock exchanges, for repo transactions shall provide any data or other information to the Reserve Bank or to any entity as may be required by the Reserve Bank.
+(3) The participants to repo transactions acting under these Directions shall furnish any information or data sought by the Reserve Bank within the period stipulated in the letter/mail issued to the participant to furnish such information or data.
+10. Settlement of trades
+(1) Settlement of trades under these Directions shall be-
+(a) The first leg of all repo transactions shall settle either on a T+0 or T+1 basis.
+(b) All repo transactions shall settle on a Delivery vs Payments (DvP) basis.
+(c) All repos in government securities shall settle through CCIL or any other clearing agency approved by the Reserve Bank.
+(d) All repos in corporate bonds and debentures shall settle through the clearing house of exchanges or any other entity which has been approved by the Reserve Bank.
+11. Sale and substitution of repoed security
+(1) Securities purchased under repo may be-
+(a) On-sold either as an outright transaction or as part of another repo transaction. Outright sale of securities acquired under repo shall be undertaken only by such entities that are eligible to undertake short sale transactions in terms of the relevant directions of the Reserve Bank and in such securities that are permitted to be short sold.
+(b) Substituted by another security in terms of the rules of any approved clearing agency.
+12. Pricing of collateral, haircut and margining
+(1) In case of repo transactions under these Directions-
+(a) Collaterals shall be priced transparently at prevailing market prices, in the first leg of a repo.
+(b) The price for the second leg will be the price for the first leg plus interest.
+(c) Haircut/ margins will be decided either by the clearing house or may be bilaterally agreed upon, in terms of the documentation governing repo transactions, subject to the following stipulations:
+Listed corporate bonds and debentures shall carry a minimum haircut of 2% of market value. Additional haircut may be charged based on tenor and illiquidity of the security.
+CPs and CDs shall carry a minimum haircut of 1.5% of market value.
+Securities issued by a local authority shall carry a minimum haircut of 2% of market value. Additional haircut may be charged based on tenor and illiquidity of the security.
+13. Accounting, presentation, valuation and disclosure
+(1) Repos shall be accounted by entities regulated by the Reserve Bank as per guidelines contained in
+Annex II
+.
+(2) Other eligible participants may account for repo transactions as per applicable accounting standards.
+14. Computation of Cash Reserve Ratio (CRR) /Statutory Liquidity Ratio (SLR) and borrowing limit
+(1) Funds borrowed under repo including tri-party repo in government securities shall be exempted from CRR/SLR computation and the security acquired under repo shall be eligible for SLR provided the security is primarily eligible for SLR as per the provisions of the Act under which it is required to be maintained.
+(2) Borrowings by a bank through repo in corporate bonds and debentures shall be reckoned as liabilities for Cash Reserve Ratio/ Statutory Liquidity Ratio requirement and, to the extent these liabilities are to the banking system, they shall be netted as per section 42(1) of the RBI Act, 1934.
+15. Documentation
+(1) Participants shall enter into standard bilateral master repo agreements as per the documentation finalized by FIMMDA,
+(2) Repo transactions traded on a multilateral trading platform shall be governed by the rules and regulations of the platform where it is traded.
+(3) In case of tri-party repos, separate agreements between a participant and a tri-party agent shall be executed as per the documentation prescribed by the tri-party agent.
+16. The list of previous circulars issued by the Reserve Bank on repo transaction that are repealed and withdrawn are given at
+Annex III
+hereunder.
+(T. Rabi Sankar)
+Chief General Manager
+Annex III
+Circular No. IDMC/PDRS/3432/10.02.01/2002-03 dated February 21, 2003
+.
+Circular No. IDMD/PDRS/4779/10.02.01/2004-05 dated May 11, 2005
+.
+Circular No. IDMD.DOD.No.334/11.08.36/2009-10 dated July 20, 2009
+Circular No. IDMD.DOD.No.04/11.08.38/2009-10 dated January 8, 2010
+.
+Circular No. IDMD.DOD.No.05/11.08.38/2009-10 dated January 8, 2010
+.
+Circular No. IDMD/4135/11.08.43/2009-10 dated March 23, 2010
+.
+Circular No. IDMD.DOD.08/11.08.38/2009-10 dated April 16, 2010.
+Circular No. IDMD.PCD.No.21/11.08.38/2010-11 dated November 9, 2010
+.
+Circular No. IDMD.PCD.No.22/11.08.38/2010-11 dated November 9, 2010
+.
+Circular No. IDMD No./29/11.08.043/2010-11 dated May 30, 2011
+.
+Circular No. IDMD.PCD.1423/14.03.02/2012-13 dated October 30, 2012
+.
+Circular No. IDMD.PCD.08/14.03.02/2012-13 dated January 4, 2013.
+Circular No. IDMD.PCD.No.08/14.03.02/2012-13 dated January 7, 2013
+.
+Circular No. IDMD.PCD.No.09/14.03.02/2012-13 dated January 7, 2013
+.
+Circular No. IDMD.PCD.13/14.01.02/2013-14 dated June 25, 2014
+.
+Circular No. FMRD.DIRD.3/14.03.002/2014-15 dated February 03, 2015
+.
+Circular No. FMRD.DIRD.4/14.03.002/2014-15 dated February 03, 2015
+.
+Circular No. FMRD.DIRD.5/14.03.002/2014-15 dated February 05, 2015
+.
+Circular No. FMRD.DIRD.07/14.03.002/2014-15 dated May 14, 2015
+.
+Circular No. FMRD.DIRD.08/14.03.002/2014-15 dated May 14, 2015
+.
+Circular No. FMRD.DIRD.4/14.01.009/2016-17 dated August 25, 2016.
+Circular No. FMRD.DIRD.5/14.01.009/2016-17 dated August 25, 2016
+.
+Circular No. FMRD.DIRD.6/14.03.002/2016-17 dated August 25, 2016
+.
+Circular No. FMRD.DIRD.4/14.03.024/2017-18 dated August 10, 2017
+.

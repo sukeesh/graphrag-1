@@ -1,0 +1,811 @@
+(385 kb)
+Master Direction - Residuary Non-Banking Companies (Reserve Bank) Directions, 2016 (Updated as on February 22, 2019)
+RBI/DNBR/2016-17/43
+Master Direction DNBR. PD.006/13.10.119/2016-17
+August 25, 2016
+(
+Updated as on February 22, 2019
+)
+Master Direction - Residuary Non-Banking Companies (Reserve Bank) Directions, 2016
+The Reserve Bank of India (the Bank), having considered it necessary in the public interest and being satisfied that for the purpose of enabling the Bank to regulate the credit system to the advantage of the country, it is necessary to give the directions set out below, in exercise of the powers conferred by sections 45J, 45JA and 45K of the Reserve Bank of India Act, 1934 (Act 2 of 1934) (the RBI Act),and of all the powers enabling it in this behalf, and in supersession of the earlier Directions contained in Notification No.DFC.55/DG(O)-87 dated the 15th May 1987 as amended from time to time issues the following Residuary Non-Banking Companies (Reserve Bank) Directions, 2016 (the
+Directions
+) applicable to every residuary non-banking company hereinafter specified.
+Index
+Subject
+Chapter I – Preliminary
+Chapter II – Definition
+Chapter III – Requirement of Maintenance of Liquid Assets
+Chapter IV – Acceptance of Deposits
+Chapter V – General provisions regarding repayment of public deposit
+Chapter VI – Miscellaneous Instructions
+Chapter VII – Reporting Requirements
+Chapter VIII – Interpretations
+Chapter IX – Repeal Provisions
+Chapter – I
+Preliminary
+1. Short title and commencement of the directions
+(a) These directions shall be known as the “Residuary Non-Banking Companies (Reserve Bank) Directions, 2016”.
+(b) These directions shall come into force with immediate effect.
+2. Applicability of the Directions
+(1) These directions shall apply to every residuary non-banking company, that is to say, a non-banking institution, being a company, which receives any deposit under any scheme or arrangement, by whatever name called, in one lump sum or in instalments by way of contributions or subscriptions or by sale of units or certificates or other instruments, or in any other manner and which, according to the definitions contained in the Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 2016 or, as the case may be, the Miscellaneous Non-Banking Companies (Reserve Bank) Directions, 2016, is
+not
+-
+an equipment leasing company
+a hire purchase finance company
+an investment and credit company
+a housing finance company
+an insurance company
+a factor
+a mutual benefit financial company
+a miscellaneous non-banking company and
+a mutual benefit company
+(2) This Direction consolidates the regulations as issued by Department of Non-Banking Regulation, Reserve Bank of India. However, any other Directions/guidelines issued by any other Department of the Bank, as applicable to a Residuary Non-Banking Company shall be adhered to by it.
+Chapter II
+Definitions
+3.
+In these directions, unless the context otherwise requires, -
+(a) "Act" means the Reserve Bank of India Act, 1934 (Act 2 of 1934);
+(b) "Bank" means the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934;
+(c) "deposit" shall have the same meaning as assigned to it in section 45I(bb) of the RBI Act;
+(d) "depositor" means any person who has made the deposit with the company;
+(2) Words or expressions used but not defined herein and defined in the RBI Act, shall have the same meaning as assigned to them in that RBI Act. Any other words or expressions not defined herein or in the RBI Act shall have the same meaning as assigned to them in the Companies Act, 1956 (Act 1 of 1956) or Companies Act 2013 (Act 18 of 2013) as the case may be.
+Chapter III
+Requirement of Maintenance of Liquid Assets
+4.
+In exercise of the powers conferred under sub section (1) of section 45 IB of the Act, from 31 January 1998 the percentage of assets to be maintained by a Residuary Non-Banking Company shall be ten per cent of the deposits outstanding at the close of business on the last working day of the second preceding quarter.
+Chapter IV
+Acceptance of Deposits
+5. Acceptance of Deposits by Residuary Non-banking Companies
+On and from April 12, 1993, no residuary non-banking company shall receive any deposit repayable on demand or on notice or after a period of less than 12 months or more than 84 months from the date of receipt of such deposit or renew any deposit received by it whether before or after that date, unless such deposit, on renewal, is repayable not earlier than 12 months and not later than 84months from the date of such renewal.
+Explanation
+- Where a deposit is received in instalments, the period of deposit shall be computed from the date of receipt of the first instalment.
+6.
+No residuary non-banking company shall take from any depositor / subscriber to any schemes run by the company, with or without his consent, any amounts towards processing or maintenance charges or any such charges, by whatever name called, for meeting its revenue expenditure.
+Provided
+that a company may charge to a new depositor / subscriber a one time (non-refundable) sum not exceeding ₹ 80/- (Rupees eighty only) towards the cost of expenses for issuing brochure, application form and servicing the depositor's account where the aggregate yearly subscription of such deposit is not less than ₹ 500/-. Where the amount of deposit collected is less than ₹ 500/- there shall be a pro rata reduction in the said one time non-refundable amount of ₹ 80/-.No such amount shall be collected on the deposits received under daily deposit scheme.
+7. Branches and appointment of agents to collect deposits
+No residuary non-banking company shall open its branch / office or appoint agents to collect deposits except as provided hereunder:
+(i) a residuary non-banking company having the certificate of registration issued under section 45-IA of the Act, may open its branch or appoint agents if its –
+(a) NOF is up to ₹ 50 crore
+Within the State where its registered office is situated; and if
+(b) NOF is more than ₹ 50 crore
+Anywhere in India
+(ii) (a) for the purpose of opening a branch / office, a residuary non-banking company shall notify to the Bank of its intention to open the proposed branch;
+(b) on receipt of such advice, the Bank may, on being satisfied that in the public interest or in the interest of the concerned residuary non-banking company or for any other relevant reasons to be recorded, reject the proposal and communicate the same to the residuary non-banking company;
+(c) if no advice of rejection of the proposal under (b) above is communicated by the Bank within 30 days from the receipt of such advice, the residuary non-banking company may proceed with its proposal.
+8. Closure of Branches
+No residuary non-banking company shall close its branch / office without publishing such intention in any one national level newspaper and in one vernacular newspaper in circulation in the relevant place, before ninety days of the proposed closure and without advising the Bank at least ninety days before the proposed closure.
+9. Mandatory compliance with Prudential Norms
+A residuary non-banking company shall not accept or renew deposits without complying with the requirements of Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.
+10. Minimum Rate of Return
+On and from 11th November 1997, the amount payable by way of interest, premium, bonus or other advantage, by whatever name called, by a residuary non-banking company in respect of deposits received from that date, shall not be less than the amount calculated -
+(i) at the rate of 8 per cent per annum (to be compounded annually) on the amount deposited in lump sum or at monthly or longer intervals;
+(ii) at the rate of 6 per cent per annum (to be compounded annually) on the amount deposited under daily deposit schemes.
+Provided
+that where at the request of the depositor, a residuary non-banking company makes repayment of the deposit after the expiry of a period of one year but before expiry of the period for which the deposit had been accepted, the amount payable by the company by way of interest, premium, bonus or other advantage on such deposit shall be reduced by one percentage point from the rate which the company would have ordinarily paid by way of interest, bonus, premium or other advantage, had the deposit been accepted for the period for which such deposit had run.
+On and from July 1, 2000, the amount payable by way of interest, premium, bonus or other advantage, by whatever name called, by a residuary non-banking company in respect of deposits received from that date, shall not be less than the amount calculated -
+(i) at the rate of 6 per cent per annum (to be compounded annually) on the amount deposited in lump sum or at monthly or longer intervals; and
+(ii) at the rate of 4 per cent per annum (to be compounded annually) on the amount deposited under daily deposit schemes :
+Provided
+that where at the request of depositor, a residuary non-banking company makes repayment of the deposit after the expiry of a period of one year but before the expiry of the period for which the deposit had been accepted, the amount payable by the company by way of interest, premium, bonus or other advantage on such deposit shall be reduced by one percentage point from the rate which the company would have ordinarily paid by way of interest, bonus, premium or other advantage, had the deposit been accepted for the period for which such deposit had run.
+On and from April 1, 2003, the amount payable by way of interest, premium, bonus or other advantage, by whatever name called, by a residuary non-banking company in respect of deposits received from that date, shall not be less than the amount calculated -
+(i) at the rate of five per cent per annum (to be compounded annually) on the amount deposited in lump sum or at monthly or longer intervals; and
+(ii) at the rate of three and one-half per cent per annum (to be compounded annually) on the amount deposited under daily deposit schemes:
+Provided
+that where at the request of a depositor, a residuary non-banking company makes repayment of the deposit after the expiry of a period of one year but before the expiry of the period for which the deposit had been accepted, the amount payable by the company by way of interest, premium, bonus or other advantage on such deposit shall be reduced by one percentage point from the rate which the company would have ordinarily paid by way of interest, bonus, premium or other advantage, had the deposit been accepted for the period for which such deposit had run.
+Chapter V
+General Provisions regarding repayment of deposits
+11. Intimation of Maturity of Deposits to Depositors
+It shall be the obligation of the residuary non-banking company to intimate the details of maturity of the deposit to the depositor at least two months before the date of maturity of the deposit.
+12. Payment of Interest for delayed Repayment of Public Deposits
+Where an RNBC fails to repay the deposit along with interest on maturity on the claim made by the depositor, it shall be liable to pay interest in the following manner:
+(i) if the company has intimated about the maturity to the depositor at least two months before the date of maturity and has sufficient evidence for the same viz. acknowledgement from the depositor, but the depositor fails to submit his claim on maturity, then the company will be required to pay interest at the rate as applicable to the deposit from the date of claim till the date of repayment along with the amount due on maturity.
+(ii) if the company has not intimated about the maturity to the depositor two months before the date of maturity, then, as and when the depositor makes a claim, the company will be required to pay interest at the rate as applicable to the deposit from the date of maturity till the date of repayment along with the amount due on maturity.
+13. Minimum Lock- in period and Repayment in the event of Death of the Depositor
+No residuary non-banking company shall make premature repayment of deposit within a period of twelve months (lock - in period) from the date of its acceptance:
+Provided
+that in the event of death of a depositor, a residuary non-banking company shall repay the deposit prematurely, even within the lock - in period, to the surviving depositor/s in the case of joint holding with survivor clause, or to the nominee or the legal heir/s of the deceased depositor, on the request of the surviving depositor / nominee / legal heir, and only against submission of proof of death, to the satisfaction of the company.
+14. Repayment of deposits by a residuary non-banking company not being a problem residuary non-banking company
+Subject to the provisions contained in paragraph 13 above, a residuary non-banking company not being a problem residuary non-banking company may, with effect from October 5, 2004, permit premature repayment of a deposit at its sole discretion:
+Provided
+that in the case of a deposit accepted prior to the aforesaid date, such residuary non-banking company may, if so permitted by the terms and conditions of acceptance of such deposit, repay it prematurely at the request of the depositor, after the expiry of twelve months from the date of deposit.
+15. Repayment of Deposits by a problem residuary Non-Banking Company
+Subject to the provisions contained in paragraph 13 above, in order to enable a depositor to meet expenses of an emergent nature, a problem residuary non-banking company may make premature prepayment of a deposit as follows:
+repay a tiny deposit in entirety or repay any other deposit up to an amount not exceeding ₹ 10,000/-.
+16. Clubbing of deposits by a problem residuary non-banking company
+All deposit accounts standing to the credit of sole / first named depositor in the same capacity shall be clubbed and treated as one deposit account for the purpose of premature repayment by a problem residuary non-banking company;
+Provided
+that this clause shall not apply to premature repayment in the event of death of depositor as provided in paragraph 13 above.
+17. Rate of Interest on premature Repayment of Deposits
+Where a residuary non-banking company, whether at its sole discretion or at the request of the depositor, as the case may be, repays a deposit after twelve months from the date of its acceptance, but before its maturity (including premature repayment in the case of death of the depositor), it shall pay interest at the following rates:
+After the expiry of 12 months but before the date of maturity
+The interest payable shall be 2 per cent lower than the interest rate applicable to a deposit for the period for which the deposit has run or if no rate has been specified for that period, then 3 per cent lower than the minimum rate at which deposits are accepted by the residuary non-banking company.
+Explanation:
+For the purpose of this paragraph,
+(a) 'problem residuary non-banking company' means a residuary non-banking company which -
+(i) has refused or failed to meet within five working days any lawful demand for repayment of the matured deposits ; or
+(ii) intimates the CLB under section 58AA of the Companies Act, 1956, about its default to a small depositor in repayment of any deposit or part thereof or any interest thereupon; or
+(iii) approaches the Bank for withdrawal of the liquid asset securities to meet its deposit obligations; or
+(iv) approaches the Bank for any relief or relaxation or exemption from the provisions of Residuary Non-Banking Companies (Reserve Bank) Directions, 2016 or from that of Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016 for avoiding default in meeting deposit or other obligations; or
+(v) has been identified by the Bank to be a problem residuary non-banking company either suo moto or based on the complaints from the depositors about non-repayment of deposits or on complaints from the company's lenders about non-payment of dues.
+(b) 'tiny deposit' means the aggregate amount of deposits not exceeding ₹10,000/- standing in the name of the sole or the first named depositor in the same capacity in all the branches of the residuary non-banking company."
+18. Minimum Rate of Return on Deposits from NRIs
+No residuary non-banking company shall invite or accept or renew repatriable deposits from Non-Resident Indians in terms of
+Notification No.FEMA.5/2000-RB dated May 3, 2000
+under Non-Resident (External) Account Scheme at a rate exceeding the rate specified by the Bank for such deposits with scheduled commercial banks.
+Explanation -
+The period of above deposits shall be not less than one year and not more than three years.
+19. Security for Depositors
+On and from May 1, 1997 -
+(1) Every residuary non-banking company shall invest and continue to invest an amount including the amount invested in assets under section 45-IB of the Act, which at the close of business on any day of the quarter ending June 30, 1997 and thereafter on any day of each quarter shall not be less than the aggregate amounts of the liabilities to the depositors, outstanding at the close of business on the last working day of the second preceding quarter (whether or not such amounts have become payable) in securities or in other types of investments which are unencumbered and valued at a price not exceeding the current market price, in the following manner, namely, -
+(a) not less than 10 per cent of the aggregate amount of liabilities to depositors in fixed deposits / certificate of deposits of scheduled commercial banks or of public financial institutions or partly in any of these banks or financial institutions;
+(b) not less than 60 percent of the aggregate amount of liabilities to depositors in bonds or debentures or commercial paper of a Government company or public sector bank or public financial institution or of any corporation established or constituted by any State or Central enactments or any other company incorporated under the Companies Act, 1956 (Act 1 of 1956) or in any approved securities or in the manner at (a) above subject, however, to the conditions that
+(i) not more than two per cent of the aggregate amount of the liabilities to the depositors shall be invested in any scheme/s of a Mutual Fund which is governed by the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 and the aggregate of such investment shall not exceed ten per cent of the aggregate amount of liabilities to the depositors
+(ii) not more than 10 per cent of the aggregate amount of liabilities shall be invested in debentures, bonds or commercial papers of the companies incorporated under the Companies Act, 1956 (Act 1 of 1956), not being a subsidiary company, holding company or company in the same group of such residuary non-banking company, or a Government company or a public financial institution:
+Provided
+that such bonds or debentures have been rated not less than AA+ or its equivalent by any one of the approved credit rating agencies and the commercial papers are rated as required in terms of Notification IECD.No.1/87(CP)-89/90 dated December 11, 1989, issued by the Bank;
+(c) not more than 20 per cent of the aggregate amount of liabilities to the depositors or ten times the net owned fund of the company, whichever is less, shall be invested in any manner which in the opinion of the company is safe as per the approval of the Board of Directors of the company, subject to the condition that the net owned fund of such company is positive. However, where the net owned fund of such company is nil or negative, such company shall invest such amount in accordance with (a) or (b) above only.
+On and from July 1, 2004 -
+(1) Every residuary non-banking company shall invest and continue to invest an amount including the amount invested in assets under section 45-IB of the Act, which at the close of business on any day of the quarter ending September 30, 2004 and thereafter, on any day of each quarter shall not be less than the aggregate amounts of the liabilities to the depositors, outstanding at the close of business on the last working day of the second preceding quarter (whether or not such amounts have become payable) in securities or in other types of investments which are unencumbered and valued at a price not exceeding the current market price, in the following manner, namely, -
+(a) not less than 10 per cent of the aggregate amount of liabilities to depositors in fixed deposits/ certificates of deposit of scheduled commercial banks; or in certificates of deposit of specified financial institutions, provided the certificates are rated not less than AA+ or its equivalent by an approved credit rating agency, or partly in any of these Fixed Deposits / Certificates of Deposit so rated;
+(b) not less than 70 per cent of the aggregate amount of liabilities to depositors in securities of any State Government or Central Government issued by them in the course of their market borrowing programme, or in bonds or debentures (rated not less than AA+ or equivalent by an approved credit rating agency and listed on a recognized stock exchange) of any other company incorporated under the Companies Act, 1956 (Act 1 of 1956) or in the manner at clause (a) or in the debt oriented schemes of mutual funds subject, however, to the conditions that
+(i) not less than 15 per cent of the aggregate amount of the liabilities to the depositors shall be invested in any securities of any State Government or Central Government issued in the course of market borrowing programme;
+(ii) not more than two per cent of the aggregate amount of the liabilities to the depositors shall be invested in any one debt oriented Mutual Fund which is governed by the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 and the aggregate of such investment shall not exceed ten per cent of the aggregate amount of liabilities to the depositors:
+Provided
+that on and from July 1, 2004, a residuary non-banking company which does not comply with the above requirement, shall not make any investment in other securities till the shortfall in this category of investments is made good.
+Provided
+that in the event of downgrading of credit rating below the prescribed grade of any bond or debenture, the bond or debenture shall become ineligible for compliance with the above requirement and shortfall, if any, in the compliance with the above paragraph arising from such downgrading of the rating shall be made good before making any further investments in the securities as provided for in clause (c) or (d).
+Provided
+that debenture / bonds issued by holding company / subsidiary company / company in the same group shall not qualify for such investment.
+(c) for the period prior to March 31, 2005, not more than 20 per cent of the aggregate amount of liabilities to the depositors or ten times the net owned fund of the company, whichever is less, shall be invested in any manner which in the opinion of the company is safe as per the approval of the board of directors of the company;
+(d) on and from April 1, 2005 not more than ten per cent of the aggregate amount of liabilities to the depositors or one time the net owned fund of the company, whichever is less, may be invested in any manner which in the opinion of the company is safe as per the approval of the board of directors of the company;
+(e) on and from April 1, 2006 the aggregate amount of liabilities to the depositors shall be invested in accordance with sub-paragraph (a) or sub-paragraph (b) only.
+On and from April 1, 2006 -
+(1) every residuary non-banking company shall invest and continue to invest an amount including the amount invested in assets under section 45-IB of the Act, which at the close of business on any day of the quarter ending December 31, 2005 and thereafter, on any day of each quarter shall not be less than the aggregate amounts of the liabilities to the depositors, outstanding at the close of business on the last working day of the second preceding quarter (whether or not such amounts have become payable) in securities or in other types of investments which are unencumbered and valued at a price not exceeding the current market price, in the following manner, namely, -
+(a) not less than 10 per cent of the aggregate amount of liabilities to depositors in fixed deposits / certificates of deposit of scheduled commercial banks; or in certificates of deposit of specified financial institutions, provided the certificates are rated not less than AA+ or its equivalent by an approved credit rating agency, or partly in any of these Fixed Deposits / Certificates of Deposit so rated;
+(b) not less than 75 per cent of the aggregate amount of liabilities to depositors in securities of any State Government or Central Government issued by them in the course of their market borrowing programme, or in bonds or debentures (rated not less than AA+ or equivalent by an approved credit rating agency and listed on a recognized stock exchange) of any other company incorporated under the Companies Act, 1956 (Act 1 of 1956) or in the manner at clause (a) or in the debt oriented schemes of mutual funds subject, however, to the conditions that :-
+(i) not less than 15 per cent of the aggregate amount of the liabilities to the depositors shall be invested in any securities of any State Government or Central Government issued in the course of market borrowing programme;
+(ii) not more than two per cent of the aggregate amount of the liabilities to the depositors shall be invested in any one debt oriented Mutual Fund which is governed by the Securities and Exchange Board of India (Mutual Funds) Regulations, 1996 and the aggregate of such investment shall not exceed ten per cent of the aggregate amount of liabilities to the depositors:
+Provided
+that on and from April 1, 2006, a residuary non-banking company which does not comply with the above requirement, shall not make any investment in other securities till the shortfall in this category of investments is made good:
+Provided
+that in the event of downgrading of credit rating below the prescribed grade of any bond or debenture, the bond or debenture shall become ineligible for compliance with the above requirement and shortfall, if any, in the compliance with the above paragraph arising from such downgrading of the rating shall be made good before making any further investments in the securities as provided for in clause (c) or (d). :
+Provided
+that debenture / bonds issued by holding company / subsidiary company / company in the same group shall not qualify for such investment;
+(c) on and from April 1, 2006, not more than 5 per cent of the aggregate amount of liabilities to the depositors or one time the net owned fund of the company, whichever is less, shall be invested in any manner which in the opinion of the company is safe as per the approval of the board of directors of the company;
+(d) on and from July 1, 2006, the incremental liabilities to the depositors above the level of aggregate amount of the liabilities to the depositors as on December 31, 2005 shall be invested in accordance with sub-paragraph (a) or sub-paragraph (b) only;
+(e) on and from April 1, 2007, the aggregate amount of liabilities to the depositors as at end of last working day of second preceding quarter shall be invested in accordance with sub-paragraph (a) or sub-paragraph (b) only.
+Explanation :
+- For the purpose of clause(d), "incremental liabilities to the depositors" means liabilities to the depositors exceeding the aggregate amount of the liabilities to the depositors as on 31 December, 2005.
+(2) Every residuary non-banking company shall
+(i) open a Constituent's Subsidiary General Ledger (CSGL) account with a scheduled commercial bank, or the Stock Holding Corporation of India Ltd. (SHCIL) or a dematerialised account with a depository through a depository participant registered with Securities and Exchange Board of India and keep the unencumbered approved securities required to be maintained by it in pursuance of section 45-IB of the Act, and the Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016, in such CSGL account or dematerialised account;
+(ii) keep other securities referred to in clause (b) of sub-paragraph (1) above in such CSGL account or dematerialised account if they have been dematerialised; and
+(iii) designate one of the scheduled commercial banks in the place where the registered office of the residuary non-banking company is situated as its designated banker and entrust, in physical form, to such bank or the SHCIL all unencumbered deposit receipts and securities referred to in clauses (a) and (b) of paragraph (1) above and such unencumbered approved securities which have not been dematerialised; and intimate the name and location of such scheduled commercial bank where it has opened its CSGL account or has held the securities in physical form, or the location of the SHCIL where it has opened its CSGL account or has held the securities in physical form or the depository (and the depository participant) where it has held its dematerialised account, in writing, to the Regional Office of the Bank under whose jurisdiction the registered office of the company is situated, as specified in
+Schedule B
+hereto:
+Provided
+that where a residuary non-banking company intends to entrust the securities specified in clause (iii) above with the designated banker or the SHCIL, at a place other than the place at which its registered office is located, it may do so with the prior approval, in writing, of the Regional Office of Bank under whose jurisdiction the registered office of the company is situated, as specified in
+Schedule B
+hereto;
+Provided
+further that the government securities held in the said CSGL account or dematerialised account, shall not be traded, either by entering into ready forward contracts, including reverse ready forward contracts, or otherwise, except, by following the procedure and to the extent, as hereinafter specified.
+(3) The securities mentioned in sub-paragraph (1) above shall continue to be kept as specified in sub-paragraph (2) above for the benefit of the depositors and shall not be withdrawn or encashed or otherwise dealt with by the residuary non-banking company except for repayment to the depositors with the prior approval of the Bank:
+Provided
+that,
+(i) a residuary non-banking company may withdraw a portion of such securities in proportion to the reduction of its public deposits duly certified to that effect by its auditor;
+(ii) where the residuary non-banking company intends to substitute such securities kept in physical form, it shall do so by entrusting securities of equal value to the designated bank or SHCIL before such withdrawal; and
+(iii) the market value of these securities shall, at no point of time, be less than the percentage of public deposits as specified in the directions as specified in Chapter III of these directions.
+(4) Where the residuary non-banking company intends to trade, either by entering into ready forward contracts, including reverse ready forward contracts, or otherwise, in the government securities that are held in excess of the requirement under section 45-IB of the Act and Chapter III of the directions, the same shall be undertaken by opening a separate CSGL or dematerialised account for keeping such excess government securities.
+(5) In order to protect the interest of depositors, an exclusive CSGL or demat account to hold Government securities shall be maintained for securities held for the purpose of compliance with section 45-IB of the Act. This account shall be operated only for purchase or sale of securities due to increase or decrease in the quantum of public deposits or withdrawal of securities for encashment on maturity or for repayment to depositors in special circumstances.
+(6) Every residuary non-banking company shall furnish to the Bank within 15 days from the close of business after the end of each quarter a certificate from its statutory auditors to the effect that the amounts deposited and investments made by the company are not less than the aggregate amount of liabilities to the depositors outstanding at the close of business on the last working day of the second preceding quarter.
+Explanation :-
+(i) 'net owned fund' means net owned fund as defined under section 45-IA of the Act, including the paid up preference shares which are compulsorily convertible into equity;
+(ii) "aggregate amounts of liabilities" shall mean total amount of deposits received together with interest, premium, bonus or other advantage by whatever name called, accrued on the amount of deposits according to the terms of contract;
+(iii) "quarter" means the period of three months, ending on the last day of March, June, September or December;
+(iv) "approved credit rating agencies" mean -
+(a) The Credit Rating Information Services of India Ltd. (CRISIL).
+(b) Investment Information and Credit Rating Agency of India Ltd. (ICRA)
+(c) Credit Analysis & Research Ltd. (CARE)
+(d) FITCH Ratings India Private Ltd. (Fitch India)"
+(v) 'Scheduled Commercial Bank' means a bank included in the Second Schedule to the Act, excluding a regional rural bank or a co-operative bank;
+(vi) ‘Government company' means a company as defined under section 617 of the Companies Act, 1956 (1 of 1956);
+(vii) ‘Specified Financial Institution' means institutions listed in the
+schedule "D"
+to this Notification;
+(viii) the words 'holding company', 'subsidiary company', 'company in the same group' shall have the same meaning as assigned to them in the Companies Act, 1956.
+20. Abolition of Forfeiture
+On and from 15th May 1987, no residuary non-banking company shall forfeit any amount deposited by a depositor, or any interest, premium bonus or other advantage accrued thereon.
+21. Particulars to be specified in Application Form soliciting Deposits
+No residuary non-banking company shall accept, renew or convert any deposit except on a written application from the depositor in the form to be supplied by the company which form shall contain all the particulars specified in the Non-Banking Financial Companies and Miscellaneous Non-Banking Companies (Advertisement Rules) 1977 made under section 58A of the Companies Act, 1956 (Act 1 of 1956). Such application form shall also contain full details about the return which depositor is entitled to get on the deposits made by him.
+22. Furnishing of Receipts to Depositors
+(1) Every residuary non-banking company shall furnish to every depositor or his agent, unless it has done so already, a receipt for every amount which has been or which may be received by the company by way of deposit before or after the commencement of the Directions.
+(2) The said receipt shall be duly signed by an officer entitled to act for the company in this behalf and shall state the date of deposit, the name of the depositor, the amount in words and figures received by the company by way of deposit, the rate of interest, premium, bonus or other advantage payable thereon and the date on which the deposit is repayable.
+23. Register of Deposits
+(1) Every residuary non-banking company shall keep one or more registers in which shall be entered separately in the case of each depositor the following particulars, namely :-
+(a) name and address of the depositor,
+(b) date and amount of each deposit,
+(c) duration and the due date of each deposit,
+(d) date and amount of accrued interest, bonus or premium or other advantage on each deposit,
+(e) date and amount of each repayment,
+(f) any other particulars relating to the deposit.
+The register or registers aforesaid shall be kept at the registered office of the company and shall be preserved in good order for a period of not less than eight calendar years following the financial year in which the latest entry is made of the repayment or renewal of any deposit of which particulars are contained in the register.
+(2) Every residuary non-banking company shall maintain separate books of account and registers with respect to deposit received / to be received or by sale of units or certificates or other instruments after the commencement of the directions:
+Provided
+that if the company keeps the books of account referred to in sub-section (1) of section 209 of the Companies Act, 1956 (Act 1 of 1956) at any place other than its registered office in accordance with the proviso to that sub-section, it shall be sufficient compliance with this paragraph if the register aforesaid is kept at such other place, subject to the condition that the company delivers to the Bank a copy of the notice filed with the Registrar under the proviso to the said sub-section within seven days of such filing.
+24. Information to be included in the Board's Report
+(1) In every report of the Board of Directors laid before the company in general meeting under sub-section (1) of Section 217 of the Companies Act, 1956 (Act 1 of 1956) after the date of commencement of the directions, there shall be included in the case of a residuary non-banking company the following particulars of information, namely -
+(a) compliance with the provisions of these directions;
+(b) the total number of depositors of the company whose deposits have not been claimed by the depositors or paid by the company after the date on which the deposit became due for repayment or renewal as the case may be, according to the contract with the depositor or the provisions of these directions, whichever may be applicable; and
+(c) the total amounts due to the depositors and remaining unclaimed or unpaid beyond the date referred to in clause (b) as aforesaid.
+(2) The said particulars or information shall be furnished with reference to the position as on the last date of the financial year to which the report relates and if the amounts remaining unclaimed or unpaid as referred to in clause (b) of sub-paragraph (1) exceed in the aggregate the sum of rupees five lakhs, there shall also be included in the report a statement on the steps taken or proposed to be taken by the Board of Directors for the repayment of the amounts due to the depositors and remaining unclaimed or unpaid.
+25.
+Every residuary non-banking company shall disclose as liabilities in its books of account and balance sheet, the total amount of deposits received together with interest, bonus, premium or other advantage, accrued or payable to the depositors.
+26. Advertisements and Statements in lieu of Advertisement
+(1) Every residuary non-banking company shall comply with the provisions of the Non-Banking Financial Companies and Miscellaneous Non-Banking Companies (Advertisement) Rules, 1977 and shall also specify in every advertisement to be issued thereunder, the following:
+(a) the actual rate of return by way of interest, premium, bonus or other advantage to the depositor;
+(b) the mode of payment to depositors;
+(c) maturity period of deposit;
+(d) the interest payable on a specified deposit;
+(e) if the depositors are eligible for any attractive gifts / incentives such as accident insurance or similar additional benefit, if any, the amount of such gift / incentive or additional advantage which is given / paid by the company;
+(f) the rate of interest which will be payable to the depositor in case the depositor withdraws the deposit prematurely, the terms and conditions subject to which a deposit will be revived / renewed;
+(g) any other special features relating to the terms and conditions subject to which the deposits are accepted / revived / renewed; and
+(h) that the deposits solicited by it are not insured.
+(2) Where a company intends to accept deposits without inviting or allowing or causing any other person to invite such deposits, it shall before accepting deposits, deliver to the Regional Office of the Department of Non-Banking Supervision of the Bank within whose jurisdiction its registered office is situated, for registration, a statement in lieu of advertisement containing all the particulars required to be included in the advertisement pursuant to the Non-Banking Financial Companies and Miscellaneous Non-Banking Companies (Advertisement) Rules, 1977 and particulars stated in sub-paragraph (1) hereinabove, duly signed in the manner provided in the aforesaid Rules.
+(3) A statement delivered under sub-paragraph (2) above shall be valid till the expiry of six months from the date of closure of the financial year in which it is so delivered or until the date on which the balance sheet is laid before the company in general meeting, or where the annual general meeting for any year has not been held, the latest day on which that meeting was required to be held in accordance with the provisions of the Companies Act, 1956 (Act 1 of 1956), whichever is earlier and a fresh statement shall be delivered in each succeeding financial year before accepting deposits in that financial year.
+27.
+Every residuary non-banking company which has not been carrying on business before the commencement of the directions shall, before receiving any deposit furnish to the Bank all particulars relating to its business, as specified in the
+Schedule C
+hereto.
+28. Transitory Provision
+Without prejudice to any directions issued or to be issued in that regard,
+(1) Nothing contained in Chapter IV and paragraphs 11to 18 of the directions shall apply to the deposits received or to be received under or in respect of any certificates, units or other instruments issued or sold before the commencement of the directions.
+(2) Where, before the commencement of the directions, a residuary non-banking company has, for providing full security to its depositors, entered into any arrangement with any public sector bank pursuant to any directions issued or conditions stipulated by the Bank or otherwise, nothing in paragraph 19 of the directions shall apply and the arrangement so entered into shall continue on the same terms and conditions with respect to deposits received or to be received under or in respect of certificates, units or other instruments, issued or sold before the commencement of the directions.
+29. Exemptions
+The Bank may, if it considers it necessary for avoiding any hardship or any other just and sufficient reason, grant extensions of time to comply with or exempt any company or class of companies, from all or any of the provisions of the directions either generally or for any specified period subject to such conditions as the Bank may impose.
+30. Applicability of Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 2016
+Nothing contained in the Directions on Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 2016, shall apply to a Residuary Non-Banking Company.
+31. Applicability of Know Your Customer (KYC) Direction, 2016
+All residuary non-banking companies having customer interface shall comply with the directions contained in Know Your Customer (KYC) Direction, 2016, issued by the Department of Banking Regulation and as amended from time to time.
+Chapter – VI
+Miscellaneous Instructions
+32. Asset Liability Management
+(1) ALM guidelines as given in
+Annex I
+shall be applicable to all RNBCs irrespective of whether they are accepting / holding public deposits or not.
+(2) A pre-requisite for putting in place the ALM System is a strong Management Information System (MIS). For a quick analysis and consolidation of the data, it may be necessary to computerise the MIS and make use of specialised software for managing the assets and liabilities with respect to the maturity mismatches and the various risks associated with such mismatches. The RNBC shall install such systems at the earliest, if not already done.
+33. Entry into insurance business
+(1) For entry into insurance business RNBCs shall make an application along with necessary particulars duly certified by their statutory auditors to the Regional Office of Department of Non-Banking Supervision under whose jurisdiction the registered office of the RNBC is situated.
+(2) RNBCs may take up insurance agency business on fee basis and without risk participation, without the approval of the Bank subject to the certain eligibility conditions.
+(3) The Detailed Guidelines are as provided for in
+Annex II
+.
+34. Operative instructions relating to relaxation / modification in Ready Forward Contracts, Settlement of Government Securities Transactions and Sale of securities allotted in Primary Issues
+All RNBCs shall follow the guidelines on transactions in Government Securities as given in the
+circular IDMD.PDRS.05/10.02.01/2003-04 dated March 29, 2004
+and
+IDMD.PDRS.4777
+,
+4779
+&
+4783/10.02.01/2004-05 all dated May 11, 2005
+as amended from time to time. In cases of doubt they shall make a reference to IDMD.
+35. Nomination rules under section 45QB of RBI Act
+In terms of section 45QB of the RBI Act, the depositor/s of non-banking financial company may nominate, in the manner prescribed under the rules made by the Central Government under section 45ZA of the Banking Regulation Act, 1949 (BR Act) one person to whom, in the event of death of the depositor/s, the amount of deposit shall be returned by the residuary non-banking company. It has been decided in consultation with the Government of India, that the Banking Companies (Nomination) Rules, 1985 are the relevant rules made under section 45ZA of the BR Act, 1949. Accordingly, residuary non-banking company shall accept nominations made by the depositors in the form similar to that specified under the said rules.
+36. Collection of Interest on SLR Securities
+It may be possible that there may be a few Government securities / Government guaranteed bonds that have not been dematerialized and are held in physical form which for the purpose of collection of interest are withdrawn from the safe custody with their designated bankers and re-deposited with the banks after collection of interest. To avoid the process of withdrawal and re-depositing the RNBCs shall authorize the designated banks as agents for collection of interest on due dates on these securities held in physical form and lodged for safe custody. Residuary Non-Banking Company may approach their designated banker and exercise a Power of Attorney in favour of the designated bank to enable it to collect interest on the securities / guaranteed bonds held in physical form on the due date.
+37. Distribution of Mutual Fund (MF) products
+RNBCs registered with the Bank may distribute mutual fund products subject to compliance with the SEBI guidelines / regulations, including its code of conduct, for distribution of mutual fund products. The detailed guidelines are as provided in
+Annex III
+.
+38. Attempt to defraud using fake bank guarantee-modus operandi
+Instances of fraud have been brought to the notice of the Bank wherein bank guarantees (BGs) purportedly issued by a couple of bank branches in favour of different entities were presented for confirmation by other commercial banks / individuals representing some beneficiary firms. The BGs were submitted along with Confirmation Advice / Advice of Acceptance. One of the beneficiaries was the reporting bank’s customer. The remaining beneficiaries and applicants were neither the customers of the bank nor were they known to the bank branch officials.
+A scrutiny of the said BGs revealed that these bank guarantees were fake and the signatures of the bank officials appearing on the BGs were forged. The bank branches purported to have issued the BGs also confirmed that they had not issued the same. Even the format of the BGs and their serial numbers did not match with that of the bank.
+RNBCs are advised to take notice of the above facts in order to exercise due caution while handling such cases.
+39. Issue of Credit Card
+RNBCs registered with the Bank shall not issue debit cards, smart cards, stored value cards, charge cards, etc.. as such cards have a characteristic akin to demand deposits as they are payable at the convenience of the card holders and acceptance of deposits payable on demand is a banking function. The issue of such cards is, therefore, violative of the extant Directions.
+40. Unsolicited Commercial Communications - National Do Not Call Registry
+(1) Telecom Regulatory Authority of India (TRAI) has framed the Telecom Unsolicited Commercial Communications (UCC) Regulations for curbing UCC. Further, the Department of Telecommunications (DoT) has issued relevant guidelines for telemarketers along with the registration procedure on June 6, 2007. These guidelines have made it mandatory for telemarketers to register themselves with DoT or any other agency authorized by DoT and also specified that the telemarketers shall comply with the Guidelines and Orders / Directions issued by DoT and Orders / Directions / Regulations issued by Telecom Regulatory Authority of India (TRAI) on Unsolicited Commercial Communications(UCC). The detailed procedure in this regard is also available on TRAI's website (
+www.trai.gov.in
+).
+(2) RNBCs shall
+(i) not engage Telemarketers (DSAs / DMAs) who do not have any valid registration certificate from DoT, Govt of India, as telemarketers; RNBCs shall engage only those telemarketers who are registered in terms of the guidelines issued by TRAI, from time to time, for all their promotional/ telemarketing activities.
+(ii) furnish the list of Telemarketers (DSAs/DMAs) engaged by them along with the registered telephone numbers being used by them for making telemarketing calls to TRAI; and
+(iii) ensure that all agents presently engaged by them register themselves with DoT as telemarketers.
+41. Implementation of Green Initiative of the Government
+RNBCs shall take proactive steps for increasing the use of electronic payment systems, elimination of post-dated cheques and gradual phase-out of cheques in their day to day business transactions which would result in more cost-effective transactions and faster and accurate settlements.
+42. Issue of Co-branded Credit Cards
+RNBCs registered with the Bank are allowed selectively to issue co-branded credit cards with scheduled commercial banks, without risk sharing, with prior approval of the Bank, for an initial period of two years and a review thereafter. RNBCs fulfilling the minimum eligibility requirements and adhering to certain stipulations are eligible to apply. The eligibility requirements are as stipulated in
+Annex IV
+.
+Chapter - VII
+Reporting Requirements
+43.
+The reporting requirements in respect of residuary non-banking companies as prescribed by Department of Non-Banking Supervision shall be adhered to by the residuary non-banking companies.
+Chapter - VIII
+Interpretations
+44.
+For the purpose of giving effect to the provisions of these Directions, the Bank may, if it considers necessary, issue necessary clarifications in respect of any matter covered herein and the interpretation of any provision of the Directions given by the Bank shall be final and binding on all the parties concerned. Violation of the directions shall invite penal action under the provisions of Act. Further, these provisions shall be in addition to, and not in derogation of the provisions of any other laws, rules, regulations or directions, for the time being in force.
+45.
+It is hereby clarified that the supersession of Residuary Non-Banking Companies (Reserve Bank) Directions, 1987 as amended from time to time, shall not in any way affect
+(i) any right, obligation or liability acquired, accrued or incurred thereunder;
+(ii) any penalty, forfeiture, or punishment incurred in respect of any contravention committed thereunder;
+(iii) any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid, and any such investigation, legal proceeding or remedy may be instituted, continued, or enforced and any such penalty, forfeiture or punishment may be imposed as if those directions had not been superseded.
+Chapter - IX
+Repeal Provisions
+46.
+With the issue of these directions, the instructions / guidelines contained in the following circulars issued by the Bank stand repealed (list as provided below).All approvals / acknowledgements given under the above circulars shall be deemed as given under these directions. Notwithstanding such repeal, any action taken/purported to have been taken or initiated under the instructions/guidelines having repealed shall continue to be guided by the provisions of said instructions/guidelines.
+Sr. No.
+Circular No.
+Dated
+Subject
+1
+Notification No. DFC (COC)-68/ED(S)-93
+April 10, 1993
+Amendments to NBFC Regulations
+2
+Notification No. DFC (COC)-69/ED(S)-93
+April 19, 1993
+Amendments to NBFC Regulations
+3
+Notification No. 75
+April 19, 1993
+Amendments to NBFC Regulations
+4
+Notification No. DFC (COC)-82/ED(JRP)-96
+March 22, 1996
+Amendments to NBFC Regulations
+5
+Notification No. 85
+July 7, 1996
+Amendments to NBFC Regulations
+6
+Notification No. 88
+July 24, 1996
+Amendments to NBFC Regulations
+7
+Notification No. 95
+January 1, 1997
+Amendments to NBFC Regulations
+8
+Notification No.102
+March 31, 1997
+Amendments to NBFC Regulations
+9
+Notification No.105
+March 31, 1997
+Amendments to NBFC Regulations
+10
+Notification No. 113
+November 11, 1997
+Amendments to NBFC Regulations
+11
+Notification No. DNBS.136/CGM(VSNM)-2000
+January 13, 2000
+Residuary Non-Banking Companies (Reserve Bank) Directions, 1987
+12
+Notification DNBS.143/CGM(VSNM)-2000
+June 30, 2000
+Residuary Non-Banking Companies (Reserve Bank) Directions, 1987
+13
+DNBS(PD).CC.No.15/02.01/2000-2001
+June 27, 2001
+Asset Liability Management (ALM) System for NBFCs - Guidelines
+14
+DNBS.(PD).CC.No.16/02.01/2000-01
+June 27, 2001
+Amendments to NBFC Regulations
+15
+DNBS(PD).CC.No.18/02.01/2001-02
+January 1, 2002
+RBI Regulations for NBFCs
+16
+DNBS.PD.CC.No.21/02.01/2002-03
+October 1, 2002
+Non-Banking Financial Companies - Amendments to Regulations
+(i) Transactions in Government Securities
+17
+DNBS.(PD)C.C.No.25/02.02/2002-03
+March 29, 2003
+Amendment to the RBI Regulations for NBFCs and RNBCs
+18
+DNBS.(PD)C.C.No.26/02.02/2002-03
+March 31, 2003
+Residuary Non-Banking Companies (RNBCs) -
+Minimum Rate of Return on Deposits -
+Amendments to RNBC Directions
+19
+DNBS(PD)C.C.No.27/02.05/2003-04
+July 28, 2003
+Nomination Rules under Section 45QB of RBI Act for NBFC Deposits
+20
+Notification DNBS.171/CGM(OPA)-2003
+July 31, 2003
+Residuary Non-Banking Companies (Reserve Bank) Directions, 1987
+21
+DNBS.171/CGM(OPA)-2003
+July 31, 2003
+Amendment to RBI Regulations for NBFCs Safe Custody
+of Liquid Asset Securities in an Exclusive Demat Account
+22
+DNBS(PD)C.C.No.31/02.01/2003-04
+September 19, 2003
+Residuary Non-Banking Companies (RNBCs) - Interest Rate on NRE Deposits
+23
+DNBS(PD)C.C.No.32/02.01/2003-04
+October 28, 2003
+Non-Banking Financial Companies (NBFCs) Miscellaneous Non-Banking
+Companies (MNBCs) and Residuary Non-Banking Companies (RNBCs) -
+Interest Rate on NRE Deposits
+24
+DNBS.(PD)C.C.No.33/02.01/2003-04
+October 30, 2003
+Non-Banking Financial Companies, Miscellaneous Non-Banking Companies and Residuary Non-Banking Companies - Interest Rate on NRI Deposits
+25
+DNBS.(PD)C.C.No.35/10.24/2003-04
+February 10, 2004
+Entry of NBFCs into Insurance Business
+26
+DNBS (PD) CC.No.36/02.01/2003-04
+April 20, 2004
+Non-Banking Financial Companies, Miscellaneous Non-Banking Companies and Residuary Non-Banking Companies - Interest Rate on NRI Deposits
+27
+DNBS(PD)CC No.37/02.02/2003-04
+May 17, 2004
+Collection of Interest on SLR Securities
+28
+DNBS (PD) CC No.38/02.02/2003-04
+June 11, 2004
+Transactions in Government Securities
+29
+DNBS (PD) CC.No.40/02.01/2003-04
+June 22, 2004
+Maintenance of Directed Investments by RNBCs
+30
+DNBS (PD) C.C.No.41/10.27/2004-05
+July 07, 2004
+Issue of Credit Card
+31
+DNBS (PD) C.C.No.44/02.01/2004-05
+October 5, 2004
+Premature Repayment of Public Deposits or Deposits
+32
+DNBS.(PD).CC.No.49/02.02/2004-05
+June 09, 2005
+Operative Instructions relating to Relaxation / Modification in Ready Forward Contracts, Settlement of Government Securities Transactions and Sale of Securities Allotted in Primary Issues
+33
+DNBS.(PD)C.C.No.60/02.01/2005-06
+December 9, 2005
+Premature Repayment of Public Deposits or Deposits
+34
+DNBS (PD) CC.No.65/04.18.001/2005-06
+March 31, 2006
+Maintenance of Directed Investments by RNBCs
+35
+DNBS.(PD)CC.No.66/04.18.001/2005-06
+April 04, 2006
+Maintenance of Directed Investments by RNBCs - Clarification
+36
+DNBS(PD)CC No.83/03.10.27/2006-07
+December 04, 2006
+Issue of Co-Branded Credit Cards
+37
+DNBS(PD) CC No.84/03.10.27/2006-07
+December 04, 2006
+Distribution of Mutual Fund Products by NBFCs
+38
+DNBS (PD) CC.No.110/04.18.001/2007-08
+December 14, 2007
+Residuary Non-Banking Companies (Reserve Bank) Directions, 1987 -
+Payment of Interest for Delayed Repayment of Deposits
+39
+Complaints About Excessive Interest Charged by NBFCs
+May 24, 2007
+Complaints About Excessive Interest Charged by NBFCs
+40
+DNBS (PD) C.C. No.124/03.05.002/2008-09
+July 31, 2008
+Accounting for Taxes on Income - Accounting Standard 22 - Treatment of Deferred Tax Assets (DTA) and Deferred Tax Liabilities (DTL) for Computation of Capital
+41
+DNBS(PD).CC.No.245/03.10.42/2011-12
+September 27, 2011
+Attempt to defraud using fake Bank Guarantee-modus Operandi
+42
+DNBS(PD).CC.No.248/03.10.01/2011-12
+October 28, 2011
+Implementation of Green Initiative of the Government
+43
+DNBS(PD)CC No.353/03.10.042/2013-14
+July 26, 2013
+Unsolicited Commercial Communication -
+National Do Not Call Registry
+(C.D.Srinivasan)
+Chief General Manager
+Schedule B
+(Please see paragraph 19(2) of these Directions)
+Area under the jurisdiction of each Regional Office of the
+RESERVE BANK OF INDIA
+Name and address of the Office
+Area under jurisdiction
+1.
+Ahmedabad Regional Office,
+1st Floor, Main Building,
+Near Gandhi Bridge,
+Ahmedabad-380 014.
+State of Gujarat and Union
+Territories of Daman and Diu
+and Dadra and Nagar Haveli
+2.
+Bangalore Regional Office,
+10-3-8, Nrupathunga Road,
+Bangalore-560 002.
+State of Karnataka.
+3.
+Bhopal Regional Office,
+Hoshangabad Road,
+Post Box No.32,
+Bhopal-462 011.
+States of Madhya Pradesh and
+Chhattisgarh
+4.
+Bhubaneswar Regional Office
+Pandit Jawaharlal Nehru Marg,
+Post Bag No.16,
+Bhubaneswar-751 001.
+State of Orissa.
+5.
+Kolkata Regional Office,
+15, Netaji Subhas Road,
+Kolkata 700 001.
+States of Sikkim, and West
+Bengal and the UnionTerritory
+of Andaman and Nicobar Islands
+6.
+Chandigarh Regional Office,
+11, Central Vista,
+New Office Building
+Opp. Telephone Bhavan,
+Sector 17,
+Chandigarh-160 017.
+States of Himachal Pradesh,
+Punjab and the Union
+Territory of Chandigarh.
+7.
+Chennai Regional Office,
+Fort Glacis, RajajiSalai,
+Chennai-600 001.
+State of Tamil Nadu and Union
+Territory of Pondicherry
+8.
+Guwahati Regional Office,
+Station Road, Pan Bazar,
+Post Box No.120,
+Guwahati-781 001.
+States of Arunachal Pradesh,
+Assam, Manipur, Meghalaya,
+Mizoram, Nagaland and Tripura.
+9.
+Hyderabad Regional Office,
+6-1-56, Secretariat Road,
+Saifabad,
+Hyderabad-500 004.
+State of Andhra Pradesh and
+Telangana
+10.
+Jaipur Regional Office,
+Ram Bagh Circle,
+Tonk Road, P.B.No.12,
+Jaipur-302 004.
+State of Rajasthan.
+11.
+Jammu Regional Office,
+Rail Head Complex,
+Post Bag No.1,
+Jammu-180 012.
+State of Jammu and Kashmir.
+12.
+Kanpur Regional Office
+Mahatma Gandhi Marg,
+Kanpur - 208 001
+States of Uttar Pradesh and
+Uttaranchal
+13.
+Mumbai Regional Office,
+Reserve Bank of India Building,
+3rd Floor,
+Opp. Mumbai Central Station
+Byculla, Mumbai-400 008
+States of Goa and Maharashtra
+14.
+New Delhi Regional office,
+6, SansadMarg,
+New Delhi-110 001.
+State of Haryana and
+National Capital Territory of Delhi
+15.
+Patna Regional Office,
+South of Gandhi Maidan,
+Post Bag No.162,
+Patna-800 001.
+States of Bihar and Jharkhand
+16.
+Thiruvananthapuram
+Regional Office,
+Bakery Junction,
+Thiruvananthapuram-695 033.
+State of Kerala and Union
+Territory of Lakshadweep.
+Annex I
+Guidelines for Asset – Liability Management (ALM) system in NBFCs
+In the normal course, NBFCs are exposed to credit and market risks in view of the asset-liability transformation. With liberalisation in Indian financial markets over the last few years and growing integration of domestic markets with external markets and entry of MNCs for meeting the credit needs of not only the corporates but also the retail segments, the risks associated with NBFCs' operations have become complex and large, requiring strategic management. NBFCs are now operating in a fairly deregulated environment and are required to determine on their own, interest rates on deposits, subject to the ceiling of maximum rate of interest on deposits they can offer on deposits prescribed by the Bank; and advances on a dynamic basis. The interest rates on investments of NBFCs in government and other securities are also now market related. Intense competition for business involving both the assets and liabilities has brought pressure on the management of NBFCs to maintain a good balance among spreads, profitability and long-term viability. Imprudent liquidity management can put NBFCs' earnings and reputation at great risk. These pressures call for structured and comprehensive measures and not just
+ad hoc
+action. The managements of NBFCs have to base their business decisions on a dynamic and integrated risk management system and process, driven by corporate strategy. NBFCs are exposed to several major risks in the course of their business - credit risk, interest rate risk, , equity / commodity price risk , liquidity risk and operational risk. It is, therefore, important that NBFCs introduce effective risk management systems that address the issues relating to interest rate and liquidity risks.
+2. NBFCS need to address these risks in a structured manner by upgrading their risk management and adopting more comprehensive Asset-Liability Management (ALM) practices than has been done hitherto. ALM, among other functions, is also concerned with risk management and provides a comprehensive and dynamic framework for measuring, monitoring and managing liquidity and interest rate equity and commodity price risks of major operators in the financial system that needs to be closely integrated with the NBFCs' business strategy. It involves assessment of various types of risks and altering the asset-liability portfolio in a dynamic way in order to manage risks.
+3. This note lays down broad guidelines in respect of interest rate and liquidity risks management systems in NBFCs, which form part of the Asset-Liability Management (ALM) function. The initial focus of the ALM function must be to enforce the risk management discipline i.e. managing business after assessing the risks involved. The objective of good risk management systems should be that these systems will evolve into a strategic tool for NBFCs management.
+4. The ALM process rests on three pillars:
+• ALM Information Systems
+Management Information Systems
+Information availability, accuracy, adequacy and expediency
+• ALM Organisation
+Structure and responsibilities
+Level of top management involvement
+• ALM Process
+Risk parameters
+Risk identification
+Risk measurement
+Risk management
+Risk policies and tolerance levels.
+5. ALM Information Systems
+5.1 ALM has to be supported by a management philosophy which clearly specifies the risk policies and tolerance limits. This framework needs to be built on sound methodology with necessary information system as back up. Thus, information is the key to the ALM process. It is, however, recognised that varied business profiles of NBFCs in the public and private sector do not make the adoption of a
+uniform ALM System
+for all NBFCs feasible. There are various methods prevalent world-wide for measuring risks. These range from the simple Gap Statement to extremely sophisticated and data intensive Risk Adjusted Profitability Measurement methods. However, though the central element for the entire ALM exercise is the availability of adequate and accurate information with expedience; and the systems existing, if any, in some of the major NBFCs do not generate information in the manner required for ALM. Collecting accurate data in a timely manner will be the biggest challenge before the NBFCs , particularly those lacking full scale computerisation. However, the introduction of base information system for risk measurement and monitoring has to be addressed urgently.
+5.2 NBFCs have heterogeneous organisational structures, capital base, asset sizes, management profile, business activities and geographical spread. Some of them have large number of branches and agents/brokers whereas some have unitary offices. Considering the large network of branches and the lack of (an adequate) support system to collect information required for ALM which analyses information on the basis of residual maturity and re pricing pattern of liabilities and assets, it will take time for NBFCs in the present state to get the requisite information. In respect of investment portfolio and funds management, in view of the centralised nature of the functions, it would be much easier to collect reliable information. The data and assumptions can then be refined over time as the NBFC management gain experience of conducting business within an ALM framework. The spread of computerisation will also help NBFCs in accessing data.
+6. ALM Organisation
+6.1 a) Successful implementation of the risk management process would require strong commitment on the part of the senior management in the NBFC, to integrate basic operations and strategic decision making with risk management. The Board shall have overall responsibility for management of risks and shall decide the risk management policy of the NBFC and set limits for liquidity, interest rate and equity price risks.
+b) The
+Asset - Liability Committee (ALCO)
+consisting of the NBFC's senior management including Chief Executive Officer (CEO) shall be responsible for ensuring adherence to the limits set by the Board as well as for deciding the business strategy of the NBFC (on the assets and liabilities sides) in line with the NBFC's budget and decided risk management objectives.
+c) The ALM Support Groups consisting of operating staff shall be responsible for analysing, monitoring and reporting the risk profiles to the ALCO. The staff shall also prepare forecasts (simulations) showing the effects of various possible changes in market conditions related to the balance sheet and recommend the action needed to adhere to NBFC's internal limits.
+6.2 The ALCO is a decision making unit responsible for balance sheet planning from risk-return perspective including the strategic management of interest rate and liquidity risks. Each NBFC will have to decide on the role of its ALCO, its responsibility as also the decisions to be taken by it. The business and risk management strategy of the NBFC must ensure that the NBFC operates within the limits / parameters set by the Board. The business issues that an ALCO would consider, inter alia, will include product pricing for both deposits and advances, desired maturity profile and mix of the incremental assets and liabilities, prevailing interest rates offered by other peer NBFCs for the similar services/product, etc. In addition to monitoring the risk levels of the NBFC, the ALCO shall review the results of and progress in implementation of the decisions made in the previous meetings. The ALCO would also articulate the current interest rate view of the NBFC and base its decisions for future business strategy on this view. In respect of the funding policy, for instance, its responsibility would be to decide on source and mix of liabilities or sale of assets. Towards this end, it will have to develop a view on future direction of interest rate movements and decide on funding mixes between fixed
+v/s
+floating rate funds, wholesale
+v/s
+retail deposits, money market
+v/s
+capital market funding, domestic
+v/s
+foreign currency funding, etc. Individual NBFCs will have to decide the frequency of holding their ALCO meetings.
+6.3 Composition of ALCO
+The size (number of members) of ALCO would depend on the size of each institution, business mix and organisational complexity. To ensure commitment of the Top Management and timely response to market dynamics, the CEO/CMD/President or the Director shall head the Committee. The Chiefs of Investment, Credit, Resources Management or Planning, Funds Management / Treasury, International Business and Economic Research can be members of the Committee. In addition, the Head of the Technology Division shall be an invitee for building up of MIS and related computerisation. Large NBFCs may even have Sub-committees and Support Groups.
+6.4 Committee of Directors
+The Management Committee of the Board or any other Specific Committee constituted by the Board shall oversee the implementation of the system and review its functioning periodically.
+6.5 ALM Process:
+The scope of ALM function can be described as follows:
+Liquidity risk management
+Management of market risks
+Funding and capital planning
+Profit planning and growth projection
+Forecasting and analysing 'What if scenario' and preparation of contingency plans
+The guidelines given in this note mainly address Liquidity and Interest Rate risks.
+7. Liquidity Risk Management
+7.1 Measuring and managing liquidity needs are vital for effective operation of NBFCs . By ensuring an NBFC's ability to meet its liabilities as they become due, liquidity management can reduce the probability of an adverse situation developing. The importance of liquidity transcends individual institutions, as liquidity shortfall in one institution can have repercussions on the entire system. NBFCs management shall measure not only the liquidity positions of NBFCs on an ongoing basis but also examine how liquidity requirements are likely to evolve under different assumptions. Experience shows that assets commonly considered as liquid, like Government securities and other money market instruments, could also become illiquid when the market and players are unidirectional. Therefore, liquidity has to be tracked through maturity or cash flow mismatches. For measuring and managing net funding requirements, the use of a maturity ladder and calculation of cumulative surplus or deficit of funds at selected maturity dates is adopted as a standard tool.
+7.2 The Maturity Profile as given in
+Appendix I
+could be used for measuring the future cash flows of NBFCs in different time buckets. The time buckets, may be distributed as under:
+1 day to 30/31 days (One month)
+Over one month and upto 2 months
+Over two months and upto 3 months
+Over 3 months and upto 6 months
+Over 6 months and upto 1 year
+Over 1 year and upto 3 years
+Over 3 years and upto 5 years
+Over 5 years
+7.3 NBFCs holding public deposits are required to invest up to a prescribed percentage (15% as on date) of their public deposits in approved securities in terms of liquid asset requirement of Section 45-IB of the RBI Act, 1934. Residuary Non-Banking Companies (RNBCs) are required to invest up to 80% of their deposits in a manner as prescribed in the Directions issued under the Act ibid. There is no such requirement for NBFCs which are not holding public deposits. Thus various NBFCs including RNBCs would be holding in their investment portfolio securities which could be broadly classifiable as 'mandatory securities' (under obligation of law) and other 'non-mandatory securities'. In case of NBFCs not holding public deposits, all the investment securities and in case of NBFCs holding public deposits, the surplus securities (held over and above the requirement) would fall in the category of 'non-mandatory securities'. The NBFCs holding public deposits may be given freedom to place the mandatory securities in any time buckets as suitable for them. The listed non-mandatory securities may be placed in any of the "1 day to 30/31 days (One month)", Over one month and upto 2 months" and "Over two months and upto 3 months" buckets depending upon the defeasance period proposed by NBFCs. The unlisted non-mandatory securities (eg; equity shares, securities without a fixed term of maturity etc.) may be placed in the "Over 5 years" buckets, whereas unlisted non-mandatory securities having a fixed term of maturity may be placed in the relevant time bucket as per residual maturity. The mandatory securities and listed securities may be marked to market for the purpose of the ALM system. Unlisted securities may be valued as per Prudential Norms Directions.
+7.4 Alternatively, the NBFCs may also follow the concept of Trading Book which is as follows:
+The composition and volume are clearly defined;
+Maximum maturity/duration of the portfolio is restricted;
+The holding period not to exceed 90 days;
+Cut-loss limit prescribed;
+Defeasance periods (product-wise) i.e. time taken to liquidate the position on the basis of liquidity in the secondary market are prescribed;
+NBFCs which maintain such ‘Trading Books’ and complying with the above standards may show the trading securities under "1 day to 30/31 days (One month)", Over one month and upto 2 months" and "Over two months and upto 3 months" buckets on the basis of the defeasance periods. The Board/ALCO of the NBFCs shall approve the volume, composition, holding/defeasance period, cut loss, etc. of the ‘Trading Book'. The remaining investments shall also be classified as short term and long term investments as required under Prudential Norms.
+7.5 The policy note recorded by the NBFCs on treatment of the investment portfolio for the purpose of ALM and approved by their Board/ALCO shall be forwarded to the Regional Office of the Department of Non-Banking Supervision of RBI under whose jurisdiction the registered office of the company is located.
+7.6 Within each time bucket, there could be mismatches depending on cash inflows and outflows. While the mismatches upto one year would be relevant since these provide early warning signals of impending liquidity problems, the main focus should be on the short-term mismatches viz., 1-30/31 days. NBFCs, however, are expected to monitor their cumulative mismatches (running total) across all time buckets by establishing internal prudential limits with the approval of the Board / Management Committee. The mismatches (
+negative gap
+) during 1-30/31 days in normal course may not exceed 15% of the cash outflows in this time bucket. If an NBFC, in view of its current asset -liability profile and the consequential structural mismatches, needs higher tolerance level, it could operate with higher limit sanctioned by its Board / Management Committee giving specific reasons on the need for such higher limit. The discretion to allow a higher tolerance level is intended for a temporary period, i.e. till
+March 31, 2002
+.
+7.7 A Statement of Structural Liquidity
+may be prepared by placing all cash inflows and outflows in the maturity ladder according to the expected timing of cash flows. A maturing liability will be a cash outflow while a maturing asset will be a cash inflow. While determining the likely cash inflows / outflows, NBFCs have to make a number of assumptions according to their asset - liability profiles. While determining the tolerance levels, the NBFCs may take into account all relevant factors based on their asset-liability base, nature of business, future strategy, etc. The RBI is interested in ensuring that the tolerance levels are determined keeping all necessary factors in view and further refined with experience gained in Liquidity Management.
+7.8 In order to enable the NBFCs to monitor their short-term liquidity on a dynamic basis over a time horizon spanning from 1 day to 6 months, NBFCs may estimate their short-term liquidity profiles on the basis of business projections and other commitments for planning purposes.
+8. Currency Risk
+Floating exchange rate arrangement has brought in its wake pronounced volatility adding a new dimension to the risk profile of NBFCs' balance sheets having foreign assets or liabilities. The increased capital flows across free economies following deregulation have contributed to increase in the volume of transactions. Large cross border flows together with the volatility has rendered the NBFCs' balance sheets vulnerable to exchange rate movements.
+9. Interest Rate Risk (IRR)
+9.1 The operational flexibility given to NBFCs in pricing most of the assets and liabilities imply the need for the financial system to hedge the Interest Rate Risk. Interest rate risk is the risk where changes in market interest rates might adversely affect an NBFC's financial condition. The changes in interest rates affect NBFCs in a larger way. The immediate impact of changes in interest rates is on NBFC's earnings (i.e. reported profits) by changing its Net Interest Income (NII). A long-term impact of changing interest rates is on NBFC's Market Value of Equity (MVE) or Net Worth as the economic value of NBFC's assets, liabilities and off-balance sheet positions get affected due to variation in market interest rates. The interest rate risk when viewed from these two perspectives is known as ‘earnings perspective’ and ‘economic value perspective', respectively. The risk from the earnings perspective can be measured as changes in the Net Interest Income (NII) or Net Interest Margin (NIM). There are many analytical techniques for measurement and management of Interest Rate Risk. To begin with, the traditional Gap analysis is considered as a suitable method to measure the Interest Rate Risk in the first place. It is the intention of RBI to move over to the modern techniques of Interest Rate Risk measurement like Duration Gap Analysis, Simulation and Value at Risk over time when NBFCs acquire sufficient expertise and sophistication in acquiring and handling MIS.
+9.2 The Gap or Mismatch risk can be measured by calculating Gaps over different time intervals as at a given date. Gap analysis measures mismatches between rate sensitive liabilities and rate sensitive assets (including off-balance sheet positions). An asset or liability is normally classified as rate sensitive if:
+within the time interval under consideration, there is a cash flow;
+the interest rate resets/reprices contractually during the interval;
+dependent on RBI changes in the interest rates/Bank Rate;
+it is contractually pre-payable or withdrawal before the stated maturities.
+9.3 The Gap Report must be generated by grouping rate sensitive liabilities, assets and off-balance sheet positions into time buckets according to residual maturity or next re pricing period, whichever is earlier. The difficult task in Gap analysis is determining rate sensitivity. All investments, advances, deposits, borrowings, purchased funds, etc. that mature/re price within a specified timeframe are interest rate sensitive. Similarly, any principal repayment of loan is also rate sensitive if the NBFC expects to receive it within the time horizon. This includes final principal payment and interim instalments. Certain assets and liabilities to receive/pay rates that vary with a reference rate. These assets and liabilities are re priced at pre-determined intervals and are rate sensitive at the time of re pricing. While the interest rates on term deposits are fixed during their currency, the tranches of advances portfolio is basically floating. The interest rates on advances received could be re priced any number of occasions, corresponding to the changes in PLR.
+The Gaps may be identified in the following time buckets:
+1-30/31 days (One month)
+Over one month to 2 months
+Over two months to 3 months
+Over 3 months to 6 months
+Over 6 months to 1 year
+Over 1 year to 3 years
+Over 3 years to 5 years
+Over 5 years
+Non-sensitive
+The various items of rate sensitive assets and liabilities and off-balance sheet items may be classified as explained in
+Appendix - II
+.
+9.4 The Gap is the difference between Rate Sensitive Assets (RSA) and Rate Sensitive Liabilities (RSL) for each time bucket. The positive Gap indicates that it has more RSAs than RSLs whereas the negative Gap indicates that it has more RSLs than RLAs. The Gap reports indicate whether the institution is in a position to benefit from rising interest rates by having a positive Gap (RSA > RSL) or whether it is in a position to benefit from declining interest rates by a negative Gap (RSL > RSA). The Gap can, therefore, be used as a measure of interest rate sensitivity.
+9.5 Each NBFC should set prudential limits on individual Gaps with the approval of the Board/Management Committee. The prudential limits should have a relationship with the Total Assets, Earning Assets or Equity. The NBFCs may work out Earnings at Risk (EaR) or Net Interest Margin (NIM) based on their views on interest rate movements and fix a prudent level with the approval of the Board/Management Committee. For working out EaR or NIM any of the current models may be used.
+9.6 RBI intends to introduce capital adequacy for market risks in due course.
+10. General
+10.1 The classification of various components of assets and liabilities into different time buckets for preparation of Gap reports (Liquidity and Interest Rate Sensitivity) as indicated in Appendices I & II is the benchmark. NBFCs which are better equipped to reasonably estimate the behavioural pattern of various components of assets and liabilities on the basis of past data / empirical studies could classify them in the appropriate time buckets, subject to approval from the ALCO / Board. A copy of the note approved by the ALCO / Board shall be sent to the Regional Office of the Department of Non-Banking Supervision of RBI under whose jurisdiction the registered office of the company is located. These notes may contain 'what if scenario' analysis under various assumed conditions and the contingency plans to face various adverse developments.
+10.2 The present framework does not capture the impact of premature closure of deposits and prepayment of loans and advances on the liquidity and interest rate risks profile of NBFCs. The magnitude of premature withdrawal of deposits at times of volatility in market interest rates is quite substantial. NBFCs should, therefore, evolve suitable mechanism, supported by empirical studies and behavioural analysis to estimate the future behaviour of assets, liabilities and off-balance sheet items to changes in market variables and estimate the probabilities of options.
+10.3 A scientifically evolved internal transfer pricing model by assigning values on the basis of current market rates to funds provided and funds used is an important component for effective implementation of ALM System. The transfer price mechanism can enhance the management of margin i.e. lending or credit spread, the funding or liability spread and mismatch spread. It also helps centralising interest rate risk at one place which facilitates effective control and management of interest rate risk. A well-defined transfer pricing system also provides a rational framework for pricing of assets and liabilities.
+Annex II
+Guidelines for Entry of NBFCs into Insurance
+1. NBFCs registered with the Bank are permitted to undertake insurance agency business on fee basis and without risk participation, without the approval of the Bank subject to the following conditions:
+(i) The NBFCs shall obtain requisite permission from IRDA and comply with the IRDA regulations for acting as 'composite corporate agent' with insurance companies.
+(ii) The NBFCs shall not adopt any restrictive practice of forcing its customers to go in only for a particular insurance company in respect of assets financed by the NBFC. The customers shall be allowed to exercise their own choice.
+(iii) As the participation by a NBFC's customer in insurance products is purely on a voluntary basis, it shall be stated in all publicity material distributed by the NBFC in a prominent way. There shall be no 'linkage' either direct or indirect between the provision of financial services offered by the NBFC to its customers and use of the insurance products.
+(iv) The premium shall be paid by the insured directly to the insurance company without routing through the NBFC.
+(v) The risks, if any, involved in insurance agency shall not get transferred to the business of the NBFC.
+2. No NBFC would be allowed to conduct such business departmentally. A subsidiary or company in the same group of an NBFC or of another NBFC engaged in the business of a non-banking financial institution or banking business will not normally be allowed to join the insurance company on risk participation basis.
+3. All NBFCs registered with RBI which satisfy the eligibility criteria given below will be permitted to set up a joint venture company for undertaking insurance business with risk participation subject to safeguards. The maximum equity contribution such an NBFC can hold in the joint venture company will normally be 50 per cent of the paid-up capital of the insurance company. On a selective basis, the Bank may permit a higher equity contribution by a promoter NBFC initially, pending divestment of equity within the prescribed period [see Note (1) below].
+In case more than one company (irrespective of doing financial activity or not) in the same group of the NBFC wishes to take a stake in the insurance company, the contribution by all companies in the same group shall be counted for the limit of 50 percent prescribed for the NBFC in an insurance JV.
+In cases where IRDA issues calls for capital infusion into the Insurance JV company, the Bank may, on a case to case basis, consider need based relaxation of the 50% group limit as specified. The relaxation, if permitted, will be subject to compliance by the NBFC with all regulatory conditions as prescribed for in these Directions and such other conditions as may be necessary in the specific case. Application for such relaxation along with supporting documents is to be submitted by the NBFC to the Regional Office of the Bank under whose jurisdiction its registered office is situated.
+The eligibility criteria for joint venture participant will be as stated below:
+(i) The owned fund of the NBFC shall not be less than ₹500 crore,
+(ii) The level of net non-performing assets shall be not more than 5% of the total outstanding leased/hire purchase assets and advances taken together,
+(iii) The NBFC shall have net profit for the last three continuous years,
+(iv) The track record of the performance of the subsidiaries, if any, of the concerned NBFC shall be satisfactory,
+(v) Regulatory compliance and servicing public deposits, if held.
+The provisions of RBI Act shall be applicable for such investments while computing the net owned funds of the NBFC.
+4. In case where a foreign partner contributes 26 per cent of the equity with the approval of insurance Regulatory and Development Authority/Foreign Investment Promotion Board, more than one NBFC may be allowed to participate in the equity of the insurance joint venture. As such participants will also assume insurance risk, only those NBFCs which satisfy the criteria given in paragraph 2 above, would be eligible.
+5. NBFCs registered with RBI which are not eligible as joint venture participant, as above can make investments up to 10 per cent of the owned fund of the NBFC or ₹50 crore, whichever is lower, in the insurance company . Such participation shall be treated as an investment and shall be without any contingent liability for the NBFC.
+The eligibility criteria for these NBFCs will be as under:
+The level of net NPA shall be not more than 5 per cent of total outstanding leased/hire purchase assets and advances;
+The NBFC shall have net profit for the last three continuous years.
+Notes :
+(1) Holding of equity by a promoter NBFC in an insurance company or participation in any form in insurance business will be subject to compliance with any rules and regulations laid down by the IRDA/Central Government. This will include compliance with section 6AA of the Insurance Act as amended by the IRDA Act, 1999, for divestment of equity in excess of 26 per cent of the paid up capital within a prescribed period of time.
+(2) The eligibility criteria shall be reckoned with reference to the latest available audited balance sheet for the previous year.
+Annex III
+Guidelines on Distribution of Mutual Fund Products by NBFCs
+1. NBFCs, which desire to distribute mutual funds, shall adhere to the following stipulations:
+(i) Operational Aspects
+(a) The NBFC is required to comply with the SEBI guidelines / regulations, including its code of conduct, for distribution of mutual fund products;
+(b) the NBFC shall not adopt any restrictive practice of forcing its customers to go in for a particular mutual fund product sponsored by it. Its customers must be allowed to exercise their own choice;
+(c) the participation by the NBFCs customers in mutual fund products is purely on a voluntary basis and this information shall be stated in all publicity material distributed by it in a prominent way. There should be no 'linkage' either direct or indirect between the provisions of financial services offered by the NBFC to its customers and distribution of the mutual fund products;
+(d) the NBFC shall act only as an agent of its customers, forwarding their applications for purchase / sale of MF units together with the payment instruments, to the Mutual Fund / the Registrars / the transfer agents. The purchase of units must be at the customers' risk and without the NBFC guaranteeing any assured return;
+(e) the NBFC shall neither acquire units of mutual funds from the secondary market for sale to its customers, nor shall it buy back units of mutual funds from its customers;
+(f) in case the NBFC is holding custody of MF units on behalf of its customers, it shall ensure that its own investments and the investments belonging to its customers are kept distinct from each other.
+(ii) Other Aspects
+(a) The NBFC shall have put in place a comprehensive Board approved policy regarding undertaking mutual funds distribution. The services relating to the same must be offered to its customers in accordance with this policy. The policy will also encompass issues of customer appropriateness and suitability as well as grievance redressal mechanism. The code of conduct prescribed by SEBI, as amended from time to time and as applicable, must be complied with by NBFCs undertaking these activities;
+(b) the NBFC shall adhere to Know Your Customer (KYC) Guidelines and provisions of Prevention of Money Laundering Act.
+2. NBFCs shall comply with other terms and conditions as the Bank may specify in this regard from time to time.
+Annex IV
+Guidelines on issue of Co-Branded Credit Cards
+In order to strengthen the NBFC sector by allowing diversification of their area of business, it has been decided to allow NBFCs, selectively, registered with the Reserve Bank of India to issue co-branded credit cards with scheduled commercial banks, without risk sharing, with prior approval of the Reserve Bank, for an initial period of two years and a review thereafter. NBFCs fulfilling the following minimum requirements are eligible to apply for issuance of co-branded credit card:
+(i) Minimum net owned fund of ₹100 crore;
+(ii) The company must have made net profit as per last two years audited balance sheet;
+(iii) The percentage of net NPAs to net advances of the NBFC as per the last audited balance sheet must not be more than 3%;
+(iv) The systemically important non-deposit taking NBFCs (NBFCs-ND-SIs) and deposit taking NBFCs (NBFC-D) must have minimum CRAR of 15%.
+2. In addition, the NBFCs are required to adhere to the following stipulations:
+(i) Operational Aspects
+(a) The role of the NBFC under the tie-up arrangement shall be limited only to marketing and distribution of the co-branded credit cards. The co-branded credit card issuing bank shall be subject to all the instructions / guidelines issued by its concerned regulatory authority.
+(b) The co-branded credit card issuing bank shall be solely responsible for fulfillment of KYC requirements in respect of all co-branded cards issued under the tie-up arrangement.
+(c) The risks, if any, involved in co-branded credit cards business shall not get transferred to the business of the NBFC;
+(d) The co-branded credit card account shall be maintained by the customer with the bank and all the payments by the co-branded card holders must be in the name of the bank; account if any maintained by the user with the NBFC shall not be debited for settlement of dues arising out of co-branded credit card;
+(e) The NBFC entering into tie-up shall be guided by the need to ensure confidentiality of the customer's accounts. The co-branding NBFC shall not reveal any information relating to customers obtained at the time of opening the account and the co-branded credit card issuing bank should not be permitted to access any details of customers' accounts that may violate NBFCs' secrecy obligations.
+(f) The bank issuing the card shall put in place suitable mechanism for the redressal of customer grievances. Customer complaints arising out of deficiency in the credit card service shall be the responsibility of the bank.
+(g) Legal risk, if any, arising out of court cases, damages, etc shall be borne by the issuing bank.
+(ii) Other Aspects
+(a) The NBFC shall have put in place guidelines on fair practices code as required in terms of these Directions;
+(b) The NBFC shall adhere to Know Your Customer Guidelines and provisions of prevention of Money Laundering Act;
+(c) The NBFC shall be complying with other instructions and provisions of RBI Act, 1934 to the extent applicable to the NBFC concerned;
+(d) The NBFC shall comply with other terms and conditions as the Bank may specify in this behalf from time to time.
+3. Further, the permission is liable to be withdrawn with a notice period of 3 months in the event of any undesirable / unhealthy operations coming to the notice of the Bank.

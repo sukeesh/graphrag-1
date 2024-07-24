@@ -1,0 +1,62 @@
+(809 kb)
+Implementation of Indian Accounting Standards (Ind AS)
+RBI/2015-16/429
+DBR.BP.BC.No.106/21.07.001/2015-16
+June 23, 2016
+All Scheduled Commercial Banks
+(excluding Regional Rural Banks)
+Madam / Dear Sir,
+Implementation of Indian Accounting Standards (Ind AS)
+Please refer to
+circular DBR.BP.BC.No.76/21.07.001/2015-16 dated February 11, 2016
+on the captioned subject in terms of which banks have been directed to be in preparedness to submit Proforma Ind AS Financial Statements to the Reserve Bank from the half-year ended September 30, 2016, onwards.
+2. Banks shall submit Proforma Ind AS Financial Statements, for the half year ended September 30, 2016 latest by November 30, 2016 to the Principal Chief General Manager, Department of Banking Regulation, Central Office, Reserve Bank of India, Mumbai. Banks shall be guided by the Ind ASs notified by the Ministry of Corporate Affairs, Government of India under the Companies (Indian Accounting Standards) Rules, 2015 and Companies (Indian Accounting Standards) (Amendment) Rules, 2016, as amended from time to time, in this regard. [reference G.S.R.111(E) dated February 16, 2015 and G.S.R.365(E) dated March 30, 2016]. Banks shall also refer to the Report of the Working Group on “Implementation of Ind AS by Banks in India” placed on the RBI website on October 20, 2015.
+3. The Proforma Ind AS Financial Statements shall include the following:-
+(a) Balance Sheet including Statement of Changes in Equity (
+Annex I
+&
+II
+).
+(b) Profit and Loss Account (
+Annex III
+).
+(c) Notes (
+Annex IV
+).
+4. The formats as per the Annexes are solely for the preparation and submission of proforma Ind AS financial statements to the Reserve Bank. The formats for the Ind AS financial statements for the accounting periods beginning April 1, 2018 shall be notified separately. It is also clarified that banks shall continue to be guided by the extant instructions issued vide circular Ref. DBOD.No.BP.BC.78/C.686/91-92 dated February 6, 1992 (as amended from time to time) with respect to the preparation and presentation of financial statements for the financial years 2016-17 and 2017-18.
+5. Banks may refer to
+Annex V
+for the broad application guidance on the major line items/sub-line items in the financial statements. Banks may
+email
+to the Reserve Bank for specific clarifications/issues, in this regard.
+6. To begin with, banks which are not in a position to submit both standalone and consolidated proforma Ind AS financial statements for the half year ended September 30, 2016 are permitted to submit only standalone financial statements. However, banks shall submit both proforma Ind AS standalone and consolidated financial statements in the subsequent periods.
+7. Banks shall disclose significant accounting policies including, inter alia, the following:
+(i) financial assets and financial liabilities, including use of fair value option in designating financial assets or financial liabilities at Fair Value Through Profit or Loss (FVTPL) upon initial recognition.
+(ii) impairment of financial assets, with the following details:
+Methodology for computation of expected credit losses (ECL).
+Level of segmentation in the portfolio used.
+Criteria used for determination of movement from Stage 1 (12 month ECL) to Stage 2 and Stage 3 (lifetime ECL).
+The method used to compute lifetime ECL.
+The manner in which the forward looking information has been incorporated in the ECL estimates- the information provided should include both discussion of the judgment required and how it is applied in determining the allowance.
+The treatment for non-fund based facilities.
+The methodology for computation of ECL for revolving credit facilities.
+The areas where the bank intends to refine work on in this ECL estimate and the work plan / timeline to achieve it.
+The impact of movement from the current approach to the ECL approach- reconciliation of the stock of provisions under the current reporting requirements with the opening Ind AS 109 allowance. A comparison of the impairment allowance under ECL for the half-year ended September 30, 2016 with the corresponding provisions under the extant Prudential norms on Income Recognition, Asset Classification and Provisioning (IRACP) norms shall also be disclosed.
+Banks may note that Ind AS 109 is not specific in terms of the approach to be followed when measuring expected credit losses. The Reserve Bank expects banks to adopt sound expected credit loss methodologies commensurate with the size, complexity, and risk profile specific to individual banks. Banks may also note that the Reserve Bank shall finalise the policy on expected credit loss provisioning, taking into account the impairment requirements under Ind AS 109, after due deliberations, and considering various factors including, inter alia, the inputs as above. Banks are therefore advised to maintain flexibility while designing the systems and processes in this regard.
+(iii) derivatives and hedge accounting.
+(iv) derecognition of financial assets and financial liabilities.
+(v) employee benefits.
+(vi) offsetting financial instruments.
+(vii) income taxes.
+(viii) significant areas of estimation uncertainty , critical judgements and assumptions in applying accounting policies.
+(ix) Approach on exemptions under Ind AS 101 First Time Adoption of Indian Accounting Standards.
+8. For the purpose of preparation of proforma Ind AS financial statements for the half year ending September 30, 2016, the notional date of transition to Ind ASs shall be the beginning of business as on April 01, 2016 (or equivalently close of business as on March 31, 2016). This however, does not change the date of transition for the purpose of preparation of Ind AS financial statements for the accounting periods beginning April 1, 2018, which shall be as per the provisions of Ind AS 101 First Time Adoption of Indian Accounting Standards.
+9. The Proforma Ind ASs Financial Statements shall also include:
+(i) (a) reconciliation of equity reported in accordance with the existing financial reporting requirements as at April 1, 2016 to its equity in accordance with Ind ASs as on the same date.
+(b) reconciliation of equity reported in accordance with the existing financial reporting requirements as at September 30, 2016 to its equity in accordance with Ind ASs as on the same date.
+(ii) reconciliation of the total comprehensive income in accordance with Ind AS for the half year ended September 30, 2016 with the profit or loss under the existing financial reporting requirements.
+10. The reconciliations required by paragraph 9 above shall be given in sufficient detail to understand the material adjustments to the Balance Sheet and Statement of Profit and Loss, thereby explaining how the transition from the existing financial reporting to Ind ASs affected the reported Balance Sheet and financial performance. The detail shall be such as to enable the Reserve Bank to understand the significant adjustments to equity that will impact regulatory capital. The Reserve Bank does not require the proforma Ind AS financial statements to be audited and understands that this information, while being a fair estimate of the impact to opening equity, is subject to change.
+11. Please note that the submission of proforma Ind AS financial statements to the Reserve Bank shall not be construed as validation, in any form, of the financial statements, by the Reserve Bank.
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager

@@ -1,0 +1,42 @@
+(163 kb)
+Hedging of exchange rate risk by Foreign Portfolio Investors (FPIs) under Voluntary Retention Route
+RBI/2018-19/136
+A .P. (DIR Series) Circular No. 22
+March 01, 2019
+To
+All Category - I Authorised Dealer banks
+Madam / Sir,
+Hedging of exchange rate risk by Foreign Portfolio Investors (FPIs) under Voluntary Retention Route
+Attention of Authorised Dealers Category – I (AD Category – I) banks is invited to the Foreign Exchange Management (Foreign Exchange Derivative Contracts) Regulations, 2000 dated May 3, 2000 (
+Notification No. FEMA. 25/RB-2000 dated May 3, 2000
+), as amended from time to time and
+Master Direction - Risk Management and Inter-Bank Dealings dated July 5, 2016
+, as amended from time to time.
+2. A reference is also invited to
+A.P. (DIR Series) Circular No. 21 dated March 01, 2019
+on Voluntary Retention Route (VRR) for Foreign Portfolio Investors (FPIs) investment in debt. The operational guidelines, terms and conditions for hedging the exposure to exchange rate risk on account of investments made under this route are provided in the
+Annex
+to this circular.
+3. Necessary amendments (Notification No. FEMA 390/2019-RB dated February 26, 2019) to Foreign Exchange Management (Foreign Exchange Derivatives Contracts) Regulations, 2000 (
+Notification No. FEMA.25/RB-2000 dated May 3, 2000
+) have been notified in the
+Official Gazette vide G.S.R. No. 161 (E) dated February 26, 2019
+. These are issued under clause (h) of sub-section (2) of Section 47 of FEMA, 1999 (42 of 1999).
+4. The directions contained in this circular are issued under Sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999) and are without prejudice to permissions/ approvals, if any, required under any other law.
+Yours faithfully,
+(T Rabi Sankar)
+Chief General Manager
+Annex
+Hedging of exchange rate risk by Foreign Portfolio Investors (FPIs) under Voluntary Retention Route
+Purpose:
+To hedge the exposure to exchange rate risk on account of investments made under the Voluntary Retention Route (VRR)
+Products:
+Forwards, options, cost reduction structures and swaps with Rupee as one of the currencies
+Operational Guidelines, Terms and Conditions:
+i. Authorised dealers may offer derivative contracts using any of the aforementioned products to eligible users under VRR or to its central treasury (of the group and being a group entity). Authorised dealers shall ensure that:
+The FPI has an exposure to exchange rate risk on account of investments made under VRR.
+The notional and tenor of the contract does not exceed the value and tenor of the exposure.
+The same exposure has not been hedged with any other authorised dealer or on the exchange.
+In cases where the value of the exposure falls below the notional of the derivative, the derivative should be suitably adjusted unless such divergence has occurred on account of change in market value of the exposure, in which case the FPI may, at its discretion, continue with the derivative contract till its original maturity.
+ii. Authorised dealers shall allow FPIs to freely cancel and rebook the derivative contracts.
+iii. Authorised Dealer shall ensure that all payables incidental to the hedge are met by the FPI out of repatriable funds and/or inward remittance through normal banking channels.

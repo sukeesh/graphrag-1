@@ -1,0 +1,23 @@
+(163 kb)
+Master Circular- Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs- Amendment
+RBI/2015-16/283
+DBR.No.FID.FIC 5/01.02.00/ 2015-16
+January 07, 2016
+All-India Term-Lending and Refinancing Institutions
+(EXIM Bank, NABARD, NHB and SIDBI)
+Dear Sir/ Madam
+Master Circular- Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs- Amendment
+Please refer to Paragraph No.2.5.3.4 (iii) of
+Master Circular DBR.No.FID.FIC.3/01.02.00/2015-16 dated July 01, 2015
+on Prudential Norms for Classification, Valuation and Operation of Investment Portfolio by FIs.
+2. The position has been reviewed with a view to aligning the asset classification norms applicable to All India Financial Institutions with those for banks. Accordingly, the Paragraph No.2.5.3.4 (iii) of the above Master Circular is amended as follows:-
+Existing Paragraph 2.5.3.4(iii)
+Revised Paragraph 2.5.3.4(iii)
+If any credit facility availed by the issuer of the security is classified as NPA in the books of the FI, investment in any of the securities issued by the same issuer would also be treated as NPI.
+If any credit facility availed of by the issuer is classified as NPA in the books of the FI, investment in any of the securities, including preference shares issued by the same issuer would also be treated as NPI and vice versa. However, if only the preference shares are classified as NPI, the investment in any of the other performing securities issued by the same issuer may not be classified as NPI and any performing credit facilities granted to that borrower need not be treated as NPA.
+1
+Yours faithfully,
+(Rajinder Kumar)
+Chief General Manager
+1
+The preference share are subordinate to bank loans and therefore it is possible that the borrowing company is generating enough surplus to service the bank loan, but not to pay dividend on the preference shares. In addition, the non-payment of dividend on preference shares does not expose the borrowing entity to the risk of initiation of bankruptcy proceedings by the holders of the preference shares. Therefore, it is not necessary to downgrade loans in a situation where the investments in the preference shares had become non-performing investments. However, the converse is not true. If a loan becomes non-performing, the investment in preference shares being subordinate to bank loans will have certainly turned non-performing.

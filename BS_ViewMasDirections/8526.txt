@@ -1,0 +1,41 @@
+(696 kb)
+KYC Norms/AML Standards/Combating Financing of Terrorism/Obligation of PSOs under PMLA, 2002 – e-KYC Service of UIDAI – Recognising on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules
+RBI/2013-14/337
+DPSS. CO. AD. No. /919/02.27.005/2013-14
+October 25, 2013
+To
+All Payment System Providers, System Participants
+and any prospective prepaid payment instrument Issuer
+Madam/Dear Sir
+Know Your Customer (KYC) Norms /Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT)/Obligation of PSOs under Prevention of Money Laundering Act (PMLA), 2002 – e-KYC Service of UIDAI – Recognizing on-line Aadhaar authentication (electronic verification process) to be accepted as an ‘Officially Valid Document’ under PML Rules
+Please refer to our
+circular DPSS.No.2174/02.14.004/2010-11 dated March 23, 2011
+on Know Your Customer (KYC) Norms / Anti-Money Laundering (AML) Standards/ Combating of Financing of Terrorism (CFT) / Obligation of banks under PMLA, 2002 which states that letter issued by the Unique Identification Authority of India (UIDAI) containing details of name, address and Aadhaar number as quoted under para 2 (d) of PML Rules, 2005 may be accepted as an ‘Officially Valid Document’.
+2. In order to reduce the risk of identity fraud, document forgery and have paperless KYC verification, UIDAI has launched its e-KYC services. Accordingly, it has been decided to accept e-KYC service as a valid process for KYC verification under Prevention of Money Laundering (Maintenance of Records) Rules, 2005. Further, the information containing demographic details and photographs made available from UIDAI as a result of e-KYC process (“which is in an electronic form and accessible so as to be usable for a subsequent reference”) may be treated as an ‘Officially Valid Document’ under PML Rules. In this connection, it is advised that while using e-KYC service of UIDAI, the individual user has to authorize the UIDAI, by explicit consent, to release her or his identity/address through biometric authentication to the Payment System Operators (PSOs). The UIDAI then transfers the data of the individual comprising name, age, gender and photograph of the individual, electronically to the PSOs, which may be accepted as valid process for KYC verification. The broad operational instructions to PSOs on Aadhaar e-KYC service is enclosed as
+Annex
+.
+3. PSOs are advised to have proper infrastructure (as specified in Annex) in place to enable biometric authentication for e-KYC.
+4. Physical Aadhaar card/letter issued by UIDAI containing details of name, address and Aadhaar number received through post would continue to be accepted as an ‘Officially Valid Document’.
+5. PSOs authorised under the Payment and Settlement Systems Act, 2007 (PSS Act) may revise their KYC policy in the light of the above instructions and ensure strict adherence to the same.
+Yours faithfully
+(Vijay Chugh)
+Chief General Manager
+Encls: as above
+Annex
+Operational Procedure to be followed by PSOs for e-KYC exercise
+The e-KYC service of the UIDAI may be leveraged by PSOs through a secured network. Any PSO willing to use the UIDAI e-KYC service is required to sign an agreement with the UIDAI. The process flow to be followed is as follows:
+1. Sign KYC User Agency (KUA) agreement with UIDAI to enable the PSOs to specifically access e-KYC service.
+2. PSOs to deploy hardware and software for deployment of e-KYC service across various delivery channels. These should be Standardisation Testing and Quality Certification (STQC) Institute, Department of Electronics & Information Technology, Government of India certified biometric scanners at PSO outlets/ agents / micro ATMs as per UIDAI standards. The current list of certified biometric scanners is given in the link below:
+http://www.stqc.gov.in/sites/upload_files/stqc/files/UID_Auth_Certlist_250613..pdf
+3. Develop a software application to enable use of e-KYC across various Customer Service Points (CSP) (including PSO outlets/ agents) as per UIDAI defined Application Programming Interface (API) protocols. For this purpose PSOs will have to develop their own software under the broad guidelines of UIDAI. Therefore, the software may differ from PSO to PSO.
+4. Define a procedure for obtaining customer authorization to UIDAI for sharing e-KYC data with the PSOs. This authorization can be in physical (by way of a written explicit consent authorising UIDAI to share his/her Aadhaar data with the PSOs for the purpose of opening an account) / electronic form as defined by UIDAI from time to time.
+5. Sample process flow would be as follows:
+a. Customer walks into CSP of a PSO with his/her 12-digit Aadhaar number and explicit consent and requests to open an account with Aadhaar based e-KYC.
+b. PSOs representative manning the CSP enters the number into PSO’s e-KYC application software.
+c. The customer inputs his/her biometrics via a UIDAI compliant biometric reader (e.g. fingerprints on a biometric reader).
+d. The software application captures the Aadhaar number along with biometric data, encrypts this data and sends it to UIDAI’s Central Identities Data Repository (CIDR).
+e. The Aadhaar KYC service authenticates customer data. If the Aadhar number does not match with the biometrics, UIDAI server responds with an error with various reason codes depending on type of error (as defined by UIDAI).
+f. If the Aadhaar number matches with the biometrics, UIDAI responds with digitally signed and encrypted demographic information [Name, year/date of birth, Gender, Address, Phone and email (if available)] and photograph. This information is captured by PSO’s e-KYC application and processed as needed.
+g. PSO’s server auto populates the demographic data and photograph in relevant fields. It also records the full audit trail of e-KYC viz. source of information, digital signatures, reference number, original request generation number, machine ID for device used to generate the request, date and time stamp with full trail of message routing, UIDAI encryption date and time stamp, PSO’s decryption date and time stamp, etc.
+h. The photograph and demographics of the customer can be seen on the screen of computer at PSO outlet or on a hand held device of their agents for reference.
+i. The customer can open his/her account with the PSO subject to satisfying other requirements.

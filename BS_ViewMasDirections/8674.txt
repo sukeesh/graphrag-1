@@ -1,0 +1,51 @@
+(66 kb)
+Banks’ Exposure to Central Counterparties (CCPs) - Interim Arrangements
+RBI/2013-14/430
+DBOD.No.BP.BC.82/21.06.217/2013-14
+January 7, 2014
+The  Chairman and Managing Director/
+Chief  Executive Officer of
+All  Scheduled Commercial Banks
+(Excluding Regional Rural Banks)
+Dear Sir / Madam,
+Banks’ Exposure to Central Counterparties (CCPs) - Interim Arrangements
+In terms of
+para 2.1.1.1
+of the Master Circular on Exposure Norms dated July 1, 2013, the exposure limit applicable to a single counterparty of a bank is 15 per cent of  its capital funds.
+2. The recent financial crisis  has highlighted the need to promote a central clearing of standardized  over-the-counter (OTC) derivative products through a Central Counterparty (CCP).  It has, therefore, been decided that as an interim measure, a bank’s clearing exposure to a Qualifying CCP (QCCP) will be kept outside of the exposure ceiling of 15  per cent of its capital funds applicable to a single counterparty. Clearing  exposure would include trade exposure and default fund exposure as defined in  the guidelines on capital requirements for banks’ exposure to central counterparties  issued vide
+Circular DBOD.No.BC.28/21.06.201/ 2013-14 dated July 2, 2013
+. Other exposures to QCCPs such as loans, credit lines, investments in the capital of CCP, liquidity facilities, etc. will continue to be within the existing  exposure ceiling of 15 per cent of capital funds to a single counterparty. However, all exposures of a bank to a non-QCCP should be within this exposure ceiling of 15 per cent.
+3. Presently, there are four CCPs viz. Clearing Corporation of India Ltd. (CCIL), National Securities Clearing Corporation Ltd. (NSCCL), Indian Clearing Corporation Ltd. (ICCL), and MCX-SX Clearing Corporation Ltd. (MCX-SXCCL) that are subjected, on an ongoing basis, to rules and regulations that are consistent with CPSS-IOSCO Principles for Financial Market Infrastructures. While the CCIL has been granted the status of a QCCP by the Reserve Bank, the other three CCPs have been granted  the status of QCCP by SEBI. Both the regulators have issued press statements to this effect on January 1, 2014 and January 3, 2014 respectively.
+It may also be mentioned that the status of a CCP as a QCCP may change in future, if a  regulator/supervisor of the CCP withdraws the status of QCCP. After withdrawal of the status of a QCCP, the CCP will be considered a non-QCCP and exposure  norms as applicable to non-QCCPs would be applicable.
+4. The Reserve Bank will monitor banks’ clearing exposures to QCCPs. For this purpose, banks will report their clearing exposures to each QCCP to Reserve Bank through
+email
+and to the Principal Chief General Manager, Department of Banking Supervision, Reserve Bank of India, Centre 1, 3rd Floor, World Trade Centre, Cuffe Parade, Colaba,  Mumbai- 400 005 within seven days of each  succeeding month. The data on clearing exposure should be end of day clearing  exposures to each QCCP separately for all the days in a month. The reporting format in this respect is given  in the
+Annex
+. In cases where a bank’s exposures to QCCPs are considered high, the Reserve Bank may initiate suitable measures requiring the bank to initiate suitable risk mitigation plans such as either reducing the exposure within reasonable time or maintaining a higher level of capital on such exposure.
+5. Reserve Bank would consider a revised framework on banks’ exposure to QCCP as and when the Basel Committee on Banking Supervision (BCBS) finalises its proposal in this regard.
+Yours faithfully,
+(Prakash Chandra Sahoo)
+Chief General Manager
+Annex
+Format for reporting of exposures to QCCPs
+Name of the bank:
+Reporting Month:
+Name of QCCP
+1
+…………
+Date
+2
+Trade Exposure
+3
+Default Fund Exposure
+Other Exposures
+4
+Total Exposure as a Percentage of Tier 1 capital
+1
+The  clearing exposure in respect of each QCCPs need to be reported in separate  tables.
+2
+The exposures need to be reported in respect of each working day of the month.
+3
+Trade exposure and default fund  exposure as defined in the guidelines on capital requirements for banks’ exposure to central counterparties issued vide Circular DBOD.No.BC.28/21.06.201/2013-14  dated July 2, 2013.
+4
+All exposures other than trade exposure and default fund exposure should be reported in this  column.

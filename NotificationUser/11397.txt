@@ -1,0 +1,80 @@
+(245 kb)
+Basic Cyber Security Framework for Primary (Urban) Cooperative Banks (UCBs)
+RBI/2018-19/63
+DCBS.CO.PCB.Cir.No.1/18.01.000/2018-19
+October 19, 2018
+To,
+The Chairman/Managing Director/Chief Executive Officer
+All Primary (Urban) Co-operative Banks
+Madam/Dear Sir,
+Basic Cyber Security Framework for Primary (Urban) Cooperative Banks (UCBs)
+Use of Information Technology by banks has grown rapidly and is now an important part of the operational strategy of banks. The number, frequency and impact of cyber incidents/attacks have increased manifold in the recent past, more so in the case of financial sector including banks. There is an urgent need to put in place a robust cyber security/resilience framework at UCBs to ensure adequate security of their assets on a continuous basis. It has, therefore, become essential to enhance the security of the UCBs from cyber threats by improving the current defences in addressing cyber risks.
+2. It is observed that the level of technology adoption is also different across the banks in this sector – some banks offering state of the art digital products to its customers and some banks maintaining their books of account in a standalone computer and using e-mail for communicating with its customers/supervisors/other banks. Hence, it has been decided to issue basic cyber security guidelines applicable to
+all
+UCBs. However, any UCB, depending on its Self-Risk Assessment, complexity of its Information Technology (IT)/ Information Security (IS) systems, nature of digital products offered, etc. is free to adopt advanced cyber security norms as decided by their Boards.
+3. An indicative but not exhaustive, basic cyber security framework to be implemented by all the UCBs is given in
+Annex I
+.
+4. Need for a Board approved Cyber Security Policy –
+All UCBs should immediately put in place a Cyber Security policy, duly approved by their Board/Administrator, giving a framework and the strategy containing a suitable approach to check cyber threats depending on the level of complexity of business and acceptable levels of risk. On completion of the process of policy formulation by the Board, a confirmation shall be sent to Department of Co-operative Bank Supervision, Central Office, C-9, 1st Floor, BKC, Mumbai – 400051 by
+email
+within three months from the date of circular. It shall be ensured that the cyber security policy deals with the following broad aspects, keeping in view the level of technology adoption and digital products offered to the customers:
+4.1. Cyber Security Policy to be distinct from the IT policy/IS Policy of the UCB
+The Cyber Security Policy should be distinct from the IT/IS policy of the UCB so that it highlights the risks from cyber threats and the measures to address/reduce these risks. While identifying and assessing the inherent risks, UCBs should keep in view the technologies
+1
+adopted, delivery channels
+2
+, digital products
+3
+being offered, internal
+4
+and external
+5
+threats etc., and rate each of these risks as Low, Medium, High and Very High.
+4.2. IT Architecture/Framework should be security compliant
+The IT architecture/ framework which includes network, server, database and application, end user systems, etc., should take care of security measures at all times and this should be reviewed by the Board or IT Sub-committee of the Board periodically. For this purpose, UCBs may carry out the following steps:
+Identify weak/vulnerable areas in IT systems and processes,
+Allow restricted access to networks, databases and applications wherever permitted, through well-defined processes and approvals including rationale for permitting such access,
+Assess the cost of impact in case of breaches/failures in these areas and,
+Put in place suitable Cyber Security System to address them,
+Specify and document clearly the responsibility for each of above steps.
+A proper record should be kept of the entire process to enable supervisory assessment.
+4.3. Cyber Crisis Management Plan
+4.3.1 Since cyber risk is different from many other risks, the traditional BCP/DR (Business Continuity Plan/Disaster Recovery) arrangements may not be adequate and hence needs to be revisited keeping in view the nature of cyber risk. A Government of India organisation, CERT-In (Computer Emergency Response Team – India, a Government entity) has been taking important initiatives in strengthening Cyber Security by providing proactive/reactive services and guidelines, threat intelligence and assessment of preparedness of various agencies in different sectors, including the financial sector. CERT-In also has come out with National Cyber Crisis Management Plan and Cyber Security Assessment Framework. UCBs may refer to CERT-In/NCIIPC/RBI/IDRBT guidelines as reference material for their guidance.
+4.3.2 UCBs should promptly detect any cyber intrusions (unauthorised entries) so as to respond/recover/contain impact of cyber-attacks. Among other things, UCBs, especially those offering services such as internet banking, mobile banking, mobile wallet, RTGS/NEFT/IMPS, SWIFT, debit cards, credit cards etc., should take necessary detective and corrective measures/steps to address various types of cyber threats
+6
+viz. denial of service (DoS), distributed denial of services (DDoS), ransomware/crypto ware, destructive malware, business email frauds including spam, email phishing, spear phishing, whaling, vishing frauds, drive-by downloads, browser gateway fraud, ghost administrator exploits, identity frauds, memory update frauds, password related frauds, etc.
+5. Organisational Arrangements
+UCBs should review the organisational arrangements so that the security concerns are brought to the notice of suitable/concerned officials to enable quick action.
+6. Cyber Security awareness among Top Management/Board/other concerned parties
+Managing cyber risk requires the commitment of the entire organization to create a cyber-safe environment. This will require a high level of awareness/familiarisation among staff at all levels including Board and Top Management. UCBs should actively promote among their customers, vendors, service providers and other concerned parties an understanding of its cyber security objectives. Security awareness among customers, employees, vendors, service providers, etc. about the potential impact of cyber-attacks helps in cyber security preparedness of UCBs.
+7. Ensuring protection of customer information
+UCBs, as owners of customer sensitive data, should take appropriate steps in preserving the Confidentiality, Integrity and Availability of the same, irrespective of whether the data is stored/in transit within themselves or with the third party vendors; the confidentiality of such custodial information should not be compromised in any situation. To achieve this, suitable systems and processes across the data/information lifecycle need to be put in place by UCBs. As regards customers, UCBs may educate and create awareness among them with regard to cyber security risks.
+8. Supervisory reporting framework
+UCBs should report immediately all unusual cyber security incidents (whether they were successful or mere attempts) to Department of Co-operative Bank Supervision, Central Office, C-9, 1st Floor, BKC, Mumbai – 400051 by
+email
+, giving full details of the incident. A ‘NIL’ report shall be submitted on quarterly basis in case of no cyber security incidents.
+9.
+A copy of this circular shall be placed before the Board of Directors/Administrator in its ensuing meeting and a policy on Cyber Security should be framed by the Board/Administrator immediately. After framing of the policy, UCBs are advised to implement basic Cyber Security Controls as indicated in
+Annex I
+and report the same to respective Regional Offices of Department of Co-operative Bank Supervision on or before March 31, 2019.
+Yours faithfully,
+(Ranjeev Shanker)
+(General Manager In - Charge)
+Enclosed:
+Annex I: Basic Cyber Security Controls for Primary (Urban) Cooperative Banks (UCBs)
+Annex II: Description of some of the cyber security threats
+1
+Technologies: Security incident event management (SIEM), Privilege Identity Management (PIM), database activity monitoring, etc.
+2
+Delivery channels: ATM, PoS, IMPS, etc.
+3
+Digital products: m-Banking, UPI, e-Wallet, etc.
+4
+Internal threats: Critical & sensitive data compromise, password theft, internal source code review, etc.
+5
+External threat: DDoS, Ransomware, etc.
+6
+Refer
+Annex II
+for a brief description on the various type of threats

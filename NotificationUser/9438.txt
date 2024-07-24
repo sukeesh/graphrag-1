@@ -1,0 +1,31 @@
+(89 kb)
+Inter-Governmental Agreement (IGA) with United States of America (US) under Foreign Accounts Tax Compliance Act (FATCA)- Registration
+RBI/2014-15/372
+DBR. AML.No. 9644/14.07.018/2014-15
+December 30, 2014
+The  Chairpersons / CEOs of all Scheduled Commercial Banks
+RRBs/Local Area Banks / All India Financial Institutions
+Dear Madam/Sir,
+Inter-Governmental Agreement (IGA) with United States of America  (US)
+under Foreign Accounts Tax Compliance Act (FATCA)-  Registration
+Please  refer to our
+circular DBOD. AML. No. 20472 /14.07.018/2013-14 dated June 27,  2014
+on the captioned subject.
+2.  Government of India, has now  advised that to avoid withholding tax, Foreign Financial  Institutions (FFIs) in Model 1 jurisdictions, such as India, need to  register with IRS and obtain a Global Intermediary Identification Number (GIIN) before January  1, 2015. The FFIs who have registered but have not obtained a GIIN should  indicate to the withholding agents that the GIIN is applied for,  which may be verified by the withholding agents in 90 days. In this regard, the FAQ published on the IRS  website (updated as on December 22, 2014), as received from the Government of  India, is furnished in the
+Annex
+.
+3. Accordingly,  banks/ Financial Institutions may take action appropriately.
+4. Kindly  acknowledge receipt of this circular.
+Yours faithfully,
+(
+Lily  Vadera
+)
+Chief  General Manager
+Encls:  As above
+ANNEX
+FAQ published on the IRS website updated on  December 22, 2014
+Q8.
+Announcement    2014-38 provides that a jurisdiction that is treated as if it has an IGA in    effect, but that has not yet signed an IGA, retains such status beyond    December 31, 2014, provided that the jurisdiction continues to demonstrate    firm resolve to sign the IGA that was agreed in substance. Given this    additional time to sign the IGA, does a reporting Model 1 FFI in such a    jurisdiction need to register and obtain a GIIN before January 1, 2015?
+Added: December 22, 2014
+Announcement    2014-38 does not change the requirement in the chapter 4 regulations that for    payments made on or after January 1, 2015, in order for withholding not to    apply, a withholding agent may treat a reporting Model 1 FFI as a registered    deemed-compliant FFI only if the withholding agent has a withholding    certificate identifying the payee as a registered deemed-compliant FFI and    the withholding certificate contains a GIIN for the payee that is verified in    the manner described in those regulations. Thus, to avoid withholding on    certain payments made on or after January 1, 2015, a reporting Model 1 FFI    should register and obtain a GIIN to properly certify its status to a    withholding agent required to document the FFI for chapter 4 purposes.    A reporting Model 1 FFI that has registered but not yet obtained    a GIIN should indicate to its withholding agent that its GIIN is    "applied for," and in such case, the withholding agent will have 90    days from the date it receives the Form W-8 to obtain a GIIN and to verify    the accuracy of the GIIN against the published IRS FII list before it has    reason to know that the payee is not a registered deemed-compliant FFI.
+Announcement    2014-38 similarly does not change the timing of any other due diligence and    reporting requirements in the chapter 4 regulations.

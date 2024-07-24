@@ -1,0 +1,57 @@
+(197 kb)
+Rationalisation of Merchant Discount Rate (MDR) for Debit Card Transactions
+RBI/2017-18/105
+DPSS.CO.PD No. 1633/02.14.003/2017-18
+December 06, 2017
+The Chairman and Managing Director / Chief Executive Officers
+All Scheduled Commercial Banks including RRBs / Urban Co-operative Banks /
+State Co-operative Banks / District Central Co-operative Banks /
+Payment Banks and Small Finance Banks /All Card Network Providers
+Dear Madam / Sir,
+Rationalisation of Merchant Discount Rate (MDR) for Debit Card Transactions
+Please refer to paragraph 1 of
+Statement on Developmental and Regulatory Policies
+regarding revised framework for Merchant Discount Rate (MDR) for Debit Card Transactions announced in the Fifth Bi-monthly Monetary Policy Statement, 2017-18 by the Reserve Bank of India.
+2. The Reserve Bank had specified the maximum MDR applicable to debit card transactions vide its
+circular DPSS.CO.PD.No.2361/02.14.003/2011-12 dated June 28, 2012
+, which was revised vide
+circular DPSS.CO.PD.No.1515/02.14.003/2016-17 dated December 16, 2016
+.
+3. Based on consultations with stakeholders on the “Draft Circular - Rationalisation of Merchant Discount Rate (MDR) for Debit Card Transactions”, as also taking into account the twin objectives of promoting debit card acceptance by a wider set of merchants, especially small merchants, and ensuring sustainability of the business for the entities involved, it has been decided to rationalise the MDR for debit cards based on the following criteria:
+Categorisation of merchants on the basis of turnover.
+Adoption of a differentiated MDR for QR-code based transactions.
+Specifying a ceiling on the maximum permissible MDR for both ‘card present’ and ‘card not present’ transactions.
+4. Accordingly, the maximum MDR for debit card transactions shall be as under:
+Sr. No
+Merchant Category
+Merchant Discount Rate (MDR) for debit card transactions
+(as a % of transaction value)
+Physical POS infrastructure including online card transactions
+QR code-based card acceptance infrastructure
+1.
+Small merchants
+(with turnover upto ₹ 20 lakh during the previous financial year)
+Not exceeding 0.40%
+(MDR cap of ₹ 200 per transaction)
+Not exceeding 0.30%
+(MDR cap of ₹ 200 per transaction)
+2.
+Other merchants
+(with turnover above ₹ 20 lakh during the previous financial year)
+Not exceeding 0.90%
+(MDR cap of ₹ 1000 per transaction)
+Not exceeding 0.80%
+(MDR cap of ₹ 1000 per transaction)
+5. A reference is invited to our
+circulars DPSS.CO.PD. No. 639/02.14.003/2016-17 dated September 1, 2016
+on unbundling of MDR and
+DPSS.CO.PD.No. 2894/02.14.003/2015-2016 dated May 26, 2016
+on putting in place a Board approved policy for merchant acquisition. It is reiterated that the banks and authorised card payment networks shall strictly adhere to the above directions. Further, banks shall ensure that the MDR levied on the merchant shall not exceed the cap rates as prescribed above, irrespective of the entity which is deploying the card acceptance infrastructure at the merchant location.
+6. Banks are also advised to ensure that merchants on-boarded by them do not pass on MDR charges to customers while accepting payments through debit cards.
+7. The above instructions shall be effective from
+January 1, 2018
+. These instructions are subject to review.
+8. The directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007, (Act 51 of 2007).
+Yours faithfully
+(Nanda S. Dave)
+Chief General Manager-in-charge

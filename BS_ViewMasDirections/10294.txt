@@ -1,0 +1,50 @@
+(90 kb)
+Master Circular – Basel III Capital Regulations - Revision
+RBI/2015-16/331
+DBR.No.BP.BC.83/21.06.201/2015-16
+March 1, 2016
+All Scheduled Commercial Banks
+(Excluding Local Area Banks
+and Regional Rural Banks)
+Madam / Sir,
+Master Circular – Basel III Capital Regulations - Revision
+Please refer to
+Master Circular DBR.No.BP.BC.1/21.06.201/2015-16 dated July 1, 2015
+on ‘Basel III Capital Regulations’. The treatment of certain balance sheet items, as per the extant regulations on banks’ capital, differs from what is prescribed by the Basel Committee on Banking Supervision (BCBS). It has also been represented to the Reserve Bank that the current framework places on the banks in India the need to raise more capital than would be required had the Basel rules been applied as they are. The Reserve Bank has reviewed the position in this regard and it has been decided to align, to some extent, the current regulations on treatment of these balance sheet items, for the purpose of regulatory capital, with the BCBS guidelines. Accordingly it has been decided as detailed herein below:
+2.1 Treatment of revaluation reserves
+Revaluation reserves arising out of change in the carrying amount of a bank’s property consequent upon its revaluation may, at the discretion of banks, be reckoned as CET1 capital at a discount of 55%, instead of as Tier 2 capital under extant regulations, subject to meeting the following conditions:
+bank is able to sell the property readily at its own will and there is no legal impediment in selling the property;
+the revaluation reserves are shown under Schedule 2: Reserves & Surplus in the Balance Sheet of the bank;
+revaluations are realistic, in accordance with Indian Accounting Standards.
+valuations are obtained, from two independent valuers, at least once in every 3 years; where the value of the property has been substantially impaired by any event, these are to be immediately revalued and appropriately factored into capital adequacy computations;
+the external auditors of the bank have not expressed a qualified opinion on the revaluation of the property;
+the instructions on valuation of properties and other specific requirements as mentioned in the
+circular DBOD.BP.BC.No.50/21.04.018/2006-07 January 4, 2007
+on ‘Valuation of Properties - Empanelment of Valuers’ are strictly adhered to.
+2.2 Treatment of foreign currency translation reserve (FCTR)
+Banks may, at their discretion, reckon foreign currency translation reserve arising due to translation of financial statements of their foreign operations in terms of Accounting Standard (AS) 11 as CET1 capital at a discount of 25% subject to meeting the following conditions:
+the FCTR are shown under Schedule 2: Reserves & Surplus in the Balance Sheet of the bank;
+the external auditors of the bank have not expressed a qualified opinion on the FCTR.
+2.3 Treatment of deferred tax assets (DTAs)
+(i) Deferred tax assets (DTAs) associated with accumulated losses and other such assets should be deducted in full from CET1 capital.
+(ii) DTAs which relate to timing differences (other than those related to accumulated losses) may, instead of full deduction from CET1 capital, be recognised in the CET1 capital up to 10% of a bank’s CET1 capital, at the discretion of banks [after the application of all regulatory adjustments mentioned from paragraphs 4.4.1 to 4.4.9(C)(ii) of the Master Circular].
+(iii) Further, the limited recognition of DTAs as at (ii) above along with limited recognition of significant investments in the common shares of unconsolidated financial (i.e. banking, financial and insurance) entities in terms of paragraph 4.4.9.2(C) (iii) of the Master Circular taken together must not exceed 15% of the CET1 capital, calculated after all regulatory adjustments set out from paragraphs 4.4.1 to 4.4.9 of the Master Circular. Please refer to the
+Annex
+of this circular clarifying this applicable limited recognition. However, banks shall ensure that the CET1 capital arrived at after application of 15% limit should in no case result in recognising any item more than the 10% limit applicable individually.
+(iv) The amount of DTAs which are to be deducted from CET1 capital may be netted with associated deferred tax liabilities (DTLs) provided that:
+both the DTAs and DTLs relate to taxes levied by the same taxation authority and offsetting is permitted by the relevant taxation authority;
+the DTLs permitted to be netted against DTAs must exclude amounts that have been netted against the deduction of goodwill, intangibles and defined benefit pension assets; and
+the DTLs must be allocated on a pro rata basis between DTAs subject to deduction from CET1 capital as at (i) and (ii) above.
+(v) The amount of DTAs which is not deducted from CET1 capital (in terms of para (ii) above) will be risk weighted at 250% as in the case of significant investments in common shares not deducted from bank’s CET1 capital as indicated in paragraph 4.4.9 (C)(iii) of the Master Circular.
+3. These instructions are applicable with immediate effect.
+Yours faithfully,
+(Sudarshan Sen)
+Principal Chief General Manager
+Annex
+Calculation of 15% of common equity limit on items subject to limited recognition (i.e. DTAs associated with timing differences and significant investments in common shares of unconsolidated financial entities)
+1. Banks must follow the 15% limit on significant investments in the common shares of unconsolidated financial institutions (banks, insurance and other financial entities) and deferred tax assets arising from timing differences (collectively referred to as specified items) as stipulated in paragraph 3 of this circular.
+2. The recognition of these specified items will be limited to 15% of Common Equity Tier 1 (CET1) capital, after the application of all deductions. To determine the maximum amount of the specified items that can be recognised*, banks should multiply the amount of CET1** (after all deductions, including after the deduction of the specified items in full i.e. specified items should be fully deducted from CET1 along with other deductions first for arriving at CET1**) by 17.65%. This number i.e. 17.65% is derived from the proportion of 15% to 85% (15%/85% = 17.65%).
+3. As an example, take a bank with Rs.85 of common equity (calculated net of all deductions, including after the deduction of the specified items in full).
+4. The maximum amount of specified items that can be recognised by this bank in its calculation of CET1 capital is Rs.85 x 17.65% = Rs.15. Any excess above Rs.15 must be deducted from CET1. If the bank has specified items (excluding amounts deducted after applying the individual 10% limits) that in aggregate sum up to the 15% limit, CET1 after inclusion of the specified items, will amount to Rs.85 + Rs.15 = Rs.100. The percentage of specified items to total CET1 would equal 15%.
+* The actual amount that will be recognised may be lower than this maximum, either because the sum of the three specified items are below the 15% limit set out in this annex, or due to the application of the 10% limit applied to each item.
+** At this point, this is a "hypothetical" amount of CET1 in that it is used only for the purposes of determining the deduction of the specified items.

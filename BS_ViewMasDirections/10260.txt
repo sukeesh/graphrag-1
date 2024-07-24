@@ -1,0 +1,64 @@
+(180 kb)
+RTGS service charges for members and customers - Rationalisation
+RBI/2015-16/306
+DPSS (CO) RTGS No.1926/04.04.002/2015-16
+February 4, 2016
+The Chairman / Managing Director /
+Chief Executive Officer of participants of RTGS
+Madam / Sir,
+RTGS service charges for members and customers - Rationalisation
+A reference is invited to our
+circular DPSS.(CO).RTGS.No.388/04.04.002/2011-2012 dated September 5, 2011
+.
+2. As participants in the RTGS are aware, the RBI introduced service charges on members for all outward RTGS transactions with effect from October 1, 2011. Since then RBI has upgraded the RTGS system adding more capacity and features. With the enhancements, the time window of operation has also increased, adding to operational efficiency, though with a higher cost. To ensure that such services are adequately priced, RBI has revised the fee structure for members and rationalised the charges levied on them. Inward transactions of the members will not attract any service charges and will continue to be free, as hitherto.
+3. The RTGS service charges would consist of monthly membership fee and processing charges per transaction, as follows:
+(i) Monthly Membership Fee :
+The membership fee has been marginally enhanced and the new structure will be as follows:
+Type of Entities
+Monthly Membership Fee (exclusive of service tax)
+Scheduled Commercial Banks (SCB)
+₹ 5,000
+Banks other than SCBs, Primary Dealers, clearing entities, other special entities, etc.
+₹ 2,500
+(ii) Processing charge per transaction :
+Every outward transaction will attract flat processing charge at the earlier cap of ₹0.50 (exclusive of service tax) and a time varying charge as under:
+Sr. no.
+Time of Settlement at the Reserve Bank of India
+Time varying charge per outward transaction
+(in addition to flat processing charge) (exclusive of service tax)
+From
+To
+1
+08:00 hours
+11:00 hours
+Nil
+2
+After 11:00 hours
+13:00 hours
+₹ 2.00
+3
+After 13:00 hours
+16:30 hours
+₹ 5.00
+4
+After 16:30 hours
+₹ 10.00
+4. As there is no change in the minimum or maximum time varying charge, the maximum charges that can be recovered by a member (if it so desires) from its customers will remain unchanged as under:
+RTGS Transaction
+Maximum Customer Charges (exclusive of service tax)
+Inward transactions
+Free
+Outward transactions
+₹ 2 lakh to ₹ 5 lakh
+₹ 25 + applicable time varying charge, subject to a maximum of ₹ 30/-.
+Above ₹ 5 lakh
+₹ 50 + applicable time varying charge, subject to a maximum of ₹ 55/-.
+5. Members may please note that customers should not be charged for inward transaction, as hitherto.
+6. RBI will calculate service charges on a monthly basis for each member and the amount will be debited from the current account of the respective member maintained with Deposit Accounts Department, Reserve Bank of India, Mumbai at the end of the month. The necessary reports on service charges collected from each member would be made available by the Deposit Accounts Department, Reserve Bank of India, Mumbai.
+7. The revised service charges for RTGS members will come into effect from April 1, 2016. The aforesaid charges will be subject to periodic review by the Reserve Bank.
+8. This directive is issued under Section 10(2) read with Section 18 of Payment and Settlement Systems Act 2007 (Act 51 of 2007).
+Yours faithfully,
+(
+Nanda S. Dave
+)
+Chief General Manager

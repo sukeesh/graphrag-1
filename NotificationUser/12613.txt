@@ -1,0 +1,162 @@
+(2066 kb)
+Master Direction – Reserve Bank of India (Filing of Supervisory Returns) Directions - 2024
+RBI/DoS.DSG/2023-24/110
+DoS.DSG.No.10/33.01.001/2023-24
+February 27, 2024
+All Commercial Banks excluding Regional Rural Banks
+All Primary (Urban) Cooperative Banks
+Select All India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NABFID)
+All Non-Banking Financial Companies (excluding Housing Finance Companies) and All Asset Reconstruction Companies
+Madam/ Dear Sir,
+Master Direction – Reserve Bank of India (Filing of Supervisory Returns) Directions - 2024
+Please refer to paragraph 4 of
+Statement on Developmental and Regulatory Policies dated August 10, 2023
+. All Supervised Entities (SEs) are required to submit certain supervisory returns to the Reserve Bank as per various directions / circulars/ notifications issued by the Bank from time to time.
+2. In order to create a single reference for all Supervisory Returns and to harmonize the timelines for filing of returns, all the relevant instructions have been rationalised and consolidated into a single Master Direction. In exercise of powers conferred under sub section (2) of section 27 and section 35A of the Banking Regulation Act, 1949 as amended from time to time; Section 56 of the Banking Regulation Act, 1949 and extant provisions of The Banking Regulations (Co-operative Societies) Rules, 1966; extant provisions of Chapters IIIA and IIIB of the Reserve Bank of India Act, 1934; and pursuant to section 12 A of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, the Reserve Bank of India being satisfied that it is necessary and expedient in the public interest to do so, hereby issues this Master Direction hereinafter specified.
+3. The summary of changes introduced in this Direction over the extant instructions is given in
+Annex I
+. The list of underlying notifications / circulars which form the basis of this Master Direction and are hereby being repealed (whole or in part) is furnished in
+Annex II
+. The set of applicable returns to be filed by SEs and the general description of the returns are compiled and presented in
+Annex III
+, with the alternate timelines for returns submission enlisted in
+Annex IV
+. Guidance on filing of these returns are available on Bank’s Website under the ‘Regulatory Reporting’ tab. Details of online portals for filing of applicable returns by SEs are given in
+Annex V
+. The list of abbreviations used in this Master Direction is provided in
+Annex VI
+.
+4. It is clarified that submission of other regulatory/statutory returns will not be affected by these Directions.
+Yours faithfully,
+(Dr. Vijay Singh Shekhawat)
+Chief General Manager
+Master Direction – Reserve Bank of India (Filing of Supervisory Returns) Directions - 2024
+Particulars
+Chapter I
+Preliminary
+Chapter II
+General Guidelines
+Chapter III
+Repeal Provisions
+Annex I
+Summary of changes to the existing circulars / Directions
+Annex II
+List of circulars / notifications repealed with issuance of these Directions
+Annex III
+List of applicable returns to be filed by Supervised Entities
+Annex IV
+Alternate timelines for submission of select Returns
+Annex V
+Details of online portals for submission of returns by Supervised Entities
+Annex VI
+Abbreviations
+CHAPTER - I
+PRELIMINARY
+1. Short Title and Commencement
+1.1. These Directions shall be called the Master Direction - Reserve Bank of India (Filing of Supervisory Returns) Directions – 2024.
+1.2. These Directions shall come into immediate effect.
+2. Applicability
+2.1. These Directions shall apply to the following entities:
+All Commercial Banks excluding Regional Rural Banks. Commercial Banks include Public Sector Banks (PSBs), Private Sector Banks (PVBs), Small Finance Banks (SFBs), Payment Banks (PBs), Local Area Banks (LABs) and Foreign Banks (FBs).
+All Primary (Urban) Co-operative Banks.
+Select All India Financial Institutions (Exim Bank, NABARD, NHB, SIDBI and NABFID).
+All Non-Banking Financial Companies [excluding Housing Finance Companies (HFCs)] and all Asset Reconstruction Companies (ARCs).
+2.2. The entities mentioned at paragraph 2.1. above shall hereafter be referred to as ‘Supervised Entities (SEs)’ for the purpose of these Directions.
+2.3. Commercial Banks and NBFCs shall be required to report data on their domestic and overseas operations, including the operations of IFSC Banking Units (IBUs) and Overseas Banking Units (OBUs), wherever applicable.
+2.4. These Directions shall be in addition to, and not in derogation of any other Instructions / Directions issued by the RBI, except for such clauses in the instructions / Directions that have been repealed herein.
+3. Definitions
+3.1. In these Directions, unless the context otherwise requires, the terms herein shall bear the meanings assigned to them as below:
+Supervisory Returns
+refer to all periodic / ad-hoc data submitted to RBI in formats prescribed from time to time, irrespective of the technology platform, periodicity and the mode of submission. The list of periodic returns can be obtained from the Bank’s website.
+CRILC
+refers to a database, i.e., Central Repository of Information on Large Credits (CRILC) as specified in the framework ‘Early Recognition of Financial Distress, Prompt Steps for Resolution and Fair Recovery for Lenders: Framework for Revitalising Distressed Assets in the Economy’ dated January 30, 2014 and subsequent circulars/ guidelines in this regard.
+CIMS
+refers to
+an online platform, i.e.,
+Centralised Information Management System of the RBI for return submission, data dissemination and other related purposes.
+‘
+Commercial Banks
+’ here refers to all banking companies (including banks incorporated outside India licensed to operate in India (‘Foreign Banks’), Local Area Banks (LABs), Small Finance Banks (SFBs), Payment Banks (PBs)), corresponding new banks, regional rural banks (‘RRBs’) and State Bank of India as defined under subsections (c), (da), (ja) and (nc) of section 5 of the Banking Regulation Act, 1949.
+Scheduled Banks
+refers to banks which are included in the Second Schedule to the Reserve Bank of India Act, 1934.
+Select All India Financial Institutions
+refers to EXIM Bank, National Bank for Agriculture and Rural Development (‘NABARD’), National Housing Bank (‘NHB’), Small Industries Development Bank of India (‘SIDBI’) and National Bank for Financing Infrastructure and Development (‘NaBFID’) as established by the Export-Import Bank of India Act, 1981; the National Bank for Agriculture and Rural Development Act, 1981; the National Housing Bank Act, 1987; the Small Industries Development Bank of India Act, 1989 and the National Bank For Financing Infrastructure and Development Act, 2021 respectively.
+Urban Co-operative Banks
+(UCBs) refers to all primary co-operative banks as defined under clause (ccv) of subsection 1 of section 56 of the Banking Regulation Act, 1949.
+Non-Banking Financial Companies
+(NBFCs) refers to a company engaged in the business of financial institution as contained in clause (f) of Section 45 I of the RBI Act, 1934. The ‘Principal Business’ criteria may be referred to as given in RBI’s
+Press Release No. 1998-99/1269 dated April 8, 1999
+.
+Base, Middle, Upper and Top Layers NBFCs
+shall have the same meaning as given in
+RBI’s notification DoR.FIN.REC.No.45/03.10.119/2023-24 dated October 19, 2023
+(Master Direction – Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023) and subsequent clarifications thereon.
+Asset Reconstruction Company
+(ARC) refers to a company registered with the Reserve Bank under Section 3 of the SARFAESI Act, 2002 for the purposes of carrying on the business of asset reconstruction or securitization, or both.
+All other expressions unless defined herein shall have the same meaning as have been assigned to them under the Reserve Bank of India Act, 1934, or Banking Regulation Act, 1949, or Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 or Glossary of Terms published by Reserve Bank or as used in commercial parlance, as the case may be.
+CHAPTER – II
+GENERAL GUIDELINES
+4. Substantive Provisions
+4.1. Responsibilities of Board and Senior Management:
+4.1.1. The risk data aggregation capabilities and risk reporting practices should be fully documented and subject to high standards of validation that are aligned with bank’s other independent risk management reviews. The validation of risk data aggregation and risk reporting practices shall be conducted using staff with specific IT, data and reporting expertise. Board and senior management should ensure that adequate resources are deployed for the purpose.
+4.1.2. The Board and senior management shall include the identification, assessment, and management of data quality risks as part of its overall risk management framework. The framework should include standards for both outsourced and in-house risk data-related processes, policies on data confidentiality, integrity and availability, as well as risk management policies.
+4.1.3. While considering any acquisition / divestiture, new product development, IT Change initiatives etc, the due diligence process should consider the impact of such activities on the data aggregation and reporting. In such cases, it should be ensured that data aggregation and reporting facilities are integrated within the existing reporting framework within a timeframe.
+4.1.4. The Board and senior management shall ensure that ability of the SE to aggregate and report data at a consolidated level or at any relevant level within the organisation is not hindered by its group structure (eg sub-consolidated level, jurisdiction of operation level). In particular data aggregation and reporting should be independent from the choices a SE makes regarding its legal organisation and geographical presence, subject to the statutory limitations, if any.
+4.2. Data Architecture and IT Infrastructure
+4.2.1. A SE shall design, build and maintain the data architecture and supporting IT infrastructure for accurate, complete and timely data aggregation and reporting not only in normal times but also during times of stress or crisis.
+4.2.2. The data aggregation and reporting practices should be considered an essential part of the SE’s business continuity planning process and subject to a business impact analysis.
+4.2.3. Roles and responsibilities should be established among business owners and IT team so as to ensure that the data is kept current and aligned with the data definitions and with the SEs data reporting policies.
+4.2.4. SEs should ensure that resources and IT infrastructure is adequate to meet a broad range of on-demand, ad hoc reporting requests, including requests during stress / crises situation and to meet supervisory queries. Supervisors expects the SEs to be able to generate subsets of data based on requested scenarios. For example, the SE should be able to accurately aggregate data on exposure for a particular period for a specific industry cluster in a district.
+4.3. Accuracy and integrity in reporting
+4.3.1. All returns / risk reports should be reconciled with SEs own sources, including accounting data where appropriate, to ensure accuracy and completeness of the same.
+4.3.2. SEs should strive to achieve a higher degree of automation in generation of data for filing of returns.
+4.3.3. SEs shall maintain proper records of sources and aggregation rules for generating returns’ data.
+4.3.4. SEs are expected to measure and monitor the accuracy of data and to develop appropriate escalation channels and action plans to rectify any deterioration in data quality.
+4.4. Timelines for filing of Returns
+: SEs shall submit the applicable returns as given in
+Annex III
+, with accurate and complete data, strictly within the prescribed timelines.
+4.4.1. The timelines for submission of returns, in general, will depend on the frequency at which the return is to be submitted. The principles for the same is tabulated below:
+Periodicity
+Reference Date
+Timeline for Return Submission
+Weekly
+Friday of the week
+On or before Wednesday of the following week
+Fortnightly
+15th and Last day (28th/ 29th/ 30th/ 31st) of the respective month
+Within 7 days from the Reference Date
+Monthly
+Last day (28th/ 29th/ 30th/ 31st) of a respective month
+Within 15 days from the Reference Date
+Quarterly
+Last day of the Calendar Quarter (i.e., March 31st, June 30th, September 30th, and December 31st)
+Within 21 days from the Reference Date
+Half yearly
+March 31st, and September 30th
+Within 21 days from the Reference Date
+Yearly
+March 31st
+Within 21 days from the Reference Date
+Note:
+1) All audited returns, wherever applicable, shall be filed within 5 working days from the date of signing of the Auditor’s report in terms of section 134 of the Companies Act, 2013 (solo/ group level as per applicability of the return), as applicable.
+2) All ad-hoc returns/ data must be submitted within the timelines as indicated in the communication issued by the RBI.
+4.4.2. Alternate Timelines
+The return submission timelines mentioned in Para 4.4.1 above are applicable for all returns except as mentioned in
+Annex IV
+.
+4.5. Ad-Hoc / Additional Returns:
+The RBI may introduce new returns / withdraw existing returns (both ad-hoc/ regular) for submission by SEs and inform such entities suitably.
+4.6. Mode of submission of Returns:
+SEs shall submit all the returns through online mode in the formats and in the manner as communicated to them (See
+Annex III
+), unless specified otherwise. Returns submitted in hard copy format through hand delivery/ post/ courier, or in soft copy format through e-mails, shall not be accepted (i.e., would not be deemed to have been submitted by SEs), unless prescribed. As a contingency measure, in case of non-availability of on-line portals, SEs may be advised to submit the returns through email. However, SEs shall re-submit the return through online mode soon after its availability.
+5. Penalties:
+All the SEs shall furnish the correct and true information in the returns prescribed in the Directions within the stipulated timelines. In case any SE is found in violation of these Directions, the Reserve Bank may take necessary action including imposition of a penalty / fine under the extant provisions of the Banking Regulation Act, 1949 or the Reserve Bank of India Act, 1934 or the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002, as the case may be.
+CHAPTER – III
+REPEAL PROVISIONS
+6. Repeal Provisions
+6.1. With the issuance of these Directions, the relevant clause(s) in the instruction / guideline / circular as listed in
+Annex II
+stand repealed.
+6.2. Notwithstanding the abovementioned repeals, anything done, or any action taken or purported to have been done or taken, or any direction given, or any proceeding taken or any penalty or fine imposed under the repealed enactments shall, insofar as it is not inconsistent with the provisions of these Directions, be deemed to have been done or taken under the corresponding provisions of these Directions.

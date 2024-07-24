@@ -1,0 +1,129 @@
+(78 kb)
+Amendment to Master Direction on KYC – Operationalisation of Central KYC Registry (CKYCR) and KYC norms for Foreign Portfolio Investors (FPIs)
+RBI/2016-2017/11
+DBR.AML.BC.No.1/14.01.001/2016-17
+July 8, 2016
+All Regulated Entities (REs)
+Dear Sir/Madam,
+Amendment to Master Direction on KYC – Operationalisation of Central KYC Registry (CKYCR) and KYC norms for Foreign Portfolio Investors (FPIs)
+In exercise of the powers conferred under Section 35A of the Banking Regulation Act, 1949, the Reserve Bank of India hereby directs that the Reserve Bank of India (
+Know Your Customer (KYC)
+) Directions, 2016
+Master Direction No.DBR.AML.No.81/14.01.001/2015-16 dated February 25, 2016
+be modified as under:
+(a) The existing Section 57 of the Master Direction shall be amended to read as follows:
+57. CDD Procedure and sharing KYC information with Central KYC Records Registry (CKYCR)
+REs shall capture the KYC information for sharing with the CKYCR in the manner mentioned in the Rules, as required by the revised KYC templates prepared for ‘
+individuals
+’ and ‘Legal Entities’ as the case may be. Government of India has authorised the Central Registry of Securitisation Asset Reconstruction and Security Interest of India (CERSAI), to act as, and to perform the functions of the CKYCR vide Gazette Notification
+No. S.O. 3183(E) dated November 26, 2015.
+The ‘live run’ of the CKYCR would start with effect from July 15, 2016 in phased manner beginning with new ‘individual accounts’. Accordingly, REs shall take the following steps:
+In the first phase, Scheduled Commercial Banks (SCBs) may upload the KYC data with CERSAI, in respect of new individual accounts opened on or after July 15, 2016.
+REs other than SCBs may also participate in the live run of CKYCR from July 15, 2016.
+Those REs which are not yet ready to join CKYCR process immediately, shall take steps to prepare their systems for uploading the KYC data in respect of new individual accounts so that the same is complete as soon as possible in a time bound manner.
+REs shall prepare a plan for uploading the data in respect of existing individual accounts and include the same in their KYC Policy.
+Operational Guidelines (version 1.1)
+for uploading the KYC data have been released by CERSAI. Further, ‘Test Environment’ has also been made available by CERSAI for the use of REs.
+(b) The existing ‘ANNEX 2’ of the Master Direction on KYC shall be amended to read as follows
+:
+Annex II
+KYC documents for eligible FPIs under PIS
+FPI Type
+Document Type
+Category I
+Category II
+Category III
+Entity Level
+Constitutive Documents (Memorandum and Articles of Association, Certificate of Incorporation etc.)
+Mandatory
+Mandatory
+Mandatory
+Proof of Address
+Mandatory (Power of Attorney {PoA} mentioning the address is acceptable as address proof)
+Mandatory (Power of Attorney mentioning the address is acceptable as address proof)
+Mandatory other than Power of Attorney
+PAN Card
+Mandatory
+Mandatory
+Mandatory
+Financial Data
+Exempted *
+Exempted *
+Mandatory
+SEBI Registration Certificate
+Mandatory
+Mandatory
+Mandatory
+Board Resolution @@
+Exempted *
+Mandatory
+Mandatory
+Senior Management
+(Whole Time Directors/ Partners/ Trustees/ etc.)
+List
+Mandatory
+Mandatory
+Mandatory
+Proof of Identity
+Exempted *
+Exempted *
+Entity declares* on letter head full name, nationality, date of birth or submits photo identity proof
+Proof of Address
+Exempted *
+Exempted *
+Declaration on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+Authorized
+Signatories
+List and Signatures
+Mandatory – list of Global Custodian signatories can be given in case of PoA to Global Custodian
+Mandatory - list of Global Custodian signatories can be given in case of PoA to Global Custodian
+Mandatory
+Proof of Identity
+Exempted *
+Exempted *
+Mandatory
+Proof of Address
+Exempted *
+Exempted *
+Declaration on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+Ultimate Beneficial Owner (UBO)
+List
+Exempted *
+Mandatory (can declare “no UBO over 25%”)
+Mandatory
+Proof of Identity
+Exempted *
+Exempted *
+Mandatory
+Proof of Address
+Exempted *
+Exempted *
+Declaration on Letter Head *
+Photographs
+Exempted
+Exempted
+Exempted *
+* Not required while opening the bank account. However, FPIs concerned may submit an undertaking that upon demand by Regulators/Law Enforcement Agencies the relative document/s would be submitted to the bank.
+@@ FPIs from certain jurisdictions where the practice of passing Board Resolution for the purpose of opening bank accounts etc. is not in vogue, may submit ‘Power of Attorney granted to Global Custodian/Local Custodian in lieu of Board Resolution’.
+Category
+Eligible Foreign Investors
+I.
+Government and Government related foreign investors such as Foreign Central Banks, Governmental Agencies, Sovereign Wealth Funds, International/ Multilateral Organizations/ Agencies.
+II.
+a) Appropriately regulated broad based funds such as Mutual Funds, Investment Trusts, Insurance /Reinsurance Companies, Other Broad Based Funds etc.
+b) Appropriately regulated entities such as Banks, Asset Management Companies, Investment Managers/ Advisors, Portfolio Managers etc.
+c) Broad based funds whose investment manager is appropriately regulated.
+d) University Funds and Pension Funds.
+e) University related Endowments already registered with SEBI as FII/Sub Account.
+III.
+All other eligible foreign investors investing in India under PIS route not eligible under Category I and II such as Endowments, Charitable Societies/Trust, Foundations, Corporate Bodies, Trusts, Individuals, Family Offices, etc.
+(Lily Vadera)
+Chief General Manager

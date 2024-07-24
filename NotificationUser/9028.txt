@@ -1,0 +1,723 @@
+(178 kb)
+Master Circular - Exposure Norms for Financial Institutions
+RBI/2014-15/78
+DBOD.FID.FIC.No.4/01.02.00/2014-15
+July 1, 2014
+The CEOs of the
+All-India Term-lending and Refinancing Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Dear Sir,
+Master Circular - Exposure Norms for Financial Institutions
+Please refer to the
+Master Circular DBOD.No.FID.FIC.4/01.02.00/2013-14 dated July 01, 2013
+on the captioned subject. The enclosed
+Master Circular
+consolidates and updates all the instructions / guidelines on the subject up to June 30, 2014.
+2. It may be noted that the instructions contained in the Annex 7 have been consolidated in this
+Master Circular
+.
+Yours faithfully,
+(Sudarshan Sen)
+Chief General Manager
+Master Circular - Exposure Norms for Financial Institutions
+Purpose
+To provide a detailed guidance to all-India term-lending and refinancing institutions in the matter of Exposure Norms.
+Previous Instructions
+This master circular consolidates and updates the instructions on the above subject contained in the circulars listed in the Annex 7.
+Application
+To all the all India Financial Institutions viz. Exim Bank, NABARD, NHB and SIDBI.
+Structure
+1.
+Introduction
+2.
+Scope and Applicability
+3.
+Definitions
+3.1 Capital Funds
+3.2 Infrastructure Projects' / 'Infrastructure Lending'
+3.3 'Group' Borrowers
+3.4 Net Owned Funds in respect of NBFCs
+4.
+Exposure Ceilings
+4.1 For Single / Individual Borrowers
+4.2 For Group Borrowers
+4.3 For Bridge Loans / Interim Finance
+4.4 Working Capital Finance
+4.5 Revolving Underwriting Facility
+4.6 Lending to Non Banking Financial Companies (NBFCs)
+4.7 Investment in Debt Securities
+4.8 Investment in Venture Capital Funds (VCF)
+4.9 Cross Holding of Capital among Banks / Financial Institutions
+4.10 Level of Exposure
+4.11 Exposure in respect of Bonds guaranteed by Financial Institutions (FIs)
+4.12 Treatment of Loans granted by the FIs against the Guarantee of Banks
+4.13 Reporting System
+4.14 Consolidated Financial System
+4.15 Disclosures
+Annex - 1
+1. Coverage
+2. Effective Date and Transition Time
+3. Definitions
+4. Regulatory Requirements Internal Assessment and Prudential Limits
+5. Role of the Boards of Directors - Reporting requirement and Trading and Settlement in debt securities
+Annex - 2 : List of Financial Institutions
+Annex - 3 : Prudential Guidelines on Bank's Investment in Venture Capital Funds (VCF)
+Annex - 4 : Prudential Norms for Off-balance Sheet Exposures of Banks / FIs
+Annex - 5 : Definition of infrastructure lending and the list of the items included under infrastructure sector
+Annex – 6: Novation of OTC Derivative Contracts
+Annex - 7 : List of Circulars consolidated in the Master Circular
+Master Circular - Exposure Norms for Financial Institutions
+1. Introduction
+On a review of the credit exposures of the term lending institutions in 1997, it was considered advisable to prescribe credit exposure limits for them in respect of their lending to individual / group borrowers. Accordingly, as a prudential measure, aimed at better risk management and avoidance of concentration of credit risks, it was decided in June 1997 by Reserve Bank of India to limit a term lending institution's exposures to an individual borrower and group borrowers and credit exposure norms were prescribed for them. These norms are to be considered as a part of prudent credit management system and not as a substitute for efficient credit appraisal, monitoring and other safeguards. In respect of existing credit facilities to borrowers which were in excess of the ceilings initially prescribed, term lending institutions were required to take necessary steps to rectify the excess and comply with the stipulations, within a period of one year from June 28, 1997, the date of the first circular, and to bring such cases to the notice of their Board of Directors.
+2. Scope and Applicability
+2.1 The exposure norms are also applicable to the refinancing institutions (viz., NABARD, NHB and SIDBI) but in view of the refinance operations being the core function of these institutions, their refinance portfolio is not subject to these exposure norms. However, from the prudential perspective, the refinancing institutions are well advised to evolve their own credit exposure limits, with the approval of their Board of Directors, even in respect of their refinancing portfolio. Such limits could, inter alia, be related to the capital funds / regulatory capital of the institution. Any relaxation / deviation from such limits, if permitted, should be only with the prior approval of the Board.
+2.2 While computing the extent of exposures to a borrower / borrower group for assessing compliance vis-a-vis the single borrower limit / group borrower limit, exposures where principal and interest are fully guaranteed by the Government of India may be excluded.
+2.3 These norms deal with only the individual borrower and group borrower exposures but not with the sector / industry exposures. The FIs may, therefore, consider fixing internal limits for aggregate commitments to specific sectors e.g., textiles, chemicals, engineering, etc., so that the exposures are evenly spread. These limits should be fixed having regard to the performance of different sectors and the perceived risks. The limits so fixed should be reviewed periodically and revised, if necessary.
+2.4 These stipulations shall apply to all borrowers. However, in so far as public sector undertakings are concerned, only single borrower exposure limit would be applicable.
+2.5 The norms have evolved over the years and various aspects of the credit exposure norms applicable to FIs are detailed in the following paragraphs.
+3. Definitions
+3.1 'Capital Funds'
+The total regulatory capital (i.e., Tier 1 + Tier 2 capital) of the FI, determined as per the capital adequacy norms of RBI applicable to the FIs, as on March 31 (June 30 in case of NHB) of the previous year, would constitute the 'capital funds' for the purpose of exposure norms.
+(The aforesaid definition of 'capital funds' came into force from April 1, 2002. From this date, the exposure ceilings were to be monitored with reference to the revised definition of capital funds as obtaining on March 31, 2002. Prior to that date, the 'capital funds' were defined as (paid up capital + free reserves) as per the published accounts but the reserves created by way of revaluation of fixed assets, etc., were to be excluded.)
+3.2 'Infrastructure Projects' / 'Infrastructure Lending'
+Any credit facility in whatever form extended by the FIs to an infrastructure facility as specified below falls within the definition of "infrastructure lending". In other words, it is a credit facility provided to a borrower company engaged in :
+- developing or
+- operating and maintaining, or
+- developing, operating and maintaining
+any infrastructure facility that is a project in any of the following  sectors :
+i) a road, including toll road, a bridge or a rail system;
+ii) a highway project including other activities being an integral part of the highway project;
+iii) a port, airport, inland waterway or inland port;
+iv) a water supply project, irrigation project, water treatment system, sanitation and sewerage system or solid waste management system;
+v) telecommunication services whether basic or cellular, including radio paging, domestic satellite service (i.e., a satellite owned and operated by an Indian company for providing telecommunication service), network of trunking, broadband network and internet services;
+vi) an industrial park or special economic zone;
+vii) generation or generation and distribution of power;
+viii) transmission or distribution of power by laying a network of new transmission or distribution lines;
+ix) Any other infrastructure facility of similar nature.
+A detailed list of Sub-sectors for “Infrastructure Lending” is at Annex-5
+3.3 'Group' Borrowers
+The concept of "Group" and the task of identification of the borrowers belonging to specific industrial groups is to be based on the perception of the FIs. FIs are, it is observed, generally aware of the basic constitution of their clientele for the purpose of regulating their exposure to risk assets. The group to which a particular borrowing unit belongs should, therefore, be decided by them on the basis of the relevant information available with them, the guiding principle in this regard being commonality of management and effective control.
+3.4 Net Owned Funds in respect of NBFCs
+Net owned Funds will consist of paid up equity capital, free reserves, balance in share premium account and capital reserves representing surplus arising out of sale proceeds of assets but not reserves created by revaluation of assets. From the aggregate of items will be deducted accumulated loss balance and book value of intangible assets, if any, to arrive at owned funds. Investments in shares of other NBFCs and in shares, debentures of subsidiaries and group companies in excess of ten percent of the owned fund mentioned above will be deducted to arrive at the Net Owned Funds. The NOF should be computed on the basis of last audited Balance Sheet and any capital raised after the Balance Sheet date should not be accounted for while computing NOF.
+4. Exposure Ceilings
+4.1 For Single / Individual Borrowers
+The credit exposure to single borrowers shall not exceed 15 per cent of capital funds of the FI. However, the exposure may exceed by additional five percentage points (i.e., up to 20 per cent) provided the additional credit exposure is on account of infrastructure projects. FIs may, in exceptional circumstances, with the approval of their Boards, consider enhancement of the exposure to a borrower up to a further 5 per cent of capital funds (i.e., 25 per cent of capital funds for infrastructure projects and 20 percent for other projects).
+4.2 For Group Borrowers
+The credit exposure to the borrowers belonging to a group shall not exceed 40 per cent of capital funds of the FI. However, the exposure may exceed by additional ten percentage points (i.e., up to 50 per cent) provided the additional credit exposure is on account of infrastructure projects. FIs may, in exceptional circumstances, with the approval of their Boards, consider enhancement of the exposure to a borrower up to a further 5 per cent of capital funds (i.e. 55 percent of capital funds for infrastructure projects and 45 percent for other projects).
+[The exposure ceilings stipulated initially in 1997 were 25 per cent and 50 per cent of the capital funds of the FIs for the individual and group borrowers, respectively. In September 1997, an additional exposure of up to 10 percentage points for the group borrowers (i.e., up to 60 per cent) was permitted provided the additional credit exposure was on account of infrastructure projects (which at that time were narrowly defined as only power, telecommunication, roads and ports). In November 1999, with a view to moving closer to the international standard of 15 per cent exposure ceiling, the individual borrower exposure ceiling was reduced, with effect from April 1, 2000, from 25 per cent to 20 percent of capital funds. The FIs which had, as on October 31, 1999, exposures in excess of the reduced limit of 20 per cent, were permitted to reduce their exposures to the level of 20 per cent latest by October 31, 2001. In June 2001, the exposure ceilings for the individual and group borrowers were reduced from 20 percent and 50 per cent to 15 percent and 40 per cent, respectively, with effect from April1, 2002 , but the additional exposure in respect of group borrowers, of up to 10 percentage points on account of infrastructure projects was continued. In February 2003, an additional exposure of up to five percentage points (i.e., up to 20 percent) on account of infrastructure projects was permitted in respect of individual borrowers also].
+4.3 For Bridge Loans / Interim Finance
+4.3.1 With effect from January 23, 1998, the restriction on grant of bridge loans by the FIs against expected equity flows / issues has been lifted. Accordingly, FIs may grant bridge loan / interim finance to companies other than NBFCs against public issue of equity whether in India or abroad, for which appropriate guidelines should be laid down by the Board of the Financial Institution, as prescribed by RBI. However, FIs should not grant any advance against Rights issue irrespective of the source of repayment of such advance.
+4.3.2 FIs may sanction bridge loans to companies for commencing work on projects pending completion of formalities only against their own commitment and not against loan commitment of any other FIs / Banks. However, FIs may consider sanction of bridge loan / interim finance against commitment made by a financial institution and / or another bank only in cases where the lending institution faces temporary liquidity constraint, subject to certain conditions prescribed by RBI.
+4.3.3 These restrictions are also applicable to the subsidiaries of FIs for which FIs are required to issue suitable instructions to their subsidiaries.
+4.4 Working Capital Finance
+There is no objection to FIs extending working capital finance on a very selective basis to borrowers enjoying credit limits with banks, whether under a consortium or under a multiple banking arrangement, when the banks are not in a position to meet the credit requirements of the borrowers concerned on account of temporary liquidity constraints. The FIs should take into account these guidelines while granting short term loans to borrowers enjoying credit limits with banks on a consortium basis. In case of borrowers whose working capital is financed under a multiple banking arrangement, the FI should obtain an auditor's certificate indicating the extent of funds already borrowed, before considering the borrower for further working capital finance.
+4.5 Revolving Underwriting Facility
+FIs should not extend Revolving Underwriting Facility to Short Term Floating Rate Notes / Bonds or Debentures issued by corporate entities.
+4.6 Lending to Non Banking Financial Companies (NBFCs)
+4.6.1 With effect from May 21, 1997 the quantitative limits in the form of multiples of Net Owned Funds have been removed in respect of aggregate lending by all FIs taken together for Equipment Leasing & Hire Purchase Companies and Loan & Investment Companies which have complied with Reserve Bank's requirement of registration, credit rating and prudential norms and have been certified as such by the Reserve Bank. The overall ceiling for borrowing (up to ten times of NOF) has also been removed for equipment and hire purchase NBFCs which meet the aforesaid three criteria and are also certified by the RBI. However such lending would be subject to compliance with single and group borrower exposure norms.
+4.6.2 For NBFCs which have not complied with the above requirements and the Residuary Non Banking Companies (RNBCs), overall limit of aggregate credit from all FIs taken together is furnished below :
+Sr. No.
+Category of Financial Companies
+Over all Ceiling on Borrowings from all the FIs taken together
+A.
+Equipment Leasing (EL) and Hire Purchase (HP) Finance Companies
+a)
+Registered EL / HP Companies complying with Credit Rating requirement and prudential norms
+No ceiling except in respect of Inter Corporate Deposits (ICDs) subscribed to by FIs which should not be more than 2 times the NOF
+b)
+Registered EL / HP companies complying with either credit rating requirement or the prudential norms
+Ten times the NOF with a sub-ceiling of 2 times of NOF for ICDs
+c)
+Registered EL / HP companies complying with neither the credit rating nor the prudential norms
+Seven times the NOF with a sub-ceiling of 2 times of NOF for ICDs
+d)
+All other EL / HP Companies
+Five times the NOF with a sub-ceiling of 1 times of NOF for ICDs
+B.
+Loan and Investment Companies
+a)
+Registered Loan and investment Companies complying with Credit Rating requirement and prudential norms
+Two times the NOF with a separate ceiling of 2 times the NOF for ICDs
+b)
+Registered Loan and investment Companies complying with either Credit Rating requirement or prudential norms
+Equal to NOF with a separate ceiling of 2 times the NOF for ICDs
+c)
+Registered Loan and investment Companies complying with neither Credit Rating requirement nor prudential norms
+40% of NOF with a separate ceiling of 2 times the NOF for ICDs
+d)
+All other Loan and Investment Companies
+40% of NOF with a separate ceiling of equal to NOF for ICDs
+C.
+Residuary Non Banking Companies
+Equal to NOF
+Fls are also advised not to provide finance to NBFCs for the following activities :
+a) Bills discounted / rediscounted by NBFCs except those arising from sale of commercial vehicles including light commercial vehicles subject to normal lending safeguards;
+b) Investments made by NBFCs in shares, debentures, etc., of a current nature (i.e. stock-in-trade);
+c) Investments of NBFCs in and advances to subsidiaries, group companies or other entities; and
+d) Investments of NBFCs in, and inter-corporate loans / deposits to / in other companies.
+Further, Fls should not sanction bridge loans and loans of a bridging nature in any form to any category of NBFCs (Including RNBCs) including against capital / debenture issues.
+4.7 Investment in Debt Securities
+The total investment in the unlisted debt securities should not exceed 10 per cent of the FIs' total investment in debt securities as given in guidelines for investment in debt securities (Annex 1), as on March 31 (June 30 in case of NHB), of the previous year. However, the investment in the following instruments will not be reckoned as 'unlisted debt securities' for monitoring compliance with the above prudential limits :
+(i) Security Receipts (SRs) issued by Securitisation Companies / Reconstruction Companies registered with RBI in terms of the provisions of the Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest (SARFAESI) Act, 2002; and
+(ii) Asset Backed Securities (ABS) and Mortgage Backed Securities (MBS) which are rated at or above the minimum investment grade.
+4.8 Investment in Venture Capital Funds (VCF)
+FIs are advised to comply with the prudential requirements relating to financing of venture capital funds (VCF) set out at Annex 3.
+4.9 Cross Holding of Capital among Banks / Financial Institutions
+(i) FIs' investment in the following instruments, which are issued by other banks / FIs and are eligible for capital status for the investee bank / FI, should not exceed 10 percent of the investing FI's capital funds (Tier I plus Tier II) :
+a. Equity shares;
+b. Preference shares eligible for capital status;
+c. Subordinated debt instruments;
+d. Hybrid debt capital instruments; and
+e. Any other instrument approved as in the nature of capital.
+FIs should not acquire any fresh stake in a bank's / FI's equity shares, if by such acquisition, the investing FI's holding exceeds 5 percent of the investee bank's / FI's equity capital.
+(ii) FIs' investments in the equity capital of subsidiaries are at present deducted from their Tier I capital for capital adequacy purposes. Investments in the instruments issued by banks / FIs which are listed at paragraph 4.9(i) above, which are not deducted from Tier I capital of the investing FI, will attract 100 percent risk weight for credit risk for capital adequacy purposes.
+4.10 Level of Exposure
+4.10.1 The sanctioned limit or outstanding, whichever is higher, shall be reckoned in respect of the funded as well as non-funded facilities, for arriving at the level of exposure. The "credit exposure" shall include funded and non-funded credit limits, underwriting and other similar commitments. The exposure on account of derivative products should also be reckoned for the purpose.
+4.10.2 In case of term loans, however the level of exposure should be reckoned on the basis of actual outstandings plus undisbursed or undrawn commitments. However, in cases where disbursements are yet to commence, the level of exposure should be reckoned on the basis of the sanctioned limit or the extent up to which the FI has entered into commitments with the borrowing companies in terms of the agreement.
+(Since the inception of the exposure norms, only 50 per cent of the non-funded limits were required to be reckoned for arriving at the level of exposure. However, with effect from April 1, 2003, in tune with the international practice, the funded as well as non-funded exposures are required to be reckoned at 100 per cent value.)
+4.10.3 For the purpose of determining the level of exposure, the following instruments should also be reckoned :
+(i)
+Bonds and Debentures in the Nature of Advance :
+The bonds and debentures should be treated in the nature of advance when :
+- The debenture / bond is issued as part of the proposal for project finance and the tenor of the bond / debenture is for three years and above
+and
+- The FI has a significant stake (i.e., 10% or more) in the issue
+and
+- The issue is a part of private placement i.e., the borrower has approached the FI, and not part of a public issue where the FI has subscribed in response to an invitation.
+(ii)
+Preference Shares in the Nature of Advance :
+The preference shares, other than convertible preference shares, acquired as part of project financing and meeting the criteria as at (i) above.
+(iii)
+Deposits :
+The deposits placed by the FIs with the corporate sector.
+4.10.4 For computing the level of exposure in respect of the NBFCs, the FI's investment in the privately placed debentures should be included while those acquired in the secondary market should be excluded.
+4.10.5
+Prudential Norms for Off-balance Sheet Exposures of FIs
+4.10.5.1 FIs are advised to comply with the prudential requirements relating to Off-balance Sheet Exposures of FIs set out at Annex 4.
+4.10.5.2 Deferment of Option Premium :
+FIs are permitted to defer, at their discretion, the premium on plain vanilla options sold by them to users subject to certain conditions with effect from January 25, 20121. It has now been decided to extend this facility to cost reduction forex option structures in which the liability of the users never exceeds the net premium payable to the bank under any scenario. This facility would be subject to the following conditions :
+(i). FIs should carry out necessary due diligence with regard to the ability of users to adhere to the premium payment schedule, in accordance with their Board approved policy in this regard, before extending this facility to the users.
+(ii). Payment of premium for option structure with maturity of more than 1-year may be deferred, provided the premium payment period does not extend beyond the maturity date of the contract.
+(iii). The premium should be received uniformly over the maturity of the contract and the periodicity of such payment should be at least once in a quarter.
+(iv). This facility should not be allowed for the contracts which are on past performance basis.
+2. Such option structures would continue to be governed by instructions (as amended from time to time) on
+* Suitability and appropriateness as regards structured derivative products laid down in 'Comprehensive Guidelines on Derivatives : Modifications' dated November 2, 2011 issued by Department of Banking Operations and Development, RBI; and
+* Cost Reduction Structures as laid down in Master Circular on 'Risk Management and Inter-Bank Dealings' dated July 2, 2013 issued by Foreign Exchange Department, RBI.
+4.10.5.3 The operational guidance on Novation is enclosed at Annex 6.
+4.10.6
+Measurement of Exposure in Derivative Products
+4.10.6.1 Methodology for Calculation of Replacement Cost
+There are two methods for measuring the credit risk exposure inherent in derivatives, as described below.
+A.
+The Original Exposure Method
+Under this method, which is a simpler alternative, the credit risk exposure of a derivative product is calculated at the beginning of the derivative transaction by multiplying the notional principal amount with the prescribed credit conversion factors. The method, however, does not take account of the ongoing market value of a derivative contract, which may vary over time. In order to arrive at the credit equivalent amount under this method, an FI should apply the following credit conversion factors to the notional principal amounts of each instrument according to the nature of the instrument and its original maturity :
+Original Maturity
+Credit Conversion Factor to be applied to Notional Principal Amount
+Interest Rate Contract
+Exchange Rate Contract
+Less than one year
+0.5%
+2.0%
+One year and less than two years
+1.0%
+5.0% (2% + 3%)
+For each additional year
+1.0%
+3.0%
+B. The Current Exposure Method
+Under this method, the credit risk exposure / credit equivalent amount of the derivative products is computed periodically on the basis of the market value of the product to arrive at its current replacement cost. Thus, the credit equivalent of the off-balance sheet interest rate and exchange rate instruments would be the sum of the following two components:
+(a) the total
+'replacement cost'
+- obtained by "marking-to-market" of all the contracts with positive value (i.e. when the FI has to receive money from the counterparty); and
+(b) an amount for
+'potential future exposure'
+- calculated by multiplying the total notional principal amount of the contract by the following credit conversion factors according to the residual maturity of the contract :
+Residual Maturity
+Conversion Factor to be applied on Notional Principal Amount
+Interest Rate Contract
+Exchange Rate Contract
+Less than one year
+Nil
+1.0%
+One year and over
+0.5%
+5.0%
+Under the current exposure method, the FIs should mark to market the derivative products at least on a monthly basis and they may follow their internal methods for determining the marked-to-market value of the derivative products. However, the FIs would not be required to calculate potential credit exposure for single currency floating / floating interest rate swaps. The credit exposure on these contracts would be evaluated solely on the basis of their mark-to-market value.
+4.10.6.2 The FIs are encouraged to follow, with effect from April 1, 2003, the Current Exposure Method, which is an accurate method of measuring credit exposure in a derivative product, for determining individual / group borrower exposures. In case an FI is not in a position to adopt the Current Exposure Method, it may follow the Original Exposure Method. However, its endeavour should be to move over to Current Exposure Method in course of time.
+Note :
+Under the extant capital adequacy norms, the credit exposure of the FIs in derivative products also gets reflected in the risk-weighted value of the off-balance sheet items in the CRAR computation, for which the 'original exposure method' has been prescribed under the capital adequacy norms. The FIs are, however, encouraged to adopt, with effect from April 1, 2003, the Current Exposure Method for computation of CRAR also.
+4.11 Exposure in respect of bonds guaranteed by Public Financial Institutions (PFIs)
+4.11.1 The investments made by the banks / FIs in the bonds and debentures of corporates which are guaranteed by a FI listed in the Annex 2, will be treated as an exposure of the bank / FI on the FI and not on the corporate. Guarantees issued by a FI to the bonds of the corporates will be treated as an exposure of the FI to the corporate whereas the exposure of the bank / FI on the FI guaranteeing the corporate bond will be to the extent of 100 per cent of the bank's investment. Initially, such exposures of the FI to the corporate were required to be reckoned to the extent of 50 per cent of the value of such guarantees, being non-funded exposure, but with effect from April 1, 2003, such exposure are also required to be reckoned at 100 per cent of the value of such guarantees.
+4.11.2 The FIs are also required to take into account the overall exposure of the guaranteed unit to the financial system before guaranteeing the bonds / debentures.
+4.12 Treatment of Loans granted by the FIs against the Guarantee of Banks / FIs
+4.11.1 The banks / FIs have been permitted to extend guarantees in respect of infrastructure projects in favour of other lending institutions provided the bank issuing the guarantee takes a funded share in the infrastructure project at least to the extent of five per cent of the project cost and undertakes normal credit appraisal, monitoring and follow up of the project. For the purpose of exposure norms, the entire loan transaction should be reckoned as an exposure on the borrowing entity and not on the bank guaranteeing the loan, so as to correctly reflect the degree of credit concentration. In case the funded facility is by way of a term loan, the level of exposure should be reckoned, as indicated below :
+- Before commencement of disbursement, the exposure would be the sanctioned limit or the extent up to which the FI has entered into commitment with the borrowing entity in terms of the agreement, as the case may be;
+- After commencement of disbursement, the exposure would be the aggregate of the outstanding amount plus the undisbursed or undrawn commitment.
+4.13 Reporting System
+An annual review of the implementation of exposure management measures should be placed before the Board of Directors before the end of June every year. A copy of the review should be furnished for information to the Chief General Manager-in-Charge, Department of Banking Supervision, Reserve Bank of India, Central Office, World Trade Centre, Cuffe Parade, Colaba, Mumbai - 400 005.
+4.14 Consolidated Financial System
+As a prudential measure aimed at better risk management and avoidance of concentration of credit risks, in addition to prudential limits on exposure of the solo entities, the FIs at the group-wide level should also adhere to the following prudential limits, on an ongoing basis from the year beginning April 1, 2003 (July 1, 2003 in case of NHB) :
+Single borrower exposures at the group level
+15% of capital funds of the Group.
+Up to 20% of capital funds of the Group provided the additional exposure of up to five percentage points is for the purpose of financing infrastructure projects.
+Group borrower exposures at the group level
+40% of capital funds of the Group.
+Up to 50% of capital funds of the Group provided the additional exposure of up to 10 percentage points is for the purpose of financing infrastructure projects.
+The 'capital funds' of the Group for the purpose of exposure norms would be the same as reckoned for the purpose of group-wide capital adequacy.The measurement of credit exposure at the group level should be done in the same manner as prescribed for the FIs on a solo basis. The definition of infrastructure lending and the list of items included under infrastructure sector are furnished in Annex 5.
+4.15 Disclosures
+The FI should make appropriate disclosures in the 'Notes on account' to the annual financial statements in respect of the exposures where the FI had exceeded the prudential exposure limits during the year.
+Annex - 1
+(Para 4.7)
+Guidelines on Investments by the Select All-India FIs in
+Non-Government Debt Securities
+1. Coverage
+1.1 Investments covered
+1.1.1 These guidelines apply to the FIs' investments in
+debt instruments
+, both in the primary market (public issue as also private placement) as well as the secondary market, in the following categories :
+a) debt instruments issued by companies, banks, FIs and State and Central Government sponsored institutions, SPVs, etc.;
+b) debt instruments / bond issued by Central or State Public Sector Undertakings, with or without government guarantee;
+c) units of debt-oriented schemes of Mutual Funds i.e., the schemes whose major part the corpus is invested in debt securities;
+d) Capital gains bonds and the bonds eligible for priority sector status.
+1.2 Investments not covered
+1.2.1 The guidelines, however,
+do not apply to the following categories of investments
+of the FIs :
+a) government securities and the units of Gilt Funds;
+b) securities which are in the nature of advance under the extant prudential norms of RBI;
+c) units of the equity oriented schemes of Mutual Funds, viz., the schemes wherein a major part of their corpus is invested in equity shares;
+d) units of the "Balanced Funds", which invest in debt as well as equities, provided a major part of the corpus is invested in equity shares. In case of predominance of investments in debt securities by the Fund, these guidelines would be attracted;
+e) Units of venture capital funds and the money market mutual funds;
+f) Commercial Paper; and
+g) Certificates of Deposits.
+2. Effective Date and Transition Time
+While these guidelines came into force with effect from April 1, 2004, considering the time required by the issuers of debt securities to get their existing unlisted debt issues listed on the stock exchanges, the following transition time was provided :
+a) Investment in units of mutual fund schemes where the entire corpus is invested in non-government debt securities would be outside the purview of the above guidelines
+till December 31, 2004
+; thereafter, such investments would also attract these guidelines.
+b) With effect from January 1, 2005, investment in units of such schemes of mutual fund as have an exposure to unlisted debt securities of less than 10 per cent of the corpus of the scheme would be treated on par with listed securities for the purpose of the prudential limits prescribed at para 6 below. Thus,
+till December 31, 2004
+, investments in such units would attract the prudential limits.
+c) With effect from January 1, 2005 only those FIs would be eligible to make
+fresh investments
+(up to the prescribed prudential limits) in the unlisted securities covered in these guidelines whose investments in such securities were within the prudential limits prescribed.
+3. Definitions
+3.1 Rated Security
+A security will be treated as rated if it is subjected to a detailed rating exercise by an external rating agency in India which is registered with SEBI and is carrying a current or valid rating. The rating relied upon will be deemed to be current or valid if :
+i) The credit rating letter relied upon is not more than one month old on the date of opening of the issue, and
+ii) The rating rationale from the rating agency is not more than one year old on the date of opening of the issue, and
+iii) The rating letter and the rating rationale are a part of the offer document.
+iv) In the case of secondary market acquisition, the credit rating of the issue should be in force and confirmed from the monthly bulletin published by the respective rating agency.
+3.2 Unrated Security :
+Securities, which do not have a current or valid rating by an external rating agency, would be deemed as unrated securities.
+3.3 Listed Debt Security :
+It is a security, which is listed on a stock exchange. If not so listed, it is an 'unlisted' debt security.
+3.4 Non performing Investment (NPI) :
+For the limited purpose of these guidelines, an NPI (similar to a non performing advance (NPA) is one where :
+i) In respect of fixed / predetermined income securities, interest / principal / fixed dividend on preference shares (including maturity proceeds) is due and remains unpaid for more than 90 days.
+ii) The equity shares of a company have been valued at Re. 1/- per company, on account of the non-availability of the latest balance sheet (as per the instructions contained in para 26 of the Annexure to circular DBS.FID.No.C-9/01.02.00/2000-01 dated November 9, 2000).
+iii) If any credit facility availed by the issuer of the security is classified as NPA in the books of the FI, investment in any of the securities issued by the same issuer would also be treated as NPI.
+4. Regulatory Requirements Internal Assessment and Prudential Limits
+4.1 Regulatory Requirements
+4.1.1 The FIs must not invest in unrated debt securities but only in rated ones, which carry a minimum investment grade rating from a credit rating agency registered with SEBI.
+4.1.2 The investment grade rating should have been awarded by an external rating agency, operating in India, as identified by the IBA / FIMMDA. The list of such agencies would also be reviewed by IBA / FIMMDA at least once a year.
+4.1.3 The FIs should not invest in debt securities of
+original maturity
+of less than one year other than Commercial Paper and Certificates of Deposit, which are covered under the RBI guidelines.
+4.1.4 The FIs should undertake usual
+due diligence
+in respect of investments in debt securities including the securities which do not attract these guidelines.
+4.1.5 The FIs should ensure that all fresh investments in debt securities are made only in
+listed debt securities
+of companies, which comply with the requirements of the SEBI except to the extent indicated in paragraph 4.3 below.
+4.1.6 The
+unlisted debt securities
+in which the FIs may invest up to the limits specified in paragraph 6 below, should be rated and disclosure requirements as prescribed by the SEBI for listed companies should be followed by the issuer company.
+4.2 Internal Assessments
+4.2.1 Since the debt securities are very often a credit substitute, the FIs would be well advised to :
+(i) subject all their investment proposals relating to debt securities to the same standards of credit appraisal as for their credit proposals, irrespective of the fact that the proposed investments may be in rated securities;
+(ii) make their own internal credit analysis and assign internal rating even in respect of externally rated issues and not to rely solely on the ratings of external rating agencies; and
+(iii) strengthen their internal rating systems which should also include building up of a system of regular (quarterly or half-yearly) tracking of the financial position of the issuer with a view to ensuring continuous monitoring of the rating migration of the issuers / issues.
+4.3 Prudential Limits
+4.3.1 The total investment in the unlisted debt securities should not exceed 10 per cent of the FIs' total investment in debt securities, which fall within the ambit of these guidelines, as on March 31(June 30 in case of NHB), of the previous year. However, the investment in the following instruments will not be reckoned as 'unlisted debt securities' for monitoring compliance with the above prudential limits:
+(iii) Security Receipts (SRs) issued by Securitisation Companies / Reconstruction Companies registered with RBI in terms of the provisions of the Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest (SARFAESI) Act, 2002; and
+(iv) Asset Backed Securities (ABS) and Mortgage Backed Securities (MBS) which are rated at or above the minimum investment grade.
+4.3.2 The FIs which have exposure to investments in debt securities in excess of the prudential limit as on March 31, 2003 (June 30, 2003 in case of NHB) should not make any fresh investment in such securities till they ensure compliance with the above prudential limit.
+4.3.3 As a matter of prudence, the FIs should stipulate, with the approval of the Board, minimum ratings / quality standards and industry-wise, maturity-wise, duration-wise, issuer-wise, etc., exposure limits, for acquiring exposure in debt securities, which fall within the ambit of these guidelines, to address the concentration risk and the risk of illiquidity.
+5. Role of the Boards of Directors - Reporting Requirement and Trading and Settlement in Debt Securities
+5.1 Role of Directors
+5.1.1 The FIs should ensure that their investment policies, duly approved by the Board of Directors, are formulated duly taking into account all the relevant aspects specified in these guidelines. The FIs should put in place proper risk management systems for capturing and analysing the risk in respect of investment in debt securities and for taking timely remedial measures. The FIs should also put in place appropriate systems to ensure that investment in privately placed instruments is made in accordance with the systems and procedures prescribed under the FI's investment policy.
+5.1.2 The Board should put in place a monitoring system to ensure that the prudential limits prescribed in paragraphs 4.3 above are scrupulously complied with, including the system for addressing the breaches, if any, due to rating migration.
+5.1.3 Boards of the FIs should review, twice a year, the following aspects of investment in debt securities covered by these guidelines :
+a) Total turnover (investment and divestment) during the reporting period;
+b) Compliance with the RBI-mandated prudential limits as also those prescribed by the Board for such investments;
+c) Rating migration of the issuers / securities held in the books of the FIs and consequent diminution in the portfolio quality; and
+d) Extent of non-performing investments in the fixed income category.
+5.2 Reporting Requirements
+5.2.1 In order to help in the creation of a central database on private placement of debt, the investing FIs should file a copy of all offer documents with the Credit Information Bureau (India) Ltd. (CIBIL). When the FIs themselves raise debt through private placement, they should also file a copy of the offer document with CIBIL.
+5.2.2 Any default relating to payment of interest / repayment of instalment in respect of any privately placed debt should also be reported to CIBIL by the investing FIs along with a copy of the offer document.
+5.2.3 The FIs should also report to the RBI such particulars in respect of their investments in unlisted securities as may be prescribed by RBI from time to time.
+5.3 Trading and Settlement in Debt Securities
+As per the SEBI guidelines, all trades, with the exception of the spot transactions, in a listed debt security, shall be executed only on the trading platform of a stock exchange. In addition to complying with the SEBI guidelines, the FIs should ensure that all spot transactions in listed and unlisted debt securities are reported on the NDS and settled through the Clearing Corporation of India Limited (CCIL) from a date to be notified by RBI.
+Annex - 2
+( Para 4.11.1)
+List of Public Financial Institutions
+1.
+Industrial Investment Bank of India Ltd.
+2.
+National Housing Bank
+3.
+Small Industries Development Bank of India
+4.
+National Bank for Agriculture and Rural Development.
+5.
+Export-Import Bank of India.
+Annex – 3
+(Para 4.8)
+Prudential Guidelines on Bank's/FI’s Investment in Venture Capital Funds (VCF)
+1. Prudential Exposure Limits
+1.1 All exposures to VCFs (both registered and unregistered) will be deemed to be on par with equity and hence will be reckoned for compliance with the capital market exposure ceilings (ceiling for direct investment in equity and equity linked instruments as well as ceiling for overall capital market exposure).
+1.2 The investment in VCFs set up in the form of companies will be subject to compliance with the provisions of Section 19(2) of Banking Regulation Act 1949 i.e the bank will not hold more than 30% of the paid up capital of the investee company or 30% of its own paid up share capital and reserves, whichever is lower.
+1.3 Besides, investments in VCFs in the form of equity / units etc. will also be subjected to the limits stipulated vide para 3 of Master circular on Para Banking Activities DBOD.FSD.No.10/24.01.001/2005-06 dated July 1, 2005 in terms of which the investment by a bank in a subsidiary company, financial services company, financial institution, stock and other exchanges should not exceed 10 per cent of the bank's paid-up capital and reserves and the investments in all such companies, financial institutions, stock and other exchanges put together should not exceed 20 per cent of the bank's paid-up capital and reserves.
+2. Valuation and classification of FIs' investment in VCFs
+2.1 The quoted equity shares / bonds / units of VCFs in the bank's/FI’s portfolio should be held under Available for Sale (AFS) category and marked to market preferably on a daily basis, but at least on a weekly basis in line with valuation norms for other equity shares as per existing instructions.
+2.2  FIs' investments in unquoted shares / bonds / units of VCFs made after issuance of these guidelines will be classified under Held to Maturity (HTM) category for initial period of three years and will be valued at cost during this period. For the investments made before issuance of these guidelines, the classification would be done as per the existing norms.
+2.3  For this purpose, the period of three years will be reckoned separately for each disbursement made by the bank/FI to VCF as and when the committed capital is called up. However, to ensure conformity with the existing norms for transferring securities from HTM category, transfer of all securities which have completed three years as mentioned above will be effected at the beginning of the next accounting year in one lot to coincide with the annual transfer of investments from HTM category.
+2.4.  After three years, the unquoted units / shares / bonds should be transferred to AFS category and valued as under :
+(i) Units
+In the case of investments in the form of units, the valuation will be done at the Net Asset Value (NAV) shown by the VCF in its financial statements. Depreciation, if any, on the units based on NAV has to be provided at the time of shifting the investments to AFS category from HTM category as also on subsequent valuations which should be done at quarterly or more frequent intervals based on the financial statements received from the VCF. At least once in a year, the units should be valued based on the audited results. However, if the audited balance sheet / financial statements showing NAV figures are not available continuously for more than 18 months as on the date of valuation, the investments are to be valued at Rupee 1.00 per VCF.
+(ii) Equity
+In the case of investments in the form of shares, the valuation can be done at the required frequency based on the break-up value (without considering 'revaluation reserves', if any) which is to be ascertained from the company's (VCF's) latest balance sheet (which should not be more than 18 months prior to the date of valuation). Depreciation, if any on the shares has to be provided at the time of shifting the investments to AFS category as also on subsequent valuations which should be done at quarterly or more frequent intervals. If the latest balance sheet available is more than 18 months old, the shares are to be valued at Rupee.1.00 per company.
+(iii) Bonds
+The investment in the bonds of VCFs, if any, should be valued as per prudential norms for classification, valuation and operation of investment port-folio by FIs issued by RBI from time to time.
+3. Risk Weight and capital charge for market risk for exposures in VCFs
+3.1 Shares and units of VCFs
+Investments in shares / units of VCFs may be assigned 150% risk weight for measuring the credit risk during first three years when these are held under HTM category. When these are held under or transferred to AFS, the capital charge for specific risk component of the market risk as required in terms of the present guidelines on computation of capital charge for market risk, may be fixed at 13.5% to reflect the risk weight of 150%. The charge for general market risk component would be at 9% as in the case of other equities.
+3.2 Bonds of VCFs
+Investments in bonds of VCFs will attract risk weight of 150% for measuring the credit risk during first three years when these are held under HTM category. When the bonds are held under or transferred to AFS category, these would attract specific risk capital charge of 13.5%. The charge for general market risk may be computed as in the case of investment in any other kind of bonds as per existing guidelines
+3.3 Exposures to VCFs other than investments
+The exposures to VCFs other than investments may also be assigned a risk weight of 150%.
+4. Exemption under guidelines relating to non-SLR Securities
+As per extant guidelines relating to non-SLR securities, a bank's investment in unlisted non-SLR securities should not exceed 10 per cent of its total investment in non-SLR securities as on March 31, of the previous year. Further, FIs must not invest in unrated non-SLR securities. The investments in unlisted and unrated bonds of VCFs will be exempted from these guidelines.
+5. RBI approval for Strategic Investments in VCFs by Banks/FIs
+FIs should obtain prior approval of RBI for making strategic investment in VCFs i.e. investments equivalent to more than 10% of the equity / unit capital of a VCF. However, in case of SIDBI the following guidelines will be applicable :
+(i) SIDBI's investment limit to VCF without our prior approval is increased from existing 15% to 20% subject to the proviso that they will maintain a capital charge of 175%. For specific risk where SIDBI's CME is between 20% and 30%, the capital charge will be at 200% and for CME above 30% and upto 40% the capital charge on specific risk will be 225%.
+(ii) SIDBI’s investment in any venture fund may be reckoned as MSME dedicated, as long as the Fund invests at least twice the contribution made by SIDBI or 50% of its funds, whichever is more to MSMEs.
+Annex 4
+(Para  4.10.5.1)
+Prudential Norms for Off-balance Sheet Exposures of FIs
+Please refer to our
+circular DBOD.No.BP.BC.57/21.04.157/2008-09 dated October 13, 2008
+, in terms of which, any change in any of the parameters of a derivative contract is treated as restructuring and the mark-to-market (MTM) value of the contract on the date of restructuring should be cash settled.
+2. There may be situations where the clients of FIs may like to reduce the notional exposure of the hedging derivative contract. In such cases, FIs may partially or fully terminate the contract before maturity, at their discretion, thereby reducing the notional exposure of the contract. This reduction in notional exposure would not be treated as re-structuring of the derivative contract provided all other parameters of the original contract remain unchanged.
+3. In such cases, if the MTM value of the derivative contract is not cash settled, FIs may permit payment in instalments of the crystallized MTM of such derivative contracts (including Forex Forward Contracts), subject to the following conditions :
+(i) FIs should have a Board approved policy in this regard.
+(ii) FIs should permit repayment in instalments only if there is a reasonable certainty of repayment by the client.
+(iii) The repayment period should not extend beyond the maturity date of the contract.
+(iv) The repayment instalments for the crystallized MTM should be uniformly received over the remaining maturity of the contract and its periodicity should be at least once in a quarter.
+(v) If the client is permitted to pay the crystallized MTM in instalments and
+a. if the amount becomes overdue for 90 days from the date of partial / full termination of the derivative contract, the receivable should be classified as NPA.
+b. if the amount becomes overdue for 90 days from the due date of payment of subsequent instalments, the receivable should be classified as NPA.
+(vi) FIs should reverse the entire MTM which has been taken to Profit and Loss account on accrual basis in case of (v) (a) and (v) (b) above. For the accounting of reversed MTM in these cases, FIs should follow an approach similar to the one stipulated in circulars DBOD.No.BP.BC.57/21.04.157/2008-09 dated October 13, 2008 and
+DBOD.No.BP.BC.28/21.04.157/2011-12 dated August 11, 2011
+on 'Prudential Norms for Off-balance Sheet Exposures of FIs'. Accordingly, the crystallized MTM of these derivative contracts should be reversed from Profit and Loss account and credited to another suspense account styled as 'Suspense Account - Crystallised Receivables'.
+4. If the client is not granted the facility of paying the crystallised MTM value in instalments and the amount becomes overdue for 90 days from the date of partial / full termination of the derivative contract, the entire receivable should be classified as NPA and FIs should follow the instructions stipulated in our circulars dated October 13. 2008 and August 11, 2011, referred to above.
+5. There may be cases, where the derivative contract has been terminated, either partially or fully, and crystallized MTM has been permitted to be repaid in instalments but the client subsequently decides to hedge the same underlying exposure again by entering into new contract with same or other bank (provided such re-booking is permissible as per extant RBI guidelines). In such cases, FIs may offer derivative contracts to the client provided the client has fully repaid the entire outstanding instalments corresponding to the derivative contract that was used to hedge the underlying exposure previously.
+Annex 5
+(Para 3.2 & 4.14)
+List of sub-sectors for 'Infrastructure Lending'
+A credit facility extended by lenders (i.e. banks and select All India Term-Lending and Refinancing Institutions) to a borrower for exposure in the following infrastructure sub-sectors will qualify as 'infrastructure lending' with effect from November 25, 2013:
+Category
+Infrastructure sub-sectors
+Transport
+i
+Roads and bridges
+ii
+Ports
+1
+iii
+Inland Waterways
+iv
+Airport
+v
+Railway Track, tunnels, viaducts, bridges
+2
+vi
+Urban Public Transport (except rolling stock in case of urban road transport)
+Energy
+i
+Electricity Generation
+ii
+Electricity Transmission
+iii
+Electricity Distribution
+iv
+Oil pipelines
+v
+Oil / Gas / Liquefied Natural Gas (LNG) storage facility
+3
+vi
+Gas pipelines
+4
+Water & Sanitation
+i
+Solid Waste Management
+ii
+Water supply pipelines
+iii
+Water treatment plants
+iv
+Sewage collection, treatment and disposal system
+v
+Irrigation (dams, channels, embankments etc)
+vi
+Storm Water Drainage System
+vii
+Slurry Pipelines
+Communication
+i
+Telecommunication (Fixed network)
+5
+ii
+Telecommunication towers
+iii
+Telecommunication & Telecom Services
+Social and Commercial Infrastructure
+i
+Education Institutions (capital stock)
+ii
+Hospitals (capital stock)
+6
+iii
+Three-star or higher category classified hotels located outside cities with population of more than 1 million
+iv
+Common infrastructure for industrial parks, SEZ, tourism facilities and agriculture markets
+v
+Fertilizer (Capital investment)
+vi
+Post harvest storage infrastructure for agriculture and horticultural produce including cold storage
+vii
+Terminal markets
+viii
+Soil-testing laboratories
+ix
+Cold Chain
+7
+x
+Hotels with project cost
+8
+of more than Rs.200 crores each in any place in India and of any star rating;
+xi
+Convention Centres with project cost
+8
+of more than Rs.300 crore each.
+1. Includes Capital Dredging
+2. Includes supporting terminal infrastructure such as loading / unloading terminals, stations and buildings
+3. Includes strategic storage of crude oil
+4. Includes city gas distribution network
+5. Includes optic fibre / cable networks which provide broadband / internet
+6. Includes Medical Colleges, Para Medical Training Institutes and Diagnostics Centres
+7. Includes cold room facility for farm level pre-cooling, for preservation or storage of agriculture and allied produce, marine products and meat.
+8. Applicable with prospective effect from the date of this circular and available for eligible projects for a period of three years; Eligible costs exclude cost of land and lease charges but include interest during construction.
+Annex 6
+(Para 4.10.5.3)
+Novation of OTC Derivative Contracts
+1. Novation
+A novation is the replacement of a contract between two counterparties (Transferor
+1
+, who steps out of the existing deal, and Remaining Party
+2
+) to an OTC derivatives transaction with a new contract between Remaining Party and a third party (Transferee
+3
+). Transferee becomes the new counterparty to Remaining Party. The novation can only be done with the prior consent
+4
+of Remaining Party.
+2. Purpose of Novation
+Novation may be used for management of counter-party exposure and counter-party credit risk, to deal with events such as winding-up of business / lines of business by banks and mergers / acquisitions.
+3. Mechanism for Novation
+3.1 Under novation, a tripartite agreement is signed between the three parties - Transferor, Remaining Party and Transferee, wherein Transferee steps into the contract to face Remaining Party and Transferor steps out. The original contract stands extinguished and is replaced by a new contract with identical terms / parameters such as notional amount, maturity date, etc. to the original contract except for the change in counterparty for the Remaining Party.
+3.2 Transferor and Remaining Party are each released from their obligations under the original transaction to each other and their respective rights against each other are cancelled. These rights and obligations identical in their terms to original transaction are reinstated in the new transaction between Remaining Party and Transferee.
+3.3 The novation should result in transfer of counterparty credit risk and market risk arising from the derivative contract from Transferor to Transferee.
+3.4 Under the novation transaction, the amount corresponding to Mark-to-Market value of the derivative contract at the prevailing market rate on novation date should be exchanged between Transferor and Transferee who are actually economically impacted by the transaction. This exchange
+5
+of MTM should be done upfront. There should be no cash-flows for Remaining Party on account of novation transaction.
+3.5 Transferor and Transferee may agree on the charge / fee between them for the transfer of the trade. The fees and their settlement terms may not form part of the novation agreement since these arrangements do not affect the Remaining Party.
+3.6 Any document, which could be related to original contract and underlying exposure, should be transferred from Transferor to Transferee as part of the novation agreement.
+4. Documentation
+The three parties involved may use the standard novation agreement for this purpose.
+5. Other Conditions
+5.1 Transferor FI can novate a derivative contract only after the contract has been held by Transferor in its books for a minimum period of
+* six months for contracts with original maturity of up to one year, and
+* nine months for contracts with original maturity of more than one year.
+However, this condition would not apply in cases where Transferor bank is winding-up the business or put under liquidation.
+5.2 Transferee FI can undertake novation only if Remaining Party is its constituent borrower.
+5.3 Transferee FI should carry out necessary due diligence independently as required under RBI
+circular DBOD.No.BP.BC.44 /21.04.157/2011-12 dated November 2, 2011
+on 'Comprehensive Guidelines on Derivatives : Modifications' and Master Circular on 'Risk Management and Inter-Bank Dealings' issued by Foreign Exchange Department.
+1 a party to a transaction that proposes to transfer, or has transferred, by novation to a transferee all its rights, liabilities, duties and obligations with respect to a remaining party and discharges such remaining party.
+2 a party to a transaction whose consent is required in connection with, or who has consented to, a transferor's transfer by novation and the acceptance thereof by the transferee of all of the transferor's rights, liabilities, duties and obligations with respect to such remaining party.
+3 a party to a transaction that proposes to accept, or has accepted, a transferor's transfer by novation all of the rights, liabilities, duties and obligations of a transferor with respect to a remaining party.
+4 The remaining party would have full discretion and may reject the proposed novation. Such rejection can be on account of credit, operational, accounting or other reasons.
+5 The exact consideration paid may differ from the Mark-to-Market value on account of any balance sheet usage charges that transferee may wish to impose in order to have the derivative transaction on its books for the residual maturity.
+Annex 7
+Part - A
+List of Circulars consolidated by the Master Circular
+No.
+Circular No.
+Date
+Subject
+1.
+FIC.No.187/01.02.00/94-95
+September 26, 1994
+Bridge loan / Interim Finance
+2.
+FIC.No.191/01.02.00/94-95
+September 28, 1994
+Lending to Non-Banking Financial Companies.
+3.
+FIC.No.685/01.02.00/94-95
+April 21, 1995
+Lending to Non Banking Financial Companies
+4.
+FIC.No.684/01.02.00/94-95
+April 21, 1995
+Lending by Financial Institutions - Bridge Loan / Interim Finance
+5.
+FIC.No.183/01.02.01/95-96
+August 18, 1995
+Lending by Financial Institutions - Bridge Loan / Interim Finance
+6.
+FIC.No.235/01.02.00/95-96
+September 13, 1995
+Commitments in respect of Underwriting etc. Obligations
+7.
+FIC.No.432/01.02.00/95-96
+December 2, 1995
+Lending by Financial Institutions - Bridge Loan / Interim Finance - Subsidiaries of FIs
+8.
+FIC.No.851/01.02.00/95-96
+June 26, 1996
+Sanction of Working Capital Credit Facility by Financial Institutions.
+9.
+FIC.No.11/01.02.00/96-97
+April 4, 1997
+Lending by Financial Institutions - Bridge Loan / Interim Finance
+10.
+FIC No.13/02.01.01/96-97
+May 21, 1997
+Lending to Non Banking Financial Companies
+11.
+DOS.FID.No.17/01.02.00/96-97
+June 28, 1997
+Limits on Credit Exposures of Term Lending Institutions to Individual / Group borrowers
+12.
+DOS.FID.No.18/01.02.00/97-98
+September 11, 1997
+Limits on Credit Exposures of Term Lending Institutions to Individual / Group borrowers
+13.
+DOS.FID.No.20/01.02.00/97-98
+December 4, 1997
+Limits on Credit Exposures of Term Lending Institutions to Individual / Group borrowers
+14.
+DBS.FID.No.37/02.01.01/98-99
+January 11, 1999
+Lending to Non Banking Financial Companies
+15.
+DBS.FID.No.C-7/01.02.00/99-2000
+November 13, 1999
+Credit Exposure Norms for Individual Borrowers
+16.
+DBS.FID.No.C-26/01.02.00/2000-2001
+June 20, 2001
+Monetary and Credit Policy Measures 2001-2002 - Credit Exposure Norms
+17.
+DBS.FID.No.C-3/01.02.00/2001-2002
+August 27, 2001
+Credit Exposure Norms - Applicability to Refinancing Institutions
+18.
+DBS.FID.No.C-12/01.02.00/2002-03
+January 20, 2003
+Credit Exposure Norms - Measurement of Credit Exposure of Derivative Products - Methodology for Measurement
+19.
+DBS.FID.No.C-11/01.02.00/2003-04
+January 8, 2004
+Final Guidelines on investment by the FIs in debt securities
+20.
+DBS.FID.No.C-1/01.02.00/2004-05
+July 26, 2004
+Annual Policy Statement for the year 2004-05 - Prudential Credit Exposure Limits by FIs
+21.
+DBOD.No.FID.FIC.4/01.02.00/2007-08
+July 02, 2007
+Master Circular - Exposure Norms for Financial Institutions
+Part - B
+List of other Circulars containing Instructions related / relevant to
+Exposure Norms incorporated in the Master Circular
+No.
+Circular No.
+Date
+Subject
+1.
+IECD.No.7/CMD.GA/Gen/91-92
+July 29, 1991
+Group Accounts
+2.
+FIC.No.337/01.02.00/95-96
+November 3, 1995
+Lending by Financial Institutions - Bridge Loan / Interim Finance
+3.
+DBS.FID.No.24/02.01.00/97-98
+January 23, 1998
+Lending by Financial Institutions - Bridge Loan / Interim Loan
+4.
+DBS.FID.No.35/01.02.00/98-99
+December 3, 1998
+Strengthening of Prudential Norms
+5.
+DBS.FID.No.507/01.02.00/98-99
+January 2, 1999
+Strengthening of Prudential Norms - Risk Weight on Banks' Investments in Bonds / Securities Issued by Financial Institutions.
+6.
+DBS.FID.No.C-6/01.02.00/2001-2002
+October 16, 2001
+Guidelines for Classification and Valuation of Investments
+7.
+DBS.FID.No.C-5/01.02.00/2002-03
+August 8, 2002
+Capital Adequacy and Credit Exposure Norms - Treatment of Loans Granted by FIs Against the Guarantee of Banks
+8.
+DBOD.No.BP.BC.67/21.04.048/2002-03
+February 4, 2003
+Guidelines on Infrastructure Financing
+9.
+DBS.FID.No.C-5/01.02.00/2003-04
+August 1, 2003
+Guidelines for Consolidated Accounting and Consolidated Supervision
+10.
+DBOD.BP.BC.No.3/21.01.002/2004-05
+July 6, 2004
+Cross holding of capital among banks / financial institutions
+11.
+DBOD.FID.FIC.No.9/01.02.00/2010-11
+December 1, 2010
+Prudential Guidelines - Investment in Venture Capital Funds (VCFs)
+12.
+DBOD.No.BP.BC.31/21.04.157/2012-13
+July 23, 2012
+Prudential Norms for Off-balance Sheet Exposures of Banks
+13.
+DBOD.BP.BC.No.58/08.12.014/2012-13
+November 20,.2012
+Second Quarter Review of Monetary Policy 2012-13- Definition of 'Infrastructure Lending'
+14.
+DBOD.No.BP.BC.102/21.04.157/2012-13
+June 18 , 2013
+Prudential Norms for Off-balance Sheet Exposures of Banks - Deferment of Option Premium
+15
+DBOD.BP.BC.No.66/08.12.014/2013-14
+November 25, 2013
+Financing of Infrastructure - Definition of 'Infrastructure Lending'
+16
+DBOD.No.BP.BC.76/21.04.157/2013-14
+December 9, 2013
+Novation of OTC Derivative Contracts

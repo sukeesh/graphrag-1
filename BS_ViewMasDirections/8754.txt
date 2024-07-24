@@ -1,0 +1,180 @@
+(155 kb)
+Framework for Revitalising Distressed Assets in the Economy – Guidelines on Joint Lenders’ Forum (JLF) and Corrective Action Plan (CAP)
+RBI/2013-14/503
+DBOD.BP.BC.No.97/21.04.132/2013-14
+February 26, 2014
+All Scheduled Commercial Banks 
+        (excluding RRBs)
+All-India Term-lending and Refinancing  Institutions
+(Exim Bank, NABARD, NHB and SIDBI)
+Dear Sir,
+Framework for Revitalising Distressed Assets in the Economy – Guidelines  on
+Joint Lenders’ Forum (JLF) and Corrective Action Plan (CAP)
+Please refer to the Framework for Revitalising Distress Assets in the  Economy placed on our website on
+January  30, 2014
+. Accordingly, detailed guidelines on formation of Joint Lenders’  Forum (JLF) and adoption of Corrective Action Plan (CAP) for operationalizing  the above Framework are given below. These guidelines will be applicable for  lending under Consortium and Multiple Banking Arrangements (MBA) [except  instructions in paragraphs 2.1, 7.1, 8 & 9, which will be applicable in all  cases of lending], and should be read with our latest
+Master  Circular
+on ‘Income Recognition, Asset Classification and Provisioning  Pertaining to Advances’ and any other instruction issued in this regard from  time to time.
+2. Formation of Joint Lenders’ Forum
+2.1  As proposed in paragraph 2.1.1 of the Framework, before a loan account turns into a NPA, banks are required to identify incipient stress in the  account by creating three sub-categories under the Special Mention Account (SMA
+1
+)  category as given in the table below:
+SMA Sub-categories
+Basis for classification
+SMA-0
+Principal or    interest payment not overdue for more than 30 days but account showing signs of incipient stress (Please see
+Annex
+)
+SMA-1
+Principal or    interest payment overdue between 31-60 days
+SMA-2
+Principal or    interest payment overdue between 61-90 days
+2.2 It was also proposed in the Framework  that the Reserve Bank of India (RBI) will set up a Central Repository of  Information on Large Credits (CRILC) to collect, store, and disseminate credit  data to lenders. Accordingly, our Department of Banking Supervision (DBS) has  advised vide
+circular DBS.No.OSMOS.9862/33.01.018/2013-14 dated February  13, 2014
+on ‘Central Repository of Information on Large Credits (CRILC) –  Revision in Reporting’ that banks will be required to report credit  information, including classification of an account as SMA to CRILC on all  their borrowers having aggregate fund-based and non-fund based exposure of  Rs.50 million and above with them.
+2.3 Banks are advised that as soon as an  account is reported by any of the  lenders to CRILC as SMA-2, they should mandatorily form a committee to be  called Joint Lenders’ Forum (JLF) if the aggregate exposure (AE) [fund based  and non-fund based taken together] of lenders in that account is Rs 1000  million and above. Lenders also have the option of forming a JLF even when the  AE in an account is less than Rs.1000 million and/or when the account is  reported as SMA-0 or SMA-1.
+2.4 While the existing Consortium Arrangement for consortium accounts  will serve as JLF with the Consortium Leader as convener, for accounts  underMultiple Banking Arrangements (MBA), the lender with the highest AE  will convene JLF at the earliest and facilitate exchange of credit information  on the account. In case there are multiple consortium of lenders for a borrower  (e.g. separate consortium for working capital and term loans), the lender with  the highest AE will convene the JLF.
+2.5  It is possible that a borrower may request the lender/s, with substantiated  grounds, for formation of a JLF on account of imminent stress. When such a  request is received by a lender, the account should be reported to CRILC as  SMA-0, and the lenders should also form the JLF immediately if the AE is Rs.  1000 million and above. It is, however, clarified that for the present, JLF  formation is optional in other cases of SMA-0 reporting.
+2.6  All the lenders should formulate and sign an Agreement (which may be called JLF  agreement) incorporating the broad rules for the functioning of the JLF.  The Indian Banks’ Association (IBA) would prepare a Master JLF agreement and  operational guidelines for JLF which could be adopted by all lenders. The JLF  should explore the possibility of the borrower setting right the  irregularities/weaknesses in the account. The JLF may invite representatives of  the Central/State Government/Project authorities/Local authorities, if they have  a role in the implementation of the project financed.
+2.7  While JLF formation and subsequent corrective actions will be mandatory in  accounts having AE of Rs.1000 million and above, in other cases also the  lenders will have tomonitor the asset quality closely and take corrective  action for effective resolution as deemed appropriate.
+3  Corrective Action Plan (CAP) by JLF
+3.1  The JLF may explore various options to resolve the stress in the account. The  intention is not to encourage a particular resolution option, e.g.  restructuring or recovery, but to arrive at an early and feasible solution to  preserve the economic value of the underlying assets as well as the lenders’  loans. The options under Corrective Action Plan (CAP) by the JLF would  generally include:
+(a)  Rectification -
+Obtaining a specific commitment  from the borrower to regularise the account so that the accountcomes out  of SMA status or does not slip into the NPA category. The commitment should be  supported with identifiable cash flows within the required time period and  without involving any loss or sacrifice on the part of the existing lenders. If  the existing promoters are not in a position to bring in additional money or  take any measures to regularise the account, the possibility of getting some  other equity/strategic investors to the company may be explored by the JLF in  consultation with the borrower. These measures are intended to turn-around the  entity/company without any change in terms and conditions of the loan. The JLF  may also consider providing need based additional finance to the borrower, if  considered necessary, as part of the rectification process. However, it should  be strictly ensured that additional financing is not provided with a view to  ever-greening the account.
+(b)  Restructuring -
+Consider the possibility of  restructuring the account if it is prima facie viable and the borrower is not a  wilful defaulter, i.e., there is no diversion of funds, fraud or malfeasance,  etc. At this stage, commitment from promoters for extending their  personal guarantees along with their net worth statement supported by copies of  legal titles to assets may be obtained along with a declaration that they would  not undertake any transaction that would alienate assets without the permission  of the JLF. Any deviation from the commitment by the borrowers affecting the  security/recoverability of the loans may be treated as a valid factor for  initiating recovery process. For this action to be sustainable, the lenders in  the JLF may sign an Inter Creditor Agreement (ICA) and also require the  borrower to sign the Debtor Creditor Agreement (DCA) which would provide the  legal basis for any restructuring process. The formats used by the Corporate  Debt Restructuring (CDR) mechanism for ICA and DCA could be considered, if  necessary with appropriate changes. Further, a ‘stand still’
+2
+clause could be stipulated in the DCA to enable a smooth process of  restructuring. The ‘stand-still’ clause does not mean that the borrower is  precluded from making payments to the lenders. The ICA may also stipulate that  both secured and unsecured creditors need to agree to the final resolution.
+(c)  Recovery -
+Once the first two options at (a)  and (b) above are seen as not feasible, due recovery process may be resorted  to. The JLF may decide the best recovery process to be followed, among the  various legal and other recovery options available, with a view to optimising  the efforts and results.
+3.2  The decisions agreed upon by a minimum of 75% of creditors by value and 60% of  creditors by number in the JLF would be considered as the basis for proceeding  with the restructuring of the account,  and will be binding on all lenders under the terms of the ICA. However, if the  JLF decides to proceed with recovery, the minimum criteria for binding  decision, if any, under any relevant laws/Acts would be applicable.
+3.3  The JLF is required to arrive at an agreement on the option to be adopted for  CAP within 30 days from (i) the date of an account being reported as SMA-2 by  one or more lender, or (ii) receipt of request from the borrower to form a JLF,  with substantiated grounds, if it senses imminent stress. The JLF should sign  off the detailed final CAP within the next 30 days from the date of arriving at  such an agreement.
+3.4  If the JLF decides on options 3.1 (a) or (b), but the account fails to perform  as per the agreed terms under option (a) or (b), the JLF should initiate  recovery under option 3.1 (c).
+4. Restructuring Process
+4.1 RBI’s extant prudential guidelines on  restructuring of advances lay down detailed methodology and norms for  restructuring of advances under sole banking as well as multiple/ consortium  arrangements. Corporate Debt Restructuring (CDR) mechanism is an institutional  framework for restructuring of multiple/ consortium advances of banks where  even creditors who are not part of CDR system can join by signing transaction  to transaction based agreements.
+4.2 If the JLF decides  restructuring of the account as CAP, it will have the option of either  referring the account to CDR Cell after a decision to restructure is taken  under para 3.1 as indicated above or restructure the same independent of the  CDR mechanism.
+4.3 Restructuring by JLF
+4.3.1 If the JLF decides to  restructure an account independent of the CDR mechanism, the JLF should carry  out the detailed Techno-Economic Viability (TEV) study, and if found viable,  finalise the restructuring package within 30 days from the date of signing off  the final CAP as mentioned in paragraph 3.3 above.
+4.3.2 For accounts with AE  of less than Rs.5000 million, the above-mentioned restructuring package should  be approved by the JLF and conveyed by the lenders to the borrower within the  next 15 days for implementation.
+4.3.3 For accounts with AE  of Rs.5000 million and above, the above-mentioned TEV study and restructuring  package will have to be subjected to an evaluation by an Independent Evaluation  Committee (IEC)
+3
+of  experts fulfilling certain eligibility conditions. The IEC will look into the viability  aspects after ensuring that the terms of restructuring are fair to the lenders. The IEC will be required  to give their recommendation in these cases to the JLF within a period of 30  days. Thereafter, considering the views  of IEC if the JLF decides to go ahead with the restructuring, the restructuring  package including all terms and conditions as mutually agreed upon between the  lenders and borrower, would have to be approved by all the lenders and  communicated to the borrower within next 15 days for implementation.
+4.3.4 Asset Classification  benefit as applicable under the extant guidelines will accrue to such  restructured accounts as if they were restructured under CDR mechanism. For  this purpose, the asset classification of the account as on the date of  formation of JLF will be taken into account.
+4.3.5 The above-mentioned  time limits are maximum permitted time periods and the JLF should try to arrive  at a restructuring package as soon as possible in cases of simple  restructuring.
+4.3.6 Restructuring cases will be taken up by the JLF only in respect of assets 
+        reported as Standard, SMA or Sub-Standard by one or more lenders of the JLF. 
+        While generally no account classified as doubtful should be considered by the JLF 
+        for restructuring, in cases where a small portion of debt is doubtful i.e. the account is 
+        standard/sub-standard in the books of at least 90% of creditors (by value), the 
+      account may then be considered under JLF for restructuring.
+4.3.7 Wilful defaulters will normally not be eligible for restructuring.  However, the JLF may review the reasons for classification of the borrower as a  wilful defaulter and satisfy itself that the borrower is in a position to  rectify the wilful default. The decision to restructure such cases should  however also have the approvals of the board/s of individual bank/s within the  JLF who have classified the borrower as wilful defaulter.
+4.3.8  The viability of the account should be determined by the JLF based on  acceptable viability benchmarks determined by them. Illustratively, the  parameters may include the Debt Equity Ratio, Debt Service Coverage Ratio,  Liquidity/Current Ratio and the amount of provision required in lieu of the  diminution in the fair value of the restructured advance, etc. Further, the JLF  may consider the benchmarks for the viability parameters adopted by the CDR  mechanism (as mentioned in Appendix to the
+circular No.DBOD.BP.BC.No.99/21.04.132/2012-13 dated May  30, 2013
+on ‘Review  of Prudential Guidelines on Restructuring of Advances by Banks and Financial  Institutions’) and adopt the same with suitable adjustments taking  into account the fact that different sectors of the economy have different  performance indicators.
+4.4 Restructuring Referred by the JLF  to the CDR Cell
+4.4.1 If the JLF decides to refer the account to CDR Cell after a  decision to restructure is taken under para 3.1, the following procedure may be  followed.
+4.4.2 As the preliminary viability of account has already been decided  by the JLF, CDR Cell should directly prepare the Techno-Economic Viability  (TEV) study and restructuring plan in consultation with JLF within 30 days from  the date of reference to it by the JLF.
+4.4.3 For accounts with AE of less than Rs.5000 million, the  above-mentioned restructuring package should be submitted to CDR Empowered  Group (EG) for approval. Under extant instructions, CDR EG can approve or  suggest modifications but ensure that a final decision is taken within a total  period of 90 days, which can be extended up to a maximum of 180 days from the  date of reference to CDR Cell. However, the cases referred to CDR Cell by JLF  will have to be finally decided by the CDR EG within the next 30 days. If  approved by CDR EG, the restructuring package should be approved by all lenders  and conveyed to the borrower within the next 30 days for implementation.
+4.4.4 For accounts with AE of Rs.5000  million and above, the TEV study and restructuring package prepared by CDR Cell  will have to be subjected to an evaluation by an Independent Evaluation  Committee (IEC)of experts. As stated in paragraph 4.3.3, composition and other details of the IEC would be communicated separately by IBA  to banks. The  IEC will look into the viability aspects after ensuring that the terms of  restructuring are fair to the lenders. The IEC will be required to give their  recommendation in these aspects to the CDR Cell under advice to JLF within a  period of 30 days. Thereafter, considering the views of IEC if the JLF decides  to go ahead with the restructuring, the same should be communicated to CDR Cell  and CDR Cell should submit the restructuring package to CDR EG within a total  period of 7 days from receiving the views of IEC. Thereafter, CDR EG should  decide on the approval/modification/rejection within the next 30 days. If  approved by CDR EG, the restructuring package should be approved by all lenders  and conveyed to the borrower within the next 30 days for implementation.
+5. Other Issues/Conditions Relating to Restructuring by JLF/CDR  Cell
+5.1 Both under JLF and CDR mechanism, the restructuring package should  also stipulate the timeline during which certain viability milestones  (e.g.improvement in certain financial ratios after a period of time, say,  6 months or 1 year and so on) would be achieved. The JLF must periodically  review the account for achievement/non-achievement of milestones and should  consider initiating suitable measures including recovery measures as deemed  appropriate.
+5.2 Restructuring whether  under JLF or CDR is to be completed within the specified time periods. The JLF  and CDR Cell should optimally utilise the specified time periods so that the  aggregate time limit is not breached under any mode of restructuring. If the  JLF/CDR takes a shorter time for an activity as against the prescribed limit,  then it can have the discretion to utilise the saved time for other activities  provided the aggregate time limit is not breached.
+5.3 The general principle of restructuring should be that the  shareholders bear the first loss rather than the debt holders. With this  principle in view and also to ensure more ‘skin in the game’ of promoters,  JLF/CDR may consider the following options when a loan is restructured:
+Possibility of transferring equity       of the company by promoters to the lenders to compensate for       their sacrifices;
+Promoters infusing more       equity into their companies;
+Transfer of the       promoters’ holdings to a security trustee or an escrow arrangement till       turnaround of company. This will enable a change in management control,       should lenders favour it.
+5.4  In case a borrower has undertaken diversification or expansion of the  activities which has resulted in the stress on the core-business of the group,  a clause for sale of non-core assets or other assets may be stipulated as a  condition for restructuring the account, if under the TEV study the account is  likely to become viable on hiving-off of non-core activities and other  assets.
+5.5  For restructuring of dues in respect of listed companies, lenders may be  ab-initio compensated for their loss/sacrifice (diminution in fair value of  account in net present value terms) by way of issuance of equities of the  company upfront, subject to the extant regulations and statutory requirements.  In such cases, the restructuring agreement shall not incorporate any right of  recompense clause. However, if the lenders’ sacrifice is not fully compensated  by way of issuance of equities, the right of recompense clause may be  incorporated to the extent of shortfall. For unlisted companies, the JLF will  have option of either getting equities issued or incorporate suitable ‘right to  recompense’ clause.
+5.6  Paragraph 2.2 of our
+circular DBOD.No.Dir.BC.47/13.07.05/2006-07 dated December  15, 2006
+on ‘Limits on Banks’ Exposure to Capital Markets’ stipulates certain  limits on banks’ exposure to Capital Markets. In partial modification of the  circular ibid, it has been decided that if acquisition of equity shares, as  indicated in paragraph 5.5 above, results in exceeding the extant regulatory  Capital Market Exposure (CME) limit, the same will not be considered as a  breach of regulatory limit. However, this will require reporting to RBI and  disclosure by banks in the Notes to Accounts in Annual Financial Statements.
+5.7 In order to distinguish the differential security interest available  to secured lenders, partially secured lenders and unsecured lenders, the  JLF/CDR could consider various options like:
+Prior agreement in the ICA among the above       classes of lenders regarding repayments, say, as per an agreed waterfall       mechanism;
+A structured agreement       stipulating priority of secured creditors;
+Appropriation of       repayment proceeds among secured, partially secured and unsecured lenders       in certain pre-agreed proportion.
+The  above is only an illustrative list and the JLF may decide on a mutually agreed  option. It also needs to be emphasised that while one bank may have a better  security interest when it comes to one borrower, the case may be vice versa in  the case of another borrower. So, it would be beneficial if lenders appreciate  the concerns of fellow lenders and arrive at a mutually agreed option with a  view to preserving the economic value of assets. Once an option is agreed upon,  the bank having the largest exposure may take the lead in ensuring distribution  according to agreed terms once the restructuring package is implemented.
+5.8 As regards prudential norms and operational details,  RBI’s guidelines on CDR Mechanism, including OTS, will be applicable to the  extent that they are not inconsistent with these guidelines.
+6. Prudential Norms on Asset Classification and Provisioning
+6.1 While a restructuring proposal is under consideration by the  JLF/CDR, the usual asset classification norm would continue to apply. The  process of re-classification of an asset should not stop merely because  restructuring proposal is under consideration by the JLF/CDR.
+6.2 However, as an incentive for quick implementation of a restructuring  package, the special asset classification benefit on restructuring of accounts  as per extant instructions would be available for accounts undertaken for  restructuring under these guidelines, subject to adherence to the overall  timeframe for approval of restructuring package detailed in paragraphs 4.3 and  4.4 above and implementation of the approved package within 90 days from the  date of approval. The asset classification status as on the date of formation  of JLF would be the relevant date to decide the asset classification status of  the account after implementation of the final restructuring package. As advised  to banks vide RBI circular dated May 30, 2013, the special asset classification  benefit as above will however be withdrawn for all restructurings with effect  from April 1, 2015 with the exception of provisions related to changes in Date  of Commencement of Commercial Operations (DCCO) in respect of infrastructure  and non-infrastructure project loans.
+6.3 As a measure to ensure adherence to the proposals made in these  guidelines as also to impose disincentives on borrowers for not maintaining  credit discipline, accelerated provisioning norms (as detailed in paragraph 7  below) are being introduced.
+7. Accelerated Provisioning
+7.1 In cases where banks fail to report SMA status of the accounts to  CRILC or resort to methods with the intent to conceal the actual status of the  accounts or evergreen the account, banks will be subjected to accelerated  provisioning for these accounts and/or other supervisory actions as deemed  appropriate by RBI. The current provisioning requirement and the revised  accelerated provisioning in respect of such non performing accounts are as  under:
+Asset Classification
+Period as NPA
+Current provisioning (%)
+Revised accelerated provisioning (%)
+Sub- standard
+(secured)
+Up to 6 months
+15
+No change
+6 months to 1    year
+15
+25
+Sub-standard    (unsecured ab-initio)
+Up to 6 months
+25 (other than    infrastructure loans)
+25
+20    (infrastructure loans)
+6 months to 1    year
+25 (other than    infrastructure loans)
+40
+20 (infrastructure loans)
+Doubtful I
+2nd year
+25 (secured portion)
+40 (secured    portion)
+100 (unsecured    portion)
+100 (unsecured portion)
+Doubtful II
+3rd&    4th year
+40 (secured portion)
+100 for both    secured and unsecured portions
+100 (unsecured    portion)
+Doubtful III
+5th year    onwards
+100
+100
+7.2  Further, any of the lenders who have agreed to the restructuring decision under  the CAP by JLF and is a signatory to the ICA and DCA, but changes their stance  later on, or delays/refuses to implement the package, will also be subjected to  accelerated provisioning requirement as indicated at para 7.1 above, on their  exposure to this borrower i.e., if it is classified as an NPA. If the account  is standard in those lenders’ books, the provisioning requirement would be 5%.  Further, any such backtracking by a lender might attract negative supervisory  view during Supervisory Review and Evaluation Process.
+7.3  Presently, asset classification is based on record of recovery at individual  banks and provisioning is based on asset classification status at the level of  each bank. However, if lenders fail to convene the JLF or fail to agree  upon a common CAP within the stipulated time frame, the account will be  subjected to accelerated provisioning as indicated at para 7.1 above, if it is  classified as an NPA. If the account is standard in those lenders’ books, the  provisioning requirement would be 5%.
+7.4 If an escrow maintaining bank under JLF/CDR mechanism does not  appropriate proceeds of repayment by the borrower among the lenders as per  agreed terms resulting into down gradation of asset classification of the  account in books of other lenders, the account with the escrow maintaining bank  will attract the asset classification which is lowest among the lending member  banks, and corresponding provisioning requirement.
+8. Wilful Defaulters and Non-Cooperative Borrowers
+8.1 Instructions regarding treatment of Wilful  Defaulters are contained in our
+Master Circular DBOD No. CID.BC. 3 /20.16.003/2013-14  dated July 1, 2013
+on ‘Wilful Defaulters’. Banks are required to  strictly adhere to these guidelines. In addition to these instructions and with  a view to ensuring better corporate governance structure in companies and  ensuring accountability of independent/professional directors, promoters,  auditors, etc. henceforth, the following prudential measures will be  applicable:
+(a) The  provisioning in respect of existing loans/exposures of banks to companies  having director/s (other than nominee directors of government/financial  institutions brought on board at the time of distress), whose name/s appear  more than once in the list of wilful defaulters, will be 5% in cases of  standard accounts; if such account is classified as NPA, it will attract  accelerated provisioning as indicated at para 7.1 above. This is a prudential  measure since the expected losses on exposures to such borrowers are likely to  be higher.It is reiterated that no additional facilities should be  granted by any bank/FI to the listed wilful defaulters, in terms of paragraph  2.5 (a) of Master Circular on Wilful Defaulters dated July 1, 2013.
+(b)  With a view to discouraging borrowers/defaulters from being unreasonable and  non-cooperative with lenders in their bonafide resolution/recovery efforts,  banks may classify such borrowers as non-cooperative borrowers
+4
+,  after giving them due notice if satisfactory clarifications are not furnished.  Banks will be required to report classification of such borrowers to CRILC.  Further, banks will be required to make higher/accelerated provisioning in  respect of new loans/exposures to such borrowers as also new loans/exposures to  any other company promoted by such promoters/ directors or to a company on  whose board any of the promoter / directors of this non-cooperative borrower is  a director. The provisioning applicable in such cases will be at the rate of 5%  if it is a standard account and accelerated provisioning as per para 7.1 above,  if it is an NPA. This is a prudential measure since the expected losses on  exposures to such non-cooperative borrowers are likely to be higher.
+9.  Dissemination of Information
+9.1 At present, the list of Suit filed accounts of  Wilful Defaulters (Rs.2.5 million and above) is submitted by banks to the  Credit Information Companies (CICs) of which they are member(s), who display  the same on their respective websites as and when received. The list of  non-suit filed accounts of Wilful Defaulters (Rs.2.5 million and above) is  confidential and is disseminated by RBI among banks and FIs only for their own  use. In order to make the current system of banks/FIs reporting names of suit  filed accounts and non-suit filed accounts of Wilful Defaulters and its  availability to the banks by CICs/RBI as current as possible, banks are advised  to forward data on wilful defaulters to the CICs/Reserve Bank at the earliest  but not later than a month from the reporting date and they must use/ furnish  the detailed information as per the format prescribed in our Master Circular  DBOD.No.CID.BC.3/20.16.003/2013-14 dated July 1, 2013 on ‘Wilful Defaulters’.
+9.2 In  terms of our Master Circular on Wilful Defaulters mentioned above, in case any falsification of  accounts on the part of the borrowers is observed by the banks / FIs, and if it  is observed that the auditors were negligent or deficient in conducting the  audit, banks should lodge a formal complaint against the auditors of the  borrowers with the Institute of Chartered Accountants of India (ICAI) to enable  the ICAI to examine and fix accountability of the auditors. RBI reiterates  these instructions for strict compliance. Pending  disciplinary action by ICAI, the complaints may also be forwarded to the RBI  (Department of Banking Supervision, Central Office) and IBA for records. IBA  would circulate the names of the CA firms against whom many complaints have  been received amongst all banks who should consider this aspect before  assigning any work to them. RBI would also share such information with other  financial sector regulators/Ministry of Corporate Affairs (MCA)/Comptroller and  Auditor General (CAG).
+9.3  Further, banks may seek explanation from advocates who wrongly certify as to  clear legal titles in respect of assets or valuers who overstate the security  value, by negligence or connivance, and if no reply/satisfactory clarification  is received from them within one month, they may report their names to IBA. The  IBA may circulate the names of such advocates/valuers among its members for  consideration before availing of their services in future.The IBA would  create a central registry for this purpose.
+10.  These guidelines will be effective from April 1, 2014.
+Yours faithfully,
+(Rajesh Verma)
+Chief General Manager
+Annex
+SMA-0 Signs of Stress
+Illustrative  list of signs of stress for categorising an account as SMA-0:
+1.  Delay of 90 days or more in (a) submission of stock statement / other  stipulated operating control statements or (b) credit monitoring or financial  statements or (c) non-renewal of facilities based on audited financials.
+2.  Actual sales / operating profits falling short of projections accepted for loan  sanction by 40% or more; or a single event of non-cooperation / prevention from  conduct of stock audits by banks; or reduction of Drawing Power (DP) by 20% or  more after a stock audit; or evidence of diversion of funds for unapproved  purpose; or drop in internal risk rating by 2 or more notches in a single  review.
+3.  Return of 3 or more cheques (or electronic debit instructions) issued by  borrowers in 30 days on grounds of non-availability of balance/DP in the  account or return of 3 or more bills / cheques discounted or sent under  collection by the borrower.
+4.  Devolvement of Deferred Payment Guarantee (DPG) instalments or Letters of  Credit (LCs) or invocation of Bank Guarantees (BGs) and its non-payment within  30 days.
+5.  Third request for extension of time either for creation or perfection of  securities as against time specified in original sanction terms
+or
+for  compliance with any other terms and conditions of sanction.
+6.  Increase in frequency of overdrafts in current accounts.
+7.  The borrower reporting stress in the business and financials.
+8.  Promoter(s) pledging/selling their shares in the borrower company due to  financial stress.
+1
+‘Special Mention Account’ (SMA) was introduced in terms of
+RBI Circular No.  DBS.CO.OSMOS/B.C./4/33.04.006/2002-2003 dated September 12, 2002
+, whereby banks  are required to identify incipient stress in the account by creating a  sub-asset category viz., SMA.
+2
+One of the important elements of DCA would be a 'stand still' agreement binding  for the period from the date of signing of DCA to the date of approval of  restructuring package as per the time frame indicated in paragraphs 3.3 and 3.4  of these Guidelines. Under this clause, both the debtor and creditor(s) shall  agree to a legally binding 'stand-still' whereby both the parties commit  themselves not to take recourse to any other legal action during the  'stand-still' period. This would be necessary to undertake the necessary debt  restructuring exercise without any outside intervention, judicial or otherwise.  However, the stand-still clause will be applicable only to any civil action  either by the borrower or any lender against the other party and will not cover  any criminal action. Further, during the stand-still period, outstanding  foreign exchange forward contracts, derivative products, etc., can be  crystallised, provided the borrower is agreeable to such crystallisation. The  borrower will additionally undertake that during the stand-still period the  documents will stand extended for the purpose of limitation and also that it  will not approach any other authority for any relief and the directors of the  borrowing company will not resign from the Board of Directors during the  stand-still period.
+3
+The constitution  of the IEC and the funding needs for payment of fees for independent experts  would be decided by Indian Banks’ Association (IBA) in consultation with RBI.
+4
+A non-cooperative borrower is broadly one who does  not provide necessary information required by a lender to assess its financial  health even after 2 reminders; or denies access to securities etc. as per terms  of sanction or does not comply with other terms of loan agreements within  stipulated period; or is hostile / indifferent / in denial mode to negotiate  with the bank on repayment issues; or plays for time by giving false impression  that some solution is on horizon; or resorts to vexatious tactics such as litigation  to thwart timely resolution of the interest of the lender/s. The borrowers will  be given 30 days’ notice to clarify their stand before their names are reported  as non-cooperative borrowers.

@@ -1,0 +1,18 @@
+(50 kb)
+Core Banking Solution (CBS) Requirements for Urban Co-operative Banks (UCBs)
+RBI/2017-18/47
+DCBR.BPD.PCB.Cir.No.03/09.18.300/2017-18
+August 16, 2017
+Chief Executive Officers
+All Primary (Urban) Co-operative Banks
+Madam / Dear Sir,
+Core Banking Solution (CBS) Requirements for Urban Co-operative Banks (UCBs)
+Please refer to our
+circular DCBR.CO.PCB.Cir.No.14/09.18.300/2015-16 dated April 13, 2016
+announcing the Scheme for providing financial assistance to urban co-operative banks for implementation of Core Banking Solution (CBS).
+2. As stated therein, a document dealing with the functional and technical requirements for Core Banking Solution in Urban Co-operative Banks has been prepared by the Institute for Development and Research in Banking Technology (IDRBT) in consultation with the Reserve Bank. The document can be accessed at the IDRBT website under the link
+http://www.idrbt.ac.in/assets/publications/Reports/CBS_Requirements_for_UCBs.pdf
+3. The document is expected to serve as a reference material for implementing and improving CBS in the banks.
+Yours faithfully,
+(Neeraj Nigam)
+Chief General Manager

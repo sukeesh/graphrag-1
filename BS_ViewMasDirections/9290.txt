@@ -1,0 +1,300 @@
+(243 kb)
+RRBs - Risk Weights for Calculation of CRAR
+RBI/2014-15/270
+RPCD.CO.RRB.BC.No.35/03.05.33/2014-15
+October 21, 2014
+All Regional Rural  Banks
+Dear Sir,
+Risk Weights for  Calculation of CRAR
+Please refer to our
+circular  RPCD.CO.RRB.No.BC.44/05.03.095/2007-08 dated December 28, 2007
+advising RRBs to compute CRAR and disclose it as ‘Notes on Accounts’ to their  Balance Sheets. Risk weights to be allotted to various items of assets were  enclosed as
+Annex I
+to the above mentioned circular.
+2. In the light of  the
+circular dated November 26, 2013
+on prescription of minimum CRAR, the risk weights on various assets have  since been reviewed and revised instructions are annexed.
+3. The other contents  of our circular dated December 28, 2007 remain unchanged.
+4. Please acknowledge  receipt to our Regional Offices concerned.
+Yours faithfully
+(A. Udgata)
+Principal Chief  General Manager
+Encls: as above
+Annex
+Prudential Norms - Risk Weights for Computation  of CRAR
+Domestic  Operations
+A. Funded Risk Assets
+Items of Assets
+Risk Weights
+I
+Balances
+1
+Cash    & balances with RBI
+0
+2
+Balances    in current account with other banks
+20
+3
+Claims    on banks
+20
+II
+Investments
+1
+Investments    in Government Securities
+2.5
+2
+Investments    in other approved securities guaranteed by Central Government / State    Government
+2.5
+3
+Investments    in other securities where payment of interest and repayment of principal are    guaranteed by Central Govt. (this will include investment in Indira / Kisan    Vikas Patra (IVP / KVP) and investments in bonds and debentures where payment of interest and repayment of    principal is guaranteed by Central Government)
+2.5
+4
+Investments    in other securities where payment of interest and repayment of principal are    guaranteed by State Governments.
+Note:    Investment in securities where payment of interest or repayment of principal    is guaranteed by State Government and which has become a non-performing    investment, will attract 102.5 percentage risk weight.
+2.5
+5
+Investment    in other approved securities where payment of interest and repayment of    principal is
+not
+guaranteed by Central / State Government.
+22.5
+6
+Investments    in Government guaranteed securities of government undertakings which
+do    not
+form part of the approved market borrowing program.
+22.5
+7
+Claims    on commercial banks
+22.5
+8
+Investments    in securities which are guaranteed by banks as to payment of interest and    repayment of principal.
+22.5
+9
+Investments    in bonds issued by Public Financial Institutions (PFIs) for their Tier-II    Capital
+102.5
+10
+All    other investments including investments in securities by Public Financial    Institutions
+Note :
+Intangible    assets and losses deducted from Tier I capital should be assigned zero weight
+102.5
+11
+Direct    investment in equity shares, convertible bonds, debentures and units of    equity oriented mutual funds including those exempted from Capital Market    Exposure
+127.5
+III
+Loans and advances    including bills purchased and discounted and other credit facilities
+1
+Loans    and advances guaranteed by Government of India.
+0
+2
+Loans    guaranteed by State Governments.
+0
+3
+State    Government guaranteed loan which has become a non performing asset.
+100
+4
+Loans    granted to Public Sector Undertakings (PSUs) of Government of India.
+100
+5
+Loans    granted to Public Sector Undertakings (PSUs) of State Governments.
+100
+6
+Others    including PFIs
+100
+7 (i)
+For    the purpose of credit exposure, bills purchased / discounted / negotiated    under LC (where payment to the beneficiary is not under reserve) is treated    as an exposure on the LC issuing bank and assigned risk weight as is normally    applicable to inter-bank exposures.
+20
+(ii)
+Bills    negotiated under LCs under reserve’, bills purchased / discounted /    negotiated without LCs, will be reckoned as exposure on the borrower    constituent. Accordingly, the exposure will attract a risk weight appropriate    to the borrower.
+(i) Government
+0
+(ii) Banks
+20
+(iii) Others
+100
+8
+Micro    and Small Enterprises (MSE) Advances Guaranteed by Credit Guarantee Fund    Trust for Micro and Small Enterprises (CGTMSE) up to the guaranteed portion
+Note:    Banks may assign zero risk weight for the guaranteed portion. The balance    outstanding in excess of the guaranteed portion would attract a risk-weight    as appropriate to the counter-party. Two illustrative examples are given in    Annex 1.1
+0
+9 (a)
+Housing    Loan to individuals
+Category    of Loan
+LTV    Ratio (%)
+(a)    Up to Rs 20 Lakh
+90
+50
+(b)    Above Rs 20 lakh and up to Rs 75 lakh
+80
+50
+(c)    Above Rs 75 lakh
+75
+75
+(b)
+Housing    loans guaranteed by Credit Risk Guarantee Fund Trust for Low Income Housing    (CRGFTLIH) up to the guaranteed portion
+Note:    The bank may assign zero risk weight for the guaranteed portion. The balance    outstanding in excess of the guaranteed portion would attract a risk-weight    as appropriate to the counter- party.
+0
+10
+Consumer    credit including personal loan
+125
+11
+Loans    up to Rs. 1 lakh against gold and silver ornaments
+Note:    In case the loan amount is more than Rs. 1 lakh, entire loan amount has to be    risk weighted for the purpose for which the loan has been sanctioned.
+50
+12
+Education    loans.
+100
+13
+Loans    extended against primary / collateral security of shares / debentures
+125
+14
+Advances    covered by DICGC / ECGC
+Note: The risk weight of 50% should be limited to the    amount guaranteed and not the entire outstanding balance in the accounts. In    other words, the outstanding in excess of the amount guaranteed, will carry    100% risk weight.
+50
+15
+Advances    for term deposits, life policies, NSCs, IVPs and KVPs where adequate margin    is available
+0
+16
+Loans    and Advances granted by RRBs to their staff
+20
+17
+Takeout Finance
+(i)    Unconditional takeover (in the books of lending institution)
+(a) Where full credit risk is assumed by the taking over institution
+20
+(b) Where only partial credit risk is assumed by 
+          taking over institution
+(i) The amount to    be taken over
+20
+(ii) The amount not    to be taken over
+100
+(ii) Conditional takeover (in the books of lending and    taking over institution)
+100
+Notes : While    calculating the aggregate of funded and non-funded exposure of a borrower for    the purpose of assignment of risk weight, banks may 'net-off' against the    total outstanding exposure of the borrower –
+(a) advances collateralized by cash margins or deposits,
+(b)    credit balances in current or other accounts of the borrower which are not    earmarked for specific purposes and free from any lien,
+(c)    in respect of any assets where provisions for depreciation or for bad debts    have been made,
+(d)    claims received from DICGC / ECGC and kept in a separate a/c pending    adjustment in case these are not adjusted against the dues outstanding in the    respective a/cs,
+(e)    Subsidies received against various schemes and kept in a separate account.
+IV
+Other Assets
+1
+Premises,    furniture and fixtures
+100
+2
+Interest    due on Government securities
+0
+3
+Accrued    interest on CRR balances maintained with RBI -@
+net of claims of    Government / RBI on banks on account of such transactions
+0
+4
+Income    tax deducted at source(net of provision)
+0
+5
+Advance    tax paid (net of provision)
+0
+5
+All    other assets
+100
+V
+Market    Risk on Open Position
+1
+Market    risk on foreign exchange open position (Applicable to Authorised Dealers    only)
+100
+2
+Market    risk on open gold position
+100
+B.  Off-Balance Sheet Items
+The credit risk exposure attached to off-Balance  Sheet items has to be first calculated by multiplying the face value of each of  the off-Balance Sheet items by ‘credit conversion factor’ as indicated in the  table below. This will then have to be again multiplied by the weights  attributable to the relevant counter-party as specified above.
+Sl.No.
+Instruments
+Credit Conversion    Factor (%)
+1
+Direct credit    substitutes e.g. general guarantees of indebtedness (including stand L/Cs    serving as financial guarantees for loans and securities) and acceptances    (including endorsements with the character of acceptance)
+100
+2
+Certain    transaction-related contingent items (e.g. performance bonds, bid bonds,    warranties and standby L/Cs related to particular transactions)
+50
+3
+Short-term    self-liquidating trade-related contingencies (such as documentary credits    collateralized by the underlying shipments)
+20
+4
+Sale and repurchase agreement and asset sales with    recourse, where the credit risk remains with the bank.
+100
+5
+Forward asset    purchase, forward deposit and partly paid shares and securities, which    represent commitments with certain draw down
+100
+6
+Note issuance facilities and revolving underwriting    facilities
+50
+7
+Other commitments (e.g., formal standby facilities    and credit lines) with an original maturity of over one year.
+50
+8
+Similar commitments with an original maturity up to    one year, or which can be unconditionally cancelled at any time.
+0
+9
+(i)
+Guarantees    issued by banks against the counter guarantees of other banks
+20
+(ii)
+Rediscounting    of documentary bills accepted by banks. Bills discounted by banks which have    been accepted by another bank will be treated as a funded claim on a bank.
+20
+Note: In these cases, banks should    be fully satisfied that the risk
+exposure is, in fact, on the other    bank.
+10
+Aggregate outstanding foreign exchange contracts of    original maturity –
+(a) Less than one year
+2
+(b) For each additional year or part thereof
+3
+Note :
+At present, RRB may not be undertaking most of the    off balance sheet transactions. However, keeping in view their potential for    expansion, risk-weights are indicated against various off balance sheet    items, which, perhaps banks may undertake in future.
+Annex  1.1
+MSE Advances Guaranteed by Credit Guarantee    Fund Trust for Micro and Small Enterprises (CGTMSE)  -
+Risk weights and Provisioning norms (paragraph  (A)(III)(8))
+Risk -Weight
+Example I
+CGTSI    Cover: 75% of the amount outstanding or 75 % of the unsecured amount or Rs.    18.75 lakh, which ever is less
+Realisable value of Security
+Rs. 1.50 lakh
+(a)
+Balance outstanding
+Rs. 10.00 lakh
+(b)
+Realisable value of security
+Rs. 1.50 lakh
+(c)
+Unsecured amount (a-b)
+Rs. 8.50 lakhs
+(d)
+Guaranteed portion (75% of ( c )
+Rs. 6.38 lakhs
+(e)
+Uncovered portion (Rs. 8.50 lakh-6.38 lakh)
+Rs. 2.12 lakh
+Risk-weight on (b) and (e) -
+Linked to the counter party
+Risk-weight on (d) -
+Zero
+Example II
+CGTSI    Cover : 75% of the amount outstanding or 75 % of the unsecured amount or Rs.    18.75 lakh, which ever is less
+Realisable value of Security
+Rs. 10.00 lakh
+a)
+Balance outstanding
+Rs. 40.00 lakh
+b)
+Realisable value of security
+Rs. 10.00 lakh
+c)
+Unsecured amount (a-b)
+Rs. 30.00 lakhs
+d)
+Guaranteed portion (75% of ( c ) )
+Rs. 18.75 lakhs
+e)
+Uncovered portion (Rs. 30 lakh-18.75 lakh)
+Rs. 11.25 lakh
+Risk-weight on (b) and (e) -
+Linked to the counter party
+Risk-weight on (d) -
+Zero
